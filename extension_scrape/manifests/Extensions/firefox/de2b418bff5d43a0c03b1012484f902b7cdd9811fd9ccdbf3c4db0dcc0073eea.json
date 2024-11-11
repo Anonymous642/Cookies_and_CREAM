@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "fireproxy", "version": "0.31", "description": "Turn proxy on and off with a click", "icons": {"48": "icons/on_48.png", "96": "icons/on_96.png"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icons/on_32.png", "default_title": "Switch proxy"}, "permissions": ["proxy", "storage"]}

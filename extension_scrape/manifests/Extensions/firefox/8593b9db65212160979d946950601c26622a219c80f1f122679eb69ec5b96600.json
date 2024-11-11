@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.0", "name": "Leeds", "action": {"default_popup": "prac.html", "default_icon": "icon.jpg"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{0f69dc9b-a0bb-4f9e-84e8-87d887901bb1}"}}}

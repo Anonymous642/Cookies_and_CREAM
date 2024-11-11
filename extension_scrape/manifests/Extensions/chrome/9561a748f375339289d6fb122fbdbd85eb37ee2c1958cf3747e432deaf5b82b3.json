@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Particles Newtab", "description": "Beautify your Chrome new tab page!", "version": "1.0.0", "manifest_version": 3, "icons": {"16": "logo-16.png", "32": "logo-32.png", "48": "logo-48.png", "128": "logo-128.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}}

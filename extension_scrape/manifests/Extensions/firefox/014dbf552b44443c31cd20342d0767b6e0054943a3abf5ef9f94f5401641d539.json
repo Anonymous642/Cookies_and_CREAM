@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.0.2", "name": "Gotongroyong.com Tab", "description": "Charity with your browser tab.", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"36": "icons/36.png", "48": "icons/48.png", "192": "icons/192.png"}, "background": {"scripts": ["script.js"], "persistent": false}}

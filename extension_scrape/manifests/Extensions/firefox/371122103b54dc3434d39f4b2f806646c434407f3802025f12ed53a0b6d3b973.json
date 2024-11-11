@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "EP-Fix", "version": "1.1", "author": "darccyy", "description": "Fixes annoying problems with Education Perfect", "content_scripts": [{"matches": ["https://www.educationperfect.com/*"], "js": ["content.js"]}], "icons": {"48": "icon.png", "96": "icon.png"}}

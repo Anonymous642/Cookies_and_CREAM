@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "background": {"persistent": false, "scripts": ["background.js"]}, "description": "Quickly highlight links in a web page", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "manifest_version": 2, "name": "Highlight Links", "permissions": ["activeTab", "contextMenus"], "version": "1.0.0"}

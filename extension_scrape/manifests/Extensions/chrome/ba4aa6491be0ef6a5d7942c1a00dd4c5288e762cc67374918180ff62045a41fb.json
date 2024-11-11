@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Appjoy! Astrology", "version": "1.0.7", "manifest_version": 3, "description": "Appjoy! Astrology", "chrome_url_overrides": {"newtab": "popup.html"}, "icons": {"128": "icon.png"}, "permissions": ["storage"], "options_page": "popup.html"}

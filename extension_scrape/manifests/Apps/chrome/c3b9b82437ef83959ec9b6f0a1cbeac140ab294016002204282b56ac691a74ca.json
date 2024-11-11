@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Popcorn Hunter", "version": "12", "icons": {"48": "48.png"}, "permissions": ["unlimitedstorage", "tabs", "bookmarks", "fullscreen", "system.memory", "system.storage", "fileSystem"], "app": {"background": {"scripts": ["background.js"], "persistent": false}}, "offline_enabled": true}

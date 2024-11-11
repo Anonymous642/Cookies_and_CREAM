@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Okey", "description": "FlashOkey", "version": "0.0.0.1", "manifest_version": 2, "icons": {"72": "icon_72.png", "96": "icon_96.png", "128": "icon_128.png"}, "app": {"urls": ["http://flashokey.com/okey-oyna.html"], "launch": {"web_url": "http://flashokey.com/okey-oyna.html"}}}

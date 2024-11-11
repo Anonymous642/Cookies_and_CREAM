@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "xk-UI", "version": "1", "description": "dark mode for xkcd and hacker news", "content_scripts": [{"matches": ["https://xkcd.com/*"], "css": ["xkcd.css"]}, {"matches": ["https://news.ycombinator.com/*"], "css": ["hackernews.css"]}], "icons": {"128": "images/icon128.png"}}

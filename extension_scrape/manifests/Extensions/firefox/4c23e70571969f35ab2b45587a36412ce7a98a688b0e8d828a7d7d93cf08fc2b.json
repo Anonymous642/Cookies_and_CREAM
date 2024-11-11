@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Emoji", "version": "0.1.0", "description": "Show Emoji in current Browser Env", "icons": {"48": "48.png", "72": "72.png"}, "browser_action": {"default_icon": "48.png", "default_title": "my title str", "default_popup": "index.html"}}

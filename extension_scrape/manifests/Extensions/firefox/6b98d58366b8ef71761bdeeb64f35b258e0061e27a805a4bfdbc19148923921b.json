@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No Trending Tab on YouTube", "version": "1.0", "description": "Removes the \"Trending\" tab from YouTube.", "author": "Alcarkse", "icons": {"48": "icons/NYTT_48.png", "96": "icons/NYTT_96.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["removeTrending.js"]}]}

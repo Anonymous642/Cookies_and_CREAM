@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Better Jira Sprint Board", "version": "0.7.0", "description": "Adds point totals and colored labels to the Jira sprint board", "content_scripts": [{"css": ["styles.css"], "js": ["main.js"], "matches": ["https://*.atlassian.net/jira/software/projects/*"]}]}

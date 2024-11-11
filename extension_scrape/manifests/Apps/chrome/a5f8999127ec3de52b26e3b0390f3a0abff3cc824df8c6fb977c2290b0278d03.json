@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Science Chutes", "description": "A science game based on Chutes and Ladders", "version": "0.1", "manifest_version": 2, "app": {"background": {"scripts": ["Scripts/background.js"], "persistant": false}}, "icons": {"128": "Art/chuteslogo.png"}}

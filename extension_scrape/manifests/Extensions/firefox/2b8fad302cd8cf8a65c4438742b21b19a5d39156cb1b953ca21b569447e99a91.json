@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Journal Enhancement Suite", "version": "1.1", "description": "Hides the comments section on thejournal.ie for a better life", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.thejournal.ie/*"], "js": ["journales.js"]}]}

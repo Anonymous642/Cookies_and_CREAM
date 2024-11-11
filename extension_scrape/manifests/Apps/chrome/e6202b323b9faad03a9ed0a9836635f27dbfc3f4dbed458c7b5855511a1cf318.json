@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Horrorcore Magazine", "version": "0.1", "manifest_version": 2, "description": "Horrorcore Magazine Launcher", "app": {"urls": ["http://www.HorrorcoreMagazine.com/"], "launch": {"web_url": "http://www.HorrorcoreMagazine.com/"}}, "icons": {"128": "Skull.png"}}

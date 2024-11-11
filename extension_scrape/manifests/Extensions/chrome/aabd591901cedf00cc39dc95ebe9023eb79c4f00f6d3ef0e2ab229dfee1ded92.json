@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "NavKeys", "version": "0.0.1", "description": "Navigate pages using arrow keys", "content_scripts": [{"matches": ["<all_urls>"], "css": ["./style.css"], "js": ["./navkeys.js"]}], "icons": {"48": "./icon-128.png", "128": "./icon-128.png"}}

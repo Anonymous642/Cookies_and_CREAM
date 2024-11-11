@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FB scroll lock", "version": "1.2", "description": "Limits the scroll of facebook page", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["scroll-lock.js"]}]}

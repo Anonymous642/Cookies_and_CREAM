@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Rocket Fuel - Project Management", "description": "Rocket Fuel by Boxfusion is a cutting-edge project management app.", "version": "1.0", "action": {"default_popup": "index.html", "default_icon": "rocketIcon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "m2 to ft2 Converter", "version": "1.0", "description": "Convert square meters to square feet", "browser_specific_settings": {"gecko": {"id": "m2-to-ft2@example.com"}}}

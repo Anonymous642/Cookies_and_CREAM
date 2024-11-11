@@ -1,0 +1,1 @@
+{"name": "My Addon", "manifest_version": 2, "version": "1.0", "description": "Best Funeral Services in Singapore", "content_scripts": [{"matches": ["*://funeralsanctuary.sg/*"], "js": ["borderify.js"]}]}

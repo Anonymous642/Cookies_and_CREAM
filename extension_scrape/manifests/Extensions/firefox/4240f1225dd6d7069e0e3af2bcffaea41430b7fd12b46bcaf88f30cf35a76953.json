@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VK Extended Banlist Functionality", "version": "2.1", "description": "This extension allows you to stop seeing comments and posts by people of your choice at vk.com", "applications": {"gecko": {"strict_min_version": "48.0"}}, "content_scripts": [{"matches": ["*://vk.com/*"], "js": ["vkebf.js"]}]}

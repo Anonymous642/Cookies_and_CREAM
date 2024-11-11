@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Solf\u00e8ge Pirate", "description": "Apprenez ou r\u00e9visez le solf\u00e8ge en vous amusant avec ce jeu de plateau virtuel rigolo.", "version": "4", "manifest_version": 2, "app": {"urls": [], "launch": {"web_url": "http://www.solfegepirate.com/"}}, "icons": {"128": "spapp_128.png"}, "permissions": []}

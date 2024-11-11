@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Top Movies Tab New Tab", "version": "1.0", "description": "Top Movies Tab New Tab is a free tool that makes the process of searching all your favorite movies easier and faster.", "chrome_url_overrides": {"newtab": "newTab.html"}, "icons": {"128": "images/favicon.png"}, "manifest_version": 3}

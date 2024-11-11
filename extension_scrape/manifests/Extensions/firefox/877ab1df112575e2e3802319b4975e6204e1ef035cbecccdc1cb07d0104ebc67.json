@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "URL Saver", "version": "1.0", "description": "Save open URLs that match certain criteria to file", "icons": {"256": "icons/u.png"}, "permissions": ["tabs"], "browser_action": {"default_icon": "icons/u.png", "default_title": "Save URLs", "default_popup": "popup/save_urls.html"}, "background": {"scripts": ["background.js"]}}

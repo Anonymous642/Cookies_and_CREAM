@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Mindfulness Quotes", "description": "Mindfulness quotes", "manifest_version": 2, "version": "16", "browser_action": {"default_icon": "icon.png"}, "chrome_url_overrides": {"newtab": "popup.html"}}

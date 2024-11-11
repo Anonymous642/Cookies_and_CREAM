@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tawasol Extension", "version": "1.32", "author": "Radhouane AYARI", "manifest_version": 3, "icons": {"48": "logo.png", "128": "logo.png", "512": "logo.png", "1024": "logo.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["jquery-3.6.0.min.js", "content.js"]}]}

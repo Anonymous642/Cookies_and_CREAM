@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Hiragana Katakana Cookies", "description": "Learn Japanese hiragana and katakana... with cookies!", "version": "0.112", "manifest_version": 2, "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "app": {"launch": {"local_path": "index.html"}}, "offline_enabled": true}

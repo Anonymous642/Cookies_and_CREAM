@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "IKS E810T app", "description": "This app", "version": "1.1", "permissions": ["serial", "http://v-ticket.dev/*", "http://ticket.circus.kiev.ua/*"], "minimum_chrome_version": "35", "icons": {"48": "icon/48.png", "128": "icon/128.png"}, "app": {"background": {"scripts": ["launch.js"]}}}

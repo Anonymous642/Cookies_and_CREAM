@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Chicago Locksmith", "description": "Omega Locksmith an Automotive Locksmith", "version": "0.0.1", "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.omegalocksmith.com/"], "launch": {"web_url": "http://www.omegalocksmith.com/"}}}

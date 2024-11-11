@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FA2ePub", "version": "1.0", "description": "Converts stories, or the page's description posted on FA into a ePub.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://www.furaffinity.net/view/*", "*://www.furaffinity.net/gallery/*/folder/*/*"], "js": ["jquery-3.1.0.js", "jszip.js", "FileSaver.js", "ePub-FA.js"]}]}

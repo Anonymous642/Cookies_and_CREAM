@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FuckBenShapiro", "version": "1.0", "description": "Removes ben from your YouTube", "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["script.js"]}]}

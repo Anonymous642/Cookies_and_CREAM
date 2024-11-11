@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Color picker", "description": "A color picker extension", "version": "1.0", "manifest_version": 3, "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}, "icons": {"48": "/images/color_48.png", "96": "/images/color_96.png"}}

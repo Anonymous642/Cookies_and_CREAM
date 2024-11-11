@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tiger", "version": "1.2", "description": "Tiger.ch als Startseite einrichten", "icons": {"32": "icon32.png", "96": "icon96.png", "128": "icon128.png"}, "chrome_settings_overrides": {"homepage": "https://tiger.ch"}}

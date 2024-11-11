@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Champion Mastery Counter", "version": "1.1.0", "description": "Adds a column to easily count masteries", "icons": {"48": "icons/logo-icon.png"}, "content_scripts": [{"matches": ["*://championmastery.gg/player?*"], "js": ["masterycounter.js"]}]}

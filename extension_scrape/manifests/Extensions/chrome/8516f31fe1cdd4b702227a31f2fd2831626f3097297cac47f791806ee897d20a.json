@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "KBBI Extensions", "description": "Search for any Thesaurus", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "main.html", "default_icon": "/utils/logo-ext.png"}}

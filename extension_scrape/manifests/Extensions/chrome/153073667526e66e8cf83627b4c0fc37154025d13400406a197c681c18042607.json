@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "version": "1.0.0", "name": "Sanal Katip", "description": "Bu eklenti sayesinde Sanal Katip i\u00e7eriklerine tek t\u0131k ile eri\u015febilirsiniz.", "browser_action": {"default_popup": "index.html"}, "permissions": ["*://*.sanalkatip.net/*"], "icons": {"128": "icon-128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Friday Weekend", "description": "Toss A Coin!", "version": "0.0.0.2", "app": {"urls": ["http://fridayweekend.com/"], "launch": {"web_url": "http://fridayweekend.com/"}}, "icons": {"128": "fridayweekend.png"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MalgaTV", "description": "Vous informe si le live de Malganyr est allum\u00e9.", "version": "1.11", "permissions": ["http://*/*", "https://*/*", "tabs"], "browser_action": {}, "icons": {"64": "img/icon_malga_64.png"}, "background": {"scripts": ["background.js"]}}

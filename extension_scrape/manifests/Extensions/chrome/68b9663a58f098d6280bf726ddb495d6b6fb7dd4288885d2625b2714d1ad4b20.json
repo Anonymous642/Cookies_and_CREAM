@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Christmas Countdown Timer!", "description": "Countdown to the happiest time of the year!", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "popup.html", "default_icon": {"16": "b.png", "32": "b.png", "48": "b.png", "128": "b.png"}}}

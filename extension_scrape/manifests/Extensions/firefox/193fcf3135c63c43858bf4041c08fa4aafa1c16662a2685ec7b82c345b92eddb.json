@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "2ch-captcha-solver", "version": "1.0.0", "description": "Solve captcha automatically", "content_scripts": [{"matches": ["*://*.2ch.hk/*"], "js": ["src/index.js"]}], "icons": {"48": "icons/border-48.png", "96": "icons/border-96.png"}, "browser_specific_settings": {"gecko": {"id": "{f3291da1-09d2-453d-a645-644467acfd6c}"}}}

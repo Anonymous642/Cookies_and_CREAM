@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "UI ColorPicker", "version": "0.1", "manifest_version": 3, "browser_action": {"default_popup": "popup.html", "default_icon": "logo.png"}, "icons": {"120": "logo.png"}}

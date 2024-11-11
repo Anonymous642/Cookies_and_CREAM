@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Whoser's Queue", "version": "1.0", "description": "Tells you if you're in winner's or loser's queue on op.gg multisearch.", "icons": {"48": "icons/league.png"}, "content_scripts": [{"matches": ["*://*.op.gg/multi/*"], "js": ["whosers-queue.js"]}]}

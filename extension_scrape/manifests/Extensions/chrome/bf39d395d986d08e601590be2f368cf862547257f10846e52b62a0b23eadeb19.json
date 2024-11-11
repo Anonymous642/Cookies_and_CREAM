@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Movie Search Extension", "description": "Searches for where movies are being streamed from", "version": "1.0.0", "icons": {"128": "moviefinder.png"}, "action": {"default_icon": "moviefinder.png", "default_popup": "popup.html"}, "permissions": ["activeTab"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "La rep Bypass PayWall", "version": "1.0", "permissions": ["activeTab"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "content_scripts": [{"matches": ["https://www.larep.fr/*"], "js": ["popup.js"]}]}

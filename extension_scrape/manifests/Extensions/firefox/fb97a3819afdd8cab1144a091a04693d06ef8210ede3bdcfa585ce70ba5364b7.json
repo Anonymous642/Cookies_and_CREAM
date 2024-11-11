@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Robots.txt Checker", "version": "1.0", "description": "Check Robots.txt on websites", "permissions": ["http://*/*", "https://*/*"], "icons": {"48": "icon.jpg"}, "browser_action": {"default_icon": "icon.jpg", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{0e8f5034-ed3b-4bc0-9022-58f7f342bb68}"}}}

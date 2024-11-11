@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Intradible", "version": "1.1", "description": "Makes your trace results super cool.", "icons": {"48": "icons/icon48.png"}, "content_scripts": [{"matches": ["*://intra.forge.epita.fr/*"], "js": ["trace.js"]}], "browser_specific_settings": {"gecko": {"id": "{5a96b860-032e-45ef-84c5-c68edd2a0a1f}"}}}

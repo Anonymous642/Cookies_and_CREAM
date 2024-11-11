@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bigger Theater Mode.", "version": "1.0.6", "description": "Bigger Theater Mode.", "icons": {"128": "BT_icon128.png"}, "browser_specific_settings": {"gecko": {"id": "{69481736-bb81-46cb-97f9-34a871462cc1}"}}, "content_scripts": [{"matches": ["https://*.youtube.com/*"], "css": ["byttm.css"], "run_at": "document_end"}]}

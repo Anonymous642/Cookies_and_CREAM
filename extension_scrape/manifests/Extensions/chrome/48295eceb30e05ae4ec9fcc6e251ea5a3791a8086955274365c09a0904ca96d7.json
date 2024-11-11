@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mero Share - Portfolio Enhancer", "version": "1.0.2", "description": "Mero Share - Portfolio Enhancer", "content_scripts": [{"matches": ["https://meroshare.cdsc.com.np/*"], "js": ["content.js"]}]}

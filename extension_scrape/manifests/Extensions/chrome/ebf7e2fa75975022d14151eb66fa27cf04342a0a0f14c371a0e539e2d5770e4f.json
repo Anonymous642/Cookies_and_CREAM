@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Toggl Layout FIX", "short_name": "Toggl FIX", "version": "0.1.4", "manifest_version": 2, "_comment": "do not change manifest_version!", "description": "Modifies CSS of Toggl.com webiste", "content_scripts": [{"css": ["styles.css"], "matches": ["https://toggl.com/*"]}]}

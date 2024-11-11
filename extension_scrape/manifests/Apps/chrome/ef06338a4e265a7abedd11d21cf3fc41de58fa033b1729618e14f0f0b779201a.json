@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Kattaroo", "description": "Kattaroo Blog", "version": "1", "manifest_version": 2, "app": {"urls": ["http://kattaroo.blogspot.com/"], "launch": {"web_url": "http://kattaroo.blogspot.com/"}}, "icons": {"128": "kattaroo_logo.png"}, "permissions": ["unlimitedStorage", "notifications"]}

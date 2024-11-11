@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "New tab redirect", "author": "misaka00251", "version": "1.0", "icons": {"128": "icon.png"}, "description": "Say no to online ntp!", "manifest_version": 2, "chrome_url_overrides": {"newtab": "redirect.html"}}

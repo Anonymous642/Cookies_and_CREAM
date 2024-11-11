@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "tab list", "description": "Show a list of open tabs for easy backup", "version": "1.7", "author": "dev@conceptualspace.net", "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icon.png", "default_title": "List Tabs"}, "permissions": ["tabs"]}

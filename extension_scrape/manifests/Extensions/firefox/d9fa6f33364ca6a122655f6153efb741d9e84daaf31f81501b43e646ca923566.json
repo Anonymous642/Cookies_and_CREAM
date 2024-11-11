@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "octi", "version": "1.0", "description": "entertainment with your github timeline.", "icons": {"48": "icons/octi.png"}, "permissions": ["menus", "activeTab"], "background": {"scripts": ["test.js"]}, "applications": {"gecko": {"id": "arashmidos@octi.com"}}}

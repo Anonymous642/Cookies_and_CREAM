@@ -1,0 +1,1 @@
+{"name": "Timerify", "version": "1.0.1", "description": "Mind your online time", "manifest_version": 2, "icons": {"48": "icons/timerify-48.png"}, "background": {"scripts": ["timerify.js"]}, "page_action": {"default_icon": "icons/timerify.svg", "browser_style": true}, "permissions": ["activeTab", "tabs", "theme"]}

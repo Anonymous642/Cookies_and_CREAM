@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Jira Issue Copy Helper", "description": "Extension to copy your Jira issue title and URL.", "version": "1.1.1", "manifest_version": 3, "action": {"default_popup": "popup.html", "default_icon": "jira_logo_24.png"}, "permissions": ["tabs", "scripting", "activeTab", "clipboardWrite"]}

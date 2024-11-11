@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Remove RA Navbar", "version": "1.2", "manifest_version": 3, "description": "Remove navbars from the RA gitbook", "content_scripts": [{"matches": ["*://*.rocketacademy.co/*"], "js": ["content.js"]}]}

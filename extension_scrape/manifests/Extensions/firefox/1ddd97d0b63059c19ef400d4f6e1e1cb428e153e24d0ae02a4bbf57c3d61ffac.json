@@ -1,0 +1,1 @@
+{"name": "Basecamp Bookmark Editor", "description": "Mass editor for bookmarks.", "version": "0.0.4", "permissions": ["bookmarks"], "browser_action": {"default_title": "Basecamp Bookmark Editor", "default_icon": "images/basecamp.png", "default_popup": "options/mybookmarks.html"}, "manifest_version": 2}

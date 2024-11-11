@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hide Twitter Sidebars", "version": "1.5", "description": "Hides Twitter sidebars.", "icons": {"48": "assets/twitter48.png", "128": "assets/twitter128.png", "512": "assets/twitter512.png"}, "content_scripts": [{"matches": ["*://twitter.com/*"], "js": ["hideSidebar.js"], "run_at": "document_start"}]}

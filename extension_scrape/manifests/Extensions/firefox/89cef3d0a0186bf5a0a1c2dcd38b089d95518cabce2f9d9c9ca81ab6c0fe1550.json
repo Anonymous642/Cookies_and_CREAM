@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "kube-mode", "version": "0.1", "description": "Get relevant search results, when working with kubernetes", "permissions": ["<all_urls>", "webRequest", "webRequestBlocking"], "browser_action": {"default_icon": {"32": "icons/off.png"}}, "icons": {"48": "icons/kubecat48.png", "96": "icons/kubecat96.png"}, "background": {"scripts": ["kube-mode.js"]}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VaultUF", "version": "1.5", "description": "Make hashicorp vault screens more user friendly", "content_scripts": [{"matches": ["*://*.vault.fed.tmo/*"], "js": ["vaultMainCS.js"]}], "browser_specific_settings": {"gecko": {"id": "vaultuf@whatever.org", "strict_min_version": "42.0"}}}

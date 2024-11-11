@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "tapd task fixer", "description": "Build an Extension!", "version": "1.1", "manifest_version": 3, "background": {}, "content_scripts": [{"js": ["jquery.js", "tapd_fixer.js"], "matches": ["https://tapd.woa.com/*"], "all_frames": true, "run_at": "document_end"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Procrastination Killer", "version": "1.0", "description": "Removes recommended videos from YouTube. (Literally just runs document.getElementById(\"secondary\").remove(); on any link with youtube.com/watch in it)", "content_scripts": [{"matches": ["*://*.youtube.com/watch*"], "js": ["pkill.js"]}]}

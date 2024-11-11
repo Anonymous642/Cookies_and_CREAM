@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_appName__", "description": "__MSG_appDesc__", "manifest_version": 2, "default_locale": "en", "version": "0.0.0.1", "icons": {"128": "128.png"}, "app": {"launch": {"container": "tab", "web_url": "http://blog.aggregatedIntelligence.com/"}, "urls": ["http://blog.aggregatedIntelligence.com/"]}}

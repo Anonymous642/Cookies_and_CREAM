@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WHOVOX", "description": "Voice listening game with 1,000s of famous voices!", "version": "0.0.0.4", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.whovox.com/"], "launch": {"web_url": "http://www.whovox.com/playSample.php"}}}

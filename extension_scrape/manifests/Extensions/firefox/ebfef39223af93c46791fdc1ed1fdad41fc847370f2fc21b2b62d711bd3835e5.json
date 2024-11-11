@@ -1,0 +1,1 @@
+{"applications": {"gecko": {"id": "vh3gsdtdc5f@yahoo.co.jp"}}, "name": "contentblocks", "manifest_version": 2, "version": "0.1", "description": "Speed up the loading of pages by blocking content you need not.", "background": {"scripts": ["background.js"]}, "permissions": ["webRequest", "webRequestBlocking"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gimme screen space", "short_name": "gcs", "author": "mrman", "version": "0.0", "description": "Remove outrageously large top and bottom bars on medium sites.", "icons": {"48": "icons/full-size.svg", "96": "icons/full-size.svg"}, "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["main.js"], "css": ["main.css"]}]}

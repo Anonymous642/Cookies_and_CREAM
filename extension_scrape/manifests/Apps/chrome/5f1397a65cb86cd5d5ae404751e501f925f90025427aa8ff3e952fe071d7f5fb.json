@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tarantool", "description": "This extension for musics", "version": "0.1", "manifest_version": 2, "app": {"background": {"scripts": ["js/main.js"]}}, "icons": {"16": "css/img/icon.png", "128": "css/img/icon.png"}, "permissions": ["http://tarantool.tk/"]}

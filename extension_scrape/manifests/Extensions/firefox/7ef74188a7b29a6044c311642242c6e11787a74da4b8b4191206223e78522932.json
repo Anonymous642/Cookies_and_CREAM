@@ -1,0 +1,1 @@
+{"name": "Matrix Calculator2", "version": "1.0.0", "description": "calculate 3x3 matrix", "manifest_version": 3, "author": "gp-5", "action": {"default_popup": "index.html", "default_title": "Matrix calculator"}, "browser_specific_settings": {"gecko": {"id": "camyblueman2021@gmail.com"}}}

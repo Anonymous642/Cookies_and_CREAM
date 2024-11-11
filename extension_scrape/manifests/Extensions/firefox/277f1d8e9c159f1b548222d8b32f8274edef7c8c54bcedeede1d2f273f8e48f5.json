@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "simple weather network", "version": "1.0", "description": "removes clutter from weather network site.", "icons": {"48": "icons/sun-48.png"}, "content_scripts": [{"matches": ["*://*.theweathernetwork.com/*"], "js": ["simple_weather_network.js"]}]}

@@ -1,0 +1,1 @@
+{"app": {"launch": {"height": 480, "container": "panel", "local_path": "index.html", "width": 640}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Ludum Dare 26 Entry", "name": "BatWorld", "permissions": ["unlimitedStorage"], "offline_enabled": true, "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "manifest_version": 2, "version": "1.0"}

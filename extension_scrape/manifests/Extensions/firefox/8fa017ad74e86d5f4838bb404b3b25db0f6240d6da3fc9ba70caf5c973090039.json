@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Titanium", "description": "Become the most productive version of yourself with the fresh and simple design of Titanium.", "version": "3.0.0.1", "icons": {"128": "icon128.png"}, "browser_specific_settings": {"gecko": {"id": "titanium@cmfdev.one", "strict_min_version": "90.0"}}, "chrome_url_overrides": {"newtab": "newtab.html"}}

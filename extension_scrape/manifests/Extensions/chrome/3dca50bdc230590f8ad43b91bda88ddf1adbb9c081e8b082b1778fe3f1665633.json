@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "FB AD Profit Rechner", "version": "1.1.1", "manifest_version": 2, "description": "UMSATZ BOOST!", "icons": {"128": "images/icon128.png"}, "browser_action": {"default_title": "", "default_icon": "images/icon16.png", "default_popup": "main.html"}}

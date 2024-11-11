@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Comic Sans Sucks", "version": "1.0", "description": "Comic sans sucks. This extension replaces it with the Roboto Google font.", "author": "Keith Caulkins", "icons": {"48": "icon.png", "128": "icon.png"}, "content_scripts": [{"matches": ["*://*/*"], "css": ["main.css"]}], "manifest_version": 2}

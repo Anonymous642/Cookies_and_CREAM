@@ -1,0 +1,1 @@
+{"description": "Sets focus on search bar once YouTube page is open", "manifest_version": 2, "name": "YouTube Search Panel AutoFocus", "version": "1.0.0", "homepage_url": "https://github.com/thicham43", "icons": {"48": "icons/focus_search.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["autofocus.js"]}]}

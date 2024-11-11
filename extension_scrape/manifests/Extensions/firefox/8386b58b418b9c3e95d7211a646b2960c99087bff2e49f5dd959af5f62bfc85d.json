@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "lunar", "version": "1.0", "description": "Adds a button to browser to show lunar", "icons": {"48": "icons/lunar-48.png"}, "permissions": ["activeTab"], "browser_action": {"browser_style": false, "default_icon": "icons/lunar-48.png", "default_title": "lunar", "default_popup": "popup/lunar.html"}}

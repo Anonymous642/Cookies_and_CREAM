@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "EUR to FKP", "version": "1.0", "description": "Convert Euro to Falkland Islands Pound", "browser_specific_settings": {"gecko": {"id": "eur-to-fkp@example.com"}}}

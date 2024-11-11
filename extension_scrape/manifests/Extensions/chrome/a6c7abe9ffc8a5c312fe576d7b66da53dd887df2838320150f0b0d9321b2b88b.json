@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Show password", "description": "Show password", "version": "1.0", "manifest_version": 3, "action": {"default_icon": "/popout/eye.png", "default_popup": "./popout/popout.html"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["./popout/content.js"]}]}

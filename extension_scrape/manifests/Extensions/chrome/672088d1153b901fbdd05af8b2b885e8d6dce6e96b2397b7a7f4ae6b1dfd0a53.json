@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "MIS", "description": "Music Indicator for Streamers", "version": "1.1", "permissions": ["http://www.youtube.com/*", "https://www.youtube.com/*", "tabs"], "browser_action": {"default_popup": "popup.html"}, "web_accessible_resources": ["js/popup.js"]}

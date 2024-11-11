@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MercadoLibre Sin Internacional", "version": "1.0", "description": "Elimina los productos con env\u00edo internacional de mercado libre", "icons": {"48": "icons/ffx.png"}, "content_scripts": [{"matches": ["*://*.mercadolibre.cl/*"], "js": ["ffx_meli_internacional.js"]}]}

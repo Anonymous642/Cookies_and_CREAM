@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "PeaMov", "description": "Partage priv\u00e9 entre ami(e)s", "version": "0.1", "permissions": ["webview", "pointerLock", "geolocation"], "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "peamov-16.png", "128": "peamov-128.png"}}

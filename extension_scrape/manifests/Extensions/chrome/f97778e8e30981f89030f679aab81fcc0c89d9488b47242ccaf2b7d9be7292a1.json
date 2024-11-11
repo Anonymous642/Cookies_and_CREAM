@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "author": "Angelo Carrabba", "name": "zoom100", "version": "1.0.0", "description": "Forces the Zoom to be set to 100%", "homepage_url": "https://github.com/acarrabbav/zoom100", "browser_action": {"default_title": "zoom100"}, "background": {"service_worker": "fixZoom.js"}}

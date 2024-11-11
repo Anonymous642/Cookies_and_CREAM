@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Required Field GLPI", "description": "You can set a field like required!", "version": "1.3", "manifest_version": 3, "background": {"service_worker": "background.js"}, "permissions": ["scripting"], "host_permissions": ["http://helpdesk.baspan.com.br/"]}

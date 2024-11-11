@@ -1,0 +1,1 @@
+{"name": "Transparent Standalone Images", "description": "Always use a transparent image background for top-level image documents.", "version": "1.1", "content_scripts": [{"run_at": "document_end", "matches": ["https://*/*", "http://*/*"], "js": ["content.js"]}], "manifest_version": 2}

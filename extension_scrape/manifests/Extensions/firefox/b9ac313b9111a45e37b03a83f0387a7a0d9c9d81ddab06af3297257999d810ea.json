@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Steam Community HiDPI", "version": "1.0", "description": "Improves the appearance of the Steam Community on HiDPI displays", "applications": {"gecko": {"id": "steamhidpi@horsedrowner.net"}}, "content_scripts": [{"matches": ["*://steamcommunity.com/*"], "js": ["steamcommunity.js"], "css": ["steamcommunity.css"]}]}

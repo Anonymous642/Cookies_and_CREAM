@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Replaycer", "description": "Have fun by replacing text for the web", "homepage_url": "https://github.com/amar-laksh/Replaycer", "version": "1.1", "icons": {"48": "icons/icon.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/icon.png", "default_title": "Replaycer", "default_popup": "popup/replace_text.html"}}

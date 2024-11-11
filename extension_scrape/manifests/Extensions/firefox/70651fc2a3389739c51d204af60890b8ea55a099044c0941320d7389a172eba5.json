@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ISS Live Tracker", "author": "Pythack", "version": "1.4.1", "description": "Track the ISS in real time", "permissions": ["storage"], "options_ui": {"page": "./settings/settings.html"}, "browser_action": {"default_icon": "icon.png", "default_title": "ISS Live Tracker", "default_popup": "./popup.html", "browser_style": true}}

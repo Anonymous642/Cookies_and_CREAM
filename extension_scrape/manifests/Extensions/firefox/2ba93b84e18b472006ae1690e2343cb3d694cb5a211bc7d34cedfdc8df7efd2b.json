@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Libreddit Redirect", "version": "1.0", "description": "Redirects requests from reddit to a libreddit instance", "background": {"scripts": ["background.js"]}, "permissions": ["webRequest", "webRequestBlocking", "*://*.reddit.com/*"], "browser_specific_settings": {"gecko": {"id": "{88d33cf5-2e27-40cb-b11b-c4b67290f6d9}"}}}

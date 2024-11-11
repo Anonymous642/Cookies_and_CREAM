@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "content_scripts": [{"js": ["content.js", "jquery-3.4.1.min.js"], "matches": ["https://my.digiseller.com/*"], "run_at": "document_start"}], "icons": {"128": "img/128.png"}, "manifest_version": 3, "name": "Digiseller Assistant", "short_name": "Digiseller", "version": "2.0.4"}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "BMI Calculator", "version": "1.0", "description": "Calculate your Body Mass Index (BMI) with ease.", "action": {"default_popup": "popup.html"}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "browser_specific_settings": {"gecko": {"id": "BMI-Calculator@unique.extension.id"}}}

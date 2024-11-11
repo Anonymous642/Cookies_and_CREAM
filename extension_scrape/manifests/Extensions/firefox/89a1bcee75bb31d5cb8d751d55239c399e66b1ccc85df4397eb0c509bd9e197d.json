@@ -1,0 +1,1 @@
+{"applications": {"gecko": {"id": "showoctocats@jasp.net"}}, "background": {"scripts": ["background.js"]}, "default_locale": "en_US", "description": "__MSG_extensionDescription__", "icons": {"64": "icons/icon.png"}, "manifest_version": 2, "name": "Showoctocats", "permissions": ["webRequest", "webRequestBlocking", "https://raw.githubusercontent.com/*"], "version": "0.1.1"}

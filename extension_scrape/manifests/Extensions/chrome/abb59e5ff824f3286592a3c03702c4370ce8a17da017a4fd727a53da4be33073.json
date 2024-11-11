@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "description": "Native messaging example add-on", "manifest_version": 2, "version": "1.0", "name": "com.syntellect.tessa", "background": {"scripts": ["background-port.js"]}, "externally_connectable": {"matches": ["https://yellowcar64.ru/*"]}, "permissions": ["nativeMessaging"]}

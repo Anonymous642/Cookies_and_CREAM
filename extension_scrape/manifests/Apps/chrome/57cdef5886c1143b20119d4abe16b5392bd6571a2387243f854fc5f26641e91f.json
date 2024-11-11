@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Freecell", "description": "Play Freecell solitaire! You can ask help from the computer", "version": "1.0", "app": {"urls": [], "launch": {"web_url": "http://freecell-app.appspot.com/"}}, "icons": {"128": "icon.png"}, "permissions": ["unlimitedStorage"]}

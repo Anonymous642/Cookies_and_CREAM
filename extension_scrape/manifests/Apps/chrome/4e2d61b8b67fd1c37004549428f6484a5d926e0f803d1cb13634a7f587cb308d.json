@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bible Memory Verse Challenge", "description": "Race against the clock to organize Bible verses.", "version": "2.1", "manifest_version": 2, "app": {"launch": {"local_path": "main.html"}}, "icons": {"16": "icon_16.png", "128": "icon_128.png"}}

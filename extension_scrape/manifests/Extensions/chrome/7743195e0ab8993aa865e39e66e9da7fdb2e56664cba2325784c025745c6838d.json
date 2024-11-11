@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Searcut - Search using Shortcuts", "description": "Search the web quickly using the Searcut New Tab", "version": "1.11", "icons": {"128": "icons/icon128.png"}, "chrome_url_overrides": {"newtab": "newtab/index.html"}, "background": {"service_worker": "js/background.js"}}

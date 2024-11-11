@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Timesheetr", "description": "Visual Time Tracking for Creative Agencies", "version": "2.16.23", "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://timesheetr.com/"], "launch": {"web_url": "https://timesheetr.com/"}}}

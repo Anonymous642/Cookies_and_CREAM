@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Baby Name Generator", "description": "Enter all yours and your partners favourite names babies names and the number of names required to get suggested name combinations.", "author": "Shane Clarke", "version": "1.0.3", "action": {"default_popup": "name_index.html"}}

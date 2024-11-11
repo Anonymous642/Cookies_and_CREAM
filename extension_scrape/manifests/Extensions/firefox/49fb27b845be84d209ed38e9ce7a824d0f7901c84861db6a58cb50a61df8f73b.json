@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "lyricopy", "version": "1.0", "description": "let users just copy the search result of lyrics", "content_scripts": [{"matches": ["*://*/*"], "include_globs": ["https://www.google.*/search*"], "css": ["style.css"]}], "browser_specific_settings": {"gecko": {"id": "{de6fd8f0-fdf7-45ab-b47d-4d3d9e1016bf}"}}}

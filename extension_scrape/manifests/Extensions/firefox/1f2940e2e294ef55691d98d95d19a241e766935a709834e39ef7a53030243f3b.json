@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GitHub Stars Dashboard", "version": "1.4", "description": "Adds your GitHub stars to the dashboard.", "applications": {"gecko": {"id": "{980a619e-d0e1-435e-ab6d-70e42d1a80f2}"}}, "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://github.com/", "*://github.com/dashboard/*"], "js": ["main.js"]}]}

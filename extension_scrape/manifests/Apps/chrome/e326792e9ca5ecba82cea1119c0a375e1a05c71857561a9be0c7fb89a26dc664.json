@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tinnitus Notch Therapy", "description": "Free Tinnitus Notch White Noise Therapy", "version": "0.1.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "headphones-16.png", "128": "headphones-128.png"}, "permissions": ["webview"]}

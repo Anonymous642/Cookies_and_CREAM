@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Click-to-Edit on Durie Tangri SharePoint", "description": "Links to MS Office files on the Durie Tangri SharePoint server open for editing in the appropriate application.", "version": "2.2", "permissions": ["*://*.durietangri.com/*", "webRequest", "webRequestBlocking"], "background": {"scripts": ["background.js"]}}

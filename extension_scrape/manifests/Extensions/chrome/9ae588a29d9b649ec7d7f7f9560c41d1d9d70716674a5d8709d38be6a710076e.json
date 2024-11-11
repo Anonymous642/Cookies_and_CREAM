@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Capccent", "version": "1.2", "browser_action": {"default_icon": "favicon.png", "default_popup": "popup.html"}, "description": "Copie dans le presse-papiers les majuscules accentu\u00e9es en fran\u00e7ais."}

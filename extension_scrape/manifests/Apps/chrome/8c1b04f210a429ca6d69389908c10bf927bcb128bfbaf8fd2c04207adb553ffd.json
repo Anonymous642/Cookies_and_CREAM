@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Pepper-Tube", "description": "Simple YouTube player using your YouTube data.", "version": "1.1", "app": {"launch": {"web_url": "http://pepper-tube.appspot.com"}}, "icons": {"128": "favicon128.png"}}

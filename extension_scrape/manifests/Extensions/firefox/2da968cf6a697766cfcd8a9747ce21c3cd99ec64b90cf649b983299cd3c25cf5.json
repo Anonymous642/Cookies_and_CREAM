@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AspireBot ver 2", "version": "2", "description": "Snipe the snipe", "icons": {"128": "logo.png"}, "content_scripts": [{"matches": ["https://www.ea.com/*/fifa/ultimate-team/web-app/*", "https://www.ea.com/fifa/ultimate-team/web-app/*"], "js": ["autobuyer.js", "autobuyermenu.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YOUTUBE-RTL", "version": "1.0.1", "description": "Re-renders YouTube pages in RTL mode for better text readability (supports only Arabic RTL characters).", "icons": {"48": "icons/rtl-48.png", "96": "icons/rtl-96.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["app.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "noMyTT", "description": "Eliminate redirects to www.mytischtennis.de", "version": "1.9", "icons": {"48": "nomytts.png", "128": "nomytt.png"}, "content_scripts": [{"matches": ["*://*.click-tt.de/*"], "js": ["content.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{297b4e7c-ad60-4247-82cd-116be0340881}"}}}

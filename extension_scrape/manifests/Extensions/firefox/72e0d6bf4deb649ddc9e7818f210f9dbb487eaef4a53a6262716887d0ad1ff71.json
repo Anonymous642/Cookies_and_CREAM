@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sputnik", "description": "OSINT web extension", "version": "1.30", "icons": {"48": "icons/logo_48.png"}, "permissions": ["clipboardWrite", "contextMenus", "menus"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{78eea43d-42ab-4410-98b9-de9d50ddb1a3}"}}}

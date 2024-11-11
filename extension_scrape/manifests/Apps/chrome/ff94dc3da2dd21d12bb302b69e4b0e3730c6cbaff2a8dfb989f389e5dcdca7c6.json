@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "GAMBLE PATH", "description": "Keep up to date with the latest bonuses in on-line Sports Betting, Casinos, Poker and Bingo", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["HTTP://WWW.GAMBLEPATH.COM/"], "launch": {"web_url": "HTTP://WWW.GAMBLEPATH.COM/"}}}

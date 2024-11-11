@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "converteasly", "version": "1.0.1", "description": "Free PDF, Image, and Other Online Converter Tools - ConvertEasly", "manifest_version": 3, "author": "converteasly", "action": {"default_popup": "index.htm", "default_title": "converteasly"}, "icons": {"48": "logo.png"}}

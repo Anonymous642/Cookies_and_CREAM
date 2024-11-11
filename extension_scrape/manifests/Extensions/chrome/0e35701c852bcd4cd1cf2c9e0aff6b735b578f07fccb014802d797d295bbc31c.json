@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Aspectre", "action": {"default_title": "Squeeze the video to 4:3"}, "manifest_version": 3, "version": "0.1", "description": "Turns a 16:9 html5 video element to 4:3", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}, "icons": {"512": "icon512.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ONSE RADIO", "description": "ONSE RADIO EXTENSION te permet d'ecoute ta radio pr\u00e9f\u00e9r\u00e9 \u00e0 tout moment", "version": "0.2", "browser_action": {"default_popup": "onsetexte.html"}, "icons": {"64": "img/logoOnse_64.png", "128": "img/logoOnse_128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

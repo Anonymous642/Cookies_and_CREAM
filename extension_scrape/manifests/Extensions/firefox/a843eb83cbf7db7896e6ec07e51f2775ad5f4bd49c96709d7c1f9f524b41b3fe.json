@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Open in Slate", "version": "1.0", "description": "Opens patent in Slate", "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "amanmaurya2002@gmail.com"}}}

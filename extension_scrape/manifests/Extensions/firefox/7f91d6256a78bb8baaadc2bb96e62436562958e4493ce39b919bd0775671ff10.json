@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ReBlacer", "description": "Have fun by replacing B", "version": "1.0", "icons": {"48": "icons/icon.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/icon.png", "default_title": "ReBlacer", "default_popup": "popup/replace_text.html"}}

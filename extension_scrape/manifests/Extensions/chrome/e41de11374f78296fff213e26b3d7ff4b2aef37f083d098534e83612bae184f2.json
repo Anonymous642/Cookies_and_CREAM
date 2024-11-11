@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Copy Github Url", "version": "1.0.2", "description": "Copy Github utl to clipboard.", "background": {"page": "background.html"}, "permissions": ["contextMenus", "tabs", "clipboardWrite"], "homepage_url": "https://github.com/kentork/copy-github-url"}

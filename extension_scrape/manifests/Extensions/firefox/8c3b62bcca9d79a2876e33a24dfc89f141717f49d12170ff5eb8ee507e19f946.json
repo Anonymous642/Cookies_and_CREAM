@@ -1,0 +1,1 @@
+{"name": "Screenshot Extension", "version": "1.0", "description": "Building a screenshot-taking extension", "manifest_version": 2, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{adf64b83-337d-4696-822c-9da5623a7040}"}}}

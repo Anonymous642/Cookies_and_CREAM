@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mastery Lookup", "version": "1.6.0", "description": "Adds a link to see users Mastery Points from OP.gg", "icons": {"48": "icons/logo-icon.png"}, "content_scripts": [{"matches": ["*://www.op.gg/*"], "js": ["masterylookup.js"]}], "browser_specific_settings": {"gecko": {"id": "{9760cabe-9145-4881-911a-b9a80b656875}"}}}

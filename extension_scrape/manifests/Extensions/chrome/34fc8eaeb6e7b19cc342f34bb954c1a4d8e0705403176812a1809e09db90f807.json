@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Calendar Tasks Colors", "description": "Change colors of tasks", "version": "0.1", "action": {"default_popup": "main.html", "default_icon": "icon.png"}, "content_scripts": [{"js": ["scripts/content.js"], "matches": ["https://calendar.google.com/*"], "run_at": "document_idle"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Habitica Floating Sprites", "version": "1.0", "description": "Make sprites float in Habitica!", "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "content_scripts": [{"matches": ["*://*.habitica.com/*"], "js": ["js/main.js"]}]}

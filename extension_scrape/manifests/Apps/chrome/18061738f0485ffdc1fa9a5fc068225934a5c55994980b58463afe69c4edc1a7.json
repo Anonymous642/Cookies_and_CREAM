@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "app": {"launch": {"local_path": "private/views/client.html"}}, "icons": {"16": "public/favicon.ico", "128": "public/icon128.png"}, "manifest_version": 2, "name": "financejs", "permissions": ["http://ichart.finance.yahoo.com/"], "version": "2012.109.125.10943"}

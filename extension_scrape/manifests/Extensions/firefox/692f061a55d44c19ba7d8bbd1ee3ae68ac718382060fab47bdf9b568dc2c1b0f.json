@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Direct", "version": "1.0", "description": "Adds a red border to all webpages matching mozilla.org.", "content_scripts": [{"matches": ["*://*.wmdirect.com.br/*"], "js": ["index.js"]}]}

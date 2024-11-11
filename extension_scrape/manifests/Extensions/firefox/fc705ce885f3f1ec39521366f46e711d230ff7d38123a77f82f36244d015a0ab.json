@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Github Success Action Dismissal", "version": "0.1", "description": "Hides successful actions from PR", "content_scripts": [{"matches": ["*://github.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{68fc12ef-24fe-47aa-8275-74a58b6b0b45}"}}}

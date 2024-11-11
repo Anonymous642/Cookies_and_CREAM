@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "LZW compression utility", "description": "Lempel\u2013Ziv\u2013Welch compression utility", "version": "0.1", "manifest_version": 2, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon.png"}, "app": {"launch": {"local_path": "default.htm"}}}

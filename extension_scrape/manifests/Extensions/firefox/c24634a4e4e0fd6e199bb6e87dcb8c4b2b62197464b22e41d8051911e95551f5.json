@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MangaDex Speedloader", "version": "0.99.3b1", "description": "Force MangaDex to load from webserver.", "icons": {"48": "icons/mdenke-48.png", "96": "icons/mdenke-96.png"}, "permissions": ["webRequest", "webRequestBlocking", "https://*.mangadex.org/*", "https://*.guya.moe/*"], "background": {"scripts": ["mangadenke.js"]}}

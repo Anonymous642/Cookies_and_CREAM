@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MailGPT", "version": "1.0.0", "description": "Using ChatGPT to reply English emails automatically", "manifest_version": 3, "author": "SeFo Finance", "action": {"default_popup": "index.html", "default_title": "MailGPT"}}

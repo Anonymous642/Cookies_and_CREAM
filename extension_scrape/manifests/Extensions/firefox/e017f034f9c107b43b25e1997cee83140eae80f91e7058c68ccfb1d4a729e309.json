@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reverse Image Search Dmtr.org", "version": "0.6", "description": "Reverse Image Search, right click to search on image search engines", "icons": {"48": "icons/reverse.png"}, "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"id": "reverseimagesearch@dmtr.org"}}, "permissions": ["menus"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "easy Password Generator", "description": "Easily generate passwords", "version": "1.1", "manifest_version": 2, "app": {"urls": ["http://www.easypasswordgenerator.com/"], "launch": {"web_url": "http://www.easypasswordgenerator.com"}}, "icons": {"128": "icon_128.png"}}

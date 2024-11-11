@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AI Images", "version": "1.0", "description": "Uses AI to enhance your images", "permissions": ["activeTab"], "browser_action": {"default_title": "AI Images"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{a8dcca2c-279b-41b1-b0be-eb8bc1e2aaf7}"}}}

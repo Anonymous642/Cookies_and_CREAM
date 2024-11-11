@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Who's Listening Remover", "version": "1.0", "description": "Removes the cancerous 'HeY gUyS wHo'S lIsTeNiNg To ThIs In XXXX' YouTube comments.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["jquery.js", "content-script.js"]}]}

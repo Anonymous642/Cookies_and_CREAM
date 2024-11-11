@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "steam market csv", "version": "1.0", "description": "Creates a csv file from a steam market item", "icons": {"48": "icons/icon_48.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/icon_32.png", "default_title": "Steam market csv", "default_popup": "popup/steam_csv.html"}}

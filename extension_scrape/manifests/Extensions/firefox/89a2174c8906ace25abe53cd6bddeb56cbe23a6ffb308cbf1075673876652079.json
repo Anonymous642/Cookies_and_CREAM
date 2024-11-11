@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YTshepherd", "version": "1.0", "description": "preventing being lost on youtube by don't allowing acces to the main page", "icons": {"48": "icons/YTshepherd.png"}, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["YTshepherd.js"]}]}

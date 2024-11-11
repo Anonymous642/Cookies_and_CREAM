@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "btb2", "description": "", "manifest_version": 3, "version": "1.0.0", "action": {"default_popup": "popup.html"}, "icons": {}, "background": {"service_worker": "background.js"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["http://*/*", "https://*/*", "<all_urls>"], "js": ["content.js"]}]}

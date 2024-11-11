@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dzia\u0142owi newsowemu na fw podzi\u0119kujemy", "version": "1.0", "description": "https://github.com/mtdrewski/stopFilmweb", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["https://www.filmweb.pl/"], "js": ["borderify.js"]}]}

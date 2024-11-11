@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "digital clock", "version": "0.0.1", "description": "A functional digital clock extension.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": {"128": "icon-128.png"}}, "icons": {"128": "icon-128.png"}, "browser_specific_settings": {"gecko": {"id": "{ed2938c0-b7d5-439a-97a9-fbfcdcb8c460}"}}}

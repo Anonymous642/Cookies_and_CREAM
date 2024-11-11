@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "CompareHolidayMoney", "description": "The Latest UK Exchange Rates", "version": "0.1", "icons": {"128": "gravatar.png"}, "app": {"launch": {"web_url": "http://www.compareholidaymoney.com"}}}

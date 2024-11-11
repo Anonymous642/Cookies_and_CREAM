@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Fly Chicken", "short_name": "Fly Chicken", "version": "0.0.0.2", "permissions": [], "app": {"background": {"scripts": ["main.js"]}}, "minimum_chrome_version": "23"}

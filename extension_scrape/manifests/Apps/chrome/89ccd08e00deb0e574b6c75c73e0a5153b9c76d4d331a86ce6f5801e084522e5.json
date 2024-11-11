@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bytes Runner", "description": "Run for your digital life !", "version": "1.0.0.1", "manifest_version": 2, "app": {"urls": ["http://www.insomniak-dev.com/cr/"], "launch": {"web_url": "http://www.insomniak-dev.com/cr/"}}, "icons": {"128": "br_128.png"}}

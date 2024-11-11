@@ -1,0 +1,1 @@
+{"name": "Global Music Hotkeys Helper", "description": "Global Music Hotkeys Helper", "version": "1.5", "content_scripts": [{"matches": ["*://*.youtube.com/*", "*://open.spotify.com/*", "*://*.bandcamp.com/*", "*://*.4channel.org/*/thread/*", "*://coub.com/*"], "js": ["jquery-3.1.1.js", "helper.js"]}], "manifest_version": 2}

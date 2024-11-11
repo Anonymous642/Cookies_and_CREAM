@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NatGeoReaderPlus", "version": "1.0", "description": "Non official companion app for National Geographic Archive and National Geographic History online", "icons": {"48": "icons/natgeoreaderpluslogo.png"}, "content_scripts": [{"matches": ["*://archive.nationalgeographic.com/*", "*://nghistory.partica.online/*"], "js": ["NatGeoReaderPlus.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Baeblemusic", "description": "Baeblemusic the home of transcendent videos of today's best new artists.", "version": "4", "manifest_version": 2, "app": {"urls": ["http://chrome.baeblemusic.com/"], "launch": {"web_url": "http://chrome.baeblemusic.com/"}}, "icons": {"128": "baeble_icon.png"}}

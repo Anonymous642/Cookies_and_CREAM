@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "pb untag", "version": "0.1", "background": {"scripts": ["jquery-3.4.1.min.js", "background.js"]}, "content_scripts": [{"matches": ["*://*.pinkbike.com/*"], "js": ["jquery-3.4.1.min.js", "content.js"]}]}

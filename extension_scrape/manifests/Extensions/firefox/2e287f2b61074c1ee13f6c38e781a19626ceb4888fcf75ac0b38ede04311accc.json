@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OnePopup", "version": "1.0", "description": "Gets all the opened tabs into one popup.", "icons": {"48": "icons/popup-48.png"}, "permissions": ["<all_urls>", "tabs"], "browser_action": {"default_icon": "icons/popup-48.png", "default_title": "One popup", "default_popup": "popup/display.html"}}

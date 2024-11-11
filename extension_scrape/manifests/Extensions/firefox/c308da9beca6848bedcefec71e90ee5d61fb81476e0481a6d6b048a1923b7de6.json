@@ -1,0 +1,1 @@
+{"name": "Dark vCenter", "version": "0.2.15", "description": "Apply Dark Clarity Theme to vCenter!", "manifest_version": 2, "content_scripts": [{"matches": ["https://*/ui/*"], "js": ["inject.js"]}], "web_accessible_resources": ["css/*.css", "images/*"], "icons": {"128": "icon128.png", "512": "icon512.png"}}

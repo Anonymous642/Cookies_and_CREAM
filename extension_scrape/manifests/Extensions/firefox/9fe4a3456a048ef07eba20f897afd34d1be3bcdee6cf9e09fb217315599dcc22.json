@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ElPaisClean", "version": "1.1.4", "description": "Elimina la publicidad de elpais.com. Adem\u00e1s te permite ver 100 art\u00edculos por sesi\u00f3n sin subscripci\u00f3n.", "icons": {"48": "icons/logo-30-48.png", "96": "icons/logo-30-96.png"}, "content_scripts": [{"matches": ["*://*.elpais.com/*"], "js": ["elpaisclean.js"]}]}

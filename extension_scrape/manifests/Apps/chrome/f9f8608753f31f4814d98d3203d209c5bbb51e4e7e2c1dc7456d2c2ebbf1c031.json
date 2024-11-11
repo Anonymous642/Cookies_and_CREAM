@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Pouic Shooter", "description": "Shoot them all !!", "version": "1", "app": {"urls": [], "launch": {"web_url": "http://pouic-shooter.appspot.com"}}, "icons": {"128": "icon128.png"}, "permissions": []}

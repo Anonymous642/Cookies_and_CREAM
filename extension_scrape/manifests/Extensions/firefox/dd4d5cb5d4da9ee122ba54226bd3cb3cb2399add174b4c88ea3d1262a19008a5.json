@@ -1,0 +1,1 @@
+{"short_name": "T-Box", "name": "T-Box", "version": "1.0.0", "manifest_version": 3, "chrome_url_overrides": {"newtab": "index.html"}, "web_accessible_resources": [{"resources": ["./*"], "matches": ["<all_urls>"]}], "browser_specific_settings": {"gecko": {"id": "{8df3700d-f31c-44fb-b5c6-f95a5d1edd1b}", "strict_min_version": "109.0"}}}

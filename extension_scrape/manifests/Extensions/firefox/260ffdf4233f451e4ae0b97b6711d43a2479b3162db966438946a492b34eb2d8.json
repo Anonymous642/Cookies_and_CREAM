@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "USD to TRY Converter", "version": "1.0", "description": "Convert USD to Turkish Lira", "browser_specific_settings": {"gecko": {"id": "usd-to-try@gmail.com"}}}

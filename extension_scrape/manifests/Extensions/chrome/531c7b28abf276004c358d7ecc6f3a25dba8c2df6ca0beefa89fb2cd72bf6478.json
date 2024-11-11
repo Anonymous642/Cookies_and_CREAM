@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Unlocked", "description": "Facilitates the reading experience on multiple news websites", "version": "1.2.0", "action": {"default_popup": "Bypass.html"}, "icons": {"128": "icon128.png"}, "permissions": ["tabs", "scripting"], "host_permissions": ["<all_urls>"], "manifest_version": 3}

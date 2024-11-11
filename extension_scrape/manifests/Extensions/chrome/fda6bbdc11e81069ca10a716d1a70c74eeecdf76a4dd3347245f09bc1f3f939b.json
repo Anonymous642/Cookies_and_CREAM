@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Papervee Extension", "description": "Papervee.com | All in one HR platform", "version": "1.0.2", "manifest_version": 3, "action": {"default_popup": "index.html", "default_title": "Papervee Extension"}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

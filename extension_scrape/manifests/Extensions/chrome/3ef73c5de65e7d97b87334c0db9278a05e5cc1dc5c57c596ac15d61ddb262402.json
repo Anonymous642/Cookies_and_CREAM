@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Wikipedia Darkmode", "action": {"default_title": "Wikipedia Darkmode"}, "manifest_version": 3, "version": "0.3", "description": "Wikipedia Darkmode", "content_scripts": [{"matches": ["https://*.wikipedia.org/*"], "css": ["inject.css"], "run_at": "document_start"}]}

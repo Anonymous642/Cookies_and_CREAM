@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "unSearchify", "version": "1.0.1", "description": "Remove unwanted sites from Google search results", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*.google.com/*"], "js": ["contentScript.js"]}], "browser_specific_settings": {"gecko": {"id": "{dc4e82c1-0ac1-477b-a980-10eb4508e0e6}"}}}

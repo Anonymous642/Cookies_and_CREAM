@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "tdgg", "version": "1.0", "description": "Access to tdg website without premium", "icons": {"48": "icons/logo-48.png"}, "content_scripts": [{"matches": ["*://*.tdg.ch/*"], "js": ["tdgg.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Link Reference Extension", "version": "1.0", "description": "Cross-references links in an article with similar articles.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

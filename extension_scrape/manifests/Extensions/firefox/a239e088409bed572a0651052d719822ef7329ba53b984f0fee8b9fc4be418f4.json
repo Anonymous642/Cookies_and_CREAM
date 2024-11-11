@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Password Displayer", "version": "1.0", "description": "Adds an option to look at passwords in inputs boxes", "content_scripts": [{"matches": ["*://*/*"], "js": ["main.js"]}], "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Snip Drive", "description": "Your files safe and accessible when you need it", "version": "1.2", "icons": {"128": "128.png"}, "app": {"urls": ["https://snipdrive.com/login"], "launch": {"web_url": "https://snipdrive.com/login"}}, "permissions": ["unlimitedStorage", "notifications"]}

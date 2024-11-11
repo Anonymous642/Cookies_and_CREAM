@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://www.browserleaks.com/modernizr"], "launch": {"web_url": "http://www.browserleaks.com/modernizr"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Quick Search for Modernizr Tests", "name": "Modernizr Helper", "icons": {"128": "icon_128.png"}, "manifest_version": 2, "version": "1.0.0.6"}

@@ -1,0 +1,1 @@
+{"name": "Aussie Sapphire", "description": "The Lapidary Warehouse", "app": {"urls": ["http://www.aussiesapphire.com.au/"], "launch": {"web_url": "http://www.aussiesapphire.com.au/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

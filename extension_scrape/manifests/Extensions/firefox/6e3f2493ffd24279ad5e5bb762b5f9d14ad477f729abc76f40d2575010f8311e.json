@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AdFunRm", "version": "1.0", "description": "Remove the Ads", "permissions": ["*://*.ifun.tv/*", "webRequest", "webRequestBlocking"], "background": {"scripts": ["adfunrm.js"]}}

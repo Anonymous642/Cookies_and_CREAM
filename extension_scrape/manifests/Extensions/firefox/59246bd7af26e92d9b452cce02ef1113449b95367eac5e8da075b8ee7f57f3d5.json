@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Copy Source", "version": "2.0", "permissions": ["contextMenus", "clipboardWrite", "<all_urls>", "activeTab"], "background": {"scripts": ["background.js"], "persistent": true}, "icons": {"16": "icon_16.png", "48": "icon_48.png", "128": "icon_128.png"}, "browser_specific_settings": {"gecko": {"id": "{91eb013b-2197-4595-86b3-8f84cf1083e9}"}}}

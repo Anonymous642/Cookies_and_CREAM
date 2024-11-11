@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Drumtrackz", "description": "Online Drum machine / Beatbox", "version": "1.1.2", "app": {"urls": ["http://www.zikinf.com/"], "launch": {"web_url": "http://www.zikinf.com/drumtrackz/"}}, "icons": {"128": "minidt_128.png"}, "permissions": []}

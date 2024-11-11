@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Redirector", "version": "1.0", "description": "Redirects all searches from bing to google.", "icons": {"48": "icons/anti-bing.png"}, "content_scripts": [{"matches": ["*://*.bing.com/*"], "js": ["redirecter.js"]}]}

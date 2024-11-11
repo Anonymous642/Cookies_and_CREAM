@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "description": "MagicLinks Match Intelligence.", "version": "1.0.0", "manifest_version": 3, "name": "MagicLinks Match Intelligence", "background": {"service_worker": "background.bundle.js"}, "action": {"default_popup": "popup.html", "default_icon": "icon-34.png"}, "icons": {"128": "icon-128.png"}}

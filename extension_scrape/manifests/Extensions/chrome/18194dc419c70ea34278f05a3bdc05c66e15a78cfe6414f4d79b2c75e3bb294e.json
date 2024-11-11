@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "timon real time updater", "description": "primitive app to update your working hours in real time", "version": "3.0.1", "icons": {"16": "clock.png"}, "content_scripts": [{"matches": ["https://timon/*"], "js": ["jquery-3.2.1.min.js", "timonRealTimeUpdater.3.0.js"]}]}

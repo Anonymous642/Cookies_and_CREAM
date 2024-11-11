@@ -1,0 +1,1 @@
+{"name": "DivusX - Password Generator", "description": "This is the password generator tool from the DivusX platform for your browser.", "version": "0.0.3", "manifest_version": 2, "browser_action": {"default_popup": "index.html", "default_icon": "img/logo.png"}, "browser_specific_settings": {"gecko": {"id": "{7a88a4b9-5a41-461e-bd4f-13c7148ee79d}"}}}

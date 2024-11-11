@@ -1,0 +1,1 @@
+{"name": "quora-fixer", "description": "Quora is a popular Q&A site, but it's broken for users who don't sign up. This extension will disable the \"please log in to continue\" prompt for Quora.", "manifest_version": 2, "version": "1.0.1", "content_scripts": [{"matches": ["*://*.quora.com/*"], "js": ["index.js"]}], "icons": {"400": "thumbnail.png"}}

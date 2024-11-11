@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Asana timeneye Integration", "description": "The extension copies asana tags to timeneye notes, so you can create a custom reports in timeneye", "version": "1.1", "manifest_version": 3, "content_scripts": [{"matches": ["https://app.asana.com/*"], "js": ["content.js"]}]}

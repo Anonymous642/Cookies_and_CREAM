@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Vocaroo HTML5 Player", "version": "1.0", "description": "Uses Vocaroo's download links to replace Vocaroo's flash audio player with the HTML5 audio element.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.vocaroo.com/i/*"], "js": ["VocarooHTML5Player.js"]}]}

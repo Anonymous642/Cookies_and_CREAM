@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Woodridge Academic Portal", "description": "Woodridge Academic Portal", "version": "1.0.7", "manifest_version": 2, "icons": {"128": "128.png"}, "app": {"urls": ["http://www.woodridge.k12.oh.us/portal/"], "launch": {"web_url": "http://www.woodridge.k12.oh.us/portal/"}}}

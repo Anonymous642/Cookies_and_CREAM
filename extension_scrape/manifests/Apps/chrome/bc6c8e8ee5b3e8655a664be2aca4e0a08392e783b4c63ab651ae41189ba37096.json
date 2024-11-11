@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SMARTER", "description": "Sistema para Com\u00e9rcio Exterior", "version": "1.3", "manifest_version": 2, "app": {"launch": {"web_url": "http://app.worksmarter.com.br"}}, "icons": {"16": "smarter-icone-16.png", "128": "smarter-icone-128.png"}}

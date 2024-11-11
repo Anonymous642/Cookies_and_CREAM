@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Itslearning disable auto-logout", "version": "1.0", "manifest_version": 3, "description": "Disables auto-logout on itslearning", "browser_action": {"default_title": "Itslearning disable auto-logout"}, "content_scripts": [{"matches": ["*://elevera.itslearning.com/*"], "js": ["content.js"]}]}

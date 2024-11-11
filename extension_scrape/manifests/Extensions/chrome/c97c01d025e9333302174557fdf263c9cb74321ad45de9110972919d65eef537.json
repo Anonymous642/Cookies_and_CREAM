@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "OTEK Currency Converter", "version": "1.0", "description": "Convert currencies using xe.otek.today API", "permissions": ["storage", "contextMenus", "tabs"], "background": {"service_worker": "background.js"}, "options_page": "options.html", "icons": {"48": "favicon.png"}}

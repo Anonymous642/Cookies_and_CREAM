@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ActiveGS", "version": "3.7.1019", "description": "Apple IIgs emulator", "icons": {"16": "ActiveGS16.png", "48": "ActiveGS48.png", "128": "ActiveGS128.png"}, "plugins": [{"path": "npActiveGS.dll", "public": true}, {"path": "activegs.plugin", "public": true}]}

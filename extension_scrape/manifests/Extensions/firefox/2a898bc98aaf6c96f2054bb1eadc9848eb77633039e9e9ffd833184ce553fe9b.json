@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UUID", "version": "1.0", "description": "Generate a uuid without dash and copy to clipboard", "icons": {"48": "icons/uuid-48.png", "96": "icons/uuid-96.png"}, "permissions": ["clipboardWrite"], "browser_action": {"default_icon": "icons/uuid-32.png", "default_title": "gen&copy"}, "background": {"scripts": ["uuid.js"]}}

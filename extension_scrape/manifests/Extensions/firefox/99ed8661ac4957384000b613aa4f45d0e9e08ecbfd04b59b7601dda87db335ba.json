@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Changelink", "version": "1.0", "description": "Changes url to something else. it maybe a redirection to mirror", "icons": {"48": "icons/link_icon_48.jpg"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["changelink.js"]}], "browser_specific_settings": {"gecko": {"id": "{5fddedfe-252b-4458-a788-88095f28e52c}"}}}

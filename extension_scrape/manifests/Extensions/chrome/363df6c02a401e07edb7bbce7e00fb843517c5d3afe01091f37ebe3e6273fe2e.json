@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "AIssistant", "version": "1.0.2", "description": "Prompts assistant tool, justaman@gmail.com", "manifest_version": 3, "author": "Anthony Phillips", "action": {"default_popup": "index.html", "default_title": "AIssistant", "default_icon": "icon.png"}}

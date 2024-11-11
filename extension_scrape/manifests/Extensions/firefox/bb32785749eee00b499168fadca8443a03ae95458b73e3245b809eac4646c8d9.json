@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "8-bit Vibe", "version": "1.2.2", "permissions": ["theme"], "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{43a75fe6-0b0c-4fbc-841e-0e607a6028f1}"}}}

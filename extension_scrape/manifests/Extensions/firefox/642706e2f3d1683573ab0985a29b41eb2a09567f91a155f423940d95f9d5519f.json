@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Extension Smeep_Tv", "description": "Ne loupe aucun live avec cette super extension", "version": "1.6", "browser_action": {"default_popup": "index.html"}, "icons": {"32": "img/green.gif"}, "background": {"scripts": ["jquery.js", "background.js"]}}

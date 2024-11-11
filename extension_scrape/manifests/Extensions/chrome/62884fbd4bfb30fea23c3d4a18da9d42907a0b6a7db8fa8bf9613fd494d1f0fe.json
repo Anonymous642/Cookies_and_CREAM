@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Notes in new tab", "version": "1.0", "description": "Notes in new tab", "chrome_url_overrides": {"newtab": "newTab.html"}, "permissions": ["storage"], "manifest_version": 3}

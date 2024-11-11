@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bookmark Viewer", "description": "Quick view of google chrome bookmarks ", "version": "1.0.2", "manifest_version": 3, "action": {"default_popup": "popup.html"}, "permissions": ["bookmarks"], "icons": {"128": "img/marca-de-libro.png"}}

@@ -1,0 +1,1 @@
+{"name": "harmonoid-js", "description": "Harmonoid extension for playing music", "version": "1.0.2", "permissions": ["http://*/*", "https://*/*"], "author": "harmonoid", "icons": {"128": "assets/icons/128.png"}, "browser_action": {"default_popup": "index.html"}, "web_accessible_resources": ["assets/*"], "manifest_version": 2}

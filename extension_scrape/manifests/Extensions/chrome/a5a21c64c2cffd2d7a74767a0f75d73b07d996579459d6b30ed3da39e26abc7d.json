@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CoderPad Docs Search", "description": "Search CoderPad.io docs", "version": "0.0.1", "manifest_version": 3, "action": {"default_popup": "index.html", "default_title": "Search CoderPad Docs"}, "icons": {"16": "coderpup-logo-192.png", "48": "coderpup-logo-192.png", "128": "coderpup-logo-192.png"}}

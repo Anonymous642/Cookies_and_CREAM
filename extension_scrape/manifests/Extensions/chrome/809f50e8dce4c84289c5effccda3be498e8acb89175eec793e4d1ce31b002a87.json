@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Leetos", "version": "2.0", "manifest_version": 3, "icons": {"16": "logo.png", "48": "logo.png", "128": "logo.png"}, "content_scripts": [{"matches": ["https://leetcode.com/problemset/all/*"], "run_at": "document_idle", "js": ["content.js"]}]}

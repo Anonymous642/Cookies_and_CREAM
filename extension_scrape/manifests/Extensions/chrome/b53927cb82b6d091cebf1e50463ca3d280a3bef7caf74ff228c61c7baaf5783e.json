@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hard Pin", "description": "Reopen the pinned tab if closed", "version": "1.0.0", "background": {"service_worker": "background.js"}, "icons": {"16": "icons/icon16.png", "128": "icons/icon128.png"}, "permissions": ["tabs"]}

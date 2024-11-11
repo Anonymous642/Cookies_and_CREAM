@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "iplayer", "version": "1.4", "description": "Adds an option to download programmes from BBC iplayer", "icons": {"48": "icons/border-48.png"}, "applications": {"gecko": {"id": "get_iplayer@mozilla.org", "strict_min_version": "45.0"}}, "content_scripts": [{"matches": ["*://*.bbc.co.uk/iplayer*"], "js": ["iplayer.js"]}]}

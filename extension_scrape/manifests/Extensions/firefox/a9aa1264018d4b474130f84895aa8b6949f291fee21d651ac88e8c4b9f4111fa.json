@@ -1,0 +1,1 @@
+{"browser_action": {"default_icon": "icon_128.png", "default_title": "Gold Retired | For Retirement Investors", "default_popup": "popup.html"}, "icons": {"128": "icon_128.png"}, "description": "A place where you can find great info on how to retirement invest in gold and precious metals.", "manifest_version": 2, "name": "Gold Retired | For Retirement Investors", "version": "1.0"}

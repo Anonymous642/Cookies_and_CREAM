@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Wbijam przycisk \"nast\u0119pny\"", "version": "1.1", "description": "Dodaje przycisk nast\u0119pny w podstronach player na wbijam.pl", "icons": {"48": "img/logo.png"}, "content_scripts": [{"matches": ["*://*.wbijam.pl/odtwarzacz-*"], "js": ["script.js"]}]}

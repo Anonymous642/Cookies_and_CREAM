@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DefaultMono", "version": "1.1", "description": "Reset monospace fonts to the default one.", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["defaultmono.js"]}], "browser_specific_settings": {"gecko": {"id": "{a9c91f54-5028-41cf-9159-980bd947bc4d}"}}}

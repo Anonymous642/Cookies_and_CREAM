@@ -1,0 +1,1 @@
+{"background": {"scripts": ["feedback.js"]}, "browser_action": {"default_icon": "bug.png", "default_title": "Send feedback"}, "description": "Extension to access to feedback page in Chrome OS through browser action icon.", "manifest_version": 2, "name": "Feedback Extension", "update_url": "http://clients2.google.com/service/update2/crx", "version": "3.0"}

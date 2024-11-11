@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Mr. Campbell's Testing App", "version": "0.1", "manifest_version": 2, "kiosk_enabled": true, "kiosk_only": true, "permissions": ["webview", "storage"], "description": "Mr. Campbell's Testing App", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"128": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "analogica.it", "description": "Passione per la fotografia ai sali d'argento", "version": "1.0.0", "manifest_version": 2, "app": {"urls": ["http://www.analogica.it/"], "launch": {"web_url": "http://www.analogica.it/"}}, "icons": {"128": "Camera-Roll-icon_128.png"}}

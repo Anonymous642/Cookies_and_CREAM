@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reviewpad", "version": "1.0", "description": "Kills the spammy alert box that pops up when you review launchpad reading that is passed due.", "icons": {"48": "icons/rp-48.png"}, "content_scripts": [{"matches": ["https://www.macmillanhighered.com/BrainHoney/*"], "all_frames": true, "js": ["rp.js"]}]}

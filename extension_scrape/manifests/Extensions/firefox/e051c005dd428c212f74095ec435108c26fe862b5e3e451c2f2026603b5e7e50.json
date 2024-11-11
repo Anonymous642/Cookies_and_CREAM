@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "download-finished-notify", "version": "1.1", "description": "Creates a notification whenever a download is finished", "icons": {"48": "icons/icon-48.png"}, "background": {"scripts": ["download-notify.js"]}, "permissions": ["downloads", "notifications"], "browser_specific_settings": {"gecko": {"id": "{35cb6e59-9ac8-48e8-b974-d00fcb248301}"}}}

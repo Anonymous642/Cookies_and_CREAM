@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Westlaw Tweaks", "description": "Makes useful changes to Westlaw case pages", "author": "Alex Tievsky", "version": "0.6", "content_scripts": [{"matches": ["*://*.next.westlaw.com/*"], "all_frames": true, "css": ["highlight.css"], "run_at": "document_end"}], "permissions": ["*://*.next.westlaw.com/*"]}

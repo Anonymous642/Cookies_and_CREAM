@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Timer", "description": "A simple timer", "version": "1.9", "manifest_version": 3, "permissions": ["background", "windows"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "./pages/index.html", "default_icon": "./Assets/icon.png"}}

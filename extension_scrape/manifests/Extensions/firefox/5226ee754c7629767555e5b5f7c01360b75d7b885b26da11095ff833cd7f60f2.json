@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AdBlock+", "version": "1.0", "description": "Removes the ads from the webpages but FOR REAL.", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{7313cc08-346e-4452-92bd-bb9020bf2518}"}}}

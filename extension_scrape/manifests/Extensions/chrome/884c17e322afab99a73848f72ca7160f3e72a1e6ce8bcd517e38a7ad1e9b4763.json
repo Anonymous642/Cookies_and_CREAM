@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Quirky Quotes Extension", "version": "1.0.0", "description": "Quirky quotes with each new tab!", "manifest_version": 2, "chrome_url_overrides": {"newtab": "quote.html"}, "icons": {"16": "assets/quote_16.png", "48": "assets/quote_48.png", "128": "assets/quote_128.png"}}

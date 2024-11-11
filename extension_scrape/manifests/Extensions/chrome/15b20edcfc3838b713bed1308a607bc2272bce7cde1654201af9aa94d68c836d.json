@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "IMDb Search with Right-Click (Context menu)", "version": "1.2", "description": "Search for movies and stars on IMDb right from your context menu", "permissions": ["contextMenus"], "manifest_version": 2, "icons": {"128": "appicon.png", "180": "icon.png"}, "background": {"scripts": ["eventPage.js"]}}

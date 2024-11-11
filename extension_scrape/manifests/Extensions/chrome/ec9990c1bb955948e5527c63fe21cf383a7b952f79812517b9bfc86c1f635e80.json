@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ubt\u57cb\u70b9\u68c0\u67e5\u5668", "version": "1.0.4", "minimum_chrome_version": "18.0", "description": "show request url", "devtools_page": "devtools.html", "icons": {"48": "images/icon.png", "128": "images/icon.png"}, "permissions": ["http://*/*", "https://*/*"], "background": {}, "manifest_version": 2}

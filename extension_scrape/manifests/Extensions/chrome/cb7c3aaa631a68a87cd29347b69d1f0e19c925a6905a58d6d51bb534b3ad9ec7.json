@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Discogs buddy", "description": "This extension will open all releases on new tab.", "version": "0.1", "icons": {"128": "icon128.png"}, "content_scripts": [{"matches": ["https://www.discogs.com/seller/*/*"], "js": ["background.js"], "run_at": "document_end"}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "downloadPathTool", "manifest_version": 2, "version": "0.0.1", "description": "The Chrome tool to set download path", "browser_action": {"default_icon": "icon.png", "default_title": "Download Path Tool", "default_popup": "popup.html"}}

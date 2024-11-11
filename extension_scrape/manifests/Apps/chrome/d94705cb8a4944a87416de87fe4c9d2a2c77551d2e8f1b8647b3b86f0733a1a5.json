@@ -1,0 +1,1 @@
+{"app": {"launch": {"web_url": "http://chrome.happyringring.com/chickyfox/index.html"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Children Sing Along Animated Video", "name": "ChickyFox", "icons": {"16": "icon16.png", "128": "icon128.png"}, "manifest_version": 2, "version": "1.0"}

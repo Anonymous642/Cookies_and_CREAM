@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Regex Composer", "description": "Create your Regex from an english sentence", "version": "0.4", "app": {"background": {"scripts": ["background.js"]}}, "manifest_version": 2, "icons": {"16": "regexcomposer-16.png", "128": "regexcomposer-128.gif"}}

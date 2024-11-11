@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TST Hide Tabs", "version": "1.0", "description": "Extends TST to hide tabs when their parent in the tree is collapsed", "permissions": ["tabHide"], "background": {"scripts": ["hide-tabs.js"], "persistent": false}, "applications": {"gecko": {"id": "tst-hide-tabs@aq3.net"}}}

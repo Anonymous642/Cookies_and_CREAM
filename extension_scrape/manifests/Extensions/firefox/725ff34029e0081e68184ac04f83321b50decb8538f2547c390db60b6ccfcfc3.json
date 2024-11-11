@@ -1,0 +1,1 @@
+{"version": "1.1.1", "author": "Favvy", "homepage_url": "https://www.google.com/", "chrome_url_overrides": {"newtab": "favvy.html"}, "icons": {"128": "favvy.png"}, "browser_action": {"default_title": "Favvy - A new way of saying fabulous. Be savvy with your searches."}, "manifest_version": 2, "name": "Favvy", "short_name": "favvy", "permissions": ["activeTab"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CJ Games Rewards", "version": "1.0.0", "description": "This chrome extension gives redeemable codes for roblox games made by CJ Games Studios.", "manifest_version": 3, "author": "CJ Games Studios", "action": {"default_popup": "index.html", "default_title": "CJ Games Rewards"}}

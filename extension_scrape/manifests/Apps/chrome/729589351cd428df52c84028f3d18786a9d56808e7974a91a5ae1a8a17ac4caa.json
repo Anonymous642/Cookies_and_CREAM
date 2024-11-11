@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"launch": {"web_url": "http://fiddlesalad.com/stylus/"}, "urls": ["http://fiddlesalad.com/stylus/"]}, "description": "Online playground for Stylus, JavaScript, and HTML", "icons": {"128": "icon.png"}, "manifest_version": 2, "name": "Stylus Editor", "version": "1.0.0.0"}

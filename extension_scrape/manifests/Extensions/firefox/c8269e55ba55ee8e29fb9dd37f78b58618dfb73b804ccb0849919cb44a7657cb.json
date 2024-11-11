@@ -1,0 +1,1 @@
+{"name": "Wheee", "version": "1.0.1", "description": "Lets you know when an audible tab is closed", "icons": {"16": "icon-16.png", "48": "icon-48.png", "128": "icon-128.png"}, "background": {"persistent": true, "scripts": ["wheee.js"]}, "applications": {"gecko": {"id": "wheee@ponyfleisch.ch"}}, "manifest_version": 2}

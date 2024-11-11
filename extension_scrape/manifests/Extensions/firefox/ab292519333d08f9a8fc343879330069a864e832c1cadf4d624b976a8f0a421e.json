@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ClearMind", "version": "0.4", "description": "Removes ads and recommended videos from YouTube", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["clearMind.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ANYPAGE.NET", "short_name": "AnyPage.net", "description": "Parade of Internet pages, contents and design.", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["HTTP://WWW.ANYPAGE.NET/"], "launch": {"web_url": "HTTP://WWW.ANYPAGE.NET/"}}}

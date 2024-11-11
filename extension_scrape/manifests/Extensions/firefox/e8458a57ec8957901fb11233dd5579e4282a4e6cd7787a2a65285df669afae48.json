@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "mBank white layout fixer", "version": "1.0.0", "description": "Enjoy the old mBank layout.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://online.mbank.pl/*"], "js": ["fixer.js"]}]}

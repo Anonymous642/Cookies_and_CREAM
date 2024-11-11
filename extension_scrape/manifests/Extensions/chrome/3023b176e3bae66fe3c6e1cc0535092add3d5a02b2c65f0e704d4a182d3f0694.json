@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Gasoline", "version": "0.1", "manifest_version": 3, "description": "ETH Gas Tracker", "icons": {"16": "icon.png", "48": "icon.png", "512": "icon.png"}, "permissions": ["alarms"], "action": {"default_icon": "icon.png", "default_popup": "index.html"}, "background": {"service_worker": "app.js"}}

@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "dummyFS", "description": "description", "version": "0.0.7", "manifest_version": 2, "icons": {"16": "dummy-16.png", "128": "dummy-128.png", "256": "dummy-256.png"}, "permissions": ["contextMenus"], "app": {"background": {"scripts": ["background.js", "files.js"]}}}

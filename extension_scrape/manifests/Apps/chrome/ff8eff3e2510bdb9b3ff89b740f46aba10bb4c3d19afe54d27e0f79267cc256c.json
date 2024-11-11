@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MY Compliance", "description": "Manage compliance with environmental, health & safety requirements and legislation", "version": "0.0.0.4", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://my-compliance.co.uk/"], "launch": {"web_url": "https://www.my-compliance.co.uk/"}}}

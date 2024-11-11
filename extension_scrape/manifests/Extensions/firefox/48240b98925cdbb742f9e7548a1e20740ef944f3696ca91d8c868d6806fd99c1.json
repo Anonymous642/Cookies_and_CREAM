@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Onshape Dark Mode", "version": "1.0", "description": "Removes the eye-straining light mode from Onshape", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://cad.onshape.com/*"], "js": ["dark-mode.js"]}], "browser_specific_settings": {"gecko": {"id": "{67015b49-6c25-4f26-8dc9-721b55265bca}"}}}

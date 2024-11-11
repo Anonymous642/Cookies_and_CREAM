@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CAYIN CMS-WS Player", "version": "1.3.0.210", "description": "Digital Signage Player", "permissions": [], "action": {"default_popup": "popup.html", "default_icon": {"60": "images/CMS_WSEdgePlayerLogo@1x.png"}}, "icons": {"60": "images/CMS_WSEdgePlayerLogo@1x.png"}, "manifest_version": 3}

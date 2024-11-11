@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "background": {"scripts": ["stoptabs.js"]}, "description": "Stops tabs from loading on startup", "manifest_version": 2, "name": "Stop Tabs", "version": "1.1", "author": "def00111"}

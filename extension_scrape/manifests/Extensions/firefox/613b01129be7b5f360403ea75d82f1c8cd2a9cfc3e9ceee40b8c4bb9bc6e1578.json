@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Facebook Hide Ad Column", "version": "1.0", "description": "Attempts to hide Facebook's horrific ad column to the right of the news feed.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["Hide Facebook Ad Column.js"]}]}

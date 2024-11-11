@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "feShahsoo4Cheghi", "version": "1.0", "content_scripts": [{"matches": ["<all_urls>"], "js": ["./emojiMap.js", "./substitute.js"]}]}

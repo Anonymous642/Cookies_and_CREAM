@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Letters Converter", "version": "1.1", "description": "Convert Letters(English Only) to Arabic Characters and Vice Versa", "icons": {"48": "icons/switch.png"}, "browser_action": {"browser_style": true, "default_popup": "popup/page.html", "default_icon": {"64": "icons/switch.png"}}}

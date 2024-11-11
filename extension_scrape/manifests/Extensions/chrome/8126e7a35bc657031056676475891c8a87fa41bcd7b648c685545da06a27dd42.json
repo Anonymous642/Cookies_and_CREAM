@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "shopcaiji - \u72ec\u7acb\u7ad9\u4ea7\u54c1\u91c7\u96c6\u7cfb\u7edf", "description": "\u72ec\u7acb\u7ad9\u4ea7\u54c1\u91c7\u96c6\u7cfb\u7edf", "version": "1.0", "permissions": [], "action": {"default_icon": "icon.png", "default_popup": "hello.html"}}

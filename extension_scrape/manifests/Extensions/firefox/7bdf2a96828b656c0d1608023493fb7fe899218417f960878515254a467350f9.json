@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Background", "version": "2.6", "description": "Adds background in new tabs", "icons": {"48": "icons/border-48.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{4254e215-ed1a-4330-a04d-8de626c36215}"}}}

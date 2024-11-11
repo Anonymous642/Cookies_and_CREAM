@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TabCount", "version": "1.0", "description": "Adds a red border to all webpages matching mozilla.org", "icons": {"48": "icons/border-48.png"}, "browser_action": {"default_icon": "icons/border-48.png", "default_title": "Tab Count"}, "background": {"scripts": ["tabcount.js"]}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "HoaTube.Com", "manifest_version": 2, "short_name": "HoaTube", "description": "HoaTube.Com T\u0103ng T\u01b0\u01a1ng T\u00e1c Sub, Like, View Youtube", "version": "1.1", "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "favicon.ico"}, "icons": {"128": "logo-hoatube-128.png"}}

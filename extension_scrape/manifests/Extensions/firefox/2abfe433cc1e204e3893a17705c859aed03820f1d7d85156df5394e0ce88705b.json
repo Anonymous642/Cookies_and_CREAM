@@ -1,0 +1,1 @@
+{"description": "Replaces your new tab with a random XKCD", "manifest_version": 2, "name": "XKCD in New tab Grey ", "version": "1.611", "homepage_url": "https://github.com/StevenTheElder/XKCD-in-New-tab-Grey", "chrome_url_overrides": {"newtab": "xkcd-newtab.html"}, "permissions": ["*://xkcd.com/*", "webRequest"]}

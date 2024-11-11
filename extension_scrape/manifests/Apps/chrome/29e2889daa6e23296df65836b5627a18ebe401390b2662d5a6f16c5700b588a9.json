@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "The Spoils Card Game", "description": "The Spoils Card Game", "version": "0.3", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "small_spoils_logo2.png", "128": "small_spoils_logo2.png"}, "permissions": ["*://*/*"]}

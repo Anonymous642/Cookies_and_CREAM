@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Voz Reloader", "version": "0.1", "background": {"scripts": ["background.js"]}, "permissions": ["debugger", "webRequest", "https://forums.voz.vn/*"], "content_scripts": [{"matches": ["https://forums.voz.vn/*"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "TechSupportGuy", "version": "1.7", "content_scripts": [{"matches": ["https://*.chaturbate.com/b/*"], "js": ["jquery-3.2.1.min.js", "content.js"]}], "options_page": "options.html", "browser_action": {"default_icon": "icon.png"}}

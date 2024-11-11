@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Gallery", "version": "1.0", "author": "jsdeveloper", "description": "View and save Youtube Images", "icons": {"200": "icon.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["utid-popup.js"], "css": ["utid-style.css"]}], "permissions": ["activeTab"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Runnr", "description": "runnr chrome extension to handle authentication and orders.", "version": "0.1", "permissions": ["identity"]}

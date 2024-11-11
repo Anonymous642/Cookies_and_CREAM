@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "kka", "version": "1.1", "description": "kka user_name print", "icons": {}, "content_scripts": [{"matches": ["*://support.ashisuto.co.jp/*vender*"], "js": ["jquery.js", "kka.js"]}]}

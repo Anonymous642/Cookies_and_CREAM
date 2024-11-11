@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "oldify-reddit", "version": "1.0", "description": "Redirects to old.* version of reddit.", "icons": {"48": "icons/R-48.png", "96": "icons/R-96.png"}, "background": {"scripts": ["redirector.js"]}, "permissions": ["webRequest", "*://www.reddit.com/*", "*://new.reddit.com/*", "webRequestBlocking"]}

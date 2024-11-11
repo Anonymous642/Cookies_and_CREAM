@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CrowdAskIt", "description": "This is sample Crowd Ask It application", "version": "0.1", "manifest_version": 2, "app": {"background": {"scripts": ["main.js"]}}, "icons": {"16": "16.png"}}

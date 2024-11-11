@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Airframe", "description": "(Airframe.cloud) Save any webpage or video and find it later", "version": "1.01", "manifest_version": 3, "icons": {"20": "icons/v2_20.png", "50": "icons/v2_50.png", "129": "icons/v2_128.png"}, "permissions": ["activeTab"], "action": {"default_popup": "popup.html"}}

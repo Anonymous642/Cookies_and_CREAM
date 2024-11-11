@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Discord Media Link Displayer", "version": "1.0", "description": "Displays links on media in discord", "content_scripts": [{"matches": ["*://*.discord.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{5260341b-2727-472c-acdc-28f352ed7476}"}}}

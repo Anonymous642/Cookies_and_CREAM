@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hide Transcript Time", "version": "1", "description": "Hide start offset of transcript on YouTube", "permissions": ["tabs", "scripting"], "host_permissions": ["https://www.youtube.com/watch*"], "action": {"default_popup": "html/popup.html"}, "icons": {"128": "img/icon128.png"}}

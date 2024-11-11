@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Keep Downloading", "version": "1.0.0", "permissions": ["downloads"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"strict_min_version": "94.0"}}}

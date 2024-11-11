@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\uc2dc\ud504\ud2f0 \uacc4\uc0b0\uae30", "version": "1.1.5", "manifest_version": 3, "background": {}, "action": {"default_title": "\uc2dc\ud504\ud2f0 \uacc4\uc0b0\uae30", "default_icon": "icon.png", "default_popup": "index.html"}, "permissions": ["storage"], "host_permissions": ["https://shiftee.io/*"]}

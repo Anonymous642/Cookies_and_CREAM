@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BTS to BTK", "version": "1.0", "description": "Replaces the text 'BTS' with 'BTK'.", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_idle"}]}

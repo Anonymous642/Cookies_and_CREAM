@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "extensify BE", "author": "Harshit Jain", "version": "1.0", "description": "A browser extension that let's you manage your daily task with soothing background and inspiring quotes", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{0e20c5c9-f449-4310-a8af-2de1d37b737c}"}}}

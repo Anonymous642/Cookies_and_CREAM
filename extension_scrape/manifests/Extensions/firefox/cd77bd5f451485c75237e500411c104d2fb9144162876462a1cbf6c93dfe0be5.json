@@ -1,0 +1,1 @@
+{"name": "Conventional Commit", "description": "Showing conventional commit in your navbar", "icons": {"128": "icon.png"}, "version": "1.0.0", "manifest_version": 2, "browser_action": {"default_popup": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{17622eb3-8d3e-4776-8d51-58ca7757ab7c}"}}}

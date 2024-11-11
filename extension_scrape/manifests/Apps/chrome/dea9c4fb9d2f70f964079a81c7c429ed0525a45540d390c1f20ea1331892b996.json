@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Texas HoldEm Poker", "description": "Play Texas HoldEm Poker with your Computer!", "version": "1.1", "app": {"urls": [], "launch": {"web_url": "http://holdemapp.appspot.com/"}}, "icons": {"128": "icon.png"}, "permissions": ["unlimitedStorage"]}

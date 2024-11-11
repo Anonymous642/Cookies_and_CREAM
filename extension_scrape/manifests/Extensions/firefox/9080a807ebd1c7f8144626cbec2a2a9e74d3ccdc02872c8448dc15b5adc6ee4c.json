@@ -1,0 +1,1 @@
+{"description": "__MSG_extensionDescription__", "manifest_version": 2, "name": "PersistentPin", "version": "1.1.1", "homepage_url": "https://github.com/Faerbit/persistentpin-webextension", "options_ui": {"page": "src/options.html"}, "background": {"page": "src/background.html"}, "permissions": ["storage", "tabs", "contextMenus"], "default_locale": "en"}

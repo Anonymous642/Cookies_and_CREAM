@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Ad Skipper", "version": "1.0", "content_scripts": [{"matches": ["https://*.youtube.com/*"], "js": ["ytAdSkipper.js"]}], "browser_action": {"default_icon": "skipper.png"}, "icons": {"128": "skipper.png"}, "browser_specific_settings": {"gecko": {"id": "{d3874eb8-65fe-416f-9e55-f1160e6f4a3d}"}}}

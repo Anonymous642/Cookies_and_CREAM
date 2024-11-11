@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "BFG", "version": "0.0.2", "description": "a simple glossary, nothing to see here.", "content_scripts": [{"matches": ["<all_urls>"], "css": ["bfgStyles.css"], "js": ["bfg.js"]}], "icons": {"128": "bfg.png"}, "manifest_version": 2}

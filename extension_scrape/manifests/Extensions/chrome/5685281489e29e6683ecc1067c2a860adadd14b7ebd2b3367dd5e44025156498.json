@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PBLens", "version": "0.1", "description": "", "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["bionicReading.js"]}]}

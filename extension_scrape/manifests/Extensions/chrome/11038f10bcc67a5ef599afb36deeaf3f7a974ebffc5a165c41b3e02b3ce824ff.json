@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1", "manifest_version": 2, "name": "Lorem Clipsum", "description": "Get some Lorem Ipsum in your clipboard", "author": "Nate Northway", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

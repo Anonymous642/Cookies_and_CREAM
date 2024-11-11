@@ -1,0 +1,1 @@
+{"name": "TruckersFM Tools", "version": "1.0", "manifest_version": 2, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "description": "A simple but powerful extension that adds options to spotify.", "author": "Ninja", "content_scripts": [{"matches": ["https://open.spotify.com/*"], "js": ["content.js"]}], "permissions": ["tabs", "https://*/*"]}

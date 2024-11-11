@@ -1,0 +1,1 @@
+{"author": "Egor Ivanov", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "description": "mOTP Auth", "icons": {"128": "icon.png"}, "manifest_version": 2, "name": "mOTP", "permissions": [], "version": "0.6"}

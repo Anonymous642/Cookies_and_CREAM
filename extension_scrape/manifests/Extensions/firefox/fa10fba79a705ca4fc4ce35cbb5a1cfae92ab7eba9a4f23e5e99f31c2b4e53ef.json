@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "QuizMod", "version": "1.5", "description": "An Extension that automaticly solves every quizz on quizacademy.io", "permissions": ["https://api.quizacademy.io/"], "content_scripts": [{"matches": ["*://*.quizacademy.io/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{754d4065-f93c-41e9-a537-1a85b3528f6d}"}}}

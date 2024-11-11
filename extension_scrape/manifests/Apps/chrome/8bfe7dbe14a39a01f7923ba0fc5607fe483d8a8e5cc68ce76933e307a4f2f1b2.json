@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Test de Velocidad", "manifest_version": 2, "short_name": "Test de Velocidad\u00ba", "description": "Test de velocidad para medir la calidad de tu acceso a Internet", "version": "1", "icons": {"128": "icon.jpg"}, "app": {"launch": {"web_url": "http://speedtest.hekoru.lol/es/"}}}

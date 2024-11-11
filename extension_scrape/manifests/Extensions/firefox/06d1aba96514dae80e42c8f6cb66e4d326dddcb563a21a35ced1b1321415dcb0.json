@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Workflowy Tag Highlighter", "version": "0.5", "description": "Highlights all tags due today", "content_scripts": [{"matches": ["*://*.workflowy.com/*"], "js": ["jquery.min.js", "workflowy.js"]}]}

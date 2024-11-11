@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "dBil", "permissions": ["*://*.bild.de/*", "*://bild.de/*"], "version": "0.0.1.1", "content_scripts": [{"matches": ["*://*.bild.de/*", "*://bild.de/*"], "js": ["bildContentScript.js"], "run_at": "document_start"}], "web_accessible_resources": ["public/*"], "browser_specific_settings": {"gecko": {"id": "dbil@ppluss.de"}}}

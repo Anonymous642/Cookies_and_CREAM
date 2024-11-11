@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Submit to Wayback Machine", "version": "0.0.1", "manifest_version": 3, "description": "Save the current page to Wayback Machine", "icons": {"128": "icon.png"}, "background": {"service_worker": "background.js"}, "permissions": ["activeTab"], "action": {"default_icon": "icon.png"}}

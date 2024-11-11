@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "History Clear", "version": "1.1", "manifest_version": 3, "description": "Auto clear browsing history", "icons": {"16": "icon_16.png", "32": "icon_32.png", "48": "icon_48.png", "128": "icon_128.png"}, "background": {"service_worker": "background.js"}, "permissions": ["browsingData", "alarms"]}

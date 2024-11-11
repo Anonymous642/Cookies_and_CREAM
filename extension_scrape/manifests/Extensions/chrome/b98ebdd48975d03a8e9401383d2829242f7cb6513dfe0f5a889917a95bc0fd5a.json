@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Scranton New Tab Extension", "version": "0.0.1", "chrome_url_overrides": {"newtab": "newtab.html"}, "description": "Overrides the newtab page to better suit Scranton Students.", "browser_action": {"default_icon": "icon.png"}, "permissions": [], "icons": {"128": "icon.png"}}

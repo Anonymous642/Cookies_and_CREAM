@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Agent", "description": "You must be tested.", "version": "1.0", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "agent16.png", "128": "agent128.png"}}

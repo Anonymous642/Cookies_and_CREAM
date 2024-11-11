@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "A Cool Air, Inc.", "description": "A Cool Air, Inc. Air Conditioning System Installations and Services", "version": "2.0", "manifest_version": 2, "icons": {"128": "128.png"}, "app": {"url": ["http://www.acoolair.com/"], "launch": {"web_url": "http://www.acoolair.com"}}}

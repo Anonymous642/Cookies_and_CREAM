@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "DeMarinifier", "version": "1.0", "description": "Remplace les apparitions de Marine, du FN et RBM de votre navigation. Ouf !", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}]}

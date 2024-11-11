@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Groove AI", "description": "Our extension allows you to access the power of AI through your browser.", "version": "0.0.10", "icons": {"128": "icon.png"}, "action": {"default_popup": "index.html"}, "background": {"service_worker": "background.js"}, "permissions": ["storage"]}

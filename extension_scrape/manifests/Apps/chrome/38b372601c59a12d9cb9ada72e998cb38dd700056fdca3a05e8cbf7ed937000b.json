@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "CodeCombat", "minimum_chrome_version": "53.0.2785.143", "version": "0.0.1", "icons": {"16": "favicon.ico", "128": "logo_square_128.png"}, "app": {"background": {"scripts": ["main.js"]}}, "permissions": ["webview"]}

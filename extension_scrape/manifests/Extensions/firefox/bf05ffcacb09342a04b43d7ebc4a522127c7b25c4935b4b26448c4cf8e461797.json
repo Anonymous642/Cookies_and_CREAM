@@ -1,0 +1,1 @@
+{"manifest_version": 2, "icons": {"48": "icons/border-48.png"}, "description": "Customizes the way a webpage looks or behaves, by adding a small CSS code.", "name": "From Anis", "version": "1.5", "content_scripts": [{"matches": ["<all_urls>"], "js": ["main.js"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{5327f9fb-a4c7-4a08-901b-316edec2aec3}"}}}

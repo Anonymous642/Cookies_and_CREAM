@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "very simple auto refresh", "version": "0.1", "manifest_version": 3, "description": "Refreshes the active tab at specified intervals, just that. Simple.", "permissions": ["tabs"], "action": {"default_popup": "popup.html"}}

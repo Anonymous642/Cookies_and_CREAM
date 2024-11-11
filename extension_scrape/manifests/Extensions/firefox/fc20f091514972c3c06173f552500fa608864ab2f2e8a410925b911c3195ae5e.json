@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "mozadd", "version": "1.0", "description": "Adds a red border to all webpages matching mozilla.org.", "browser_action": {"default_title": "add-ons", "default_popup": "tabs.html"}, "content_scripts": [{"matches": ["*://*.mozilla.org/*"], "js": ["mozadd.js"]}]}

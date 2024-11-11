@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "pr0gramm ad-remover", "version": "1.0", "description": "removes ads on pr0gramm.com", "icons": {"48": "pr0logo.png", "128": "pr0logo128.png"}, "content_scripts": [{"matches": ["https://pr0gramm.com/*", "http://pr0gramm.com/*"], "js": ["pr0adremove.js"]}]}

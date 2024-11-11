@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Walmart Extractor znzinc", "version": "1.0.0", "manifest_version": 3, "description": "Walmart Extractor znzinc", "background": {"service_worker": "Background.js"}, "icons": {"16": "16.png", "48": "48.png"}, "permissions": ["tabs", "scripting"], "host_permissions": ["<all_urls>"]}

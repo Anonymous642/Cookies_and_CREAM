@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Porn Out", "version": "1.0", "description": "Blocking porn & adult materials", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "icons": {"48": "icon48.png"}, "background": {"scripts": ["event.js"], "persistent": true}, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>", "storage", "tabs"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Unlike X Tweets", "description": "Unlike many tweets at once on x.com or twitter.com.", "version": "1.0", "action": {"default_popup": "index.html", "default_icon": "pixil-frame-0.png"}, "permissions": ["scripting", "activeTab"]}

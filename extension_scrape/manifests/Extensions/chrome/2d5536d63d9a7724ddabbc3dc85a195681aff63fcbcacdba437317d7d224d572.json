@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Zatrolene power tools", "version": "1.0.0", "description": "Odstrani vyzadovani titulku u diskuzi, pridava moznost zruseni sledovani inzeratu, v budoucnu mozna dalsi.", "content_scripts": [{"css": ["styles.css"], "js": ["content.js"], "matches": ["https://www.zatrolene-hry.cz/*"]}]}

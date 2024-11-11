@@ -1,0 +1,1 @@
+{"name": "NoNicoNews", "version": "0.1", "manifest_version": 2, "description": "Fuck Dwango", "icons": {"16": "icons/icon16.png", "48": "icons/icon48.png"}, "content_scripts": [{"run_at": "document_start", "matches": ["http://www.nicovideo.jp/*"], "css": ["embed.css"]}], "permissions": ["http://www.nicovideo.jp/*"]}

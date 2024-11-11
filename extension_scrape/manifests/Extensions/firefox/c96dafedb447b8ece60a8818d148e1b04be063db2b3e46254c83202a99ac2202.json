@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Wrangler", "version": "0.13", "description": "Wrangle your tabs!", "permissions": ["contextMenus", "tabs"], "applications": {"gecko": {"id": "{f82cbc08-ccb2-4adb-b2ec-f72310650602}", "strict_min_version": "42.0"}}, "background": {"scripts": ["background.js"]}, "icons": {"96": "icons/icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"launch": {"local_path": "index.html"}}, "name": "Catecismo", "description": "Catecismo da Igreja Cat\u00f3lica.", "version": "1.3.0", "manifest_version": 2, "offline_enabled": true, "icons": {"16": "icon128.png", "128": "icon128.png"}}

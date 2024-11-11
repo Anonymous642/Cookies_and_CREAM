@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "version": "1.0", "name": "Bitcoin Price", "icons": {"48": "48.png", "128": "128.png"}, "background": {"scripts": ["background.js"]}, "permissions": [], "browser_action": {"default_icon": "48.png"}}

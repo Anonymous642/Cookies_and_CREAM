@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Print Google Maps Better", "description": "Print Google Maps Better!", "version": "1.1", "manifest_version": 3, "icons": {"128": "icon128.png"}, "content_scripts": [{"matches": ["https://www.google.com/maps/*"], "js": ["printer.js"]}]}

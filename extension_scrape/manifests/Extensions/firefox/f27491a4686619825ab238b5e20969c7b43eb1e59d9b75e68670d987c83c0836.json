@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PAOK FC Super League Schedule", "version": "4.0.1", "description": "The match schedule for PAOK FC in Super League Greece (as shown in https://www.slgr.gr/en/schedule/).", "icons": {"48": "icons/logo-48.png", "96": "icons/logo-96.png"}, "permissions": ["activeTab"], "browser_action": {"default_popup": "popup/paok_sched.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SNL LIX verkt\u00f8y", "description": "F\u00e5 LIX-vurdering av SNL-artikler", "version": "1.0", "manifest_version": 3, "content_scripts": [{"js": ["lix.js"], "matches": ["https://snl.no/*", "https://meta.snl.no/*", "https://sml.snl.no/*", "https://nbl.snl.no/*", "https://nkl.snl.no/*"]}]}

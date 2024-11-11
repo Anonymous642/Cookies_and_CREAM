@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ZUZ", "description": "Myanmar Unicode Zawgyi text Converter", "version": "0.1", "app": {"background": {"scripts": ["scripts.js"]}}, "icons": {"16": "zUz-16.png", "128": "zUz-128.png"}}

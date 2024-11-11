@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u1790\u17d2\u1784\u17c3\u1781\u17c2\u1785\u1793\u17d2\u1791\u1782\u178f\u17b7", "version": "1.1.1", "description": "Facilitate teachers, students and staff to copy the Lunar day.", "manifest_version": 3, "action": {"default_popup": "popup.html", "default_icon": "logo.png"}, "icons": {"128": "logo.png"}}

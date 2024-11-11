@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Interrupted!", "description": "For tracking your time on the ticket and pesky interlopers.", "version": "1.0.1", "browser_action": {"default_icon": "rogue.png", "default_popup": "popup.html"}, "background": {"persistant": true}}

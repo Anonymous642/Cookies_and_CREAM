@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Rin-dates", "version": "1.0", "description": "Quick Updates to Mal", "permissions": ["storage", "identity", "https://myanimelist.net/*", "https://api.myanimelist.net/*"], "action": {"default_popup": "updater.html"}}

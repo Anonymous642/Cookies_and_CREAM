@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Wildlife Media", "description": "Wildlife Media ist eine Bildagentur mit faszinierenden und hochaufl\u00f6senden Naturaufnahmen.", "version": "1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://wildlife-media.at/"], "launch": {"web_url": "http://wildlife-media.at/"}}, "manifest_version": 2}

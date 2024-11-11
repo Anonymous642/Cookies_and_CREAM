@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Is It Relevant?", "version": "0.3.0", "description": "Tells you if an article is over a week old.", "content_scripts": [{"css": ["styles.css"], "js": ["scripts.js"], "matches": ["*://*/*"]}]}

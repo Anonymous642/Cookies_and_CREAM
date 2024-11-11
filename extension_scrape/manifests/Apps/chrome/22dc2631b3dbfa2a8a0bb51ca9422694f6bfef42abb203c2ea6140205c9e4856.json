@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Rise of Champions", "description": "Destroy your enemies in epic PvP combat!", "version": "1.0", "manifest_version": 2, "app": {"urls": ["http://www.riseofchampions.com/"], "launch": {"web_url": "http://www.riseofchampions.com/"}}, "icons": {"128": "icon_128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Rekenen PO", "description": "Rekenen App voor het Basis onderwijs", "version": "0.5", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "math-icon_16.png", "128": "math-icon_128.png"}}

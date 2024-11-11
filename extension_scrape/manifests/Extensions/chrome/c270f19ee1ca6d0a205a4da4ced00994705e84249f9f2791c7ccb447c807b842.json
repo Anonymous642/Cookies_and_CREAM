@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "FartScroll", "description": "Back and better than ever!", "version": "1.0", "manifest_version": 3, "content_scripts": [{"matches": ["https://*/*"], "js": ["index.js"]}]}

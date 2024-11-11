@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "XE.com currency exchang rate", "version": "1.0", "description": "XE.com foreign exchange button", "background": {"scripts": ["button.js"]}, "browser_action": {"default_icon": {"48": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{e84bb1bb-b167-4e87-ab1d-f3f2a8c34eae}"}}}

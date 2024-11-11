@@ -1,0 +1,1 @@
+{"name": "Pomme", "manifest_version": 2, "version": "0.1", "action": {"default_popup": "popup/main.html"}, "browser_specific_settings": {"gecko": {"id": "{bce51673-8ed7-49c4-9026-eda493cfb71a}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "3dhype", "short_name": "3dhype", "version": "1", "icons": {"24": "24.png", "128": "128.png"}, "app": {"urls": ["http://www.3dhype.com/"], "launch": {"web_url": "http://www.3dhype.com/"}}, "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CtrlShiftLeave", "version": "1.0", "description": "Closes a window when CTRL+Shift are held down and the mouse leaves the window", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["ctrlshiftleave.js"]}], "browser_specific_settings": {"gecko": {"id": "{c9524a3a-1a7b-4ca9-a3fe-765581d675d4}"}}}

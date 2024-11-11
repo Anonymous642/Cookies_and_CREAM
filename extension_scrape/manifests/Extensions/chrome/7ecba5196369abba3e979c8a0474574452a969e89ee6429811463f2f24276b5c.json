@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "JGO Enhancer", "version": "1.2", "description": "Enhances the JGO experience.", "icons": {"48": "icon48.png", "128": "icon128.png"}, "author": "Roi Atalla", "content_scripts": [{"matches": ["http://www.java-gaming.org/index.php?action=unread;all*"], "js": ["jgo-enhancer.js"]}]}

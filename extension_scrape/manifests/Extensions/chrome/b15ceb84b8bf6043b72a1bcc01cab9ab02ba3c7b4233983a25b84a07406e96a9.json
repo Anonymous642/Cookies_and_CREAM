@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Merch38", "version": "1.01", "description": "Print any image on your custom t-shirt.", "manifest_version": 2, "background": {"scripts": ["js/background.js"]}, "permissions": ["contextMenus"], "icons": {"16": "ChromeLogo16-16.png", "48": "ChromeLogo48-48.png", "128": "ChromeLogo128-128.png"}}

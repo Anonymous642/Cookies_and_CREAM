@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Better Sidebar for Wikipedia", "version": "1.0.2", "description": "Moves the table of contents to the sidebar, which makes it infinitely easier to navigate through a Wikipedia document", "icons": {"48": "icons/w.svg"}, "content_scripts": [{"matches": ["*://*.wikipedia.org/*"], "js": ["sidebar.js"]}]}

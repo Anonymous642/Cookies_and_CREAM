@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Kraken Memory Game", "description": "Memory game with funny creatures for mobile and desktop devices.", "version": "0.9.0.2", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "offline_enabled": true, "app": {"urls": ["http://kraken.x-labz.net/"], "launch": {"web_url": "http://kraken.x-labz.net/"}}}

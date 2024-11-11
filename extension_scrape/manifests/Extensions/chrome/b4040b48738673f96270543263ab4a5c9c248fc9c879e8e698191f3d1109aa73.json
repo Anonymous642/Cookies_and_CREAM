@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ECRP Select Search", "version": "0.0.5", "browser_specific_settings": {"gecko": {"id": "ecrp_select_search@hazel.me", "strict_min_version": "109.0"}}, "content_scripts": [{"matches": ["*://gov.eclipse-rp.net/*"], "js": ["content.js"], "run_at": "document_start"}]}

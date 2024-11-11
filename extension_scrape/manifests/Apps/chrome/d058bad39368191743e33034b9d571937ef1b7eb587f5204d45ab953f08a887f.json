@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Startquestion", "description": "Create surveys, forms and tests for free. Try leading tool.", "version": "0.0.0.3", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.startquestion.com/"], "launch": {"web_url": "http://www.startquestion.com"}}}

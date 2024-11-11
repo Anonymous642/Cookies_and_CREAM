@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Remove Hotstar Watermark", "version": "1.0", "description": "Removes the Hotstar watermark from videos.", "icons": {"48": "icons/hotstar-logo-cross-48.png"}, "content_scripts": [{"matches": ["*://*.hotstar.com/*"], "js": ["remove_hotstar_watermark.js"]}]}

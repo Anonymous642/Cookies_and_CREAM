@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Periodic Table", "description": "A simple periodic table of the elements designed to be beautiful and user-friendly.", "version": "3.5", "app": {"launch": {"local_path": "table.html"}}, "icons": {"16": "icon_16.png", "128": "icon_128.png"}}

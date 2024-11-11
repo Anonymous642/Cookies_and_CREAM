@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "PS-Tracker Notification", "description": "PS-Tracker Chrome notification", "manifest_version": 2, "version": "0.1", "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["gcm", "storage", "notifications"], "icons": {"128": "logo128.png"}}

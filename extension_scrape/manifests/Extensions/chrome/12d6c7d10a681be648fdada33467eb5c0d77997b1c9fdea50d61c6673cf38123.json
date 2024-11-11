@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "action": {"default_popup": "main.html"}, "description": "Rubik's cube game offline", "icons": {"16": "Icon.png", "48": "Icon.png", "128": "Icon.png"}, "manifest_version": 3, "name": "Offline Rubik's Cube", "version": "1.01"}

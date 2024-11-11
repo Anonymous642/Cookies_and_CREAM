@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Better SPID", "version": "1.1", "developer": {"name": "Francesco Sorge", "url": "https://francescosorge.com"}, "description": "Orders SPID providers and adds a handy search box", "icons": {"48": "icons/logo-48.png", "96": "icons/logo-96.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["main.js"], "run_at": "document_end"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NoShorts", "version": "1.2", "description": "Reverts Youtube shorts to regular videos", "icons": {"250": "noShortsIcon.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["noShorts.js"]}], "browser_specific_settings": {"gecko": {"id": "{11e8f2a5-ff36-4e5d-a3ea-cc5a31b014f8}"}}}

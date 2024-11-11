@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UutisStna", "version": "0.1", "description": "Uutiset hauskoiksi", "content_scripts": [{"matches": ["*://*.is.fi/"], "js": ["sites/IS/is-frontpage.js"]}, {"matches": ["*://*.is.fi/*"], "js": ["sites/IS/is-article.js"]}, {"matches": ["*://*.iltalehti.fi/*"], "js": ["sites/iltalehti.js"]}]}

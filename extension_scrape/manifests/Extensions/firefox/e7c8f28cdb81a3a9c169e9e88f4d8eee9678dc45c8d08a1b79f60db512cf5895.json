@@ -1,0 +1,1 @@
+{"name": "GetColors", "version": "1.0", "description": "Extension for getting website color codes easily", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup/popup.html"}, "icons": {"48": "icons/logo48px.png", "96": "icons/logo96px.png"}, "manifest_version": 2}

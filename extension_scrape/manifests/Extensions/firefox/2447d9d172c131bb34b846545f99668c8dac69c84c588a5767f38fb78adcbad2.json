@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FA page Blocker", "version": "1.0", "description": "blocks some user pages of fa", "content_scripts": [{"matches": ["*://*.furaffinity.net/*"], "js": ["fapb.js"]}]}

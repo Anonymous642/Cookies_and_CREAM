@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sayna_Coorector", "version": "0.1", "description": "realign correctly sayna.academy style", "icons": {"32": "icons/setting.png"}, "content_scripts": [{"matches": ["https://sayna.academy/*"], "js": ["coorector.js"]}], "browser_specific_settings": {"gecko": {"id": "{2ec7617f-aaa2-4f77-8448-11dd46d13fa8}"}}}

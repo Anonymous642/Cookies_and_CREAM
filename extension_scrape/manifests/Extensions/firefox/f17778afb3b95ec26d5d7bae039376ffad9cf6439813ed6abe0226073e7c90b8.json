@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Acharya RatnaSunderJi Jainism", "version": "1.0", "icons": {"16": "icons/icon16.png", "48": "icons/icon48.png", "128": "icons/icon128.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "background": {"scripts": ["js/main.js"]}, "browser_specific_settings": {"gecko": {"id": "{a4fa2e4c-0b60-4adc-b3cf-955a0b96634b}"}}}

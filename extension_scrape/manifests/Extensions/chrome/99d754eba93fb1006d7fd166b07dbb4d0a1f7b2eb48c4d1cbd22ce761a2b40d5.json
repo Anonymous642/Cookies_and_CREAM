@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "XDOOR", "description": "Bypass the glassdoor wall", "version": "1.0", "manifest_version": 3, "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["https://www.glassdoor.com/*"], "js": ["inject.js"], "run_at": "document_end", "world": "MAIN"}]}

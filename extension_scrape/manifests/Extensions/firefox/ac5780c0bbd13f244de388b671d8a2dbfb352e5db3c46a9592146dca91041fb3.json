@@ -1,0 +1,1 @@
+{"name": "DictZone angol magyar sz\u00f3t\u00e1r", "version": "1.0", "manifest_version": 2, "description": "Keres\u00e9s a DictZone angol magyar sz\u00f3t\u00e1rban", "background": {"scripts": ["main.js"]}, "permissions": ["https://*/*", "contextMenus", "tabs"]}

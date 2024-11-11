@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SnapFull", "version": "0.0.1", "manifest_version": 3, "description": "Improved desktop video calling UI for Snapchat.", "icons": {"48": "assets/icon48.png", "128": "assets/icon128.png"}, "content_scripts": [{"matches": ["*://web.snapchat.com/*"], "js": ["snapfull.js"], "run_at": "document_end"}]}

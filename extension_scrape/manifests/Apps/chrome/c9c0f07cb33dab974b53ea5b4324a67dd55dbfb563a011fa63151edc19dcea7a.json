@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Inklyo.com", "description": "Learn To Write Anything Well", "version": "0.0.0.3", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://www.Inklyo.com/"], "launch": {"web_url": "https://www.Inklyo.com/"}}}

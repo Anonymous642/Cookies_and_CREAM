@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Collectors Bridge", "version": "0.0.0.1", "description": "A powerful yet intuitive way to manage and showcase your Collectables.", "icons": {"128": "icon_128.png"}, "app": {"launch": {"web_url": "http://beta.collectorsbridge.com"}}}

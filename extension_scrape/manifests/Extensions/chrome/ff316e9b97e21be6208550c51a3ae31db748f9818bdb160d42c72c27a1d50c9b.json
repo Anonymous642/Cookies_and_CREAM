@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Cookie Monsta", "description": "Lehnt automatisch die Cookies einer neu besuchten Seite ab.", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["script.js"]}], "icons": {"128": "cookie.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Soru PDF", "description": "Soru bankalar\u0131 hakk\u0131nda bilgi edinebilece\u011finiz eklenti arac\u0131.", "version": "1.0", "manifest_version": 3, "action": {"default_title": "Soru PDF", "default_icon": "logo.png", "default_popup": "plugin.html"}, "icons": {"128": "logo.png"}}

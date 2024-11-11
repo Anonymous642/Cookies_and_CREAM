@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Lakhtocrore", "version": "0.2", "description": "Converts any amount selected into Indian Currency in words", "permissions": ["activeTab", "contextMenus", "notifications"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["Lakhtocrore.js"]}]}

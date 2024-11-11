@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "widen-mail", "version": "1.0", "description": "Removes the annoying blank sidebar on the right side of Outlook.com", "content_scripts": [{"matches": ["*://*.outlook.live.com/*"], "js": ["./main.js"]}], "browser_specific_settings": {"gecko": {"id": "{504431f0-9ba0-4b48-8f1a-61c8c8ec2903}"}}}

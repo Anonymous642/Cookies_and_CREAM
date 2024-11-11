@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "JSON Groomer", "description": "JSON Grommer gives you beautifully groomed JSON data that is copied on just single click.", "permissions": ["activeTab"], "version": "1.0", "action": {"default_popup": "popup.html", "default_icon": "images/json.png"}}

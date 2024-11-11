@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Internet Ready Images", "description": "Professional Photo Editing & Photoshop Services.", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["HTTP://WWW.INTERNETREADYIMAGES.COM/"], "launch": {"web_url": "HTTP://WWW.INTERNETREADYIMAGES.COM/"}}}

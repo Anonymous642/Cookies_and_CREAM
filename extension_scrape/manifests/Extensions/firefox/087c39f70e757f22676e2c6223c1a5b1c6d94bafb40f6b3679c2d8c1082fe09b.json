@@ -1,0 +1,1 @@
+{"name": "DitoxTV | Notification", "manifest_version": 2, "version": "0.1", "description": "Notification from the twitch channel of DitoxTV", "background": {"scripts": ["request.js"]}, "browser_action": {"default_popup": "app.html", "default_icon": "img/idle.png"}, "permissions": ["notifications", "tabs"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "EZOfficeInventory", "description": "Asset Tracking Software that makes equipment management super easy", "version": "1.0.0.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.ezofficeinventory.com/"], "launch": {"web_url": "http://www.ezofficeinventory.com/"}}}

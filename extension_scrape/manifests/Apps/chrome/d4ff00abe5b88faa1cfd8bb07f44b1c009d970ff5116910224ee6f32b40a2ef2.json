@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SpeedTest Online", "manifest_version": 2, "short_name": "SpeedTest Online", "description": "Test your Internet connection bandwidth", "version": "1", "icons": {"128": "icon.jpg"}, "app": {"launch": {"web_url": "http://speedtest.hekoru.lol/"}}}

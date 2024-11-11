@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "vTableCount", "version": "1.2", "description": "Sum values in table cells / Somar valores em c\u00e9lulas de tabelas", "icons": {"48": "icons/vtablecount.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["scripts/jquery.js", "scripts/vtablecount.js"]}]}

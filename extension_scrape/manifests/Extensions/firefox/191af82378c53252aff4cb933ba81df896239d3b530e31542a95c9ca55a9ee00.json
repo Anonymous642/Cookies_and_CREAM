@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LoopbackSide", "version": "1.0", "author": "Anindyasundar Bera", "description": "this extension shows the invisible sidebars of loopback.io documentation", "icons": {"48": "icons/border-48.png"}, "applications": {"gecko": {"id": "loopbackside@mrbera.in"}}, "content_scripts": [{"matches": ["*://*.loopback.io/*"], "js": ["sidebars.js"]}]}

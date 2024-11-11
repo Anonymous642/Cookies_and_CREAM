@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ori & the blind forest", "version": "1.0", "description": "changes the cursor to ori and adds a background.", "icons": {"48": "ori2.png"}, "web_accessible_resources": ["bg.jpg", "ori.png", "ori2.png", "ori.mp3"], "content_scripts": [{"matches": ["*://*.google.com/*"], "css": ["test.css"], "js": ["sound.js"]}]}

@@ -1,0 +1,1 @@
+{"description": "Deaktiviert automatisch den Qualit\u00e4tsfilter (QFD) bei Twitter", "manifest_version": 2, "name": "QFD-Off", "version": "1.01b", "homepage_url": "https://twitter.com/123BlaBleh", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "icons": {"48": "icons/qfd.png"}, "background": {"scripts": ["qfdv1beta.js"]}}

@@ -1,0 +1,1 @@
+{"background": {"scripts": ["background.js"]}, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["click.js"]}], "manifest_version": 2, "name": "No AutoPlay on YouTube Channel Page", "permissions": ["webNavigation", "https://www.youtube.com/*"], "version": "4"}

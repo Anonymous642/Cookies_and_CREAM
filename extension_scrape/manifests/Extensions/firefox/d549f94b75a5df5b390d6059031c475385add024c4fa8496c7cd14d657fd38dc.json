@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Scryfall Art Crop", "version": "1.0", "description": "Adiciona um link para o corte de arte do Scryfall", "icons": {"48": "icons/crop-48.png"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://scryfall.com/card/*"], "js": ["art-crop.js"]}]}

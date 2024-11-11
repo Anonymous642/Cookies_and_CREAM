@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "No Submit On Enter for Twitter DM", "version": "0.0.3", "manifest_version": 2, "description": "Prevent sending messages when you press Enter on Twitter DM.", "icons": {"128": "icon128.png"}, "content_scripts": [{"matches": ["https://twitter.com/*"], "js": ["content.js"]}]}

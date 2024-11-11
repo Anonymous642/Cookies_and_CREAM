@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "9GagVideoControls", "version": "1.0", "description": "Makes controls visible on 9gag.com", "icons": {"48": "9gag-48.png"}, "content_scripts": [{"matches": ["*://9gag.com/*", "*://www.9gag.com/*"], "js": ["9gag.js"]}], "browser_specific_settings": {"gecko": {"id": "9gagspecial@Id"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My Basic Extension", "version": "1.0", "description": "A basic Firefox extension", "icons": {"48": "icon.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{407cdf8d-7ab8-48ff-9435-e216d3537531}"}}}

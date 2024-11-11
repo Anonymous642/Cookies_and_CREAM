@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Appgenerator - kostenlos Apps erstellen", "description": "Erstelle kostenlos Android Apps - individuell, schnell und einfach!", "version": "1", "app": {"launch": {"web_url": "http://appmaker.merq.org"}}, "icons": {"16": "16.png", "128": "128.png"}}

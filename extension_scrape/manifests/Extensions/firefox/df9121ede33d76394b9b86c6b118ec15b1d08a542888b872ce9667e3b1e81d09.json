@@ -1,0 +1,1 @@
+{"description": "Open Zoom meeting links in the app. That's all.", "manifest_version": 2, "name": "Zoom Launcher", "version": "1.0.1", "icons": {"48": "icons/icon-zoom-48.png", "96": "icons/icon-zoom-96.png"}, "permissions": ["webRequest", "webRequestBlocking", "tabs", "https://*.zoom.us/*", "https://*.zoom.com/*"], "background": {"scripts": ["background.js"]}}

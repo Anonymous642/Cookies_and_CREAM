@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Private URLs", "version": "0.1.0", "author": "Jon Dufresne", "description": "Clean and rewrite URLs to their final destination", "background": {"scripts": ["privateurls.js"]}, "permissions": ["<all_urls>", "webRequest", "webRequestBlocking"]}

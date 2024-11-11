@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "NTasks", "description": "To Do List", "version": "1.0.0.1", "manifest_version": 2, "app": {"urls": ["http://www.ntasks.altervista.org/"], "launch": {"web_url": "http://www.ntasks.altervista.org/"}}, "icons": {"24": "24nl.png", "32": "32nl.png", "48": "48nl.png", "128": "128nl.png"}}

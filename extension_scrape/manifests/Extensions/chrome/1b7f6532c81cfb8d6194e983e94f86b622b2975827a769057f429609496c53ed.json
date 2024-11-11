@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Stay Up Search", "description": "Revolutionize your new tab page!", "version": "1.5", "manifest_version": 3, "chrome_url_overrides": {"newtab": "new_tab.html"}, "icons": {"128": "/img/Stay_up_search_icon.jpg"}}

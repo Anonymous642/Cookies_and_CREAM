@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Beer Ngin - The app", "description": "Beer Ngin chrome extension", "version": "1.0", "manifest_version": 2, "app": {"background": {"scripts": ["src/background.js"]}}, "permissions": ["webview"], "kiosk_enabled": true}

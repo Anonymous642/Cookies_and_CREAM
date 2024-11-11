@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tamatar", "description": "Pomodoro Timer", "version": "0.1", "manifest_version": 2, "permissions": ["notifications"], "app": {"background": {"scripts": ["src/scripts/background.js"]}}, "icons": {"16": "src/assets/images/tamaterial-16.png", "128": "src/assets/images/tamaterial-128.png"}}

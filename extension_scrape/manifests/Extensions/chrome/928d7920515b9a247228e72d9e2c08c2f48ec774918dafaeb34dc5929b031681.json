@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Color quiz", "description": "Try to figure out what the color it is", "version": "1.0.0", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}}

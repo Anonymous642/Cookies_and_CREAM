@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Grammify", "description": "Write Better Now!", "version": "0.0.2", "manifest_version": 3, "action": {"default_popup": "index.html", "default_icon": "grammify.png"}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "permissions": ["storage"]}

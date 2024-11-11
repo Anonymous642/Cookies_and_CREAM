@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sidebad", "version": "1.1", "description": "Keep your favorite live matches from scorebad.fr in sight with this sidebar!", "icons": {"48": "icons/sidebad-48.png"}, "sidebar_action": {"default_title": "Sidebad", "default_panel": "sidebar/sidebad.html", "default_icon": "icons/sidebad-48.png"}}

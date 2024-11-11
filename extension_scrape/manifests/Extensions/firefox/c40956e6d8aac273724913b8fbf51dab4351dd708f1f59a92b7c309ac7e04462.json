@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fullscreen", "version": "1.0", "description": "xOs style full screen button", "background": {"scripts": ["fullscreen.js"]}, "browser_action": {"default_icon": "icon.svg", "default_title": "Fullscreen", "scripts": ["fullscreen.js"]}, "browser_specific_settings": {"gecko": {"id": "{21eb6871-196d-4251-9b30-5f3038dc10e1}"}}}

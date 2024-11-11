@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "HexToRGB", "version": "1.7.4", "description": "Convert Hexa Code to RGB in your new tab", "icons": {"128": "icons/128.png"}, "background": {"service_worker": "background.js"}, "chrome_url_overrides": {"newtab": "newTab.html"}, "manifest_version": 3}

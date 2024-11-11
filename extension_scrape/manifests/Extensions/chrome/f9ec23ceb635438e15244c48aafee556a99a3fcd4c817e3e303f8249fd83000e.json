@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Clash Of Clans Creator Code", "version": "1.3", "description": "Clash Of Clans Creator Code List", "background": {"service_worker": "background.js"}, "icons": {"128": "icon.png"}, "action": {"default_popup": "popup/popup.html"}, "permissions": []}

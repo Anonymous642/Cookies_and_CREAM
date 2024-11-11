@@ -1,0 +1,1 @@
+{"browser_specific_settings": {"gecko": {"id": "Emanreo@example.com"}}, "manifest_version": 3, "name": "BrowseMark", "version": "1.0", "description": "Uses the Firefox.bookmarks API to search through, add, and delete bookmarks from the user's bookmark tree.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["bookmarks"]}

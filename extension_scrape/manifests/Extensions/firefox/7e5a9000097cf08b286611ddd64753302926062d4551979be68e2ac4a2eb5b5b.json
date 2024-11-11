@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sizzy", "version": "1.0", "description": "The responsive design browser (sizzy.co)", "icons": {"48": "icons/sizzy-48.png", "96": "icons/sizzy-96.png"}, "permissions": ["tabs"], "browser_action": {"default_icon": "icons/sizzy-96.png", "default_title": "Sizzy"}, "background": {"scripts": ["sizzy.js"]}}

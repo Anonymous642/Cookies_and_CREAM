@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Liferay Alert Designer", "version": "1.2", "description": "Adds a new and fresh look to the really miss placed Alert.", "homepage_url": "https://liferay.com/", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*/*"], "css": ["liferay.css"], "js": ["jquery.js", "liferay.js"]}]}

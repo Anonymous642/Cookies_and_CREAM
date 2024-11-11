@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NoOldVideos", "version": "1.0", "description": "Stops youtube from reccomending videos you already watched", "content_scripts": [{"matches": ["*://*.youtube.com/"], "js": ["main.js"]}]}

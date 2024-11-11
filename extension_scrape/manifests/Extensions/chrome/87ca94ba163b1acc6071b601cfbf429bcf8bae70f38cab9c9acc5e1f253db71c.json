@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Politica", "description": "Analyze articles for political bias ratings with one click.", "version": "1.0.0", "action": {"default_popup": "index.html"}, "icons": {"256": "favicon.png"}, "permissions": ["activeTab"]}

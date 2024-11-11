@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "0.0.1", "name": "Midnightify", "icons": {"48": "midnight-icon.gif", "96": "midnight-icon.gif"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["main.js"]}], "web_accessible_resources": ["midnight.gif"], "browser_specific_settings": {"gecko": {"id": "{3b2a115d-16b7-414d-adad-e2b4c023f158}"}}}

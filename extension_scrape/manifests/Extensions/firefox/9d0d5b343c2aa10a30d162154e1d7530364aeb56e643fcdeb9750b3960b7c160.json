@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Focus for Kodular", "version": "1.0", "description": "Kodular toolbar tweaks, focus on what you are doing!", "icons": {"48": "icons/focus48.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/focus32.png", "default_title": "Focus", "default_popup": "popup/ff.html"}}

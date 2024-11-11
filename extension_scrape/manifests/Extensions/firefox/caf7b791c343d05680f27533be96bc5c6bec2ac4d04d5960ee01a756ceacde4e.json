@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "remove-aria", "version": "1.0", "description": "Removes aria from various sites. ", "browser_action": {"default_title": "Remove aria", "default_popup": "popup/remove_aria.html"}, "permissions": ["activeTab"], "applications": {"gecko": {"id": "{6b6af850-f809-44a3-8c02-db1db5d2eb73}"}}}

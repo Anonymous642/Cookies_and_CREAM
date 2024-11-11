@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Xiun Lam", "version": "0.1", "manifest_version": 3, "description": "Volcado autom\u00e1tico de notas en SIU Guaran\u00ed.  VERSI\u00d3N EXPERIMENTAL.", "icons": {"128": "siuGuarani.png"}, "content_scripts": [{"matches": ["https://docentes.unlam.edu.ar/*"], "js": ["siu.js"], "css": ["siu.css"]}]}

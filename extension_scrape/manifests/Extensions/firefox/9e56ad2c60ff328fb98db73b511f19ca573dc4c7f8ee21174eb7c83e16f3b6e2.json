@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Close current tab", "version": "1.0.1", "description": "Adds button to close current tab.", "icons": {"48": "icons/icon.png"}, "browser_action": {"default_area": "tabstrip", "default_icon": "icons/icon.png", "default_title": "Close current tab"}, "background": {"scripts": ["close_current_tab.js"]}}

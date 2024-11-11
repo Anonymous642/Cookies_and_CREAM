@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Extranet BSGI", "manifest_version": 2, "description": "\u00c1rea de membros da BSGI", "version": "0.2", "app": {"urls": ["https://extra2.bsgi.org.br/"], "launch": {"web_url": "https://extra2.bsgi.org.br/"}}, "icons": {"128": "app_extranet_amarelo.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Scribble Maps", "description": "Create and share custom google maps with scribblings and more!", "version": "2.0.0.3", "manifest_version": 2, "icons": {"128": "logo128.png"}, "app": {"urls": ["http://www.scribblemaps.com/"], "launch": {"web_url": "http://www.scribblemaps.com/"}}}

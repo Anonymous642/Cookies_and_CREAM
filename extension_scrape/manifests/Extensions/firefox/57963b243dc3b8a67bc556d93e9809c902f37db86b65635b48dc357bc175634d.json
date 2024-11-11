@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HTTP Cat Tabs", "version": "1.2", "description": "Replaces new tab pages with a radom http.cat status", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{34da7727-3320-44ce-83b6-d0f7eb222b71}"}}}

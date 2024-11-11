@@ -1,0 +1,1 @@
+{"manifest_version": 2, "icons": {"48": "icon.png", "128": "icon128.png"}, "name": "New Tab Aquarium", "version": "1.1", "applications": {"gecko": {"id": "tabraef2@mozilla.org"}}, "background": {"scripts": ["background.js"], "persistent": false}, "permissions": ["tabs"]}

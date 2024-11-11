@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Alza.cz", "description": "Nejv\u011bt\u0161\u00ed obchod s po\u010d\u00edta\u010di a elektronikou", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "alza_128.png"}, "app": {"urls": ["http://www.alza.cz/"], "launch": {"web_url": "http://www.alza.cz/"}}}

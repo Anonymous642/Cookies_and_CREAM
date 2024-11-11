@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Chrome Tab Limiter - 5 Tabs", "description": "Mission Labs tab limiter - limits the maximum number of open tabs to 5.", "manifest_version": 3, "version": "1.4", "host_permissions": [], "browser_action": {"default_icon": "logo.png"}, "background": {"service_worker": "tab.js"}}

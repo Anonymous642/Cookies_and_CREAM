@@ -1,0 +1,1 @@
+{"name": "new tab links", "manifest_version": 2, "version": "1.5.1", "description": "A replacement new tab page, displays a clock and links of your choosing.", "applications": {"gecko": {"id": "{2fdf13eb-fee6-48c7-9bd3-5624a005d68e}"}}, "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sorting mod for Google Scholar", "version": "1.0", "manifest_version": 3, "description": "OK google, please implement various sorting methods immediately.", "content_scripts": [{"matches": ["https://scholar.google.co.jp/scholar?*"], "js": ["onlyCurrentPage.js"]}]}

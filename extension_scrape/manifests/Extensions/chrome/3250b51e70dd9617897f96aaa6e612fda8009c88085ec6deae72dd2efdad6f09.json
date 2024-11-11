@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Midnight Tab", "version": "0.1", "description": "A New-Tab Welcoming Screen. Perfect for night...", "icons": {"128": "content/128.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "manifest_version": 3}

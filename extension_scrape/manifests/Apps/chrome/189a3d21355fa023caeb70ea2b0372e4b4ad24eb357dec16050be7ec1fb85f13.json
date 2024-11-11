@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "EIS", "description": "Essential Insurance Services", "version": "0.0.0.2", "manifest_version": 2, "icons": {"128": "EIS_128_1.png"}, "app": {"urls": ["http://www.bp-ric.com/"], "launch": {"web_url": "http://www.bp-ric.com/"}}}

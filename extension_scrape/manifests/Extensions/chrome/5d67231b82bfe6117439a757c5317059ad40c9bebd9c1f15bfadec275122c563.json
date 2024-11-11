@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Catto-Norris", "version": "1.0.0", "description": "Cat Facts and Chuck Norris Jokes", "manifest_version": 3, "author": "Rao Sahab", "action": {"default_popup": "main.html", "default_title": "Now Showing Your Selection"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Spectrum Tab Page", "description": "A smooth, simple and colorful tab page.", "version": "3.0", "icons": {"48": "icon48.png", "128": "icon128.png", "256": "icon256.png"}, "permissions": ["tabs"], "chrome_url_overrides": {"newtab": "index.html"}}

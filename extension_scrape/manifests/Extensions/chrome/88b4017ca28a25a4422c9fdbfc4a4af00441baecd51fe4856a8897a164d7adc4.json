@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "WDD", "version": "2.0", "description": "Check if Your favorite website is down.", "author": "ThatFriendlyIndianKid", "action": {"default_icon": "icon.png", "default_title": "WDD", "default_popup": "popup.html"}, "host_permissions": ["http://*/*", "https://*/*"]}

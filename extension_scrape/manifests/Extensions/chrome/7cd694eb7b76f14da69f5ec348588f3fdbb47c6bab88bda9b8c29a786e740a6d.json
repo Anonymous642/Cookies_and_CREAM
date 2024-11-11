@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Blank New Tab Page", "version": "0.0.1", "description": "Blank new tab page. Background is white or dark gray, depending on your system theme.", "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"16": "icon-16.png", "128": "icon-128.png", "256": "icon-256.png"}}

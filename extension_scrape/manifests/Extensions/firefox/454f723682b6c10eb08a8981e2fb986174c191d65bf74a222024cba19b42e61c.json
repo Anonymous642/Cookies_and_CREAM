@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CssMaster", "version": "1.0", "description": "Allows for basic CSS manipulation of elements with simple hotkeys", "content_scripts": [{"matches": ["<all_urls>"], "js": ["CssMaster.js"]}]}

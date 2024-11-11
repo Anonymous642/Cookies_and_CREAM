@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Space Sokoban", "description": "Sokoban game", "version": "2.0", "app": {"urls": ["http://www.game-sokoban.com/"], "launch": {"web_url": "http://www.game-sokoban.com/"}}, "icons": {"128": "c128.png"}, "manifest_version": 2, "permissions": ["unlimitedStorage", "notifications"]}

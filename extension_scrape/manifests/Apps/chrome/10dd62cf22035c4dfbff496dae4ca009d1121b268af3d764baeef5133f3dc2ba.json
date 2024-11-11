@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Sutanto.Org", "description": "Data Science, Data Mining, Big Data, & Internet of Things Indonesia", "version": "0.0.0.3", "icons": {"128": "icon_128.png"}, "app": {"urls": ["HTTPS://SUTANTO.ORG/"], "launch": {"web_url": "HTTPS://SUTANTO.ORG/"}}}

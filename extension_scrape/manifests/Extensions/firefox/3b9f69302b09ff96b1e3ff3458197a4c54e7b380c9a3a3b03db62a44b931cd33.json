@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My Extension", "version": "1.0", "description": "A simple extension to change the font of all websites.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{0dad7892-ab43-44cf-8c0f-d66703ab683c}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "newtabtext", "description": "Adds a simple text editor to your new tab page.", "version": "0.0.3", "icons": {"64": "icon.png"}, "permissions": ["storage"], "chrome_url_overrides": {"newtab": "newtab.html"}}

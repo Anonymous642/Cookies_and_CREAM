@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Boid New Tab Page", "version": "0.1", "description": "Liven up your new tab page with this simple boid flocking animation!", "chrome_url_overrides": {"newtab": "boids/index.html"}, "icons": {"128": "128-square.png"}}

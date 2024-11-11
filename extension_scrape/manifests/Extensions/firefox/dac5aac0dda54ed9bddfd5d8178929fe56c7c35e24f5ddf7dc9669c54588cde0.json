@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Faceit Rank Hider", "version": "1.1.0", "description": "Hides everyone's faceit rank in your browser", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.faceit.com/*"], "js": ["faceit-rank-hider.js"]}]}

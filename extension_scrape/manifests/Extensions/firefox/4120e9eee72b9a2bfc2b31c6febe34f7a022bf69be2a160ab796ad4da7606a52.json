@@ -1,0 +1,1 @@
+{"name": "SPOJ Tool", "version": "1.0", "description": "Tool to hide comments from the website.", "manifest_version": 2, "content_scripts": [{"matches": ["https://www.spoj.com/*", "http://www.spoj.com/*"], "js": ["hello.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "send to telegram-send", "version": "1.0.2", "description": "send links to telegram-send", "background": {"scripts": ["background.js"]}, "permissions": ["menus", "nativeMessaging"], "icons": {"48": "telegram-send.svg"}, "browser_specific_settings": {"gecko": {"id": "{0ae1b560-69d7-4464-8906-964088ca4635}"}}}

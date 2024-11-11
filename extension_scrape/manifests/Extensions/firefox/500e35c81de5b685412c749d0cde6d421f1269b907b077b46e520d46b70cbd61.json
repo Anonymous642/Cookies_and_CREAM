@@ -1,0 +1,1 @@
+{"name": "Discord Formate", "description": "Turn boring text into emotes!", "version": "0.0.3", "manifest_version": 2, "options_page": "popup.html", "browser_action": {"default_popup": "popup.html"}, "icons": {"16": "./images/Formate_16.png", "32": "./images/Formate_32.png", "48": "./images/Formate_48.png", "64": "./images/Formate_64.png", "128": "./images/Formate_128.png"}}

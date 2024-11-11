@@ -1,0 +1,1 @@
+{"name": "CORSE", "version": "1.1", "description": "CORS Everywhere allows to anonymously fetch resources across origin", "author": "Roman Shafigullin", "background": {"scripts": ["cors-background.js"], "persistent": true}, "permissions": ["<all_urls>", "webRequest", "webRequestBlocking"], "icons": {"128": "icon128.png"}, "manifest_version": 2}

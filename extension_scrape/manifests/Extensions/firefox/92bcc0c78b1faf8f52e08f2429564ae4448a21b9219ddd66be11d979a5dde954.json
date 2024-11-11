@@ -1,0 +1,1 @@
+{"description": "An addon modifies web forms and creates multi question lines", "manifest_version": 2, "name": "Multi Question Lines", "version": "2.3", "homepage_url": "https://github.com/DatoJanez/multi-question-lines", "content_scripts": [{"matches": ["https://docs.google.com/forms/*"], "js": ["main.js"]}]}

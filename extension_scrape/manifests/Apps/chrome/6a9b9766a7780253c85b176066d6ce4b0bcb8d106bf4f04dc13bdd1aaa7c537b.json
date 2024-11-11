@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Me Mnemonic", "description": "Let's play memory game in totally different way!", "version": "1.2.0", "app": {"launch": {"web_url": "https://itbangsapps.com/memnemonic/play"}}, "permissions": ["unlimitedStorage"], "icons": {"128": "logo128.png"}}

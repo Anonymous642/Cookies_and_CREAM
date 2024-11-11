@@ -1,0 +1,1 @@
+{"name": "Injector", "description": "Easy inject payload into html field", "version": "1.0.9", "manifest_version": 2, "author": "Mystery", "background": {"scripts": ["background.js"]}, "permissions": ["menus", "activeTab", "storage"], "icons": {"48": "icons/Lightning.png"}, "browser_specific_settings": {"gecko": {"id": "{2c72786e-3203-470e-ae01-8754eecb7828}"}}}

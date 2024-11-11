@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Selection Disabler", "description": "Disable Selection on websites", "icons": {"48": "icons/48.png", "96": "icons/48.png"}, "content_scripts": [{"js": ["content_script.js"], "matches": ["<all_urls>"]}], "permissions": ["activeTab"], "version": "1.0.0.0"}

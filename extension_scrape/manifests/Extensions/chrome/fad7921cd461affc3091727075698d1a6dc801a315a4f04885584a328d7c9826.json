@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Z1pLink", "version": "1.0.0", "description": "It makes your link shorter", "icons": {"24": "images/zip-box-24.png", "36": "images/zip-box-36.png", "48": "images/zip-box-48.png"}, "host_permissions": ["*://*/*"], "action": {"default_title": "Z1pLink", "default_popup": "index.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Wrestlerticians", "version": "1.1", "description": "Makes BBC politics more interesting", "content_scripts": [{"matches": ["*://www.bbc.co.uk/news/*"], "js": ["wrestlerticians.js"], "run_at": "document_end"}]}

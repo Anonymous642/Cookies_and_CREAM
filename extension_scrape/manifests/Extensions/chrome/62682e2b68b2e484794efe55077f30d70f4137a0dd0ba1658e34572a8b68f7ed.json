@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Card-counter for Trello", "version": "1.0.0", "description": "Show card count in your Trello lanes", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["https://trello.com/*"], "css": ["style.css"]}]}

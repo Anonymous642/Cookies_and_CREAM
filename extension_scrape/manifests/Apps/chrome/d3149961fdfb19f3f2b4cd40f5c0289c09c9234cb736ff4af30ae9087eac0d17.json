@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Card Flippy", "display": "standalone", "description": "A colourful memory matching card game!", "version": "1.4", "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["storage"], "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "start_url": "index.html"}

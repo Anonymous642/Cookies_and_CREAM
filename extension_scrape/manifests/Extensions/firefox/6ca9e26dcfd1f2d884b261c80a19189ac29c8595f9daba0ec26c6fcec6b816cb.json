@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "IndiahikesPlus", "description": "Removes Banners from Indiahikes website", "version": "1.0.0", "icons": {"96": "icons/icon.jpg"}, "content_scripts": [{"matches": ["*://*.indiahikes.com/*"], "js": ["content_script.js"]}], "options_ui": {"page": "options/index.html"}, "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AO3: No Numbers", "version": "1.0", "description": "Removes information on kudos, bookmarks and hits on AO3.", "icons": {"48": "icons/noNumbersAO3FavIcon.png"}, "content_scripts": [{"matches": ["*://*.archiveofourown.org/*"], "css": ["noNumbersAO3.css"]}], "browser_specific_settings": {"gecko": {"id": "{89887cd0-9469-4604-99ad-addf8af71305}"}}}

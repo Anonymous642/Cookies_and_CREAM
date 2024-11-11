@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Minimalist New Tab", "version": "1.0", "description": "A minimalist new tab page showing the current time and a personalized greeting.", "icons": {"48": "icons/minimalist-icon-48.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{b7224939-fa03-4eb8-b984-40a4b15e002a}"}}}

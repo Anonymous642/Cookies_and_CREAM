@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Notion Empty Trash", "description": "Empty trash button for Notion", "version": "1.2", "content_scripts": [{"js": ["script.js"], "matches": ["https://www.notion.so/*"]}], "icons": {"128": "icon-128.png"}}

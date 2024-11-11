@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Zenity", "version": "0.3.0", "description": "Remove annoying parts of websites. Regain your zenity in one click.", "icons": {"48": "icons/zenity-48.png", "96": "icons/zenity-96.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"]}], "background": {"scripts": ["background.js"]}}

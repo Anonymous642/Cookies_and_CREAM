@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gray Visited Links", "version": "0.1.4", "description": "Colors visited links in gray.", "icons": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}, "author": "Rotem Dan", "content_scripts": [{"matches": ["<all_urls>"], "css": ["grayvisitedlinks.css"], "run_at": "document_start", "all_frames": true}]}

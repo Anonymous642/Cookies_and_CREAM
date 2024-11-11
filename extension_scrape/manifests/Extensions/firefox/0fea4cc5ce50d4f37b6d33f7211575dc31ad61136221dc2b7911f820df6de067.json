@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WilmaKA", "version": "1.0", "description": "Shows your KA on wilma", "icons": {"48": "icon-48.png"}, "content_scripts": [{"matches": ["*://*.inschool.fi/choices?view=gradebook*"], "js": ["ka.js"]}]}

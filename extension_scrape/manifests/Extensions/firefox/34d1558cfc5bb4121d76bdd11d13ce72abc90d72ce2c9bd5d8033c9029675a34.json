@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OETestet", "version": "3.1.0", "content_scripts": [{"matches": ["*://apo-portal.oesterreich-testet.at/*"], "js": ["script.js"]}], "permissions": ["https://api.genderize.io/?name=USERNAME&country_id=AT"], "browser_specific_settings": {"gecko": {"id": "{45a5e003-2af3-411a-87a4-5fffe75bff92}"}}}

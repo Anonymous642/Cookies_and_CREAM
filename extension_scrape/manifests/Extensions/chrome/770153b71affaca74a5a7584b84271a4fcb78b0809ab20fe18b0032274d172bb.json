@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "AeroSosa Show Free Seats", "version": "1.1", "description": "Shows the free seats on aerososa.com", "manifest_version": 3, "icons": {"128": "seat.png"}, "content_scripts": [{"matches": ["https://aerososa.com/*"], "js": ["content.js"]}]}

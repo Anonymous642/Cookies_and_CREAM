@@ -1,0 +1,1 @@
+{"background": {"page": "background.html"}, "browser_action": {"default_popup": "popup.html", "default_icon": {"128": "icon.png"}}, "description": "Covenant University lite. The perfect scripture search", "icons": {"128": "icon.png"}, "short_name": "CU Search", "manifest_version": 2, "name": "Covenant University Scripture Search", "version": "1.8.1"}

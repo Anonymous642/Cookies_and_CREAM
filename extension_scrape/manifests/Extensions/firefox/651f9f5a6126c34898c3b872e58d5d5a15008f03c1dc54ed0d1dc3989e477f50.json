@@ -1,0 +1,1 @@
+{"background": {"page": "./background.html"}, "description": "Video Full Web Play", "icons": {}, "manifest_version": 2, "name": "Full Play", "browser_action": {"default_popup": "popup.html", "default_icon": {}}, "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["./js/curWindow.js"]}], "permissions": ["tabs", "activeTab", "storage"], "version": "1.0.0.0"}

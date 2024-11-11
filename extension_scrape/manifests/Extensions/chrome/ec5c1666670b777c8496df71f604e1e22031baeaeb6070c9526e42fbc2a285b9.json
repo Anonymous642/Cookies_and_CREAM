@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Stat-Covid by Aman", "description": "Get Covid-19 Statistics", "version": "1.0", "icons": {"128": "icons/icon.png"}, "browser_action": {"default_popup": "index.html"}, "permissions": [], "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Ascii Reactions", "version": "1.0.1", "description": "Reaction asciis for when gifs are not allowed", "permissions": ["clipboardWrite"], "browser_action": {"default_popup": "src/popup.html"}, "icons": {"16": "src/icons/icon16.png"}, "manifest_version": 2}

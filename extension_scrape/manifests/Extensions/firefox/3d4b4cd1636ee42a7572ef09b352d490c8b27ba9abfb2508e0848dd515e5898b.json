@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Thanos Snap Page Balancer", "version": "1.0", "description": "Brings balance to your current tab by removing a random half of the content on the page.", "icons": {"48": "icons/thanos.png"}, "permissions": ["activeTab", "contextMenus"], "background": {"scripts": ["bg.js"]}}

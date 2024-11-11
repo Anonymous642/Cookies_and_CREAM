@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Photo Raster", "description": "Advanced Online Photo Editor and Drawing Application", "version": "1.0", "manifest_version": 2, "app": {"urls": ["http://photoraster.com/"], "launch": {"web_url": "http://photoraster.com/"}}, "icons": {"128": "Logo_128_2.png"}, "permissions": ["unlimitedStorage"]}

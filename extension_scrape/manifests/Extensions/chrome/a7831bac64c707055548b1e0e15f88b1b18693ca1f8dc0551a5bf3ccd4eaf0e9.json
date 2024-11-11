@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Email Scr@per", "description": "Scrape emails from web pages", "version": "1.0", "manifest_version": 3, "icons": {"16": "emailScraper.png", "48": "emailScraper.png", "128": "emailScraper.png"}, "action": {"default_popup": "popup.html"}, "permissions": ["activeTab", "scripting"]}

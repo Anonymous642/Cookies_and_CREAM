@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Ribbon New Tab", "description": "Replace your boring new tab with a cool ribbon", "version": "0.1", "manifest_version": 3, "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}

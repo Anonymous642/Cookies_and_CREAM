@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reddit video link", "version": "0.0.4", "content_scripts": [{"matches": ["https://*.reddit.com/*"], "js": ["content.js"]}], "background": {"scripts": ["background.js"]}, "permissions": ["tabs", "https://*/", "activeTab"], "browser_action": {"default_icon": "reddit-face-u.svg", "default_title": "Reddit video link"}}

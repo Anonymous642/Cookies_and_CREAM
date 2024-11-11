@@ -1,0 +1,1 @@
+{"name": "Ninja Van Tracking", "description": "Track your Ninja Van Tracking Onilne", "manifest_version": 2, "version": "0.1.1", "browser_action": {"default_icon": "logo.png", "default_popup": "popup.html", "default_title": "Ninja Van Tracking"}, "icons": {"128": "logo.png"}, "browser_specific_settings": {"gecko": {"id": "{395979bf-5dad-4873-a0b1-fdfa98f04388}"}}}

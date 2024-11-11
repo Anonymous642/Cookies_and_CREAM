@@ -1,0 +1,1 @@
+{"name": "Zoho Sites", "description": "Easiest Website Builder, Ever. 100% Ad-free, Mobile-Friendly, Online forms and more...", "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "1.3", "app": {"urls": ["https://sites.zoho.com/"], "launch": {"web_url": "https://sites.zoho.com/"}}, "icons": {"128": "site_icon_128.png"}}

@@ -1,0 +1,1 @@
+{"description": "Simple yet powerful password generator", "manifest_version": 2, "name": "strong-password", "version": "1.1", "browser_action": {"browser_style": true, "default_popup": "popup/generate-password.html", "default_icon": "icons/padlock.png", "theme_icons": [{"light": "icons/lock-32.png", "dark": "icons/padlock.png", "size": 32}]}}

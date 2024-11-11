@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Christmas Word Search", "version": "1.0.0.0", "manifest_version": 2, "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.christmaswordsearch.net/WordSearchChrome.php"], "launch": {"web_url": "http://www.christmaswordsearch.net/WordSearchChrome.php"}}}

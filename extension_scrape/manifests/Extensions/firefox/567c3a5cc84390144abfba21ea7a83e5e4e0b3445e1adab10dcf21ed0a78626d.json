@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "birdback", "version": "1.1", "description": "Brings back the bird", "icons": {"48": "icons/icon-48.jpg"}, "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["birdback.js"]}], "browser_specific_settings": {"gecko": {"id": "{a9daa02c-b727-4da1-9e3a-e0e2c31b65d7}"}}}

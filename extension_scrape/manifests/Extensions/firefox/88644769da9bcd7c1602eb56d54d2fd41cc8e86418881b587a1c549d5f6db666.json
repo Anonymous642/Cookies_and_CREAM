@@ -1,0 +1,1 @@
+{"name": "Get That API", "description": "Test API", "version": "3.0.0", "manifest_version": 3, "action": {"default_popup": "index.html", "default_icon": "logo.png"}, "icons": {"16": "logo.png", "32": "logo.png", "48": "logo.png", "128": "logo.png"}, "browser_specific_settings": {"gecko": {"id": "getthatapi@firefox.com", "strict_min_version": "42.0"}}}

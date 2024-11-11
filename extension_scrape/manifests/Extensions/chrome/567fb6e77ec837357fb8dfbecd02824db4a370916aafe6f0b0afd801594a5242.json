@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Cambridge Dictionary Better", "description": "Using Cambridge Dictionary easily when you search some vocabulary.", "version": "0.0.1", "manifest_version": 2, "content_scripts": [{"matches": ["https://dictionary.cambridge.org/*"], "js": ["main.js"], "css": ["style.css"]}]}

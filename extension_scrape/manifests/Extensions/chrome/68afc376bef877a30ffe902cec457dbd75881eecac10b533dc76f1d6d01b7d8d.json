@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Stubborn and Stupid", "description": "Get through the UK 2017 election with a little sanity intact.  Not affiliated with any party (nor targeting any in particular ;))", "version": "1.0", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

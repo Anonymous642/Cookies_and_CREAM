@@ -1,0 +1,1 @@
+{"name": "JetStream Sam", "version": "0.0.2", "description": "Memories Broken,the truth goes unspoken, I have even forgotten my name.", "manifest_version": 2, "permissions": ["tabs"], "content_scripts": [{"matches": ["https://imgur.com/a/O7UISZW"], "css": ["style.css"]}], "browser_specific_settings": {"gecko": {"id": "{5459dd81-f359-4b34-9bc1-cce7b030a602}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "YTWatch", "version": "2.0", "icons": {"600": "icons/ytwatch.png"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://www.youtube.com/feed/history"], "js": ["bg.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "ytwatch@example.com"}}}

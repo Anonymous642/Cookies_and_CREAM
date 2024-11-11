@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://mail1a.de/"], "launch": {"web_url": "http://mail1a.de/"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Bei Mail 1A erh\u00e4lst du kostenlos eine Wegwerf E-Mail Adresse!", "name": "Mail 1A - Wegwerf Mail", "icons": {"16": "16.png", "128": "128.png"}, "manifest_version": 2, "version": "1"}

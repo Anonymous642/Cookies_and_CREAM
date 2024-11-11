@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Raubmagen Athletics", "description": "Leibesert\u00fcchtigung und gesundes Essen", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon.png"}, "app": {"urls": ["http://raubmagenathletics.com"], "launch": {"web_url": "http://raubmagenathletics.com/"}}}

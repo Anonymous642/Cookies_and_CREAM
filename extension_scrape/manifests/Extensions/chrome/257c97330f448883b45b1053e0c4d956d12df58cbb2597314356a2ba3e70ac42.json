@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sequoia", "description": "Shopping Sustainably Has Never Been This Easy", "version": "1.0.0", "content_security_policy": {"extension_pages": "script-src 'self'; object-src 'self'"}, "action": {"default_popup": "index.html", "default_icon": "/icons/logo.png"}, "manifest_version": 3}

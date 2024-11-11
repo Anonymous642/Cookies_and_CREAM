@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Gold Cash Market Plugin", "description": "This extension will show the market conditions of Gold Cash", "version": "1.0", "browser_action": {"default_icon": "logo.png", "default_popup": "popup.html"}, "permissions": ["activeTab"]}

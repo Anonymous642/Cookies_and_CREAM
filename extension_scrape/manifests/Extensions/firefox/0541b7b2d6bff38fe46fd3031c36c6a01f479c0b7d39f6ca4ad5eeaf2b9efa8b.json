@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Learn Account", "version": "1.0.0", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "background": {"scripts": ["bg.js"]}, "content_scripts": [{"matches": ["http://jxjyxuexi.chinaacc.com/*"], "js": ["content.js"]}], "permissions": ["tabs", "activeTab", "storage", "http://jxjyxuexi.chinaacc.com/"]}

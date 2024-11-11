@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Ethereum Unit Converter", "version": "1.0", "manifest_version": 3, "description": "With this extension, users can quickly and easily convert ETH to and from units such as gwei & wei being the smallest unit.", "action": {"default_popup": "index.html", "default_icon": "etherLogo.png"}}

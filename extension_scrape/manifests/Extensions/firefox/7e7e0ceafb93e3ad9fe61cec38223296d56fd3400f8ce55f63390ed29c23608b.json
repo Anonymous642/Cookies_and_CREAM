@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Automatic Nifty Audio Linker", "version": "1.1", "description": "Automatically gets the link to audio files from supported websites", "content_scripts": [{"matches": ["*://*.soundgasm.net/*"], "js": ["anal.js"]}]}

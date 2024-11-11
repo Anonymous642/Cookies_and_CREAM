@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Johnny Five Demo", "description": "Control an arduino from the browser.", "version": "0.0.3", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "extentionAssets/johnny-five-js16.jpeg", "128": "extentionAssets/johnny-five-js128.jpeg"}, "permissions": ["serial"]}

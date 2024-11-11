@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "BetterLabyrinth", "description": "An enhancement suite for Labyrinth Intelligence. (Currently all it offers is export and import of workflows using the UI)", "version": "1.0", "manifest_version": 3, "content_scripts": [{"matches": ["*://*.ripjar.com/*"], "js": ["main.js"], "run_at": "document_end"}]}

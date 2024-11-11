@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SaveTabs", "version": "0.3", "description": "Save tabs of the current session and restore them next time.", "applications": {"gecko": {"id": "savetabs@t2dev.de"}}, "browser_action": {"default_popup": "popup/choose_load_save.html"}, "permissions": ["tabs", "storage"]}

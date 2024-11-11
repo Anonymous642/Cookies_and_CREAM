@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Contador a\u00f1o nuevo", "version": "0.01", "description": "Nueva pesta\u00f1a contador tiempo restante a\u00f1o nuevo", "chrome_url_overrides": {"newtab": "index.html"}, "manifest_version": 3}

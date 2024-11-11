@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BackToOne", "version": "0.3", "description": "Disables YouTube autoplay feature and brings focus to the currently playing video.", "icons": {"48": "icons/backto1-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "css": ["fix.css"], "js": ["backto1.js"]}]}

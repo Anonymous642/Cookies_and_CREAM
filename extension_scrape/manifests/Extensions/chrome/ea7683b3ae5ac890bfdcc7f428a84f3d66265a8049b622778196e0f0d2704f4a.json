@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "fsIPCAM", "manifest_version": 2, "description": "foscam H.264 720P IPCam Plugins", "plugins": [{"path": "plugins/npIPcam.dll", "public": true}], "version": "1.0.4.6"}

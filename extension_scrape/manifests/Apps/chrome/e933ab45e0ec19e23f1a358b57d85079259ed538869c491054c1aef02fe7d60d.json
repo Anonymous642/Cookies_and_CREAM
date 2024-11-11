@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u05d0\u05d9\u05d6\u05d9 - easy.co.il", "version": "1", "description": "\u05d4\u05db\u05dc \u05e1\u05d1\u05d9\u05d1\u05da", "permissions": ["unlimitedStorage"], "manifest_version": 2, "app": {"launch": {"web_url": "http://easy.co.il"}}, "icons": {"128": "png512.png"}}

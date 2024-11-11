@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Wanikani - Right Click Context Menu", "description": "Adds right click menu for Wanikani Search", "version": "0.2", "permissions": ["contextMenus"], "background": {"scripts": ["sample.js"]}, "icons": {"16": "icon-bitty.png", "48": "icon-small.png", "128": "icon-large.png"}}

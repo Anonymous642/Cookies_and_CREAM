@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "taobao_extension", "version": "1.0", "description": "extension", "icons": {"32": "icons/icon-32.png"}, "content_scripts": [{"matches": ["*://*.taobao.com/*"], "match_about_blank": true, "css": ["css/mainCss.css"], "js": ["js/jquery-3.7.0.min.js", "js/content.js"]}], "browser_specific_settings": {"gecko": {"id": "addon@funapp.io"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Competitive Programming Questions", "version": "0.0.2", "manifest_version": 3, "action": {"default_popup": "show.html", "default_icon": "cod (1).png"}, "icons": {"256": "cod (1).png"}}

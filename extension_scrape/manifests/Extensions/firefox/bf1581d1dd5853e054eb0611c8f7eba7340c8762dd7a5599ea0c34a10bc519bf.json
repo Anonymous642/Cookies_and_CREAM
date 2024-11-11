@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "long-live-meduza", "version": "1.2", "content_scripts": [{"matches": ["*://*.meduza.io/*"], "js": ["page-eater.js"], "run_at": "document_end"}]}

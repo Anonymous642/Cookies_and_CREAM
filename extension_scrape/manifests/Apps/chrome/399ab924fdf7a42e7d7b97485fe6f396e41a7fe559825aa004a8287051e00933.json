@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Leads Dubai", "description": "Digital Marketing Services", "version": "0.1", "manifest_version": 2, "app": {"urls": ["http://www.leadsdubai.com/"], "launch": {"web_url": "http://www.leadsdubai.com/"}}, "icons": {"16": "Dubai.png", "128": "128.png"}}

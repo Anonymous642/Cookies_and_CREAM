@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "trumpEpicCursor", "version": "1.0", "description": "adds a trump face that follows your curor", "icons": {"48": "trumpFace.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["borderify.js"]}]}

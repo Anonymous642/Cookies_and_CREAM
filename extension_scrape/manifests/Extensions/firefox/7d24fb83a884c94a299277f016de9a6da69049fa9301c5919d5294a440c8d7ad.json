@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OneNoteRedirect", "version": "1.0", "description": "Redirects links to OneNote desktop client", "content_scripts": [{"matches": ["*://onenotepwa.firebaseapp.com/*"], "js": ["onenote.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Scribblio Snapper", "version": "1.0", "description": "Takes a screenshot of your drawings at the end of each round", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://skribbl.io/*"], "js": ["snapper.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ntp", "description": "New Tab Pointer", "version": "1.0.4", "icons": {"64": "icons/icon.png"}, "background": {"scripts": ["background_script.js"]}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content_script.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Rocinet - live stream", "version": "0.0.0.1", "description": "Enable live videos - tipsport", "icons": {"128": "assets/img/icon128.png"}, "content_scripts": [{"matches": ["https://www.tipsport.cz/*"], "js": ["content.js"], "css": ["assets/style/style.css"]}]}

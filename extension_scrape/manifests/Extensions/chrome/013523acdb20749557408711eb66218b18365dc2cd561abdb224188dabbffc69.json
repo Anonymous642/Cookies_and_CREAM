@@ -1,0 +1,1 @@
+{"background": {"scripts": ["background.js"]}, "description": "Redirect Leumi to a different page", "manifest_version": 2, "name": "The Leumi Redirect", "permissions": ["background", "webRequest", "webRequestBlocking", "*://www.leumi.co.il/*"], "update_url": "https://clients2.google.com/service/update2/crx", "version": "3.2"}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Staary", "version": "1.1", "description": "Remove sidebar on Stack Overflow", "icons": {"48": "icons/staryu-48.png", "96": "icons/staryu-96.png"}, "content_scripts": [{"all_frames": true, "css": ["staary.css"], "run_at": "document_idle", "matches": ["*://*.stackoverflow.com/*"]}]}

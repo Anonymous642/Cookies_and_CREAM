@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Frame Display", "version": "1.0", "permissions": ["<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "frame-display@example.com"}}}

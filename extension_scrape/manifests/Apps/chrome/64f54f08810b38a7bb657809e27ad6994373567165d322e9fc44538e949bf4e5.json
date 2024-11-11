@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Dailymotion", "description": "Acc\u00e8s direct au site Dailymotion", "version": "2.5", "icons": {"128": "dailymotion-logo.png"}, "app": {"launch": {"web_url": "http://www.dailymotion.com/?from=chromequickacces&utm_source=chromehome&utm_medium=chrometab&utm_campaign=ChrometabV1"}}}

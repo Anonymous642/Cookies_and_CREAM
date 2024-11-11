@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "RAINBOW DROP", "description": "elp Iya a umbrella bird to find all of her star friends.", "version": "1.4", "app": {"urls": ["http://www.freehtmlgames.com/RAINBOW%20DROP/"], "launch": {"web_url": "http://www.freehtmlgames.com/RAINBOW%20DROP/"}}, "icons": {"128": "ICON.png"}}

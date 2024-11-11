@@ -1,0 +1,1 @@
+{"name": "WS Endpoint Extension", "version": "1.0", "manifest_version": 2, "background": {"scripts": ["background.js"], "persistent": true}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["oktell.js"], "run_at": "document_start"}], "browser_action": {}, "permissions": ["tabs"]}

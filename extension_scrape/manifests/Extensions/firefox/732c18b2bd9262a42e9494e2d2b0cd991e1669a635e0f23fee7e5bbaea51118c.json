@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "SVC to ANG", "version": "1.0", "description": "Convert SVC to ANG", "browser_specific_settings": {"gecko": {"id": "svc-to-ang@example.com"}}}

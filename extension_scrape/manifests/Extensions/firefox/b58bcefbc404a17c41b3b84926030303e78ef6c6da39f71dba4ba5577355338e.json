@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ecosia Apple Maps", "version": "1.0", "description": "Defaults to using duckduckgo's apple maps when using ecosia for extra privacy.", "icons": {"474": "icon.png"}, "content_scripts": [{"matches": ["*://*.ecosia.org/search*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{0199c65d-29d2-40ba-b357-e63b4f693345}"}}}

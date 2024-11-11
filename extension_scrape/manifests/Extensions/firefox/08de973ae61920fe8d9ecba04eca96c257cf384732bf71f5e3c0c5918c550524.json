@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "StackOverflow Detoxifier", "version": "1.1", "description": "Removes some of the most toxic parts of Stack-Overflow, such as the downvote and close buttons", "content_scripts": [{"matches": ["*://*.stackoverflow.com/*", "*://stackoverflow.com/*"], "js": ["better-so.js"]}]}

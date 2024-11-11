@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "gvcs", "version": "0.1.2", "manifest_version": 2, "description": "__MSG_appDesc__", "default_locale": "ru", "content_scripts": [{"js": ["gvcs.js"], "matches": ["*://godville.net/news", "*://godvillegame.com/news"]}]}

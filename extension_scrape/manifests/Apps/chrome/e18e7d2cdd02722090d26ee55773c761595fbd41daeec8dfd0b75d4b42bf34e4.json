@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Feiertage Rechner", "description": "Mit dieser App kannst du die wichtigsten Feier- und Fest-Tage zwischen den Jahren 1900 bis 2099 bestimmen.", "version": "1.0.0", "manifest_version": 2, "app": {"launch": {"web_url": "http://feiertage.koni.mobi"}}, "icons": {"128": "128.png"}}

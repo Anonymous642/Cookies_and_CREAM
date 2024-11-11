@@ -1,0 +1,1 @@
+{"name": "Reset Zoom", "version": "3.0", "description": "Reset the zoom of a page to 100%", "manifest_version": 2, "permissions": ["tabs", "activeTab", "menus", "contextMenus"], "icons": {"48": "icon48.png"}, "background": {"scripts": ["background.js"]}, "browser_action": {}}

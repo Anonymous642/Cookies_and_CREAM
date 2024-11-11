@@ -1,0 +1,1 @@
+{"description": "Removes googles consent thingy", "manifest_version": 2, "name": "Google Be Gone", "version": "1.0", "homepage_url": "https://youtube.com", "author": "Elogo", "icons": {"48": "icons/gbgicon.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["gbg.js"]}]}

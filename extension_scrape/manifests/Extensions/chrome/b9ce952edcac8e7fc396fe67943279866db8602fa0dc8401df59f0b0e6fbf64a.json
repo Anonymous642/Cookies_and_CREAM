@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "dupid", "version": "1.0.4", "description": "Chrome Devtools Elements side panel to show duplicate IDs.", "icons": {"128": "icon_128.png"}, "devtools_page": "dupid.html", "manifest_version": 2}

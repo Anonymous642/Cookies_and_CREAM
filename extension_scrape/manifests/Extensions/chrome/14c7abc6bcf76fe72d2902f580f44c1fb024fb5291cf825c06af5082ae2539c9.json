@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "FFDB", "version": "1.0.0", "manifest_version": 3, "description": "search selected String with Eorzea DB or Eriones", "permissions": ["contextMenus"], "background": {"service_worker": "main.js"}}

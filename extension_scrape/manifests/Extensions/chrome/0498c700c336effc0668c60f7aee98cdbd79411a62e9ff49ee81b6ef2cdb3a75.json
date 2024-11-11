@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sporcle Avatar Remover", "description": "Removes player avatars from Sporcle showdown", "version": "1.0", "manifest_version": 3, "content_scripts": [{"matches": ["https://www.sporcle.com/*"], "js": ["/remove_avatar.js"]}]}

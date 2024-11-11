@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Diariste.fr", "description": "Journal intime en ligne - Diariste", "version": "2", "manifest_version": 2, "icons": {"24": "24.png", "128": "128.png", "256": "256.png"}, "permissions": ["notifications"], "app": {"urls": ["http://www.diariste.fr/"], "launch": {"web_url": "http://www.diariste.fr/"}}}

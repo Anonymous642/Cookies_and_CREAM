@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "github-org-commiter", "version": "1.0", "description": "defaults all github web commits to repos org if mail matches", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.github.com/*"], "js": ["index.js"]}]}

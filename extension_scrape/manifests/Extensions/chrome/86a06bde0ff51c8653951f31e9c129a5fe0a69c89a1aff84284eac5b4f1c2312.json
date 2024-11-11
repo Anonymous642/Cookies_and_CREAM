@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Requisites Generator", "version": "1.51", "description": "Generates INN, OKPO, SNILS, BIN, IIN, UNP", "action": {"default_popup": "index.html"}, "manifest_version": 3, "permissions": ["storage", "windows"], "icons": {"128": "favicon.png"}}

@@ -1,0 +1,1 @@
+{"name": "Informative", "version": "2.0", "description": "Dictionary extension", "permissions": ["activeTab", "https://mashape-community-urban-dictionary.p.rapidapi.com/*", "https://googledictionaryapi.eu-gb.mybluemix.net/*"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html", "default_title": "Easy on meaning!"}, "manifest_version": 2}

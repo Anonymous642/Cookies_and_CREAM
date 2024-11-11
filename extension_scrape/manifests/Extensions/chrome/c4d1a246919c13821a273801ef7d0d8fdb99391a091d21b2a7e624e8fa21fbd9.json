@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Internally", "version": "1.2", "description": "Open URL's with /internal at last", "background": {"scripts": ["background.js"], "persistent": false}, "icons": {"32": "link.png"}, "permissions": ["contextMenus"], "manifest_version": 2}

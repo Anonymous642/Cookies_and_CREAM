@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "KissAnime Adblocker", "description": "Automatically removes the ads on KissAnime!", "author": "Pixelbrei", "version": "1.0.1", "icons": {"16": "icons/icon-16.png", "32": "icons/icon-32.png", "64": "icons/icon-64.png"}, "content_scripts": [{"matches": ["*://kissanime.ru/*"], "js": ["jquery-3.3.1.min.js", "hideAds.js"], "run_at": "document_end"}]}

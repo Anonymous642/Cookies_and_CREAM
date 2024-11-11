@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Switch the Bait", "version": "0.0.2", "description": "Remove those annoying clickbaity video titles", "content_scripts": [{"matches": ["https://*.youtube.com/*"], "run_at": "document_idle", "js": ["clickswitch.js"]}], "browser_specific_settings": {"gecko": {"id": "{02af4007-5459-46c4-b157-c6c5e197e445}"}}}

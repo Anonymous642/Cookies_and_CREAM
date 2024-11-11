@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Good bye JST Form", "version": "1.0.0", "manifest_version": 2, "description": "I just want to download!", "content_scripts": [{"matches": ["https://www.jst-mfg.com/product/licensing.php*"], "js": ["content.js"]}], "options_page": "options.html"}

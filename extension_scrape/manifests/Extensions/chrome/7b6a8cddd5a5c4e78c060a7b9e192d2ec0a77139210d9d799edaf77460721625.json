@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "BSA Calculator", "version": "1.0", "description": "Calculate your body surface area with this simple calculator.", "manifest_version": 3, "icons": {"128": "icon.png"}, "permissions": ["activeTab"], "action": {"default_icon": "icon.png", "default_title": "BSA Calculator", "default_popup": "index.html"}}

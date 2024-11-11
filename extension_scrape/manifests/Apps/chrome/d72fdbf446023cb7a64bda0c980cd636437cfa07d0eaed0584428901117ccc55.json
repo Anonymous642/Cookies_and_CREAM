@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Corrello", "description": "Dashboards for Agile teams using Trello", "version": "1.0", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://getcorrello.com/"], "launch": {"web_url": "http://getcorrello.com/?utm_source=chromestore&utm_medium=store&utm_campaign=corrello"}}}

@@ -1,0 +1,1 @@
+{"description": "Adds an adds an additional page on boxnovel.com", "manifest_version": 2, "name": "BoxnovelEnlarge", "version": "1.0", "homepage_url": "about:blank", "content_scripts": [{"matches": ["*://boxnovel.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{2173cb25-ecc3-49d6-9ee3-96a753e99809}"}}}

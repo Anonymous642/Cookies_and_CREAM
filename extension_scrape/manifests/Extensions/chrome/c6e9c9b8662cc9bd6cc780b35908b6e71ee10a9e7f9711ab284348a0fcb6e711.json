@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Mealheiro", "version": "0.0.5", "description": "N\u00e3o gastes hoje, poupa para amanh\u00e3!", "homepage_url": "https://mealheiro.pt", "manifest_version": 3, "icons": {"128": "/images/128.png"}, "chrome_url_overrides": {"newtab": "mealheiro.html"}, "browser_action": {"default_icon": "/images/16.png"}}

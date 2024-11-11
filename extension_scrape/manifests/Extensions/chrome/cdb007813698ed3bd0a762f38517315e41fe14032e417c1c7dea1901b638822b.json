@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Contacts", "short_name": "C", "version": "1.0", "manifest_version": 2, "description": "Save your contacts", "icons": {"128": "images/icon.png"}, "browser_action": {"default_icon": "images/icon.png", "default_title": "V-Conquer a customized auto script", "default_popup": "index.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Paywall Remover", "version": "1.0", "description": "Paywall remover for alternatives-economiques.fr", "icons": {"64": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.alternatives-economiques.fr/*"], "js": ["removePaywall.js"]}]}

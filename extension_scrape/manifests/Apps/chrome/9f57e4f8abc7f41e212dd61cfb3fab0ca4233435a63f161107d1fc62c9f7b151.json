@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Rabatterat.se", "description": "Rabatterat.se - Rabattkoder p\u00e5 n\u00e4tet.", "version": "4.0.0.5", "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://www.rabatterat.se/"], "launch": {"web_url": "https://www.rabatterat.se/"}}}

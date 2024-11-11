@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Coffee to Cappachoochoo", "description": "In honour of Bob Mortimer's Train Guy, this chrome extension changes the word 'coffee' to 'cappachoochoo' ", "version": "1.0", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

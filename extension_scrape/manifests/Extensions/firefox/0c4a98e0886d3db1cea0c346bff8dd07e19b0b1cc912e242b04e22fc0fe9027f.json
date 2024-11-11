@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Thinner", "version": "1.0", "description": "Make every single scrollbars elegant.", "icons": {"48": "icons/thinner-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["thinner.js"]}], "browser_specific_settings": {"gecko": {"id": "{17a4b702-6c92-419a-bc25-7395cfd3fb34}"}}}

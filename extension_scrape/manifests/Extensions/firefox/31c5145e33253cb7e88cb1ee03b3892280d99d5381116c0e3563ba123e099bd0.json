@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Your Pixiv History", "version": "1.1", "description": "Shows recent history of your Pixiv images without a premium subscription.", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://*.pixiv.net/history.php"], "js": ["unlock.js"]}]}

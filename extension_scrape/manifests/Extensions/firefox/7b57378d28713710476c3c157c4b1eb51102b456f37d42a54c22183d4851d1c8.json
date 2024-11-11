@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "0.0.1", "name": "tabzaver", "background": {"scripts": ["tabzaver.js"]}, "permissions": ["tabs", "clipboardWrite"], "browser_action": {"default_icon": {"38": "icon38.png"}, "default_title": "Copy tab URLs"}, "browser_specific_settings": {"gecko": {"id": "{ce7d36fd-ce6f-4608-8619-a0ca533d87c7}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "When is F1 on?", "version": "1.3", "description": "Shows the next F1 and F2 session times", "browser_action": {"browser_style": true, "default_popup": "nextF1Race.html", "default_icon": {"16": "icons/page-16.png", "32": "icons/page-32.png"}}, "permissions": ["*://*.formula1.com/*", "*://www.fiaformula2.com/*"]}

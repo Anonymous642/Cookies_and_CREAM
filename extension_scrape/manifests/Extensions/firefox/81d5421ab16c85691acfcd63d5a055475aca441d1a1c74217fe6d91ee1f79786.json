@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Zorglub 2022", "version": "1.0", "description": "Pour grand-remplacer les Z", "icons": {"96": "icons/96.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["js/correct.js"]}]}

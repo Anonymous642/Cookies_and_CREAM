@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitter Normalizer", "version": "1.0.0", "description": "Normalize twitter design", "icons": {"48": "icons/48.png", "64": "icons/64.png", "128": "icons/128.png"}, "content_scripts": [{"matches": ["*://twitter.com/*"], "js": ["normalize.js"], "css": ["normalize.css"]}]}

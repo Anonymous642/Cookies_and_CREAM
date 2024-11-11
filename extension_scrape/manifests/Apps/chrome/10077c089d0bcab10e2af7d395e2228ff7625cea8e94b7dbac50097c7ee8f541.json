@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Is JavaScript Enabled", "description": "Check JavaScript engine is enabled or not on different levels", "version": "1.1", "icons": {"128": "icon.png"}, "app": {"launch": {"web_url": "http://tools.add0n.com/check-javascript.html"}}, "permissions": []}

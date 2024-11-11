@@ -1,0 +1,1 @@
+{"name": "Password Cracker", "version": "1.0.0", "description": "Get Strong Password and also its hex code using SHA256 algorithm", "manifest_version": 2, "author": "Abhishek Biswas", "action": {"default_popup": "index.html", "default_title": "Password Cracker"}, "browser_specific_settings": {"gecko": {"id": "{728b850e-768a-4ed7-a282-24b1ea4b246a}"}}}

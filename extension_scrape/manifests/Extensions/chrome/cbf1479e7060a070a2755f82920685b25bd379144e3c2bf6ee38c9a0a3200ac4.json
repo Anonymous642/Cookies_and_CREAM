@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Chrome black new tab page", "version": "2.0", "description": "A Chrome extension to set a black blank new tab page", "chrome_url_overrides": {"newtab": "newTab.html"}, "icons": {"128": "icon.png"}, "manifest_version": 3}

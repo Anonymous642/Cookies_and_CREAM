@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "LYD to IQD", "version": "1.0", "description": "Convert Libyan Dinar to Iraqi Dinar", "browser_specific_settings": {"gecko": {"id": "lyd-to-iqd@example.com"}}}

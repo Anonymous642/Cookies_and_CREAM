@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Imperialisnt", "version": "0.1.0", "description": "Imperial sucks :(", "icons": {"128": "icon128.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["replace.js"]}]}

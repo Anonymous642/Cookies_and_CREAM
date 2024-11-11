@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Terrified Ted", "manifest_version": 2, "description": "Fun Short Platformer where you must race against the darkness to make it through the night!", "version": "1.0", "icons": {"16": "chrome-icon16.png", "128": "chrome-icon.png"}, "app": {"background": {"scripts": ["background.js"]}}}

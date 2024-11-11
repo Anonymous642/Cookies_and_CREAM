@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Tenerife Forum", "description": "The ORIGINAL, BIGGEST and BEST online community for Tenerife", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "TF128.png"}, "app": {"urls": ["http://tenerifeforum.com/"], "launch": {"web_url": "http://www.tenerifeforum.org/tenerife-forum/forum.php"}}}

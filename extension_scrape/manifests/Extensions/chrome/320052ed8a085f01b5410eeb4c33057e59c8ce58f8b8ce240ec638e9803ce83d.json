@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LoveSlides - Free Google Doc Slides", "description": "A large number of Google Slides templates to boost your business.", "version": "1.0.1", "icons": {"192": "logo_192.png"}, "action": {"default_icon": "logo.png", "default_popup": "popup.html"}}

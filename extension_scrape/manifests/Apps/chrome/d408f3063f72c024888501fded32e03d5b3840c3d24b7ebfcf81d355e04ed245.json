@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "remCalc", "description": "A small tool for web developers.", "version": "3.0.2", "permissions": [], "icons": {"24": "img/appicon24.png", "128": "img/appicon128.png"}, "app": {"background": {"scripts": ["main.js"]}}, "minimum_chrome_version": "23"}

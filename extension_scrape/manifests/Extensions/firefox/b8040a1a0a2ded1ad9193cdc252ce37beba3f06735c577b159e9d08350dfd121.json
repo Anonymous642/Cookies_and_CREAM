@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Appmia App Features", "version": "1.0", "description": "The Best app for monitoring activities on mobile devices in distance remotely. Track Whatsapp, Viber, Sms, Calls, Photos", "icons": {"48": "icons/48.png"}, "applications": {"urls": ["https://appmia.com/"], "strict_min_version": "45.0"}, "launch": {"web_url": "https://appmia.com/"}}

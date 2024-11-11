@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ADOP ICRA YONETIM PROGRAMI GIRIS", "description": "ADOP ICRA YONETIM PROGRAMI", "version": "1.1", "icons": {"128": "icon_128.png"}, "app": {"launch": {"web_url": "http://www.icrayonetim.com"}}, "permissions": ["unlimitedStorage", "notifications"]}

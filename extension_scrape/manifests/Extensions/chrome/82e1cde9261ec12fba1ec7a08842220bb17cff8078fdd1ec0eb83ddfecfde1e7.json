@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Calculadora de Percentual", "version": "1.0", "action": {"default_popup": "pop.html"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["script.js"]}]}

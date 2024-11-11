@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Lenny Faces: Text emotions or Text Faces", "version": "1.0.0", "description": "All category (Angry, Sad, Shrug, Happy, Gun, Confused, etc.) lenny faces.", "browser_action": {"default_icon": "extimg/copylennyfaces-cextension1.png", "default_popup": "index.html"}}

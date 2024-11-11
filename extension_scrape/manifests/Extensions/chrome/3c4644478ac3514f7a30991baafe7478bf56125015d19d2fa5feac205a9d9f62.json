@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "nico_multitag_search", "version": "1.0.0", "description": "description", "content_scripts": [{"matches": ["https://www.nicovideo.jp/watch/*"], "css": ["./static/css/main.css"], "js": ["./dist/js/index.js"]}], "web_accessible_resources": ["static/img/search.png"]}

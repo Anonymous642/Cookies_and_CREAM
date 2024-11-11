@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "SGD to SHP", "version": "1.0", "description": "Convert SGD to SHP", "browser_specific_settings": {"gecko": {"id": "SGD-to-shp@example.com"}}}

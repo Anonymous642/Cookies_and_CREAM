@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My Extension", "version": "1.0", "content_scripts": [{"matches": ["<all_urls>"], "js": ["jquery-3.6.4.min.js", "good.js"]}], "browser_specific_settings": {"gecko": {"id": "{77a67c1b-dba3-4226-ba98-848eee18de48}"}}}

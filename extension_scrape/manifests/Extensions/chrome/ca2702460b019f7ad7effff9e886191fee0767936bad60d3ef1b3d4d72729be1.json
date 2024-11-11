@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Weemos", "version": "0.0.3", "description": "A plain and simple post-it note web extension.", "author": "minsookang33@outlook.com", "action": {"default_popup": "index.html", "default_icon": "./assets/favicon.ico"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SelectMe", "version": "0.2", "description": "Makes text on readlightnovel.org selectable.", "icons": {"48": "icons/SelectMe.png"}, "content_scripts": [{"matches": ["*://*.readlightnovel.org/*"], "js": ["SelectMe.js"]}]}

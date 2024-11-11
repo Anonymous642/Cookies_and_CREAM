@@ -1,0 +1,1 @@
+{"name": "Gloly", "version": "1.0", "manifest_version": 2, "icons": {"16": "img/16.png", "32": "img/32.png", "128": "img/128.png", "192": "img/192.png", "512": "img/512.png"}, "permissions": ["storage"], "browser_action": {"default_popup": "index.html", "default_icon": "img/128.png"}, "browser_specific_settings": {"gecko": {"id": "{74ac922c-3653-4a6a-b1e9-1c5c86fdfabf}"}}}

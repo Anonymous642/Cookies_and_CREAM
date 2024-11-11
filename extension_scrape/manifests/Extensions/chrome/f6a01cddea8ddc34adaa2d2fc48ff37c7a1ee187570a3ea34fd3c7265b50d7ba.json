@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "New Tab Clock", "version": "0.8", "description": "\u23f0 Time in a new tab. \u23f0", "icons": {"128": "resources/assets/icon.png"}, "chrome_url_overrides": {"newtab": "index.html"}}

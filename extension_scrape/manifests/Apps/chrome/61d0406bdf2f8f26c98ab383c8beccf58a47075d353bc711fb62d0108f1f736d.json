@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Monkeyshines", "description": "In Monkeyshines, you guide Rin the Tamarin as he swings to his nest through a fanciful landscape.", "version": "1.1", "app": {"launch": {"local_path": "Monkeyshines.html"}}, "icons": {"16": "icon_16.png", "128": "icon_128.png"}}

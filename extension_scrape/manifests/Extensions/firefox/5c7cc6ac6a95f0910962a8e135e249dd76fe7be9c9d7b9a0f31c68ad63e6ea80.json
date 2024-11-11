@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube force shuffle", "version": "1.2", "description": "Sometimes YouTube keeps forgetting that you had the shuffle on when watching a playlist. This plugin forces the shuffle on at all times.", "icons": {"48": "icon48.png", "96": "icon96.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["yts.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Radio2CheckBox", "version": "1.7.26.20", "description": "For GoToTraining Multi download", "permissions": ["activeTab", "contextMenus", "https://global.gototraining.com/"], "browser_action": {"default_icon": "checkbox.png", "default_title": "Radio2CheckBox Menu", "default_popup": "popup.html"}, "web_accessible_resources": ["hrt.gif"]}

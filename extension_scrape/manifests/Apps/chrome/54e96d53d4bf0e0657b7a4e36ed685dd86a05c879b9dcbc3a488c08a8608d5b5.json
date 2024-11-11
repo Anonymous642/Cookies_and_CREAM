@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tank Legends", "description": "Tanks! RPGs! Machine Guns! Online! MMO!", "version": "6", "manifest_version": 2, "icons": {"128": "icon128.png"}, "app": {"urls": ["http://playir.com/x/tanklegends/"], "launch": {"web_url": "http://playir.com/x/tanklegends/"}}}

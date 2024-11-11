@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "0.0.3", "manifest_version": 3, "name": "CONET Platform", "description": "This is CONET Platform extension", "action": {"default_title": "CONET Platform Extension", "default_icon": "assets/icons/CoNET.png", "default_popup": "js/index.html"}, "permissions": ["tabs", "proxy"]}

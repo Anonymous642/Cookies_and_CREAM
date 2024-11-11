@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Happy timer", "short_name": "Happy timer", "description": "Over 90 parents and teachers have discovered this cute and useful timer.", "version": "1.6", "minimum_chrome_version": "38", "icons": {"128": "assets/icon_128.png"}, "app": {"background": {"scripts": ["background.js"]}}}

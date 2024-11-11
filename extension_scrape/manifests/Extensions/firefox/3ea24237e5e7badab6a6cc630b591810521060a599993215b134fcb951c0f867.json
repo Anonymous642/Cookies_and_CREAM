@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Copy Tab Links", "version": "0.0.3", "description": "Copies URLs of selected tabs to the clipboard.", "developer": {"name": "Battlemoose", "url": "mailto:hughblackall@gmail.com"}, "default_locale": "en", "permissions": ["menus", "tabs", "clipboardWrite"], "background": {"scripts": ["js/background.js"]}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "\u627e\u5716", "description": "\u7528\u53f3\u9375\u5feb\u901f\u641c\u5c0b\u5716\u7247", "version": "2.1", "icons": {"48": "icons/logo_48.png", "96": "icons/logo_96.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}}

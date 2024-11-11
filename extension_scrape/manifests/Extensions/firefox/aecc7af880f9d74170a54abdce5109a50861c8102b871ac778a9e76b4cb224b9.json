@@ -1,0 +1,1 @@
+{"name": "AniList's Unofficial Search", "version": "0.2.2", "omnibox": {"keyword": "al"}, "background": {"persistent": false, "scripts": ["consts.js", "background.js"]}, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "manifest_version": 2}

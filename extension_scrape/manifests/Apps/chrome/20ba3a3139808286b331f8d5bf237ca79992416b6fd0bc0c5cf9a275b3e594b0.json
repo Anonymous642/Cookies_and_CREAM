@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "IP Calc", "description": "IP \u043a\u0430\u043b\u044c\u043a\u0443\u043b\u044f\u0442\u043e\u0440", "version": "1.1", "icons": {"48": "img/48.png", "128": "img/128.png"}, "app": {"background": {"scripts": ["js/background.js"]}}}

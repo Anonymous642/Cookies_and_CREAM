@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Manula", "description": "Easily create online manuals that look great on any screen size", "version": "2015.12.31", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.manula.com/"], "launch": {"web_url": "https://admin.manula.com/"}}}

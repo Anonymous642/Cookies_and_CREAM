@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Canvas Calendar-Event Hider", "version": "1.0", "description": "Hide calendar events in Canvas", "permissions": [], "content_scripts": [{"matches": ["*://*.instructure.com/calendar*"], "js": ["content.js"]}]}

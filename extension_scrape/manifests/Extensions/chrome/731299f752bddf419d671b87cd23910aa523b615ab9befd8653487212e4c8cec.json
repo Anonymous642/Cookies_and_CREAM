@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "chrome_url_overrides": {"newtab": "blank.html"}, "description": "Blank new tab page. Supports OS dark mode.", "icons": {"38": "icon-38.png", "128": "icon-128.png"}, "manifest_version": 3, "name": "Blank New Tab Page - Dark mode support", "version": "0.1"}

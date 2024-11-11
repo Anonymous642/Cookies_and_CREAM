@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MyDetails-Generic-Extension", "version": "1.0", "description": "MyDetails Add-On (Generic)", "icons": {"48": "icons/MyDetails-48.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/MyDetails-48.png", "default_title": "Load MyDetails", "default_popup": "popup/load_my_details.html"}}

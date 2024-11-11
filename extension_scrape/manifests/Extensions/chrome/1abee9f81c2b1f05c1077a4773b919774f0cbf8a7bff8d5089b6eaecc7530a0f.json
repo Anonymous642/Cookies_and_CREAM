@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SMPR", "description": "Subway Monthly Punch Report", "version": "1.7", "action": {"default_icon": "sicon.png", "default_popup": "popup.html"}, "host_permissions": ["https://*/*"], "permissions": ["cookies"]}

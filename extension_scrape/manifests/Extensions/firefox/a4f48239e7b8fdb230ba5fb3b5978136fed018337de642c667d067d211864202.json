@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "KMF to SHP", "version": "1.0", "description": "Convert KMF to SHP", "browser_specific_settings": {"gecko": {"id": "KMF-to-shp@example.com"}}}

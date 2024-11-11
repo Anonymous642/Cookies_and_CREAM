@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Anonymous VPN - WebRTC leak prevent", "version": "1", "description": "Protect against WebRTC leaks under VPN connection", "icons": {"128": "/img/icon128.png"}, "permissions": ["privacy"], "background": {"scripts": ["/js/background.js"], "persistent": false}}

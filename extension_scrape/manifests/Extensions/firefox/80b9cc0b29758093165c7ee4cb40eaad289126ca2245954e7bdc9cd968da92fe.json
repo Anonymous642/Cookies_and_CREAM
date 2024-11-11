@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Couponik", "description": "Couponik cherche automatiquement les meilleurs code promo pour vos achats en ligne. Utilisez Couponik et economisez toute l'annee!", "version": "0.1", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html", "default_title": "Couponik"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "What's the Dealio", "version": "1.0", "description": "Changes all instances of the word 'deal' to 'dealio' on a few news sites - make Brexit news marginally more cool", "content_scripts": [{"matches": ["*://twitter.com/*", "*://*.reddit.com/*", "*://en.wikipedia.org/*", "*://*.theguardian.com/*", "*://*.bbc.co.uk/*"], "js": ["dealio.js"]}]}

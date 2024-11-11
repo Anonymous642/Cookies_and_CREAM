@@ -1,0 +1,1 @@
+{"name": "New Profile Blablacar", "version": "1.0", "manifest_version": 2, "icons": {"128": "icon.png"}, "description": "R\u00e9cup\u00e8re le nouveau profil de l'utilisateur", "content_scripts": [{"matches": ["https://www.blablacar.fr/user/show/*"], "js": ["js/profil.js"]}]}

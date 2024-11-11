@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "JoyClix - All Free Browser Games", "description": "Free Online MMOs, Farm Games, Simulation and Strategy Games for your Browser", "version": "1.2", "manifest_version": 2, "icons": {"128": "joyclix.png"}, "app": {"urls": ["http://www.joyclix.com/"], "launch": {"web_url": "http://www.joyclix.com/"}}}

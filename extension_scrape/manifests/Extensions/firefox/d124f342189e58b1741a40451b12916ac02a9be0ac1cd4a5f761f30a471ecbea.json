@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ResetEra Disable Lazy Load", "applications": {"gecko": {"id": "era-non-lazy-loading@aroskuski"}}, "version": "1.0", "description": "Unofficial addon to disable lazy loading of images on resetera.com", "content_scripts": [{"matches": ["*://*.resetera.com/*"], "js": ["non-lazy-load.js"], "run_at": "document_end"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Zwiermonnikoog", "version": "1.0", "description": "Usability fixes for Schiermonnikoog.com", "icons": {"48": "icons/zwiermonnikoog-48.png"}, "content_scripts": [{"matches": ["*://*.schiermonnikoog.com/*"], "js": ["zwiermonnikoog.js"]}]}

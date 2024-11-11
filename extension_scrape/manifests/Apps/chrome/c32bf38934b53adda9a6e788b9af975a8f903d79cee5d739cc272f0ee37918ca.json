@@ -1,0 +1,1 @@
+{"name": "http://j82productions.blogspot.com", "description": "Find everything under the roof !", "app": {"urls": ["http://j82productions.blogspot.com/"], "launch": {"web_url": "http://j82productions.blogspot.com/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

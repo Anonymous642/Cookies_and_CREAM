@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bonk", "version": "2.2", "description": "Bonk when there is a new case", "icons": {"48": "src48x48.png"}, "content_scripts": [{"matches": ["*://csone.lightning.force.com/*"], "js": ["jquery.js", "ding.js"]}]}

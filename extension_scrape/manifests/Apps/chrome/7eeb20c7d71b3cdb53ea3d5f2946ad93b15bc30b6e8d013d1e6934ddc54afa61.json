@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "BidTracer", "version": "2", "icons": {"24": "24.png", "128": "128.png"}, "app": {"urls": ["https://www.bidtracer.com"], "launch": {"web_url": "https://www.bidtracer.com/secure/overview.aspx"}}, "manifest_version": 2, "background": {"scripts": ["bidtracer.js"]}, "omnibox": {"keyword": "bidtracer"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Lotto Spielen Online Background", "version": "1.0", "description": "Adds a gray background to lotto-spielen-online.com", "permissions": ["tabs", "https://lotto-spielen-online.com/"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{5d48a158-47a1-4c2d-bceb-119aea22ca38}"}}}

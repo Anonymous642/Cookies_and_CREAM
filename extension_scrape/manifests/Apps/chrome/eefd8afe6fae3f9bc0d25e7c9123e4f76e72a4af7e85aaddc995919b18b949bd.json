@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://www.empresario3.com.br/mobile"], "launch": {"web_url": "http://www.empresario3.com.br/mobile"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Mobile 2.0", "name": "Mobile 2.0", "permissions": ["unlimitedStorage", "notifications"], "icons": {"128": "128.png"}, "manifest_version": 2, "version": "1.0"}

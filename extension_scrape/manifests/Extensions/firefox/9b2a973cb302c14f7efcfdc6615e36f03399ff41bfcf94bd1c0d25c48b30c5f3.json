@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DA Chat Features", "version": "1.0", "description": "Adds features to the DeviantART chatrooms.", "icons": {"48": "chat.png"}, "content_scripts": [{"matches": ["*://chat.deviantart.com/chat/*"], "js": ["da-chat.js"]}]}

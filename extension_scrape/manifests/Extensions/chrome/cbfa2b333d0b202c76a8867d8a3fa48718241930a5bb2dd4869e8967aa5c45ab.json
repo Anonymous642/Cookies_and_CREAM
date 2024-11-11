@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "action": {"default_icon": "bitcoin.png", "default_title": "btc price"}, "background": {"service_worker": "check.js"}, "description": "watch btc price", "icons": {"48": "bitcoin.png", "128": "bitcoin.png"}, "name": "btc price", "version": "1.0.0", "manifest_version": 3}

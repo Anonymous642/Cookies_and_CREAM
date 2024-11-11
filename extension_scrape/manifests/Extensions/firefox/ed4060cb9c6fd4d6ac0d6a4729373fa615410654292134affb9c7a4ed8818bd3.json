@@ -1,0 +1,1 @@
+{"name": "Twitch Highlights", "version": "0.2.13.0", "description": "Automatically finds highlights from Twitch VODs!", "permissions": ["activeTab", "https://highlights.now.sh/api"], "browser_action": {"default_popup": "popup.html", "default_icon": {"512": "images/512.png"}}, "icons": {"512": "images/512.png"}, "manifest_version": 2}

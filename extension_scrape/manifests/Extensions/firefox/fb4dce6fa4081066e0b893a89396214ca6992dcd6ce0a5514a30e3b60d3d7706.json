@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "autolete", "short_name": "autolete", "description": "It stops browser to store a porn website visit in history.", "version": "1.1", "browser_action": {"default_icon": "icons/inactive.png", "default_popup": "main.html"}, "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "history", "storage", "tabs", "webRequest"]}

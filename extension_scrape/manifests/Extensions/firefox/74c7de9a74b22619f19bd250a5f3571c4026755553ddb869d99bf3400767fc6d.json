@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ApMedica Extension", "version": "1.0", "description": "Sklanja padajuci meni sa myworld stranice", "icons": {"48": "icons/snake.png"}, "content_scripts": [{"matches": ["*://www.myworld.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{f9d500ac-15e3-44a6-84fd-f822aff6f745}"}}}

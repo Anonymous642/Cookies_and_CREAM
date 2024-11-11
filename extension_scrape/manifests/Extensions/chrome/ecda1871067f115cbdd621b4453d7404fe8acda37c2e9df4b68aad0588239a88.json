@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Major Key Alert", "description": "Replaces the word 'key' with \ud83d\udd11", "version": "0.1", "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

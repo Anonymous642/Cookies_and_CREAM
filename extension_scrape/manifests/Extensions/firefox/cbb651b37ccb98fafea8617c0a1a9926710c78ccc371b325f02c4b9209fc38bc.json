@@ -1,0 +1,1 @@
+{"description": "Azninj is THE Amazon Ninja", "manifest_version": 2, "name": "Azninj", "version": "1.2", "homepage_url": "http://www.reinmueller.org", "icons": {"48": "icons/azninj-48.png"}, "applications": {"gecko": {"id": "azninj@azninj.com", "strict_min_version": "45.0"}}, "content_scripts": [{"matches": ["*://*.amazon.*/*"], "js": ["azninj.js"]}]}

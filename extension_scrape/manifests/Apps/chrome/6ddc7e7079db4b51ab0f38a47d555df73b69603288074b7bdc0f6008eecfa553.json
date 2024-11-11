@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Flazio", "description": "Flazio \u00e8 il modo semplice per creare siti web", "version": "8", "app": {"urls": ["*://flazio.com/"], "launch": {"web_url": "http://www.flazio.com/"}}, "icons": {"128": "icon_128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

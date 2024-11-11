@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Olav Alexander Mjelde", "description": "En blogg om alt og ingen ting, teknologi, it, mat. Tips og triks!", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://mjelde.blogspot.no/"], "launch": {"web_url": "http://mjelde.blogspot.no/"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WuxiaWorld ShortCuts", "version": "2.3", "description": "FR: Extension qui rajoute des raccourcis clavier pour WuxiaWorld. | EN: Extension which adds keyboard shortcuts for WuxiaWorld.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://www.wuxiaworld.com/novel/*"], "js": ["WWchange.js"]}]}

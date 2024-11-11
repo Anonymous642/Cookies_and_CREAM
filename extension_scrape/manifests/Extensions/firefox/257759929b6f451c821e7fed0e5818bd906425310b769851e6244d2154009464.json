@@ -1,0 +1,1 @@
+{"description": "Checks balance of wallet addresses", "manifest_version": 2, "name": "Bitcoin balance viewer", "version": "1.1", "icons": {"48": "icons/icon.png"}, "permissions": ["<all_urls>"], "browser_action": {"default_icon": "icons/icon.png", "default_title": "Balance viewer", "default_popup": "popup/bal.html"}}

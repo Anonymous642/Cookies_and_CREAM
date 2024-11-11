@@ -1,0 +1,1 @@
+{"manifest_version": 2, "author": "Tony Ye", "name": "ProxySetter", "background": {"scripts": ["setProxy.js"]}, "applications": {"gecko": {"id": "jid1-BAuVAdBr8gFlOQ@tony", "strict_min_version": "60.0a1"}}, "description": "Automatically set proxy definitions on loading a certain url", "permissions": ["proxy", "webNavigation"], "version": "0.42"}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Chat gpt full Width", "version": "1.0", "description": "Make chat gpt full width.", "permissions": [], "content_scripts": [{"matches": ["https://chat.openai.com/*"], "js": ["content.js"]}], "action": {}}

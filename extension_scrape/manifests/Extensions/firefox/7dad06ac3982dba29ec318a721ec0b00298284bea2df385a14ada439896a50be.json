@@ -1,0 +1,1 @@
+{"name": "FBCLIDder", "version": "1", "description": "Removes fbclid, gclid, utm_ query, and other nasty tracking parameters in URLs.", "icons": {"48": "icons/noFbclidUtmIcon.png"}, "background": {"scripts": ["queryParamsRemover.js"]}, "permissions": ["webRequest", "webRequestBlocking", "http://*/*", "https://*/*"], "manifest_version": 2}

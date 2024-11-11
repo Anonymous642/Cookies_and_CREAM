@@ -1,0 +1,1 @@
+{"name": "YouTube Ad Auto-skipper", "short_name": "YouTube Ad Skipper", "description": "Automatisches \u00fcberspringen der youtube werbung", "manifest_version": 2, "version": "2021.2", "homepage_url": "https://wuemeli.com", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["skipad.js"], "run_at": "document_end", "all_frames": true}], "icons": {"128": "logo.png"}}

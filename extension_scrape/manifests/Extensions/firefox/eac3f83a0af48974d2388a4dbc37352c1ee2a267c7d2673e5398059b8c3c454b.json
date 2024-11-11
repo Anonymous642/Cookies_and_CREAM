@@ -1,0 +1,1 @@
+{"name": "Tab Tools", "description": "add todo,main-focus,weather and events", "version": "1.0.2", "manifest_version": 2, "author": "Deepak Goyal", "browser_action": {"default_popup": "index.html", "default_title": "New Tab"}, "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{98ff715c-650a-44ba-a714-4b39666544c7}"}}}

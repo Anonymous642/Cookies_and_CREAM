@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Skribble Hebrew Fix", "version": "1.0", "description": "Fixes the text direction of Hebrew text on skribble.io", "content_scripts": [{"matches": ["*://*.skribbl.io/*"], "js": ["skribble-fix.js"]}], "browser_specific_settings": {"gecko": {"id": "{6b1258a0-13a6-4f0e-babb-3f976bfae273}"}}}

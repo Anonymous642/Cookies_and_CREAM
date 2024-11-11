@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "IEEE Unlock", "version": "1.0", "description": "Unlocks IEEE papers by using sci-hub proxy", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://ieeexplore.ieee.org/document/*"], "js": ["ieee_unlock.js"]}], "browser_action": {"default_title": "IEEE Unlock", "browser_style": true}, "permissions": ["tabs"]}

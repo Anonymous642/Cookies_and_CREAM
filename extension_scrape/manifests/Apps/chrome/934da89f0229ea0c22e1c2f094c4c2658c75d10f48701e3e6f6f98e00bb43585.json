@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Marketing in Malta", "version": "0.3", "manifest_version": 2, "icons": {"128": "icon.png"}, "app": {"urls": ["http://jpadvertising.com/"], "launch": {"web_url": "http://jpadvertising.com"}}}

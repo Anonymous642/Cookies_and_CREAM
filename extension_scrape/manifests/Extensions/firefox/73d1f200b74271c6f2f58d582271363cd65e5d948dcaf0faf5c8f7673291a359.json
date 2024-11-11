@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Logo Changer", "version": "1.2.1", "description": "Change logo", "icons": {"48": "icon48.png"}, "content_scripts": [{"matches": ["https://twitter.com/*"], "run_at": "document_start", "js": ["content-script.js"]}], "browser_specific_settings": {"gecko": {"id": "{4428f35e-6162-4e50-9d24-778e4dec869c}"}}}

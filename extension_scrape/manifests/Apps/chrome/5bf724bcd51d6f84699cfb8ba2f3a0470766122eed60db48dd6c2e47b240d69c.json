@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Hangout", "version": "1.0", "manifest_version": 2, "description": "a video chat app", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "offline_enabled": true, "permissions": ["videoCapture"], "app": {"background": {"scripts": ["googlehangout.xml"]}}}

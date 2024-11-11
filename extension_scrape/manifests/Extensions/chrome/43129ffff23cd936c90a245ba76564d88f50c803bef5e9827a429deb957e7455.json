@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Ati Logout Remover", "version": "1.0", "description": "Ati.su Logout Remover", "manifest_version": 2, "content_scripts": [{"matches": ["https://ati.su/"], "js": ["script.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gmod Wiki full-width", "version": "1.0", "description": "Removes the max-width limit on the Gmod Wiki", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://wiki.facepunch.com/gmod/*"], "js": ["module.js"]}]}

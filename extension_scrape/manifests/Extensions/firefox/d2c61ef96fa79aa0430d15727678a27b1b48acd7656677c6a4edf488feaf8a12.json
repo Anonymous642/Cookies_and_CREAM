@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Geobettr", "version": "1.0.1", "description": "Enhance Geoguessr UI", "icons": {"48": "img/icon-48.png"}, "content_scripts": [{"matches": ["*://*.geoguessr.com/*"], "js": ["bundle.js"], "css": ["css/main.css"]}], "web_accessible_resources": ["img/*"], "browser_specific_settings": {"gecko": {"id": "{4eae3f04-4cdb-47a8-86f3-a90b99f1ff28}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Monorail Favicon", "description": "Give the Chromium Issue Tracker the old Monorail favicon.", "version": "0.1", "content_scripts": [{"matches": ["https://issues.chromium.org/*", "https://g-issues.chromium.org/*"], "js": ["content.js"]}], "manifest_version": 3}

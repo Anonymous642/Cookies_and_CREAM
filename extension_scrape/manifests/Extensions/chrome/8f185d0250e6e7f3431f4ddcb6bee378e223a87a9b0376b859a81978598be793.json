@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ngProbe", "version": "1.0", "description": "Adds ngProbe sidepanel to elements panel in devtools that shows the currently selected element's Angular Context. \r\n For Angular 5+", "devtools_page": "devpage.html", "icons": {"48": "icon48.png"}}

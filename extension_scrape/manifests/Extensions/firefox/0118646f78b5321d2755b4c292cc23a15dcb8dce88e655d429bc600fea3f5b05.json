@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OpenAir Search Fix", "version": "0.1.1", "description": "This makes the timesheets project search field wider", "content_scripts": [{"js": ["content.js"], "matches": ["https://*.openair.com/*", "https://openair.com/*"]}], "browser_specific_settings": {"gecko": {"id": "bmeade90@vt.edu", "strict_min_version": "42.0"}}}

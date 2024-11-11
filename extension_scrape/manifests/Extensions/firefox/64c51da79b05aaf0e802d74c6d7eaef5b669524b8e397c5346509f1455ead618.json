@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Yelp bot", "version": "2.0", "description": "Adds an autorespond to yelp business messenger", "icons": {"48": "icons/yelp.png"}, "applications": {"gecko": {"id": "bot@myasnikov"}}, "permissions": ["storage"], "content_scripts": [{"matches": ["*://*.yelp.com/messaging/*"], "js": ["jquery-uncompressed.js", "bot.js"], "css": ["bot.css"]}]}

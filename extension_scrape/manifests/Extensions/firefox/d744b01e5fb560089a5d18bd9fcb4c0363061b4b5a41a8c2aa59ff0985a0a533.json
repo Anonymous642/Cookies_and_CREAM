@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LeanBack", "version": "1.0.1", "description": "Automatically switch YouTube Tabs, once a video has finished", "icons": {"48": "img/icon.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["tabs", "webNavigation"], "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["content.js"]}]}

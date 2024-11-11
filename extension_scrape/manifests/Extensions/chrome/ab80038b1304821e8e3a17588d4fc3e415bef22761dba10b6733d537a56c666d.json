@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sesli Sozluk", "description": "Sesli Sozluk", "icons": {"16": "icon_256.png"}, "version": "2", "permissions": ["contextMenus"], "background": {"scripts": ["sample.js"]}, "manifest_version": 2}

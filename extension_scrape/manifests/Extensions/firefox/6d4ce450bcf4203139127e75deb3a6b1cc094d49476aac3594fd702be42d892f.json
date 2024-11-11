@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Computer Time Agent", "version": "1.0", "description": "Sends information about websites to Computer Timer", "icons": {"32": "icons/icon32x32.png"}, "content_scripts": [{"matches": ["*://*/*"]}], "background": {"scripts": ["interceptor.js"]}, "permissions": ["tabs", "*://localhost/*", "webRequest"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Smart mute for Firefox", "version": "1.0", "description": "Mutes all non active tabs", "browser_specific_settings": {"gecko": {"id": "smart.mute.firefox@if.it"}}, "icons": {"48": "src/icons/mute.png"}, "permissions": ["tabs", "storage"], "background": {"scripts": ["src/background.js"]}, "options_ui": {"page": "src/settings/options.html"}}

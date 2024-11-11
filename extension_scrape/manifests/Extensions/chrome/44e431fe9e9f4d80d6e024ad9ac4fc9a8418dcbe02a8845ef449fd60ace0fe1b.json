@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tabs Made Easy", "description": "A New Tab Extension, that makes tabs easy. Tell you the weather for the location you input, or the Australian weather.", "version": "0.0.0.1", "chrome_url_overrides": {"newtab": "override_page.html"}, "permissions": ["storage"], "unsafe-inline": true}

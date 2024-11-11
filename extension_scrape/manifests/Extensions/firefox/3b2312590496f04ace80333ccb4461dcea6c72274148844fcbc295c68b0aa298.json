@@ -1,0 +1,1 @@
+{"description": "Add a link to the assosiated ScamResear.ch scam on BobRTC.tel", "manifest_version": 2, "name": "ScamResearch", "version": "1.0", "homepage_url": "https://scamresear.ch", "icons": {"72": "logo.png"}, "content_scripts": [{"matches": ["*://bobrtc.tel/*"], "js": ["scamresearch.js"]}], "permissions": ["https://scamresear.ch/*", "webRequest"]}

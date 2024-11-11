@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sound Whore", "description": "A growing collection of tributes to the very best and finest in electronic dance music.", "version": "1.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://soundwhore.com/"], "launch": {"web_url": "https://soundwhore.com/"}}}

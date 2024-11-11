@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "API Pages", "version": "1.1", "description": "Adds /api/pages/ to your URL and changes the port 3000 to 8000.", "icons": {"48": "icons/icon.svg", "96": "icons/icon.svg"}, "permissions": ["tabs"], "browser_action": {"default_icon": "icons/icon.svg", "default_title": "API Pages"}, "background": {"scripts": ["api-pages.js"]}}

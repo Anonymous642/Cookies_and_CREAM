@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "JIRA - Better Estimates", "version": "1.0", "description": "Allows to hide the estimates on JIRA and shows a sum when selecting multiple issues", "manifest_version": 2, "content_scripts": [{"matches": ["*://*.atlassian.net/*"], "css": ["button.css"], "js": ["main.js"]}]}

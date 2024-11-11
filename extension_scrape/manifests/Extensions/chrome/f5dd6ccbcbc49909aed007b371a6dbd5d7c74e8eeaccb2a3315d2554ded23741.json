@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "0.0.1", "manifest_version": 3, "name": "PersisTabs", "description": "Manage your infinite list of tabs easily", "permissions": ["tabs"], "icons": {"128": "icon128.png"}, "action": {"default_popup": "js/index.html", "default_title": "PersisTabs - React"}}

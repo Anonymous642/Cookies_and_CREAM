@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ca\u0142e has\u0142o w kantorze Alior", "version": "1.0", "author": "Konrad Karpieszuk", "description": "Pozwala wprowadzi\u0107 ca\u0142e has\u0142o w kantorze Alior zamiast wpisywa\u0107 osobne znaki", "content_scripts": [{"matches": ["https://kantor.aliorbank.pl/login/password"], "js": ["index.js"]}]}

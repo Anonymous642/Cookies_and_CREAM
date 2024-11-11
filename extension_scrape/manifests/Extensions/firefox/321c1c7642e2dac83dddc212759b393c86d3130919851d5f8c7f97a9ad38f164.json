@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search", "version": "1.0", "description": "Search App", "icons": {"48": "search.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus", "tabs"], "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["searchscript.js"]}]}

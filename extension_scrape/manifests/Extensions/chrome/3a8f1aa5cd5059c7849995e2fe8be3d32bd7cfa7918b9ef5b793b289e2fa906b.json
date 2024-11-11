@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Friendzy", "description": "Browse friendzy directly from twitter!", "version": "1.0.0", "icons": {"192": "images/favicon.png"}, "content_scripts": [{"js": ["scripts/inject.js"], "matches": ["https://twitter.com/*"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "VIM typer", "version": "1.1.0", "description": "Use VIM keys in browser", "manifest_version": 3, "content_scripts": [{"matches": ["https://*/*", "http://*/*", "file://*/*"], "js": ["./plugin.js"], "run_at": "document_start", "all_frames": true}]}

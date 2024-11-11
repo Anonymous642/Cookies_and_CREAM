@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "kickassanime", "version": "1.2", "content_scripts": [{"matches": ["<all_urls>"], "js": ["script.js"], "run_at": "document_end"}], "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{2d747d3e-ac90-4183-8e09-e641b1353e4e}"}}}

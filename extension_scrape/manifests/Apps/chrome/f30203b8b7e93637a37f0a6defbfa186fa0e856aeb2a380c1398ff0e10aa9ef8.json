@@ -1,0 +1,1 @@
+{"name": "MPR Regnskap", "description": "MPR Regnskap AS er et moderne regnskapskontor som holder til i Oslo sentrum.", "app": {"urls": ["http://www.mprg.no/regnskap/"], "launch": {"web_url": "http://www.mprg.no/regnskap/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DarkenDjango", "version": "1.0", "description": "Removes Django's white border.", "icons": {"48": "icons/django.png"}, "content_scripts": [{"matches": ["*://*.djangoproject.com/*"], "js": ["darken.js"]}]}

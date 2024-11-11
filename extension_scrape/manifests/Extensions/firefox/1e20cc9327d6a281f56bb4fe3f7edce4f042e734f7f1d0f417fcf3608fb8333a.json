@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "amz-review prezzi", "version": "0.2", "content_scripts": [{"matches": ["https://www.amz-review.com/panel/", "http://www.amz-review.com/panel/"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{51404d29-ff16-44c1-9f64-fcd554b03f60}", "strict_min_version": "42.0"}}}

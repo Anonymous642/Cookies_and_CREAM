@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Inet Web Systems", "description": "Engineering company in web programming field,a group of professional specialists and high level of Engineers", "app": {"urls": "http://www.inet.ps", "launch": {"web_url": "http://www.inet.ps"}}, "manifest_version": 2, "version": "1.1", "icons": {"128": "icon.png"}}

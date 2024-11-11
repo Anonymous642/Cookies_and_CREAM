@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Unknown Revenge", "description": "An easy to play, top down, retro arcade shooting game for the Chrome Browser.", "version": "1.0.0", "manifest_version": 2, "icons": {"16": "Icon_16.png", "128": "Icon.png"}, "app": {"launch": {"local_path": "index.html"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "To-Do List Extension", "version": "1.0", "description": "A simple to-do list extension for Firefox", "icons": {"128": "icon.png"}, "permissions": ["storage"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{79a60e4f-ea6e-45eb-9528-8789beb304e4}"}}}

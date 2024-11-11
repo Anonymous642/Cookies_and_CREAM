@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fullscreen HubSpot Design Manager", "version": "1.0", "description": "Adds a button at the bottom of the hubspot design manager, onclick > fullscreen", "icons": {"48": "icons/fshs.png"}, "content_scripts": [{"matches": ["*://app.hubspot.com/design-manager/*"], "js": ["script.js"]}]}

@@ -1,0 +1,1 @@
+{"applications": {"gecko": {"id": "calculator-search@isaac-newt", "strict_min_version": "52.0"}}, "manifest_version": 2, "name": "Calculator Search", "version": "0.0.2", "description": "get quick answers to basic math queries in the Awesomebar", "permissions": [], "omnibox": {"keyword": "calc"}, "background": {"scripts": ["background.js"]}}

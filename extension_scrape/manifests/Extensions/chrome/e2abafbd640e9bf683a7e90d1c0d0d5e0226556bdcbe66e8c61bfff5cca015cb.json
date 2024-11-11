@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sudoku", "version": "1.0.0", "description": "Sudoku game", "manifest_version": 3, "author": "Manoj prabhu", "action": {"default_popup": "index.html", "default_title": "Sudoku"}}

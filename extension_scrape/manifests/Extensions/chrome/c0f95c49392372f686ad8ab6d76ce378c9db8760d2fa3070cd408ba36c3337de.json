@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SdarotAutomatic", "version": "1.0", "content_scripts": [{"matches": ["https://www.sdarot.tw/*"], "js": ["content.js"]}], "action": {"default_popup": "popup.html"}, "permissions": ["storage"]}

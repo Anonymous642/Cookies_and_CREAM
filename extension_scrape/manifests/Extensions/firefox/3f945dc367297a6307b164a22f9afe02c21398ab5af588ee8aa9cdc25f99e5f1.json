@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "0.2.3", "name": "Danielification", "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{6f045a03-c9d0-4e56-ab00-0e3159def918}"}}}

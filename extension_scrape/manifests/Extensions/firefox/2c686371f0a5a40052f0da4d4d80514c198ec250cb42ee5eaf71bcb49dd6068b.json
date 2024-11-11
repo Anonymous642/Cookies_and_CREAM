@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YoutubeAdSkip", "version": "1.1", "description": "Salta automaticamente los anuncios de YouTube", "icons": {"48": "ytdadskip.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["ytdadskip.js"]}], "applications": {"gecko": {"id": "marotoatance@gmail.com"}}}

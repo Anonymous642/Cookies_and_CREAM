@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u0425\u0440\u0430\u043f", "version": "1.1", "icons": {"128": "icon128.png"}, "app": {"urls": ["http://minigames.mail.ru/hrap"], "launch": {"web_url": "http://minigames.mail.ru/hrap"}}, "permissions": ["notifications"], "manifest_version": 2}

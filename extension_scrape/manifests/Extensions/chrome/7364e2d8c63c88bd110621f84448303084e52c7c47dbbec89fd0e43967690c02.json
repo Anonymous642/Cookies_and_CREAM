@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Put It On My Tab", "description": "Organize your tabs or...?", "version": "1.0", "action": {"default_popup": "index.html", "default_icon": "PIOMT.png"}, "permissions": ["tabs", "tabGroups"], "host_permissions": ["https://developer.chrome.com/*"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Unwish", "version": "1.0", "description": "Extension to remove Amazon wishlists from Twitter", "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["unwish.js"]}], "browser_specific_settings": {"gecko": {"id": "test@extension"}}}

@@ -1,0 +1,1 @@
+{"description": "Watch UK TV", "manifest_version": 2, "name": "Watch UK TV", "version": "1.54", "homepage_url": "http://redrobe.com/mike", "icons": {"48": "icons/tv.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/tv.png", "default_title": "Watch UKTV", "default_popup": "data/channels.html"}}

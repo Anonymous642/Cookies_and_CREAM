@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u98a8\u96f2", "description": "\u98a8\u96f2\uff1a\u6b66\u8005\u7121\u6575", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png.png"}, "app": {"urls": ["http://www.gm99.com/fy/"], "launch": {"web_url": "http://www.gm99.com/fy/server_list"}}}

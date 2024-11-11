@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "MusicCityLive.de", "version": "1.0", "manifest_version": 2, "description": "MusicCityLive | We build a City of Music", "icons": {"128": "mcl.png"}, "app": {"urls": ["http://www.musiccitylive.de/"], "launch": {"web_url": "http://www.musiccitylive.de"}}}

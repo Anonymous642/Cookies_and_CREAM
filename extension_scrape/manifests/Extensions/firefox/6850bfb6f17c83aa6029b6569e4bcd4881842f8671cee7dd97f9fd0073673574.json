@@ -1,0 +1,1 @@
+{"description": "Opens the current tab in outline.com", "manifest_version": 2, "name": "outline", "version": "1.0", "author": "Jamal A. Mohamed", "background": {"scripts": ["outline.js"]}, "permissions": ["activeTab"], "browser_action": {"default_icon": {"48": "icons/outline-48.png", "96": "icons/outline-96.png"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "rdmbkmrk", "version": "1.0", "description": "Opens a random bookmark.", "background": {"scripts": ["src/rdmbkmrk.js"]}, "browser_action": {"default_title": "Open a random bookmark", "default_icon": {"16": "icons/rdmbkmrk-16.png", "32": "icons/rdmbkmrk-32.png"}}, "permissions": ["bookmarks"]}

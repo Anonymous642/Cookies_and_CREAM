@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "FreeMarketer", "description": "The tool to manage your Leads, Email Marketing & Social Media.", "version": "1", "manifest_version": 2, "app": {"urls": ["http://www.freemarketer.com/"], "launch": {"web_url": "http://www.freemarketer.com"}}, "icons": {"128": "fm_icon.png"}}

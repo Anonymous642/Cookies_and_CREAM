@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "nottin", "description": "an easy way for you to take notes right on the webpage!", "version": "1.0", "author": "jxwuu", "action": {"default_icon": "icon.png", "default_popup": "popup.html", "default_title": "note"}, "permissions": ["storage"]}

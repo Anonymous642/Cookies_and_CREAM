@@ -1,0 +1,1 @@
+{"description": "CampeonAntiCheat anti billiards cheat", "manifest_version": 2, "name": "CampeonAntiCheat", "version": "2.0", "permissions": ["activeTab", "tabs"], "icons": {"64": "icon64.png"}, "browser_action": {"default_icon": "icon64.png", "default_title": "CampeonAntiCheat", "default_popup": "popup.html"}}

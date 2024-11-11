@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DateTime Viewer", "version": "1.0", "description": "Quickly view the current date and time.", "browser_action": {"default_icon": "icons/clock-48.png", "default_popup": "popup.html", "default_title": "Date & Time"}, "icons": {"48": "icons/clock-48.png"}, "browser_specific_settings": {"gecko": {"id": "{77a3cef0-8a70-4f97-919b-098bca756dae}"}}}

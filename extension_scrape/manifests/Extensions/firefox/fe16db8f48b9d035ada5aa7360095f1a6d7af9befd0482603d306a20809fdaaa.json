@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Safe Search", "description": "Safe Search App is a quick launcher for easy access to kid's safe search engines.", "version": "1.0.2", "icons": {"128": "icon_128.png"}, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}}

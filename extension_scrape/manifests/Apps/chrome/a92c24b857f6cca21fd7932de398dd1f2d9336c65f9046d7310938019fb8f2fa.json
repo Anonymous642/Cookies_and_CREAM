@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Motoboy.com", "version": "3", "icons": {"24": "24.png", "128": "128.png"}, "app": {"urls": ["http://www.motoboy.com/sp/sao-paulo?pedido=true&origem=APP_CHROME"], "launch": {"web_url": "http://www.motoboy.com/sp/sao-paulo?pedido=true&origem=APP_CHROME"}}, "manifest_version": 2}

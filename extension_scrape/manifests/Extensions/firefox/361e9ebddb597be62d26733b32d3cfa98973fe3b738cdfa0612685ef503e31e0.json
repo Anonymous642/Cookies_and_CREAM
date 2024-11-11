@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "text npr to full version", "version": "1.2.1", "description": "Utilities on lite news pages", "content_scripts": [{"matches": ["*://text.npr.org/*"], "js": ["js/lite.js"], "css": ["css/style.css"]}]}

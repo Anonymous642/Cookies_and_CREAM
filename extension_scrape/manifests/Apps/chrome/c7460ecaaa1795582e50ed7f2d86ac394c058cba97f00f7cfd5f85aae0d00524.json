@@ -1,0 +1,1 @@
+{"app": {"launch": {"local_path": "50coins_nacl.html"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "50Coins", "name": "50Coins", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "requirements": {"3D": {"features": ["css3d", "webgl"]}}, "manifest_version": 2, "version": "1.0"}

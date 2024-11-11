@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My Epitech Percentages", "version": "1.1.1", "permissions": ["tabs", "webRequest", "webRequestBlocking", "*://my.epitech.eu/*", "https://api.epitest.eu/*"], "content_scripts": [{"matches": ["*://my.epitech.eu/*"], "js": ["content.js"]}]}

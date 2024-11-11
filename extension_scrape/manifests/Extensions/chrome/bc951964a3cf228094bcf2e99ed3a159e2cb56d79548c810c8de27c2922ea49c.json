@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "EDIPfy", "description": "Ers\u00e4tter alla bilder p\u00e5 hemsidor med bilder p\u00e5 EDIP-anst\u00e4llda", "version": "0.1", "icons": {"128": "icon_128.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

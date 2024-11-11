@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ImgBB Image Hosting", "version": "1.0", "description": "ImgBB Image Hosting button", "background": {"scripts": ["button.js"]}, "browser_action": {"default_icon": {"48": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{3490da01-1896-468c-9bbf-91f5085a0ce1}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Qwokka", "version": "2.0", "description": "See what's actually good on Netflix.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*.netflix.com/*"], "js": ["content.js"], "css": ["style.css"]}]}

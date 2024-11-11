@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Google Chat transliteration", "description": "Adds button to messages to translit messages", "version": "0.0.1", "content_scripts": [{"matches": ["https://chat.google.com/*", "https://mail.google.com/chat/*"], "all_frames": true, "js": ["content.js"], "run_at": "document_end"}]}

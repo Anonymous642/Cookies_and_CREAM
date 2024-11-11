@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Stocks Are Up", "version": "1.0", "description": "Adds a 'stocks are up' text to r/investing titles.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.reddit.com/r/investing*"], "js": ["src.js"]}]}

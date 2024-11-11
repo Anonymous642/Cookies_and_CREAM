@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Dynamyx Workflow Extension", "version": "1.0.0", "description": "Closes orphaned tabs opened to launch to a Dynamyx scan", "background": {"scripts": ["background.js"], "persistent": false}, "icons": {"48": "icon48.png", "128": "icon128.png"}, "permissions": ["tabs"], "manifest_version": 2}

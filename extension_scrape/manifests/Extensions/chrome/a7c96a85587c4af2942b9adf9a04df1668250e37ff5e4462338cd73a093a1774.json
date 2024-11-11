@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Organize Jobs", "description": "Tools untuk mempermudah pengerjaan jobs yang banyak", "version": "2.3.0", "manifest_version": 3, "action": {"default_popup": "index.html"}, "icons": {"128": "./CarbonAssetConfirm.png"}}

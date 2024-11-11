@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Never Automatically Switch to Pinned Tabs", "version": "1.0", "description": "Open a new tab after closing all non-pinned tabs instead of switching to the last pinned tab.", "icons": {"60": "icon.png"}, "background": {"scripts": ["background.js"]}}

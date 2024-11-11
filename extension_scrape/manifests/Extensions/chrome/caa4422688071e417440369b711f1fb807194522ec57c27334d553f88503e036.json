@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Binance Exchange BTCUSDT Current Price", "description": "Fetch Binance current Price of BTCUSDT", "version": "1.0", "manifest_version": 3, "minimum_chrome_version": "116", "action": {"default_icon": "icons/logo.png", "default_popup": "popup.html"}, "icons": {"48": "icons/logo.png"}}

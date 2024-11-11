@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Lurk", "version": "1.0", "description": "Blocks your ability to comment on reddit posts and reply to comments", "icons": {"32": "Lurk.png"}, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["commentblock.js"]}]}

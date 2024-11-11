@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sort Tabs", "version": "1.0", "description": "Sort tabs by title/domain", "browser_action": {"default_icon": {"32": "drawing.svg.png"}, "default_title": "Sort", "default_popup": "popup.html"}, "permissions": ["notifications", "tabs"], "background": {"scripts": ["background.js"]}}

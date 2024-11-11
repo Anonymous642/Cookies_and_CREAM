@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Round Bracket Sticky Note Extension", "version": "1.0", "description": "Round Bracket Sticky Note Extension", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage", "scripting"], "background": {"service_worker": "background.js"}}

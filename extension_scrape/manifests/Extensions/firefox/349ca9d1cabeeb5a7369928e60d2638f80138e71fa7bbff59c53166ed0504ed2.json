@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "One-Liners", "version": "0.81", "description": "Get a daily wallpaper and funny one liner on new tab.", "icons": {"16": "img/icon16.png", "48": "img/icon48.png", "96": "img/icon96.png"}, "options_ui": {"page": "credits.html"}, "permissions": ["management"], "chrome_url_overrides": {"newtab": "newtab.html"}}

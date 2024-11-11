@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sorupdf", "description": "\u00d6\u011frenciler i\u00e7in bilgi kayna\u011f\u0131.", "version": "1.0", "manifest_version": 3, "browser_action": {"default_title": "Sorupdf", "default_icon": "logo.png", "default_popup": "plugin.html"}, "icons": {"128": "logo.png"}}

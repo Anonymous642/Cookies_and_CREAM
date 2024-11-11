@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LBC Stats", "version": "1.0", "description": "LBC Stats", "icons": {}, "content_scripts": [{"matches": ["https://www.leboncoin.fr/recherche/*"], "css": ["styles.css"], "js": ["jquery-3.3.1.min.js", "Chart.min.js", "main.js"]}]}

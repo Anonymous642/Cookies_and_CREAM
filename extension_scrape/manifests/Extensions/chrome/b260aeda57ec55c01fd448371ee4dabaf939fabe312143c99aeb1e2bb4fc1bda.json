@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "365QuickLinks", "short_name": "365QuickLinks", "description": "Streamline access to Microsoft 365 apps on every new tab with our Chrome extension.", "version": "0.0.1", "action": {}, "manifest_version": 3, "chrome_url_overrides": {"newtab": "index.html"}, "background": {"service_worker": "background.js"}}

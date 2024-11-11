@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "pocztapolska-track", "description": "Opens Poczta Polska tracking info for selected tracking number", "version": "1.0", "icons": {"32": "icon.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus"], "browser_specific_settings": {"gecko": {"id": "pocztapolska-track@example.com"}}}

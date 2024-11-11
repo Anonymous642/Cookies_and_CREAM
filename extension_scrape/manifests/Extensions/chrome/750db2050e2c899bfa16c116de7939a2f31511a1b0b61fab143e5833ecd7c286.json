@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u0643\u0648\u062f \u062e\u0635\u0645 \u064a\u0648\u0628\u0627\u064a 15% \u0639\u0644\u0649 UBUY", "manifest_version": 2, "version": "1.1", "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icon128.png"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Chrome-ext-stats", "description": "Chrome-ext-bugs", "version": "1.0", "action": {"default_icon": {"32": "icon.png"}, "default_popup": "popup.html"}, "host_permissions": ["<all_urls>"]}

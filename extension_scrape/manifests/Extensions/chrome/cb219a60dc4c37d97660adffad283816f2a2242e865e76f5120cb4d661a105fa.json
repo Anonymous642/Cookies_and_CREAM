@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "NCTU New e3 \u52a0\u901f\u5668", "version": "2.0", "description": "\u5927\u5e45\u964d\u4f4e\u4ea4\u5927\u65b0e3 Loading\u6642\u9593", "manifest_version": 2, "content_scripts": [{"matches": ["https://e3new.nctu.edu.tw/*"], "js": ["main.js"], "run_at": "document_start"}]}

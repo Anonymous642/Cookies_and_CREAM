@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WuxiaWorld Centered NoAds", "version": "1.0", "description": "WuxiaWorld with centered content and no ads. The right panel bar is below the comment section. Only changes DOM and deletes ads, nothing more.", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://*.wuxiaworld.com/*"], "js": ["centered.js"]}]}

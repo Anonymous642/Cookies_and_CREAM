@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "OTP Generator", "action": {"default_popup": "popup.html"}, "icons": {"16": "favicon.png"}, "options_page": "options.html", "description": "Solar OTP Generator", "version": "1.0", "manifest_version": 3, "permissions": ["storage", "clipboardWrite"]}

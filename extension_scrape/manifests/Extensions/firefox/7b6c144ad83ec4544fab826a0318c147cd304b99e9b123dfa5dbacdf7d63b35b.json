@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ytmpv", "version": "1.0", "description": "Opens YouTube videos in mpv", "permissions": ["<all_urls>"], "icons": {"48": "icon-256.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["ytmpv.js"]}], "browser_specific_settings": {"gecko": {"id": "{9abacf73-3bc6-41b7-8fd6-c1428eeaecde}"}}}

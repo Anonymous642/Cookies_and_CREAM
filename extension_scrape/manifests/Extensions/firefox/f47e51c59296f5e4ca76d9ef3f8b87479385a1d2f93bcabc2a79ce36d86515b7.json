@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Block Topics", "version": "1.0", "description": "Remove recommended topic in twitter home.", "content_scripts": [{"matches": ["https://twitter.com/home"], "js": ["block.js"]}]}

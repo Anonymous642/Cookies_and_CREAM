@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tailor", "description": "DevTools tailored your way with real CSS", "author": "Ron Au", "icons": {"128": "Tailor_128x128.png"}, "devtools_page": "devtools.htm", "background": {"scripts": ["background.js"], "persistent": false}, "permissions": ["storage"], "version": "0.2.0", "manifest_version": 2}

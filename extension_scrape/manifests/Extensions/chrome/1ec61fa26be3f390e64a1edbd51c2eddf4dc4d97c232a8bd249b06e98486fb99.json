@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Motivational Video Extension", "version": "1.0", "permissions": ["activeTab", "storage", "alarms"], "action": {}, "background": {"service_worker": "background.js"}, "options_ui": {"page": "options.html", "open_in_tab": true}}

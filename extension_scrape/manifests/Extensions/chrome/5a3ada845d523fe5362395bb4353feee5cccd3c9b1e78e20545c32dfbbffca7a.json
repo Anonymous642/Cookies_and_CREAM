@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Xquare", "description": "Xquare extension for chromium", "manifest_version": 3, "version": "2.0.1", "icons": {"16": "favicon.png", "32": "favicon.png", "64": "favicon.png"}, "action": {"default_popup": "index.html"}, "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"name": "Night of the living dead", "author": "vintageclassics", "version": "0.1", "manifest_version": 2, "description": "Watch the great Horror film that started the Zombie Craze", "browser_action": {"default_icon": "notld.png", "default_title": "Watch the great Horror classic that started the Zombie Craze", "default_popup": "extension.html"}, "icons": {"128": "notld.png"}}

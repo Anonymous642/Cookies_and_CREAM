@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "answersz.com", "description": "Technical articles,tutorials and examples on Java and J2ee technologies", "version": "0.0.0.3", "icons": {"128": "icon_128.png"}, "app": {"urls": ["HTTP://WWW.ANSWERSZ.COM/"], "launch": {"web_url": "HTTP://WWW.ANSWERSZ.COM/"}}}

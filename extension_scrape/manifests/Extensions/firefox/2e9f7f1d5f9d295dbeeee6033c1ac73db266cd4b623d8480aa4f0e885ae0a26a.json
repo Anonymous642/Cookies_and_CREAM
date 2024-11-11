@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "History Purger", "version": "1.0", "description": "Keeps your navigation history clean without using Private Mode", "icons": {"48": "icon.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["history", "webNavigation"]}

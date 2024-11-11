@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Switch to old Reddit", "version": "1.1", "description": "Adds an option on the Context Menu to switch from the new reddit website to the old reddit website. Only works when the active tab is on www.reddit.com.", "background": {"scripts": ["background_sw_to_old_reddit.js"]}, "permissions": ["activeTab", "contextMenus"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Aecius", "description": "Gives recommendations based on browser history", "version": "1.12", "background": {"scripts": ["history.js"]}, "icons": {"128": "icon.png"}, "permissions": ["history", "storage", "tabs", "https://www.aecius.net/*", "cookies"]}

@@ -1,0 +1,1 @@
+{"name": "MyIP", "version": "1.0.0", "description": "get your IP by a click", "manifest_version": 2, "author": "Alireza Babazadeh", "browser_action": {"default_icon": "assets/ip-icon.png", "default_popup": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{76db411b-fc00-4908-ba9a-cf90b0d7bed1}"}}}

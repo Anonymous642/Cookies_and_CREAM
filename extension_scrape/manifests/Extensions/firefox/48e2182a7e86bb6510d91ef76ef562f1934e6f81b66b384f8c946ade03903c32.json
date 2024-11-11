@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "News", "version": "2", "description": "Get Latest News From USA TODAY", "icons": {"48": "icon/usatoday.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icon/usatoday.png", "default_title": "USA TODAY", "default_popup": "popup/index.html"}}

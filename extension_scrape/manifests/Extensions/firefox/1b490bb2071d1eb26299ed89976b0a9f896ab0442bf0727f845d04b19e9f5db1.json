@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YTSHider", "version": "1.1", "description": "Hides youtube shorts", "content_scripts": [{"matches": ["*://www.youtube.com/**"], "js": ["shortbuttonhide.js"]}], "permissions": [], "browser_specific_settings": {"gecko": {"id": "{560012aa-c148-4f44-ad5c-69f890c20de5}"}}}

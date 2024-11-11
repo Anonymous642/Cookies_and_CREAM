@@ -1,0 +1,1 @@
+{"name": "Voice Changer", "version": "4.2.7", "manifest_version": 2, "description": "You can make free unlimited Voices", "browser_action": {"default_icon": "icon.png", "default_title": "Voice Changer", "default_popup": "extension.html"}, "icons": {"128": "icon.png"}}

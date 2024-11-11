@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove Medium Header", "version": "1.0", "description": "Allows on-click removal of fixed header and footer on Medium and HackerNoon articles.", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.hackernoon.com/*", "*://*.medium.com/*"], "js": ["remo.js"]}]}

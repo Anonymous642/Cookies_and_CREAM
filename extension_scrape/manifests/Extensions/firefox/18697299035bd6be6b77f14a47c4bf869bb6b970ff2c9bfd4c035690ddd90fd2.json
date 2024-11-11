@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reddlimit", "version": "1.2.0", "description": "Limits Reddit for web to a single page.", "icons": {"48": "images/logo-icon.png"}, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{b50ea5e6-4a2c-49c1-8da1-6f2f0fdbbaa8}"}}}

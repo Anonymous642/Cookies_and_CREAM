@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Chamber of OpenApi secrets", "description": "Hold secrets for use with openapi", "version": "1.0", "action": {"default_title": "hold secrets for use with openapi"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["jquery.js", "content.js"]}], "browser_specific_settings": {"gecko": {"id": "andreas.knudsen@gmail.com"}}}

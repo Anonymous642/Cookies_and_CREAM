@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Username Lookup Assistant", "version": "0.1.0", "description": "", "icons": {"64": "user.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus", "tabs", "<all_urls>"], "browser_specific_settings": {"gecko": {"id": "{f5c9bfb4-4eb3-4990-a305-159152f20638}"}}}

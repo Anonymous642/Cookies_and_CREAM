@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "xStendig", "description": "A minimalist stendig calander new tab page", "version": "0.1.5.5", "chrome_url_overrides": {"newtab": "files/index.html"}, "icons": {"16": "ico.png", "48": "ico.png", "128": "ico.png"}, "action": {"default_icon": "ico.png"}}

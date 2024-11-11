@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Ptt Over18", "version": "0.3", "description": "\u81ea\u52d5\u9a57\u8b49 Ptt \u5341\u516b\u6b72\u78ba\u8a8d\u756b\u9762", "content_scripts": [{"matches": ["*://www.ptt.cc/ask/over18*"], "js": ["ptt-over18.js"]}], "permissions": []}

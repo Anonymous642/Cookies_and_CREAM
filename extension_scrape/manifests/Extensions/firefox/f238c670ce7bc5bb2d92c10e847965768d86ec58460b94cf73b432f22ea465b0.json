@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YT Raffle Picker", "description": "To rozszerzenie pozwala robi\u0107 losowania (raffle) na stronie gaming.youtube.com", "version": "1.1", "permissions": ["tabs", "activeTab", "https://youtube.com/"], "content_scripts": [{"matches": ["https://gaming.youtube.com/*"], "js": ["script/main.js"]}]}

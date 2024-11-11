@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CoCalc", "description": "Collaborative Calculation in the Cloud", "version": "7", "app": {"urls": ["https://cocalc.com/"], "launch": {"web_url": "https://cocalc.com/app"}}, "icons": {"128": "cocalc-128.png", "512": "cocalc-512.png"}, "manifest_version": 2, "permissions": []}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u0421\u043b\u043e\u0432\u043e\u0440\u044f\u0434", "version": "1.2", "icons": {"128": "icon128.png"}, "app": {"urls": ["https://minigames.mail.ru/slovoryad"], "launch": {"web_url": "https://minigames.mail.ru/slovoryad"}}, "permissions": ["notifications"], "manifest_version": 2}

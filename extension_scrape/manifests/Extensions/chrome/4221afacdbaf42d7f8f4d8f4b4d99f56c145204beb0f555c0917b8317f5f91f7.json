@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "New Tab | Task Search Online", "version": "1.0", "chrome_url_overrides": {"newtab": "newTab.html"}, "description": "Task Search Online New Tab is your best assistant tool in organizing your day", "manifest_version": 3}

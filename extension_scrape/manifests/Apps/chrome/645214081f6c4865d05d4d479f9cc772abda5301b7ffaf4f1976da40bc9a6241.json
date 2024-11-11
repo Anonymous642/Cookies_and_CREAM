@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Recipe Rappele", "description": "Read your recipes in an ad-free site and save them offline", "version": "0.1", "manifest_version": 2, "app": {"background": {"scripts": ["js/background.js"]}}, "permissions": ["storage", "app.window", "<all_urls>"], "icons": {"16": "icon.png"}}

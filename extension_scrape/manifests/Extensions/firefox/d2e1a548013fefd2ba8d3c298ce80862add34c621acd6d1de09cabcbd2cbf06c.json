@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "google-antidoxx", "version": "0.0.1", "icons": {"56": "icons/OkayChampHypers@56.png"}, "content_scripts": [{"matches": ["*://*.google.com/*"], "js": ["google-antidoxx.js"]}], "browser_specific_settings": {"gecko": {"id": "{03f35eee-76fc-46b5-890f-7b06ca022714}"}}}

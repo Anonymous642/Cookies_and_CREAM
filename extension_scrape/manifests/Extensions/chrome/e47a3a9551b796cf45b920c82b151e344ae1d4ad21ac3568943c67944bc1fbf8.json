@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "QucikTimer", "description": "One-Click Timer", "version": "1.0", "browser_action": {"default_icon": "icon1-38.png", "default_popup": "index.html"}, "permissions": ["storage"], "icons": {"16": "icon16x16.png", "48": "icon48x48.png", "128": "icon128x128.png"}}

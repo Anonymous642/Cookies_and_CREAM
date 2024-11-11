@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "o2online.de improvements", "version": "1.0.1", "description": "Disables a few options of o2online.de", "content_scripts": [{"matches": ["*://www.o2online.de/ecare-prepaid/", "*://www.o2online.de/ecare-prepaid/uebersicht", "*://www.o2online.de/ecare-prepaid/aufladen-uebersicht"], "js": ["improvements.js"]}]}

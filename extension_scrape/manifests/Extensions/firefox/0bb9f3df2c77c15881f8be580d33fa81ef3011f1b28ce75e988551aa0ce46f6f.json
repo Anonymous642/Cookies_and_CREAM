@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitch Pause", "version": "1.51", "description": "Twitch pause extension for Mozilla", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://www.twitch.tv/*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{36194883-46ca-4f68-ae13-a1c517ef8fbf}"}}}

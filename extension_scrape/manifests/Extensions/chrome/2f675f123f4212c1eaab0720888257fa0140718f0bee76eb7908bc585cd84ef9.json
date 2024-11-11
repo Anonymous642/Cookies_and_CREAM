@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "0.1", "name": "Dali Tab", "description": "Beautiful art from Salvador Dal\u00ed in every tab", "chrome_url_overrides": {"newtab": "src/dalitab.html"}, "icons": {"16": "icons/16x16.png", "48": "icons/48x48.png", "128": "icons/128x128.png"}, "permissions": ["geolocation"]}

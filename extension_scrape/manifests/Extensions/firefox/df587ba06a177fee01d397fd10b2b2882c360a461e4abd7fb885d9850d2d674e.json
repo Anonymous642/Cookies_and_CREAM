@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HeadersSaver", "author": "Anastasiia Chorna", "version": "1.0", "description": "Saving all request headers to session storage.", "background": {"scripts": ["header_saver.js"]}, "permissions": ["webRequest", "webRequestBlocking", "tabs", "<all_urls>"], "browser_specific_settings": {"gecko": {"id": "{215c6f45-0998-4735-9447-71edc9cd8b8c}"}}}

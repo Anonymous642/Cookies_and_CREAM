@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "4def", "version": "1.0", "description": "Define selections easily!", "permissions": ["contextMenus", "http://dictionary.com/*"], "icons": {"16": "icon16.png", "19": "icon.png", "48": "icon48.png"}, "background": {"scripts": ["background.js"]}, "manifest_version": 2}

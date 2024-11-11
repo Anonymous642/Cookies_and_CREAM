@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Boycott-er", "version": "1.0", "description": "Boycott shitty websites", "icons": {"48": "border-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["script.js"]}], "permissions": ["https://turn-around.glitch.me/list", "webRequest"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Twitter Blue Bird Logo", "description": "Replace the X with the classic Twitter blue birb", "version": "1.0.0", "manifest_version": 3, "content_scripts": [{"matches": ["https://twitter.com/*"], "run_at": "document_end", "js": ["replaceLogo.js"]}], "icons": {"128": "/twitter_logo.png"}}

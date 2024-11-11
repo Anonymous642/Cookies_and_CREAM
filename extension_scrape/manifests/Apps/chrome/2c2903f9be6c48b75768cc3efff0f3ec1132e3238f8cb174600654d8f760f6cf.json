@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Tiki-Toki Timeline Software", "description": "Create beautiful interactive timelines that you can share on the web", "version": "0.0.0.2", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.tiki-toki.com/"], "launch": {"web_url": "http://www.tiki-toki.com/"}}}

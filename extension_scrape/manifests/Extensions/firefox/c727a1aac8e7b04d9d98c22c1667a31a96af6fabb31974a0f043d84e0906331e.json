@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Extensify Be", "author": "shriyash", "version": "1.0", "description": "A Cool Browser Extension that let's you manage your daily task with soothing background and inspiring quotes", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{51ca975b-90db-4296-b952-7638f2629aac}"}}}

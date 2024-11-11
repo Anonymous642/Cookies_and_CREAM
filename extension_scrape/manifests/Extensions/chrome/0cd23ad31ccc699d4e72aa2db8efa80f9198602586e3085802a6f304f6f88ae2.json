@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "QRtify", "version": "1.1.1", "description": "Takes the URL of a tab turns it into a QR code to make ", "browser_action": {"default_icon": "QRtify grey.png", "default_popup": "code/popup.html", "default_title": "Hello POP"}, "permissions": ["tabs"]}

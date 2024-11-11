@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "version": "0.0.8", "short_name": "kunpeng-helper", "name": "\u9cb2\u9e4f\u5c0f\u52a9\u624b", "description": "\u9cb2\u9e4f\u5c0f\u52a9\u624b", "permissions": ["tabs", "cookies", "<all_urls>"], "background": {"scripts": ["background.bundle.js"], "persistent": true}, "icons": {"64": "64.png"}}

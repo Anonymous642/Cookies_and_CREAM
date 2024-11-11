@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "\u6559\u80b2\u767e\u79d1\u53f3\u9375\u641c", "description": "Seacrhes the selected text on pedia", "version": "1.0", "icons": {"48": "icons/logo_48.png", "96": "icons/logo_96.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}}

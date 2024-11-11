@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "F5DFJ", "version": "1.0.0", "description": "F5 Download From Japan", "icons": {"128": "img/F5_Download_From_Japan.png"}, "content_scripts": [{"matches": ["https://downloads.f5.com/esd/e*"], "js": ["js/F5_Download_From_Japan.js"], "run_at": "document_end"}]}

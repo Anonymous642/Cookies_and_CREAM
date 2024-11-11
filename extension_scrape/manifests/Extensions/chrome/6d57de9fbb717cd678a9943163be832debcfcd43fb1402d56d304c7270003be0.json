@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "SIA Plus", "description": "Esta extens\u00e3o acrescenta novas funcionalidades ao SIA do professor", "version": "1.0", "browser_action": {"default_icon": "siaplus.png", "default_popup": "siaplus.html"}, "permissions": ["activeTab"]}

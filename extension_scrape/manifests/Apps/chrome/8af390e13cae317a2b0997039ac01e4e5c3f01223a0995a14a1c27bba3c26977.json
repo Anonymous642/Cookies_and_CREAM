@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Yahshua POS System", "description": "POS system", "version": "0.0.13", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "minilogo.png", "128": "mainlogo_black.png"}, "permissions": ["storage", "unlimitedStorage"]}

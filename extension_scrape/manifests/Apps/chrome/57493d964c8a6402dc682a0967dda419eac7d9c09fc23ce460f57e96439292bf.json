@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "BeginnerTech", "short_name": "BeginnerTech", "description": "The official BeginnerTech app", "version": "0.5", "minimum_chrome_version": "25", "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "app": {"background": {"scripts": ["background.js"]}}}

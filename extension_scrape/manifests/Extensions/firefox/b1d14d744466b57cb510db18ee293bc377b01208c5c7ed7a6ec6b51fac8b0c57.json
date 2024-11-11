@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UTM Finder", "version": "1.1", "description": "Marks all anchor tags with UTM params with 5px sloid yellow border!", "icons": {"48": "icons/tag-48.png", "96": "icons/tag-96.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["utmFinder.js"]}]}

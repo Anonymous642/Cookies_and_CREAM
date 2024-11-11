@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Acil Taksi - En \u0130yi 10 Taksi aciltaksi.net", "version": "1.3", "manifest_version": 2, "description": "Acil Taksi Hizmetleri En yak\u0131n taksi 7 y\u0131ld\u0131r T\u00fcrkiye'de", "browser_action": {"default_icon": "taxiicon.png", "default_popup": "aciltaksi.html"}}

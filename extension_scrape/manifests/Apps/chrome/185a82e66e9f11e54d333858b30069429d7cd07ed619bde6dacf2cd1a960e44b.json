@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GPS Tracking Application", "description": "GPS Tracking for Fleet Management", "version": "8", "icons": {"128": "128.png"}, "app": {"urls": ["http://www.highpointgps.com/"], "launch": {"web_url": "http://www.highpointgps.com/"}}, "manifest_version": 2}

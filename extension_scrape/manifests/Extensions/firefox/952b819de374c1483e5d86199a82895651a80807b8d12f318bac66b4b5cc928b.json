@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "wbne's homepage", "version": "1.33", "description": "my own extension and homepage", "permissions": ["storage"], "icons": {"32": "icons/logo-32.png", "48": "icons/logo-48.png", "96": "icons/logo-96.png"}, "chrome_url_overrides": {"newtab": "index.html"}}

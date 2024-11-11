@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Group download files by hostname", "version": "0.1", "background": {"service_worker": "bg.js"}, "permissions": ["downloads"], "manifest_version": 3}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Note Fast", "description": "Note Fast is an easy tool to take fast notes online or offline", "version": "1.0", "browser_action": {"default_icon": "img/note.png", "default_popup": "popup.html"}, "icons": {"128": "img/note.png"}}

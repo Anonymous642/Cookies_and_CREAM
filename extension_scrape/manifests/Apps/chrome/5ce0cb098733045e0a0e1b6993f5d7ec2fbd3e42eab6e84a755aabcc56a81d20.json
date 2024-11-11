@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Nimbo X Expediente Clinico", "description": "Nimbo X - Expediente Clinico Electronico", "version": "1.1", "icons": {"128": "128.png"}, "app": {"urls": ["http://app.nimbo-x.com/"], "launch": {"web_url": "http://app.nimbo-x.com/"}}, "permissions": ["unlimitedStorage", "notifications"]}

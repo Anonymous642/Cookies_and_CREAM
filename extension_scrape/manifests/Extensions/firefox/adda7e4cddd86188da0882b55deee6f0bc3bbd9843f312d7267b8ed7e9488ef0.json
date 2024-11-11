@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "EPMAKOB LIFE REACTION", "version": "1.0", "description": "Adds a random Epmakob face to every YouTube preview.", "icons": {"48": "icons/epmak-48.jpg"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["epmakob_live_reaction.js"]}], "browser_specific_settings": {"gecko": {"id": "{cab9a125-3ea2-47d1-9fa9-a5745359bf08}"}}}

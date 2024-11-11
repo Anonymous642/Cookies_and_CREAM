@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Driver Centre", "description": "The centre free download driver directory", "version": "1.0", "icons": {"128": "128.png"}, "app": {"urls": ["http://www.driverscentre.com/"], "launch": {"web_url": "http://www.driverscentre.com/"}}, "permissions": ["unlimitedStorage", "notifications"]}

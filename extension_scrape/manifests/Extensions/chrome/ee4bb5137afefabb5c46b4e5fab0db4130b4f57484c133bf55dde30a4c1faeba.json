@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "HoppyHour", "version": "0.1.1", "description": "HoppyHour extension", "icons": {"16": "/images/favicon16.png", "48": "/images/favicon48.png", "128": "/images/favicon128.png"}, "action": {"default_popup": "popup.html", "default_title": "Get Breweries because it's HoppyHour"}, "manifest_version": 3}

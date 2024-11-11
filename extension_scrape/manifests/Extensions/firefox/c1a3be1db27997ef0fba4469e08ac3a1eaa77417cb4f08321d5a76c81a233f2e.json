@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TST Promote Recent Tab", "version": "0.1.0", "description": "Recent visited tabs/group will be promoted to top", "permissions": ["tabs", "storage"], "browser_specific_settings": {"gecko": {"id": "{6be924ee-c176-411b-a64b-81077e211368}"}}, "background": {"scripts": ["background.js"]}}

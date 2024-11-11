@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Inside Tasks | Task Management Tool", "version": "1.1", "description": "A New Tab page with prioritized TODO lists.", "chrome_url_overrides": {"newtab": "new_tab.html"}, "permissions": ["topSites", "storage", "*://insidetasks.com/*"]}

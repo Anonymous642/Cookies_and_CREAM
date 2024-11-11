@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "IndTA exporter", "version": "0.1", "description": "Exports data from IndTA", "content_scripts": [{"js": ["content.js"], "matches": ["https://test.indta.se/admin/evenemang/*/edit"]}], "web_accessible_resources": ["d3-dsv.v1.min.js", "d3-array.v2.min.js", "main.js"], "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Kolobok Checker", "version": "0.1", "description": "Speed and Stealth check from Koloboks. Creator: Guerrat", "content_scripts": [{"matches": ["https://wax.simplemarket.io/*"], "js": ["content.js"]}], "manifest_version": 2}

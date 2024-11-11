@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Twitch Bonus", "description": "Auto redeems the twitch bonus", "version": "1.0.4", "icons": {"16": "16.png", "48": "48.png", "128": "128.png"}, "content_scripts": [{"matches": ["https://www.twitch.tv/*"], "js": ["Content.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Easy Redirect", "description": "Quick launch social media sites", "version": "1.0.1", "icons": {"128": "logo_128.png"}, "browser_action": {"default_icon": "logo_19.png", "default_popup": "popup.html"}, "permission": ["activeTab"]}

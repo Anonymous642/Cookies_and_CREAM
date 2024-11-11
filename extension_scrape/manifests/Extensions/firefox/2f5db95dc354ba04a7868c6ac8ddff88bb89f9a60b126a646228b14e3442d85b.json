@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Unscroll Instagram", "description": "Remove scrolling on the homepage of Instagram", "version": "1.1", "icons": {"48": "icons/scroll.png"}, "content_scripts": [{"js": ["unscroll.js"], "matches": ["https://www.instagram.com/*"]}], "browser_specific_settings": {"gecko": {"id": "asyncrom@pm.me"}}}

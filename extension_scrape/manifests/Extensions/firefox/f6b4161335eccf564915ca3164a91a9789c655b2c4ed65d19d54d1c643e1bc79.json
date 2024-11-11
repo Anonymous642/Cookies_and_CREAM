@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "gest_mdp", "version": "1.0", "description": "Extension pour https://github.com/Th3o-D/gest_mdp", "permissions": ["activeTab", "storage", "<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{6439c70c-f58f-40db-9042-8d3dad1acb1c}"}}}

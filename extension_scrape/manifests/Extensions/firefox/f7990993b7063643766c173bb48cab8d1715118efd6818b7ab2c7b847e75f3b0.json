@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Arum Lily Price Calculator", "version": "1.0", "description": "Addon for calculating the price of Arum Lily products", "icons": {"48": "icon.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{00a5b44c-9608-4796-af98-490223d58445}"}}}

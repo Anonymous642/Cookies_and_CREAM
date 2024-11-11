@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LOR panel", "version": "0.5", "description": "Simple navigation pane for linux.org.ru", "browser_specific_settings": {"gecko": {"id": "lorpa@tmnhy.su", "strict_min_version": "48.0"}}, "content_scripts": [{"matches": ["*://*.linux.org.ru/*"], "css": ["styles.css"], "js": ["panel.js"]}], "permissions": ["storage"]}

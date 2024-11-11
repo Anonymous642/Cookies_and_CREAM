@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YtP", "version": "0.3", "description": "changes yt to piped", "icons": {"48": "icons/border-48.png"}, "background": {"scripts": ["YtP.js"]}, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>", "tabs"], "browser_specific_settings": {"gecko": {"id": "{a912b414-1bec-400e-916b-2a6fd4f492a2}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Emoji List", "version": "1.0", "description": "Displays a list of emojis with their corresponding HTML codes", "manifest_version": 3, "action": {"default_popup": "popup.html"}, "permissions": ["activeTab"], "background": {"service_worker": "background.js"}}

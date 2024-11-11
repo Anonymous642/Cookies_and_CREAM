@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "boostR", "description": "the github release creation", "version": "0.4", "author": "Akim Delli", "browser_action": {"default_icon": "logo.png", "default_popup": "popup.html", "default_title": "boostR"}, "permissions": ["https://github.com/*", "tabs"]}

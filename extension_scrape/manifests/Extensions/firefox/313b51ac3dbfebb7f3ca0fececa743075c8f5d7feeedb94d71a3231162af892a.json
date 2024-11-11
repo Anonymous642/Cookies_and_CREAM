@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Impressum Finder", "version": "1.0", "description": "Opens the Imprint or Impressum link on the current site", "icons": {"48": "icons/border-48.png"}, "browser_action": {"default_icon": "icons/copyright.jpeg"}, "permissions": ["tabs", "activeTab"], "background": {"scripts": ["openImprint.js"]}}

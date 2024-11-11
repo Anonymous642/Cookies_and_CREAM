@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "YouTube Block Music", "version": "0.1", "description": "Block music videos from YouTube. No more distracting music.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*", "*://*.youtu.be/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "ytblockmusic@hanz.internet"}}}

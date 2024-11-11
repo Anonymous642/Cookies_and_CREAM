@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "hcm", "version": "1.0.1", "content_scripts": [{"matches": ["*://*.oraclecloud.com/*"], "js": ["hcm.js"]}]}

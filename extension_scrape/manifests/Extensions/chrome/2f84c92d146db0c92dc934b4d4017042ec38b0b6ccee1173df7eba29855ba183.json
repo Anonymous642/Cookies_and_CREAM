@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "block_haters_instagram", "version": "0.1", "content_scripts": [{"matches": ["https://www.instagram.com/p/*"], "css": ["style.css"], "js": ["script.js"]}], "permissions": ["storage"], "options_ui": {"page": "options.html", "open_in_tab": true}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sudoku", "version": "1.0", "description": "Play sudoku in the browser", "icons": {"452": "icons/sudoku.png"}, "browser_action": {"default_icon": "icons/sudoku.png", "default_title": "Sudoku", "default_popup": "public/index.html"}}

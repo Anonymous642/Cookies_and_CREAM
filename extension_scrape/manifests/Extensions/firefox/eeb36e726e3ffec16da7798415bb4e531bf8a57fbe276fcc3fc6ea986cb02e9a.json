@@ -1,0 +1,1 @@
+{"name": "uwu", "version": "0.4", "manifest_version": 2, "description": "uwu-owo coworrecteuwur", "icons": {"128": "128.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["js/correct.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Crosshairify", "version": "1.0", "description": "Makes a crosshair the deafult cursor. To disable just click 'disable'", "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["crosshair.js"]}]}

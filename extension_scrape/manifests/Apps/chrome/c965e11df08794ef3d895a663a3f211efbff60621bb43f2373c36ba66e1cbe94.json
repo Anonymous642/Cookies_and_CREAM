@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Roblox News", "version": "0.5", "manifest_version": 2, "description": "Roblox news, guides and tips", "app": {"urls": ["http://www.baconminer.com/"], "launch": {"web_url": "http://arbirator-robloxnews.blogspot.com/"}}, "icons": {"128": "logo.png"}}

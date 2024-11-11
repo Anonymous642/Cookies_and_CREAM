@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "action": {"default_icon": "icon.png", "default_popup": "app/index.html", "default_title": "Speed Test"}, "description": "Speed Test By OpenSpeedTest\u2122\ufe0f", "icons": {"128": "icon.png"}, "manifest_version": 3, "name": "Speed Test", "version": "2.8.1"}

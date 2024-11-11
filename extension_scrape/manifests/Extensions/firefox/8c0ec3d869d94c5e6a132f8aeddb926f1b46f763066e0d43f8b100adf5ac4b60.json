@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OQwant", "version": "1.0", "description": "Remet l'ancien design de Qwant", "icons": {"48": "icons/logo.png"}, "content_scripts": [{"matches": ["*://*.qwant.com/*"], "js": ["OQwant.js"]}], "browser_specific_settings": {"gecko": {"id": "{43eaf3e2-6ac1-491c-b306-79a982b89a6f}"}}}

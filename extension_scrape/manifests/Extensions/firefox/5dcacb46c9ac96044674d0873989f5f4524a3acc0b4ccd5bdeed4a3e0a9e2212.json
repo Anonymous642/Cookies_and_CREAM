@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "QuickSearch", "version": "0.1", "author": "Ferdose Ashraf", "description": "The purpose of this add-on is simple. It provides the ability to perform a search on different search engines based on the highlighted text", "icons": {"256": "icons/logo.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}}

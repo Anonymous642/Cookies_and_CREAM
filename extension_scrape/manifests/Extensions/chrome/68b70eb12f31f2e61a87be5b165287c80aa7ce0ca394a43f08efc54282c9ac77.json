@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Landing", "version": "0.7", "manifest_version": 2, "background": {"page": "app/bg.html"}, "options_ui": {"page": "app/options.html", "chrome_style": true}, "chrome_url_overrides": {"newtab": "app/index.html"}, "permissions": ["bookmarks", "storage"]}

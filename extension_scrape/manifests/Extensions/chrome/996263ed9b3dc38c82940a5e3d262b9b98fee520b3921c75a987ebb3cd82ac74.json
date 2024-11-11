@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Multi Duty Tab New Tab", "version": "1.0", "icons": {"128": "images/fav.png"}, "chrome_url_overrides": {"newtab": "newTab.html"}, "description": "Multi Duty Tab New Tab is the free extension for getting weather forecast online.", "manifest_version": 3}

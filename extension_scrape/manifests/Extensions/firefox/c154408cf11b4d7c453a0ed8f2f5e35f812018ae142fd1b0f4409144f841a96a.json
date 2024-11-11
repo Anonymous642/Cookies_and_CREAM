@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Chegg Skipper", "version": "0.1.0", "content_scripts": [{"matches": ["https://expert.chegg.com/*"], "js": ["./script.js"]}], "icons": {"16": "./icons/icon16.png", "48": "./icons/icon48.png", "128": "./icons/icon128.png"}, "browser_specific_settings": {"gecko": {"id": "{1b83e876-5d24-46b3-9e7b-ab345882a238}"}}}

@@ -1,0 +1,1 @@
+{"name": "check pnr status", "description": "pnr status - check IRCTC PNR Status of Indian Railways.", "app": {"urls": ["http://www.pnr-status.info/"], "launch": {"web_url": "http://www.pnr-status.info/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "1.0", "icons": {"128": "icon.png"}}

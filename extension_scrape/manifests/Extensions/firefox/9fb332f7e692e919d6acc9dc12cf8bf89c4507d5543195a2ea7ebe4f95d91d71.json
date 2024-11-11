@@ -1,0 +1,1 @@
+{"browser_action": {"default_icon": "img/logo.png", "default_popup": "html/popup.html", "default_title": "apksclub.com"}, "description": "apksclub.com will give you free apks of android apps for easy installation on your android operating system.", "icons": {"16": "img/icon.png", "128": "img/logo.png"}, "manifest_version": 2, "name": "apksclub.com", "version": "1.1"}

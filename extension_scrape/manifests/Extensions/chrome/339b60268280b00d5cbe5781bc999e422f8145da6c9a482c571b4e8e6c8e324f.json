@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Ramat Gan Covid19", "version": "0.0.0.6", "description": "Ramat gan Covid 19 extension", "manifest_version": 3, "content_scripts": [{"matches": ["https://www.ramat-gan.muni.il/*"], "js": ["get-data.js"]}]}

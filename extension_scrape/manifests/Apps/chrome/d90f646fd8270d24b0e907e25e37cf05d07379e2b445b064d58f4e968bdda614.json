@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "The Age of Startups", "description": "Chrome Game where Small Business win with Content Marketing", "version": "1.0.4", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "applo-16.png", "128": "applo-128.png"}}

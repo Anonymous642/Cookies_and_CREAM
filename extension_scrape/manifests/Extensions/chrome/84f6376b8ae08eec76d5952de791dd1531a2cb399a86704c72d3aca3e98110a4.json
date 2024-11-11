@@ -1,0 +1,1 @@
+{"content_scripts": [{"js": ["jquery-1.8.0.min.js", "background.js"], "matches": ["http://*/*", "https://*/*"]}], "description": "Replaces all images on all pages to Mr. Wheeles.", "manifest_version": 2, "name": "jWheeles", "update_url": "https://clients2.google.com/service/update2/crx", "version": "1.2.2"}

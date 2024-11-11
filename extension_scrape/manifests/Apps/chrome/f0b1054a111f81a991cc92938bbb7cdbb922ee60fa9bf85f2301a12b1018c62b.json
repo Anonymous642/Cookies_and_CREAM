@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Ram Info", "description": "", "version": "1.0.3", "permissions": ["system.memory"], "minimum_chrome_version": "32", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "memory.png", "128": "memory.png"}}

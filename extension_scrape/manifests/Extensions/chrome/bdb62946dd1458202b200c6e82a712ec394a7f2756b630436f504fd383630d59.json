@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Fiber Calculator", "version": "1.0", "description": "Calculate daily fiber intake", "icons": {"128": "icon.png"}, "action": {"default_popup": "popup.html", "default_icon": {"128": "icon.png"}}}

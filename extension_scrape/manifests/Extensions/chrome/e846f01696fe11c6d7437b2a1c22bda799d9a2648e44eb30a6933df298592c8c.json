@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "cryptowatch-extended-hotkeys", "version": "1.0", "content_scripts": [{"matches": ["https://trade.kraken.com/*", "https://cryptowat.ch/*"], "js": ["content.js"]}]}

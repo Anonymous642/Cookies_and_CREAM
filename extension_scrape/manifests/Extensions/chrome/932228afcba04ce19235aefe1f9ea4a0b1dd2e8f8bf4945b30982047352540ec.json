@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Openit", "version": "1.0.0", "manifest_version": 2, "description": "\u8a2d\u5b9a\u3057\u305f\u6642\u9593\u306bURL\u3092\u958b\u304d\u307e\u3059\u3002", "browser_action": {"default_popup": "Openit.html"}, "background": {"scripts": ["background.js"], "persistent": true}}

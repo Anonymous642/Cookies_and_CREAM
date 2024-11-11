@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OldReddit", "version": "1.0.1", "description": "Automatically switches reddit pages to old reddit pages.", "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "content_scripts": [{"matches": ["*://www.reddit.com/r/*", "*://www.reddit.com/user/*", "*://reddit.com/"], "js": ["oldreddit.js"]}]}

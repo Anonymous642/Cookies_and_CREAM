@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NoJS on Onion", "version": "1.0.1", "description": "Disables JavaScript on .onion domains", "permissions": ["webRequest", "webRequestBlocking", "*://*.onion/*", "storage"], "background": {"scripts": ["background.js"]}, "options_ui": {"page": "options.html"}, "browser_specific_settings": {"gecko": {"id": "{4354d979-4893-40ed-adb6-8ea1a27cca19}"}}}

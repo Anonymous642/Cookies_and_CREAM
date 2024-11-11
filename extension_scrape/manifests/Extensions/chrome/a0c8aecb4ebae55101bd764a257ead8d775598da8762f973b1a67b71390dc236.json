@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Din.Ben.Don \u8a55\u50f9", "version": "1.0", "description": "\u7d00\u9304\u5c0d\u9ede\u904e\u7684\u9910\u9ede\u7684\u8a55\u50f9\uff0c\u4ee5\u4f9b\u672a\u4f86\u9ede\u9910\u6642\u53c3\u8003\u3002", "content_scripts": [{"matches": ["https://*.dinbendon.net/*"], "js": ["comment.js"]}], "manifest_version": 2}

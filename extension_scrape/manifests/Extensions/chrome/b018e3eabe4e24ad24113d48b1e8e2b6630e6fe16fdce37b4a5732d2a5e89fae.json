@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Block Cookies", "version": "1.5", "description": "Chrome extension that block cookies popup", "icons": {"512": "images/icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["styles.css"]}]}

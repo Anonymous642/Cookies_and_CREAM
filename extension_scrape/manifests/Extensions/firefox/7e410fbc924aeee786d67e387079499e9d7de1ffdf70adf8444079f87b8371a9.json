@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Performance Tool", "version": "0.1", "description": "An improved about:performance panel (pre-release do not use)", "icons": {"48": "icons/tpt-48.png"}, "permissions": ["tabs"]}

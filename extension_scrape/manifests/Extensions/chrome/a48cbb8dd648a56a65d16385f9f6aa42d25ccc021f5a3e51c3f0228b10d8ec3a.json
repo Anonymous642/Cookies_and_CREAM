@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Seeshort", "version": "0.1", "description": "A quick way to view Seesaw shortcuts!", "browser_action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["*://app.seesaw.me/*"], "js": ["content.js"]}], "permissions": ["tabs", "*://app.seesaw.me/*"], "manifest_version": 2}

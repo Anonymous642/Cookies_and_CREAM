@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Snoop", "version": "0.0.2", "description": "Peek into redditor's post history", "content_scripts": [{"matches": ["*://*.reddit.com/r/*/comments/*"], "js": ["snoop.js"]}], "icons": {"48": "icons/snoop-48.png", "96": "icons/snoop-96.png"}}

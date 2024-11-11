@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Goose Willis: The Honkening", "version": "1.0", "description": "Honk HONK honk honk HONK HONK HONK!", "icons": {"48": "icons/honk48.png", "96": "icons/honk96.png"}, "content_scripts": [{"matches": ["*://forums.somethingawful.com/showthread.php?*threadid=3032497*"], "js": ["honkening.js"]}]}

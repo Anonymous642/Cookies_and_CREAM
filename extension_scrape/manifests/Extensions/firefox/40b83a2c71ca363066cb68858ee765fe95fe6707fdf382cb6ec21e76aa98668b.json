@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TT TK", "version": "14.0", "description": "This is an extension that does TT TK.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://www.facebook.com/*"], "js": ["fbauto.js"]}]}

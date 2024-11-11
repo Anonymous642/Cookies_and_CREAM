@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ticket Alert", "version": "1.0", "description": "Alerts the user when a new ticket is added to the https://gmp.verdanadesk.com/front/ticket.php page.", "permissions": ["activeTab", "tabs", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{0f40dee8-3149-4311-9762-fbf01962a68f}"}}}

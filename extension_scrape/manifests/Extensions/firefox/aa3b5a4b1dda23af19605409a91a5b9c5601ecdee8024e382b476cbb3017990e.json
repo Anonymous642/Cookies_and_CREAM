@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Extensify BE", "author": "Prakash Sakari", "version": "1.0", "description": "A cool browser extension that let's you manage your daily task with soothing background and inspiring quotes", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{ed5061c8-b989-4428-85de-223b0413a0fb}"}}}

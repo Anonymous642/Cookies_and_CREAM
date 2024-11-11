@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Cityscape", "version": "0.0.2", "manifest_version": 3, "author": "Tensnap Cityscape", "description": "", "icons": {"16": "img/icons/icon_16.png", "48": "img/icons/icon_48.png", "128": "img/icons/icon_128.png"}, "chrome_url_overrides": {"newtab": "tab.html"}}

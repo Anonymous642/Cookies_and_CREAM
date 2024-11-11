@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Le jeu des 1000 histoires", "version": "2", "icons": {"24": "24.png", "128": "128.png"}, "app": {"urls": ["http://1000-histoires.franceinter.fr/"], "launch": {"web_url": "http://1000-histoires.franceinter.fr/"}}, "permissions": [], "manifest_version": 2}

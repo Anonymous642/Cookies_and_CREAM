@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "5eToolsPlugin", "version": "0.7", "description": "Converts the dice rolls from 5eTools bestiary to Tailspire", "icons": {"48": "icons/toolsIcon-48.png"}, "content_scripts": [{"matches": ["*://5e.tools/bestiary*"], "js": ["setURL.js"]}], "browser_specific_settings": {"gecko": {"id": "{bcc82295-deb8-4f8f-9e57-5a4d66fff281}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Plazma Break Beta", "description": "Bring back the classic in an advanced modern twist", "version": "0.4.4", "manifest_version": 2, "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "icon-16.png", "128": "icon-128.png"}, "permissions": ["unlimitedStorage"], "offline_enabled": true}

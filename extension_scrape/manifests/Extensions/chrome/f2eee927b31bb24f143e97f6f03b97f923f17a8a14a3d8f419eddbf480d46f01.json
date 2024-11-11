@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "reddirector", "version": "1.0", "description": "Redirect 'r/' urls straight to subreddits!", "permissions": ["webRequest", "http://r/*", "webRequestBlocking"], "background": {"scripts": ["background.js"], "persistent": true}, "icons": {"128": "icon.png"}, "manifest_version": 2}

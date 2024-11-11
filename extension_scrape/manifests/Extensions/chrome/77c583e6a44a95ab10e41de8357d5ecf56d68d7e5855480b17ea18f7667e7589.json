@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Apheleia", "description": "Apheleia - A Modern New Tab Page by @ikeyurp", "version": "1.0", "author": {"name": "Keyur Patel", "email": "support@ikeyurp.com"}, "icons": {"500": "icon.png"}, "chrome_url_overrides": {"newtab": "index.html"}}

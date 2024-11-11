@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fill", "version": "2.2.1", "description": "Removing auto button", "icons": {"48": "icons/icon.png"}, "permissions": ["activeTab", "storage"], "browser_action": {"default_icon": "icons/icon.png", "default_title": "Fill Form", "default_popup": "popup/index.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Focus Mode", "version": "0.1", "description": "Hide youtube recomandation, comments, next videos etc.", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["focus-mode.js"]}], "browser_specific_settings": {"gecko": {"id": "{f28efdc9-c364-4234-b460-a7e70b8b5e83}"}}}

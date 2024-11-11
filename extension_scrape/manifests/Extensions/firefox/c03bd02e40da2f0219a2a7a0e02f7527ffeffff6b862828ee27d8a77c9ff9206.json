@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove Youtube Shorts", "version": "1.1.2", "description": "Removes Youtube Shorts from your feed", "icons": {"48": "icons/FINAL-48.png", "96": "icons/FINAL-96.png"}, "content_scripts": [{"run_at": "document_end", "matches": ["*://*.youtube.com/*"], "js": ["NoShorts.js"]}], "browser_specific_settings": {"gecko": {"id": "NoShorts@NoShorts.com"}}}

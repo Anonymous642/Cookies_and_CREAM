@@ -1,0 +1,1 @@
+{"description": "minimalist dark mode with orange links", "manifest_version": 2, "name": "mdm orange", "version": "1.0.0.2", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["mdm_orange.js"]}]}

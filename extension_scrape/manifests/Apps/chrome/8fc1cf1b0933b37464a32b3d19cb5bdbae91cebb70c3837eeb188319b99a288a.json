@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "QuickMage", "description": "QuickMage service for Magento merchants.", "version": "0.1", "manifest_version": 2, "app": {"urls": ["*://www.quickmage.com/"], "launch": {"web_url": "http://www.quickmage.com/", "container": "tab"}}, "icons": {"128": "icon_128.png"}}

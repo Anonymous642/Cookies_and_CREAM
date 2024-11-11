@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Strava Kudo All", "version": "2.7", "description": "Kudo All Strava activities on page.", "default_locale": "en", "icons": {"48": "icons/icon-48x48.png"}, "content_scripts": [{"matches": ["*://*.strava.com/*"], "js": ["kudoall.js"]}], "browser_specific_settings": {"gecko": {"id": "{592dd48c-03e4-40e2-b1be-ef6960342308}"}}}

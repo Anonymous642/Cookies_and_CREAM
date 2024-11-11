@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Silver Essence Extension for Chrome", "short_name": "Silver Essence", "description": "Silver Essence Chrome Extension", "version": "3.0", "icons": {"48": "Silver48.png", "128": "Silver128.png"}, "browser_action": {"default_icon": "Silver48.png", "default_popup": "essence.html"}}

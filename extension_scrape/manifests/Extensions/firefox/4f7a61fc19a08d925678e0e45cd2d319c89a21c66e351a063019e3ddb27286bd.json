@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Distraction Blocker", "description": "Blocks user selected websites as an addition to Distraction Blocker program", "version": "1.0.0", "content_scripts": [{"matches": ["<all_urls>"], "js": ["code.js"]}], "browser_specific_settings": {"gecko": {"id": "{7b6d0334-31b1-472b-9446-855afe20656b}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Drone Quotes", "version": "1.0", "description": "Displays quotes about drones.", "icons": {"48": "images/logo.png"}, "browser_action": {"default_icon": "images/logo.png", "default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{17b013a7-fd33-4763-bf05-f77385b31d32}"}}}

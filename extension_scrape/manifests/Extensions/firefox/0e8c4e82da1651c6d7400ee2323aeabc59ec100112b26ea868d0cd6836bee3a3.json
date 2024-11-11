@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No FB at Work Plugin", "description": "This extension will remove like, share, and comment", "version": "1.0", "browser_action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["*://www.facebook.com/*"], "js": ["index.js"]}], "permissions": ["activeTab"], "applications": {"gecko": {"id": "no_fb@adin234.com"}}}

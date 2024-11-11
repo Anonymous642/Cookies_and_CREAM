@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "iConnect Interface Fixes", "version": "0.1.0", "description": "Make iConnect interface more usable for ThedaCare users.", "content_scripts": [{"js": ["content.js"], "matches": ["https://pureconnect.thedacare.org/*"]}]}

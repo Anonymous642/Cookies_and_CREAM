@@ -1,0 +1,1 @@
+{"description": "Fast access to VK.com ", "manifest_version": 2, "name": "VK.com Toolbar", "version": "1.0", "icons": {"48": "icons/vk-48.png"}, "applications": {"gecko": {"id": "vk@button"}}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": {"16": "icons/vk-16.png", "32": "icons/vk-32.png"}}}

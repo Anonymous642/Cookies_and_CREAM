@@ -1,0 +1,1 @@
+{"description": "Make YouTube videos play at highest quality available", "manifest_version": 2, "name": "yt_max_quality", "version": "1.0", "homepage_url": "https://www.zachariahcarmichael.com/", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/watch*"], "js": ["yt_max_quality.js"]}]}

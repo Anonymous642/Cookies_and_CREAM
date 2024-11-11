@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Print BB Blog", "version": "1", "description": "Print BB Blog", "icons": {"128": "icon128.png"}, "browser_action": {"default_title": "Print BB Blog", "default_popup": "popup.html"}, "content_scripts": [{"css": ["styles.css"], "matches": ["*://*.ac.uk/webapps/blogs-journals*"]}]}

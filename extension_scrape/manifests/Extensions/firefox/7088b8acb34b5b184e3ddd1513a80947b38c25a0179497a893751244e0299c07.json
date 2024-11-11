@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Anti AD Enforcement YT", "version": "1.0", "description": "Remove pop ups saying to disable adblox", "icons": {"64": "logo.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{767e4df6-1f1e-435e-8ce5-2648168ba24b}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Outline Images with Empty Alt Attributes", "version": "1.0", "description": "Outline images on the current webpage that have empty alt attributes.", "permissions": ["tabs"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "outline_images_extension@example.com"}}}

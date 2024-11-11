@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Convert REC button", "version": "1.0.0", "description": "\u90aa\u9b54\u306aREC\u30dc\u30bf\u30f3\u3092\u66b4\u8d70\u3055\u305b\u306a\u3044\u3088\u3046\u306b\u3057\u307e\u3059", "content_scripts": [{"matches": ["http://game.granbluefantasy.jp/*"], "js": ["background.js"]}]}

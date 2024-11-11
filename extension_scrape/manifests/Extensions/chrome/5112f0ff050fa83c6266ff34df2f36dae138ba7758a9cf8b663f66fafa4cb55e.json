@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "arxiver", "description": "Download arxiv with its name", "version": "1.1", "manifest_version": 2, "browser_action": {"default_popup": "popup.html"}, "background": {"scripts": ["background.js"]}, "permissions": ["tabs", "storage", "downloads", "http://arxiv.org/*/", "https://arxiv.org/*"]}

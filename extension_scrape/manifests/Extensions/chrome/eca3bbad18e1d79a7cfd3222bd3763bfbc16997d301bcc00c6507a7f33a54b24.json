@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Never Surrender", "version": "2020.12.29", "description": "Hide the draw and resign buttons on Chess.com DAILY games.", "icons": {"128": "icon128.png"}, "content_scripts": [{"matches": ["*://*.chess.com/game/daily/*"], "css": ["styles.css"]}]}

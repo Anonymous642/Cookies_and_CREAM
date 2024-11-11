@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.1", "name": "Lead Save", "description": "Allows users to save current open tab, and any additional information", "action": {"default_popup": "index.html", "default_icon": "money.png"}, "permissions": ["tabs"]}

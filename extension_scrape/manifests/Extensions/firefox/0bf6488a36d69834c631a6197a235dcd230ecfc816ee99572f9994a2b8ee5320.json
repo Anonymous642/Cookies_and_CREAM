@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Poggers", "version": "2.0", "description": "Changes every image to a picture of the pogchamp.", "icons": {"48": "icons/pogchamp48.png", "96": "icons/pogchamp96.png"}, "content_scripts": [{"matches": ["https://*/*"], "js": ["poggers.js"]}]}

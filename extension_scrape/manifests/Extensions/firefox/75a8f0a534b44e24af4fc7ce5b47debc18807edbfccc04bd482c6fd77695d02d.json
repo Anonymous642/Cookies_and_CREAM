@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bor et Bar", "version": "1.0", "permissions": ["activeTab", "contextMenus"], "background": {"scripts": ["borToBarEngine.js"]}, "browser_action": {"default_icon": "img/boretbar-38.png", "default_title": "Bookmark it!", "default_popup": "menu.html"}}

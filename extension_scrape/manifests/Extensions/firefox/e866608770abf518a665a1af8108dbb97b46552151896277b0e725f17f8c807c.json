@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Me Extension", "version": "1.0", "default_locale": "en", "options_ui": {"page": "options.html", "browser_style": true}, "permissions": ["storage"], "content_scripts": [{"run_at": "document_idle", "matches": ["<all_urls>"], "js": ["name-eater.js"]}], "browser_specific_settings": {"gecko": {"id": "{6a869946-8803-4e78-a781-5892a990c152}"}}}

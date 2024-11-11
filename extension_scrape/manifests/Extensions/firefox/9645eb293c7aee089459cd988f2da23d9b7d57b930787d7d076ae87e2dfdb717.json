@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reclaim Vertical Space", "version": "1.0", "description": "No more sticky menus, footers, and cookie banners.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["vertical.js"]}]}

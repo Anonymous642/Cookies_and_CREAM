@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sphinx", "version": "1.0", "description": "Addon for adding links to the Sphinx link directory.", "icons": {"48": "icons/border-48.png"}, "browser_action": {"default_popup": "popup.html", "browser_style": true}, "permissions": ["webRequest", "activeTab"], "browser_specific_settings": {"gecko": {"id": "{f6e134fd-d314-4044-8468-f59351f1fc1c}"}}}

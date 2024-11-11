@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove Crunchyroll Dub", "version": "1.0", "description": "Removes the dubbed episodes in the simulcastscalendar", "content_scripts": [{"matches": ["*://*.crunchyroll.com/*"], "js": ["hide_dub.js"]}], "browser_specific_settings": {"gecko": {"id": "{079e620a-3bdd-4221-872a-2f9efeb4105b}"}}}

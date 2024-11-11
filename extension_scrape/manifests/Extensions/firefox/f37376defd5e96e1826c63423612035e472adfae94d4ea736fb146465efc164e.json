@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LD Shortlinkener", "description": "Adds a shortlink button on all Ludum Dare posts and games", "version": "1.0", "applications": {"gecko": {"id": "ldshortlinkener@kroltan.github.io"}}, "content_scripts": [{"matches": ["*://ldjam.com/*"], "js": ["observe_shortlinks.js"], "css": ["shortlinks.css"]}]}

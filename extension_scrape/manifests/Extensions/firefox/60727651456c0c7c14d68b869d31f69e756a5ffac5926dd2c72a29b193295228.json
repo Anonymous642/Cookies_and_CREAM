@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pobieranie zdjec z ebaya", "version": "1.1", "permissions": ["downloads"], "content_scripts": [{"matches": ["*://*.ebay-kleinanzeigen.de/s-anzeige/*"], "js": ["content.js"], "css": ["style.css"]}], "background": {"scripts": ["background.js"]}}

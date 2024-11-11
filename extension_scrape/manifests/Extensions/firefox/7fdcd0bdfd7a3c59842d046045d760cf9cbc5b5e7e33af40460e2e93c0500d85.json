@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My Comedy Tab", "version": "1.1", "description": "You will enjoy A fresh quote on every new empty tab opened.", "homepage_url": "http://my.comedytab.com", "icons": {"48": "icons/chillout-48.png"}, "permissions": ["tabs"], "background": {"scripts": ["background.js"]}}

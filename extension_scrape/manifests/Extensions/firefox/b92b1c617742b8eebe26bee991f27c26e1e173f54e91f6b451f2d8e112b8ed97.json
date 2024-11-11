@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Storyboard", "version": "2.1.0", "description": "extracts all the storyboard images of YouTube video", "icons": {"48": "icons/logo_48.png", "64": "icons/logo_64.png", "96": "icons/logo_96.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["content-script.js"]}]}

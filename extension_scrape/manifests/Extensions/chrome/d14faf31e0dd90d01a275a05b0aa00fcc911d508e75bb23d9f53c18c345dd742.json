@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "petbya", "version": "1.2.0", "manifest_version": 3, "description": "Press enter key to block youtube ads", "icons": {"128": "icons/128.png"}, "content_scripts": [{"matches": ["https://www.youtube.com/*", "https://music.youtube.com/*"], "js": ["js/content.js"], "all_frames": true}]}

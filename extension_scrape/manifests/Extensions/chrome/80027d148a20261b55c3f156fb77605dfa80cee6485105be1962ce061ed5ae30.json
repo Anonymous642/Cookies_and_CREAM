@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pinned Tabs Sync", "version": "1.0", "description": "Sync and restore pinned tabs on Chrome start.", "background": {"service_worker": "background.js"}, "permissions": ["tabs", "storage"], "action": {"default_popup": "popup.html"}}

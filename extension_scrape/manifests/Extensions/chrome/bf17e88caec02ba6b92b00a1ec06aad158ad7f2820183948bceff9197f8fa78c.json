@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ResizeChromeWidth", "version": "21.1", "description": "Resize Google Chrome window width.", "icons": {"32": "rw32.png"}, "background": {"service_worker": "background.js"}, "action": {"default_icon": "rw32.png", "default_title": "ResizeChromeWidth", "default_popup": "popup.html"}}

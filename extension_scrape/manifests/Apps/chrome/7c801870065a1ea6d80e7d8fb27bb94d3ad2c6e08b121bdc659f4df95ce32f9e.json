@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "onDblClickTester", "description": "Paste some HTML, CSS, JavaScript, jQuery and doubleclick to preview.", "version": "1.0", "icons": {"16": "128.png", "48": "128.png", "128": "128.png"}, "app": {"launch": {"local_path": "onDblClickTester.htm", "container": "panel"}}}

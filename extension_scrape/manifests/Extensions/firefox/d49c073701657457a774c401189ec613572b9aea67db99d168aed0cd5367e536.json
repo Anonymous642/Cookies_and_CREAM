@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Lemmy.ml Karma Calculator", "version": "1.1", "description": "Display Lemmy.ml Karma.", "permissions": ["activeTab", "storage"], "browser_action": {"default_icon": {"128": "thumbnail.png"}}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{83551233-f791-4b48-8b59-67188315feb5}"}}}

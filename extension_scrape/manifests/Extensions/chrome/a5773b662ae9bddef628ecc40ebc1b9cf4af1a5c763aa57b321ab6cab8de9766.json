@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Cravier", "description": "Play and pause Crave using your spacebar.", "version": "1.0.1", "icons": {"32": "icon32.png", "64": "icon64.png", "128": "icon128.png"}, "content_scripts": [{"run_at": "document_end", "matches": ["https://*.crave.ca/*"], "js": ["script.js"]}]}

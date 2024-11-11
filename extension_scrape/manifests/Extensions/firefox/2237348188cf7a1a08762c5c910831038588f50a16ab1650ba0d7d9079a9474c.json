@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Backup-Tabs", "version": "0.0.0.1", "description": "Save and import tab links", "homepage_url": "https://github.com/BeroNizic/backup-tabs", "icons": {"48": "icons/save-48.png"}, "permissions": ["downloads", "tabs"], "browser_action": {"default_icon": "icons/save-32.png", "default_title": "Backup-Tabs", "default_popup": "popup/options.html"}}

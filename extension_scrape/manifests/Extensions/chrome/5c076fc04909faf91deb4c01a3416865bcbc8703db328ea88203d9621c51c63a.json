@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Logg", "version": "1.3", "description": "A simpler todo", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.0", "name": "Telegram ShareLink", "description": "Share link directly to telegram.", "manifest_version": 3, "permissions": ["tabs"], "icons": {"16": "images/share.png", "48": "images/share.png", "128": "images/share.png"}, "action": {"default_icon": "images/share.png", "default_popup": "popup.html"}}

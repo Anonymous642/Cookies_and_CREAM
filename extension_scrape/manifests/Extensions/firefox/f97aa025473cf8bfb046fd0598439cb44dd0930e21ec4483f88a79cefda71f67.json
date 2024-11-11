@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NZ Herald Premium Article Viewer", "version": "1.5.0", "description": "Bypasses NZHerald's premium article paywall", "content_scripts": [{"matches": ["*://*.nzherald.co.nz/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{076c2b92-1243-4e1f-af9d-5f42e4635e74}"}}}

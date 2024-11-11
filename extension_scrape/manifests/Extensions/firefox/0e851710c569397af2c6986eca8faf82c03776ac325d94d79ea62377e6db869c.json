@@ -1,0 +1,1 @@
+{"name": "focus-search", "description": "focuses the search input with alt+q (option+q on mac) on most websites", "manifest_version": 2, "version": "1.8", "homepage_url": "https://github.com/ieviev/firefox-focus-search", "content_scripts": [{"matches": ["*://*/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{68c3bf09-f9b0-4a1b-9080-d7c65be3c3be}"}}}

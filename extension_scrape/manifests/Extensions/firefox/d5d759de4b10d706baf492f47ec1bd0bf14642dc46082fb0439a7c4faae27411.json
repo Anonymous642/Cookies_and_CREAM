@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Make Plump Great! #HumorAsActivism", "description": "Add this to your browser and replace all instances of Trump with Plump & AHCA or American Health Care Act with Plumpcare.", "version": "0.1", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_end"}]}

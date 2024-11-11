@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Info cod fiscal", "description": "Redirect to mfinante's website", "version": "1.0", "browser_action": {"default_icon": "icon.png", "default_popup": "home.html"}, "permissions": ["tabs"]}

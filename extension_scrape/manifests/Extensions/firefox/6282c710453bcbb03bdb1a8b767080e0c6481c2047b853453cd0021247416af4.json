@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Render OpenAPI", "description": "Render OpenAPI declarations in browser using ReDoc", "version": "1.0.1", "content_scripts": [{"matches": ["file://*/*.yml", "file://*/*.yaml", "*://*/*.yml", "*://*/*.yaml", "*://*/*.yml?*", "*://*/*.yaml?*"], "js": ["redocify.js"]}]}

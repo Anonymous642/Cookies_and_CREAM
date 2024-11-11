@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Uppercasify", "version": "1.1", "description": "Uppercase all the text.", "icons": {"96": "icons/uppercasify-96.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["uppercasify.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Limit", "version": "1.0", "description": "Limit the number of tabs", "icons": {"48": "icon.png"}, "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{c910d00f-1e60-42ec-8de7-a6b0b1019149}"}}}

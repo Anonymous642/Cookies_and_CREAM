@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "showModalDialog Shim", "version": "1.0", "description": "showModalDialog shim", "icons": {"48": "ico.png"}, "content_scripts": [{"matches": ["*://*.cloudexchange.fr/*", "*://*.cloudexchange.fr/*"], "js": ["shim.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Jora", "description": "Make Jira software a bit more useable.", "version": "1.0", "author": "John Gresty", "icons": {"48": "48.png", "96": "96.png"}, "content_scripts": [{"matches": ["*://*.atlassian.net/secure/RapidBoard.jspa*"], "js": ["board.js"]}]}

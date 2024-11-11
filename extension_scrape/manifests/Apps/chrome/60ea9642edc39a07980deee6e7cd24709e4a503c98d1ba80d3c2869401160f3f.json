@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Vox-L Classroom", "description": "A game engine for teaching coding", "version": "0.0.0.2", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://vox-l.com/Builds/Latest/index.html"], "launch": {"web_url": "http://vox-l.com/Builds/Latest/index.html"}}}

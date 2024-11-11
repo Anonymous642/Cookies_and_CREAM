@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "youtube-nocookie", "version": "1.0", "description": "Tranform youtube's URL into youtube-nocookie's URL", "icons": {"64": "icons/icon-64.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/icon-64.png", "default_title": "youtube-nocookie", "default_popup": "popup/index.html"}}

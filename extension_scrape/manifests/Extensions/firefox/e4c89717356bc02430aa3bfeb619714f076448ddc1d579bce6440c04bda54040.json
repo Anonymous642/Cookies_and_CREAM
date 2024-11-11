@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YT-AdMute", "version": "1.9.3", "description": "Automatically mute and skip ads on Youtube", "icons": {"48": "ytvm_icon_48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["ytvm.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ToDo List", "version": "1", "icons": {"128": "icon_128.png"}, "permissions": ["storage", "alarms", "notifications", "webview", "<all_urls>", {"fileSystem": ["write"]}], "app": {"background": {"scripts": ["background.js"]}}, "minimum_chrome_version": "28"}

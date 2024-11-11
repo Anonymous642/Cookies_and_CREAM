@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CO-STAR Prompt Template", "version": "1.0", "description": "Using CO-STAR to make your prompt works 10x more effective!", "permissions": ["clipboardWrite", "storage"], "action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}}

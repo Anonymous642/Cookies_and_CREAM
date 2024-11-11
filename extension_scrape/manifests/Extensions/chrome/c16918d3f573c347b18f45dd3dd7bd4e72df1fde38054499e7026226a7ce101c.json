@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Hide it.", "description": "Hold Shift key and click on anything you want to hide it.", "version": "1.1", "icons": {"64": "hideit.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["page.js"]}], "manifest_version": 3}

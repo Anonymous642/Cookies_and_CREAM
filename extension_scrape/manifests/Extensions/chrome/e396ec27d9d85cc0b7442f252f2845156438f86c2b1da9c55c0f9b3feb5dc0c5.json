@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MyTRX - TRON Coin", "description": "MyTRX - TRON Coin", "version": "1.0", "manifest_version": 3, "icons": {"128": "icons/128.png"}, "action": {"default_popup": "index.html"}, "permissions": ["clipboardRead", "clipboardWrite"], "background": {}}

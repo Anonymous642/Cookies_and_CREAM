@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "e621 responsive", "version": "1.7", "description": "Makes e621 responsive.", "icons": {"48": "icon.png"}, "content_scripts": [{"run_at": "document_idle", "matches": ["*://*.e621.net/*"], "js": ["e621responsive.js"]}, {"run_at": "document_start", "matches": ["*://*.e621.net/*"], "css": ["e621responsive.css"]}]}

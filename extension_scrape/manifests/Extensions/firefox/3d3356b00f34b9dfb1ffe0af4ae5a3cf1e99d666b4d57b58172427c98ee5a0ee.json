@@ -1,0 +1,1 @@
+{"description": "Gives the Postmates Order Tracking page a dark mode", "manifest_version": 2, "name": "Postmates Dark Mode", "version": "2.0", "icons": {"16": "images/postmates16.png", "32": "images/postmates32.png", "48": "images/postmates48.png", "128": "images/postmates128.png"}, "content_scripts": [{"matches": ["*://*.postmates/order/*"], "js": ["dark.js"]}]}

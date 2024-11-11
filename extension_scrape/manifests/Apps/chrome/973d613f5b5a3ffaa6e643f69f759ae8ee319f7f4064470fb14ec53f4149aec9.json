@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_appName__", "description": "__MSG_appDesc__", "default_locale": "en", "version": "0.1", "manifest_version": 2, "icons": {"64": "pickdata-icon64.png", "128": "pickdata-icon128.png"}, "app": {"urls": ["https://evo.pickdata.net/"], "launch": {"web_url": "https://evo.pickdata.net/"}}}

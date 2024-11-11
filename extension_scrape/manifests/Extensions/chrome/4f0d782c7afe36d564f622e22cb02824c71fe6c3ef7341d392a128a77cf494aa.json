@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Team Finder", "version": "1.0.1", "icons": {"128": "icon128.png"}, "action": {}, "background": {"service_worker": "background.js"}, "permissions": ["activeTab", "scripting", "storage"], "options_page": "options/options.html"}

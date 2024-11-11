@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ef Five", "version": "1.0", "description": "Keeps reloading your page.", "icons": {"24": "icons/reload-24.png", "48": "icons/reload-48.png"}, "permissions": ["tabs"], "browser_action": {"default_icon": "icons/reload-48.png", "default_title": "F5", "default_popup": "f5.html"}, "background": {"scripts": ["background-f5.js"]}}

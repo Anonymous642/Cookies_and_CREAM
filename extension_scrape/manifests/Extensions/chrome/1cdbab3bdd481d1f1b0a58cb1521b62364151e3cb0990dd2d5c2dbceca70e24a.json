@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Big Roma", "version": "1.0", "description": "Big Roma", "permissions": ["http://www.romapublications.org/", "https://www.romapublications.org/"], "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["big-roma.js"]}]}

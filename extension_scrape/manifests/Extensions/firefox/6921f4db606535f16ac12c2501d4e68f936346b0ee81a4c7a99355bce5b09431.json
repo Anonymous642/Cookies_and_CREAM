@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Suggestions", "version": "1.0", "description": "Removes Youtube Suggestions", "content_scripts": [{"matches": ["*://*.youtube.com/watch*"], "js": ["ytsug.js"]}]}

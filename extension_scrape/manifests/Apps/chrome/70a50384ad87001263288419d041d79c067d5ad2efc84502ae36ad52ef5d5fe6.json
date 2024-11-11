@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Fleet Maintenance Software", "version": "1", "icons": {"128": "128.png"}, "app": {"urls": ["http://www.highpointgps.com/fleet-maintenance.html"], "launch": {"web_url": "http://www.highpointgps.com/fleet-maintenance.html"}}, "manifest_version": 2}

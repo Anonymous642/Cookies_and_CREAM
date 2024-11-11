@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Headsup", "version": "1.0", "description": "Desktop facebook on mobile firefox. Sets request client headers to Mozilla XX on 64 bit Win 10 for any request going to *facebook.com*", "permissions": ["webRequest", "webRequestBlocking", "*://*.facebook.com/*"], "background": {"scripts": ["headsupbackground.js"]}}

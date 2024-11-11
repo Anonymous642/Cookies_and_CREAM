@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "My Cool Extension", "version": "0.1.3", "content_scripts": [{"matches": ["<all_urls>"], "js": ["jquery-3.5.1.min.js", "jquery.lettering.js", "content.js"], "permissions": ["activeTab"]}], "browser_action": {"default_popup": "popup.html"}}

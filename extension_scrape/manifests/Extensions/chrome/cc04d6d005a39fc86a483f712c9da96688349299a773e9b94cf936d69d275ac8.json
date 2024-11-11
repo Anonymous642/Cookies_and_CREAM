@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Best Advertisement Blocker", "version": "1.0", "description": "This extension blocks all advertisements.", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "icons": {"48": "d.png"}, "manifest_version": 3, "background": {"service_worker": "background.js"}}

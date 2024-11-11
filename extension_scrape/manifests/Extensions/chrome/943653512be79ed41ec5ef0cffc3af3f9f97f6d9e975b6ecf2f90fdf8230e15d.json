@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "canvas tabs", "version": "1.0", "chrome_url_overrides": {"newtab": "canvas.html"}, "icons": {"16": "icon.png"}}

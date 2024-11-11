@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "close twitter", "version": "69.420", "description": "close twitter for the love of god", "manifest_version": 3, "author": "Cosmoa.net", "minimum_chrome_version": "96", "content_scripts": [{"matches": ["https://*.twitter.com/*", "https://twitter.com/*"], "js": ["closetwitter.js"]}]}

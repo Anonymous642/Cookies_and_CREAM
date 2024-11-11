@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "BREATHE - minimalist New Tab", "version": "0.0.0.1", "manifest_version": 2, "description": "new tab for meditation", "icons": {"128": "breathe.png"}, "chrome_url_overrides": {"newtab": "breathe.html"}}

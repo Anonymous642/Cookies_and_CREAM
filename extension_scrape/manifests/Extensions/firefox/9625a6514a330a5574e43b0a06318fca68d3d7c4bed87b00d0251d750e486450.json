@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "xToFx", "author": "Kiwi Soup", "version": "1.0.3", "permissions": ["clipboardWrite", "storage"], "content_scripts": [{"matches": ["*://*.x.com/*", "*://*.twitter.com/*"], "js": ["copyReplacer.js"]}], "browser_action": {"default_popup": "optionsPages/quick-options.html"}, "browser_specific_settings": {"gecko": {"id": "xToFx@example.com"}}}

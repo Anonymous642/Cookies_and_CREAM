@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AlwaysGonnaGiveYouUp", "version": "1.1", "description": "Block's Never gonna give you up", "icons": {"49": "icons/icon-49.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/watch?v=dQw4w9WgXcQ"], "js": ["alwaysgonnagiveyouup.js"]}], "applications": {"gecko": {"id": "{dd359116-1d0e-4af1-abcc-d3d488261a0e}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "myBook", "description": "myBook", "version": "0.5.0", "icons": {"64": "icon.png"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icon.png"}, "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"}

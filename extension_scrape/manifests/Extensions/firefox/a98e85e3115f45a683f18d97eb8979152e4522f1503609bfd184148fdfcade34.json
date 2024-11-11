@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Emulador", "version": "1.0", "description": "Beautifies pornhub.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://www.pornhub.com/*"], "js": ["emulador.js"]}]}

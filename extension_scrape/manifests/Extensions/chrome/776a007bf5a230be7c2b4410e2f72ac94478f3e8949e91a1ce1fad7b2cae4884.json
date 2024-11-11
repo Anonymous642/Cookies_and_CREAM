@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Longener", "description": "Convert youtube shorts to regular videos", "version": "0.0.1", "permissions": ["tabs"], "action": {"default_popup": "longener.html", "default_icon": {"16": "Y-s.png", "32": "Y-m.png"}}, "icons": {"16": "Y-s.png", "32": "Y-m.png"}}

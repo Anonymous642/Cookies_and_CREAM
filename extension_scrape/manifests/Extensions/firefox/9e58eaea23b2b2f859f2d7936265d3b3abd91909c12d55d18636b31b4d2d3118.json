@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DuckDuckGo Focus", "version": "1.0", "description": "Cleanup the interface from unwanted content such as ads.", "icons": {"48": "images/duckduckgo-focus.48.png", "512": "images/duckduckgo-focus.png"}, "content_scripts": [{"matches": ["*://*.duckduckgo.com/*"], "js": ["ddg-focus.js"]}]}

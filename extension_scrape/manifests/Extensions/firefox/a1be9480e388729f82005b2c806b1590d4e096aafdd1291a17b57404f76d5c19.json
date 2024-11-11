@@ -1,0 +1,1 @@
+{"name": "Open in Visual Studio Code", "description": "Adds open in Visual Studio Code to GitHub repos", "version": "1.0.2", "manifest_version": 2, "web_accessible_resources": ["static/vscode.svg"], "content_scripts": [{"matches": ["*://github.com/*"], "js": ["contentscript.js"]}], "browser_specific_settings": {"gecko": {"id": "{90404617-2d7e-4bde-9d55-e9eda31ca5b3}"}}}

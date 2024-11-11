@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "image tabank", "version": "1.23.0427", "description": "Chrome extension for NDL imagebank", "icons": {"48": "icon.png"}, "chrome_url_overrides": {"newtab": "imagebank.html"}}

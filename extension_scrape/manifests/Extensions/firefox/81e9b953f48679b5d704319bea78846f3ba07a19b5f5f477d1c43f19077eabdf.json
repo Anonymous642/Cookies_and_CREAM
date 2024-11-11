@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Domination", "version": "1.1", "description": "Remove any DOM element with a point and click.", "icons": {"48": "icons/domination.png"}, "browser_action": {"default_icon": {"48": "icons/domination.png"}}, "background": {"scripts": ["background.js"]}, "content_scripts": [{"matches": ["*://*/*"], "js": ["domination.js"]}], "permissions": ["tabs"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PatAppli", "author": "Neroxis25", "description": "Vous informe quand le stream de Patabugne est activ\u00e9 !", "version": "0.1", "browser_action": {"default_popup": "index.html"}, "icons": {"64": "img/icon_on.png"}, "background": {"scripts": ["background.js"]}}

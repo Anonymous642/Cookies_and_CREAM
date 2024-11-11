@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove Shorts", "version": "1.0", "description": "Removes Shorts completely from YouTube subscription feed", "content_scripts": [{"matches": ["*://*.youtube.com/feed/subscriptions*"], "js": ["app.js"]}], "browser_specific_settings": {"gecko": {"id": "{b6302e78-fb6f-47db-8fea-c860dc6c8994}"}}}

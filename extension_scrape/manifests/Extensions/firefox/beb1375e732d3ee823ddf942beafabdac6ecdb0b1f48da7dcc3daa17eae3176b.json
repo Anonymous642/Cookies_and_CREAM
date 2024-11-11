@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Decomplex", "version": "0.3", "description": "Discard and hide unused tabs for better performance and focus.", "permissions": ["tabHide"], "background": {"scripts": ["decomplex.js"]}}

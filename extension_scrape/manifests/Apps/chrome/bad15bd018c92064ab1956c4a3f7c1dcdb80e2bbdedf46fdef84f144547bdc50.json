@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "VosFactures", "version": "1.2", "icons": {"24": "vosfactures24.png", "128": "vosfactures128.png"}, "app": {"urls": ["http://vosfactures.fr/"], "launch": {"web_url": "http://vosfactures.fr/"}}}

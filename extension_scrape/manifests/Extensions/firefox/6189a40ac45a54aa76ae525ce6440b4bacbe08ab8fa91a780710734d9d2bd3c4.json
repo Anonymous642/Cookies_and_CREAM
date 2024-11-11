@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "marcus dan", "description": "marcus dan", "version": "1.0", "content_scripts": [{"matches": ["*://*/*"], "all_frames": true, "js": ["content_script.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{57a735b7-77b0-4f6b-afea-485c3e22f09a}"}}}

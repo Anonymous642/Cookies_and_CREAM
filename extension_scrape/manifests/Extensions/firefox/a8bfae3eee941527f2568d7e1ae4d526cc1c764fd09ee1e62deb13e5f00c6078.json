@@ -1,0 +1,1 @@
+{"name": "Writing", "description": "Write anything with this addons", "icons": {"128": "icon.png"}, "version": "0.2.1", "background": {"scripts": ["background.js"]}, "manifest_version": 2, "browser_action": {}, "browser_specific_settings": {"gecko": {"id": "{265e7d98-a51a-407a-9f42-175186dd1e3a}"}}}

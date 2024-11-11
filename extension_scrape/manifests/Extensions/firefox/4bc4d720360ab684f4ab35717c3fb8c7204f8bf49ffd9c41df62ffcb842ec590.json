@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Kagi Summarize", "version": "1.0", "description": "Adds a 'Kagi summarize' option to your right-click menu", "icons": {"16": "icons/16.png", "48": "icons/48.png"}, "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{d8eba352-46e1-4b4a-a9d1-547a36138527}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "JSON Diff", "version": "0.5", "description": "JSON Diff chrome extension which works offline", "manifest_version": 3, "icons": {"16": "json-diff-16.png"}, "background": {"service_worker": "background.js", "type": "module"}, "action": {"default_title": "JSON Diff offline"}}

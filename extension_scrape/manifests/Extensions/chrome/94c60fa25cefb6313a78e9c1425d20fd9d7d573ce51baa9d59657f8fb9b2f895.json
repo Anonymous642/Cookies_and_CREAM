@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Time Wasted", "version": "1.1", "description": "Time spent surfing", "manifest_version": 2, "browser_action": {"default_icon": "stopwatch.png", "default_popup": "dire_bonjour.html"}, "background": {"scripts": ["background.js"]}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Force start LCS machine", "version": "1.0", "description": "Force start cloud-hosted machine on lcs.dynamics.com", "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://lcs.dynamics.com/*"], "js": ["contentScript.js"]}]}

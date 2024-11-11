@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove DDG Banners", "version": "1.0.0", "description": "Remove annoying banners from DuckDuckGo", "permissions": ["webRequest", "webRequestBlocking", "cookies", "https://duckduckgo.com/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{c725debf-3224-4455-97cc-8459905a06a8}"}}}

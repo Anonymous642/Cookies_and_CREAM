@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ActiveEl", "version": "1.1", "description": "Add a console.log when active element changes.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{15c1a0bc-aec9-404c-8567-91afc4a5588a}"}}}

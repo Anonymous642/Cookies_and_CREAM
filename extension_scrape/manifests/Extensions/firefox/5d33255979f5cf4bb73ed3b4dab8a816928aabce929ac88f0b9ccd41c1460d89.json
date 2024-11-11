@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Posture Promoter", "version": "1.4.1", "description": "Want better posture? Want to maintain a healthier back? This add-on will remind you to sit straight during the day.", "background": {"scripts": ["background.js"]}, "options_ui": {"page": "settings.html"}, "permissions": ["tabs", "storage"]}

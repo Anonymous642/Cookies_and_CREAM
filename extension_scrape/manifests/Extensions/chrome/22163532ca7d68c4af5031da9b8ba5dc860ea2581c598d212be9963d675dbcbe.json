@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Website IP", "description": "Simple Chrome Extension to get the current website IP address.", "version": "2.0", "icons": {"48": "icon.png"}, "action": {"default_icon": "icon.png", "default_popup": "index.html"}, "permissions": ["activeTab"]}

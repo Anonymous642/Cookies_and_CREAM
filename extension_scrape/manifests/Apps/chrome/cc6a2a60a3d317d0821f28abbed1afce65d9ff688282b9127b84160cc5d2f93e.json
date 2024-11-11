@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Budget Planner", "version": "1", "icons": {"128": "128.png", "256": "256.png"}, "app": {"urls": ["http://crisistimes.com/budget_planner.php"], "launch": {"web_url": "http://crisistimes.com/budget_planner.php"}}, "permissions": ["unlimitedStorage"], "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"app": {"launch": {"web_url": "http://www.baixou.com.br/?utm_source=iconeChrome"}, "urls": ["http://www.baixou.com.br/?utm_source=iconeChrome"]}, "description": "Baixou. Encontre produtos que baixaram seus precos.", "icons": {"128": "icon_128.png"}, "name": "Baixou", "update_url": "https://clients2.google.com/service/update2/crx", "version": "1.0.1", "manifest_version": 2}

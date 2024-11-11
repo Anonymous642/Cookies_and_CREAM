@@ -1,0 +1,1 @@
+{"name": "Fautz Speiseplan", "version": "1.0.17", "description": "Zeigt den Fautz Catering Speiseplan f\u00fcr die aktuelle Woche an.", "manifest_version": 2, "icons": {"16": "img/logo-16.png", "32": "img/logo-32.png", "64": "img/logo-64.png"}, "permissions": ["https://fautzcatering.de/", "storage"], "browser_action": {"default_popup": "popup.html"}}

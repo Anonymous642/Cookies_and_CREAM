@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Opaquifier", "version": "1.0", "description": "Makes the parts of youtube's UI that are ever-so-slightly transparent not.", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["yto.js"]}]}

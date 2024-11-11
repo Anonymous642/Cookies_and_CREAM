@@ -1,0 +1,1 @@
+{"name": "Linkedin-Mod", "version": "0.0.3", "description": "Used to alter the CSS behind LinkedIn for things that don't feel right", "manifest_version": 2, "content_scripts": [{"matches": ["*://*.linkedin.com/*"], "css": ["messaging.css"]}]}

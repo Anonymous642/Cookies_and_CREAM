@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "YubNub", "short_name": "YubNub", "description": "Replaces all YubiKey and all Midway Token with YubNub", "version": "2.1", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}], "icons": {"48": "icon48.png", "128": "icon128.png"}}

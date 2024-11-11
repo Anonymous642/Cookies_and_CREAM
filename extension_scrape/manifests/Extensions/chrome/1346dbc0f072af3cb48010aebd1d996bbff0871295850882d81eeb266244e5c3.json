@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Speak", "description": "Extension to speak selected text", "version": "1.0", "background": {"service_worker": "eventPage.js"}, "permissions": ["contextMenus", "tts"]}

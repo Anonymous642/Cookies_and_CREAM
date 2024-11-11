@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Now Make This", "description": "the block building game for people who like that sort of thing", "version": "1", "manifest_version": 2, "app": {"urls": ["http://www.nowmakethis.com/"], "launch": {"web_url": "http://www.nowmakethis.com/"}}, "icons": {"128": "chrome_128x128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "version": "1.15.0.0", "name": "__MSG_appName__", "description": "__MSG_appDesc__", "default_locale": "en", "icons": {"128": "ibelsa_app-icon.png"}, "app": {"urls": ["http://www.ibelsa.com/"], "launch": {"web_url": "http://www.ibelsa.com/"}}}

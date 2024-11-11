@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "PNaCl Examples", "description": "Portable Native Client examples from the SDK", "version": "1.0.0.12179", "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "pnacl_examples_icon16.png", "48": "pnacl_examples_icon48.png", "128": "pnacl_examples_icon128.png"}}

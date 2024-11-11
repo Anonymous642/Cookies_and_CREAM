@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "File Conversion Tools", "description": "Quick access to the conversion-tool.com file conversion tools.", "version": "1.0.2", "homepage_url": "https://www.conversion-tool.com", "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus", "tabs"]}

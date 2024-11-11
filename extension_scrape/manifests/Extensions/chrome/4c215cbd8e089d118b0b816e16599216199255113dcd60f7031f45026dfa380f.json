@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Remove Google Meet Features", "version": "0.1.0", "description": "Removes things from google meet", "icons": {"48": "logo.png"}, "content_scripts": [{"css": ["style.css"], "matches": ["https://meet.google.com/*"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Robu.in", "description": "Indian Online Store | RC Hobby | Robotics | Research | Electronic Components", "version": "1.0.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://robu.in/"], "launch": {"web_url": "http://robu.in/"}}}

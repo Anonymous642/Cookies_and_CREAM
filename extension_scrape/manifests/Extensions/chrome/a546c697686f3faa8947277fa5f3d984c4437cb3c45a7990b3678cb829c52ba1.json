@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "derstandard essentials", "version": "0.1.3", "content_scripts": [{"css": ["styles.css"], "matches": ["https://www.derstandard.at/*"]}], "icons": {"128": "img.png"}}

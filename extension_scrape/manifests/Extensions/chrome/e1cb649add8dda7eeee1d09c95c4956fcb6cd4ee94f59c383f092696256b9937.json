@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SvinoLang", "description": "\u041f\u043e\u0440\u043e\u0441\u044f\u0447\u044c\u044f \u043b\u0430\u0442\u044b\u043d\u044c", "version": "1.1", "manifest_version": 3, "permissions": [], "action": {"default_title": "SvinoLang", "default_icon": "icon.png", "default_popup": "popup.html"}}

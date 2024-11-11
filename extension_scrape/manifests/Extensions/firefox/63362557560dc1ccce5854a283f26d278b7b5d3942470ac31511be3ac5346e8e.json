@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Discord New All", "version": "1.1", "description": "Replace the 'New' message bubble with 'New All' on Discord", "icons": {"48": "icons/newall-48.png", "96": "icons/newall-96.png"}, "content_scripts": [{"matches": ["*://*.discord.com/channels/*", "*://*.discord.com/app"], "js": ["newall.js"]}]}

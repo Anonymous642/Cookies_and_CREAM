@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Q-SKETCH", "description": "Draw and Paint with Colors and Objects.", "version": "1.3", "app": {"urls": ["http://www.freehtmlgames.com/Q-SKETCH/"], "launch": {"web_url": "http://www.freehtmlgames.com/Q-SKETCH/"}}, "icons": {"128": "ICON.png"}}

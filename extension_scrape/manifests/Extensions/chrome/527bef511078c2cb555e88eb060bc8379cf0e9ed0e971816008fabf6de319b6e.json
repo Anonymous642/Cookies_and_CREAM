@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Highlight Fix for Trello", "version": "1.0", "description": "Makes highlighted text in Trello visible again.", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["*://trello.com/*"], "css": ["styles.css"]}]}

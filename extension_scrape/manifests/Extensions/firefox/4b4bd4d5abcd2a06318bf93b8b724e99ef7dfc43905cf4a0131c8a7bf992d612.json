@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Figma Dark Theme", "version": "1.1.1", "description": "\ud83e\udd18 Best dark theme for Figma WebApp \ud83e\udd18", "icons": {"48": "icons/FigmaDarkTheme-48.png", "96": "icons/FigmaDarkTheme-96.png"}, "content_scripts": [{"matches": ["https://www.figma.com/*"], "js": ["FigmaDarkTheme.js"]}]}

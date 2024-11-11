@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ABCClean", "version": "1.0.1", "description": "Elimina la publicidad de abc.es", "icons": {"48": "icons/logo-30-48.png", "96": "icons/logo-30-96.png"}, "content_scripts": [{"matches": ["*://www.abc.es/*"], "js": ["abcclean.js"]}]}

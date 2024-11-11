@@ -1,0 +1,1 @@
+{"name": "chessCom-draw", "version": "1.0.0", "manifest_version": 2, "description": "Offer draw on key input", "content_scripts": [{"matches": ["*://*.chess.com/*"], "js": ["./src/main.js"]}], "icons": {"48": "icon/draw-48.png"}, "browser_specific_settings": {"gecko": {"id": "{f0595b2d-b787-4b75-90cd-5d455497e3ec}"}}}

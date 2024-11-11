@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pins", "version": "3.1", "description": "Adds the current tab address to Pins", "icons": {"48": "icons/webpins_48.png", "96": "icons/webpins_96.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": {"48": "icons/webpins_48.png"}, "default_title": "Add to Pins"}, "background": {"scripts": ["webpins.js"]}}

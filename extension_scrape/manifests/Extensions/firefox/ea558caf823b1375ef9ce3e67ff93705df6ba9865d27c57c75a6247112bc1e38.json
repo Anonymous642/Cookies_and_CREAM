@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Uptime to Date", "description": "This extension is to convert uptime to a date.", "version": "1.7", "browser_action": {"default_icon": "icon.png", "default_popup": "uptimeCalc.html", "default_title": "UptimeDateTool"}}

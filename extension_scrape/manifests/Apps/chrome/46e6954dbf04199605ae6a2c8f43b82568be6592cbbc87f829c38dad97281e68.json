@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "__MSG_appName__", "description": "__MSG_appDesc__", "version": "1.0.0", "default_locale": "ja", "app": {"launch": {"web_url": "http://frja.translate.subpedia.org/"}}, "icons": {"128": "res/icon128x128.png"}}

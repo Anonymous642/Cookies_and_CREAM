@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Idle API Tester", "version": "1.0.1", "description": "For testing the idle API.", "permissions": ["idle", "notifications"], "background": {"scripts": ["background.js"]}}

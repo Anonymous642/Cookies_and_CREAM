@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Scjvb postpoetser", "version": "1.0", "description": "Maak posts van Scjvb leesbaar.", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://*.fok.nl/*"], "js": ["Scvjb_postpoetser.js"]}], "browser_specific_settings": {"gecko": {"id": "{b002cd55-5044-4476-8e93-8a43c5ad2b51}"}}}

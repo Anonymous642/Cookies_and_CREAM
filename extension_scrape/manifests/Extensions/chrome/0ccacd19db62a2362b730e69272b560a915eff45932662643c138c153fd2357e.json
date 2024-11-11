@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Gitlab approvals count", "version": "1.0", "description": "Gitlab approvals count", "icons": {"128": "app_icon.png"}, "content_scripts": [{"matches": ["https://*/*"], "js": ["contentScript.js"]}], "manifest_version": 2}

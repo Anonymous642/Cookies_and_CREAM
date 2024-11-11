@@ -1,0 +1,1 @@
+{"description": "Latest BBC News", "manifest_version": 2, "name": "Latest BBC News", "version": "1.40", "homepage_url": "http://redrobe.com/mike", "icons": {"48": "icons/bbcnews.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/bbcnews.png", "default_title": "Latest BBC News", "default_popup": "data/news.html"}}

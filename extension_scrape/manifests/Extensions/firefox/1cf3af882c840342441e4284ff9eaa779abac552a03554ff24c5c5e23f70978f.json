@@ -1,0 +1,1 @@
+{"description": "Redirections for https://minecraftjulman.github.io/", "manifest_version": 2, "name": "MinecraftJulMan", "version": "1.0", "content_scripts": [{"matches": ["*://minecraftjulman.github.io/*"], "js": ["checking.js"]}]}

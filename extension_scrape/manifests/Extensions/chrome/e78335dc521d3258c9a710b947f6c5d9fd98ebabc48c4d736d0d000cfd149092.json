@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tag Bookmarks", "description": "Rebuild your bookmarks with tags", "version": "1.2", "manifest_version": 3, "action": {"default_title": "Tag Bookmarks", "default_popup": "build/index.html", "default_icon": "build/favicon-128.png"}, "permissions": ["bookmarks"], "icons": {"128": "build/favicon-128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Calorie Monster", "description": "Calorie Monster", "version": "3.0", "action": {"default_popup": "index.html", "default_icon": "assets/images/logo/buff.png"}}

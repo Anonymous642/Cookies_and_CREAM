@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Temat Moda", "version": "0.1", "manifest_version": 2, "description": "Zawsze na fali z modowymi trendami!", "app": {"urls": ["http://www.tematmoda.pl/"], "launch": {"web_url": "http://www.tematmoda.pl/"}}, "icons": {"128": "icon.png"}}

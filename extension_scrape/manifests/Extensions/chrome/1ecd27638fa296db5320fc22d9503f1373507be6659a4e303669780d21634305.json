@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "XCross Screen Links", "version": "1", "manifest_version": 2, "background": {"scripts": ["background.js"]}, "browser_action": {"default_title": "Email", "default_popup": "popup.html"}, "permissions": ["contextMenus"], "icons": {"16": "icon16.png"}}

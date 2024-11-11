@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Clock", "description": "from riverserene.de, simple desktop clock", "version": "1.44.0", "short_name": "http://riverserene.de", "action": {"default_icon": "swarovski.png", "default_popup": "index.html"}, "permissions": []}

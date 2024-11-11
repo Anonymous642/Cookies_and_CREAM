@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove Ads on Youtube", "version": "1.0", "description": "Remove Ads on Youtube", "icons": {"48": "icons/icon-48.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/icon-32.png", "default_title": "Remove-Ads-On-Youtube", "default_popup": "popup/remove_ads.html"}}

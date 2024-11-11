@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FitCopy", "description": "Copy selected text and convert it for fitnesse wiki code", "version": "1.0", "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "contextMenus", "clipboardWrite"]}

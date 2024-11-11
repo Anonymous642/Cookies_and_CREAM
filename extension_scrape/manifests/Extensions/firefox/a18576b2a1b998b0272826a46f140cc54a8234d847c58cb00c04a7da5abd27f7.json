@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Phone Lookup Assistant", "version": "0.1.0", "description": "", "icons": {"64": "phone.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus", "tabs", "<all_urls>"], "browser_specific_settings": {"gecko": {"id": "{cd635721-8d68-4637-85f8-1b62b3ef0d83}"}}}

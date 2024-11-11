@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Skip Peacock Intro", "version": "1.0", "description": "Addon to automatically skip intros on Peacocktv.com", "content_scripts": [{"matches": ["*://*.peacocktv.com/*"], "js": ["skip_peacock_intro.js"]}], "browser_specific_settings": {"gecko": {"id": "{93ff1c1d-746c-442d-9558-f76f4846f7d3}"}}}

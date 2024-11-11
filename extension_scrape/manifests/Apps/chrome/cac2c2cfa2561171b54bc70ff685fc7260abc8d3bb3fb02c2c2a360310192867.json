@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "24/7 Bubble", "version": "1.0.0.1", "icons": {"128": "247bubble_icon.png"}, "description": "Pop bubbles all day with 24/7 Bubble!", "manifest_version": 2, "app": {"urls": ["http://www.247bubble.com/?chromestore=1"], "launch": {"web_url": "http://www.247bubble.com/?chromestore=1"}}}

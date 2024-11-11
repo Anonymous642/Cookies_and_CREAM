@@ -1,0 +1,1 @@
+{"description": "Upresnuje texty o Andreji Babisovi", "manifest_version": 2, "name": "Buresator", "version": "2.0", "homepage_url": "http://nocniptak.net/js/js.html", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"js": ["buresator.js"], "matches": ["*://*/*"], "run_at": "document_end"}]}

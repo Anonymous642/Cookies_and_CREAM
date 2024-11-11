@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove Acadie Nouvelle paywall", "version": "0.2", "permissions": ["*://*.acadienouvelle.com/*", "*://acadienouvelle.com/*", "webRequest", "webRequestBlocking"], "background": {"scripts": ["main.js"]}}

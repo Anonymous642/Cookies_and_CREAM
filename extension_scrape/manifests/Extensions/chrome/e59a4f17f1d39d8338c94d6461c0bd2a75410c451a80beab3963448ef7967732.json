@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PaletteWiz", "description": "Design inspiration with a triad of colours", "version": "1.0", "chrome_url_overrides": {"newtab": "colourPage.html"}, "icons": {"16": "PaletteWiz.png", "48": "PaletteWiz.png", "128": "PaletteWiz.png"}}

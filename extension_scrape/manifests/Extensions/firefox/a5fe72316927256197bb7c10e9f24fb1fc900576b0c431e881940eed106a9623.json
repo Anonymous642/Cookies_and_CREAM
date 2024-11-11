@@ -1,0 +1,1 @@
+{"description": "Highlights all links on Wikipedia", "manifest_version": 2, "name": "Highlighter", "version": "1.0", "homepage_url": "https://jut.dev", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://*.wikipedia.org/*"], "js": ["highlighter.js"]}], "browser_specific_settings": {"gecko": {"id": "{d6ed21cd-dfbf-479d-a586-ce8975014a2a}"}}}

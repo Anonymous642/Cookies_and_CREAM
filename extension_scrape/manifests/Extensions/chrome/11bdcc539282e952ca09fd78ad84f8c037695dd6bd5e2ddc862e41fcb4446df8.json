@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Insightly", "version": "1.1", "description": "Provides ChatGPT insights alongside search results.", "content_scripts": [{"matches": ["https://www.google.com/*"], "js": ["content_script.js"], "css": ["styles.css"]}], "icons": {"128": "icon128.png"}}

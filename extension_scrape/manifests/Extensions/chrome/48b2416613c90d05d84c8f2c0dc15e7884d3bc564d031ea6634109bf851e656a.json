@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TM Profile Enhancer", "version": "1.0", "permissions": ["https://my.ticketmaster.com/*"], "content_scripts": [{"matches": ["https://my.ticketmaster.com/settings"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Breathe", "manifest_version": 2, "version": "0.0.0.2", "permissions": [], "background": {"scripts": ["js/background.js"], "persistent": true}, "browser_action": {"default_popup": "popup.html"}, "icons": {"16": "icons/16.png", "48": "icons/48.png", "128": "icons/128.png"}}

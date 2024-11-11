@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MakeEntGreatAgain", "version": "1.0", "description": "Remet la charte de l'ancien ENT.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://ent.cesi.fr/*"], "js": ["makeentgreatagain.js"]}]}

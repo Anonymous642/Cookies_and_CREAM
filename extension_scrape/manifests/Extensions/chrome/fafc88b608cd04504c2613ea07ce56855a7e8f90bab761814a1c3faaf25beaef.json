@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GitHub Style", "version": "1.2", "description": "Makes GitHub look better!", "content_scripts": [{"matches": ["https://github.com/*"], "js": ["style.js"]}], "manifest_version": 2, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

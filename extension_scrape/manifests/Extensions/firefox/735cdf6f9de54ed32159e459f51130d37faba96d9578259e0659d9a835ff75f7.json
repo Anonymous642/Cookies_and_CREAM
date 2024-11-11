@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PrivacyCheck", "description": "This extension summarizes privacy policies.", "version": "1.2.0", "browser_action": {"default_title": "PrivacyCheck", "default_icon": "icon3.png", "default_popup": "popup.html"}, "background": {"page": "background.html"}, "web_accessible_resources": ["icon3.png"], "permissions": ["tabs", "<all_urls>"]}

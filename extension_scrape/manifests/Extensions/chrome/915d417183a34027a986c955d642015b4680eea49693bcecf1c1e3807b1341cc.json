@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Default Gateway Helper", "version": "1.0", "description": "A simple Chrome extension to help users find their default gateway IP address on various operating systems.", "action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}}

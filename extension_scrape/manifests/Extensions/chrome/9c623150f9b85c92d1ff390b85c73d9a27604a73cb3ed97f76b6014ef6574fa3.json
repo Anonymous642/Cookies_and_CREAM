@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "SYDSVENSKAN", "description": "F\u00e5 snabbt och smidigt tillg\u00e5ng till tidningen SydSvenskan", "version": "1.1", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}}

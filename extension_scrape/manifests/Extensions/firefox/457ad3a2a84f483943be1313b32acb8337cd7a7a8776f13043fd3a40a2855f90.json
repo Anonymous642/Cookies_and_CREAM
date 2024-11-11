@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Jornalismo de qualidade exige recursos", "version": "1.0", "description": "Abre o link em uma nova aba diretamente no outline.", "icons": {"48": "icons/icon48.png", "96": "icons/icon96.png"}, "background": {"scripts": ["outlinefy.js"]}, "permissions": ["menus", "activeTab"]}

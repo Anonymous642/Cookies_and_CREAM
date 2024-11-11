@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Skip Ads", "description": "Skip all annoying ads", "version": "1.0.1", "icons": {"512": "skip-icons.png"}, "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["skip-ads.js"]}], "browser_specific_settings": {"gecko": {"id": "skip-ads@gmail.com"}}}

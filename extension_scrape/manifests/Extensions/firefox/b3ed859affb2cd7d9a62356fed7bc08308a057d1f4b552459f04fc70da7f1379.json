@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Alkwin Kollege - Milan1.nl", "short_name": "Alkwin - Milan1", "description": "De websites en tools die je nodig hebt op het Alkwin!", "version": "2.9.1", "icons": {"128": "icon_128.png"}, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab"]}

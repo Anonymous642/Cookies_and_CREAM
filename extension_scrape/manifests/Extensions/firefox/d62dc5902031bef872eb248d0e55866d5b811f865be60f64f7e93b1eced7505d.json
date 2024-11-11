@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitch Point Auto Claimer", "version": "1.2", "description": "Automatically clicks the bonus button to claim Twitch channel points", "icons": {"48": "icons/points-48.png"}, "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["clicker.js"]}]}

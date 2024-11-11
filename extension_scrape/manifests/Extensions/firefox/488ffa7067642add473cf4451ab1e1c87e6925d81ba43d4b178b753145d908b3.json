@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "IMDB Google", "version": "1.0", "description": "Creates IMDB ratings and star count on a google search for a movie or a tv show", "browser_specific_settings": {"gecko": {"id": "ovicronofficial@gmail.com"}}, "content_scripts": [{"matches": ["*://*.google.com/search?*"], "js": ["imdbgoogle.js"]}], "permissions": ["https://www.omdbapi.com/*"]}

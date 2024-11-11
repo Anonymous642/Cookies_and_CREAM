@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SOSTP Bakalari", "version": "1.0", "content_scripts": [{"matches": ["https://www.sostp.cz/bakawebps/*"], "js": ["content.js"], "run_at": "document_end"}], "permissions": ["activeTab"]}

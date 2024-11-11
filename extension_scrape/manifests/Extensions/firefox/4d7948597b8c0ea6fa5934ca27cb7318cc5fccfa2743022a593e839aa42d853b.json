@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "freebs", "version": "1.1", "description": "Reklam engelleyici", "icons": {"48": "icons/avx_icon.png"}, "content_scripts": [{"matches": ["*://*.freebookspot.es/*"], "js": ["Avaxify.js"]}, {"matches": ["https://*.filejoker.net/*"], "js": ["filejokerskip.js"]}]}

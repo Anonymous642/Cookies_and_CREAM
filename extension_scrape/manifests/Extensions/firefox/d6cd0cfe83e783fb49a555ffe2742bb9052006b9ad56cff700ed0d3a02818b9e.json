@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hide Facebook Chat", "version": "1.0", "description": "Very simple extension that hides the chat from Facebook", "content_scripts": [{"matches": ["https://www.facebook.com/*"], "js": ["chat-eater.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tampa Mold Remediation", "description": "Best Mold Services In The Tampa Bay region.", "version": "1.0", "manifest_version": 3, "action": {"default_title": "Remediation", "default_icon": "logo.png", "default_popup": "plugin.html"}, "icons": {"128": "logo.png"}}

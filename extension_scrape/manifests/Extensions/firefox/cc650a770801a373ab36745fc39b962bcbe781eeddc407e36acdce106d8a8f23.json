@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "trump2kc", "version": "1.1", "description": "Makes Trump references more palatable by replacing them with 'King Cheeto' (forked from https://github.com/nishanthvijayan/Drumpfinator)", "icons": {"48": "icons/king-cheeto-48.png"}, "content_scripts": [{"matches": ["*://*.com/*"], "js": ["king-cheeto.js"]}]}

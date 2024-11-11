@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "cctv-util", "version": "1.0", "description": "\u9690\u85cf\u975e\u76f4\u64ad\u89c6\u9891\u7684\u533a\u57df", "content_scripts": [{"matches": ["*://tv.cctv.com/live/*"], "js": ["content_script.js"]}], "browser_specific_settings": {"gecko": {"id": "{65e45e9d-91d4-448f-bb8d-42ce22a81750}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Swipe Nav", "version": "1.4", "description": "Navigate backward and forward using magig mouse in linux.", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["swipe_nav.js"]}], "browser_specific_settings": {"gecko": {"id": "{4ac57f73-f0ab-4d32-94be-ac81a0dde706}"}}}

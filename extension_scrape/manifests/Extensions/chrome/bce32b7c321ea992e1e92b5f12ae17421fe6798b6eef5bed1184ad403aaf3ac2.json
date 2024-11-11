@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Datawrap", "description": "An awesome tool for Awesome data analysis", "version": "0.0.1", "icons": {"128": "128.png"}, "homepage_url": "https://datawrap.nue.com.mx/", "permissions": ["notifications"]}

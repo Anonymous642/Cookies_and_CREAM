@@ -1,0 +1,1 @@
+{"name": "VerifierScan", "version": "1.0.0", "manifest_version": 2, "description": "VerifierScan - a tool for helping users identify untrustworthy websites that spread misinformation.", "permissions": ["tabs", "activeTab"], "browser_action": {"default_icon": "verifierscan-extension-icon.png", "default_popup": "popup.html"}, "icons": {"128": "verifierscan-extension-icon.png"}}

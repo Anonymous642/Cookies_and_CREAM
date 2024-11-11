@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Moodle Setter for ETH", "version": "1.0", "description": "Sets the organization to \"ETH\" on all moodle login sites.", "browser_specific_settings": {"gecko": {"id": "lfent@ethz.ch"}}, "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://moodle-app2.let.ethz.ch/auth/shibboleth/login.php"], "js": ["moodle_login.js"]}]}

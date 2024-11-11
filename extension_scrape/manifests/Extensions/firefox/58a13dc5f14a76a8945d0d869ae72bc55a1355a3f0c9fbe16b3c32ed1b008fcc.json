@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DiggKindOfSlaps", "version": "1.2", "description": "Adds 'and it kind of slaps' to all Digg headlines.", "icons": {"48": "icons/slaps-48.png", "64": "icons/slaps-64.png", "96": "icons/slaps-96.png"}, "content_scripts": [{"matches": ["*://*.digg.com/*"], "js": ["slaps.js"]}]}

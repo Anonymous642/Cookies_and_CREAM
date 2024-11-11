@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "PartTimePost.com", "description": "PartTimePost.com is a Part Time Job Board Community.", "version": "1.1.0.0", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://parttimepost.com/"], "launch": {"web_url": "http://parttimepost.com/"}}}

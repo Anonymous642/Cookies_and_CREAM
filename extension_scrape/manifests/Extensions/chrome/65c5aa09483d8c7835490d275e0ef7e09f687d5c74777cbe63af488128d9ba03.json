@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "EasyLink", "version": "0.0.2", "description": "Accesing zoom links or any links with one click", "browser_action": {"default_popup": "popup.html"}, "permissions": ["storage"], "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "manifest_version": 2}

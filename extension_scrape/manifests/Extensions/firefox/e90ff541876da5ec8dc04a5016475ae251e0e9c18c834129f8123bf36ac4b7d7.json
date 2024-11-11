@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Custom Search", "version": "1.0", "description": "A custom search bar on every new tab.", "permissions": ["activeTab", "storage", "cookies", "history"], "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{a1046e84-4e8a-426c-bc8a-28285c570fb9}"}}}

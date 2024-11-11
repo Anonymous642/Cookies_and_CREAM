@@ -1,0 +1,1 @@
+{"background": {"scripts": ["background.js"]}, "permissions": ["tabs"], "description": "Adds speaker icon to audible windows to indicate sound just like FireFox does natively for tabs", "manifest_version": 2, "name": "Audible Windows", "version": "1.0.2", "icons": {"48": "logo.png", "96": "logo.png"}}

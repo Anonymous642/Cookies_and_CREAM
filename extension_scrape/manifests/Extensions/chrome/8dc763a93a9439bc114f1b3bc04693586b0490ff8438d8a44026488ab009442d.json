@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Milos", "version": "1.0", "description": "Ricardo Milos EVERYWHERE!", "icons": {"16": "milos-icon-16.png", "48": "milos-icon-48.png", "128": "milos-icon-128.png"}, "content_scripts": [{"matches": ["*://*/*"], "run_at": "document_start", "js": ["tab.js"]}]}

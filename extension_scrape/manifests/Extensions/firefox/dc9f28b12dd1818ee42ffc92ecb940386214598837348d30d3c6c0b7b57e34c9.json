@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "fire", "version": "2.0", "description": "111111", "content_scripts": [{"matches": ["*://*.baidu.com/*"], "js": ["start.js", "index.js"]}]}

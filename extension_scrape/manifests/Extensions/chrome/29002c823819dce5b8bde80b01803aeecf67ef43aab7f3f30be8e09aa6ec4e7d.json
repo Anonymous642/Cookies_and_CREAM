@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Spring Docs Skylight", "description": "Spring Docs Search Small Window", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "popup.html", "default_icon": {"128": "/icon128.png"}}, "permissions": ["storage"], "icons": {"128": "/icon128.png"}}

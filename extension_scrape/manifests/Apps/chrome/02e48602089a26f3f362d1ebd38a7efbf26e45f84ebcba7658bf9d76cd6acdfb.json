@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Cartes MST", "description": "Application MindMaps sur le site R\u00c9CIT MST", "manifest_version": 2, "version": "1.0", "icons": {"128": "128.png"}, "app": {"urls": ["http://mm.recitmst.qc.ca/"], "launch": {"web_url": "http://mm.recitmst.qc.ca"}}, "permissions": ["unlimitedStorage", "notifications"]}

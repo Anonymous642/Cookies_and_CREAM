@@ -1,0 +1,1 @@
+{"name": "Fastest Advertisement Blocker", "version": "1.0.2", "description": "This extension blocks all advertisements.", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "icons": {"48": "d.png"}, "background": {"scripts": ["background.js"]}, "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{da22418d-6ee0-45e2-965d-42cde5242157}"}}}

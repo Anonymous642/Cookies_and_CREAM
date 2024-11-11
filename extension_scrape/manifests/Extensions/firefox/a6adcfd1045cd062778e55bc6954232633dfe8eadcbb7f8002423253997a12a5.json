@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Leaguepedia 503 Redirector", "version": "1.0", "permissions": ["webRequest", "webRequestBlocking", "https://lol.fandom.com/"], "background": {"scripts": ["responseIntercept.js"]}, "icons": {"48": "icons/border-48.png", "96": "icons/border-96.png"}, "browser_specific_settings": {"gecko": {"id": "{d83ebb42-c580-464f-bdf1-01e083cd82bf}"}}}

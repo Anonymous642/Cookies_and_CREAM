@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "douban-book-unfold", "version": "0.0.1", "author": "Ya Zhuang <zhuangya@gmail.com>", "content_scripts": [{"matches": ["https://book.douban.com/subject/*"], "js": ["unfold.js"]}]}

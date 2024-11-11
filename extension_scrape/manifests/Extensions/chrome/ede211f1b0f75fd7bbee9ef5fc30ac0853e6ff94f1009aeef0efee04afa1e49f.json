@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Purple ChatGPT Theme", "version": "1.4", "manifest_version": 3, "description": "Make ChatGPT look amazing!", "content_scripts": [{"matches": ["https://chat.openai.com/*"], "css": ["css/style.css"]}], "action": {"default_icon": "images/icon.png", "default_popup": "popup.html"}}

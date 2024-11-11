@@ -1,0 +1,1 @@
+{"name": "watchcartoononline", "description": "Legal watchcartoononline site to watch cartoons online.", "app": {"urls": ["https://watchcartoononline.site/"], "launch": {"web_url": "https://watchcartoononline.site/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

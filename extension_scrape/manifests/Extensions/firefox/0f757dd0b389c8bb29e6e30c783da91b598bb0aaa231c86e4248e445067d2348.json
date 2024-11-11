@@ -1,0 +1,1 @@
+{"author": "Robintel", "description": "Verific\u0103 Sursa.ro, c\u0103ci nu tot ceea ce se scrie pe net este adev\u0103rat. Chiar din contr\u0103!", "name": "Verific\u0103 Sursa", "version": "1.0", "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "permissions": ["*://*/*"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["verificasursa.js"]}], "manifest_version": 2}

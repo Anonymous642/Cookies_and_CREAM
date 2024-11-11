@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "author": "Angelo Carrabba", "name": "zoom80", "version": "2.0.1", "description": "Forces the Zoom to be set to 80%", "homepage_url": "https://github.com/acarrabbav/zoom100", "background": {"service_worker": "fixZoom.js"}, "icons": {"128": "128.png"}}

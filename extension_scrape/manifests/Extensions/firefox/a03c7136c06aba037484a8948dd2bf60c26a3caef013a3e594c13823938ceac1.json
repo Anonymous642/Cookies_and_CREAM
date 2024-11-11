@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Go Next", "version": "1.0", "description": "Goes to the next video on putlocker", "icons": {"48": "icons/next.png"}, "content_scripts": [{"matches": ["*://*.putlocker.wtf/*", "*://*.2embed.ru/*", "https://www.jwplayer.com/"], "js": ["next.js"]}], "browser_specific_settings": {"gecko": {"id": "{c1fe8254-1ecb-4d78-8dac-297113480abf}"}}}

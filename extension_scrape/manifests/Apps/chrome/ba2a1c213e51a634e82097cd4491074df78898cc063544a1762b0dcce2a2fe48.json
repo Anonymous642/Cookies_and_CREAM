@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "2by2host cloud hosting", "version": "1.0", "app": {"urls": ["http://2by2host.com/"], "launch": {"web_url": "http://2by2host.com/"}}, "description": "Affordable cloud hosting run by developers", "manifest_version": 2, "icons": {"128": "128.png"}}

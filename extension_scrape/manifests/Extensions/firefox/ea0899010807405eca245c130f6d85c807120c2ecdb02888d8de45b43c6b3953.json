@@ -1,0 +1,1 @@
+{"name": "Get Ayat", "description": "Tools to get the Quran verse number and juz number based on the page number", "version": "2.1.0", "manifest_version": 3, "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.svg"}, "browser_specific_settings": {"gecko": {"strict_min_version": "91.1.0", "id": "{a75b232b-b2c0-4a83-85eb-c3a3a8956e21}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SingleFileConvertJwplayerUserScript", "version": "0.1", "description": "convert jwplayer container to audio tag for SinglePage export", "content_scripts": [{"matches": ["<all_urls>"], "js": ["single-file-convert-jwplayer-user-script.js"]}], "browser_specific_settings": {"gecko": {"id": "{ce36917b-1fae-4b48-a847-c2b5e14edc3a}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gmail Hide Notifications", "version": "1.0", "description": "Removes Gmail notifications to help me avoid distractions", "content_scripts": [{"matches": ["*://*.mail.google.com/*"], "js": ["remove_notifications.js"]}]}

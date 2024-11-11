@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sakai Extension", "description": "This extension extends Sakai's features", "version": "1.0", "action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab", "scripting", "tabs", "storage"], "host_permissions": ["https://ubonline.ubalt.edu/*"]}

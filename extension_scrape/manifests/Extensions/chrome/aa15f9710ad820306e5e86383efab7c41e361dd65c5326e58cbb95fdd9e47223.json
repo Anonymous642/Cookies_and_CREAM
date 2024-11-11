@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Twitch Control", "version": "0.3", "description": "Control Twitch.tv tabs", "browser_action": {"default_popup": "popup.html"}, "author": "Tyler Sutherland", "permissions": ["tabs", "http://www.twitch.tv/*", "https://www.twitch.tv/*"], "icons": {"128": "icon_128.png"}}

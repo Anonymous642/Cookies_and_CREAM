@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Crazy Snooker Puzzle 3D", "description": "", "version": "0.3.0", "manifest_version": 2, "app": {"background": {"scripts": ["js/background.js"]}}, "icons": {"16": "img/icon_16.png", "48": "img/icon_48.png", "128": "img/icon_128.png"}, "permissions": ["storage"]}

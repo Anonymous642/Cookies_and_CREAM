@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Data Cleansing", "version": "0.0.1", "manifest_version": 2, "description": "Run advanced analytics to identify data types, nulls, outliers, probability distribution, multi correlations and much more.", "api_console_project_id": "750111207248"}

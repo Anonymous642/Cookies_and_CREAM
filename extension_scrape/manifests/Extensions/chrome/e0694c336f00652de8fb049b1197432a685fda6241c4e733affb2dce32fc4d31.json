@@ -1,0 +1,22 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+	"name": "Lenovo Enterprise 3D Product Catalog - EBC",
+	"version": "8.0",
+	"manifest_version": 3,
+	"description": "Lenovo Enterprise 3D Product Catalog - EBC",
+	"background": {
+		"service_worker": "background.js"
+	},
+	"options_page": "index.html",
+	"action": {
+		"default_title": "Lenovo Enterprise 3D Product Catalog - EBC",
+		"default_icon": {
+			"32": "chrome-icon.png"
+		}
+	},
+	"permissions": [],
+	"content_security_policy": {
+		"extension_pages": "script-src 'self' 'wasm-unsafe-eval'"
+	}
+}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search URL on MusicBrainz", "version": "1", "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus", "tabs"], "browser_specific_settings": {"gecko": {"id": "{ea8fea1a-698c-4b95-b30b-f389a321431b}"}}}

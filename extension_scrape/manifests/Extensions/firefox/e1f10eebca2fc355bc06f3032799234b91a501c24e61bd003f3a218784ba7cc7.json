@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "APK Systembolaget", "version": "1.1", "description": "Visar APK (ml/kr) ist\u00e4llet f\u00f6r kr/liter p\u00e5 Systembolagets hemsida", "icons": {"48": "icons/apk.png"}, "content_scripts": [{"matches": ["*://*.systembolaget.se/produkt/*"], "js": ["apk.js"]}]}

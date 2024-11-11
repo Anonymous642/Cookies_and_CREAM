@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AMAZON PO Barcode Simulator", "version": "1.0", "description": "Simulates AMAZON ASIN Barcodes.", "permissions": ["tabs"], "browser_action": {"default_icon": "icons/icon.png"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{51d514fe-6471-49b7-aa93-c99c7fe19e83}"}}}

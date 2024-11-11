@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Otto Numbers", "version": "1.0", "manifest_version": 3, "content_scripts": [{"matches": ["https://*.twitch.tv/*"], "css": ["styles.css"], "js": ["script.js"]}], "action": {}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Surfboard", "version": "1.0", "description": "Surf the web only using your keyboard!", "icons": {"32": "surfboard.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["myapp.js"]}]}

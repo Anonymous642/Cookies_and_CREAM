@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WhatsFlash - WhatsApp Message Link Generator", "description": "Generate direct chat links for WhatsApp with custom text messages.", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "index.html", "default_icon": "logo.png"}, "icons": {"512": "logo.png"}}

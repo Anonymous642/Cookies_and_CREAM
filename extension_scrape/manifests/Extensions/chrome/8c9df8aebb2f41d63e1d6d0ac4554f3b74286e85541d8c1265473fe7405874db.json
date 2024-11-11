@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SnyGPT", "version": "0.0.0.2", "description": "Beautiful ChatGPT", "icons": {"25": "icons/icon.png"}, "host_permissions": ["https://chat.openai.com/*"], "content_scripts": [{"matches": ["https://chat.openai.com/*"], "css": ["style.css"], "js": ["snygpt.js"]}]}

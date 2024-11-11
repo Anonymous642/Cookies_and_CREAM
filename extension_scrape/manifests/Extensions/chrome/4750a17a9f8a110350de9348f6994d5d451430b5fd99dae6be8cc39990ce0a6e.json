@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Project Validator", "description": "Project Validator", "version": "1.0", "action": {"default_popup": "index.html", "default_icon": "pg_symbol_rgb_navy.png"}, "host_permissions": ["http://fvscheduling.focusvision.local/"]}

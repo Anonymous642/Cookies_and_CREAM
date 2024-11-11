@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "StackOverflow web extension", "version": "1.0", "description": "Removes sidebar from Stack Overflow", "icons": {"48": "icons/me_48.jpeg"}, "content_scripts": [{"matches": ["*://stackoverflow.com/*"], "js": ["webextension.js"]}]}

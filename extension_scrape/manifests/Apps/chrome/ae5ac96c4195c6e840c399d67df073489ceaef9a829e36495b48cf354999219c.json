@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "HCC Libraries", "description": "Services and resources from the HCC Libraries", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://library.hccs.edu/"], "launch": {"web_url": "http://library.hccs.edu/"}}}

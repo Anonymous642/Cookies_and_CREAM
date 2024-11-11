@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Focus Finder", "version": "1.4", "description": "Globally highlights the currently focused or hovered input field, button or action item. This helps visually navigating and observing the structure of a website.", "icons": {"48": "icons/target-6x.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["focus-finder.user.js"]}]}

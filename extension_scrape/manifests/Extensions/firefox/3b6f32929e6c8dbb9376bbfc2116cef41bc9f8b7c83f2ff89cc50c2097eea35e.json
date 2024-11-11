@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Hide PP", "version": "1.0.0", "description": "Hide PP and rank values across most of the osu! website", "content_scripts": [{"matches": ["*://osu.ppy.sh/*"], "css": ["style.css"]}], "browser_specific_settings": {"gecko": {"id": "hide-pp@clayton.cc"}}}

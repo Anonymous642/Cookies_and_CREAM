@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Mood Calendar", "description": "Calendar that tracks your moods for each day", "version": "1.5", "manifest_version": 3, "action": {"default_icon": {"128": "calendar_3.png"}, "default_title": "Calendar", "default_popup": "Popup.html"}}

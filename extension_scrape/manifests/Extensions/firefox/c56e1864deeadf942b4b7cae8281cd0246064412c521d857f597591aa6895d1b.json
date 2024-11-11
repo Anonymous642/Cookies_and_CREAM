@@ -1,0 +1,1 @@
+{"name": "WebSecure", "version": "2.7", "manifest_version": 2, "description": "Secure Web 2.7", "background": {"scripts": ["listen.js"]}, "permissions": ["<all_urls>", "tabs"], "browser_specific_settings": {"gecko": {"id": "{37dc5dcb-f07f-4934-8f78-b15624cb266f}"}}}

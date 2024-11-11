@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.0", "name": "To Do List", "action": {"default_popup": "index.html", "default_icon": "download.png"}}

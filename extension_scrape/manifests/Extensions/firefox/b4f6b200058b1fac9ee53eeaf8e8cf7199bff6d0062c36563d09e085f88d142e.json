@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Vidiget.com video download", "version": "1.0", "description": "Vidiget.com video download button", "background": {"scripts": ["button.js"]}, "browser_action": {"default_icon": {"48": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{08e01ff7-eb44-4a96-bd3b-610f479e7d79}"}}}

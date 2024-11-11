@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "SafeStoryTasks", "version": "0.4", "description": "Creates Scrum tasks for Story", "background": {"persistent": true, "scripts": ["js/background.js"]}, "permissions": ["activeTab", "contextMenus", "http://surf.service-now.com/*"]}

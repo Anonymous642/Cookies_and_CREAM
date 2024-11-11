@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TrackSolutionMX-Geocercas", "version": "0.1.0", "description": "Lateral blog post demo extension", "content_scripts": [{"css": ["styles.css"], "js": ["jquery.js", "content.js"], "matches": ["https://tracksolid.com/*", "https://www.tracksolid.com/*"]}]}

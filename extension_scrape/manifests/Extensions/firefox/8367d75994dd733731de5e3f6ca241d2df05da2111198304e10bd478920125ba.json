@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fandom debloat", "version": "1.0", "description": "Remove bloat from Fandom wikis", "content_scripts": [{"matches": ["*://*.fandom.com/*"], "css": ["fdebloat.css"], "run_at": "document_start"}]}

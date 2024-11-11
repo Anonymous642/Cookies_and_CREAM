@@ -1,0 +1,1 @@
+{"name": "Dictionnaire fran\u00e7ais", "short_name": "French Dict.", "version": "7.0b", "description": "Dictionnaire orthographique pour la langue fran\u00e7aise.", "dictionaries": {"fr": "dictionaries/fr-classic.dic"}, "homepage_url": "https://grammalecte.net", "browser_specific_settings": {"gecko": {"id": "fr-dicollecte@dictionaries.addons.mozilla.org"}}, "manifest_version": 2}

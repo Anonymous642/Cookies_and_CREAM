@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "PassLook", "description": "Show the password already saved in browser which you might forgot", "version": "1.0", "author": "pntech20@gmail.com", "permissions": ["activeTab"], "browser_action": {"default_title": "PassLook", "default_icon": "icon.png", "default_popup": "index.html"}, "manifest_version": 2}

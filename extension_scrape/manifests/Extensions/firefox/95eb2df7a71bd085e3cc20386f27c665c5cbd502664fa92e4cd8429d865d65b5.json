@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Chatbots.org forum popup hider", "version": "1.0.3", "description": "Suppresses a persistent popup on the chatbots.org forum.", "icons": {"48": "icon48.png", "128": "icon128.png"}, "content_scripts": [{"matches": ["*://*.chatbots.org/ai_zone*"], "js": ["hidepopup.js"], "run_at": "document_end"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Nofollow link highlighter", "version": "1.0", "description": "Highlights nofollow links", "content_scripts": [{"matches": ["*://*.com/*"], "js": ["javascript.js"]}]}

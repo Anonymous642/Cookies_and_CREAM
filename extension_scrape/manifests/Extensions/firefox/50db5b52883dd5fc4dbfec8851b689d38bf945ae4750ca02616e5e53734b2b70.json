@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VAT & Profit Calculator", "version": "0.3", "description": "A calculator for Value Added Taxes and Profits.", "icons": {"48": "icons/vapc_logo_plain.svg"}, "sidebar_action": {"default_title": "VAT & Profit Calculator", "default_icon": "icons/vapc_logo_plain.svg", "default_panel": "/sidebar.html"}}

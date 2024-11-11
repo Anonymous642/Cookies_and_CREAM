@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Big Pig in the City", "description": "Replace instances of Babe with Big Pig in the City", "version": "0.0.1", "icons": {"128": "images/icon-128.png"}, "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

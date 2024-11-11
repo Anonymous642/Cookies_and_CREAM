@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tumblr Archive Page", "version": "1.0", "description": "Quick redirect to tumblr archive page", "icons": {"128": "icon_128.png"}, "background": {"scripts": ["background.js"], "persistent": false}, "browser_action": {"default_title": "Tumblr Archive"}, "permissions": ["activeTab"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Training Edge", "description": "Training edge delivers competitive edge for your organization", "version": "1.0", "manifest_version": 2, "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.training-edge.ca/"], "launch": {"web_url": "http://www.training-edge.ca/"}}}

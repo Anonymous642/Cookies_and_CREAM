@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Temporary Style Add-on", "version": "1.0", "description": "Applies a custom CSS style to https://chat.openai.com and its subpages.", "applications": {"gecko": {"id": "temporary-style-addon@example.com"}}, "content_scripts": [{"matches": ["https://chat.openai.com/*"], "js": ["content_script.js"], "css": ["styles.css"], "run_at": "document_idle"}]}

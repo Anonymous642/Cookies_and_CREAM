@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ChimeScreenShare", "author": "Fabian Schaffert", "homepage_url": "https://github.com/devmapal/chime-screen-share", "version": "0.1", "description": "Enables screen-share on Chime WebApp.", "background": {"scripts": ["enable-screen-share.js"]}, "permissions": ["webRequest", "webRequestBlocking", "https://*.chime.aws/ftr/features"]}

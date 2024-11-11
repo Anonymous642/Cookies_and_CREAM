@@ -1,0 +1,1 @@
+{"author": "zwegner", "description": "When you close a tab, go to the most-recently-used tab", "manifest_version": 2, "name": "MRU Tab Succession", "permissions": ["tabs"], "version": "0.1", "background": {"scripts": ["background.js"]}}

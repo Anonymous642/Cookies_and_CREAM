@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Chrome Background Runner", "version": "0.0.1", "manifest_version": 3, "description": "Keep your browser open in the background for faster re-opening", "permissions": ["background"], "icons": {"16": "icon16.png", "32": "icon32.png", "48": "icon48.png", "128": "icon128.png"}}

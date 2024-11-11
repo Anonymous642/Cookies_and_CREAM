@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "typewriter.at", "description": "Online Typing Tutor", "version": "4.2", "manifest_version": 2, "app": {"urls": ["http://www.schreibtrainer.com/"], "launch": {"web_url": "http://de4.schreibtrainer.com/"}}, "icons": {"16": "ico.png", "48": "typico.png", "128": "typewriter.png"}}

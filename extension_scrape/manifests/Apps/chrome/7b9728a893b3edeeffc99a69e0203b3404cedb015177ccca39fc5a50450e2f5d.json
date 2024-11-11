@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Suffolk Libraries printing Bury", "version": "0.5", "manifest_version": 2, "description": "Link to print", "app": {"urls": ["http://printing.suffolklibraries.co.uk/bury"], "launch": {"web_url": "http://printing.suffolklibraries.co.uk/bury"}}, "icons": {"48": "print.png", "128": "128print.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "2024 Motorsport Countdown", "version": "1.4.1", "action": {"default_icon": "icon64.png", "default_popup": "popup.html"}, "icons": {"64": "icon64.png", "128": "icon128.png"}}

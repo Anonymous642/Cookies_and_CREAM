@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Linkedin Declutter", "version": "1.0", "description": "this extension will remove the images from the post in your feed. So that you can focus on your work not the visuals.  ", "content_scripts": [{"matches": ["*://*.linkedin.com/*"], "css": ["styles.css"]}], "browser_specific_settings": {"gecko": {"id": "{be859b03-eddf-46df-984f-ce20f6faf8a2}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "To Do App", "version": "1.2.0", "description": "To Do App", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "offline_enabled": true, "action": {"default_icon": "icon16.png"}, "background": {"service_worker": "background.js"}}

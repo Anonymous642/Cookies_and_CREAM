@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "AllOrders", "description": "This extension add a button to process all the orders on Dropified.", "version": "0.1", "content_scripts": [{"matches": ["*://app.dropified.com/orders*"], "js": ["script.js"], "run_at": "document_end"}]}

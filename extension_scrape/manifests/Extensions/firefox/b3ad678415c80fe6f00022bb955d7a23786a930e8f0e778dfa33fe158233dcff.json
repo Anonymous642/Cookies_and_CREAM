@@ -1,0 +1,1 @@
+{"name": "Easy ORC Reader", "action": {}, "manifest_version": 3, "version": "0.2", "description": "Makes the ORC easier to cite with specific section numbers", "permissions": ["activeTab", "scripting"], "background": {"scripts": ["background.js"]}, "icons": {"128": "128.png"}, "browser_specific_settings": {"gecko": {"id": "orcreader@test.com", "strict_min_version": "42.0"}}}

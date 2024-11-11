@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Strong Password Generator", "version": "1.0", "description": "Generate a good password without having to go to another website or app", "manifest_version": 3, "action": {"default_icon": "img/icon.png", "default_popup": "html/index.html"}, "permissions": ["clipboardWrite"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitter to Nitter", "version": "1.0.2.2", "description": "Redirects Twitter links to Nitter instead, protecting your privacy.", "permissions": ["webNavigation"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{ca538717-fda3-4898-8dea-793e714903f2}"}}}

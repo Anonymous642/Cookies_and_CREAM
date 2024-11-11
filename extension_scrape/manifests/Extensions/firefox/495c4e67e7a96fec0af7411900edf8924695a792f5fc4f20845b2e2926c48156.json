@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BB add-in", "version": "1.1", "description": "Buzzerbeater add-in", "icons": {"48": "icons/kelaitis-48.png"}, "content_scripts": [{"matches": ["*://*.buzzerbeater.com/*"], "js": ["borderify.js"]}]}

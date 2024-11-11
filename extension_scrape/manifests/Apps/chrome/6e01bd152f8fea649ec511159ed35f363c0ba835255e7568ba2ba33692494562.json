@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://jelastic.com/"], "launch": {"web_url": "http://jelastic.com"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Easy to Start, Easy to Deploy, Easy to Scale", "name": "PHP Cloud Hosting", "icons": {"128": "icon_128.png"}, "manifest_version": 2, "version": "1.9.1.2"}

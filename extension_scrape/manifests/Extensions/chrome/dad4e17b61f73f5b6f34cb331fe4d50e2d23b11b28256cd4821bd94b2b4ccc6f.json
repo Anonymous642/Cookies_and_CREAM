@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quasi Word Counter", "description": "Count the frequency of the word  Quasi usage by a person.", "version": "1.0", "action": {"default_popup": "index.html"}, "icons": {"16": "hand.png", "32": "hand.png", "48": "hand.png", "128": "hand.png"}}

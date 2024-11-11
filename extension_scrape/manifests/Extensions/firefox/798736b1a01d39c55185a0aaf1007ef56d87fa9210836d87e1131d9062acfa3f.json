@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Couleurs moodle", "version": "1.3", "description": "Change la couleur de moodle.", "icons": {"350": "icon.png"}, "permissions": ["activeTab", "tabs"], "browser_action": {"default_icon": "icon.png", "default_popup": "couleurs_moodle.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Foogle", "version": "1.2", "description": "Removes google tracking redirects from search results", "icons": {"48": "foogle48.png", "512": "foogle512.png"}, "permissions": ["<all_urls>", "scripting"], "background": {"scripts": ["registercs.js"]}, "browser_specific_settings": {"gecko": {"id": "foogle@bounce.hopto.org"}}}

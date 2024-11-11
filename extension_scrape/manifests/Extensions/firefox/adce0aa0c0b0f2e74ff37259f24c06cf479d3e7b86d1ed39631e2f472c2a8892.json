@@ -1,0 +1,1 @@
+{"description": "Changes the url of the Home Logo to the subscriptions url", "manifest_version": 2, "name": "Home Button Fix for Youtube", "version": "2.0", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["homeButtonFix.js"]}], "browser_specific_settings": {"gecko": {"id": "{abffdee1-b195-481d-ab08-f55ea2c5b7ce}"}}}

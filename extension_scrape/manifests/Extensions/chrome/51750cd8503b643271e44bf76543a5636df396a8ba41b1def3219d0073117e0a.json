@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "SOL Hide Photo", "version": "1.0", "permissions": ["https://sol.sfc.keio.ac.jp/", "webRequest", "webRequestBlocking"], "background": {"scripts": ["background.js"], "persistent": true}}

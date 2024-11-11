@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Ser Estudante", "version": "1", "icons": {"128": "128.png"}, "app": {"urls": ["http://serestudante.com/"], "launch": {"web_url": "http://serestudante.com/"}}, "permissions": ["geolocation"], "manifest_version": 2}

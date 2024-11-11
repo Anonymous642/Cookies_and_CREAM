@@ -1,0 +1,1 @@
+{"name": "Download Selected whosgrip Links", "description": "Select whosgrip links on a page and download them.", "version": "0.1", "minimum_chrome_version": "16.0.884", "permissions": ["downloads", "<all_urls>"], "browser_action": {"default_popup": "popup.html"}, "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{f73c9e2c-40dd-4cb6-985b-cb439cf7987d}"}}}

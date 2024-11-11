@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Better B&G", "version": "1.0.8", "description": "Makes BlocksAndGold website better and smarter. By Nitoxym", "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "content_scripts": [{"matches": ["*://*.blocksandgold.com/*"], "js": ["shop_items.js", "player_character.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Deal Report", "description": "Deal Report", "version": "0.0.0.1", "content_scripts": [{"matches": ["http://www.loopnet.com/Listing/*", "https://www.loopnet.com/Listing/*"], "js": ["antd.js", "content_chrome.js", "app_chrome.js"], "css": ["antd.css"], "run_at": "document_end"}]}

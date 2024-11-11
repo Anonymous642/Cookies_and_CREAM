@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LOL Boards Rank", "version": "2.1", "content_scripts": [{"matches": ["http://*.leagueoflegends.com/*"], "js": ["profiles.js"]}]}

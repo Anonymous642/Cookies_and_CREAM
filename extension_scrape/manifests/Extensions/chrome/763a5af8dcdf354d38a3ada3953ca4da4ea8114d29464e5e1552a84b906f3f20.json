@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Chinese Font for Google Forms", "description": "Enables the ST Kaiti font if the Google Forms contain any Chinese Characters!", "version": "1.0", "manifest_version": 3, "content_scripts": [{"matches": ["https://docs.google.com/forms/*"], "all_frames": true, "js": ["fontTester.js"]}], "permissions": []}

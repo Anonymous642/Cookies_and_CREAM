@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Orisom - Gestor de Proyectos", "description": "Gestor de proyectos", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "gestor128x128.png"}, "app": {"urls": ["https://proyectos.orisom.com/"], "launch": {"web_url": "https://proyectos.orisom.com/login/google_openid_signin"}}}

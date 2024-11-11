@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Follow Along - Text Highlighter", "description": "A browser extension that allows the user to highlight text on hover.", "version": "1.0", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "manifest_version": 2}

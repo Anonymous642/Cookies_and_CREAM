@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "mangadexFollowImage", "version": "1.0", "description": "Adds image for manga updates in the follows page, with lazyload", "icons": {"48": "icons/border-48.png"}, "applications": {"gecko": {"id": "mangadexFollowImage@rokuem"}}, "content_scripts": [{"matches": ["https://mangadex.org/follows"], "js": ["main.js"]}]}

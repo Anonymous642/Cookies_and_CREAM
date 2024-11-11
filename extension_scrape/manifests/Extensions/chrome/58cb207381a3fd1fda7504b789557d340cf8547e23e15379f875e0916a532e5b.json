@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouSearch", "description": "Search the selected text on YouTube", "version": "1.4", "homepage_url": "https://www.outofmemory.blog.br/youtube-it/", "background": {"service_worker": "background.js"}, "permissions": ["activeTab", "contextMenus"]}

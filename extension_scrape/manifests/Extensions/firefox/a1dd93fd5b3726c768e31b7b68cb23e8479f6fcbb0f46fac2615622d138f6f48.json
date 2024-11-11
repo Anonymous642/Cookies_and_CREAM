@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Trousers", "version": "1.0", "description": "Redirects all YouTube Shorts to the proper video player", "icons": {"48": "icons/trousers-48.png", "96": "icons/trousers-96.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["trousers.js"]}], "browser_specific_settings": {"gecko": {"id": "{e49a69dd-f001-4a7f-a7d6-87e34e6f8f73}"}}}

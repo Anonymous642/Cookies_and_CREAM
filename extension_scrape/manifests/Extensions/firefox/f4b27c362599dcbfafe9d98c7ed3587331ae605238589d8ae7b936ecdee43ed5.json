@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NoRef: Open Link without Referer", "description": "Add a context menu option to open a link without sending the HTTP referer information.", "version": "1.0.2", "background": {"scripts": ["background.js"]}, "options_ui": {"page": "options.html", "browser_style": true}, "permissions": ["activeTab", "contextMenus", "storage"]}

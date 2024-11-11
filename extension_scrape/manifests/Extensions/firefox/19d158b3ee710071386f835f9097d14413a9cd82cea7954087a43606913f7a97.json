@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DayIsBetterThanHour", "version": "1.1", "description": "Upgrade securex HH:MM to Number of days", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.securex.eu/*"], "js": ["dayisbetterthanhour.js"]}]}

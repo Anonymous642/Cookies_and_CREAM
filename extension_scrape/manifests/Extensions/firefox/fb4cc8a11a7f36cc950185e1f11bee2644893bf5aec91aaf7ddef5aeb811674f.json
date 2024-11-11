@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DoppelBangers", "version": "1.0.1", "applications": {"gecko": {"id": "@extension-doppelbangers003", "strict_min_version": "42.0"}}, "permissions": ["activeTab", "contextMenus"], "description": "Reverse Image Search", "background": {"scripts": ["index.js"]}, "icons": {"48": "icon48.png", "96": "icon96.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Panda Cam", "description": "Have YOU ever wanted to see pandas in your browser??", "version": "1.0", "icons": {"128": "128.png"}, "app": {"background": {"scripts": ["background.js"]}}}

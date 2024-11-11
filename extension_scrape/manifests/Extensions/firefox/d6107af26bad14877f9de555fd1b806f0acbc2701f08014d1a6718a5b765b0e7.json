@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Srp Hider", "version": "1.0", "description": "Hides articles from Bonusweb written by Jan Srp", "content_scripts": [{"matches": ["*://www.idnes.cz/hry*"], "js": ["srphider.js"]}], "applications": {"gecko": {"id": "srphider@example.com"}}}

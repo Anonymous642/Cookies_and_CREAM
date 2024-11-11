@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DashMo", "version": "1.0", "description": "DashMo - A new tab focus and productivity page for Chrome", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["geolocation"]}

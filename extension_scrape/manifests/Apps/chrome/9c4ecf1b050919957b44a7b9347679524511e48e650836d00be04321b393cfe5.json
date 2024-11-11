@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Magister Mata: Chromebook HP 14", "description": "This is a school system for chrome", "version": "1.4", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "sandbox": {"pages": ["window.html"]}, "icons": {"128": "logo_magister.png"}}

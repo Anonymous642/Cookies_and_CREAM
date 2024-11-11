@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Capital letter", "version": "1.0.3", "description": "Extension for automatic elevating of first sentence letter to capital", "content_scripts": [{"matches": ["<all_urls>"], "js": ["auto-first-capital.js"]}], "author": "Oleh Yaroshchuk"}

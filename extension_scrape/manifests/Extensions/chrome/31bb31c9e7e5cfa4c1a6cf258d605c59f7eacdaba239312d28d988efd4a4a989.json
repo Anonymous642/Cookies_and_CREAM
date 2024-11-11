@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Hair Transplant in Turkey - NHT", "version": "1.0", "manifest_version": 3, "description": "NHT Clinic logo background addded to Chrome Web Store.", "action": {"default_icon": "128.png", "default_title": "Hair Transplant in Turkey - NHT", "default_popup": "popup.html"}}

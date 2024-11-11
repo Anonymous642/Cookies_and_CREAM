@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Lien vers monpompier.com", "version": "1.0", "description": "Lien vers monpompier.com", "manifest_version": 2, "icons": {"128": "logo.png"}, "app": {"urls": ["http://monpompier.com/"], "launch": {"web_url": "http://monpompier.com"}}, "permissions": ["http://monpompier.com/"]}

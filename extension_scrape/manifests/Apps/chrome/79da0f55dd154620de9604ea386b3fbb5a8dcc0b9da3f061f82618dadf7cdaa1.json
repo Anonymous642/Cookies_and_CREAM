@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Barclay Primary School", "description": "Barclay Primary School", "version": "1.4", "icons": {"128": "Barclay.png"}, "app": {"urls": ["http://www.barclayprimary.net/"], "launch": {"web_url": "http://www.barclayprimary.net/"}}, "permissions": ["unlimitedStorage", "notifications"]}

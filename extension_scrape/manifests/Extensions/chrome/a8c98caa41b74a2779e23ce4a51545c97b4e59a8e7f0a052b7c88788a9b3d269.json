@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Font \u2702", "description": "", "version": "0.0.0.1", "browser_action": {"default_title": "Font \u2702", "default_popup": "popup.html"}, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'", "manifest_version": 2}

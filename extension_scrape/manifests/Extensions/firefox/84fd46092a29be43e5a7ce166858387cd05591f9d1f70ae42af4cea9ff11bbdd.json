@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Shorts Redirector", "version": "1.1", "description": "Converts YouTube 'shorts' to normal videos", "icons": {"48": "icons/icon.svg"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{8781f0bb-6c07-4228-a373-548c5cbee224}"}}}

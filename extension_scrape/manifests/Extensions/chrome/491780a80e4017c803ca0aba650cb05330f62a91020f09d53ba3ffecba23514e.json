@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Post Ghosts", "description": "turns the word 'post' into 'ghost'", "version": "0.0.1", "icons": {"16": "ghost16.png", "48": "ghost48.png", "128": "ghost128.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

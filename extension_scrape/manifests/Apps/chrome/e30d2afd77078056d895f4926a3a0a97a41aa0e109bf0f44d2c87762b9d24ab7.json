@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "brew-controller", "short_name": "brew-controller", "description": "", "version": "0.3.5", "minimum_chrome_version": "38", "permissions": ["storage", "serial"], "icons": {"256": "assets/icon_256.png"}, "app": {"background": {"scripts": ["background.js"]}}}

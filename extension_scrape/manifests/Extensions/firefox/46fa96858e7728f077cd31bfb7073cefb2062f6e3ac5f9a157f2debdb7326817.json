@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search Engines Launcher", "description": "Quickly Launch Your Favourite Search Engine ", "version": "1.9", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab"]}

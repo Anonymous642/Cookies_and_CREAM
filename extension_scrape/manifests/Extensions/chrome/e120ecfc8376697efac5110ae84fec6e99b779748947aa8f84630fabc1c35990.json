@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bold ViewPoint", "version": "1.0", "description": "Sets all text to bold on viewpoint.iress.com.au", "manifest_version": 2, "content_scripts": [{"matches": ["https://viewpoint.iress.com.au/*"], "js": ["boldbody.js"]}], "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

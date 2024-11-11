@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Most Visited Sites", "version": "3", "description": "It utilizes the chrome.topSites API to access and retrieve the list of sites most frequently visited by the user.", "permissions": ["topSites"], "action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "manifest_version": 3}

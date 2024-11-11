@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Dark Energy", "description": "Kill those damn aliens !", "version": "2.1", "manifest_version": 2, "icons": {"128": "de_128.png"}, "app": {"urls": ["http://insomniak-dev.com/darkenergy"], "launch": {"web_url": "http://insomniak-dev.com/darkenergy"}}}

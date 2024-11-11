@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "0.1", "name": "downvote-hider", "description": "Removes downvote buttons from replies on Twitter.com.", "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{0e9c9268-59c1-43af-a934-0dd054dd9662}"}}}

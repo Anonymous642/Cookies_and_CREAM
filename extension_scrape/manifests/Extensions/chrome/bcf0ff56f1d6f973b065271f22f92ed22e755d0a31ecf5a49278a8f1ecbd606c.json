@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GeoGuessr Cheat", "version": "1.0", "manifest_version": 2, "content_scripts": [{"matches": ["http://*.geoguessr.com/*", "https://*.geoguessr.com/*"], "js": ["server.js"]}], "browser_action": {"default_popup": "popup.html", "default_title": "GeoGuessr Cheat"}, "permissions": ["activeTab"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Alphabets", "description": "Learning alphabets.", "manifest_version": 2, "minimum_chrome_version": "23", "version": "2.4", "offline_enabled": true, "app": {"background": {"scripts": ["main.js"]}}, "permissions": ["clipboardWrite"], "short_name": "Learn Alphabtes", "icons": {"128": "img/school.png"}}

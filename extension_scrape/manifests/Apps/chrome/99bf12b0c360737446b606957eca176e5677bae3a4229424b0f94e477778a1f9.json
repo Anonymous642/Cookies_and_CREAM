@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Nebula3 NaCl Demo", "description": "Nebula3 running in Google Native Client!", "version": "0.0.7", "manifest_version": 2, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "app": {"launch": {"local_path": "index.html"}}}

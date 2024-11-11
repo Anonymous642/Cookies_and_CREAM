@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Dark Theme", "action": {}, "manifest_version": 3, "version": "0.1", "description": "Turns the page dark when you click the icon", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}, "icons": {"16": "icon.png", "32": "icon.png", "48": "icon.png", "128": "icon.png"}}

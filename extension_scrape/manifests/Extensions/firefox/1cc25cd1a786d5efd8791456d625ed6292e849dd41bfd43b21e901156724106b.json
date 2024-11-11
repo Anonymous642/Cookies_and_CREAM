@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Hide Controls", "version": "1.2", "description": "Hides YouTube media controls on pause.", "icons": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{67782b72-dd54-4c70-af87-93a07a817f9c}"}}}

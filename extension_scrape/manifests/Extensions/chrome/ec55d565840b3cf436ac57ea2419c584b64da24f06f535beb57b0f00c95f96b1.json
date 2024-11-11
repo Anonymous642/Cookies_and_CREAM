@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.1.0", "manifest_version": 3, "name": "Taskaid Chrome Extension", "description": "This Chrome extension helps users organize their tasks into a list", "action": {"default_popup": "js/index.html", "default_title": "Taskaid Chrome Extension"}}

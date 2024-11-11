@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Yeti Bowl The Game", "description": "You are the Yeti and you defend your ground from the evil hikers", "version": "1", "manifest_version": 2, "app": {"launch": {"web_url": "http://yetibowl.azurewebsites.net/game.html"}}, "icons": {"128": "tile_128.png"}}

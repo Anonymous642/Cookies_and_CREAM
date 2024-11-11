@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SimpleFinde: Video Shopping Simplified", "version": "1.0.1", "description": "Welcome to SimpleFinde", "icons": {"128": "/extension-logo.png"}, "permissions": ["activeTab"], "host_permissions": ["http://*/", "https://*/"], "action": {"default_popup": "index.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Simple Tab Exporter", "version": "1.0.2", "description": "This add-on create a list of opened tabs which can be emailed for backup purposes", "browser_action": {"default_title": "Simple Tab Exporter"}, "background": {"scripts": ["listener.js"]}, "permissions": ["activeTab", "tabs"]}

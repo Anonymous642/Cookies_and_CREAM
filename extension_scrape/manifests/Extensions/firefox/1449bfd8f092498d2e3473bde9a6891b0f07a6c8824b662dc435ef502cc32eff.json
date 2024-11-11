@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ytaddskip", "version": "1.0", "description": ".", "permissions": ["tabs", "<all_urls>"], "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{4ac491ae-1d42-4fb7-bf12-66eaa7f4f5d8}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YTMusic Volume Visualize", "version": "1.0", "description": "YTMusic Volume Visualize", "icons": {"512": "logoiconlow.png"}, "content_scripts": [{"matches": ["https://music.youtube.com/*"], "js": ["content.js"]}]}

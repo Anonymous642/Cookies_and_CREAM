@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Better Flow", "version": "5", "description": "Makes Flow less crap", "permissions": ["activeTab", "tabs", "http://*/*", "https://*/*"], "content_scripts": [{"matches": ["https://srv-flow-p.erp.ri.se/Novacura.Flow.PROD.WebClient/*"], "css": ["styles.css"]}], "browser_specific_settings": {"gecko": {"id": "{93b45df4-b439-4d23-acc6-3395c7035bf0}"}}}

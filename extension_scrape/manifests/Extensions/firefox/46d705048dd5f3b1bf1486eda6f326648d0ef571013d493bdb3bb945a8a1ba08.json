@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Display Access Keys", "version": "1.0", "description": "Identifies and displays access keys on the current webpage.", "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "displayaccesskeys@gmail.com"}}, "background": {"scripts": ["background.js"], "persistent": false}}

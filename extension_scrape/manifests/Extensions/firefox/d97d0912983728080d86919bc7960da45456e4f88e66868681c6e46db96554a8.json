@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "'Roni", "version": "1.2", "description": "An add-on that helps make reading COVID-19 news less of a bummer", "icons": {"48": "icon--48.png", "64": "icon--64.png", "128": "icon--128.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["roni.js"]}]}

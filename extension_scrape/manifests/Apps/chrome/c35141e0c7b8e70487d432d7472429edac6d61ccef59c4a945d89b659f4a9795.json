@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Fax Webconexio", "version": "4", "permissions": ["webview"], "default_locale": "fr", "description": "__MSG_appDesc__", "icons": {"128": "icon_128.png"}, "app": {"background": {"scripts": ["background.js"]}}, "minimum_chrome_version": "28"}

@@ -1,0 +1,1 @@
+{"browser_specific_settings": {"gecko": {"id": "{20fd2ccb-6c7c-4a81-8bd3-e8b59c6e0cae}"}}, "manifest_version": 3, "name": "Radiance", "action": {"default_title": "LostTime", "default_popup": "popup.html"}, "permissions": ["storage"], "version": "1.0.3", "content_scripts": [{"matches": ["https://*.facebook.com/marketplace/*"], "js": ["script.js"]}]}

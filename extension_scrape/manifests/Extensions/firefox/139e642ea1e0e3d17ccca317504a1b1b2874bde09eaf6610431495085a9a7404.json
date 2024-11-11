@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HideCheckmarks", "version": "1.1", "description": "removes verification checkmark from youtube", "icons": {"48": "icons/check.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["checkmark.js"]}]}

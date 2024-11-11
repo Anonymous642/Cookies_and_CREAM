@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Terveysportti Fullscreen", "description": "Lis\u00e4\u00e4 Terveysportin L\u00e4\u00e4k\u00e4rin k\u00e4sikirjaan koko ruutu -tilan", "version": "0.1", "content_scripts": [{"matches": ["*://*.terveysportti.fi/dtk/ltk*", "*://*.terveysportti.fi.libproxy.helsinki.fi/dtk/ltk*"], "js": ["jquery-3.1.1.min.js", "terveysportti.js"]}]}

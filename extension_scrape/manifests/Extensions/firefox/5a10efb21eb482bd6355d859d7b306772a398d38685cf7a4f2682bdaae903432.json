@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HTTP Warner", "version": "1.0", "description": "Warns you on http:// sites with no SSL", "content_scripts": [{"matches": ["http://*/*"], "js": ["app.js"]}], "permissions": ["http://*/*"], "icons": {"32": "icons/w.png"}}

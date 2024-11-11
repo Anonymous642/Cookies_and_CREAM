@@ -1,0 +1,1 @@
+{"name": "Smarkets Colours", "description": "Changes the green & blue colour scheme of Smarkets to the blue & pink colour scheme seen in Betfair and Matchbook", "version": "1.0", "manifest_version": 2, "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "content_scripts": [{"matches": ["*://*.smarkets.com/*"], "js": ["smarketscolours.js"]}]}

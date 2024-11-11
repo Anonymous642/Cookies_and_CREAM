@@ -1,0 +1,1 @@
+{"manifest_version": 2, "author": "Lucius Q. User", "content_scripts": [{"all_frames": true, "js": ["main.js"], "matches": ["<all_urls>"]}], "description": "Makes Ctrl/Cmd-click not switch focused tab for rel=\"external\" links.", "name": "Just let me open background tabs", "short_name": "Ctrl-bckgrnd", "version": "0.1.0"}

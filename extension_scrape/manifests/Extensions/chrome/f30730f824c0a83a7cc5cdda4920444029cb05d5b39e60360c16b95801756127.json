@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "g-jp-search", "version": "0.0.0.2", "manifest_version": 2, "description": "Japanese Search", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["https://www.google.co.jp/*", "https://www.google.com/*"], "js": ["jquery.min.js", "script.js"], "run_at": "document_start"}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "version": "1.0.3", "name": "Sovmestnyepokupki Omskmama Integration", "content_scripts": [{"js": ["omskmama.user.js"], "matches": ["http://forum.omskmama.ru/*", "https://forum.omskmama.ru/*"], "run_at": "document_end", "all_frames": true}]}

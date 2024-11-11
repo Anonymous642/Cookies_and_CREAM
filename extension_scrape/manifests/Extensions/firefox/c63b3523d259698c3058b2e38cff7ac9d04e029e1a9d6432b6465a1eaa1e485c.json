@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ForceFull", "version": "1.0.2", "description": "Switch Firefox to fullscreen mode on start-up, for kiosk purposes", "background": {"scripts": ["forcefull.js"]}, "applications": {"gecko": {"id": "forcefull@shdon.com"}}, "icons": {"48": "icon.png", "96": "icon@2x.png"}}

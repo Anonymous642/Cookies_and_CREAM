@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DontSideSearch", "version": "1.1", "description": "Google search for selected text. Bypass chrome sidebar search.", "icons": {"48": "icon.png"}, "permissions": ["contextMenus"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html"}}

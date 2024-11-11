@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Hull University Buddy", "description": "The Hull University Buddy browser extension is a helpful tool for students to use.", "version": "1.6.2", "icons": {"128": "icon_128.png"}, "browser_action": {"default_action": "icon.png", "default_popup": "homepage_popup.html"}}

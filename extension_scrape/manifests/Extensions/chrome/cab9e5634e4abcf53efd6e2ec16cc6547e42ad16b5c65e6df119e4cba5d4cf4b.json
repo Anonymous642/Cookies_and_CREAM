@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AMATEURS Tabs, Olympics medalists since 1896", "version": "1.0", "icons": {"128": "images/icon.png"}, "chrome_url_overrides": {"newtab": "myPage.html"}}

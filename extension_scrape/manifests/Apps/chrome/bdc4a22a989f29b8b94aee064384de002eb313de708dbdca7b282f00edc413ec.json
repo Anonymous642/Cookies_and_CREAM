@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Plan well. Eat well.", "description": "Meal planning made simple.", "version": "1.0", "app": {"urls": ["http://www.planwelleatwell.com/"], "launch": {"web_url": "http://www.planwelleatwell.com/"}}, "icons": {"128": "icon_128.png"}, "permissions": []}

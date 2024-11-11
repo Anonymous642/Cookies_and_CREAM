@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BBE library manager", "version": "0.1.0", "description": "Manager de biblioth\u00e8que pdf", "content_scripts": [{"matches": ["https://black-book-editions.fr/mon_compte.php?a=pdf*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{4ced6dec-e980-4cf9-ae81-ff38d61813ae}"}}}

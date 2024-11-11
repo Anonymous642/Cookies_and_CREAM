@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Inspirational New Tab", "version": "1.0", "description": "Start your browsing with a motivational quote on each new tab.", "permissions": ["storage"], "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"48": "icons/motivation-48.png"}, "browser_specific_settings": {"gecko": {"id": "{3c76593a-090b-4934-9abf-2faa7d0050f7}"}}}

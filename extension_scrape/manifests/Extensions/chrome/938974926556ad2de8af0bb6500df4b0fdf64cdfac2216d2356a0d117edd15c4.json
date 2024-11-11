@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "flash.me", "version": "0.0.0.4", "manifest_version": 3, "description": "flashcards, in a flash,... pin this extension on your browser so it works!", "icons": {"512": "logo512.png"}, "permissions": ["activeTab", "storage"], "action": {"default_icon": "logo512.png", "default_popup": "popup.html"}}

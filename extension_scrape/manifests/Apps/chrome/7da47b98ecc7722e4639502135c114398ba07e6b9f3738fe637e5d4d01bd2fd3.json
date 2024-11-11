@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Whatsmyvertical", "version": "1.1", "manifest_version": 2, "description": "Measure your vertical jump using video analysis", "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.whatsmyvertical.com/"], "launch": {"web_url": "http://www.whatsmyvertical.com/measurement-app/"}}}

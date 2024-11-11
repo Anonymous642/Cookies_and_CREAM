@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "archive-dl", "version": "0", "description": "adds metadata xml links to stream_only archive.org pages", "icons": {"48": "icons/archive-dl_48.png", "96": "icons/archive-dl_96.png"}, "content_scripts": [{"matches": ["*://*.archive.org/*"], "js": ["archive-dl.js"]}]}

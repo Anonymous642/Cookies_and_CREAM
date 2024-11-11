@@ -1,0 +1,1 @@
+{"description": "Always redirect to old.reddit.com", "manifest_version": 2, "name": "always-old-reddit", "version": "1.0.2", "permissions": ["webRequest", "webRequestBlocking", "https://*.reddit.com/"], "background": {"scripts": ["background.js"]}}

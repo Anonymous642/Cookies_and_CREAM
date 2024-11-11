@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SG Markdown", "description": "Markdown Editor that support Myanmar Unicode. It allow to download markdown file and HTML file.", "version": "1.0.1", "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["storage"], "icons": {"128": "icon-128.png"}}

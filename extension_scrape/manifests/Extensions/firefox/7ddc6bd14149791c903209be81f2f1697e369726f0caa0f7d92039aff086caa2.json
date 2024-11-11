@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "History in Threads", "version": "2.3.4", "default_locale": "zh", "description": "Display browsing history in threads.", "sidebar_action": {"default_icon": "icons/icon.png", "default_title": "History in Threads", "default_panel": "sidebar/main.html"}, "icons": {"64": "icons/icon.png"}, "permissions": ["history"]}

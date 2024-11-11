@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Google Keep", "version": "1.0", "description": "Google Keep button", "background": {"scripts": ["button.js"]}, "browser_action": {"default_icon": {"48": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{2bb5be57-7c0f-44c1-95c1-9cf92623d40d}"}}}

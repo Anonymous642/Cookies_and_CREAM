@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "FlexPOS - FlexSystem", "description": "Bagend system for FlexPOS", "version": "3", "icons": {"24": "24.png", "128": "128.png"}, "app": {"urls": ["https://flexsystem.ngg-int.com/"], "launch": {"web_url": "https://flexsystem.ngg-int.com/"}}, "permissions": ["geolocation"], "manifest_version": 2}

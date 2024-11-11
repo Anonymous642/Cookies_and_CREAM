@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Fixmation", "description": "Corre\u00e7\u00e3o das legendas da Funimation", "version": "1.0", "browser_action": {"default_icon": "icon.png"}, "content_scripts": [{"matches": ["http://www.funimation.com/*", "https://www.funimation.com/*"], "js": ["app.js"]}]}

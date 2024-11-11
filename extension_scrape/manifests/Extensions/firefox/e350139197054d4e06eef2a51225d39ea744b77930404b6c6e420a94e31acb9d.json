@@ -1,0 +1,1 @@
+{"name": "lequipe.fr pour les non abonn\u00e9s", "description": "Supprime les liens vers les articles pour les abonn\u00e9s du site lequipe.fr.", "version": "0.2", "content_scripts": [{"matches": ["*://*.lequipe.fr/*"], "js": ["script.js"]}], "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "manifest_version": 2}

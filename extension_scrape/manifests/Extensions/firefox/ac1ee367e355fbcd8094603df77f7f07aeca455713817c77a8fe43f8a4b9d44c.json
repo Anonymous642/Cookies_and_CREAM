@@ -1,0 +1,1 @@
+{"description": "Simple analog clock on toolbar", "name": "Analog Clock", "version": "1.6", "manifest_version": 2, "applications": {"gecko": {"id": "anaclock@mozilla.org"}}, "browser_action": {"default_popup": "options.html"}, "background": {"page": "anaclock.html"}, "permissions": ["storage"]}

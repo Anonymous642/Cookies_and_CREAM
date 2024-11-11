@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ARKFORUM.DE", "description": "Deutsches ARK:Survival Evolved Forum.", "version": "1.0.0.0", "icons": {"128": "arklogo.png"}, "app": {"urls": ["http://www.arkforum.de/"], "launch": {"web_url": "http://www.arkforum.de/"}}}

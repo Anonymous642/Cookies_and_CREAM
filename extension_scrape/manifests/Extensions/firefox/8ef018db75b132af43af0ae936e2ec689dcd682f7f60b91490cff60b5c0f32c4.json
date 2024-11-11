@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "thumbnailViewer", "version": "1.4", "description": "Displays Youtube Thumbnail", "browser_specific_settings": {"gecko": {"id": "titan@owo.help", "strict_min_version": "68.0"}}, "background": {"scripts": ["thumbnailViewer.js"]}, "browser_action": {"default_icon": {"16": "icons/icon.png"}}, "permissions": ["activeTab"]}

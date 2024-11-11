@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tweet Percent", "version": "0.1.0", "description": "Replaces the likes and views with a like percentage.", "content_scripts": [{"js": ["package/jquery-3.6.3.min.js", "main.js"], "matches": ["https://twitter.com/home"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "chrome-blocking", "version": "1.0", "minimum_chrome_version": "90.0", "description": "chrome-blocking", "manifest_version": 3, "permissions": ["webNavigation"], "background": {"service_worker": "background.js"}, "host_permissions": ["*://*/*"]}

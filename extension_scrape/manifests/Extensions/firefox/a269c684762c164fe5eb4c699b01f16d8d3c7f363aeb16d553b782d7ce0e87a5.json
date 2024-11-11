@@ -1,0 +1,1 @@
+{"description": "Make it Chrome.", "manifest_version": 2, "name": "krtl-ua", "version": "0.0.1", "homepage_url": "https://krtl.top", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "icons": {"512": "icons/default.png"}, "browser_specific_settings": {"gecko": {"id": "{8b574be8-bb0c-49a3-8d35-551138cf89b9}"}}}

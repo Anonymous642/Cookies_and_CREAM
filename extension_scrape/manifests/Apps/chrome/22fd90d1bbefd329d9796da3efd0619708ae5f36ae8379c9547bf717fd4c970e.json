@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Zombietar", "version": "0.0.1", "default_locale": "en", "description": "__MSG_appDesc__", "author": "Ivan Reyn\u00e9", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://zombietar.framiq.com/"], "launch": {"web_url": "http://zombietar.framiq.com/"}}, "permissions": []}

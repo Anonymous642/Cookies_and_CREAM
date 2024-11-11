@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Firahub", "version": "1.0", "description": "Changes the font on Github to Fira Code Mono.", "content_scripts": [{"matches": ["*://github.com/*"], "js": ["firahub.js"]}]}

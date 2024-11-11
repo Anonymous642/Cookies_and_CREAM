@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Flipada", "description": "Nuestra Misi\u00f3n es Entretenerte.", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.flipada.com/"], "launch": {"web_url": "http://www.flipada.com/"}}}

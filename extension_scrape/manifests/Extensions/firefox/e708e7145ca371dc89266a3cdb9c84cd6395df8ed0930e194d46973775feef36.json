@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "gradient base", "version": "1.0.0", "content_scripts": [{"matches": ["<all_urls>"], "js": ["/content_script.js"]}], "browser_action": {"browser_style": true, "default_icon": {"48": "/icon.svg"}, "default_title": "gradient base", "default_popup": "/popup.html"}, "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Papyrus", "description": "Open a new tab and write your best thoughts.", "version": "0.0.2", "manifest_version": 2, "permissions": ["storage", "tabs"], "chrome_url_overrides": {"newtab": "newtab.html"}}

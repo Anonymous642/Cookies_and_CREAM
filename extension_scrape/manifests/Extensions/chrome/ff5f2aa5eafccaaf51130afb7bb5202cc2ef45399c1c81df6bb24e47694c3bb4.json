@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "FireImg Uploader for Google Chrome\u2122", "description": "One-Click image upload for FireImg.net", "version": "0.0.1", "permissions": ["contextMenus", "tabs", "http://*.fireimg.net/"], "background": {"scripts": ["jquery.min.js", "main.js"]}, "icons": {"16": "icon.png"}}

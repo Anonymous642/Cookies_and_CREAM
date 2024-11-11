@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove1337xOverlay", "version": "1.2", "description": "Removes the invisible clickable overlay on 1337x.", "content_scripts": [{"matches": ["*://*.mozilla.org/*"], "js": ["remove-overlay.js"]}], "browser_specific_settings": {"gecko": {"id": "{af90ce56-d8da-4703-b6db-cd502c6fa708}"}}}

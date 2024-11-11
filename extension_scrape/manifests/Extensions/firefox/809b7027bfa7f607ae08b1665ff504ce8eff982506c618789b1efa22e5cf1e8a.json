@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Go To Roblox Profile", "version": "1.2", "browser_action": {"default_icon": {"16": "rpficon16.png", "24": "rpficon24.png", "32": "rpficon32.png", "48": "rpficon48.png", "64": "rpficon64.png", "128": "rpficon128.png"}, "default_title": "Go To Roblox Profile", "default_popup": "popup.html"}}

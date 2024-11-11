@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mako Player", "version": "1.1", "description": "removes cursor from player after 1s of inactivity", "icons": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}, "content_scripts": [{"matches": ["*://*.mako.co.il/*"], "js": ["index.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Remember Me! Yearbooks", "description": "Create Yearbooks Online!", "version": "0.0.0.2", "manifest_version": 2, "icons": {"128": "rm-social-icon-green-btn.png"}, "app": {"urls": ["http://www.remembermeyearbooks.com//"], "launch": {"web_url": "http://www.remembermeyearbooks.com/"}}}

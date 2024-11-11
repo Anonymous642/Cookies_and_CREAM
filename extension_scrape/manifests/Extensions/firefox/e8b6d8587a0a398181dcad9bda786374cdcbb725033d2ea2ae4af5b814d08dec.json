@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AutoQlicker", "version": "1.0", "description": "automatically answers qlicker questions", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://qlicker.queensu.ca/*"], "js": ["content.js"]}], "icons": {"100": "favicon.png"}, "browser_specific_settings": {"gecko": {"id": "{afd7ed25-624b-429a-9584-c7277bf5adbe}"}}}

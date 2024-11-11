@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "EZ Form Filler", "description": "Chrome App", "version": "2.4", "manifest_version": 2, "container": "GOOGLE_DRIVE", "api_console_project_id": "367434952293", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "calculator-16.png", "128": "calculator-128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ShoppersLocationDistance", "version": "0.2", "manifest_version": 2, "description": "Find distances of the locations", "icons": {"128": "icon128.png"}, "content_scripts": [{"matches": ["http://jobs.shoppersdrugmart.ca/search/*"], "js": ["shoppersLocationDistance.js"]}]}

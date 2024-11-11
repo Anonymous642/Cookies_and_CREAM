@@ -1,0 +1,1 @@
+{"name": "\u8ba1\u7b97\u5668", "description": "\u8ba1\u7b97\u5668\u5f00\u53d1", "version": "0.0.2", "manifest_version": 2, "browser_action": {"default_popup": "popup.html"}, "content_security_policy": "script-src 'self' blob:; object-src 'self'", "browser_specific_settings": {"gecko": {"id": "{97d84cea-9ba5-4d8e-a9e5-0de8ba944463}"}}}

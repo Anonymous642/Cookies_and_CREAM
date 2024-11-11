@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://apaebrasil.org.br/"], "launch": {"web_url": "http://apaebrasil.org.br/"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Rede Fenapaes", "name": "Apae Brasil", "permissions": ["unlimitedStorage", "notifications"], "icons": {"128": "apaebrasil.png"}, "manifest_version": 2, "version": "1.1"}

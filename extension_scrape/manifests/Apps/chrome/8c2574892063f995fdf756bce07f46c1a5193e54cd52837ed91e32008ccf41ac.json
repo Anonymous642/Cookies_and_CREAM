@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "R", "description": "Play as the helpless block and avoid the red missiles!", "version": "2.3.1", "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "favicon.ico", "24": "440X280_Banner.png", "128": "Icon.png"}, "manifest_version": 2, "permissions": ["unlimited_storage", "notifications"]}

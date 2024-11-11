@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tabber", "version": "1.0", "description": "Scrolls through tabs but skips pinned tabs.", "icons": {"48": "icons/knob-48.png"}, "commands": {"tab-up": {"suggested_key": {"default": "Ctrl+Shift+9"}}, "tab-down": {"suggested_key": {"default": "Ctrl+Shift+0"}}}, "background": {"scripts": ["background-script.js"]}, "permissions": ["tabs"]}

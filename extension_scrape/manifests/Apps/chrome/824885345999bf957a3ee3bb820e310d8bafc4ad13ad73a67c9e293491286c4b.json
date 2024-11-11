@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "CosaOrdino.it", "description": "Ordina online dai migliori ristoranti della tua citt\u00e0", "version": "2.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.cosaordino.it/"], "launch": {"web_url": "http://www.cosaordino.it/"}}}

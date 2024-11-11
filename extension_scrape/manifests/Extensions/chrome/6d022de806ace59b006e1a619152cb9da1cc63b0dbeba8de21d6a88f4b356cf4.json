@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Clean Twitch Chat", "version": "1.0.7", "description": "Removes/allows toggling of UI elements around Twitch's chat", "manifest_version": 3, "content_scripts": [{"matches": ["https://www.twitch.tv/*"], "css": ["styling.css"], "js": ["jquery.min.js", "content.js"]}]}

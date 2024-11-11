@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "\u4fee\u6539\u7f51\u9875\u6587\u672c\u5de5\u5177", "version": "1.0.1", "description": "\u4fee\u6539\u7f51\u9875\u6587\u672c\u5de5\u5177", "icons": {"32": "icons/stick_32.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["index.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Easy NIF", "version": "1.0", "description": "Generate a NIF for tests in just 1 click!", "action": {"default_popup": "index.html", "default_icon": "/Images/bandeira16.png"}, "icons": {"16": "/Images/bandeira16.png", "48": "/Images/bandeira48.png", "128": "/Images/bandeira128.png"}, "manifest_version": 3}

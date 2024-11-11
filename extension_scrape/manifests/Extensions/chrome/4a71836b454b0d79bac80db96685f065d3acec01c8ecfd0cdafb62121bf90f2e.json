@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ExtraLife Garage Personal Remover", "description": "Removes Personal Vehicles from the Full Vehicle Catalog", "version": "1.0", "author": "Connor Wright", "content_scripts": [{"matches": ["https://garage.extralife.gg/catalog"], "js": ["content.js"]}]}

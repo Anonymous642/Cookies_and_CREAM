@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Viewler", "version": "1.0", "description": "Viewport based (vh & vw) page ruler.", "browser_action": {"default_popup": "popup.html"}, "permissions": ["activeTab", "scripting"], "icons": {"32": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{822a1d27-ac6d-40e5-95ba-8b75c9a4d177}"}}}

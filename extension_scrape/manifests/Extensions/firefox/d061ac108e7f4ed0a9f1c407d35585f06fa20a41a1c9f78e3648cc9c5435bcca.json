@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "CDF to VND", "version": "1.0", "description": "Convert CDF to VND", "browser_specific_settings": {"gecko": {"id": "cdf-to-vnd@example.com"}}}

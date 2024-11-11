@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Prefer Following", "version": "1.1", "description": "An extension that clicks to Following tab for you everytime you refresh Twitter.", "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["twitter.js"]}], "browser_specific_settings": {"gecko": {"id": "{58ccd637-139c-4e96-82e4-34a93724ef7a}"}}}

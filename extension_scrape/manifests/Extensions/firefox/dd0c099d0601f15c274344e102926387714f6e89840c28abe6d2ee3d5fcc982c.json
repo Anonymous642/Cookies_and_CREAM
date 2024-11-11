@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Open With Instagram", "version": "1.0", "description": "Use selected text as Instagram ID and open in new tab.", "icons": {"48": "icon.png"}, "background": {"scripts": ["index.js"]}, "permissions": ["contextMenus", "menus", "tabs", "activeTab"]}

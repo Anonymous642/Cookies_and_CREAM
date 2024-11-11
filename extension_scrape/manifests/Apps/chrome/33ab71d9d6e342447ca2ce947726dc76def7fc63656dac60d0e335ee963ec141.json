@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "DNAN app", "descripcion": "Hecho por nutricionistas, para nutricionistas", "version": "0.2", "app": {"background": {"scripts": ["app/js/background.js"]}}, "icons": {"16": "app/img/icon_16.png", "128": "app/img/icon_128.png"}, "permissions": ["http://www.denutricionistaanutricionista.com/"]}

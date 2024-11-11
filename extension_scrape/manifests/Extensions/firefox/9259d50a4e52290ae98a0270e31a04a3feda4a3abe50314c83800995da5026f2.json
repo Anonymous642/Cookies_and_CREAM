@@ -1,0 +1,1 @@
+{"name": "My Weather", "version": "1.4", "description": "5-Day Weather Forecast Of Your City", "icons": {"128": "images/weather128.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "images/My-Weather-Square.jpg"}, "manifest_version": 2}

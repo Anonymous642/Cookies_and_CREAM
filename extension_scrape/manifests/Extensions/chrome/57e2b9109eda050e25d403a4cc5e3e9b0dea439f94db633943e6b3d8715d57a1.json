@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Wide GitHub Notebooks", "version": "0.0.1", "description": "Make ipynb files wider in GitHub", "manifest_version": 3, "author": "Ionox0", "action": {"default_icon": "icon.png"}, "content_scripts": [{"js": ["wide_github.js"], "matches": ["https://github.com/*"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Gold Miner", "description": "A gold mining game", "version": "0.2", "manifest_version": 2, "app": {"urls": ["http://bigbub.net/", "http://www.bigbub.net/"], "launch": {"web_url": "http://bigbub.net/games/goldminer/"}}, "icons": {"128": "icon_128.png"}, "permissions": ["notifications"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "DaFuckingNoCosplay", "version": "1.0", "permissions": ["*://*.dafuckingblueboy.com/*"], "description": "D\u00e9tecte les liens renvoyant vers la page Facebook Danstoncosplay.", "content_scripts": [{"matches": ["*://*.dafuckingblueboy.com/*"], "js": ["jquery.min.js", "detect.js"]}], "manifest_version": 2}

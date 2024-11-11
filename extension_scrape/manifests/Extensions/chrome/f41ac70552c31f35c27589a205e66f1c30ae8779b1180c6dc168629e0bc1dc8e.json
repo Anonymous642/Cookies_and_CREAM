@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Observer LITE by Rooster", "description": "Easily LingQ definitions to unencountered words", "version": "1.15", "content_scripts": [{"matches": ["https://www.lingq.com/*/learn/*/web/reader/*"], "js": ["content.js"]}], "host_permissions": ["https://www.lingq.com/*"]}

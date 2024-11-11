@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ruse Water Monitor", "description": "Monitor Ruse's Water Usage", "version": "1.28", "author": "Jerry Sun", "action": {"default_icon": "icon (1).png", "default_popup": "popup.html", "default_title": "Ruse Water Monitor"}}

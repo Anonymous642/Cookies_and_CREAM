@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Boomer", "version": "0.2", "description": "A game for the browser.", "icons": {"48": "icons/boomer-48.png"}, "browser_action": {"default_icon": "icons/boomer-32.png", "default_title": "Boomer", "default_popup": "popup/boomer.html"}, "browser_specific_settings": {"gecko": {"id": "{e2e7a312-9935-4b84-a565-c81cf8c0b649}"}}}

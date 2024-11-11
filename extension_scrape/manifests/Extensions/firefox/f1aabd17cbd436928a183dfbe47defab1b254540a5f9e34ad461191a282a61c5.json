@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "blockchain-to-fairly-slow-database", "version": "0.1", "description": "replace 'blockchain' with 'fairly slow database'", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"]}], "permissions": [], "browser_action": {"default_title": "'blockchain' to 'fairly slow database'", "default_icon": {"64": "icon.png"}}}

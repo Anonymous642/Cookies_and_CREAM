@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Is it Saturday?", "version": "1.0", "manifest_version": 2, "description": "Tells you if it is Saturday in any timezone UTC+14 to UTC-12", "permissions": ["alarms"], "browser_action": {"default_icon": "no.png"}, "background": {"scripts": ["background.js"], "persistent": false}}

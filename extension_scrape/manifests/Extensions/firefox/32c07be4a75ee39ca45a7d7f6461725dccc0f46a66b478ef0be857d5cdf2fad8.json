@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CyVon Click2Dial", "version": "1.1", "description": "Adds tel and callto urls to pages.", "icons": {"48": "icon48.png"}, "content_scripts": [{"exclude_globs": [], "include_globs": ["*"], "matches": ["*://*/*"], "js": ["CyVonClick2Dial.user.js"], "run_at": "document_end"}]}

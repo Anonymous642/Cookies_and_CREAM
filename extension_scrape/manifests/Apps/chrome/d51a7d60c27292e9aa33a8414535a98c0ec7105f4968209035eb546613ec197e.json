@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CamioCam Viewer", "description": "Smart Video Monitoring for your IP-connected cameras", "version": "2.1", "manifest_version": 2, "app": {"urls": ["*://www.camiocam.com/app/"], "launch": {"web_url": "http://www.camiocam.com/app/"}}, "icons": {"128": "icon_128.png"}, "permissions": []}

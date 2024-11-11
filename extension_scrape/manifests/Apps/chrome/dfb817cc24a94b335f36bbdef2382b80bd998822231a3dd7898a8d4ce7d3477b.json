@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Q Learning", "version": "1.4.1", "icons": {"128": "www/images/chrome-app-logo.png"}, "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["storage", "<all_urls>", {"fileSystem": ["write", "directory"]}, "unlimitedStorage", "alwaysOnTopWindows", "webview"]}

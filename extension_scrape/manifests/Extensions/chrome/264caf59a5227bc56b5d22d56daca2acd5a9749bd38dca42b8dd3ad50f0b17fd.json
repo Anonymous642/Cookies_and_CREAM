@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WTM-extension", "description": "Extension for advanced filtering of Working Time Management app.", "version": "4.0", "permissions": ["debugger"], "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icon.png", "default_title": "WTM-extension"}, "manifest_version": 2}

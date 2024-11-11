@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WikipediaMobileOnly", "version": "1.0", "description": "Automatically redirects You from the normal Wikipedia site to the mobile version because, well, it looks better", "icons": {"48": "icons/wikipedia48.ico"}, "applications": {"gecko": {"id": "kppublic@posteo.de"}}, "content_scripts": [{"matches": ["*://*.wikipedia.org/*"], "js": ["main.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Serenity", "short_name": "serenity", "version": "0.1.0", "description": "A minimal new tab page to track your happiness.", "chrome_url_overrides": {"newtab": "index.html"}}

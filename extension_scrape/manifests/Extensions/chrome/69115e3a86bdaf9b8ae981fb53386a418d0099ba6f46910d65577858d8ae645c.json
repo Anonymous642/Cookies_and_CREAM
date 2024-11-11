@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Netease Cloud Music Search", "version": "0.0.1", "manifest_version": 2, "description": "Add Netease Cloud Music search engine", "omnibox": {"keyword": "music"}, "icons": {"128": "icon_128.png", "640": "icon_640.png"}, "background": {"scripts": ["background.js"]}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Warmerise | Red vs Blue", "description": "Browser Based Online First Person Shooter with Futuristic Theme", "version": "1.8.5", "manifest_version": 2, "icons": {"128": "128_warmerise_icon.png"}, "app": {"launch": {"web_url": "http://warmerise.com/RedvsBlue"}}}

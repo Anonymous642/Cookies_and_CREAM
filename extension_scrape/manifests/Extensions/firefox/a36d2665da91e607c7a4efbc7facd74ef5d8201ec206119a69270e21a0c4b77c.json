@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RLM-add-ZWNJ", "description": "Adds a Zero-Width Non-Joiner after any Right-to-Left Mark characters in the content. This can fix the rendering of some mis-spelled Persian content, for example.", "version": "1.0", "content_scripts": [{"matches": ["<all_urls>"], "js": ["./substitute.js"]}]}

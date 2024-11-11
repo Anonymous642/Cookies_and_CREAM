@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gmx Link Fixer", "version": "0.1", "description": "Fix the links from Gmx.", "permissions": ["*://deref-gmx.net/*"], "icons": {"48": "/images/GLF_icon_48.png", "96": "/images/GLF_icon_96.png"}, "content_scripts": [{"matches": ["*://deref-gmx.net/*"], "js": ["content/main.js"]}]}

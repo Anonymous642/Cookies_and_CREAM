@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Blockdrop!", "description": "Drop blocks to increase your score!", "version": "1.0.4", "manifest_version": 3, "action": {"default_popup": "index.html", "default_icon": "icon.png"}}

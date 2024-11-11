@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search on Twitter", "description": "Selected text Search on Twitter", "version": "1.0", "author": "Semih \u00c7elikol", "homepage_url": "http://semihcelikol.com", "icons": {"48": "icons/icon48.png", "64": "icons/icon64.png", "96": "icons/icon96.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}}

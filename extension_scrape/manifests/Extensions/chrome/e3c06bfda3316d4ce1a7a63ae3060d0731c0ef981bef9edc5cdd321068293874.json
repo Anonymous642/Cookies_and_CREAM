@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Efficient Jira", "description": "Nice helpers when viewing Jira", "version": "0.5", "content_scripts": [{"matches": ["http://jira.norwex.local/*", "http://jira.norwex.com/*"], "js": ["content.js"]}], "icons": {"50": "icon.png"}}

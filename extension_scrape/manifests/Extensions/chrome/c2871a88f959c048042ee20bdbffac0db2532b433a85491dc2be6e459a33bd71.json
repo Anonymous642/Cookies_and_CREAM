@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "version": "0.0.4", "name": "Binemon Stats", "description": "Veja todos os stats dos seus Binemons", "author": "Pauleras", "browser_action": {"default_title": "BineStats", "default_popup": "index.html", "default_icon": "/icon.png"}}

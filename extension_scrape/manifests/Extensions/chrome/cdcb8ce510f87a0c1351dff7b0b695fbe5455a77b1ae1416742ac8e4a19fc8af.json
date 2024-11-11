@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Fairly Dark Blank New Tab", "short_name": "Fairly Dark", "description": "Replaces the default Chrome new tab with an blank dark grey new tab.", "version": "1.6.2", "icons": {"128": "Fairly Dark Blank New Tab Icon.png"}, "chrome_url_overrides": {"newtab": "fairlydark.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Food Days", "description": "A new tab page for when it's a food day!", "version": "1.19", "icons": {"128": "images/icon.png"}, "action": {"default_popup": "popup.html"}, "chrome_url_overrides": {"newtab": "newtab.html"}}

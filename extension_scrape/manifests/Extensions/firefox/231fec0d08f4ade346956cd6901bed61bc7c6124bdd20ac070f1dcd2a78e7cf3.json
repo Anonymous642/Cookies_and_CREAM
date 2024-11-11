@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "IrregularVerbsList", "version": "1.0", "homepage_url": "https://github.com/Enkidu-Chains/IrregularVerbList", "icons": {"48": "/favicon.ico"}, "browser_action": {"default_popup": "/index.html"}, "browser_specific_settings": {"gecko": {"id": "{06bd445a-3e1f-4da5-945e-90c153efdefc}"}}}

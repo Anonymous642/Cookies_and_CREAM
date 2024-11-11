@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HideYouTubeMastheadAds", "version": "1.3", "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["HideYouTubeMastheadAds.js"]}]}

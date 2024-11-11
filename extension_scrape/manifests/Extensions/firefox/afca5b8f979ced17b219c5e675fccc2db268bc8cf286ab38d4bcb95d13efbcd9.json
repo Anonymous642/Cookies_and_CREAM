@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dark orange viewer", "version": "2.0", "description": "dodaje pomara\u0144czowo czarny motyw", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["borderify.js"]}]}

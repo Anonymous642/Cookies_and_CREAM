@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "MovieSpin", "description": "Find the movies you want to watch.", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://moviesp.in/"], "launch": {"web_url": "http://moviesp.in/"}}}

@@ -1,0 +1,1 @@
+{"name": "Focus Idle City", "version": "0.7", "description": "Focus on what's important.", "manifest_version": 2, "browser_action": {"default_popup": "index.html"}, "permissions": ["notifications", "<all_urls>", "tabs"], "background": {"scripts": ["background-script.js"]}, "icons": {"16": "icon-16.png", "48": "icon-48.png", "128": "icon-128.png"}}

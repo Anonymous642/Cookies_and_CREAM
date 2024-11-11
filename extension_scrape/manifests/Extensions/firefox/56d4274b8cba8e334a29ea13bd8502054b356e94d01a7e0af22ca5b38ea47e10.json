@@ -1,0 +1,1 @@
+{"description": "Hi", "manifest_version": 2, "name": "DarkMode", "version": "0.0.1b", "icons": {"48": "icon48.png", "96": "icon96.png"}, "content_scripts": [{"matches": ["https://contenthub.netacad.com/*"], "js": ["script.js"]}]}

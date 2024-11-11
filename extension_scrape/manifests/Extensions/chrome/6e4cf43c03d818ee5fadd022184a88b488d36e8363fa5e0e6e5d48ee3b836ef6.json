@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "version": "1", "name": "DickHead", "description": "A simple extension to change each 'Trump' word in 'DickHead'", "author": "Lucas Estrade", "icons": {"128": "128.png"}, "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["index.js"]}]}

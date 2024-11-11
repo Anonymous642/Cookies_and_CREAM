@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Good Day", "version": "1.0.1", "description": "Has a nice warm message every day.", "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "browser_action": {"default_icon": "icons/48.png", "default_title": "Good Day", "default_popup": "popup/goodday.html"}, "browser_specific_settings": {"gecko": {"id": "{7d55609b-edda-4af4-9b83-323e1117fce0}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Basic New Tab", "version": "1.0", "description": "A dark new tab page with a search bar.", "chrome_url_overrides": {"newtab": "index.html"}, "chrome_settings_overrides": {"homepage": "index.html"}, "permissions": ["search"], "options_ui": {"page": "about.html", "browser_style": true}}

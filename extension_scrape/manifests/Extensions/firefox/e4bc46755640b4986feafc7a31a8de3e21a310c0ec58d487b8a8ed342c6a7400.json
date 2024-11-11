@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Domain Redirector", "version": "1.0", "permissions": ["webRequest", "webRequestBlocking", "storage", "<all_urls>"], "background": {"scripts": ["background.js"]}, "options_ui": {"page": "options.html"}, "browser_specific_settings": {"gecko": {"id": "{326e1082-cb4b-4450-83b1-d03e93b0d9f2}"}}}

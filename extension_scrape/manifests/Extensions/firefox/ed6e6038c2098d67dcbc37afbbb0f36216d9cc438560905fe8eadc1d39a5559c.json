@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove Asana Warning", "description": "this will remove that ugly yellow header from asana", "version": "1.0", "browser_action": {"default_icon": "RAWLogo.png", "default_popup": "devinfo.html"}, "content_scripts": [{"css": ["a.css"], "js": ["content.js"], "matches": ["https://app.asana.com/*"]}], "permissions": ["activeTab", "tabs"]}

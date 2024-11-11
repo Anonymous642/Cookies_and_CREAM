@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "HTML Compactor", "description": "A minimal app that would compact your HTML code.", "version": "0.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "img/html_compactor-16.png", "128": "img/html_compactor-128.png"}}

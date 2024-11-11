@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "HelloWorld", "version": "1.0.23", "offline_enabled": true, "description": "Hello World, in Arabic.", "icons": {"16": "nsb/images/16.png", "128": "nsb/images/128.png"}, "author": "copyright 2012 ABC Company", "app": {"background": {"scripts": ["background.js"]}}}

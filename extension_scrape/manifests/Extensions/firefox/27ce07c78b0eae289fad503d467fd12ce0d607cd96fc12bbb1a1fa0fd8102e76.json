@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Omnibookmarks", "version": "1.0", "omnibox": {"keyword": "b"}, "permissions": ["notifications", "tabs", "bookmarks"], "background": {"scripts": ["background.js"], "persistent": true}, "icons": {"16": "img/icon_16.png", "48": "img/icon_48.png", "128": "img/icon_128.png"}}

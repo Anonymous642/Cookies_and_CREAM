@@ -1,0 +1,1 @@
+{"description": "A reminder to drink some water every two hours.", "homepage_url": "https://github.com/nabendu82/Addons", "icons": {"256": "icons/icon.png"}, "version": "2.0", "manifest_version": 2, "name": "Drink Some Water", "permissions": ["alarms", "notifications"], "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"strict_min_version": "55.0a2"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Studyfree", "version": "1.1.1", "author": "jstinjoy", "icons": {"128": "assets/img/logo128.png"}, "content_scripts": [{"js": ["content/studydrive.js"], "matches": ["https://www.studydrive.net/*/doc/*"]}]}

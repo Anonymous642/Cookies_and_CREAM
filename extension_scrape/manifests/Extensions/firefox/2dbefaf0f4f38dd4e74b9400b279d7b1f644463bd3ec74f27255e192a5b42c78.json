@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fira Github", "version": "1.0.0", "description": "make Github source code Fira Mono & 18px versus... well, not that :~) ", "icons": {"48": "icons/keyboard-48.png"}, "content_scripts": [{"matches": ["*://*.github.com/*"], "js": ["style.js"]}]}

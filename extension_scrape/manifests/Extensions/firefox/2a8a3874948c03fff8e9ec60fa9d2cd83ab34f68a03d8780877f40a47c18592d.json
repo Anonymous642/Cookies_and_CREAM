@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Metronome", "version": "1.2", "background": {"page": "./background/background.html"}, "browser_action": {"default_icon": "/icons/metronome.png", "default_popup": "/popup/popup.html"}, "icons": {"32": "/icons/metronome.png"}, "permissions": ["activeTab", "notifications"]}

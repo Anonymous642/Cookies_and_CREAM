@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Depo-Provera Perpetual Calendar Calculator", "version": "0.5", "icons": {"16": "favicon.png", "128": "favicon.png"}, "description": "Calculate Depo-Provera next injection date range.", "browser_action": {"default_popup": "popup.html"}}

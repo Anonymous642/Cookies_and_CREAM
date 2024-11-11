@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "hCaptchaCantSpell", "version": "1.0", "description": "Fixes hCaptcha's terrible spelling.", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["spellcorrect.js"], "run_at": "document_idle", "all_frames": true}], "browser_specific_settings": {"gecko": {"id": "{ea187314-5585-4fd4-a6e3-78c28534789a}"}}}

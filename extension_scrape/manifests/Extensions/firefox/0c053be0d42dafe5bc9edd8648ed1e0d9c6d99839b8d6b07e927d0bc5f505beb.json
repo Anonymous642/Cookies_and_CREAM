@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GoMoviesPlus [Beta]", "description": "Removes annoying Ads and Banners from GoMovies.Tube [AdBlocker for GoMovies]", "version": "1.1.0", "icons": {"96": "icons/go-400-400.jpg"}, "content_scripts": [{"matches": ["*://*.gomovies.tube/*"], "js": ["content_script.js"]}], "options_ui": {"page": "options/index.html"}, "permissions": ["storage"]}

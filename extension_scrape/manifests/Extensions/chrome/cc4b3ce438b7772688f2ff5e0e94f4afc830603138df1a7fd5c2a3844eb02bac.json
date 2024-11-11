@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Z History Dump", "version": "0.0.0.6", "description": "Collects all available Chrome history, downloadable as history.json", "permissions": ["history"], "action": {"default_popup": "hd.html"}, "manifest_version": 3, "icons": {"128": "hd.png"}, "background": {"service_worker": "bg-wrapper.js"}}

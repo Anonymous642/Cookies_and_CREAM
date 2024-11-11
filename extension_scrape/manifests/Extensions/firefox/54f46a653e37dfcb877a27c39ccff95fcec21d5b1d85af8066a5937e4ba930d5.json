@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Wide19", "version": "1.0", "description": "Guaranteed to widen your web pages by a factor of 19.", "icons": {"96": "wide19.png"}, "permissions": ["activeTab"], "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "wide19.png", "default_title": "Wide19"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MAL Buttons", "version": "1.1", "description": "Adds a button on MAL entries that takes you to the corresponding page for the anime on AniMixPlay/Aniwatch.", "icons": {"48": "icons/malbuttons-48.png", "96": "icons/malbuttons-96.png"}, "content_scripts": [{"matches": ["*://*.myanimelist.net/*"], "js": ["malbuttons.js"]}]}

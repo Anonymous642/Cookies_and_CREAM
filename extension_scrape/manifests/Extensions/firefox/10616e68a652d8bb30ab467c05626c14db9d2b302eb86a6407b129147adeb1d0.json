@@ -1,0 +1,1 @@
+{"name": "isTest Block", "description": "Blocks isTest2 from tracking your mouse and making you able to cheat.", "version": "0.0.1", "manifest_version": 2, "content_scripts": [{"matches": ["https://istest2.ch/*"], "js": ["istest.js"]}], "icons": {"48": "icon48.png", "128": "icon128.png"}}

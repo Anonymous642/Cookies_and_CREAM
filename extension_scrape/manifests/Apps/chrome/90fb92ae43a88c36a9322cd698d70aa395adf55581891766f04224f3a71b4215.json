@@ -1,0 +1,1 @@
+{"name": "RightVote.Info", "description": "A Wiki for quick facts on the Australian Government.", "app": {"urls": ["http://RightVote.Info/"], "launch": {"web_url": "http://RightVote.Info/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

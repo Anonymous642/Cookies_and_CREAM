@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "COVID-19", "description": "This extension will display content from the http://us-coronavirus.info", "version": "1.14", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "icons": {"128": "usci.png"}}

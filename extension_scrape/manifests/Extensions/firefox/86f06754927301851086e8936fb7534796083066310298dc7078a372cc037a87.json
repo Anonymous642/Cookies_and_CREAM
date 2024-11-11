@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "twitchclaim", "version": "1.0", "description": "Twitch bonus claimer", "permissions": ["tabs", "<all_urls>"], "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://www.twitch.tv/*"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{ff37555d-13c9-4ca1-b04e-9d17312fb6c0}"}}}

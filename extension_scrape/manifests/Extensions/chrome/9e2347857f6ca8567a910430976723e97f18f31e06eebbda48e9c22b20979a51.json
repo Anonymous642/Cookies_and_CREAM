@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SearchIt", "version": "1.1", "description": "Search for products on popular websites via text on screen.", "permissions": ["contextMenus"], "background": {"service_worker": "background.js"}, "icons": {"48": "icon.png"}, "action": {"default_popup": "popup.html"}}

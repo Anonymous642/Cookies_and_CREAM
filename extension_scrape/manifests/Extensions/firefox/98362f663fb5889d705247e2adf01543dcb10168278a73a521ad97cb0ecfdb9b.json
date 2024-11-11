@@ -1,0 +1,1 @@
+{"description": "YF Websites Menu 2", "manifest_version": 2, "name": "YF Websites Menu 2", "version": "5.0", "browser_action": {"browser_style": true, "default_popup": "popup/choose_page.html", "default_icon": {"16": "icons/page-16.png", "32": "icons/page-32.png"}}}

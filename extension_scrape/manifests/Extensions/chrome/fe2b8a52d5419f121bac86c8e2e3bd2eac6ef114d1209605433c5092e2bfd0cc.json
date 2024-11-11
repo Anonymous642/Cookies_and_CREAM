@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "cobaltium", "description": "cobalt, extension edition", "version": "1.1", "action": {"default_popup": "download.html", "default_icon": "logo.png"}, "browser_specific_settings": {"gecko": {"id": "cobaltium@erisws.com"}}, "permissions": ["tabs"]}

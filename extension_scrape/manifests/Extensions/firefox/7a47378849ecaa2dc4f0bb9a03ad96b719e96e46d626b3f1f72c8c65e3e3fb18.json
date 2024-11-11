@@ -1,0 +1,1 @@
+{"name": "PrettyTab", "description": "Overrides the new tab page with a prettier, more usefull version", "version": "0.2.7", "chrome_url_overrides": {"newtab": "new-tab.html"}, "manifest_version": 2, "icons": {"16": "ico/16.png", "24": "ico/24.png", "32": "ico/32.png", "64": "ico/64.png", "128": "ico/128.png"}}

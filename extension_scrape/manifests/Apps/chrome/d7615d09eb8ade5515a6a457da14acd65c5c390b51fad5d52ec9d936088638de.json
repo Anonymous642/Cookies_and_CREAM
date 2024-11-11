@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "MoverDB.com", "description": "Compare International Moving & Shipping Companies", "version": "1.0", "icons": {"128": "cargo-ship.png"}, "app": {"launch": {"web_url": "http://moverdb.com"}}}

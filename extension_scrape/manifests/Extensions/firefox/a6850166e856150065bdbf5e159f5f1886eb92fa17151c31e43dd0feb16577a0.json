@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "URL Decode to Clipboard", "version": "1.2", "description": "Extra option to get URL directly or get decoded URL", "background": {"scripts": ["decoder.js"]}, "permissions": ["contextMenus"], "browser_specific_settings": {"gecko": {"id": "{4e069ef0-d064-427f-ae63-42973834b88b}"}}}

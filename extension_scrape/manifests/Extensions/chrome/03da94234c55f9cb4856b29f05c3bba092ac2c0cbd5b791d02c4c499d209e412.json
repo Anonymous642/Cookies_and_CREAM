@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tradera utan sellpy", "description": "D\u00f6ljer annonser fr\u00e5n sellpy i s\u00f6kresultaten p\u00e5 Tradera.", "icons": {"128": "128.png"}, "version": "1.0", "manifest_version": 3, "content_scripts": [{"matches": ["https://www.tradera.com/search*"], "js": ["filter.js"]}]}

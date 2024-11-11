@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Faisca, Coelho Kung Fu", "version": "1", "manifest_version": 2, "description": "Aprenda a digitar!", "icons": {"16": "icon-16.png", "128": "icon-128.png"}, "permissions": ["storage"], "app": {"background": {"scripts": ["background.js"]}}}

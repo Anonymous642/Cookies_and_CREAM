@@ -1,0 +1,1 @@
+{"name": "The Social Collection", "version": "0.0.1", "manifest_version": 2, "browser_action": {"default_icon": "logo.png", "default_popup": "./index.html"}, "icons": {"128": "logo.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{6d76b22a-6f67-4a0d-ba5a-4ec799ef3e75}"}}}

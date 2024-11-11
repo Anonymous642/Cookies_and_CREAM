@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SKY Wallet", "description": "SKY Wallet", "version": "1.0.1", "background": {"persistent": true, "scripts": ["/library/jquery-3.6.0.js"]}, "browser_action": {"default_icon": "img/sky/android-chrome-384x384.png", "default_popup": "KR/dispatcher.html"}}

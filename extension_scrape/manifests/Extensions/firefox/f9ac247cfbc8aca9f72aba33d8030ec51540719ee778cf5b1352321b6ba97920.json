@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AutoScrollDown", "version": "1.0.1", "description": "Doing auto-scroll-down on a page", "icons": {"30": "icons/icon.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/icon.png", "default_title": "Auto-Scroll-Down", "default_popup": "popup/autoscrolldown.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "EMOL.com comments remover", "version": "1.0", "description": "Removes all types of references to comments on the site emol.com.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*.emol.com/*"], "js": ["contentScript.js"]}], "browser_specific_settings": {"gecko": {"id": "{bac36889-cd8f-4c5c-91e0-8a9c375edbf0}"}}}

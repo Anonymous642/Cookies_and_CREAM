@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Just the Claps", "description": "Copy selected text but all caps and with clap emojis", "version": "0.1", "permissions": ["contextMenus", "clipboardWrite"], "background": {"scripts": ["just-claps.js"]}, "manifest_version": 2}

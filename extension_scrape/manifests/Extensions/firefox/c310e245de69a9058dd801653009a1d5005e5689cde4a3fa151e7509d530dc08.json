@@ -1,0 +1,1 @@
+{"name": "To Top Android", "version": "1.1.1", "description": "Menu item which scrolls page to top", "manifest_version": 2, "applications": {"gecko": {"id": "to-top@mortalis.org"}}, "background": {"scripts": ["main-to-top.js"]}, "browser_action": {"default_title": "To Top"}, "permissions": ["tabs", "<all_urls>"]}

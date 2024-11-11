@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Mobile Money Tariffs", "description": "Mobile Money Tariffs", "version": "0.0.1", "app": {"urls": ["https://mmtariffs.5apps.com/"], "launch": {"web_url": "https://mmtariffs.5apps.com/"}}, "icons": {"16": "icon_x16.png", "48": "icon_x48.png", "128": "icon_x128.png"}, "manifest_version": 2}

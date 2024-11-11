@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "eSpOrTs amarite", "version": "1.0", "description": "Writes esport how it should be written", "content_scripts": [{"matches": ["*://*/*"], "js": ["esportify.js"]}]}

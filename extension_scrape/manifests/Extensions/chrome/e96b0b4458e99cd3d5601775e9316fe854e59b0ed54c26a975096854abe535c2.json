@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "IBS CCAI Agent Assist", "version": "1.0.1", "manifest_version": 3, "permissions": ["desktopCapture", "scripting", "webRequest"], "background": {"service_worker": "serviceworker.js"}, "action": {}, "host_permissions": ["*://*/*"], "icons": {"128": "logo.png"}}

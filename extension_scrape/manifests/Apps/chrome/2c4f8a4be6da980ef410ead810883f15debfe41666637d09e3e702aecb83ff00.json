@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Join the Foothills Family", "manifest_version": 2, "description": "Explore a career with the Foothills School Division", "version": "1.1", "icons": {"16": "chrome-icon16.png", "128": "chrome-icon.png"}, "app": {"background": {"scripts": ["background.js"]}}}

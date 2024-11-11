@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search Again", "version": "0.1", "description": "Re-runs current search with another engine", "permissions": ["search", "tabs"], "omnibox": {"keyword": "sa"}, "background": {"scripts": ["background.js"]}}

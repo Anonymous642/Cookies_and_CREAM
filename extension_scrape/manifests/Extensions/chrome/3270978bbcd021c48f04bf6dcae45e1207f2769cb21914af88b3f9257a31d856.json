@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Oriono05", "description": "Vous informe si Oriono est en live", "version": "1.1", "browser_action": {"default_popup": "index.html"}, "permissions": ["notifications"], "icons": {"128": "img/orionoOn.png"}, "background": {"scripts": ["background.js"]}}

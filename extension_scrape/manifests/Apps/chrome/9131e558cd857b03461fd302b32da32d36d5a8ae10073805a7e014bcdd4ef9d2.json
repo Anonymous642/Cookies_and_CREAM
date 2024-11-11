@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "BLOOMING LOTUS YOGA", "description": "YOGA RETREATS IN PARADISE", "version": "1.0", "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.thailandyoga.net.net/"], "launch": {"web_url": "http://www.thailandyoga.net/"}}}

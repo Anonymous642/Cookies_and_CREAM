@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Rowella", "version": "8", "minimum_chrome_version": "29", "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "app": {"background": {"scripts": ["app.js"]}}, "permissions": ["https://docs.google.com/feeds/", "https://docs.googleusercontent.com/", "identity"]}

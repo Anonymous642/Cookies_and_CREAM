@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Speak up", "description": "Track how long each person speaks during a hangouts call", "version": "1.0.5", "icons": {"16": "icon-16.png", "48": "icon-48.png", "128": "icon-128.png"}, "content_scripts": [{"matches": ["https://meet.google.com/*"], "css": [], "js": ["src/content.js"]}]}

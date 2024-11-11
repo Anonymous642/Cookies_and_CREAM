@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BlurEZ", "version": "1.0", "description": "Blur stuff", "icons": {"16": "icons/blur.svg", "32": "icons/blur.svg"}, "browser_action": {"default_title": "BlurEZ", "default_popup": "popup.html", "default_icon": {"16": "icons/blur.svg", "32": "icons/blur.svg"}}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["main.js"], "css": ["style.css"]}]}

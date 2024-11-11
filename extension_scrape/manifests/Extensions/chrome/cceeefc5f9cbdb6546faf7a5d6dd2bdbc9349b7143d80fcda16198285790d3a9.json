@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Custom Dark Mode for SEEK", "description": "A custom dark mode browser extension for seek.onlinedegree.iitm.ac.in", "manifest_version": 3, "version": "1.0", "icons": {"96": "iitm-logo.png"}, "content_scripts": [{"css": ["style.css"], "matches": ["https://seek.onlinedegree.iitm.ac.in/*"]}]}

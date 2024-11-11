@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "KeepSmilingSmilers", "version": "1.0", "description": "Prevents depression caused by losing all your Aurateur Twitch Channel Points (ATCP) by means of obfuscation.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.twitch.tv/aurateur*"], "js": ["hidethepain.js"]}], "web_accessible_resources": ["icons/cat.png"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Crown the thing", "description": "Crown the king of animals in one extremely simple, yet very addictive strategy game.", "version": "1.2", "app": {"background": {"scripts": ["fzapp.js"]}}, "permissions": ["storage"], "offline_enabled": true, "icons": {"16": "icon16.png", "128": "icon128.png"}}

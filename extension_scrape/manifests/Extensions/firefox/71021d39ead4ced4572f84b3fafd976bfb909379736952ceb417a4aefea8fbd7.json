@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AdBlacker", "version": "1.1", "description": "Blacks-out ads on popular video streaming websites", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["https://www.twitch.tv/*"], "js": ["adblacker.js"]}], "browser_specific_settings": {"gecko": {"id": "{25124d56-fa63-470c-aaf7-35240fb89bf5}"}}}

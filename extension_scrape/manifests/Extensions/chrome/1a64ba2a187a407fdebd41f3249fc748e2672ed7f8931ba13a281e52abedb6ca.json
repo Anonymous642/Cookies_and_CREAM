@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Spring | A Better Tab Experience", "short_name": "Spring", "version": "0.1", "icons": {"128": "icon-128.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["geolocation"]}

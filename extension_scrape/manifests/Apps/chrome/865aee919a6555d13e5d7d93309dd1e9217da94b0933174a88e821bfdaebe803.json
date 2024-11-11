@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Musika Teacher Login", "description": "Musika Teacher Login", "version": "0.1", "icons": {"128": "musikalogo.png"}, "app": {"launch": {"web_url": "http://system.musikalessons.com/teachers"}}}

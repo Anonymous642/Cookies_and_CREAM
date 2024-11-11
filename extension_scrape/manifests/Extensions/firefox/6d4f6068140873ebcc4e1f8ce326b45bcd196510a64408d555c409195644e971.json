@@ -1,0 +1,1 @@
+{"name": "Twitch Loot Collector", "description": "Tired of clicking the green chest to get bonus points? This extension will do it for you.", "version": "0.1", "content_scripts": [{"matches": ["https://www.twitch.tv/*"], "js": ["content.js"], "run_at": "document_end"}], "manifest_version": 2}

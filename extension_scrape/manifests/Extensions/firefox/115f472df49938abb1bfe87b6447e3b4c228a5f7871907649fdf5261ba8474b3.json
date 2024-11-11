@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Lenny", "version": "1.0", "description": "Inserts lenny into a focused text field", "icons": {"48": "icons/lenny-48.png"}, "browser_action": {"default_icon": "icons/lenny-48.png", "default_title": "Lenny"}, "background": {"scripts": ["background.js"]}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

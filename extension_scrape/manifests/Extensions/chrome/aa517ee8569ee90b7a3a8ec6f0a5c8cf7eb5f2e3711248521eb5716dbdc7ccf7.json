@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Expanded tweet line-height fix", "version": "1.0", "manifest_version": 3, "description": "Adjusts the line-height of expanded tweets to improve readability.", "content_scripts": [{"matches": ["https://twitter.com/*"], "js": ["content.js"]}]}

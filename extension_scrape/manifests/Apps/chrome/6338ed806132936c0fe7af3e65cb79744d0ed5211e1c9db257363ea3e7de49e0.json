@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "SnookerPRO", "version": "1.0", "manifest_version": 2, "description": "SnookerPRO ist das deutschsprachige Snooker-Portal \u00fcber die Main Tour.", "icons": {"128": "snookerpro.png"}, "app": {"urls": ["http://snookerpro.de/"], "launch": {"web_url": "http://snookerpro.de"}}}

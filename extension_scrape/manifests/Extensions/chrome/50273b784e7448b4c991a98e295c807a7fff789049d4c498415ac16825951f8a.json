@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "TrustedBay.com Launcher", "description": "Quick launch TrustedBay.com", "version": "1.1.0", "icons": {"128": "icon-128.png"}, "browser_action": {"default_icon": "icon-19.png", "default_popup": "popup.html"}, "permissions": []}

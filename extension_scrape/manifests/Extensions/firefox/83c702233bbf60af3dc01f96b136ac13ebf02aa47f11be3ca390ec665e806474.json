@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OldWiki", "version": "1.1", "description": "Forces Wikipedia on desktop to use the old vector skin.", "icons": {"48": "icons/oldwiki-48.png", "96": "icons/oldwiki-96.png"}, "content_scripts": [{"matches": ["*://*.wikipedia.org/*"], "js": ["oldwiki.js"]}], "browser_specific_settings": {"gecko": {"id": "{e65a7368-bb39-48f7-962c-41a6ecfccaf7}"}}}

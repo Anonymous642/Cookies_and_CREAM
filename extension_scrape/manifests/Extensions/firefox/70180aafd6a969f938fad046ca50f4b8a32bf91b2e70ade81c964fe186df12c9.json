@@ -1,0 +1,1 @@
+{"description": "this extension button redirect to Aarhus university brightspace page.", "manifest_version": 2, "name": "Aarhus Uni Brightspace-Button", "version": "1.0", "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": {"32": "icons/brightspace.png"}}, "browser_specific_settings": {"gecko": {"id": "{d97ad3ff-1660-40c3-8f26-7e2e1be6f6a6}"}}}

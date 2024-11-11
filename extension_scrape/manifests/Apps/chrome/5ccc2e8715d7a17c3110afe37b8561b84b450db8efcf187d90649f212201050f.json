@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Money", "description": "Branded Space Invader", "version": "2", "manifest_version": 2, "app": {"launch": {"local_path": "main.html"}}, "icons": {"16": "icon_16.png", "128": "icon_128.png"}}

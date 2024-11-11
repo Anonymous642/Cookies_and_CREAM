@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Lrtrl", "description": "Text direction toggler.", "manifest_version": 3, "version": "1", "icons": {"32": "icon-32.png", "64": "icon-64.png", "128": "icon-128.png"}, "background": {"service_worker": "background.js"}, "action": {}, "permissions": ["scripting", "activeTab"]}

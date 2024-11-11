@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tuberose Price Calculator", "version": "1.0", "description": "Addon for calculating the price of Tuberose products", "icons": {"48": "icon.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{63f5302f-ec19-4846-886f-e39c09304748}"}}}

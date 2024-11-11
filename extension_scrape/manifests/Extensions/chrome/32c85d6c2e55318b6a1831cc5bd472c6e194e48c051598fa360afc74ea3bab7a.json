@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Clozemaster level up popup closer", "version": "1", "description": "Automatically clicks out of the level up popup in clozemaster and focuses on the text input", "icons": {"128": "icon.png"}, "content_scripts": [{"js": ["content.js"], "matches": ["https://www.clozemaster.com/*"]}]}

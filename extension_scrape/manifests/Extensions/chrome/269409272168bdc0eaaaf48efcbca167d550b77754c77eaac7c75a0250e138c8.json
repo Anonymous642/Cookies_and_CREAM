@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Soundtrap Plus", "version": "1.0.0", "declarative_net_request": {"rule_resources": [{"id": "ruleset_1", "enabled": true, "path": "rules.json"}]}, "permissions": ["declarativeNetRequest", "https://static.soundtrap.com/studio/assets/audio/notifications/*.ogg"], "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Discord Block Fixer", "version": "1.1", "description": "Removes the ability to read blocked messages on Discord's web app.", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.discord.com/*"], "js": ["DiscordBlockFixer.js"]}], "browser_specific_settings": {"gecko": {"id": "{ceb316e6-a005-4f83-a1c6-935c67278bb5}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Ten click challenge", "description": "https://twitter.com/dril/status/989005654517075968", "author": "@JayMahabal", "version": "0.1", "content_scripts": [{"matches": ["*://twitter.com/*"], "all_frames": true, "js": ["index.js"], "run_at": "document_end"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "dblclick-image-download", "version": "1.4", "description": "Downloads images when you double-click on them", "icons": {"48": "icons/icon-48.png", "64": "icons/icon-64.png", "128": "icons/icon-128.png"}, "background": {"scripts": ["background/background.js", "background/onFocus.js"]}, "permissions": ["downloads", "tabs", "<all_urls>"]}

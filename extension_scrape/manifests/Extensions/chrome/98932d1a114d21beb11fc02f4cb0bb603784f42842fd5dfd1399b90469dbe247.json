@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "No Mobile links on desktop", "description": "Convert mobile links to desktop ones", "version": "0.0.3", "manifest_version": 3, "permissions": [], "content_scripts": [{"matches": ["https://*.whatsapp.com/*"], "js": ["rewrite-links.js"]}]}

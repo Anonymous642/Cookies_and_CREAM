@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "smallinvoice", "description": "Rechnungen, Offerten und Lieferscheine online erstellen sowie verschicken. Ganz einfach.", "version": "1.2", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://app.smallinvoice.com/"], "launch": {"web_url": "https://app.smallinvoice.com/"}}}

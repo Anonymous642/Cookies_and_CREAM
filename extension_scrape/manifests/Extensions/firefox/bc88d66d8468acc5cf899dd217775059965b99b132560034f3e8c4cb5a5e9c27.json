@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "dumplr", "version": "1.1.2", "description": "Adds a button to post all of the posts you have in your Drafts page.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*.tumblr.com/blog/*/drafts"], "js": ["dumplr.js"]}]}

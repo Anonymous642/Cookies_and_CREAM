@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Link Generator", "description": "__MSG_description__", "default_locale": "en", "version": "1.2.1", "manifest_version": 3, "background": {"service_worker": "background.js"}, "permissions": ["storage", "activeTab", "clipboardWrite"], "action": {"default_popup": "popup.html"}, "options_page": "options.html"}

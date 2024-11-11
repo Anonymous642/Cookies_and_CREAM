@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Acall", "version": "0.1.1.0", "description": "Extension to integrate Google Calendar with Acall", "manifest_version": 3, "action": {"default_icon": "logo.png"}, "content_scripts": [{"matches": ["*://calendar.google.com/*"], "run_at": "document_end", "js": ["calendar.js"]}]}

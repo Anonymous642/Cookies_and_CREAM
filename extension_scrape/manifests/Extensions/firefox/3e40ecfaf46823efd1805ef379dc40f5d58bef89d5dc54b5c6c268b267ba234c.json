@@ -1,0 +1,1 @@
+{"description": "Protege tu privacidad evitando tener que registrarse en semana.com para ver sus art\u00edculos.", "manifest_version": 2, "name": "Semana f0f", "version": "1.0", "homepage_url": "http://f0f.com", "icons": {"48": "icons/ic_vpn_key_black_48dp_1x.png"}, "content_scripts": [{"matches": ["*://*.semana.com/*"], "js": ["semana_f0f.js"]}]}

@@ -1,0 +1,1 @@
+{"description": "Directly opens the video on blackboard", "manifest_version": 2, "name": "Blackboard Downloader", "version": "1.1", "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/borderify", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://eu.bbcollab.com/collab/ui/session/playback*"], "js": ["bbdownloader.js"]}]}

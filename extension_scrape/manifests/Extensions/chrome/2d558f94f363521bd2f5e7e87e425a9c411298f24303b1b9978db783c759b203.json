@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GitLab Enhancer", "version": "0.1.1", "host_permissions": ["https://*/*"], "content_scripts": [{"matches": ["https://*/*"], "js": ["ref/jquery.js", "src/content-script.js"]}], "icons": {"128": "img/gitlab-128.png"}, "description": "Enhance GitLab Portal"}

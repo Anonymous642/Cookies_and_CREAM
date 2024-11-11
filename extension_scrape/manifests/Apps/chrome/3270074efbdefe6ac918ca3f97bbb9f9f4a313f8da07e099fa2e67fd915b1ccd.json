@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Transtec", "description": "Transtec ha sido dise\u00f1ado de la mano de muchos especialistas en Transporte", "version": "1.0", "icons": {"128": "128.png"}, "app": {"launch": {"web_url": "https://soft.trans-tec.mx/"}}, "permissions": []}

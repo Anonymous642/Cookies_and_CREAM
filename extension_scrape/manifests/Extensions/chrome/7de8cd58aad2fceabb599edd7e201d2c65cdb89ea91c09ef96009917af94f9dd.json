@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Answer Copy Calculator", "description": "after calculation, you can copy the answer with 1 click!", "version": "1.1", "manifest_version": 2, "browser_action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

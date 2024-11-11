@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Shorts as Videos", "version": "1.1", "description": "Makes YouTube shorts play as normal videos.", "icons": {"48": "icons/noShort.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["normalizeYT.js"]}], "browser_specific_settings": {"gecko": {"id": "normalizeYT@example.com", "strict_min_version": "42.0"}}}

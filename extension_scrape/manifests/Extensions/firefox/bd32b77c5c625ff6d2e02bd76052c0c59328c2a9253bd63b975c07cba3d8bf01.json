@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Everyone hider for DeskPRO", "version": "0.1", "description": "Hides the \u201cEveryone\u201d tab in DeskPRO chat", "icons": {"48": "icon.png", "96": "icon@2x.png"}, "content_scripts": [{"matches": ["*://ithelp.brown.edu/agent/*"], "css": ["styles.css"]}]}

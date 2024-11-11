@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PanDoorUh++", "version": "0.1", "description": "Adds more functionality to pandora.com", "content_scripts": [{"matches": ["*://*.pandora.com/*"], "js": ["pandooruh_plus_plus.js"]}]}

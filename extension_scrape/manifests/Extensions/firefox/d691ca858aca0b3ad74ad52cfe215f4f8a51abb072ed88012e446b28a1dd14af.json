@@ -1,0 +1,1 @@
+{"name": "No Twitter Moments", "version": "1.1", "manifest_version": 2, "description": "Gets rid of the Twitter Moments tab thing on Twitter.com", "permissions": [], "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["content.js"], "run_at": "document_end"}], "applications": {"gecko": {"id": "no-twitter-moments@mikeconley.ca"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cope", "description": "Keeps you from being logged out of UBC Scope", "version": "1.0", "icons": {"16": "./icon.png", "128": "./icon.png"}, "content_scripts": [{"world": "MAIN", "matches": ["https://scope.sciencecoop.ubc.ca/myAccount/*"], "js": ["script.js"]}]}

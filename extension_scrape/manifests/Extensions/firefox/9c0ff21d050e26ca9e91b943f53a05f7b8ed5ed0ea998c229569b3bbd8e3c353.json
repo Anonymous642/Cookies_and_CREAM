@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Streamlink Command Generator", "description": "For easy copy paste into the command prompt", "version": "1.1", "browser_action": {"default_popup": "index.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{dd047270-9787-477b-a181-ea6a2bcb676a}"}}}

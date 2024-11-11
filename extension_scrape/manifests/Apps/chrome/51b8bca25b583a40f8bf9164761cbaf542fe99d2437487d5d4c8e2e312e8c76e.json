@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Nigerian Finder", "description": "The Web's No. 1 Information Hub for Nigerians", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://NigerianFinder.com/"], "launch": {"web_url": "http://NigerianFinder.com/"}}}

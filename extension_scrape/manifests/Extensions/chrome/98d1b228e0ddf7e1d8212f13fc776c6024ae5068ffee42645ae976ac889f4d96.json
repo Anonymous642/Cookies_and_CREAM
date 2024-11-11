@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\uc778\ud130\ub137 \uac15\uc758 \ub300\uccb4\ud14d\uc2a4\ud2b8 \uc54c\ub78c", "description": "\ud589\ubcf5\ub098\ub214\uc7ac\ub2e8", "version": "1.2", "manifest_version": 3, "content_scripts": [{"matches": ["https://www.ebsi.co.kr/*"], "js": ["index.js"]}]}

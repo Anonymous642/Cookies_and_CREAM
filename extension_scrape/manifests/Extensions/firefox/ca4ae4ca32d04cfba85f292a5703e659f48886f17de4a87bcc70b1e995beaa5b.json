@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AWS S3 URI to Console URL", "version": "1.1", "description": "Parse an AWS S3 URI to generate a Console URL", "browser_action": {"default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{a7c59f35-e5ab-4894-b5a5-85a847e60d89}"}}}

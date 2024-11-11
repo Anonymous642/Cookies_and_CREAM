@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://matrixcalc.appspot.com/"], "launch": {"web_url": "http://matrixcalc.appspot.com/"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Free online matrix calculator", "name": "Matrixcalc", "icons": {"128": "icon_128.png"}, "manifest_version": 2, "version": "2.0.0.0"}

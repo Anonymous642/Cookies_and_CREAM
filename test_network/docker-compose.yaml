@@ -1,0 +1,57 @@
+version: "2"
+services:
+    mysql_db:
+        container_name: User_db
+        build:
+            context: ./mysql_db
+        networks:
+            test_net:
+                ipv4_address: 172.20.0.2
+        ports:
+            - 3306
+            
+    web_server:
+        container_name: Web_Server_1
+        build:
+            context: ./node_server
+        working_dir: /home/node/app
+        command: "node /home/node/app/common.js"
+        networks:
+            test_net:
+                ipv4_address: 172.20.0.3
+        ports:
+            - 443
+        depends_on:
+            - mysql_db
+   
+    adv_endpoint:
+        container_name: Adv_Endpoint
+        build:
+            context: ./adv_endpoint
+        working_dir: /home/node/app
+        command: "node /home/node/app/app.js"
+        networks:
+            test_net:
+                ipv4_address: 172.20.0.4
+        ports:
+            - 80
+            - 443
+
+    simple_server:
+        container_name: Simple
+        build:
+            context: ./simple_server
+        working_dir: /home/node/app
+        command: "node /home/node/app/common.js"
+        networks:
+            test_net:
+                ipv4_address: 172.20.0.6
+        ports:
+            - 80
+                  
+            
+networks:
+    test_net:
+        ipam:
+            config:
+                - subnet: 172.20.0.0/16

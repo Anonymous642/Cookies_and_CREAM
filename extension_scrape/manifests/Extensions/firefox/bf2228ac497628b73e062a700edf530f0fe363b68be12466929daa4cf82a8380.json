@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My Extension", "version": "1.0", "description": "This is my example extension", "icons": {"48": "icon.png"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{ab16afea-2616-429e-8529-7e6cd39e0748}"}}}

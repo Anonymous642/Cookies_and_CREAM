@@ -1,0 +1,1 @@
+{"name": "TODO", "description": "Just simple TODO", "icons": {"128": "icon.png"}, "version": "1.1.0", "manifest_version": 2, "browser_action": {"default_popup": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{23b65ce7-a77c-40ed-90ff-55b05551b0b3}"}}}

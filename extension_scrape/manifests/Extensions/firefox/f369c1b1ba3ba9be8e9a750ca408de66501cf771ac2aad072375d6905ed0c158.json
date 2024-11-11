@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CT Todo List", "version": "1.4", "description": "A simple CT Todo List extension to add your tasks.", "icons": {"48": "icons/icon.png"}, "browser_specific_settings": {"gecko": {"id": "henryusavala@gmail.com"}}, "browser_action": {"default_icon": {"48": "icons/icon.png"}, "default_popup": "popup.html"}, "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Seeberger Cube", "description": "W\u00fcrfel-Pr\u00e4sentation f\u00fcr Seeberger", "version": "0.1", "app": {"background": {"scripts": ["js/background.js"]}}, "icons": {"16": "img/seeberger-16.png", "128": "img/seeberger-128.png"}}

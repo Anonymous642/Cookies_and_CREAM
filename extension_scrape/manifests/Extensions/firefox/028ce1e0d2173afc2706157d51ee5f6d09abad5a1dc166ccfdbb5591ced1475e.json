@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "XenBlock", "version": "0.1.0", "description": "Ad blocker by Xenith", "icons": {"48": "48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["block.js"]}], "browser_specific_settings": {"gecko": {"id": "{5d18e83f-8cc0-4e4a-94a5-bc3c9caa01f0}"}}}

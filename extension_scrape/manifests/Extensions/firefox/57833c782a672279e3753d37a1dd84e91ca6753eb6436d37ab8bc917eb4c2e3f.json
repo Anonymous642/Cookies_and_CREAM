@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Expand Youtube Music Volume Slider", "version": "1.0", "description": "Expands Youtube Music's Volume Slider .", "content_scripts": [{"matches": ["*://music.youtube.com/*"], "js": ["jquery-3.6.3.min.js", "expand.js"]}], "browser_specific_settings": {"gecko": {"id": "{c9e259af-3c7a-4883-b85e-d9eb2f14be40}"}}}

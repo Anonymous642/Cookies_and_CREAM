@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Cookie Collector (Twitch) - Channel Points", "manifest_version": 3, "version": "1.0", "icons": {"16": "icon.png", "32": "icon.png", "48": "icon.png", "128": "icon.png"}, "content_scripts": [{"matches": ["https://*.twitch.tv/*"], "run_at": "document_idle", "js": ["cookie-collector.js"]}]}

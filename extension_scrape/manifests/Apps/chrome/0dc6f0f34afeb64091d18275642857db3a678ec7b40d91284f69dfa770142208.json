@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Crane Crazy", "description": "Crane Crazy is a physics game for all ages.", "version": "2", "manifest_version": 2, "app": {"urls": ["http://www.cranecrazy.com/cranecrazy"], "launch": {"web_url": "http://www.cranecrazy.com/cranecrazy"}}, "icons": {"128": "icon_128.png"}}

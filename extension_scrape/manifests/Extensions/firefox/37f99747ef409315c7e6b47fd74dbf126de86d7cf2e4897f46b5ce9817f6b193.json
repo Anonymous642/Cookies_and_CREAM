@@ -1,0 +1,1 @@
+{"name": "Legacy Domains", "version": "1.0.1", "author": "zoumath19", "icons": {"48": "icon.png"}, "manifest_version": 2, "omnibox": {"keyword": "ld"}, "background": {"scripts": ["background/background.js"]}, "browser_specific_settings": {"gecko": {"id": "{133b956d-04a5-4d33-b9a0-bbe984e330cc}"}}}

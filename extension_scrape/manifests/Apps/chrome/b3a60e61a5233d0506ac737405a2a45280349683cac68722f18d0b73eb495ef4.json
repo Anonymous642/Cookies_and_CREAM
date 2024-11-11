@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Tasks", "minimum_chrome_version": "24.0.1307.0", "version": "1.0.0", "icons": {"16": "img/16.png", "32": "img/32.png", "64": "img/64.png", "128": "img/128.png"}, "app": {"background": {"scripts": ["js/back.js"]}}, "permissions": ["webview", "unlimitedStorage", "notifications"]}

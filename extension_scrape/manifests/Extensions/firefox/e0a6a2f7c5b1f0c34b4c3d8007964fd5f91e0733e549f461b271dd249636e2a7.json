@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RedirectMWiki", "version": "1.0", "content_scripts": [{"matches": ["*://*.m.wikipedia.org/*"], "js": ["redirectmwiki.js"]}], "browser_specific_settings": {"gecko": {"id": "{764b33a9-e7c9-4ddb-b84b-10cdd232c165}"}}}

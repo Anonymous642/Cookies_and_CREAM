@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ebay Ship Time", "version": "1.0", "description": "Display ship time for items on search page", "icons": {"48": "icons/ship_time-48.png"}, "content_scripts": [{"matches": ["*://*.ebay.com/sch/*"], "js": ["ship_time.js"]}]}

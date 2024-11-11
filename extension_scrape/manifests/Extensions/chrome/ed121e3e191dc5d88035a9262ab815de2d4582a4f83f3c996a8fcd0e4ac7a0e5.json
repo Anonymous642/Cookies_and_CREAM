@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Eucalipto Arco Iris", "version": "1.0", "description": "Aqui voc\u00ea Encontrar\u00e1 uma facilidade de Conhecimentos de mudas de Eucalipto", "browser_action": {"default_popup": "Eucalipto Arco Iris.html"}, "permissions": ["activeTab"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "readHD - Enhance Text Readability", "description": "This extension will make the first 3 characters of every word bold on any website", "version": "1.0", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

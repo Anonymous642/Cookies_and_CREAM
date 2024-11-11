@@ -1,0 +1,1 @@
+{"name": "To-Do list tab", "version": "1.0.0", "manifest_version": 3, "description": "To-Do list new tab with search capability", "browser_specific_settings": {"gecko": {"id": "dariana.kuhn@outlook.com"}}, "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"128": "app_icon_no_background.png"}}

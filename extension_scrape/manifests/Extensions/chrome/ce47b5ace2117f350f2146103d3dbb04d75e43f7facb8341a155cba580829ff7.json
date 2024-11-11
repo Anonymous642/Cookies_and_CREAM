@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "action": {"default_icon": {"128": "icon.png"}}, "content_scripts": [{"js": ["content.js"], "matches": ["https://*.youtube.com/*"]}], "description": "Remove the Adblock Popup from YOUTUBE", "icons": {"128": "icon.png"}, "manifest_version": 3, "name": "Remove Adblock Thing", "version": "1.0"}

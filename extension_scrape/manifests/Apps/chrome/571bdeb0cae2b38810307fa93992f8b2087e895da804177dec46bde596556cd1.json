@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://www.echomobile.org/"], "launch": {"web_url": "http://www.echomobile.org/"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Any Mobile in Any Market", "name": "Echo Mobile", "permissions": ["unlimitedStorage", "notifications", "geolocation"], "icons": {"128": "icon_128.png"}, "manifest_version": 2, "version": "2"}

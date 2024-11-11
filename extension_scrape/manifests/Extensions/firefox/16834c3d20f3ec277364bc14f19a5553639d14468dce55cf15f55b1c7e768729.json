@@ -1,0 +1,1 @@
+{"description": "Day and Night theme", "manifest_version": 2, "name": "Day and Night theme", "permissions": ["alarms", "theme"], "background": {"scripts": ["background.js"]}, "version": "1.0", "applications": {}}

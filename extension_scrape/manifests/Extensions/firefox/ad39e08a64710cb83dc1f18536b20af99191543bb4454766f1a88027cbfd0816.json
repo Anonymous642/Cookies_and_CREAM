@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Kitsun.io Search", "description": "Search for the selected text in Kitsun.io's dictionary", "version": "1.0", "author": "Ollie", "homepage_url": "https://github.com/Ollie2304", "icons": {"48": "icons/icon48.png", "64": "icons/icon64.png", "96": "icons/icon96.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}}

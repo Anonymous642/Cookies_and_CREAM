@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "jcmt", "version": "1.2", "description": "The plug-in will be used at http://www.gzairports.com:11111/order/index.htmlto assist in the quick filling of forms.", "icons": {"48": "icons/jc-icon.jpg"}, "content_scripts": [{"matches": ["*://*.gzairports.com/*"], "js": ["jquery-1.12.4.min.js", "sessionalert.js"]}]}

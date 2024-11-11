@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "last.fm Keyboard Shortcuts", "version": "1.0", "description": "Allows you to use keyboard shortcuts on the last.fm web player.", "content_scripts": [{"matches": ["*://*.last.fm/*"], "js": ["app.js"]}], "browser_specific_settings": {"gecko": {"id": "{991f53a6-c6a8-4298-8e40-e192c64b5901}"}}}

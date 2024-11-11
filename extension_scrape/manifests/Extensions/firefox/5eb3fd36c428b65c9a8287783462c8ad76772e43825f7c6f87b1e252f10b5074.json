@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Avmenisextension", "version": "1.2", "description": "Replace all image with Avmenise", "icons": {"48": "avmenise.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["main.js"]}]}

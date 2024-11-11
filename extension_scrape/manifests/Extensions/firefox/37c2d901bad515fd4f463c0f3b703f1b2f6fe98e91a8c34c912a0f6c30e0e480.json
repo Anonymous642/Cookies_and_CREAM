@@ -1,0 +1,1 @@
+{"name": "Support Worker", "version": "1.5.1", "permissions": ["contextMenus", "sessions", "tabs", "webNavigation", "webRequest", "webRequestBlocking"], "icons": {"128": "logo.png"}, "content_scripts": [{"matches": ["https://top.startingwork.it/*"], "run_at": "document_idle", "js": ["contenuto.js"]}], "manifest_version": 2}

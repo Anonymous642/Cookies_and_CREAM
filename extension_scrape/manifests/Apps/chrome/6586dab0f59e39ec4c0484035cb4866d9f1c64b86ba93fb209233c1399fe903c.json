@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_appName__", "description": "__MSG_appName__", "default_locale": "en", "version": "1.0.7", "manifest_version": 2, "app": {"urls": ["http://murakya.net/game/liftikids/"], "launch": {"web_url": "http://murakya.net/game/liftikids/"}}, "icons": {"128": "icon_128.png"}, "permissions": []}

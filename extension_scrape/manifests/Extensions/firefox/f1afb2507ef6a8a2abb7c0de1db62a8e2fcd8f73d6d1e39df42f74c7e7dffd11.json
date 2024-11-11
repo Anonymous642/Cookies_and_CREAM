@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Telegraph+", "version": "0.8", "description": "Some nice features for Telegra.ph", "browser_specific_settings": {"gecko": {"id": "alittlemore@telegra.ph"}}, "icons": {"32": "icon.ico"}, "content_scripts": [{"matches": ["*://telegra.ph/*"], "css": ["tlph.css"], "js": ["insert.js"]}]}

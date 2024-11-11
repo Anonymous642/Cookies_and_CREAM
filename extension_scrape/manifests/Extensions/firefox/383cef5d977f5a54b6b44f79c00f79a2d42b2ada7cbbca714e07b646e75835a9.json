@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clear my TeX", "version": "1.2.4", "description": "Adds button for clearing matrix from TeX on matrixcalc.org", "content_scripts": [{"matches": ["*://*.matrixcalc.org/*"], "js": ["test.js"]}], "browser_specific_settings": {"gecko": {"id": "{6071b4fc-13da-4d8e-947c-439312cb1991}"}}}

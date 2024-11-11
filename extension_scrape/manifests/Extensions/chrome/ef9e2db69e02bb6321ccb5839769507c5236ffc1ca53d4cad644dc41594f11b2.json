@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Holideuxs", "version": "1.0", "manifest_version": 2, "description": "Adds American holidays to your teuxdeux.com list", "permissions": ["http://teuxdeux.com/list"], "content_scripts": [{"matches": ["http://teuxdeux.com/list"], "js": ["jquery.js", "holideuxs.js"]}]}

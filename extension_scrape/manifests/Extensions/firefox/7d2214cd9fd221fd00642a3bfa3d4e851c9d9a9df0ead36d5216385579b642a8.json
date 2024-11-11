@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Anti Shorts", "version": "1", "description": "We do not want shorts", "content_scripts": [{"css": ["styles.css"], "matches": ["https://www.youtube.com/*"]}], "browser_specific_settings": {"gecko": {"id": "{bd897b97-462e-408c-9c85-69d6fabdc1c8}"}}}

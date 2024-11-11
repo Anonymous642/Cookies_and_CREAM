@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AEQ Studios", "description": "Audio Equalizer for those of hard of hearing and audio alteration.", "version": "1.0", "action": {"default_icon": "logo.png", "default_popup": "popup.html"}}

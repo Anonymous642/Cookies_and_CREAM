@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Flocking infinity", "version": "0.2", "icons": {"16": "flock.png", "48": "flock.png", "128": "flock.png"}, "browser_action": {"default_icon": "flock.png"}, "chrome_url_overrides": {"newtab": "index.html"}}

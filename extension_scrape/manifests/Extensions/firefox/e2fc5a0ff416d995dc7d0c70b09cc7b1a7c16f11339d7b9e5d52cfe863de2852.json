@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "QQMail link auto redirect", "version": "0", "content_scripts": [{"js": ["redirect.js"], "matches": ["*://mail.qq.com/cgi-bin/readtemplate?*", "*://url.qmail.com/cgi-bin/readtemplate?*"], "run_at": "document_start"}]}

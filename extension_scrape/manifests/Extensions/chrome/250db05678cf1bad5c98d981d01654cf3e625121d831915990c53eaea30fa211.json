@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "New tab new word", "description": "Override the new tab page with 1000 English words", "version": "0.1.5", "chrome_url_overrides": {"newtab": "myPopup.html"}, "manifest_version": 2}

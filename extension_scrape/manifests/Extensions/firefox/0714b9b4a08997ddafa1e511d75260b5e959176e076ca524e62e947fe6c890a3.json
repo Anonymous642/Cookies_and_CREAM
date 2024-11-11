@@ -1,0 +1,1 @@
+{"description": "Removes Facebook Sponsored stories", "manifest_version": 2, "name": "nofacespam", "version": "1.5", "icons": {"48": "icons/noicon.png"}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["nofacespam.js"]}]}

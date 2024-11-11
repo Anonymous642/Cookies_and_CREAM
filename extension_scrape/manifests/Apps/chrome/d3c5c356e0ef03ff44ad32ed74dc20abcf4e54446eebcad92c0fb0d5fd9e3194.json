@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Binto", "description": "A multimedia sercive.", "author": "Mojtaba Khallash", "version": "1.0.1", "manifest_version": 2, "permissions": ["webview"], "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "binto-16.png", "128": "binto-128.png"}}

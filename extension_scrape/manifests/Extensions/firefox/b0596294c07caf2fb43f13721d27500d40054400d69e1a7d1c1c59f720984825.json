@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TST New Tabs First", "version": "0.2.1", "description": "New root tabs are placed at the top of the Tree Style Tab sidebar.", "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{9a384994-54cf-4e15-81e2-b5bd41459677}"}}}

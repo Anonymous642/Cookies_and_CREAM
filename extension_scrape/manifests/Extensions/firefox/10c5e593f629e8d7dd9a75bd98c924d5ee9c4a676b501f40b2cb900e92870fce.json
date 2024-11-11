@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Chesscom light theme clarity", "version": "1.0", "browser_specific_settings": {"gecko": {"id": "absolitudo@gmail.com"}}, "description": "Improves visibility of piece selection and legal move with light theme.", "content_scripts": [{"matches": ["*://*.chess.com/*"], "css": ["./index.css"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "remove_list_secondary_youtube", "version": "1.0", "description": "Suppression de la liste secondaire youtube", "icons": {"48": "icons/ico.png"}, "content_scripts": [{"matches": ["*://*.mozilla.org/*", "*://*.youtube.com/*"], "js": ["remove_list_secondary_youtube.js"]}]}

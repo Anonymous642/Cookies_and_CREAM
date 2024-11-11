@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Prevent BBC redirect", "version": "1.1", "description": "Prevent bbc.co.uk redirecting to bbc.com", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.bbc.co.uk/*"], "js": ["index.js"], "run_at": "document_start"}]}

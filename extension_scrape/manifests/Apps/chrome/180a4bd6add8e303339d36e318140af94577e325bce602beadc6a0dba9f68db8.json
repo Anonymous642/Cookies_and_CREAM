@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tunebanda", "manifest_version": 2, "description": "Music streaming for Google Drive ", "version": "2.7.1.0", "container": "GOOGLE_DRIVE", "api_console_project_id": "200372264050", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://tunebanda.com/"], "launch": {"web_url": "http://tunebanda.com/"}}}

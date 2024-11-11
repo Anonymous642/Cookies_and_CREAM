@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "scratchd\u00e9corer", "version": "1.0", "description": "Ajoute une bordure orange et bleue \u00e0 scratch.mit.edu", "icons": {"48": "icon/border-48.png"}, "content_scripts": [{"matches": ["*://*.scratch.mit.edu/*"], "js": ["borderify.js"]}]}

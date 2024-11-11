@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Aparat Ads Blocker", "version": "1.0", "description": "Blocks Ads On Aparat.com", "background": {"scripts": ["blocker.js"]}, "icons": {"48": "logo.png", "96": "logo.png"}, "permissions": ["webRequest", "webRequestBlocking", "*://*.aparat.com/*"], "browser_specific_settings": {"gecko": {"id": "{d2b462ba-6ff3-4158-9973-aae3d0d94f47}"}}}

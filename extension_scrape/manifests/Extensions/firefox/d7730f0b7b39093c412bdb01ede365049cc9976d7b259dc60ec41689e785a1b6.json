@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Webampel", "version": "1.0", "description": "Adds a grey, red, yellow or green border to all webpages depending on their sustainability", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["Webampel.js"]}]}

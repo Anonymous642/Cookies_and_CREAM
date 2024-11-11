@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "rainbowize", "version": "1.0", "description": "Rainbowizes every link on websites", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["rainbowize.js"]}], "applications": {"gecko": {"id": "X@Y"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Domain name Finder", "description": "Find your desired domain name and buy it quickly", "version": "1.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.host4project.com/domain-registration"], "launch": {"web_url": "http://www.host4project.com/domain-registration"}}}

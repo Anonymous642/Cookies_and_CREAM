@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u0420\u0443\u043b\u0435\u0442\u043a\u0430", "version": "2.0", "icons": {"128": "icon128.png"}, "app": {"urls": ["http://minigames.mail.ru/ruletka"], "launch": {"web_url": "http://minigames.mail.ru/ruletka"}}, "permissions": ["notifications"], "manifest_version": 2}

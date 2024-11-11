@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Faraday", "description": "Open source and self hosted password manager", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "index.html", "default_title": "Faraday"}, "icons": {"16": "logo192.png", "48": "logo192.png", "128": "logo192.png"}, "permissions": ["tabs"]}

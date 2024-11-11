@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sun and Earth", "version": "0.8", "manifest_version": 2, "description": "Sun and Earth Game", "app": {"background": {"scripts": ["sunandearthlaunch.js"]}}, "icons": {"16": "globe.png", "128": "globe.png"}, "permissions": ["webview"]}

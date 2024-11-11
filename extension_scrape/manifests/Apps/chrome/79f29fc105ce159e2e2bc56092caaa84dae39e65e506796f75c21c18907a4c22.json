@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "BOMCONDUTOR", "description": "Testes de c\u00f3digo gr\u00e1tis", "version": "1", "manifest_version": 2, "app": {"urls": ["http://bomcondutor.pt/"], "launch": {"web_url": "http://bomcondutor.pt/teste"}}, "icons": {"128": "128.png"}}

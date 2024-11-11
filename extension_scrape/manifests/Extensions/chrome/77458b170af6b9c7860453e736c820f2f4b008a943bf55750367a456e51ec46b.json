@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Close/Reopen All Tabs", "version": "0.0.2", "icons": {"32": "images/close-icon.png"}, "action": {"default_title": "Close all tabs"}, "permissions": ["tabs", "activeTab", "storage"], "background": {"service_worker": "background.js"}}

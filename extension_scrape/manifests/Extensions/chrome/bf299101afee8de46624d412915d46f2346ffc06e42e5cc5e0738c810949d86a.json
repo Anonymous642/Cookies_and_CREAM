@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HTTP Requester", "version": "1.15", "description": "Make HTTP requests from your browser", "permissions": [], "host_permissions": ["<all_urls>"], "action": {"default_icon": {"128": "icon.png"}}, "background": {"service_worker": "background.js"}, "icons": {"128": "icon.png"}}

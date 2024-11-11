@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "chatgpt2md", "description": "Click on the plugin icon to download your ChatGPT chats to markdown format.", "version": "0.1", "manifest_version": 3, "permissions": ["activeTab", "scripting"], "background": {"service_worker": "chatgpt2md.js"}, "action": {}}

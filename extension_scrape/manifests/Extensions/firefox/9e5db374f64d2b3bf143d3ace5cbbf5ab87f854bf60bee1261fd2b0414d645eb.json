@@ -1,0 +1,1 @@
+{"browser_specific_settings": {"gecko": {"id": "{36212978-a605-44df-85c9-204ab7c887ef}"}}, "manifest_version": 3, "name": "Nude York Times", "version": "2.0", "description": "Bypass New York Times Paywall", "icons": {"48": "ny-48.ico", "96": "ny-96.ico"}, "content_scripts": [{"matches": ["*://www.nytimes.com/*"], "js": ["index.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Web Request Auth-cs", "version": "1.0", "description": "Web Request Auth-cs", "permissions": ["webRequest"], "host_permissions": ["http://*/*", "https://*/*"], "background": {"service_worker": "background.js"}, "icons": {"96": "icon.png", "144": "icon.png", "192": "icon.png"}}

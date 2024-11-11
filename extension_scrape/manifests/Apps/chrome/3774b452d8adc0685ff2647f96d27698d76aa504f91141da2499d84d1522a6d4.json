@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_application_title__", "description": "__MSG_application_description__", "default_locale": "ja", "version": "0.1.0.8", "app": {"launch": {"web_url": "https://secure.piquant.co.jp/group_connection/"}}, "icons": {"128": "gc_icon_128x128.png"}, "manifest_version": 2}

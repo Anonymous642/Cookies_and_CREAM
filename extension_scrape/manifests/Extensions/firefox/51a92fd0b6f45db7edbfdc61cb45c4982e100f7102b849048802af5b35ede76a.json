@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "vonClownstick", "version": "1.1", "description": "Changes Donald Trump's name to Fuckface von Clownstick in all instances", "icons": {"48": "vonClownstickIcon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["vonClownstick.js"]}]}

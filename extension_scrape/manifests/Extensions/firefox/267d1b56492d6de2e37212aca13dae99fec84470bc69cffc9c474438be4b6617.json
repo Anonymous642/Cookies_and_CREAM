@@ -1,0 +1,1 @@
+{"browser_action": {"default_icon": "default_icon.png", "default_title": "Sublimation Tools", "default_popup": "st.html"}, "description": "Get the best Information related to sublimation printers, blanks, papers, inks, Circuit Machines.", "icons": {"128": "default_icon.png"}, "manifest_version": 2, "name": "Sublimation Tools", "version": "1.1"}

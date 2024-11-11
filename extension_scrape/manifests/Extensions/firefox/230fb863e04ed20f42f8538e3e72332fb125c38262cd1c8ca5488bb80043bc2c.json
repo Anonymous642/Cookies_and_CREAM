@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MKCL VLM", "version": "3.0.0", "description": "MKCL Virtual Learning Monitor", "author": "Imtiyaz Shaikh", "icons": {"16": "16.png", "32": "32.png", "48": "48.png", "128": "128.png"}, "permissions": ["*://updatertestww.mkcl.org/*", "webRequest", "history", "<all_urls>"], "background": {"scripts": ["main.js"]}}

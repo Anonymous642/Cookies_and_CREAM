@@ -1,0 +1,1 @@
+{"browser_action": {"browser_style": true, "default_title": "NG Sigange", "default_popup": "window.html", "default_icon": {"19": "19x19.png", "38": "38x38.png"}}, "icons": {"48": "48x48.png", "96": "96x96.png"}, "description": "NG Signage", "homepage_url": "https://www.nguser.net", "manifest_version": 2, "name": "NG Sigange", "version": "1.0"}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TimerForge", "version": "1.2.0", "description": "Removes file and external link timers and makes downloading zips easier from curseforge.", "icons": {"48": "icons/48x48.png", "96": "icons/96x96.png"}, "content_scripts": [{"matches": ["*://www.curseforge.com/*"], "js": ["timerforge.js"]}]}

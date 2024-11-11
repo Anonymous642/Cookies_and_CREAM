@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "doubled", "description": "Create amazing double exposed photographs.", "version": "0.17", "offline_enabled": true, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"128": "icon-128.png"}, "permissions": [{"fileSystem": ["write"]}, "storage", "<all_urls>"]}

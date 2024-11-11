@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Quick Socials", "version": "1.0.1", "description": "Easy Access for socials", "manifest_version": 3, "action": {"default_icon": "./img/icon.png", "default_popup": "popup.html"}}

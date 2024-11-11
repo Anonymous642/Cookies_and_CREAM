@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AllMediaBlocker", "version": "0.1.0", "description": "Blocks all images and/or videos from loading.", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "paygham@pm.me"}}}

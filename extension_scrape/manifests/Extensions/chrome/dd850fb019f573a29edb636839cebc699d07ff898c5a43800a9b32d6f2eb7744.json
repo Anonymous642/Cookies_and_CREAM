@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Nextech Proofsheet", "version": "1", "manifest_version": 3, "content_scripts": [{"matches": ["https://app1.intellechart.net/Eye2MVC/Summary/Summary/Index/"], "js": ["inject.js", "html2pdf/html2pdf.js", "html2pdf/jspdf.min.js"]}], "host_permissions": ["https://app1.intellechart.net/"]}

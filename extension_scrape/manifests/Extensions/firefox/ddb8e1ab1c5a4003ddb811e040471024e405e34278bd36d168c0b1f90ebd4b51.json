@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TwitchPoints", "version": "1.3", "description": "Recoge los puntos de canal de Twitch que estes visualizando de manera automatica.", "icons": {"48": "icons/icon_48.png", "96": "icons/icon_96.png"}, "applications": {"gecko": {"id": "admin@blaron.com"}}, "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["script.js"]}]}

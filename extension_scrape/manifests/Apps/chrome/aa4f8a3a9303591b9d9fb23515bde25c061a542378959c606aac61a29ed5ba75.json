@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "\u77e5\u4e4e\u65e5\u62a5", "description": "\u77e5\u4e4e\u65e5\u62a5Chrome\u7248", "version": "3.0.2", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "img/logo16.png", "48": "img/logo48.png", "128": "img/logo128.png"}, "permissions": ["webview", "<all_urls>"]}

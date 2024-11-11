@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "depopify", "version": "1.0", "description": "Removes the Adblock Popup on golem.de", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.golem.de/*"], "js": ["depopify.js"]}]}

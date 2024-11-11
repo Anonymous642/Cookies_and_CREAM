@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Click Counter", "version": "1.0", "permissions": ["storage"], "description": "Click Counter.", "browser_action": {"default_title": "Click Counter", "default_icon": "icon.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{9a779723-e98b-44a1-af42-934400d94d5a}"}}}

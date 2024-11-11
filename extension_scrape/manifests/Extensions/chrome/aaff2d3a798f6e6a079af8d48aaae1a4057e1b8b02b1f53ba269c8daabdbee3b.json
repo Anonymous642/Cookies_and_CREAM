@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "muhtwaplus", "description": "quick navigation to muhtwaplus.com", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "popup.html"}}

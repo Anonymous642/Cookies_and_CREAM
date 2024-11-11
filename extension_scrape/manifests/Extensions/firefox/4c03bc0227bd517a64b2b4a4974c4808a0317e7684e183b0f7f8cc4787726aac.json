@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "remove-favicons-from-google-search-results", "version": "1.0", "content_scripts": [{"matches": ["https://*.google.com/search*", "https://*.google.de/search*"], "js": ["remove-icons.js"]}]}

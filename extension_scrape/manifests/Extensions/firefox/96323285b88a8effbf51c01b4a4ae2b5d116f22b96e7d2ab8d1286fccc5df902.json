@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "GBP to KES", "version": "1.0", "description": "Convert British Pounds to Kenyan Shillings", "browser_specific_settings": {"gecko": {"id": "gbp-to-kes@example.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Etsy Audit", "version": "0.2.0", "page_action": {"default_icon": {"32": "assets/search_document-512.png"}, "default_title": "Audit Etsy"}, "content_scripts": [{"matches": ["*://*.etsy.com/*"], "js": ["chrome-extension.js"]}], "permissions": ["clipboardWrite"]}

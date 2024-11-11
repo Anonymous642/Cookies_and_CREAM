@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove Comments - thejournal.ie", "version": "1.0", "description": "Removes the comment section of each article on thejournal.ie & more.", "icons": {"48": "icons/journal_logo-48.ico", "96": "icons/journal_logo-96.ico"}, "content_scripts": [{"matches": ["*://*.thejournal.ie/*", "*://*.the42.ie/*"], "js": ["removeComments.js"]}]}

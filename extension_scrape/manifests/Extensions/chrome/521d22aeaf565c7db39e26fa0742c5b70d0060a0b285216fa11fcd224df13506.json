@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "AdZap", "version": "0.1", "description": "AdZap est gratuit et zap toutes les publicit\u00e9s sur les sites de streaming TV. ", "options_page": "profil.html", "permissions": ["tabs"], "browser_action": {"default_icon": "images/fav1.png", "default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Close Other Tabs", "version": "1.0", "permissions": ["contextMenus"], "description": "Adds a right click menu option for closing all other tabs.", "background": {"scripts": ["background.js"]}, "icons": {"16": "close-24px.png", "48": "close-24px@1x.png", "128": "close-24px@2x.png"}, "manifest_version": 2}

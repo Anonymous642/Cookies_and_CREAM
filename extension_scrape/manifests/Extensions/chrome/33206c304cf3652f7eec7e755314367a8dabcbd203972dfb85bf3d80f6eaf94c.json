@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Solid Performers", "default_locale": "en", "description": "Solid Performers CRM - A Cloud based Highly Reliable CRM System", "background": {"scripts": ["background.js"]}, "version": "1.0", "icons": {"128": "images/icon.png"}, "browser_action": {"default_icon": "images/icon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bama Price Shower", "version": "1.0.0", "author": "CACTUS SOFTWARE GROUP", "description": "Remove blured effects from Bama.ir cars price.", "icons": {"48": "assets/img/logo.svg"}, "content_scripts": [{"matches": ["*://*.bama.ir/*"], "js": ["assets/js/bama_price_shower.js"]}], "permissions": ["storage", "https://www.bama.ir/"]}

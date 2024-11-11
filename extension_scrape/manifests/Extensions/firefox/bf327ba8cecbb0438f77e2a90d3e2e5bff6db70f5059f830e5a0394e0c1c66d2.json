@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "EZ3 Link Minifier", "version": "1.0", "description": "minifies your current URL and copies to clipboard", "icons": {"48": "icons/link.png"}, "permissions": ["tabs", "clipboardWrite"], "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icons/link.png"}}

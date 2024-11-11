@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "0.3.1", "name": "hold it sideways", "description": "Flip a manga/comic page with ',' and '.' and read inverted text like a human bean.", "developer": {"name": "kootoopas", "url": "https://github.com/kootoopas"}, "content_scripts": [{"matches": ["<all_urls>"], "match_about_blank": true, "js": ["content.js"]}]}

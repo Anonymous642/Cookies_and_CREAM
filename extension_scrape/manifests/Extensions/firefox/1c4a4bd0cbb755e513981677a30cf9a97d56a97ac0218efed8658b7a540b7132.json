@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "redirectIdress", "version": "1.0", "description": "Redirect URLs Related Idress", "icons": {"48": "images/border-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content_script.js"]}], "browser_specific_settings": {"gecko": {"id": "{83450a9f-3de5-4eb3-86d1-c8c115b4666a}"}}}

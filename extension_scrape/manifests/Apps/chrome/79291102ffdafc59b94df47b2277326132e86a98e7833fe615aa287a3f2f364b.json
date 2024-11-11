@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bedriftsbasen", "description": "Bedriftsbasen.no er medlem av World Wide Web Chamber of Commerce", "version": "1.0", "manifest_version": 2, "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.bedriftsbasen.no/"], "launch": {"web_url": "http://www.bedriftsbasen.no/"}}}

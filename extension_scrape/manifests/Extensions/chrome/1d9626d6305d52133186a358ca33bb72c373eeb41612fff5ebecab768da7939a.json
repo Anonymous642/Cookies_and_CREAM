@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Stack Colors", "manifest_version": 2, "description": "Collect objects of a specific color and to get as many of them as you can to the finish line", "icons": {"16": "16.png", "128": "128.png"}, "version": "1", "browser_action": {}, "background": {"scripts": ["popup.js"], "persistent": false}}

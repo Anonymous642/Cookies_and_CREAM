@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "New Title Extension!", "manifest_version": 3, "description": "New title extension for test for 1", "version": "1", "icons": {"128": "icon.png"}, "browser_action": {"default_icon": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MRBEAST", "version": "1.0.2", "description": "Play a video of MRBEAST whenever you want", "short_name": "MRBEAST", "incognito": "split", "action": {"default_title": "MRBEAST", "default_popup": "popup.html", "default_icon": {"128": "assets/icon.png"}}}

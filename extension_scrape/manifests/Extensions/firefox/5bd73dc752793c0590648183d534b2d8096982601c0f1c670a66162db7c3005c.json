@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ely Library Worldshare Extension", "description": "Make barcode reading work", "version": "1.0.1", "content_scripts": [{"all_frames": false, "matches": ["https://westfield.share.worldcat.org/*"], "js": ["content.js"], "run_at": "document_end"}], "icons": {"16": "owl_16.png", "48": "owl_48.png", "128": "owl_128.png"}}

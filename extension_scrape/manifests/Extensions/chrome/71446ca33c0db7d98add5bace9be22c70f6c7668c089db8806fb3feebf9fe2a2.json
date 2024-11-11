@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LingQ Hotkeys Menu - by Rooster", "description": "Remap keybindings for the LingQ website in an easy menu", "version": "1.31", "content_scripts": [{"matches": ["https://www.lingq.com/*/learn/*/web/reader/*"], "js": ["content.js"]}], "host_permissions": ["https://www.lingq.com/*"]}

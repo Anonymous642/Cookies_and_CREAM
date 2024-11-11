@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Force Imgur Desktop", "version": "1", "author": "DavidJCobb", "applications": {"gecko": {"id": "forceimgurdesktop@DavidJCobb", "strict_min_version": "60.0"}}, "background": {"scripts": ["background.js"]}, "permissions": ["webRequest", "webRequestBlocking", "*://*.imgur.com/*", "*://imgur.com/*"]}

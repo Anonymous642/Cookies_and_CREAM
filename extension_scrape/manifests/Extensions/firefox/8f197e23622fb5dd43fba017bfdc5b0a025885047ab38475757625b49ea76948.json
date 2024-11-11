@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "remove-elmundo-login", "version": "0.9", "description": "Elimina la restriccion de lectura en elmundo.es", "icons": {"32": "icons/removeElMundo.png"}, "content_scripts": [{"matches": ["*://*.elmundo.es/*"], "js": ["remove.js"]}], "applications": {"gecko": {"id": "remove@elmundo.es"}}}

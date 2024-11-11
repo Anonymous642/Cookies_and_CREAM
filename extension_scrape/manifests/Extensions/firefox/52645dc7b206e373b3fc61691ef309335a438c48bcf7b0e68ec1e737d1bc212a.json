@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Erstatt favicon med pannekaker", "version": "1.0", "description": "Replaces specific favicon med digge pannekaker nam nam", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content-script.js"]}], "browser_specific_settings": {"gecko": {"id": "{5132e565-c23e-4a08-a179-23a591d8ca1d}"}}}

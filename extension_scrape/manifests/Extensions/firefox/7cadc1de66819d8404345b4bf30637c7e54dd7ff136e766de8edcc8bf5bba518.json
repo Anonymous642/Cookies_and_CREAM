@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "cfsnow", "version": "1.0", "description": "remove snow background from cf", "icons": {"48": "favicon.png"}, "applications": {"gecko": {"id": "cfsnow@gir.org", "strict_min_version": "45.0"}}, "content_scripts": [{"matches": ["*://*.codeforces.com/*"], "js": ["scr.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Ad Skipper", "version": "1.0", "description": "Auto click 'SKIP AD'", "icons": {"48": "icons/bt_skip_fw.ico"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["main.js"]}]}

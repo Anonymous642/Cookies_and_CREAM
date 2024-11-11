@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Copy mobile phone from whatsapp message", "description": "Automatically copies the mobile phone number from a whatsapp message to the clipboard.", "version": "0.0.7", "manifest_version": 3, "permissions": [], "content_scripts": [{"matches": ["https://*.whatsapp.com/*"], "js": ["copy-phone.js"]}]}

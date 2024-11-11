@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube - No Live Stream Badge Animation", "version": "1.0", "description": "Removes annoying animated icon from live streams.", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "css": ["style.css"]}]}

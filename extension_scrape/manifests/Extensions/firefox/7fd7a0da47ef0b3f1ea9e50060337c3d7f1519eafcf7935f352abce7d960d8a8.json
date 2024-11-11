@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Right pane remover", "version": "1.1", "description": "This addons removes the right pane from w3schools.com for best.", "content_scripts": [{"matches": ["https://www.w3schools.com/*"], "js": ["removeRightPane.js"]}], "browser_specific_settings": {"gecko": {"id": "{7da7860f-224b-41ad-bc15-1edea0bc0f10}"}}}

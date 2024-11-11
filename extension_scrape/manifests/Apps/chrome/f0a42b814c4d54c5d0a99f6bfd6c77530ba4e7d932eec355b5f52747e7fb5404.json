@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "R\u00e5varubutiken", "description": "Ekologiska livsmedel till alla!", "version": "1.0", "icons": {"128": "128.png"}, "app": {"urls": ["http://www.ravarubutiken.se/"], "launch": {"web_url": "http://www.ravarubutiken.se/"}}, "permissions": ["unlimitedStorage", "notifications"]}

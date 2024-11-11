@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Enrico Tabacchi", "description": "Portfolio of Enrico Tabacchi Milan-based photographer", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://enricotabacchi.it/"], "launch": {"web_url": "http://enricotabacchi.it/"}}}

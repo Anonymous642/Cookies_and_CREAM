@@ -1,0 +1,1 @@
+{"description": "svd ad alert remover", "manifest_version": 2, "name": "svd ad alert remover", "version": "1.0", "permissions": ["<all_urls>"], "content_scripts": [{"matches": ["https://*.svd.se/*"], "js": ["jquery.js", "svd.js"]}], "browser_action": {"default_icon": {"16": "icons/favicon-256.png", "32": "icons/favicon-256.png"}}}

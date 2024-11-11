@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Large Integer Addition", "version": "1.0", "description": "A Mozilla Addon to calculate the sum of large integers", "icons": {"48": "icon.png"}, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{9dbc4637-502d-4ab9-ac77-a9b7b0c89ddf}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Block Bot", "version": "1.3", "description": "A simple utility to disable bots that distub you while accessing websites.", "icons": {"48": "icon.png", "96": "icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "css": ["content.css"]}]}

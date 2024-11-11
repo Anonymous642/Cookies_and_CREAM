@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PiPLink2", "version": "1.0.3", "description": "Get preview of a link similar to picture-in-picture when you click it while holding Ctrl+Shift", "content_scripts": [{"matches": ["<all_urls>"], "js": ["piplink2.js"]}], "browser_specific_settings": {"gecko": {"id": "{888d1f56-cb1a-4ff1-afc4-1655495778bd}"}}}

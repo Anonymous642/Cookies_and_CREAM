@@ -1,0 +1,1 @@
+{"browser_action": {"default_title": "Theme toggler", "default_popup": "toggle.html", "browser_style": true, "default_icon": {"48": "border-48.png"}}, "version": "1.0", "description": "Toggler for switching the themes in Firefox.", "manifest_version": 2, "name": "Theme Toggler", "permissions": ["management"], "icons": {"48": "border-48.png"}}

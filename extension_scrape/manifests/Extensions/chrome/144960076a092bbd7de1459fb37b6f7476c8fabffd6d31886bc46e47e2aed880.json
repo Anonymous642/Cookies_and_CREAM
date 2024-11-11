@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Extension Twitch de Fransosiche", "description": "Vous informe quand Fransosiche est en live", "version": "1.2", "browser_action": {"default_popup": "index.html"}, "icons": {"64": "img/OffStream.png"}, "background": {"scripts": ["js/jquery.js", "js/background.js"]}}

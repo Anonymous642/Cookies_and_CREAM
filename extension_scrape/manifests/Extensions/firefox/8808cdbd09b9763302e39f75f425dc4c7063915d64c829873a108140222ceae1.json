@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FFYM", "version": "0.1", "browser_specific_settings": {"gecko": {"id": "{df97cc10-20bf-45e9-9a36-df70a114b79c}"}}, "content_scripts": [{"matches": ["*://music.yandex.ru/*"], "js": ["mediakeys.js"]}]}

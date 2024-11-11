@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Irup Currency Converter", "description": "Convert currencies without leaving your browser tab", "version": "1.0", "action": {"default_popup": "popup/popup.html", "default_icon": "512.png"}, "icons": {"512": "512.png"}}

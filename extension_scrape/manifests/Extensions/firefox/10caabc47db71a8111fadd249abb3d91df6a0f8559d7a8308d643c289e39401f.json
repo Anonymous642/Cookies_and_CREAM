@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TwitterLogo", "version": "1.4", "description": "Changes the twitter logo back to Larry Bird", "icons": {"48": "logo.png"}, "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["twitterlogo.js"]}], "browser_specific_settings": {"gecko": {"id": "{ee5ea607-00f9-4d75-8bc8-0bb8f5495a77}"}}}

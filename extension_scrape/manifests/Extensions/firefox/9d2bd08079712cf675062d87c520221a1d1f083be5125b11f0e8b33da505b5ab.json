@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Default WebM Looper", "version": "0.1.2", "default_locale": "en", "description": "__MSG_extensionDescription__", "content_scripts": [{"matches": ["<all_urls>"], "js": ["cs_allways.js"]}], "applications": {"gecko": {"id": "{dc9c8ad5-5054-4cde-b774-b4409f986887}", "strict_min_version": "56.0"}}}

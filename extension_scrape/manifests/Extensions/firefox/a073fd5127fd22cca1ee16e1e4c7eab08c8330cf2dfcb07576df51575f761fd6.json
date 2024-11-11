@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Better RCW/WAC", "version": "0.2", "description": "Reformats WAC and RCW on leg.wa.gov for easier reading.", "icons": {"48": "icons/noun-book.svg", "96": "icons/noun-book.svg"}, "content_scripts": [{"matches": ["*://*.leg.wa.gov/*"], "js": ["rcwwac.js"], "css": ["spacing.css"]}]}

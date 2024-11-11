@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CPD Portfolio", "description": "Online CPD Portfolio Builder and Course and Event Finder", "version": "2.3", "manifest_version": 2, "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.cpdme.com/"], "launch": {"web_url": "http://www.cpdme.com/"}}}

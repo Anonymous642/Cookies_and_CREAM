@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Drupal Devel Prettier", "version": "1.0", "description": "Add the linthing to devel/php into drupal", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://*/*/devel/php*", "*://*/devel/php*"], "js": ["drupal.js"]}], "options_ui": {"page": "options.html"}, "permissions": ["storage"]}

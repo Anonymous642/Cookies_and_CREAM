@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DiscountDashboardBells", "version": "0.6", "description": "Adds bells to the top of the tumblr dashboard.", "icons": {"48": "icons/blue_bell_48_48_bright.png"}, "content_scripts": [{"matches": ["*://*.tumblr.com/*"], "js": ["simple_body_bells.js"]}], "browser_specific_settings": {"gecko": {"id": "{3671db59-f082-4e02-8af4-1539b66cb423}"}}}

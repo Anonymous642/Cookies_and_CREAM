@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "QuickFile - Temp & Anonymous File Share", "description": "Share a file anonymous with your friends and family, file will auto deleted after 7 days of inactivity.", "version": "1.1", "manifest_version": 3, "action": {"default_popup": "index.html", "default_icon": "logo.png"}}

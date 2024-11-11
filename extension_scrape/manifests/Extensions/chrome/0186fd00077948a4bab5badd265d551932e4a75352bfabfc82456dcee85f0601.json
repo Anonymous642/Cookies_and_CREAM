@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Obfuscate texts", "version": "0.0.1", "manifest_version": 3, "permissions": ["scripting", "activeTab", "contextMenus"], "action": {"default_title": "Obfuscate"}, "background": {"service_worker": "background.js"}, "optional_host_permissions": ["*://*/*"]}

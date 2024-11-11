@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MdPress++", "description": "A compact and powerful markdown editor with extra features.", "version": "0.1.2", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "dist/img/16.png", "48": "dist/img/48.png", "128": "dist/img/128.png"}}

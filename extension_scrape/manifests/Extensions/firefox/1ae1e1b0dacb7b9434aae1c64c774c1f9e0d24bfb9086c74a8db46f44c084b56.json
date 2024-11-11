@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "shaalaa.com close-dialog", "version": "1.0", "description": "Removes the pop up when ypu open shaalaa.com with ad-blocker.\nAlso lets you skip through questions through arrow keys", "content_scripts": [{"matches": ["*://*.shaalaa.com/*"], "js": ["run.js"]}]}

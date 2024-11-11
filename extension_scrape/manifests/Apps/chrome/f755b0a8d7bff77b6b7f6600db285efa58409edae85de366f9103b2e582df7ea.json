@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Cool Tabs", "description": "Your Social Media Marketing platform", "version": "1.1", "app": {"urls": ["https://www.cool-tabs.com/"], "launch": {"web_url": "https://www.cool-tabs.com/"}}, "icons": {"128": "128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

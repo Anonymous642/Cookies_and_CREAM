@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Dungeon Survival", "permissions": ["storage"], "short_name": "Dungeon Survival", "version": "0.1.6", "minimum_chrome_version": "23", "icons": {"128": "icon128-4.png"}, "app": {"background": {"scripts": ["main.js"]}}}

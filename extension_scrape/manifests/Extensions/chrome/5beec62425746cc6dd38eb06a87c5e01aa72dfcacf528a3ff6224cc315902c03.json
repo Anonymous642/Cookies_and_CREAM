@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Based-Cringe Vote", "description": "Replaces Yea and Nay with Based and Cringe", "version": "1.00", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

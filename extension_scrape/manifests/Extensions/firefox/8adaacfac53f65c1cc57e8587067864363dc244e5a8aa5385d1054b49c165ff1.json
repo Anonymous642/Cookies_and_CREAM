@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Colorful Everything", "version": "2.0", "description": "Rangeen Everything", "icons": {"32": "ico.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

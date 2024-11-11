@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "World Time", "version": "1.0", "manifest_version": 3, "description": "This Extension will Allow you to add clock from different timezone to Your Browser", "action": {"default_icon": {"32": "ico.png"}, "default_popup": "popup.html"}, "icons": {"48": "ico.png", "128": "ico.png"}}

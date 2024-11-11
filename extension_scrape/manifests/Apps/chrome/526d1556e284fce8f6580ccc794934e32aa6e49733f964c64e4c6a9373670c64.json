@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ThinkFaster ColorPicker", "description": "Choose Pleasing Color Schemes", "manifest_version": 2, "version": "1.0", "app": {"urls": ["http://thinkfaster.co/colorpicker"], "launch": {"web_url": "http://thinkfaster.co/colorpicker"}}, "icons": {"128": "colorwheel-icon-128x128.png"}, "permissions": []}

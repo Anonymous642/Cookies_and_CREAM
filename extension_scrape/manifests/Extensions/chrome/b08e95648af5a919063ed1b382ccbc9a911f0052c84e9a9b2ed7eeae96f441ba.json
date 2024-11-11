@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "2", "default_locale": "zh_CN", "name": "__MSG_extName__", "description": "__MSG_extDesc__", "icons": {"128": "star.png"}, "content_scripts": [{"js": ["dbj.js"], "css": ["dbj.css"], "matches": ["*://movie.douban.com/subject/*"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Extension BlanchysnowTv", "version": "1.9.4.2", "description": "Pour toujours savoir si BlanchysnowTv est en live", "permissions": ["notifications", "alarms"], "browser_action": {"default_popup": "index.html"}, "icons": {"64": "img/StreamON64.png"}, "background": {"scripts": ["jquery.js", "background.js"]}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ffn", "version": "1.0", "description": "Increase default font size and enable copying of story text for commenting purposes.", "icons": {"48": "icons/ffn.png"}, "content_scripts": [{"matches": ["*://*.fanfiction.net/*"], "js": ["ffn.js"], "run_at": "document_idle"}]}

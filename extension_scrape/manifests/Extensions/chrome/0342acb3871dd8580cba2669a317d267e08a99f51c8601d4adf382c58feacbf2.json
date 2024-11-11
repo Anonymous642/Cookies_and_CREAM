@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bored", "version": "1.0.0", "description": "Activities for when you're bored", "manifest_version": 3, "author": "Victoria Gonzalez-Canalle", "action": {"default_popup": "index.html", "default_title": "Bored"}, "icons": {"48": "icon48.png", "128": "icon128.png"}}

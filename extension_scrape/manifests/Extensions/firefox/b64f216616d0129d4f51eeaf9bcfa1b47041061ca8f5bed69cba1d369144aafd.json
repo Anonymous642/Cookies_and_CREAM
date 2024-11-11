@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "bratFastMode", "version": "1.0", "description": "Add an UI for fast annotation of brat document (document level classification).", "content_scripts": [{"matches": ["<all_urls>"], "js": ["bratFastMode.js"], "css": ["bratFastMode.css"]}]}

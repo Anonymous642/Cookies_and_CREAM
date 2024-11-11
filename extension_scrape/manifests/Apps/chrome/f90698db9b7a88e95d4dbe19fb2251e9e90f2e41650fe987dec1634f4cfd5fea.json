@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Amato Consult\u00f3rio M\u00e9dico", "description": "Consult\u00f3rio M\u00e9dico com v\u00e1rias especialidades em S\u00e3o Paulo.", "version": "0.1", "icons": {"128": "logo_amato.png"}, "app": {"launch": {"web_url": "http://www.amato.com.br/?utm_medium=chrome&utm_source=app"}}}

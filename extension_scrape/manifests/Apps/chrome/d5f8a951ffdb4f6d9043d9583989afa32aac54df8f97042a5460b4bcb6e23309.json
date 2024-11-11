@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Jigsaw Puzzles", "description": "Play thousands of amazing jigsaw puzzles, become the puzzle master!", "version": "1.0.0.0", "icons": {"128": "icon_128.png", "256": "icon_256.png"}, "app": {"urls": ["http://www.yojigsaw.com/"], "launch": {"web_url": "http://www.yojigsaw.com/"}}}

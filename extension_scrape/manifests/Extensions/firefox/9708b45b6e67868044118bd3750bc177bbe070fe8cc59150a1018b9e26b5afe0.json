@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ClownFinder for /r/CFB & /r/NFL", "version": "0.2", "description": "Find clowns on the internet", "content_scripts": [{"matches": ["*://*.reddit.com/r/CFB/*", "*://*.reddit.com/r/nfl/*"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{90e95d99-aefd-4ce1-b992-be953065f97f}"}}}

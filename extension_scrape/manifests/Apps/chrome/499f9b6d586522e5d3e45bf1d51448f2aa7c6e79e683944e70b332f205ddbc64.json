@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Fruition - Google SEO Penalty Checker", "description": "Fruition - Google SEO Penalty Checker", "version": "0.2", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "photo16.png", "128": "photo128.png"}, "minimum_chrome_version": "23", "permissions": ["webview"]}

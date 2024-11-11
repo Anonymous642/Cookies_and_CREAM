@@ -1,0 +1,1 @@
+{"description": "On the main page of youtube are alot of clickbait videos recommended. This plugin hides all recomended videos on the homepage.", "manifest_version": 2, "name": "Hide youtube clickbait main page.", "version": "1.1", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["remove_feed.js"]}]}

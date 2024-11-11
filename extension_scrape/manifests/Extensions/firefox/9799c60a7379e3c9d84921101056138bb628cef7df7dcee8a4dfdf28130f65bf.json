@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SpoilerNoNo", "version": "1.0", "description": "Hides Youtube videos containing keywords", "icons": {"48": "img/48.svg"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["spoilernono.js"]}], "browser_specific_settings": {"gecko": {"id": "spoilernono@example.com"}}, "options_ui": {"page": "home.html"}, "permissions": ["storage"]}

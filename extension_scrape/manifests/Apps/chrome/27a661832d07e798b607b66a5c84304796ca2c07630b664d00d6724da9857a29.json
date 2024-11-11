@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Siteor", "version": "1.2", "icons": {"24": "siteor24.png", "128": "siteor128.png"}, "app": {"urls": ["http://siteor.pl/"], "launch": {"web_url": "http://siteor.pl/"}}}

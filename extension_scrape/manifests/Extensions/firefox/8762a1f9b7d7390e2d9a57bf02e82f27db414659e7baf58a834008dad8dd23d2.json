@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Colors Boat", "version": "1.1", "description": "Explore beautiful colors !", "icons": {"512": "logo.png"}, "content_scripts": [{"matches": ["*://*.mozilla.org/*"], "js": ["app.js"]}], "browser_specific_settings": {"gecko": {"id": "{92fbd7d8-7e22-4534-9ae1-ae9686ad5d5a}"}}}

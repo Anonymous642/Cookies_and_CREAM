@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "tpos 2.0", "description": "tpos 2.0 Christina", "version": "1.2", "icons": {"128": "128.png"}, "app": {"urls": ["http://www.tp-os.de/"], "launch": {"web_url": "http://www.tp-os.de/"}}, "permissions": ["unlimitedStorage", "notifications"]}

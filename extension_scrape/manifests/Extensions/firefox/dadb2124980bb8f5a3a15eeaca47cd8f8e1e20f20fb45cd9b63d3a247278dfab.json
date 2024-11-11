@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Obscuritas", "version": "3.0", "description": "Firefox dark mode extension that replace all light colors to dark colors on every page by JS.", "icons": {"48": "icons/obscuritas-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "run_at": "document_start", "js": ["obscuritas.js"]}], "web_accessible_resources": ["script.js"]}

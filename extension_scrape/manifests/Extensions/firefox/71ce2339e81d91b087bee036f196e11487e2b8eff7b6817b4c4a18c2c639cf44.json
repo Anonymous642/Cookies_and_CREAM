@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Break Load TypeRush", "version": "1.0", "description": "Takes the annoying loading wrapper away", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.typerush.com/*"], "js": ["rush.js"]}]}

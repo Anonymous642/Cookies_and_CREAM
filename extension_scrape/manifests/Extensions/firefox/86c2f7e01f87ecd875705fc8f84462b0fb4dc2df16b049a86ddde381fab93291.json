@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "GBP to IRR", "version": "1.0", "description": "Convert British Pounds to Iranian Rials", "browser_specific_settings": {"gecko": {"id": "gbp-to-irr@example.com"}}}

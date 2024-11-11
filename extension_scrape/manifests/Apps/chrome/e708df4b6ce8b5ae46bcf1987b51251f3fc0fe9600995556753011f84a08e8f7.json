@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "USask Services", "description": "A simple Chrome app for easy access to USask services.", "version": "1.0.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"background": {"scripts": ["main.js"]}}, "permissions": ["http://*.usask.ca/", "webview"]}

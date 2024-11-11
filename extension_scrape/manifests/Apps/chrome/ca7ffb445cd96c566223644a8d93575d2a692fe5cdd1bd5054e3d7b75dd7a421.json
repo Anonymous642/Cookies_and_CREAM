@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Play TV", "description": "La vraie application de t\u00e9l\u00e9vision gratuite en direct", "version": "2.1", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "app": {"urls": ["http://play.tv/"], "launch": {"web_url": "http://play.tv/"}}}

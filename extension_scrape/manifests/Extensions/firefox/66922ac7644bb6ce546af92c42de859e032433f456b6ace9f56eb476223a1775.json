@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SettFarger", "version": "1.0", "description": "Setter tekst og bakgrunnsfarger", "browser_specific_settings": {"gecko": {"id": "settfarger@devitsmart.com"}}, "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["SettFarger.js"]}]}

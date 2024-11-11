@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "SOKOBAN 2.0", "description": "classic Sokoban game", "version": "0.0.0.2", "icons": {"128": "icon_128.png"}, "app": {"launch": {"web_url": "http://app.game-sokoban.com"}}}

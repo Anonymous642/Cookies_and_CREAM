@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Regla Online", "manifest_version": 2, "short_name": "Regla Online", "description": "Regla Online con cent\u00edmetros y pulgadas.", "version": "1", "icons": {"128": "icon.jpg"}, "app": {"launch": {"web_url": "http://online-ruler.hekoru.lol/es/"}}}

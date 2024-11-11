@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SalesForce Link Grabber Activate", "version": "1.4", "description": "Opens SalesForce (*.force.com*) Links in Existing SF Tab and Activate the Tab", "permissions": ["webNavigation", "*://*.force.com/*", "tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{a56c7bfe-e619-4b42-a3ab-c9ab6e72261b}"}}}

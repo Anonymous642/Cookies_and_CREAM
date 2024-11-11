@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Solar Eclipse", "description": "A simple style for chrome new tab that shows you the time until the solar eclipse.", "version": "1.0.0", "author": "Camdyn P Clark", "icons": {"128": "icons/128.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}}

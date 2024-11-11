@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "NYT Connections Helper", "description": "Shows your previous guesses in the NYT connections game", "version": "1.0", "host_permissions": ["https://www.nytimes.com/*"], "content_scripts": [{"js": ["scripts/content.js"], "matches": ["https://www.nytimes.com/games/connections"]}]}

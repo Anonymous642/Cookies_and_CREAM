@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LinkedIn Overlay Remover", "version": "1.0", "description": "Removes the overlay that displays over a linkedin profile.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.linkedin.com/*"], "js": ["remover.js"]}]}

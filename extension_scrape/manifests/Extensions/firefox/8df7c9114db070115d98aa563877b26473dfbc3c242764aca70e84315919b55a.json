@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Asyabahis H\u0131zl\u0131 Eri\u015fim", "description": "Asyabahis'e bu eklenti ile hemen ula\u015f\u0131n ve bildirim al\u0131n", "version": "1.0.5", "icons": {"128": "icon_128.png"}, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["tabs", "activeTab"]}

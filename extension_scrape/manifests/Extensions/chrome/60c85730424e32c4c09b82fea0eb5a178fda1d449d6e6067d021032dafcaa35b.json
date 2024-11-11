@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "UWorld2Anki", "version": "1.1", "content_scripts": [{"matches": ["https://apps.uworld.com/courseapp/usmle/*/testinterface/launchtest/*"], "js": ["index.js"], "css": ["btn.css"], "run_at": "document_end"}], "icons": {"48": "icon48.png", "128": "icon128.png"}}

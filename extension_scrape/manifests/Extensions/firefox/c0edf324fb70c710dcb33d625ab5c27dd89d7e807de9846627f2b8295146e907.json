@@ -1,0 +1,1 @@
+{"description": "BBC Sounds Dark Mode", "manifest_version": 2, "name": "BBC Sounds Dark Mode", "version": "1.0.1", "homepage_url": "https://github.com/Jamie0/BBCSoundsDarkMode", "background": {"scripts": ["bbc-sounds-dark.js"]}, "web_accessible_resources": ["dark.css"], "permissions": ["activeTab", "tabs", "<all_urls>"]}

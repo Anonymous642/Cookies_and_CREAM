@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WEDO Large Task Table", "version": "1.0", "description": "Increase the tasks table width", "content_scripts": [{"matches": ["https://*.wedo.swiss/*"], "css": ["custom.css"]}], "browser_specific_settings": {"gecko": {"id": "{fddd6d94-e1a7-459f-8982-fd2479e10a4f}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ES-Emoji Substitution", "description": "Replaces words with emojis.", "version": "3.9.0", "icons": {"48": "icons/icon.png", "96": "icons/icon@2x.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["./emojiMap.js", "./substitute.js"]}]}

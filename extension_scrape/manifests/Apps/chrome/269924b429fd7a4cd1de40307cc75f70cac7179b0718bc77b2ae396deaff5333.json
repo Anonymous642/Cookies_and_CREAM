@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"urls": ["http://www.romeonews.org/"], "launch": {"web_url": "http://www.romeonews.org/"}}, "name": "R News", "description": "Romeo High School's Student News Publication", "manifest_version": 2, "version": "1.0", "icons": {"128": "icon_128.png"}}

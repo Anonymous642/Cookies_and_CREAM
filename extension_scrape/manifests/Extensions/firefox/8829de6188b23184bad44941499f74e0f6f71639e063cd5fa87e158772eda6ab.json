@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "srcAddon", "version": "1.0", "description": "Adds a red border to all webpages on srcmake.com", "icons": {"48": "src48x48.png"}, "content_scripts": [{"matches": ["*://*.keybr.com/*"], "js": ["srcborder.js"]}], "browser_specific_settings": {"gecko": {"id": "{816c3874-d88c-4d6e-bc19-0cc44bcfce96}"}}}

@@ -1,0 +1,1 @@
+{"name": "Manu Auto Correct", "version": "0.4", "manifest_version": 2, "description": "Bon alors d\u00e9j\u00e0 c'est M. Le Pr\u00e9sident", "icons": {"128": "icons/128.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["js/correct.js"]}]}

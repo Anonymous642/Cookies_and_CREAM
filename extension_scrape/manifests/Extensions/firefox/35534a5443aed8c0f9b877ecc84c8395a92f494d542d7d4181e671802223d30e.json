@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sticky Pinned Tab", "description": "Keeps a tab pinned when moving between browser windows, just like Chromium-based browsers", "version": "1.0.0", "icons": {"64": "icons/icon.png"}, "browser_specific_settings": {"gecko": {"id": "stickypinnedtab@bankinginbim.com"}}, "background": {"scripts": ["background_script.js"]}}

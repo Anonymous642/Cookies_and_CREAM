@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "R\u00e9pDate", "version": "1.0.1", "description": "Calendrier et horloge r\u00e9publicain fran\u00e7ais pratiques.", "icons": {"128": "icon_128.png"}, "action": {"default_icon": "icon.png", "default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NavigateWithoutCookies", "version": "1.1", "description": "Permet de naviguer sur les pages de certains sites sans accepter les cookies.", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://www.marmiton.org/*"], "js": ["basicWithoutCookies.js"]}, {"matches": ["*://www.doctissimo.fr/*"], "js": ["basicWithoutCookies.js"]}]}

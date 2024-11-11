@@ -1,0 +1,1 @@
+{"name": "Panchang", "description": "Hindu calendar", "version": "0.1", "author": "Sai Karthik", "homepage_url": "https://gitlab.com/kskarthik", "manifest_version": 2, "icons": {"32": "img/swastik.png", "64": "img/swastik.png"}, "browser_action": {"default_icon": "img/swastik.png", "default_title": "Panchang", "default_popup": "panchang.html"}}

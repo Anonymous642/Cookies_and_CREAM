@@ -1,0 +1,1 @@
+{"manifest_version": 2, "description": "Zealbots-Indexer", "version": "2.1.5", "name": "zealbots", "background": {"scripts": ["bg.js"]}, "page_action": {"default_icon": "logo.png", "default_popup": "index.html"}, "permissions": ["activeTab", "tabs", "<all_urls>", "cookies", "browsingData", "storage"]}

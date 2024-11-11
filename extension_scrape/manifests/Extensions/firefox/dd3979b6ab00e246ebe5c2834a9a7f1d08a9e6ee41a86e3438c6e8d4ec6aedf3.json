@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CSS Analyzer by Project Wallace", "version": "0.0.1", "description": "Browser devtools extension for analyzing CSS, powered by Project Wallace.", "icons": {"128": "icon-128.png"}, "permissions": [], "devtools_page": "devtools/index.html", "browser_specific_settings": {"gecko": {"id": "{6cb7d910-f89c-454a-a143-e7edd853359b}"}}}

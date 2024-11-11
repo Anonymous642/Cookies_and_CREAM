@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Marooned", "version": "1.1", "description": "A custom UI suite for cohost.org", "icons": {"48": "icons/marooned-48.png"}, "content_scripts": [{"matches": ["*://*.cohost.org/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{e4868e84-7e3d-4ea9-b12d-ab1dda7895bc}"}}}

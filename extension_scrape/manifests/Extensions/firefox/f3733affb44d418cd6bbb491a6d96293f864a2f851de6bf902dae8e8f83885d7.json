@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AmazonTrackLink", "version": "1.1", "description": "Creates a link on shipment status page (only Germany)", "icons": {"48": "icons/trackit-48.png"}, "content_scripts": [{"matches": ["*://*.amazon.de/gp/your-account/ship-track/*"], "js": ["linktrack.js"]}]}

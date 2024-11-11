@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Skribbl Qol", "version": "1.0", "description": "Adds a bunch of Qualities of life to skribbl", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://skribbl.io/*", "https://skribbl.io/"], "js": ["index.js", "style.js"]}]}

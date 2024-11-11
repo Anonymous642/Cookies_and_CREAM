@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Yohoho! Puzzle Pirates Tools", "description": "Assorted tools for Puzzle Pirates: Damage Counter, Yoweb Lookup, and Wiki Search.", "version": "1.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://ypp.jerl.im/"], "launch": {"web_url": "http://ypp.jerl.im/"}}}

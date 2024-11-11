@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Confetti!", "version": "1.2.5", "description": "Adds confetti everywhere!!!", "content_scripts": [{"js": ["confetti.js"], "css": [], "matches": ["<all_urls>"]}], "icons": {"32": "32x32.png", "48": "48x48.png", "128": "128x128.png"}}

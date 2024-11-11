@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "pac-man game", "version": "1.0", "description": "Play Classic Pacman for free. Use the arrow keys to move Pac-Man, Ms.Pac-Man or Cookie-Man.", "icons": {"128": "128.png"}, "action": {"default_title": "pac-man game", "default_icon": "icon_19.png", "default_popup": "popup.htm"}, "manifest_version": 3}

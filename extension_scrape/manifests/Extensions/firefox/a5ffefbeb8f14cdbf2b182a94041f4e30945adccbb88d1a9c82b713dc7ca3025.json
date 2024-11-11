@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ForumHelper", "version": "1.3", "description": "Helper for administartions Arz-RP", "applications": {"gecko": {"id": "alexalavares@gmail.com", "strict_min_version": "48.0"}}, "permissions": ["storage"], "content_scripts": [{"matches": ["*://forum.arizona-rp.com/*", "*://ulog.union-u.net/*", "*://arizonarp.logsparser.info/*"], "js": ["index.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TV2-Filter", "version": "1.2.0", "description": "Filters the content from TV2 based on news categories. Currently removes news related to H\u00e5ndbold and X-factor", "content_scripts": [{"matches": ["*://*.tv2.dk/*"], "js": ["cleaner.js"]}]}

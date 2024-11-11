@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Notepad", "version": "1.0", "description": "Une extension avec un bloc-notes", "icons": {"48": "logo.png"}, "browser_action": {"default_icon": {"48": "logo.png"}, "default_popup": "popup.html"}, "permissions": ["activeTab", "storage"], "browser_specific_settings": {"gecko": {"id": "{5e1db162-eecd-417f-9fd9-3efdaf30c7d4}"}}}

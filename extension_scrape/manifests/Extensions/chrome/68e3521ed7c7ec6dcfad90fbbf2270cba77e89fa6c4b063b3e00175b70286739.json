@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Github Review Highlighter", "version": "1.0", "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://github.com/*"], "css": ["content.css"]}]}

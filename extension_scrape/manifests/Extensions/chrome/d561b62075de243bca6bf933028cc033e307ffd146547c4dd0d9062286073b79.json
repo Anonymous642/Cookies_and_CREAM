@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Kinnoshin", "short_name": "Kinnoshin", "version": "2021.8.8.1548", "description": "Let Kinnosuke improve, extend, advance.", "icons": {"128": "logo_0128_128.png"}, "content_scripts": [{"matches": ["*://tms.kinnosuke.jp/*"], "js": ["content_script.js"]}]}

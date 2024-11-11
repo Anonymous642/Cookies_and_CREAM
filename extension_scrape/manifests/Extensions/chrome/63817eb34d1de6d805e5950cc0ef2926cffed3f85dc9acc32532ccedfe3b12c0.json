@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "eBay Total Price Display", "version": "1.0", "description": "Display total price of items on eBay.", "permissions": ["https://*.ebay.com/*"], "content_scripts": [{"matches": ["https://*.ebay.com/*"], "js": ["script.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u30b3\u30d4\u30fc\u30dc\u30bf\u30f3", "version": "1.0", "manifest_version": 3, "description": "\u30b3\u30d4\u30fc\u30dc\u30bf\u30f3", "content_scripts": [{"matches": ["http://anison.info/data/*"], "js": ["jquery-3.6.0.min.js", "script.js"], "run_at": "document_end", "all_frames": true}]}

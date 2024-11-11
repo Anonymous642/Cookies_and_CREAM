@@ -1,0 +1,1 @@
+{"browser_specific_settings": {"gecko": {"id": "themechanger@leshuguita.github.io"}}, "manifest_version": 2, "name": "Theme Changer", "version": "1.1", "icons": {"48": "icon.png"}, "permissions": ["management", "nativeMessaging"], "description": "Allows native apps or scripts to change the Firefox theme at runtime", "background": {"scripts": ["main.js"]}}

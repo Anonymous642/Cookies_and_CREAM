@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u5eb7\u6c85 KangYuan", "description": "\u5eb7\u6c85 KangYuan", "manifest_version": 2, "version": "1.2", "icons": {"128": "kynet.png"}, "app": {"urls": ["http://www.kynet.com.tw/"], "launch": {"web_url": "http://www.kynet.com.tw/"}}, "permissions": ["unlimitedStorage", "notifications"]}

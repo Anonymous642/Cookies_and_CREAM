@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "talky-volume", "version": "1.0", "content_scripts": [{"matches": ["https://talky.io/*"], "js": ["talky-volume.js"], "css": ["style.css"]}]}

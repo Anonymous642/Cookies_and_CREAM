@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ecoledirecte", "version": "1.0", "description": "Calcule la moyenne g\u00e9n\u00e9rale sur ecoledirecte.com", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["https://www.ecoledirecte.com/*/Notes"], "js": ["ecoledirecte.js"]}], "browser_specific_settings": {"gecko": {"id": "{9494e5cc-e923-4b68-8ccd-6abf7885d720}"}}}

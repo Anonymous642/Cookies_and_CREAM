@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_appName__", "description": "__MSG_appDesc__", "version": "3.0.0.5", "default_locale": "zh_TW", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://bse.gamebatte.com/"], "launch": {"web_url": "http://bse.gamebatte.com/login.php?portal=cws"}}}

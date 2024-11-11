@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Let's ToDo", "description": " Let's ToDo - a customizable, user-friendly Chrome task manager.", "version": "1.0", "icons": {"16": "todopng1.png", "32": "todopng1.png", "48": "todopng1.png", "128": "todopng1.png"}, "action": {"default_popup": "popup.html"}}

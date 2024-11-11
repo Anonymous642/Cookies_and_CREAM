@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Home", "description": "My page on netvibes", "version": "1.0", "icons": {"128": "128.png"}, "app": {"urls": ["http://www.kobayashi.dk/vidrestil/Home.zip"], "launch": {"web_url": "http://www.kobayashi.dk/vidrestil/netvibes.html"}}, "permissions": ["unlimitedStorage", "notifications"]}

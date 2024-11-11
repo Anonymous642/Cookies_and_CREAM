@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Wetter", "short_name": "Wetter", "manifest_version": 2, "version": "1.33", "description": "Wetter und Wettervorhersage Deutschland", "icons": {"48": "weer_48.png", "128": "wetterdeutschland.png"}, "browser_action": {"default_icon": "wetterdeutschland.png", "default_popup": "popup.html"}}

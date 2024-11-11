@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "sponUnlock", "version": "2.0", "description": "Invalidates the AdBlock blocker on Spiegel Online", "icons": {"48": "icons/sponUnlock-48.png"}, "content_scripts": [{"matches": ["*://*.spiegel.de/*"], "js": ["sponUnlock.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "JSON Table Editor", "description": "Edit JSON using Grid/Table interface", "version": "1.0.0.1", "manifest_version": 2, "app": {"urls": ["http://sodeve.net/sencha/json-table-editor/"], "launch": {"web_url": "http://sodeve.net/sencha/json-table-editor/"}}, "icons": {"128": "json.png"}, "permissions": []}

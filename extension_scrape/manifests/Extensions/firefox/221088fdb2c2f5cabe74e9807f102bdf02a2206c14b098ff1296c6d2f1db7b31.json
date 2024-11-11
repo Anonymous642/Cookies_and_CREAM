@@ -1,0 +1,1 @@
+{"name": "Nexone Mini", "version": "1.0.0", "description": "A mini version of your favorite NexOne Features", "manifest_version": 2, "host_permissions": ["https://app.repree.com/*"], "author": "Andrian Zberea", "action": {"default_popup": "index.html", "default_title": "NexOne Mini Home"}, "browser_specific_settings": {"gecko": {"id": "{55a524f7-5cb0-4982-b9c5-a1d71a0b7131}"}}}

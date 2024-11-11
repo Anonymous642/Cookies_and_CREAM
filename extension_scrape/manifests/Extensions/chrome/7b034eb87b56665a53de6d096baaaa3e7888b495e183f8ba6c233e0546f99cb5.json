@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "COVID-19 Data", "version": "1.1", "description": "Track COVID-19 data from countries.", "browser_action": {"default_title": "COVID-19 Data", "default_popup": "popup.html"}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "manifest_version": 2}

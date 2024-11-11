@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "WeatherSearcher", "version": "1.6.3", "description": "Welcome to WeatherSearcher, your intelligent weather companion for Google Chrome.", "chrome_url_overrides": {"newtab": "index.html"}, "browser_action": {"default_icon": "clear.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Always Following", "version": "1.0", "description": "Keep twitter timeline always on Following tab.", "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["viewer.js"]}], "browser_specific_settings": {"gecko": {"id": "{4022e5ab-c323-4f3b-9231-cb2bc26fe934}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ColRand", "version": "0.1", "description": "Randomizes the colours on all webpages to add some spice to your web experience.", "icons": {"48": "img.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["colrand.js"]}]}

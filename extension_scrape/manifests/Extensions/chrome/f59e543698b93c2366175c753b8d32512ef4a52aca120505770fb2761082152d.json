@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tab unique", "version": "1.0.1", "manifest_version": 3, "background": {"service_worker": "background.js"}, "icons": {"128": "icon128.png"}, "permissions": ["tabs"], "action": {"default_title": "\u91cd\u8907\u3059\u308b\u30bf\u30d6\u3092\u9589\u3058\u308b"}}

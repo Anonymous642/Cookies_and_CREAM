@@ -1,0 +1,1 @@
+{"name": "Faded Theme", "version": "0.1", "description": "A simple dynamic theme featuring an animated gradient.", "manifest_version": 2, "permissions": ["theme"], "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"strict_min_version": "55.0a2"}}}

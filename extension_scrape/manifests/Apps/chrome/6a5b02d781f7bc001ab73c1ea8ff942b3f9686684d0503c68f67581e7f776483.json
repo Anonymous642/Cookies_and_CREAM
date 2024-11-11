@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Papeeria", "version": "1", "icons": {"64": "64.png", "128": "128.png"}, "app": {"urls": ["http://papeeria.com/"], "launch": {"web_url": "http://papeeria.com/"}}, "manifest_version": 2}

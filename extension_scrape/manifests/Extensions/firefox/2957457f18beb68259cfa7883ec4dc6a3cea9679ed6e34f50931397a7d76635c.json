@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bigg Boss Filter", "version": "1.1", "description": "This extension will filter facebook posts related to big boss", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "content_scripts": [{"run_at": "document_end", "matches": ["https://www.facebook.com/*"], "js": ["background.js"]}], "permissions": ["activeTab"]}

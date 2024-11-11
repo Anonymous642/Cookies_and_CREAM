@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "JWT token decoder", "version": "0.0.0.1", "manifest_version": 3, "description": "Decrypt jwt tokens. Tokens won't leave your browser.", "action": {"default_popup": "./jwt-token-decode.html"}}

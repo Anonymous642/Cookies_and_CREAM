@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TimeTable", "description": "A time table by CCIB", "version": "1.6.0.2209", "manifest_version": 3, "action": {"default_popup": "pop.html"}, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "permissions": ["storage"]}

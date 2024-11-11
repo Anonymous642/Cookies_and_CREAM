@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "My Friend Chicken", "description": "Watch Out and don't fall! What's your highscore?", "version": "1.0", "permissions": ["storage"], "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "logo16.png", "48": "logo48.png", "128": "logo128.png"}}

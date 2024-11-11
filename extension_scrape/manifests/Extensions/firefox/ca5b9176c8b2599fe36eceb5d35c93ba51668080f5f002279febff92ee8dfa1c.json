@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tabhopper", "version": "1.0", "description": "Tabs find their place at the end of the row automatically.", "browser_specific_settings": {"gecko": {"id": "{deadbeef-5678-aaaa-1234-aaaa56781234}"}}, "icons": {"48": "icon.png"}, "permissions": ["tabs"], "background": {"scripts": ["background.js"], "persistent": false}}

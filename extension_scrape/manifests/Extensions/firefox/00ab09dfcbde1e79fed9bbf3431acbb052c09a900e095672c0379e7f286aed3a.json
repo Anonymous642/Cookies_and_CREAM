@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reddit UI Redirector", "version": "3.1", "description": "Redirects reddit.com URLs to new.reddit.com.", "permissions": ["webRequest", "webRequestBlocking", "https://reddit.com/*", "https://www.reddit.com/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{6c4c2a23-058d-42ea-816a-6cdc854f77e7}"}}}

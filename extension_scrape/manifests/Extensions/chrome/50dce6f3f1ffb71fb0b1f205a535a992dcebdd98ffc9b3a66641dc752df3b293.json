@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Find your Folk", "description": "Search for someone", "version": "1.0", "permissions": [], "browser_action": {"default_popup": "index.html"}, "background": {"scripts": ["background.js"]}}

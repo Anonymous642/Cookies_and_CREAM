@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RemoveYoutubeChat", "version": "1.2", "author": "Niv", "description": "Remove the YouTube Chat item from the side of videos", "icons": {"48": "icons/yt-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["removeYTC.js"]}]}

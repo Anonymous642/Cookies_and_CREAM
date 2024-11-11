@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LinkedIn PDF Viewer", "version": "1.0.1", "icons": {"16": "img/icon_16.png"}, "content_scripts": [{"matches": ["*://*.linkedin.com/*"], "js": ["popup.js"]}]}

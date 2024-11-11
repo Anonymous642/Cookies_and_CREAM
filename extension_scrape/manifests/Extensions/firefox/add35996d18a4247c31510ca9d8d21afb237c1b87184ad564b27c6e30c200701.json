@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Proton City", "version": "1.0", "description": "Adds Proton City compatibility scores to Steam store pages.", "content_scripts": [{"matches": ["*://store.steampowered.com/app/*"], "js": ["inject.js"]}], "icons": {"48": "icon.png"}, "permissions": ["*://proton.city/*"]}

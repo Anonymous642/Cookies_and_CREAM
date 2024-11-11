@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "floater", "version": "0.2", "description": "Right click an IMG object to make it float", "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["floater.js"]}, "manifest_version": 2}

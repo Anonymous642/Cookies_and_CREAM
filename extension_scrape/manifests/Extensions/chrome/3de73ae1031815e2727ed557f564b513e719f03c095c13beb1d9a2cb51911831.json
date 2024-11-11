@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Text Scrapper", "version": "0.1.1", "background": {"scripts": ["background.js"]}, "permissions": ["activeTab"], "browser_action": {}}

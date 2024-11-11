@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Rooty", "version": "1.2", "description": "Adds a beautiful, simple and effective home page to your browser.", "icons": {"48": "icons/rooty-48.png"}, "chrome_url_overrides": {"newtab": "home.html"}, "permissions": ["bookmarks"]}

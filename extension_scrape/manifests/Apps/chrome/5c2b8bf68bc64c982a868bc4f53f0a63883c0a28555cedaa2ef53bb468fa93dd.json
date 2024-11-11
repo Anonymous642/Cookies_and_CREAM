@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "SKP Ident Listener", "description": "Mit dieser App k\u00f6nnen Sie SKP Ident Antennen \u00fcberwachen", "version": "1.0", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "icon16.png", "128": "icon128.png"}, "permissions": ["serial"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Ban Vlad Publics", "description": "NR and Hypewave", "version": "1.0", "content_scripts": [{"matches": ["https://vk.com/*", "https://m.vk.com/*"], "js": ["run.js"]}]}

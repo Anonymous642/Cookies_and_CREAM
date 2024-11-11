@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Opastadt", "version": "1.1", "icons": {"48": "icons/opa-48.png", "96": "icons/opa-96.png"}, "description": "Diese Webextension setzt die Opastadt aller Seiten auf 0.5!", "applications": {"gecko": {"id": "tokage@posteo.jp"}}, "content_scripts": [{"matches": ["<all_urls>"], "css": ["opastadt.css"]}]}

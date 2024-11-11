@@ -1,0 +1,1 @@
+{"name": "Bing Dictionary", "version": "1.0", "description": "Using Bing Dictionary", "manifest_version": 2, "icons": {"16": "favicon.png", "32": "favicon.png", "48": "favicon.png", "128": "favicon.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["bing.js"]}], "browser_specific_settings": {"gecko": {"id": "{2fff79b1-4175-48df-a859-c3e297da8ce3}"}}}

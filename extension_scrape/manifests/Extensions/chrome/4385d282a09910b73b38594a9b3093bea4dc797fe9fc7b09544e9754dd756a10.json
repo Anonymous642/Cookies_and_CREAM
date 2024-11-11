@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "bilibili\u641c\u7d22", "description": "\u54d4\u54e9\u54d4\u54e9 (\u309c-\u309c)\u3064\u30ed \u5e72\u676f~-bilibili", "version": "1.0", "icons": {"16": "icon16.png", "128": "icon128.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["bilibili.js"]}, "manifest_version": 2}

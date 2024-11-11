@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "amplior", "description": "Store multiple copy and pastes on your chrome browser", "version": "0.1.8", "browser_action": {"default_icon": "inq.png", "default_title": "amplior", "default_popup": "popup.html"}, "permissions": []}

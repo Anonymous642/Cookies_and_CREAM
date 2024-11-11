@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Stacker", "version": "1.0", "description": "Moves selected unpinned tabs to the left of the tab bar.", "permissions": [], "background": {"scripts": ["background.js"]}}

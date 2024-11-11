@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "JOB Quest", "version": "1.0", "description": "A job tracker for job hunting, allowing you to save and manage job listings.", "permissions": ["activeTab", "storage"], "action": {"default_icon": "128.png", "default_title": "Save URL", "default_popup": "popup.html"}}

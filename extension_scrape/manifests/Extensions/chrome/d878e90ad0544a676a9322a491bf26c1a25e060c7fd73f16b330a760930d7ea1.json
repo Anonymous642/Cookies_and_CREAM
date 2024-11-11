@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Rename Elon Musk to Pedo Guy", "version": "1.0", "description": "Replaces the text 'Elon Musk' with 'Pedo Guy'.", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}], "icons": {"16": "logo-16.png", "128": "logo-128.png"}}

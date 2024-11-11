@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "just_pdf", "version": "1.0", "description": "converts links with epdf into pdf on wiley.com.", "icons": {"48": "icons/just_pdf-48.png", "96": "icons/just_pdf-96.png"}, "content_scripts": [{"matches": ["*://*.wiley.com/*"], "js": ["just_pdf.js"]}]}

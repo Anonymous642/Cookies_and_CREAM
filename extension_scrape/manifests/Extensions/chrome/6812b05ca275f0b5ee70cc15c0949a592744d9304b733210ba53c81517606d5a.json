@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "short_name": "Werb", "name": "Werb", "version": "1.0.4", "description": "Browse for the latest news articles and crypto prices as the default on a new tab", "action": {"default_icon": "favicon.png"}, "chrome_url_overrides": {"newtab": "index.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Dino Adventure", "manifest_version": 2, "description": "Tell About Dino Adventure, adventure with the dino, collect the coin and avoid the enemies. Play thi", "version": "1.0", "icons": {"16": "chrome-icon16.png", "128": "chrome-icon.png"}, "app": {"background": {"scripts": ["background.js"]}}}

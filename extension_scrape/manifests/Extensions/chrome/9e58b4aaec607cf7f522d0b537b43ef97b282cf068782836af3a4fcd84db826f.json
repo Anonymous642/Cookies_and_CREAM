@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Dublin Digital Radio Mixcloud Toolkit", "version": "0.0.2", "manifest_version": 3, "content_scripts": [{"matches": ["*://*.mixcloud.com/*"], "js": ["static/js/main.js"], "css": ["static/css/main.css"]}], "host_permissions": ["*://*.mixcloud.com/*"]}

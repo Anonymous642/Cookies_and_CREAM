@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Yes - No extension", "version": "1.0.0", "description": "Make decisions with this extension", "manifest_version": 3, "author": "Jonas Aguilar", "action": {"default_popup": "index.html", "default_title": "Yes - No"}}

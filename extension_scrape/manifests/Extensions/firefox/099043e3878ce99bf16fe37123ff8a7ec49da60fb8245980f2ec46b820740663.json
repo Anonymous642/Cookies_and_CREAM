@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ouf", "description": "Remove censorship on The Patriots.Asia", "version": "1.0.1.0", "author": "mute-cow", "icons": {"48": "icon/icon.png", "96": "icon/icon_96.png"}, "content_scripts": [{"matches": ["*://*.thepatriots.asia/*"], "js": ["src/wordlist.js", "src/mainproc.js"]}]}

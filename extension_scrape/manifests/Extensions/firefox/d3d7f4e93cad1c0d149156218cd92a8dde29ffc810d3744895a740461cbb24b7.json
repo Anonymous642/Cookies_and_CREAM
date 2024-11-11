@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Rumble No Chat", "version": "1.0", "description": "Removes the entire chat side bar from all Rumble pages.", "icons": {"48": "icon.png"}, "permissions": ["tabs", "<all_urls>"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{988fe506-c6a4-486a-8e80-f6436f0f0965}"}}}

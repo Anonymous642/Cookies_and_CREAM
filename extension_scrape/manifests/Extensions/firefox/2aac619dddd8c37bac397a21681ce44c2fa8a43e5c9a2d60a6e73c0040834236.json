@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Better-Biosphere", "version": "1.0", "description": "Better Biosphere", "icons": {"32": "rank0.png"}, "content_scripts": [{"matches": ["*://intranet.iut.u-bordeaux.fr/info/biosphere7/*/"], "js": ["BetterBio.js"]}], "browser_specific_settings": {"gecko": {"id": "{2c60744d-75a9-442f-ba13-f5bbbd8b6bac}"}}}

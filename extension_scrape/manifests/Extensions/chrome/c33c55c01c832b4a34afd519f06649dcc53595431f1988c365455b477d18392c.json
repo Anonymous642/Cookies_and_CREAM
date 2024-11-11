@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Better New Tab", "version": "1.0", "description": "Simulates: Copy + Open new tab + Paste + Enter.", "permissions": ["activeTab"], "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["newtab.js"]}]}

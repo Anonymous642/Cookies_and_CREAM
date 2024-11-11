@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Smash !!", "description": "Smash the like button for the youtube algorithm", "version": "1.1", "manifest_version": 3, "content_scripts": [{"matches": ["https://*.youtube.com/*"], "css": ["like.css"], "js": ["like.js"]}]}

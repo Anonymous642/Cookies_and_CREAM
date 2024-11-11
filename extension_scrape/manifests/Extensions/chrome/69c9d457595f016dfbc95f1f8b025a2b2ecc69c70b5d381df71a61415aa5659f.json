@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SMC Wallet", "description": "SMC Wallet", "version": "1.0.21", "action": {"default_title": "SMC Wallet", "default_icon": "/img/smc/smc_new_logo.png", "default_popup": "view/dispatcher.html"}, "permissions": [], "host_permissions": ["https://wallet.simong.co.kr/*"]}

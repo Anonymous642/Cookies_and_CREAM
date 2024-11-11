@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TabPop", "version": "1.0.1", "description": "Automatically switch to a tab received from another device.", "permissions": ["contextMenus"], "background": {"scripts": ["build/classes/main/min/kotlin.js", "build/classes/main/min/TabPop.js"]}}

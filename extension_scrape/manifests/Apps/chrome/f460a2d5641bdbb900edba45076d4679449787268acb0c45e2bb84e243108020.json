@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Fomento", "version": "1.0.1", "description": "Aplicaci\u00f3n interna de Fomento de Servicios P\u00fablicos Urbanos de Lomas de Cocoyoc", "app": {"launch": {"web_url": "http://fomento.lomasdecocoyoc.com/"}}, "icons": {"128": "128.png"}}

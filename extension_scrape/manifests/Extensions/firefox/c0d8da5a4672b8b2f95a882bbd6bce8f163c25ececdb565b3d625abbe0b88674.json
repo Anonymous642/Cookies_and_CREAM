@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OurTube", "version": "1.2", "description": "Changes YouTube logo to OurTube", "icons": {"48": "48-icon.png", "96": "96-icon.png"}, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["OurTube.js"]}]}

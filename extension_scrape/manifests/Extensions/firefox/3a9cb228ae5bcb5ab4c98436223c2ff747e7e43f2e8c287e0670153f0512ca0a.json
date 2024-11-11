@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Extension MrKrimari", "description": "Vous informe si il y a un live", "version": "1.2", "browser_action": {}, "icons": {"48": "img/icon_64_off.png"}, "background": {"scripts": ["background.js"]}}

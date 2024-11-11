@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "24/7 Spades", "version": "1.0.0.1", "manifest_version": 2, "icons": {"128": "icon.png"}, "description": "Play the best Spades game with 24/7 Spades!", "app": {"urls": ["http://www.247spades.com/?chromestore=1"], "launch": {"web_url": "http://www.247spades.com/?chromestore=1"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ecomfactory", "description": "Deze extensie helpt je om de beste ICT vacatures gemakkelijk te vinden.", "version": "1.0", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab"]}

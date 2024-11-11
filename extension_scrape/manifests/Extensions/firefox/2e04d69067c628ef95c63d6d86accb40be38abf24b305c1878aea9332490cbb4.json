@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube poll remover", "version": "1.0", "description": "Removes polls from youtube.", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["pollremover.js"]}], "browser_specific_settings": {"gecko": {"id": "{506e5683-790a-4415-98ea-3b2c0c0a91c7}"}}}

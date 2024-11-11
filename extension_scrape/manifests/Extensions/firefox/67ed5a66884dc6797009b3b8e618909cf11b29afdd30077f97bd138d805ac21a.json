@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "spotifyMuted", "version": "1.0.2", "description": "Mutes the browser when spotify puts advertisements.", "icons": {"48": "icons/icons.png"}, "content_scripts": [{"matches": ["https://open.spotify.com/*"], "js": ["spotify.js"]}]}

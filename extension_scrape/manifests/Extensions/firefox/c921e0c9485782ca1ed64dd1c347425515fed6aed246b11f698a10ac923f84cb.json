@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DNS lookup - HTTP status", "browser_action": {"default_icon": "icon.png"}, "description": "Analyze domain dns zone and http status", "version": "1.1", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}}

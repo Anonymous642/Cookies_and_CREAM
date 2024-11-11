@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "gorl", "version": "1.0", "description": "gorl.", "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["gorl.js"], "run_at": "document_end"}]}

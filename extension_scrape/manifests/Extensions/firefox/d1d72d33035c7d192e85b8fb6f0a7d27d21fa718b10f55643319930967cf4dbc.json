@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Color Switcher", "version": "1.0", "description": "Switches the colors of the web page on button click", "permissions": ["activeTab"], "browser_action": {"default_title": "Switch Colors", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{145d76ca-b9df-4414-806f-b70ca37aabb1}"}}}

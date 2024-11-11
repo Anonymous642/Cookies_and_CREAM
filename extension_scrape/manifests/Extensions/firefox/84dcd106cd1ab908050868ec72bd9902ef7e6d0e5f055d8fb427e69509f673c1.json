@@ -1,0 +1,1 @@
+{"content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["content.js"]}], "description": "Add a link in web pages to show and hide passwords", "developer": {"name": "Didier Lafleur"}, "manifest_version": 2, "name": "Show/Hide passwords", "version": "0.4", "icons": {"128": "icon128.png"}}

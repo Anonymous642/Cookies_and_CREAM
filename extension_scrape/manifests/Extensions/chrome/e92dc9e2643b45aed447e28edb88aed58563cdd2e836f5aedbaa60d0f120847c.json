@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Github Open VScode", "description": "Github - create 'Open with VScode' button", "version": "1.0.0", "icons": {"128": "vscode.png"}, "content_scripts": [{"matches": ["https://github.com/*"], "js": ["content.js"], "run_at": "document_end", "all_frames": true}], "manifest_version": 3}

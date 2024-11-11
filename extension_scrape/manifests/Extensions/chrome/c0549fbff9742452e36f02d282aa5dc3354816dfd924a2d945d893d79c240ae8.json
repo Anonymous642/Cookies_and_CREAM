@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "YoutubeColor", "version": "1.0", "content_scripts": [{"matches": ["https://www.youtube.com/*"], "all_frames": true, "js": ["jQ.js", "content.js"]}], "browser_action": {"default_popup": "popup.html"}, "icons": {"100": "icon.png"}, "permissions": ["activeTab"]}

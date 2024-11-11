@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Poof Links", "description": "Generate links containing messages that can only be viewed once.", "version": "0.0.0.3", "icons": {"48": "logo48.png", "96": "logo96.png"}, "browser_action": {"default_icon": {"48": "logo48.png", "96": "logo96.png"}, "default_popup": "popup.html"}, "permissions": []}

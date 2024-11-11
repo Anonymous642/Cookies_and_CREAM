@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "display-password", "version": "1.0", "permissions": ["activeTab", "contextMenus"], "background": {"scripts": ["index.js"]}}

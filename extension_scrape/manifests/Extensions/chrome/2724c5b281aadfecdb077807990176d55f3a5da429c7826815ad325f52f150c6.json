@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Discord TheLifeRP", "description": "Extension qui permet de savoir qui est connect\u00e9 au serveur discord", "version": "1.0", "browser_action": {"default_popup": "index.html"}, "icons": {"128": "img/icon.png"}, "background": {"scripts": ["background.js"]}}

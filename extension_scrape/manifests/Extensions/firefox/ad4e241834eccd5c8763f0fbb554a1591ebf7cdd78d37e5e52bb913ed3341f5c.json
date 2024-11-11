@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Foreground", "version": "0.1.1", "description": "Allows you to track the current active tab's URL in Foreground.", "browser_specific_settings": {"gecko": {"id": "addon@foreground.hellocode.co"}}, "permissions": ["tabs"], "background": {"scripts": ["background.js"], "persistent": true}}

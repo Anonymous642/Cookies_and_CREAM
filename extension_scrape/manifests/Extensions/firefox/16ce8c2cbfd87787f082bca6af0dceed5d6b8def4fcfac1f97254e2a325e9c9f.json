@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "rarbg.thumbs", "version": "1.0", "description": "Adiciona thumbnails a los enlaces de rarbg.com", "icons": {"48": "favicon.ico"}, "content_scripts": [{"matches": ["*://rarbgweb.org/*"], "js": ["rarbg.thumbs.js"]}]}

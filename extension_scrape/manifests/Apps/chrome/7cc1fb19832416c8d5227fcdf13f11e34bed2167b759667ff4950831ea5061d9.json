@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CoolUtils HTML Converter", "description": "Online HTML Converter", "app": {"urls": ["https://www.coolutils.com/Online/HTML-Converter/"], "launch": {"web_url": "https://www.coolutils.com/Online/HTML-Converter/"}}, "manifest_version": 2, "version": "0.1", "icons": {"128": "html_icon.png"}}

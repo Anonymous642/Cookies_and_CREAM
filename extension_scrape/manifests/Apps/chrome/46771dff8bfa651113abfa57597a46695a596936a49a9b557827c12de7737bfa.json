@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "NetiaPlayer discovery", "description": "Discover netia player in your local network", "version": "0.0.1", "app": {"background": {"scripts": ["js/main.js"]}}, "permissions": [{"socket": ["udp-send-to", "udp-bind"]}], "optional_permissions": ["http://*/"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BannerBlocker", "version": "1.0.2", "description": "Hide annoying banners", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["BannerBlocker.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Koalaboox", "description": "Le logiciel de facturation en ligne sympa, simple et rapide avec suivi des paiements automatique. Recommand\u00e9 par les comptables.", "version": "1.0.0.0", "app": {"launch": {"web_url": "https://www.koalaboox.com/login"}}, "icons": {"128": "128.png"}}

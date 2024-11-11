@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Oldify", "version": "1.0", "description": "Automatically redirects to old Reddit whenever it detects that you aren't there already.", "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["oldify.js"]}]}

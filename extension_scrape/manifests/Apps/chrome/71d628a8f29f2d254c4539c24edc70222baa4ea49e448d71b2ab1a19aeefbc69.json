@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u5361\u7247\u82f1\u8bed", "description": "\u5361\u7247\u82f1\u8bed - \u63d0\u9ad8\u4f60\u7684\u82f1\u8bed\u8bcd\u6c47\u91cf", "version": "1.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://kapianyingyu.com/"], "launch": {"web_url": "http://kapianyingyu.com/"}}}

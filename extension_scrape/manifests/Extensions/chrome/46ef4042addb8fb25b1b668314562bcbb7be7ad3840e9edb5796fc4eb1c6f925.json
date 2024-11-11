@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "X Logo Changer by Loris", "version": "2.0.2", "description": "No more X, Replace Twitter logo to classic.", "action": {"default_icon": {"48": "logo.png"}}, "content_scripts": [{"matches": ["https://twitter.com/*"], "js": ["contentScript.js"]}], "icons": {"48": "logo.png"}}

@@ -1,0 +1,1 @@
+{"name": "Etherscan", "description": "View the current gas fees and the latest block number with a single click.", "version": "1.0.2", "manifest_version": 2, "icons": {"128": "icons/128.png"}, "browser_action": {"default_popup": "index.html", "default_icon": {"128": "icons/128.png"}}, "browser_specific_settings": {"gecko": {"id": "{7e3567ef-cef6-4475-b695-6d699e5a683a}"}}}

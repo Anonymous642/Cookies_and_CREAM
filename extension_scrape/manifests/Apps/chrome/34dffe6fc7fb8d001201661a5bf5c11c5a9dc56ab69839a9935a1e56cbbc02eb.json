@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Brilliant", "description": "Find your problem solving level in mathematics, physics, and computer science.", "version": "1.1.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["*://brilliant.org/", "*://*.brilliant.org/"], "launch": {"web_url": "https://brilliant.org/"}}}

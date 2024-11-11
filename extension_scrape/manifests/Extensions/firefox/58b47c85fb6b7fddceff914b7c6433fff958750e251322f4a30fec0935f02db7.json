@@ -1,0 +1,1 @@
+{"name": "removeloginpopup", "version": "1.29.1", "manifest_version": 2, "description": "Remove login popup such as google login", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "all_frames": true, "js": ["page.js"]}], "browser_specific_settings": {"gecko": {"id": "{30cf1afc-5483-4baa-bbbd-902e7ea4b4d6}"}}}

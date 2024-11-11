@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GoNextab", "chrome_url_overrides": {"newtab": "indexs.html"}, "icons": {"128": "logo128.png"}, "description": "GoNextab Chrome Extension that gives you new background every time and you can add a todo list and so on", "manifest_version": 3, "permissions": [], "short_name": "GoNextab", "version": "1.0.0"}

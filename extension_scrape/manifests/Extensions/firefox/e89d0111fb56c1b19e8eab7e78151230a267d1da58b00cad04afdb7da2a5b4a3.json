@@ -1,0 +1,1 @@
+{"page_action": {"browser_style": true, "default_icon": "icons/skatt.svg", "default_title": "VOEC"}, "manifest_version": 2, "name": "VOEC Indicator", "version": "1.0.6", "description": "Indicate if the current website is registered in the Norwegian VOEC registry", "icons": {"48": "icons/voec.png"}, "background": {"scripts": ["voec.js"]}, "permissions": ["tabs"]}

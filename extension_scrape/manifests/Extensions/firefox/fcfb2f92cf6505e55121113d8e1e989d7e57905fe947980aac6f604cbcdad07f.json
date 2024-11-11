@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Amadont", "version": "1.0", "description": "Reminds you not to use Amazon", "icons": {"48": "icons/dont-48.png"}, "browser_action": {"default_icon": "icons/dont-48.png", "default_title": "Lenny"}, "content_scripts": [{"matches": ["*://www.amazon.com/*", "*://smile.amazon.com/*"], "js": ["amadont.js"]}]}

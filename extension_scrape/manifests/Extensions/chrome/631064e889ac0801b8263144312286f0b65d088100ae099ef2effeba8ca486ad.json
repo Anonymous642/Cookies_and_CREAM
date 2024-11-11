@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CSS Layout Helper", "version": "1.0", "description": "View layouts with varying degrees of depth for parent child relationship", "browser_action": {"default_popup": "popup.html"}, "permissions": ["activeTab"], "icons": {"16": "icon-16.png"}, "manifest_version": 2}

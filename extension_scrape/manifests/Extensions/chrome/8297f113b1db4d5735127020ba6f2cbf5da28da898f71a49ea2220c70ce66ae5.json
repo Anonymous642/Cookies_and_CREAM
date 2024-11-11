@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "about:blank Extension", "description": "M\u1ed9t tab m\u1edbi l\u00e0 m\u1ed9t b\u1ea7u tr\u1eddi \u0111\u1ea7y hi v\u1ecdng :))", "version": "1.0.5", "incognito": "split", "minimum_chrome_version": "46", "chrome_url_overrides": {"newtab": "newtab.html"}, "manifest_version": 2}

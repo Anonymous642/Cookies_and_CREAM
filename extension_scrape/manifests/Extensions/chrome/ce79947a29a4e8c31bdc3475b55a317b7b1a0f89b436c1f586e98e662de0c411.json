@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Evolution Simulation", "description": "Simulate Evolution By Observing Natural Selection Over Generations Of Simulated Organisms!", "version": "1.0.0", "icons": {"128": "gene_logo_128.png"}, "browser_action": {"default_icon": "gene_logo.png", "default_popup": "popup.html"}}

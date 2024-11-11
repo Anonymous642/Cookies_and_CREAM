@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "IP Address", "version": "1.0", "description": "Find your IP Address with a Single Click!", "background": {"scripts": ["bg.js"]}, "browser_action": {"default_icon": "icon_32.png", "default_title": "IP Address"}, "homepage_url": "http://find.youripfast.com/?s=ext_page_link", "web_accessible_resources": ["icon_19.png"]}

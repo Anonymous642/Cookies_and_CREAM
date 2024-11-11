@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Free Range", "version": "1.0", "description": "Remove 'sticky' header and footer from medium.com and hackernoon.com", "icons": {"48": "icons/freerange48.png"}, "content_scripts": [{"matches": ["*://*.medium.com/*", "*://*.hackernoon.com/*"], "js": ["freerange.js"]}]}

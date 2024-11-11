@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sukhiba Sync", "description": "Addon to sync the current opened google sheet with Sukhiba backend", "version": "0.0.3", "action": {"default_popup": "sync.html", "default_icon": "logo.png"}, "permissions": ["activeTab"]}

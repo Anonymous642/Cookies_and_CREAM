@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Extension Twitch pour ColasBim", "description": "Vous informe si ColasBim est en live !", "version": "1.1", "browser_action": {"default_popup": "index.html"}, "icons": {"70": "icons/colasLive.png"}, "background": {"scripts": ["background.js"]}}

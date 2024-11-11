@@ -1,0 +1,1 @@
+{"chrome_url_overrides": {"newtab": "blank.html"}, "description": "Override the default new tab page with blank page.", "icons": {"38": "icon-38.png", "128": "icon-128.png"}, "incognito": "split", "manifest_version": 3, "name": "Blank New Tab Page", "update_url": "https://clients2.google.com/service/update2/crx", "version": "1.2"}

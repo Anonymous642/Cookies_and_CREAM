@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Analog Clock", "version": "1.1", "description": "It's a Dark mode clock.", "icons": {"512": "clock2.webp"}, "browser_action": {"default_popup": "index.html", "default_icon": "clock2.webp"}, "content_scripts": [{"matches": ["*://*.mozilla.org/*"], "js": ["clk.js"]}]}

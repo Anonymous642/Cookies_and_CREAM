@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.0", "options_page": "options.html", "name": "Website Tracker", "action": {"default_popup": "index.html", "default_icon": "images-removebg-preview.png"}, "permissions": ["storage", "tabs"], "background": {"service_worker": "worker_container.js"}, "default_locale": "en"}

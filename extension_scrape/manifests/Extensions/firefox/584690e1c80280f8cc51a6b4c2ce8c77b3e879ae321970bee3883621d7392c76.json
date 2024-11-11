@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bandcamp Keyboard Shortcuts", "version": "1.5", "description": "Keyboard shortcuts for Bandcamp", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["https://*.bandcamp.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{9d6dbc64-ea98-4ffb-be85-832051623386}"}}}

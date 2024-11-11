@@ -1,0 +1,1 @@
+{"name": "Lofi Girl", "version": "0.1.2", "description": "Access all Lofi Girl content in one simple click.", "permissions": [], "browser_action": {"default_popup": "popup.html", "default_icon": {"16": "img/icon16.png", "32": "img/icon32.png", "48": "img/icon48.png"}}, "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{64e9c67c-9506-4cf9-918e-c796e42d1212}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Pure CSS3 Tooltip Generator", "description": "Generate your tooltip without know programming", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "img/icon128.png"}, "app": {"launch": {"web_url": "http://online-html-tools.blogspot.com/2015/02/pure-css-tooltip-generator-css3-tooltip.html"}}}

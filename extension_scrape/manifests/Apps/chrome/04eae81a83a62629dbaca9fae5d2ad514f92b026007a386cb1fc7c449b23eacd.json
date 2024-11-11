@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "my.redlink.io", "description": "my.redlink.io shortcut", "short_name": "my.redlink.io", "version": "1.0.3", "icons": {"128": "128.png"}, "app": {"urls": ["https://my.redlink.io/#/login"], "launch": {"web_url": "https://my.redlink.io/#/login"}}}

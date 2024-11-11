@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YoutubeLikes", "version": "1.0", "description": "Displays like count under youtube thumbnails", "icons": {"48": "icons/like48.png", "96": "icons/like96.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["main.js"]}], "permissions": ["*://*.googleapis.com/*"]}

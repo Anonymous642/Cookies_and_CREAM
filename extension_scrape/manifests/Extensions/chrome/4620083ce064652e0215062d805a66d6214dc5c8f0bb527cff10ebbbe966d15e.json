@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "The W", "version": "6.0.3", "manifest_version": 3, "description": "An extension for Redhawk faculty and staff at Westwood!", "icons": {"16": "ExtensionLogo.png", "48": "ExtensionLogo.png", "128": "ExtensionLogo.png"}, "action": {"default_title": "The W", "default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Vidmy Video Importer", "description": "Effortless YouTube-to-Website embed", "version": "1.2", "permissions": ["activeTab"], "action": {"default_popup": "popup.html", "default_icon": "pq-icon.png"}}

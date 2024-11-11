@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Twitter Analytics Remover", "short_name": "TwAnalRemover", "version": "0.0.1", "content_scripts": [{"matches": ["http://twitter.com/*", "https://twitter.com/*"], "js": ["script.js"]}]}

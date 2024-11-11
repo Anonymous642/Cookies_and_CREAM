@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "localhost-search", "version": "1.0", "description": "Prefix https://localhost/?q= to your search term.", "chrome_settings_overrides": {"search_provider": {"name": "localhost", "search_url": "https://localhost/?q={searchTerms}"}}}

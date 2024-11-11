@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "fffe", "version": "1.0", "description": "Changes font color to white on www.typingtest.com", "icons": {"48": "icon/Paint-Roll-icon.png"}, "content_scripts": [{"matches": ["https://www.typingtest.com/test.html*"], "js": ["paintitwhite.js"]}]}

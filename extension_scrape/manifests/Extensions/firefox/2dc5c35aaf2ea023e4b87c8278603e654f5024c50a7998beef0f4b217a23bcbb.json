@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tabless Fox", "version": "1906.1", "description": "Opens every new tab as a new window.", "icons": {"128": "images/newWindow.png"}, "permissions": ["tabs"], "background": {"scripts": ["newWindow.js"]}}

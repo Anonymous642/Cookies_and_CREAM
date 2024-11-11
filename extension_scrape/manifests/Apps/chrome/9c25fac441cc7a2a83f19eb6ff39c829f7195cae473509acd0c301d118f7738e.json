@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Taxonomina genera", "description": "Apps for taxonomy", "version": "1.21", "app": {"urls": ["http://taxonomina.free.fr/taxonomina/admin_genera"], "launch": {"web_url": "http://taxonomina.free.fr/taxonomina/admin_genera"}}, "icons": {"128": "genera_app.png"}}

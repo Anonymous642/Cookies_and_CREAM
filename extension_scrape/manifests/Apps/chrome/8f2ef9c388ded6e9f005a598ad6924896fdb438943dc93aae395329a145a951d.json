@@ -1,0 +1,1 @@
+{"app": {"launch": {"local_path": "main.html"}}, "icons": {"16": "16.png", "24": "24.png", "128": "128.png"}, "name": "TypingClub", "options_page": "options.html", "update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "version": "6.0"}

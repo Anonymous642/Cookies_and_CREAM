@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "News Republic Articles Full Content on Mobile", "version": "0.1.2", "author": "Axel Leroy", "browser_specific_settings": {"gecko": {"id": "news-republic-full-content@axeleroy.com"}}, "icons": {"48": "icon48.png", "96": "icon96.png"}, "permissions": ["*://va.news-republic.com/*", "tabs"], "background": {"scripts": ["insert-css.js"]}}

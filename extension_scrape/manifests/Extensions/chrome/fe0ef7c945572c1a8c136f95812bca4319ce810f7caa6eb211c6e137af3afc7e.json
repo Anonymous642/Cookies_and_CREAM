@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Biya3", "description": "Denounce your fellow citizens!", "version": "0.1", "manifest_version": 3, "content_scripts": [{"matches": ["https://*.twitter.com/*"], "js": ["content.js"]}]}

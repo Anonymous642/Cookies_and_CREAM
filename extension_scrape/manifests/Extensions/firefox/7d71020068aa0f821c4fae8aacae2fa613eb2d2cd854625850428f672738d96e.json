@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pedahack", "version": "1.30", "description": "Automatically answers most peda.net forms", "icons": {"48": "icon.svg"}, "browser_action": {"default_icon": "icon.svg", "default_title": "Pedahack"}, "content_scripts": [{"matches": ["*://peda.net/*"], "js": ["pedahack.js"]}], "background": {"scripts": ["bg.js"]}}

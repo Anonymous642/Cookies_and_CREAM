@@ -1,0 +1,1 @@
+{"name": "QuickQuakSearch", "description": "This extension to QuickQuaksearch in newtab.", "Description": "QuickQuak", "version": "1.1.1", "manifest_version": 2, "chrome_url_overrides": {"newtab": "Quickquack.html"}, "web_accessible_resources": ["Test.png"], "chrome_settings_overrides": {"homepage": "http://quickquacksearch.com"}}

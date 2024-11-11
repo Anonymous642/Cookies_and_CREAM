@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Good e-Reader Apps", "description": "Good e-Reader Apps are our most popular games and apps from the website optimized for your Android Tablet. ", "version": "0.4", "icons": {"128": "logo.png"}, "app": {"launch": {"web_url": "http://goodereader.com/apps/"}}}

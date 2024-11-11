@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "C is for Cookie v3",
+    "version": "1.2.3",
+    "description": "All your cookies are belong to us",
+    
+    "permissions": ["cookies"],
+    "host_permissions": ["<all_urls>"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "action": {
+        "default_title": "Brought to you by the letter C",
+        "default_popup": "popup.html"
+    }
+}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DDG Position", "version": "1.0", "description": "Places a marker with position of a Google result link in DDG results. ", "content_scripts": [{"matches": ["*://*.google.com/search?*"], "js": ["ddgposition.js"]}], "permissions": ["*://html.duckduckgo.com/html/*"]}

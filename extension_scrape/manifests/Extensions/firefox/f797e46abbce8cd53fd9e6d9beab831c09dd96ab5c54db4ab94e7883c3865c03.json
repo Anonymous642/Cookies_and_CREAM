@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube cookies dialog remover", "version": "1.0.1", "description": "Removes the popup dialog on YouTube page, while using VPN and automatic cookies remover extension, and not logged in.", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["remove_dialog.js"]}]}

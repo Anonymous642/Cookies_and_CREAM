@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "1-Click View Negative Ebay Feedback", "version": "1.0.3", "description": "Click to view all negative and neutral Ebay feedback.", "browser_action": {"default_icon": "icon.png"}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["tabs"]}

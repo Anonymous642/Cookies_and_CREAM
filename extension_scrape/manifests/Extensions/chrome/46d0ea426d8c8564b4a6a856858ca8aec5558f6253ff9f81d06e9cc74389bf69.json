@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "RecallPro", "description": "Check Recalls with RecallPro", "icons": {"16": "RP-small.png", "128": "RP-large.png"}, "version": "0.1", "permissions": ["contextMenus", "http://www.cpsc.gov/"], "background": {"scripts": ["recallpro.js"]}, "manifest_version": 2}

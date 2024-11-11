@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Many Games", "description": "Plenty of games", "version": "1", "manifest_version": 2, "app": {"urls": ["http://radiotventertainment.appspot.com/"], "launch": {"web_url": "http://radiotventertainment.appspot.com/#game"}}, "icons": {"128": "icon.png"}}

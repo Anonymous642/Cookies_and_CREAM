@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ND Launch Pad", "description": "Open this, and you win a suprise! A short cut to the ND site! :)", "version": "1.0.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.NetherDragons.com/"], "launch": {"web_url": "http://www.NetherDragons.com/"}}}

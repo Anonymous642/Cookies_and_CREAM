@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Beyond Encounter", "description": "Adds Encounter running options to the D&D Beyond Encounter Page", "version": "0.2", "content_scripts": [{"matches": ["*://*.dndbeyond.com/encounters/*"], "js": ["./encounter.js"], "css": ["./encounter.css"]}], "permissions": ["activeTab"]}

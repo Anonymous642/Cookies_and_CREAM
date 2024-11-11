@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No HLTV Forum", "version": "1.0", "description": "Removes the Forums from HLTV.org", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://*.hltv.org/*"], "js": ["nohltvforum.js"]}]}

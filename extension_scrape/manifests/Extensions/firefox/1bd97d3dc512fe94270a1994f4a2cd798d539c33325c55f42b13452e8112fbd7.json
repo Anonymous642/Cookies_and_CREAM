@@ -1,0 +1,1 @@
+{"name": "\u028d-wikipedia", "version": "1.0.1", "manifest_version": 2, "description": "Redirect all Wikipedia urls to Mobile Web", "icons": {"128": "icon-128.png"}, "permissions": ["activeTab"], "content_scripts": [{"run_at": "document_start", "matches": ["https://*.wikipedia.org/*"], "js": ["content.js"]}]}

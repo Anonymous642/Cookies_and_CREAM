@@ -1,0 +1,1 @@
+{"name": "Hitman Agency Autolike Script", "version": "1.0", "description": "Made by LeonMrBonnie. Janes ist ein Kek", "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://infinity-crime.net/forum/index.php?thread*"], "js": ["autoLike.js"], "css": ["autoLike.css"]}], "manifest_version": 2}

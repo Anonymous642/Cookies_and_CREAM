@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Popculator2", "version": "1.2", "description": "A simple Calculator Addon for Firefox", "icons": {"48": "48.png", "96": "96.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "Calculator.png", "default_title": "Popculator", "default_popup": "index.html"}}

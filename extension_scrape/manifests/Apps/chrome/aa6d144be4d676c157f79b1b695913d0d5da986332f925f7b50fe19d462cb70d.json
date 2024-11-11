@@ -1,0 +1,1 @@
+{"name": "The State of Tech", "description": "The State of Tech is a bi-weekly podcast covering educational technology.", "app": {"urls": ["http://www.thestateoftech.org/"], "launch": {"web_url": "http://www.thestateoftech.org/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

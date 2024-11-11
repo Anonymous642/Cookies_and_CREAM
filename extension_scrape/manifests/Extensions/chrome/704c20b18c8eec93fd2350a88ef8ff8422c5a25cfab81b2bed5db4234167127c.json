@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TextView", "action": {}, "manifest_version": 3, "version": "1.0", "description": "Makes links in plain text one-click to open.", "content_scripts": [{"matches": ["https://*/*.txt", "http://*/*.txt", "http://*/*.xml", "https://*/*.xml"], "css": [], "js": ["content-script.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RadikoUIExtension", "version": "1.2.0", "description": "radiko\u306eUI\u3092\u62e1\u5f35\u3057\u307e\u3059\u3002", "options_ui": {"page": "options/option.html", "open_in_tab": false}, "content_scripts": [{"matches": ["*://radiko.jp/*"], "js": ["module.js"]}], "web_accessible_resources": ["contents/*"], "permissions": ["storage"]}

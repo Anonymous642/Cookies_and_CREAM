@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube length warning", "version": "0.5", "description": "Reduces visiblity of videos in the premium monetization length", "icons": {"48": "ylw_logo.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["youtube-length-warning.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Mobijobi - Workforce Management made Simple", "version": "2.1", "icons": {"128": "/assets/128.png"}, "permissions": ["webview", "pointerLock", "geolocation", "videoCapture"], "app": {"background": {"scripts": ["main.js"]}}}

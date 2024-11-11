@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ADBox test", "description": "ADBox test", "version": "0.33", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "Axity-16.png", "128": "Axity-128.png"}, "kiosk_enabled": true, "permissions": ["power"]}

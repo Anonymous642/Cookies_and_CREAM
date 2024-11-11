@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "igg", "version": "0.2.1", "description": "", "permissions": ["<all_urls>", "tabs", "downloads"], "browser_action": {"browser_style": true, "default_title": "IGG", "default_icon": {"16": "icons/igg-16.png"}}, "background": {"scripts": ["./src/background.js"]}, "content_scripts": [{"matches": ["*://*.igg-games.com/*", "*://*.megaup.net/*"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Guide ChatGPT chrome Extensions", "description": "Base Level Extension", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "gpt.html", "default_icon": "gpt_extensions.png"}}

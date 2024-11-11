@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Main Search Selector", "version": "0.9", "description": "Adds a ctrl-/ hotkey to select a page's main search input.", "icons": {"192": "icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["main-search-selector.js"]}]}

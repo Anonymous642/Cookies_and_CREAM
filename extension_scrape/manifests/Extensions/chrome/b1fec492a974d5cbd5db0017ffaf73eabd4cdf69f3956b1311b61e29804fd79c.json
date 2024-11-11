@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "nEasy", "version": "1.0", "description": "Troque todas as imagens do site por fotos dos funcion\u00e1rios da Easy.", "icons": {"48": "icon48.png", "128": "icon128.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["jquery.js", "nEasy.js"]}]}

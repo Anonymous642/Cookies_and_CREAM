@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Eye Dropper Extension", "description": "Eye Dropper extension to capture your favorite colors", "version": "0.0.1", "action": {"default_popup": "popup.html"}}

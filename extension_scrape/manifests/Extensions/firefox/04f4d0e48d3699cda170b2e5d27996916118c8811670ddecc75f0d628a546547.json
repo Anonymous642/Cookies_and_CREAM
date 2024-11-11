@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Scanner Blocker", "version": "0.1", "background": {"scripts": ["background.js"]}, "permissions": ["<all_urls>", "webRequest", "webRequestBlocking", "activeTab"], "page_action": {"pinned": true, "default_popup": "page_action.html", "browser_style": true, "default_title": "Scanner blocker"}, "default_locale": "en"}

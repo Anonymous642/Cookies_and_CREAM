@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "bit-pr-arrow", "version": "1.0", "description": "Use keyboard to go to next file and previous file in bitbucket pull request.", "content_scripts": [{"matches": ["*://*.bitbucket.org/*/pull-requests/*"], "js": ["nextfile.js"]}], "browser_specific_settings": {"gecko": {"id": "{14de2e8d-3e32-4f70-a0d9-ae777b79dcbe}"}}}

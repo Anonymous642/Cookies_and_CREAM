@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sadra_css", "version": "0.0.0.1", "icons": {"16": "icon16.png", "48": "icon24.png", "128": "icon128.png"}, "content_scripts": [{"matches": ["*://*/*"], "css": ["Custom.css"]}], "manifest_version": 2}

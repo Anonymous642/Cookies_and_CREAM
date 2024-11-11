@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "nTabby New Tab Page", "description": "As simple as possible", "version": "0.0.1", "permissions": ["topSites", "bookmarks", "management", "chrome://favicon/"], "chrome_url_overrides": {"newtab": "newTab.html"}, "icons": {"512": "res/512x512.png"}, "manifest_version": 2}

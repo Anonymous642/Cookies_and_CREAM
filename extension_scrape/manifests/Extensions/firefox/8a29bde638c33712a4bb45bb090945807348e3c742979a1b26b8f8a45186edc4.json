@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Newtab", "version": "1.0", "description": "opne upsc 2023 countdown with google search text input adding UPSC keyword in new tab", "icons": {"48": "icons/upsc.png"}, "permissions": ["tabs", "activeTab", "webNavigation"], "chrome_url_overrides": {"newtab": "newhome.html"}, "browser_specific_settings": {"gecko": {"id": "ksk.eco@gmail.com"}}}

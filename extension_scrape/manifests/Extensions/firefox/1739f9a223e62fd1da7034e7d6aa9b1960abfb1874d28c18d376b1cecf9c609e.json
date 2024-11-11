@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bozo", "version": "1.0", "description": "Altera o nome Bolsonaro para Bozo em sites de not\u00edcias", "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "content_scripts": [{"matches": ["*://*.folha.uol.com.br/*", "*://*.estadao.com.br/*", "*://*.oglobo.globo.com/*"], "js": ["bozo.js"]}]}

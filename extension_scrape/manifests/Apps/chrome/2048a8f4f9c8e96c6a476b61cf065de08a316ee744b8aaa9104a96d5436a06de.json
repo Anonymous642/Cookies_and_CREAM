@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "K\u0131z\u0131lay", "version": "1", "icons": {"24": "logo_24.png", "128": "logo_128.png"}, "app": {"urls": ["http://kizilayankara.org.tr/"], "launch": {"web_url": "http://kizilayankara.org.tr/"}}, "permissions": ["geolocation", "notifications"], "manifest_version": 2}

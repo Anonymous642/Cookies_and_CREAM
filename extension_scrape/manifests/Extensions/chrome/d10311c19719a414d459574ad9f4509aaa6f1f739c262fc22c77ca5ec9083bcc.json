@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Discord Dynamic Times", "description": "Adds the ability to generate Discord's dynamic times in an extension", "version": "1.0", "icons": {"128": "icon128.png"}, "action": {"default_popup": "popup.html"}}

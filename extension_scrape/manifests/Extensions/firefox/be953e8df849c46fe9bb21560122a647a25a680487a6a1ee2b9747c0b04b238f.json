@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ARTE speed", "version": "0.1.0", "description": "Adds a speed slider to the ARTE video player.", "icons": {"48": "icon.svg", "96": "icon.svg"}, "content_scripts": [{"matches": ["*://*.arte.tv/*"], "js": ["main.js"]}]}

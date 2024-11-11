@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Switch to phone", "description": "Open the current tab in your phone anytime by scanning a qrcode", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "popup.html"}, "permissions": ["tabs"], "icons": {"16": "16.png", "48": "48.png", "128": "128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GRE New Tab Vocab", "version": "0.1", "description": "Different GRE Words every New Tab opened", "developer": {"name": "Samuel Akinseinde", "url": "https://github.com/mikuns"}, "icons": {"48": "img/icon-48.png", "96": "img/icon-96.png"}, "permissions": ["storage"], "chrome_url_overrides": {"newtab": "index.html"}}

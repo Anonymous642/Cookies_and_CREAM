@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Hulu PIP", "description": "Enable Picture in Picture for Hulu Videos", "version": "0.0.0.1", "content_scripts": [{"matches": ["https://www.hulu.com/watch/*"], "js": ["content.js"], "run_at": "document_start"}], "permissions": ["https://ajax.googleapis.com/"]}

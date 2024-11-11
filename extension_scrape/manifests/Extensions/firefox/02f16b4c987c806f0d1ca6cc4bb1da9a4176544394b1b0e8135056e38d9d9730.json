@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "View image", "version": "1.0", "description": "Brings back view image that was removed in firefox 88", "permissions": ["tabs", "activeTab", "contextMenus"], "background": {"scripts": ["background.js"]}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WordleFinder \"Helper\" ", "version": "1.0", "description": "Displays the correct answer as the game Title", "content_scripts": [{"matches": ["https://www.nytimes.com/games/wordle/index.html"], "js": ["finder.js"]}]}

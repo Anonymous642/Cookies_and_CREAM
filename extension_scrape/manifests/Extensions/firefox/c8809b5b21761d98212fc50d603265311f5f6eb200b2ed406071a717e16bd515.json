@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "vim-scroll", "browser_specific_settings": {"gecko": {"id": "{bc095b27-020f-473c-a75d-944762c16400}"}}, "version": "5.0.1", "icons": {"128": "jk.png"}, "host_permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["vim-scroll.js"]}]}

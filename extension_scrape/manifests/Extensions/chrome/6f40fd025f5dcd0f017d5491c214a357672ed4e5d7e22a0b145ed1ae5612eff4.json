@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Homepage Background Changer", "version": "1.0", "description": "Change the new tab page background with selected image", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["storage"]}

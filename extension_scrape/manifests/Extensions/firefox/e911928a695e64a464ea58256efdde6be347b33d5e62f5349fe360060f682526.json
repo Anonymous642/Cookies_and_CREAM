@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GMail images max width", "version": "1.0", "description": "GMail images max width.", "content_scripts": [{"matches": ["*://mail.google.com/mail/u/*"], "css": ["main.css"]}], "browser_specific_settings": {"gecko": {"id": "{a678b1c5-251e-4bce-94b4-8dca6485fd10}"}}}

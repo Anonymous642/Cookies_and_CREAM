@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hackaday mobile fix", "version": "1.1", "description": "Removes the right sidebar on the hackaday blog.", "icons": {}, "content_scripts": [{"matches": ["*://*.hackaday.com/blog*"], "js": ["hdmobilefix.js"]}]}

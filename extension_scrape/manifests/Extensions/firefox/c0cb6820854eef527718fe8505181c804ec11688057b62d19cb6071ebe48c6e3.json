@@ -1,0 +1,1 @@
+{"description": "Automatically signs you into the proxy/iclogin web portal", "manifest_version": 2, "name": "Proxy/IcLogin Auto Sign In", "version": "1.1", "homepage_url": "https://meloons.xyz", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://proxy/iclogin*"], "js": ["signin.js"]}]}

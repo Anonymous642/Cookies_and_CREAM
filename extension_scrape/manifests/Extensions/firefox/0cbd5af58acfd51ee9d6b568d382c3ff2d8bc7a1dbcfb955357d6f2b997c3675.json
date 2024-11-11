@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Page Zoom", "description": "Sets default zoom for tabs.", "version": "0.1.0", "applications": {"gecko": {"id": "page-zoom@ris58h"}}, "permissions": ["tabs"], "background": {"scripts": ["background.js"]}}

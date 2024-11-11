@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Anti-Webedia", "version": "0.1", "description": "Vous permet de ne pas accepter l utilisation des cookies", "icons": {"64": "icon-64.png"}, "content_scripts": [{"matches": ["*://*.allocine.fr/*"], "js": ["main.js"]}]}

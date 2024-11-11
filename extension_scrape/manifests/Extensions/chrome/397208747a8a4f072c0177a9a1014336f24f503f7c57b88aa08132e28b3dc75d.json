@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Solid Motivation", "version": "1.0.126", "permissions": ["storage"], "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "solid-motivation@adipascu.ro"}}, "version_name": "1.0.126-7d41a11"}

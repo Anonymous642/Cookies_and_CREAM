@@ -1,0 +1,1 @@
+{"app": {"launch": {"web_url": "http://jreperage.free.fr/index.html"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "G\u00e9n\u00e9rateur de Rep\u00e9rage", "name": "Rep\u00e9rage", "permissions": ["unlimitedStorage"], "icons": {"128": "icon_128.png"}, "manifest_version": 2, "version": "2.1"}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "__MSG_extName__", "version": "1.0.2", "description": "__MSG_extDes__", "default_locale": "en", "content_scripts": [{"run_at": "document_idle", "js": ["scripts/content.js"], "matches": ["https://studio.youtube.com/*"]}], "icons": {"128": "images/icon_128.png"}}

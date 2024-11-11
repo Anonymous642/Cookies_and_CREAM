@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Random Number Generator", "version": "1.0", "description": "Generates random number for You", "permissions": [], "browser_action": {"default_popup": "popup.html", "default_icon": {"128": "images/random.001.png"}}, "icons": {"128": "images/random.001.png"}, "manifest_version": 2}

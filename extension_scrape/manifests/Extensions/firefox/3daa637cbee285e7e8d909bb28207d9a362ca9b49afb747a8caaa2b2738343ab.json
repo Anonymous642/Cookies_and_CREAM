@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Foodsoft-Filter", "version": "0.4", "description": "Adds some nice scripts to handle a large order list in Foodsoft.", "icons": {"48": "FoodsoftFilter.png"}, "content_scripts": [{"matches": ["*://app.foodcoops.net/*"], "js": ["main.js"]}], "web_accessible_resources": ["scripts.js", "buttons.css", "orderlist.html"]}

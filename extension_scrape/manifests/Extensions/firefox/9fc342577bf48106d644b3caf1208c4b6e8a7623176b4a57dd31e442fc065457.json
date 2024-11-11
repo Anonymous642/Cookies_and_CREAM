@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YTLooper", "version": "1.2.3", "description": "Allows you to loop YouTube videos with one click.", "icons": {"48": "icons/48Black.png", "96": "icons/96Black.png"}, "content_scripts": [{"run_at": "document_start", "matches": ["*://*.youtube.com/*"], "css": ["looper.css"], "js": ["jquery-3.2.1.slim.min.js", "looper.js"]}], "permissions": []}

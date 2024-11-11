@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "instagram-images-layout-remover", "version": "0.0.1", "description": "Removes the layout from instagram images so you can save them by right clicking and saving as.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.instagram.com/*"], "js": ["index.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Remove popup from plix.", "version": "1.0", "description": "In 300-400ms remove boring popup from plix.", "permissions": ["https://klix.ba/*"], "action": {"default_icon": "logo.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["contentScript.js"]}]}

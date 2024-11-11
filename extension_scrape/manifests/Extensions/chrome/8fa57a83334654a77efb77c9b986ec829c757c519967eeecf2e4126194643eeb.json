@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "O Roplocer", "version": "1.0", "description": "Replaces non-'o' vowels with 'o'.", "icons": {"128": "icon_128.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}]}

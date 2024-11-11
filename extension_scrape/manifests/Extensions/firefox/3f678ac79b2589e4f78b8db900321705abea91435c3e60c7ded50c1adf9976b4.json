@@ -1,0 +1,1 @@
+{"description": "Adds faster video speed options to D2L media player", "manifest_version": 2, "name": "D2L Quality of Life", "version": "1.0", "icons": {"48": "icons/happy-goose-48.png"}, "content_scripts": [{"matches": ["*://*/d2l/le/content/*"], "js": ["d2l-qol.js"]}]}

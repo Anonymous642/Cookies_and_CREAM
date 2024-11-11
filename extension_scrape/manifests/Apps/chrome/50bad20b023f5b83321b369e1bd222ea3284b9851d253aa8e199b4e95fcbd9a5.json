@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Best Blackhat SEO Blog", "description": "Get latest free blackhat seo methods and software reviews.", "version": "1.0", "icons": {"128": "icon.png"}, "app": {"urls": ["http://blackhatpwnage.com/"], "launch": {"web_url": "http://blackhatpwnage.com/"}}}

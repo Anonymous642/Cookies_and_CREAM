@@ -1,0 +1,1 @@
+{"dictionaries": {"uk-UA": "dictionaries/uk-UA.dic"}, "version": "6.3.1", "name": "Ukrainian dictionary", "description": "Ukrainian (uk-UA) spellchecking dictionary", "browser_specific_settings": {"gecko": {"id": "uk-ua@dictionaries.addons.mozilla.org"}}, "author": "Andriy Rysin", "homepage_url": "https://github.com/brown-uk/dict_uk", "manifest_version": 2}

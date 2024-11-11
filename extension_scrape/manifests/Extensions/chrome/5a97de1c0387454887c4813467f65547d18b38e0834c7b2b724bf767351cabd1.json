@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Scioly Pride Flag Remover", "description": "Removes pride flags on Scioly.org", "minimum_chrome_version": "88", "version": "1.2", "host_permissions": ["*://scioly.org/*"], "content_scripts": [{"matches": ["*://scioly.org/*"], "js": ["flag-remover.js", "favicon-converter.js"]}]}

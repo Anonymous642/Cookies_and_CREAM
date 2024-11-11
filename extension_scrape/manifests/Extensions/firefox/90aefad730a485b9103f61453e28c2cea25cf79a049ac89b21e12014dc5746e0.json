@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Price Round", "version": "0.1.2", "content_scripts": [{"matches": ["https://*/sch/*"], "js": ["roundr.js"]}], "applications": {"gecko": {"id": "sourcedav@gmail.com"}}, "options_ui": {"page": "options.html"}, "permissions": ["storage"], "description": "Rounds all prices up to get rid of psychological pricing."}

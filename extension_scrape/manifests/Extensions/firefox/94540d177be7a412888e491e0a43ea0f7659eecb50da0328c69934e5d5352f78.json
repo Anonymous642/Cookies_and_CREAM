@@ -1,0 +1,1 @@
+{"name": "Cleantube", "description": "Use it as you like it, a better css for youtube", "version": "1.0", "manifest_version": 2, "content_scripts": [{"matches": ["https://*.youtube.com/*"], "css": ["overflow.css"]}], "browser_specific_settings": {"gecko": {"id": "{3a5e08a8-8303-443a-b973-c0fe5deddba9}"}}}

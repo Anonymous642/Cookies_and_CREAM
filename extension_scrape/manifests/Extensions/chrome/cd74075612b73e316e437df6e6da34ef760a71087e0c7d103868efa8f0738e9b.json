@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "FF & Rew YTShorts ", "version": "1.0", "description": "Allows you to fast forward and rewind Shorts on YouTube.", "host_permissions": ["*://www.youtube.com/*"], "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"]}]}

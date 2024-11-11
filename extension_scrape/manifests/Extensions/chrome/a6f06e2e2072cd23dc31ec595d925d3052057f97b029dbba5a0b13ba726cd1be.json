@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Jinkies", "description": "This extension makes JIRA project references linkable.", "version": "0.5", "content_scripts": [{"matches": ["https://*/*"], "css": ["jinkies.css"], "js": ["jinkies.js"]}], "permissions": ["storage"], "options_page": "options.html"}

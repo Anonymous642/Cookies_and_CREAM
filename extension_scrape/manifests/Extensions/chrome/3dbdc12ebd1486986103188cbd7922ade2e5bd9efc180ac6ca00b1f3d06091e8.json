@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AI Amazon Review Summarizer", "version": "1.1", "host_permissions": ["https://*.amazon.com/*", "https://api.openai.com/*"], "action": {"default_icon": {"16": "icon.png", "32": "icon.png"}, "default_popup": "popup.html"}}

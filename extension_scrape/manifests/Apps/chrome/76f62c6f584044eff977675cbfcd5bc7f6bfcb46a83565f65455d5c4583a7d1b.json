@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Talentbuddy", "short_name": "Talentbuddy", "version": "6", "description": "Exercise for the programmer's brain", "icons": {"128": "tb_128.png"}, "app": {"urls": ["http://www.talentbuddy.co/"], "launch": {"web_url": "http://www.talentbuddy.co/"}}, "permissions": ["notifications"], "manifest_version": 2}

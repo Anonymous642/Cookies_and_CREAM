@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Nathan for You Quotes and Cats", "description": "Your daily dose of Nathan and cats", "version": "3.0.1", "chrome_url_overrides": {"newtab": "Background.html"}}

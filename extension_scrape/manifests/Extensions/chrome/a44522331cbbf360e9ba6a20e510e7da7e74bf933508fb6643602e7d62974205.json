@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "History Cleaner", "version": "1.1", "description": "Ge\u00e7mi\u015f & \u015eifre & \u00c7erezler \u0130\u00e7in Temizlik Hem G\u00fcvenlik Hem Temizlik", "permissions": ["browsingData"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "manifest_version": 2}

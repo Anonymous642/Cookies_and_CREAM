@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SLT Usage Mater Advance", "version": "2.1", "content_scripts": [{"matches": ["https://internetvas.slt.lk/dashboard"], "js": ["content.js"]}]}

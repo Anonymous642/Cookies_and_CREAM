@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Close tabs to the right", "action": {}, "manifest_version": 3, "version": "0.2", "description": "Close tabs to the right", "permissions": [], "background": {"service_worker": "background.js"}, "icons": {"128": "icon.png"}}

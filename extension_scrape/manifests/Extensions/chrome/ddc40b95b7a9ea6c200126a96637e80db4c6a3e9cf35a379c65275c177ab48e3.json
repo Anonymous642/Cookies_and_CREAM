@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Positive Message Extension", "version": "1.0", "description": "Displays a positive message every 5 minutes", "permissions": ["alarms", "notifications", "storage"], "action": {"default_popup": "popup.html"}, "background": {"service_worker": "service-worker.js"}}

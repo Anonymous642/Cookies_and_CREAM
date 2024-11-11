@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TUH", "version": "1.2.1.0", "description": "Reads your history Tab, and shows you the top ten pages you go to by typing the URL.", "permissions": ["history"], "action": {"default_popup": "typedUrls.html", "default_icon": "clock.png"}, "manifest_version": 3}

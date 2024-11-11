@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "TP Agent Portal - Roster CSS", "version": "0.2.0", "description": "Taylor Properties Agent Portal Custom Styling - Roster Pages", "content_scripts": [{"css": ["styles.css"], "js": ["content.js"], "matches": ["https://www.tpagentportal.com/?page=agents"]}]}

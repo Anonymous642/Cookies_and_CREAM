@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Soundcloud Coolant", "description": "Browser extension that makes Soundcloud stop burning your lap and eating your battery", "author": "Dietrich Ayala", "version": "1.0.0", "content_scripts": [{"matches": ["*://soundcloud.com/*"], "js": ["content-script.js"]}], "permissions": []}

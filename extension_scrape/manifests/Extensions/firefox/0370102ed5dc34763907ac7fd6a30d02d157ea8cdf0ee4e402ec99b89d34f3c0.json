@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Key Generator", "version": "1.0", "description": "Key Generator on Key press", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "browser_action": {"default_icon": "icon16.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{8020fb9a-7622-4ac0-bffa-d200f9d0de21}"}}}

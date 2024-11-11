@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "YS Attendance", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "popup.html"}, "description": "An extension for filling up employees' attendance for You-Source", "host_permissions": [], "permissions": [], "icons": {"32": "ys-favicon.png", "128": "ys-favicon-128.png"}}

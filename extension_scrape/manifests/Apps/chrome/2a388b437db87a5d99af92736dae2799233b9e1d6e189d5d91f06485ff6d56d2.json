@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Artikel Chrome Trial", "description": "German nouns guessing game", "version": "2.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["storage", "fullscreen"], "icons": {"128": "artikel-128.png"}}

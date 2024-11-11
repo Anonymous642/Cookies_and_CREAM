@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Old Fashion Description", "version": "1.0.0", "description": "Reverts the YouTube description back to what it used to be", "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["scripts.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SuppZer", "version": "1.2", "description": "Supprime l'\u00e9l\u00e9ment pride sur Deezer.", "icons": {"48": "icons/logo-48.png"}, "content_scripts": [{"matches": ["*://*.deezer.com/*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{5f341224-8800-4aee-b7d8-c2c35bd8176a}"}}}

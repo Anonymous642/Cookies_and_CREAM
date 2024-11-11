@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "XPF to GMD", "version": "1.0", "description": "Convert CFP Franc to Gambian Dalasi", "browser_specific_settings": {"gecko": {"id": "xpf-to-gmd@example.com"}}}

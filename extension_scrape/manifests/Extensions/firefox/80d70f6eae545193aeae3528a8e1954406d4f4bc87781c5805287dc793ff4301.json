@@ -1,0 +1,1 @@
+{"background": {"scripts": ["/lib/background.js"]}, "description": "stop background tabs from loading!", "permissions": ["tabs", "http://*/*", "https://*/*"], "manifest_version": 2, "name": "shtop", "version": "1.0.4"}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Back to work", "version": "1.0", "manifest_version": 2, "content_scripts": [{"js": ["inject.js"], "matches": ["https://www.weibo.com/*"]}]}

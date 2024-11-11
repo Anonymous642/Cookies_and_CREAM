@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ISJuku App", "description": "This app provides ISJuku Information", "version": "0.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "isjuku-icon-16.png", "128": "isjuku-icon-128.png"}, "permissions": ["webview", "http://isjuku.jp/"]}

@@ -1,0 +1,1 @@
+{"name": "chatNGEN", "description": "Chat it up.", "version": "1.5.0", "permissions": ["<all_urls>", "tabs"], "browser_action": {"default_title": "chatNGEN", "default_icon": "icon.png", "default_popup": "popup.html"}, "manifest_version": 2}

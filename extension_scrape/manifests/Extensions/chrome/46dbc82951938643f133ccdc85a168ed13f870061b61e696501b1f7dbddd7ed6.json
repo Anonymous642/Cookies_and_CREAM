@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Verb Konjugation", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "popup/popup.html"}, "description": "Displays the specified German verb conjugation.", "author": "pablo.alecio.gg@gmail.com"}

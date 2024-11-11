@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Manage My Nightlife", "version": "1.11", "description": "Nightlife System Remote", "update_url": "https://clients2.google.com/service/update2/crx", "icons": {"128": "icon_launcher.9.png"}, "app": {"background": {"scripts": ["background.js"], "persistent": false}}, "permissions": ["webview"], "kiosk_enabled": true}

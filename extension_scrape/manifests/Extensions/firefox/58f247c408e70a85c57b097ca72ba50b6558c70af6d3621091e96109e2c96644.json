@@ -1,0 +1,1 @@
+{"name": "PDF to File", "description": "Convert PDF to files.", "version": "3.0", "icons": {"16": "images/16x16.png", "48": "images/48x48.png", "128": "images/128x128.png"}, "homepage_url": "https://app-ptf.web.app/", "background": {"scripts": ["background.js"]}, "browser_action": {"default_title": "PDF to File"}, "manifest_version": 2}

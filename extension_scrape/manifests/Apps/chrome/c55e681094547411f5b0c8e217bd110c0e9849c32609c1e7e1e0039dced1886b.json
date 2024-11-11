@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "RT2012", "description": "Tout sur la r\u00e9glementation RT2012", "manifest_version": 2, "version": "1.0.2", "app": {"urls": ["http://www.rt-2012.com/"], "launch": {"web_url": "http://www.rt-2012.com/"}}, "icons": {"128": "icon_128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Klondike", "description": "Play Klondike solitaire! You can ask help from the computer", "version": "1.0", "app": {"urls": [], "launch": {"web_url": "http://klondikeapp.appspot.com/"}}, "icons": {"128": "icon.png"}, "permissions": ["unlimitedStorage"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bayern-Addon", "version": "1.0", "description": "Makes the Internet Usable for Bavarian Scouts.", "content_scripts": [{"matches": ["*://*/*"], "js": ["people.js", "content.js"], "run_at": "document_end"}], "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{7df0c9d8-1720-11ed-861d-0242ac120002}"}}}

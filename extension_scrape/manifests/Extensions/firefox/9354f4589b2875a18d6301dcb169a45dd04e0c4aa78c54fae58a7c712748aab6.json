@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pure Image Redirecter", "version": "1.0", "description": "Redirect image site pages directly to images", "permissions": ["webRequest", "webRequestBlocking", "https://imgur.com/*", "https://i.imgur.com/*"], "background": {"scripts": ["./build/background.js"]}, "icons": {"48": "icons/main-48.png", "96": "icons/main-96.png"}}

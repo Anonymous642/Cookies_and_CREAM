@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "C\u00d4NG C\u1ee4 \u0110\u1eb6T H\u00c0NG TRUNG QU\u1ed0C - THIENHAEXPRESS", "version": "3.3", "content_scripts": [{"matches": ["<all_urls>"], "js": ["jquery.min.js", "the.js"]}], "icons": {"16": "the16.png", "48": "the48.png", "128": "the128.png"}}

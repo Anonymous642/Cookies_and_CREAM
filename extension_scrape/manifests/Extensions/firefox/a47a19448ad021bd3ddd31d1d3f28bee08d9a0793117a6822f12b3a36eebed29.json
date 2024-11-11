@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "MWK to EUR", "version": "1.0", "description": "Convert Malawian Kwacha to Euro", "browser_specific_settings": {"gecko": {"id": "mwk-to-eur@example.com"}}}

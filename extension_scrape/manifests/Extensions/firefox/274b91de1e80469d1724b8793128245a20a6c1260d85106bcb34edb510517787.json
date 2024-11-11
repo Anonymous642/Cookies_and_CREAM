@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RBNTableUtility", "version": "1.0", "description": "Add Sorting to RBN Move Tables", "icons": {}, "content_scripts": [{"matches": ["*://rbnorway.org/*/"], "js": ["tableExtension.js"]}]}

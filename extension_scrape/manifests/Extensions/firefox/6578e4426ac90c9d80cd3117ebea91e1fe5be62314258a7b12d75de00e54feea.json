@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Refer DZ", "version": "2.4", "description": "Attempts to replace query string tracking codes with \"deez_nuts\"", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["dz.js"]}, "browser_specific_settings": {"gecko": {"id": "{b0117acd-bc21-48d5-9e7a-928f256be66a}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Catch them", "offline_enabled": true, "permissions": ["storage"], "description": "Catch the right animals before they dissapear", "version": "0.0.2.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "Blackbadger-16.png", "128": "Blackbadger-128.png"}}

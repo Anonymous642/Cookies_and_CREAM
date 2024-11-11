@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Workaround bug 1624550", "version": "1.0.0", "applications": {"gecko": {"id": "workaround1624550@emk.name"}}, "permissions": ["downloads", "history", "webRequest", "<all_urls>"], "background": {"scripts": ["background.js"]}}

@@ -1,0 +1,1 @@
+{"name": "Simple Grab Scroll", "version": "0.1", "manifest_version": 2, "applications": {"gecko": {"id": "{5e9aad31-9528-4655-82ad-76e6557d71ea}"}}, "permissions": ["storage", "tabs"], "options_ui": {"page": "options.html"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["scroll.js"], "all_frames": true}]}

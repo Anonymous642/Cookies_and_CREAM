@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Niwanet Checker", "description": "V\u00e9rifie si un site appartient \u00e0 Niwanet", "version": "1.1.0", "icons": {"128": "images/niwanetchecker-128.png"}, "browser_action": {"default_popup": "page/page.html"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{cc5accc7-09e6-498e-9b77-0dcee3659cf6}"}}}

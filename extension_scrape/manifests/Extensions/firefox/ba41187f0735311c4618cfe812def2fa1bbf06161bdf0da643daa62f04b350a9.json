@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HTTP says insecure", "version": "1.0", "description": "Extension that makes the browser red when browsing a http site", "background": {"scripts": ["background.js"]}, "permissions": ["theme", "tabs"], "applications": {"gecko": {"id": "insecure@http", "strict_min_version": "60.0"}}, "icons": {"48": "./icon.png"}}

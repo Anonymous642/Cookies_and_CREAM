@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Flirting Line Generator", "version": "1.0", "description": "Get a new flirting line every day!", "action": {"default_popup": "popup.html", "default_icon": "logo.png"}, "background": {"service_worker": "background.js"}, "icons": {"128": "logo.png"}}

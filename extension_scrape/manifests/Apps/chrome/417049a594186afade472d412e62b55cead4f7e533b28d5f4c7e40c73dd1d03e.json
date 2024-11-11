@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WriteWell Online", "description": "Free online writing tool to make you write efficiently and effectively.", "version": "1.0.3", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://app.writewellapp.com/"], "launch": {"web_url": "https://app.writewellapp.com/"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OldRedditSwitcheroo", "version": "1.0", "description": "Redirects all reddit links to old.reddit.com, rather than the redesigned site.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["switcheroo.js"]}]}

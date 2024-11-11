@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "icons": {"16": "taobao.png", "48": "taobao.png", "128": "taobao.png"}, "name": "\u6dd8\u5b9d\u641c\u7d22", "version": "1.0.0", "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus"]}

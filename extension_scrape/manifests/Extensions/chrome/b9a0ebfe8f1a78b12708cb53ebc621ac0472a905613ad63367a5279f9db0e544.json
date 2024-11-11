@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "No Click To Edit Jira", "version": "1.0", "description": "Remove click to edit on jira", "icons": {"48": "icons/nope.svg"}, "content_scripts": [{"js": ["src/main.js"], "matches": ["https://*.atlassian.net/*"], "run_at": "document_start"}]}

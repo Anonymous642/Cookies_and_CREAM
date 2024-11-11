@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "New Page Zouplik", "version": "1.4", "description": "New Page Zouplik. Made with Vue 3, Vite, Unocss and Iconify.", "chrome_url_overrides": {"newtab": "index.html"}, "chrome_settings_overrides": {"homepage": "index.html"}, "browser_specific_settings": {"gecko": {"strict_min_version": "54.0a1", "id": "newpage@gmail.com"}}}

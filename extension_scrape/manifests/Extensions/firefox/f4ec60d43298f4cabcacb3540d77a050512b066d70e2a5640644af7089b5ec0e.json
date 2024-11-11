@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Github Unicode Highlight", "version": "1.0.3", "description": "Highlights Unicode characters in PRs on Github", "content_scripts": [{"matches": ["*://github.com/*/*/pull/*/files"], "js": ["pr-check.js"]}]}

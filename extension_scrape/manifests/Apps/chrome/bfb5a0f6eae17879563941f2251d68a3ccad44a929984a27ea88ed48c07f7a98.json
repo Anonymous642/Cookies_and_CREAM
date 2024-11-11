@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ClassManager Connect", "description": "See who's left your classroom and for how long! This version runs on the student device.", "version": "1.0.2.4", "minimum_chrome_version": "23", "icons": {"128": "logo.png"}, "app": {"background": {"scripts": ["background.js"]}}}

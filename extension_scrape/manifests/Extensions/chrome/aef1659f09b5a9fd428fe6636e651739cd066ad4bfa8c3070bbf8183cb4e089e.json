@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "novelai-support", "version": "0.0.0.1", "manifest_version": 3, "description": "Support to input prompts to NovelAI", "icons": {"128": "icon.png"}, "host_permissions": ["https://novelai.net/"], "permissions": ["scripting", "tabs"], "action": {"default_popup": "index.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PuyoSim-Shortcuts", "version": "1.2", "description": "Adds shortcuts to the webpage puyonexus.com/chainsim/", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["https://puyonexus.com/chainsim/*"], "js": ["puyosim-shortcuts.js"]}], "browser_specific_settings": {"gecko": {"id": "{b887001d-3b2e-4f87-afb7-10a43ad6bff2}"}}}

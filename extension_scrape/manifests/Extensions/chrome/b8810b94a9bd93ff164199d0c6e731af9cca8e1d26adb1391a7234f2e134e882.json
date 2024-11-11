@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Cookie to Lintworm", "version": "1.0.1", "description": "Verandert cookie in lintworm", "content_scripts": [{"matches": ["*://*/*"], "js": ["replace.js"], "run_at": "document_end"}], "icons": {"16": "icons/16.png", "48": "icons/48.png", "128": "icons/128.png"}, "manifest_version": 2}

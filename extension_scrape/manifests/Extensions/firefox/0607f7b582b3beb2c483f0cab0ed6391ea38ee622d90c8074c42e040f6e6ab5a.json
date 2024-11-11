@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YTPopUpBlocker", "version": "1.122", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*.youtube.com/watch?*"], "js": ["YTPopUpBlocker.js"]}], "browser_specific_settings": {"gecko": {"id": "{66f90436-889d-4da7-9a92-dd22982323c9}"}}}

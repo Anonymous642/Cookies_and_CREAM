@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GRITANDO", "version": "1.0", "description": "GRITANDO", "authors": [{"name": "Alex Silva de Aguiar", "email": "alex3aguiar6@gmail.com"}], "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "run_at": "document_idle", "all_frames": true, "js": ["GRITANDO.js"]}], "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Block Instagram Explore", "version": "1.0", "description": "Addon to block Instagram Explore page", "applications": {"gecko": {"id": "block_instagram_explore@jonas-hellmann.de"}}, "content_scripts": [{"matches": ["*://*.instagram.com/*"], "js": ["block_instagram_explore.js"]}]}

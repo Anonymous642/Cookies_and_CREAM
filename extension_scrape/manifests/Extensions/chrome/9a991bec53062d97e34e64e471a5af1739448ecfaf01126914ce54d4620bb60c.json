@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Kiite World \u30b3\u30e1\u30f3\u30c8\u8868\u793a", "version": "1.1", "content_scripts": [{"matches": ["https://world.kiite.jp/*"], "js": ["jquery-3.7.1.min.js", "content.js"]}]}

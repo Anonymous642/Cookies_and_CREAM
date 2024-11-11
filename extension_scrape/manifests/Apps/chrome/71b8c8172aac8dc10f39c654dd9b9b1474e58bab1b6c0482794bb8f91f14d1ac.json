@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Dog Age Calculator", "description": "Convert dog years to equivalent human years by dog breed.", "version": "1.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.ajdesigner.com/fl_dog_age/"], "launch": {"web_url": "http://www.ajdesigner.com/fl_dog_age/dog_age.php"}}}

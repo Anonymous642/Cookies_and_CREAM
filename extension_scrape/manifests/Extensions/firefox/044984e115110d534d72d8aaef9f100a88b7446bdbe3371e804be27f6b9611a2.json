@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "toki", "version": "1.0", "description": "toki pona popup dictionary!", "icons": {"48": "toki-48.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["toki.js"]}], "browser_specific_settings": {"gecko": {"id": "{a9954c3c-6575-4715-a14a-cf37fd3289b9}"}}}

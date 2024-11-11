@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Toolbox", "version": "1.2", "description": "Code Jam #1\nMake a browser extension that makes life easier, basically a tool in browser extension form.", "browser_action": {"browser_style": true, "default_popup": "menu/menu.html", "default_icon": {"128": "icon.png"}}, "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self';"}

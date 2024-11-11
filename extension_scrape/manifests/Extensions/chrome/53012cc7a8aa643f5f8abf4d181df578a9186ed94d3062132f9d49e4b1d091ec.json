@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Instant Wikipedia", "description": "Displays Wikipedia articles as you type", "version": "0.0.1", "author": "Matthew Felgate", "omnibox": {"keyword": "w"}, "background": {"persistent": false, "scripts": ["background.js"]}, "permissions": ["activeTab"]}

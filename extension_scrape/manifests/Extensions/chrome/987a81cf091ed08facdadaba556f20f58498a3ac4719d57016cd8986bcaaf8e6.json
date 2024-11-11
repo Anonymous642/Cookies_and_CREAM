@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Upper Text", "version": "0.19.15", "description": "Transforma seus textos.", "icons": {"48": "UT_48.png", "128": "UT_128.png"}, "action": {"default_popup": "index.html"}, "manifest_version": 3}

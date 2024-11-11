@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Smile N Search", "description": "Remember to smile while you search and quick access to your socials!", "version": "1.0", "manifest_version": 3, "chrome_url_overrides": {"newtab": "new_tab.html"}, "icons": {"128": "/img/Stay_up_search_icon.png"}}

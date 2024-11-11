@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mangadex Extension", "version": "1.0.1", "permissions": ["https://api.mangaupdates.com/v1/series/", "https://api.mangaupdates.com/v1/series/search"], "content_scripts": [{"matches": ["*://mangadex.org/title/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{4d60dee2-09e0-4ed6-ae5a-1c8a1bec6245}"}}}

@@ -1,0 +1,1 @@
+{"name": "Google Maps Plus", "version": "3", "icons": {"24": "24.png", "128": "128.png"}, "app": {"urls": ["http://maps.google.com/"], "launch": {"web_url": "http://maps.google.com/"}}, "permissions": ["geolocation"], "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{0fe36ccc-3366-4adb-a052-4c0e92b59385}"}}}

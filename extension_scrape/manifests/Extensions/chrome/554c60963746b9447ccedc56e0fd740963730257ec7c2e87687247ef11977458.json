@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Shade Generator", "version": "0.1.0", "description": "Generate theme shades based on selected color", "icons": {"64": "icon64.png", "128": "icon128.png"}, "action": {"default_title": "Shade Generator", "default_popup": "popup.html"}, "manifest_version": 3}

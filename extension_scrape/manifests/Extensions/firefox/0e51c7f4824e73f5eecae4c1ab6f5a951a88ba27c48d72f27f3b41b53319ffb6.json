@@ -1,0 +1,1 @@
+{"name": "One Click Staking", "version": "1.0.1", "description": "One click stacking extension for presearch.org", "icons": {"48": "48.png", "96": "96.png"}, "content_scripts": [{"matches": ["*://*.dsearch.com/*"], "js": ["script.js"], "match_about_blank": true, "all_frames": true}], "manifest_version": 2}

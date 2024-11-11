@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sweet Learn", "description": "IT Online Courses.", "version": "0.3", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "sweetlearn-16.png", "128": "sweetlearn-128.png"}}

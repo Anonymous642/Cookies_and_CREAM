@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MoskvaTV.com - Russian Online TV", "description": "All Russian Television in One Place / Russia TV", "version": "1.2", "manifest_version": 2, "icons": {"128": "128.png"}, "app": {"urls": ["http://www.moskvatv.com/"], "launch": {"web_url": "http://www.moskvatv.com/"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Ad Muter", "version": "1.0", "permissions": ["activeTab"], "background": {"service_worker": "background.js"}, "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"]}], "action": {"default_popup": "options.html", "default_icon": {"64": "icon.png"}}}

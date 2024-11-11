@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No Hidden Comments", "version": "1.0", "description": "Unhides potentially toxic comments", "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["index.js"]}]}

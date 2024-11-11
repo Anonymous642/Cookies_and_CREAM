@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Embeded Video", "version": "2.2", "description": "Embed the video in youtube and prevent announcments from reproducing", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "dsahdkasdas@test.com"}}}

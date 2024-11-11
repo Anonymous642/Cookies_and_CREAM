@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "background": {"scripts": ["playsounds.js"], "persistent": false}, "manifest_version": 2, "name": "Serbian big boi", "description": "A soundboard for use by our favourite serb", "version": "2.1", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Lectory Presence", "version": "0.2", "description": "Show Discord presence when you watch lectures.", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["lib/socket.io.js", "main.js"]}], "browser_specific_settings": {"gecko": {"id": "{2377c4fd-e454-4321-833f-33193c0e55ff}"}}}

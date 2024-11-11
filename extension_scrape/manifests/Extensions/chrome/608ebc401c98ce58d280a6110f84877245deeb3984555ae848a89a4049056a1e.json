@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "LQExtension", "description": "H\u01af\u1edaNG D\u1eaaN S\u1eec D\u1ee4NG WEBSITE", "version": "1.0", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "manifest_version": 2}

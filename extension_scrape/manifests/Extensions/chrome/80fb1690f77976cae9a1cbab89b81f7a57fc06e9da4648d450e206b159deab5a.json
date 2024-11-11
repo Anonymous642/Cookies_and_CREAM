@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Wallace Quick Reference", "version": "1.0.0", "description": "A place to quickly find forms and information.", "manifest_version": 3, "icons": {"16": "wallaceimg.png", "48": "wallaceimg.png", "128": "wallaceimg.png"}, "action": {"default_popup": "popup.html"}}

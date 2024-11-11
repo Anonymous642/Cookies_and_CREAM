@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tabouleh", "short_name": "Tabouleh", "description": "Donate money to help the victims of Palestine. Simply watch the ads and help those in need.", "version": "1.0.0", "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "chrome_url_overrides": {"newtab": "main.html"}}

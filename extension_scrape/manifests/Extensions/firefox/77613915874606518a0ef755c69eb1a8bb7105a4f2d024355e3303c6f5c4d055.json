@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "^^URL", "version": "7.18", "description": "Open the next numerical webpage.", "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["bg.js"]}, "icons": {"16": "icons/16.png", "48": "icons/48.png", "96": "icons/96.png"}, "browser_specific_settings": {"gecko": {"id": "{db22bf9b-23a6-4a8c-9163-8fd853d9f170}"}}}

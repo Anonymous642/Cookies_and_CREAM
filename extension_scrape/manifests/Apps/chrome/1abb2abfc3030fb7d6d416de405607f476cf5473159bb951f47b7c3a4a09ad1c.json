@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Gin Rummy", "description": "Play Gin Rummy !", "version": "1.3", "app": {"urls": [], "launch": {"web_url": "http://ginrummyapp.appspot.com/play.html"}}, "icons": {"128": "icon.png"}, "permissions": ["unlimitedStorage"]}

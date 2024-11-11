@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "seaairwar", "description": "Midway Island battle.", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "seaairwar128.png"}, "app": {"urls": ["http://greatseaairwar.blogspot.tw/"], "launch": {"web_url": "http://greatseaairwar.blogspot.tw/"}}}

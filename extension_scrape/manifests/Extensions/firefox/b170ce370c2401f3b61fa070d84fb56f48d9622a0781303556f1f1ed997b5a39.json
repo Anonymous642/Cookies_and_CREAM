@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "0.0.2", "name": "Safety Password", "description": "Create a Safety Passwords whith one click", "author": "Giovanni Lima", "browser_action": {"default_title": "Safety Password Generate", "default_popup": "/Folder/index.html"}, "browser_specific_settings": {"gecko": {"id": "{5a1f30d2-7883-4a80-bf43-d10a4aa9fcb6}"}}}

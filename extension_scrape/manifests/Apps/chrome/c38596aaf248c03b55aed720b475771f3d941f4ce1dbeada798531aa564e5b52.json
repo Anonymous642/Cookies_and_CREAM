@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "AD2460", "description": "AD2460 is a FREE strategy MMO where you fight with others over the resources in the galaxy.", "version": "0.9.2.0", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.ad2460.com/"], "launch": {"web_url": "http://www.ad2460.com/"}}}

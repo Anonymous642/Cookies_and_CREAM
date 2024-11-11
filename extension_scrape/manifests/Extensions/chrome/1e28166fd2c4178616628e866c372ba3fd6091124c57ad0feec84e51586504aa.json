@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Searchany", "description": "Transform New Tab with amazing new design", "manifest_version": 3, "version": "1.0.0", "chrome_url_overrides": {"newtab": "tab.html"}, "action": {"default_icon": "icon.png"}, "icons": {"16": "icon.png", "32": "icon.png", "64": "icon.png", "128": "icon.png"}}

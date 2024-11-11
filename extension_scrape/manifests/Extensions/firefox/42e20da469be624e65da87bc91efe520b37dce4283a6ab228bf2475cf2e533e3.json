@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Metrovalencia Recordar Trayectos", "version": "1.0", "description": "A\u00f1ade funcionalidades para poder recordar el trayecto en la p\u00e1gina de metrovalencia.es/horarios.mobi.php", "content_scripts": [{"matches": ["https://www.metrovalencia.es/horarios.mobi.php"], "js": ["plugin.js"]}]}

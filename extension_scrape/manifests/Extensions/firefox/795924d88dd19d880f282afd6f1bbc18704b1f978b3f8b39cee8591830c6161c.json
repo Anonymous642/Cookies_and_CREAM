@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NoBull", "version": "1.0.5", "description": "Get rid of bullshit by only seeing direct contact posts", "content_scripts": [{"matches": ["*://*.linkedin.com/*"], "js": ["nobull.js"], "run_at": "document_start"}], "permissions": ["activeTab", "scripting"], "browser_specific_settings": {"gecko": {"id": "{43f64158-8c55-41f1-9182-f4de4a639f90}"}}}

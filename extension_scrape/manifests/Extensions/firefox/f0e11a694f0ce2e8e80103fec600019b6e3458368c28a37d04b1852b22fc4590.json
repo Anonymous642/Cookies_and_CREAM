@@ -1,0 +1,1 @@
+{"description": "This extension displays a block page whenever it detects a TLS connection reset error", "manifest_version": 2, "name": "CUJO block page extension", "version": "1.0", "permissions": ["webRequest", "<all_urls>"], "background": {"scripts": ["watchdog.js"]}, "icons": {"48": "icon.png"}}

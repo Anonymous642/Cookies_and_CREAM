@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Anti Safeshare", "version": "1.0", "description": "Redirects all SafeShare and video.link to the original video on Youtube.", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://safeshare.tv/x/*", "*://video.link/w/*"], "js": ["redirect.js"]}]}

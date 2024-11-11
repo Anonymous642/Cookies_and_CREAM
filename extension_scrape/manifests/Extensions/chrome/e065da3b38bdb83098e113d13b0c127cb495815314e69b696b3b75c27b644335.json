@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Feel Good Comments", "version": "1.0.2", "manifest_version": 2, "description": "Replaces YouTube comments with a reminder that You're Beautiful.", "icons": {"128": "icon_128.png"}, "content_scripts": [{"matches": ["*://www.youtube.com/*", "*://youtube.com/*"], "js": ["feelgood.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Stackmin", "description": "Simple Cloudstack Administration Interface", "version": "0.1", "manifest_version": 2, "app": {"background": {"scripts": ["js/chrome_app.js"]}}, "icons": {"48": "icons/icon_48.png", "64": "icons/icon_64.png"}, "permissions": ["https://*/*", "storage", "notifications"]}

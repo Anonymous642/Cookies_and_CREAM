@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ChannelNo4Network", "version": "1.0.1", "description": "ChannelNo4Network", "content_scripts": [{"js": ["overlay.js"], "run_at": "document_end", "matches": ["*://no4channel.xyz/*"], "all_frames": true}]}

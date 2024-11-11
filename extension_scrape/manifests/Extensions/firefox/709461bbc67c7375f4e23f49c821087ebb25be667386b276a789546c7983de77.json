@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dancing Alien", "version": "1.0", "description": "Adds a dancing Alien to the corner of the screen", "icons": {"48": "icons/dancingBicho.png"}, "content_scripts": [{"matches": ["*://*.mozilla.org/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{7560c47b-ef8f-4dd8-a64c-4bf924b09ca6}"}}}

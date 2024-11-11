@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ScaryFish Ultralite", "short_name": "ScaryFish UL", "description": "Fishing Game", "version": "1.0.2", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "sulfree-16.png", "128": "sulfree-128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Senar nas Nuvens", "version": "1.2.8", "minimum_chrome_version": "23", "icons": {"16": "img/icon_16.png", "128": "img/icon_128.png"}, "permissions": ["storage", "background"], "offline_enabled": true, "app": {"background": {"scripts": ["background-chromeapp.js"]}}}

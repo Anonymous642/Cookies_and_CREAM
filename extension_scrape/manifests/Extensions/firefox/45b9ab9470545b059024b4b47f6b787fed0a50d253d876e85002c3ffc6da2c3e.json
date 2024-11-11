@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UBtoS", "version": "1.0", "description": "Copy link of format uptobox.com to uptostream.com?", "icons": {"96": "icons/ubtos.png"}, "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["script.js"]}}

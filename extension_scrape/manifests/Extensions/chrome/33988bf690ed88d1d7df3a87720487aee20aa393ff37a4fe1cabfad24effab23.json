@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "BB Quote", "version": "1.0", "description": "Breaking Bad quote of the day", "manifest_version": 3, "icons": {"16": "download.png", "48": "download.png", "128": "download.png"}, "action": {"default_popup": "popup.html"}, "permissions": ["activeTab"], "background": {"service_worker": "background.js"}}

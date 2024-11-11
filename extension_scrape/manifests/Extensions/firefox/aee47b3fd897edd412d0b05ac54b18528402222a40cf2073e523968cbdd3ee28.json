@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "s3_path_extractor", "version": "1.0", "description": "Adds button to Amazon S3 Console to copy path", "content_scripts": [{"matches": ["https://s3.console.aws.amazon.com/*"], "js": ["s3_path_extractor.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "icons": {"16": "static/egernIcon.png"}, "name": "Adgang med Egern+", "version": "1.0", "permissions": ["activeTab"], "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["scripts/wordlist.js", "scripts/content.js"]}]}

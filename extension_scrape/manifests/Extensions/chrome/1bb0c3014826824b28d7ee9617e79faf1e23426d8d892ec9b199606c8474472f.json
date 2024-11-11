@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GitHub Homepage Restorer", "version": "1.0.2", "description": "Restore the original GitHub homepage!", "content_scripts": [{"matches": ["*://github.com/*"], "css": ["github-homepage.css"], "js": ["github-homepage.js"], "run_at": "document_start"}]}

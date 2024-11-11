@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Let Me Focus", "version": "1.0", "description": "Removes the Twitter sidebar", "homepage_url": "https://liberapay.com/andrewwhocodes", "icons": {"48": "icons/icon_128.png"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*.twitter.com/*", "*://twitter.com/*"], "js": ["main.js"]}]}

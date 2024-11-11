@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UCLN Calculator", "version": "1.0", "description": "Calculate the Greatest Common Divisor (GCD) of two integers.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{2befdb59-73de-4509-a187-043ef9995a55}"}}}

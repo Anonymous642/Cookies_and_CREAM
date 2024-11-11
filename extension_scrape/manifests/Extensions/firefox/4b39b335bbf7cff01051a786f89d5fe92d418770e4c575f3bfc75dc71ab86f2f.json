@@ -1,0 +1,1 @@
+{"description": "Like a product? Want to search it on Amazon US store, this extension will add a Search Amazon entry in the context menu for quick search on Amazon", "manifest_version": 2, "name": "Amazon(US) Search", "version": "1.0", "permissions": ["activeTab", "contextMenus"], "icons": {"48": "icons/48.png", "96": "icons/48.png"}, "background": {"scripts": ["background.js"]}}

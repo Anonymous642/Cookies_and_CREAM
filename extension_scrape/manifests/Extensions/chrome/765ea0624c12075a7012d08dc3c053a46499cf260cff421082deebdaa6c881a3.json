@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "slack with empathy", "description": "Add some empathy to your slacks with user-specific reminders.", "version": "1.0", "action": {"default_icon": "src/images/heart-linear.png"}, "content_scripts": [{"js": ["src/scripts/content.js"], "matches": ["https://app.slack.com/client/*"]}]}

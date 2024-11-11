@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "derstandardatextension", "version": "1.0", "description": "Let's you browse derstandard.at with ad blocker.", "content_scripts": [{"matches": ["*://*.derstandard.at/*", "*://derstandard.at/*"], "js": ["main.js"]}]}

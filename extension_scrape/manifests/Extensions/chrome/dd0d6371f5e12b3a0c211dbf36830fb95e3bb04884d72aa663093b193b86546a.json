@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Remove priority row", "version": "0.1", "description": "Remove the priority row from the Pivotal Tracker story to remove any confusion as of now", "content_scripts": [{"matches": ["https://www.pivotaltracker.com/*"], "js": ["content.js"]}]}

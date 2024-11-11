@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Codeforces-Hide-Problem-Tags", "version": "1.0", "description": "Hides \"Problem tags\" section in Codeforces page.", "content_scripts": [{"matches": ["https://codeforces.com/contest/*", "https://codeforces.com/problemset/problem/*"], "js": ["hide_problem_tags.js"]}]}

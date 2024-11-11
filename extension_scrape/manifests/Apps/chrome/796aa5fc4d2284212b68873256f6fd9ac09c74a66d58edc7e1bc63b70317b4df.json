@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sale % Zbritje", "manifest_version": 2, "description": "This Sale Calculator app is developed to help users to have immediate result of a desired % discount", "version": "1.0.11", "icons": {"16": "chrome-icon16.png", "128": "chrome-icon.png"}, "app": {"background": {"scripts": ["background.js"]}}}

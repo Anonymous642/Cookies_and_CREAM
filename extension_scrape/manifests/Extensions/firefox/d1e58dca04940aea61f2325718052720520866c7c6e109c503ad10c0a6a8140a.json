@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "History Export", "version": "0.6", "icons": {"48": "icons/48.png", "128": "icons/128.png"}, "options_ui": {"page": "options.html", "browser_style": true}, "permissions": ["history"], "browser_specific_settings": {"gecko": {"id": "{ce0db577-2723-471c-9ed7-440d83e793e0}"}}}

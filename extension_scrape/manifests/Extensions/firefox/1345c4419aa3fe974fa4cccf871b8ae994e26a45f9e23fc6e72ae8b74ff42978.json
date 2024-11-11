@@ -1,0 +1,1 @@
+{"name": "Saudades Pedro", "version": "1.0", "description": "Para todos que t\u00eam saudades do Pedro", "manifest_version": 2, "content_scripts": [{"matches": ["<all_urls>"], "run_at": "document_start", "all_frames": true, "js": ["jquery-3.3.1.min.js", "content.js"]}]}

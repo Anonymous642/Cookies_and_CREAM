@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Live Editor", "description": "Open Editor in the new Tab", "homepage_url": "https://twitter.com/balaji2198", "version": "1.2", "icons": {"48": "Icons/icon.png"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "Icons/icon.png", "default_title": "Open Live Editor"}, "permissions": ["tabs"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Simple Facebook Style", "version": "1.0", "author": "storkyle <https://github.com/storkyle>", "description": "", "icons": {"48": "icons/logo.png"}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["index.js"], "css": ["fb-style.css"]}]}

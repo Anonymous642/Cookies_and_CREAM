@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Jaspy Little Caveman 2", "description": "Jaspy is a kiddy caveman who loves eating eggs at lunch.", "version": "1.0", "app": {"urls": ["http://www.ffx.it/games/jaspy2/"], "launch": {"web_url": "http://www.ffx.it/games/jaspy2/"}}, "icons": {"128": "chrome_128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Controls.js NIM Game", "description": "NIM Game powered by Controls.js technology.", "version": "1.0.0", "manifest_version": 2, "app": {"urls": ["http://controlsjs.com/demos/NIM/"], "launch": {"web_url": "http://controlsjs.com/demos/NIM/"}}, "icons": {"128": "icon-128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "0.1.0", "name": "Run In Background", "description": "Run Chrome in the background continuously.", "permissions": ["background"], "background": {"service_worker": "background.js"}, "icons": {"128": "icon.png"}, "action": {}}

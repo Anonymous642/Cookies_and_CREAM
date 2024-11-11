@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "startster", "version": "0.3", "description": "An beautiful start page for your browser", "default_locale": "en", "browser_specific_settings": {"gecko": {"id": "startster@pascal-koelsch.de", "strict_min_version": "70.0"}}, "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["storage"]}

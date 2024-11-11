@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "browsify", "author": "archita", "version": "1.0", "description": "A cool  browser extension that lets you manage your daily task with soothing background and inspiring quotes", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{42b10356-e080-45fc-806b-62ef53089cc3}"}}}

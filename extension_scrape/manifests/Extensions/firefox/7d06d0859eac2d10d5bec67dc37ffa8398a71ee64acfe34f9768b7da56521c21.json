@@ -1,0 +1,1 @@
+{"description": "Button with links for my sites", "manifest_version": 2, "name": "Tselios.Com-Button-Links", "version": "1.1", "background": {"scripts": ["pages_button.js"]}, "permissions": ["activeTab"], "browser_action": {"default_icon": {"32": "icons/tselios-32.png", "48": "icons/tselios-48.png"}, "default_title": "Tselios.Com", "default_popup": "pages.html"}}

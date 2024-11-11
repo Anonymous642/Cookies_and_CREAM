@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Extension Twitch DeBByii", "description": "Vous informe si DeBByii est en live", "version": "1.0", "permissions": ["https://*/*", "http://*/*", "tabs", "notifications", "https://www.twitch.tv/debbyii"], "browser_action": {"default_popup": "index.html"}, "icons": {"64": "IMG/APP.png"}, "background": {"scripts": ["background.js"]}}

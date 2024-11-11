@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WeatherAPI", "version": "1.0", "browser_action": {"default_title": "WeatherAPI", "default_popup": "weather.html"}, "sidebar_action": {"default_title": "My sidebar", "default_panel": "weather.html"}, "permissions": ["*://*.openweathermap.org/*", "webRequest"]}

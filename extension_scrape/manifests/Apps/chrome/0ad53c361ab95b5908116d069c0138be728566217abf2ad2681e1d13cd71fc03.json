@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Xianiaole", "version": "0.1", "permissions": ["webview", "http://xianiaole.com/"], "app": {"background": {"scripts": ["main.js"]}}}

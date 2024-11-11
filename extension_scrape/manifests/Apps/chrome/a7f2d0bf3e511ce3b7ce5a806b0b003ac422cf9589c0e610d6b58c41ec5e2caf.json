@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Misisipy ERP", "description": "Administre su empresa online y f\u00e1cil.", "version": "2", "app": {"urls": ["https://*.misisipy.com/"], "launch": {"web_url": "https://misisipy.com/empresa/index"}}, "short_name": "Misisipy", "author": "Cumulos.co", "icons": {"128": "icon_128.png"}}

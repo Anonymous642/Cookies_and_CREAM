@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "WeatherWise", "description": "Weatherwise is a browser extension that provides real-time weather information for any location worldwide.", "version": "0.0.1", "icons": {"128": "weather.png"}, "action": {"default_popup": "popup.html"}}

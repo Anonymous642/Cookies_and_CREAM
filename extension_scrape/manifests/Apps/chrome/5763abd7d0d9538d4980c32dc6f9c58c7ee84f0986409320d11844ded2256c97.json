@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Comotrabajan", "description": "Entrevistas a emprededores y geeks", "version": "1", "manifest_version": 2, "app": {"urls": ["http://www.comotrabajan.com/"], "launch": {"web_url": "http://www.comotrabajan.com/"}}, "icons": {"48": "icon_48.png", "128": "icon_128.png"}, "permissions": ["unlimited_storage"]}

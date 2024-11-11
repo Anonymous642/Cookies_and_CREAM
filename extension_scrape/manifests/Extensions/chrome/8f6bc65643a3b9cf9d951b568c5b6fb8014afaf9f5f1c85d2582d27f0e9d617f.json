@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "JS Helper", "version": "0.1", "icons": {"16": "assets/coffee16.png", "48": "assets/coffee48.png", "128": "assets/coffee128.png"}, "chrome_url_overrides": {"newtab": "scratch.html"}}

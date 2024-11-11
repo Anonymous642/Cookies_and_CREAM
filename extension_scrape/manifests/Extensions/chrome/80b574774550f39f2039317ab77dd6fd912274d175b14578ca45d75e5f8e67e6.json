@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.0", "name": "Darlinn article Summary Maker", "action": {"default_popup": "index.html", "default_icon": "icon.png"}, "permissions": ["tabs"], "description": "This extension is used for getting Summary of long paragraphs."}

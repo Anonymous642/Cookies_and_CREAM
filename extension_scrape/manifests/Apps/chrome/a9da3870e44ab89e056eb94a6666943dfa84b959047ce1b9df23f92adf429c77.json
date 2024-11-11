@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"urls": ["http://specifiedby.com/#chrome_app"], "launch": {"web_url": "http://specifiedby.com/#chrome_app"}}, "name": "SpecifiedBy", "description": "Search, Organise & Download Building Product Information", "manifest_version": 2, "version": "1.0", "icons": {"128": "icon_128.png"}}

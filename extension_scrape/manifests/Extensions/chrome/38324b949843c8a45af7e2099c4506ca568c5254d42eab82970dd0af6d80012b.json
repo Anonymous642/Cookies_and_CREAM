@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "4.0.1", "name": "Colourful Clipboard", "action": {"default_popup": "index.html", "default_icon": "./img/icon.png"}, "permissions": ["tabs"]}

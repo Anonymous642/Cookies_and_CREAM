@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "recopick demo for hani", "version": "5", "manifest_version": 2, "content_scripts": [{"js": ["jquery-1.9.1.min.js", "content.user.js"], "matches": ["http://hani.co.kr/arti/*", "http://www.hani.co.kr/arti/*"]}]}

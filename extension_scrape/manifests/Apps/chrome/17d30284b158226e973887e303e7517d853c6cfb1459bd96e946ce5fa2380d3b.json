@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ClickBall", "description": "Ever ponder why you're here? Why you exist? Well how about you calm that questioning mind of yours and click a ball?", "version": "1.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"launch": {"web_url": "http://www.faotmedia.com/showcase/clickball"}}}

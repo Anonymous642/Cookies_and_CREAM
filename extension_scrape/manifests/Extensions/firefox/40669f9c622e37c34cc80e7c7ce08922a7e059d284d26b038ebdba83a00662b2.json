@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BorderifyXDv2", "version": "1.1", "description": "Dodaje t\u0119cz\u0119 wsz\u0119dzie gdzie si\u0119 da", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "css": ["rainbow.css"]}]}

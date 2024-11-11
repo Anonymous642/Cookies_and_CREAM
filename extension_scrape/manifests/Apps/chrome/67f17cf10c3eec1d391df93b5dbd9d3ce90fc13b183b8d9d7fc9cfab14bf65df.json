@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://voodoo.walkingtree.in/"], "launch": {"web_url": "http://voodoo.walkingtree.in/"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Music on Weather Condition", "name": "Voodoo Music", "permissions": ["unlimitedStorage", "notifications"], "icons": {"128": "icon.png"}, "manifest_version": 2, "version": "1"}

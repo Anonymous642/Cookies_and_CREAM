@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Adfilter", "version": "1.3", "description": "Filters out the ad results from search results", "icons": {"96": "icons/a.jpg"}, "browser_specific_settings": {"gecko": {"id": "onebond23@gmail.com"}}, "content_scripts": [{"matches": ["https://www.google.com/*", "https://duckduckgo.com/*"], "js": ["adfilter.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "WeddingsAvenue", "description": "WeddingsAvenue is the largest online website in wedding accessories.", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.weddingsavenue.com/"], "launch": {"web_url": "http://www.weddingsavenue.com/"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Visitor Log App", "description": "Visitor Log Register System", "version": "1.4", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "visitorLogApp-16.png", "128": "visitorLogApp-128.png"}, "permissions": ["webview"]}

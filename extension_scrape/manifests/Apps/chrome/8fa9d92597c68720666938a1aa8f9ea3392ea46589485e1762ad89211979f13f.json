@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "IFTA Reporting Software", "version": "1", "icons": {"128": "128.png"}, "app": {"urls": ["http://www.highpointgps.com/ifta-reports.html"], "launch": {"web_url": "http://www.highpointgps.com/ifta-reports.html"}}, "manifest_version": 2}

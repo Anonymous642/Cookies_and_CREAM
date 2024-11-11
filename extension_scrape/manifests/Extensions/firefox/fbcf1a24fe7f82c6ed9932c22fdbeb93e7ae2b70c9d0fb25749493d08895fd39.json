@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Blindfolded on Lichess", "version": "1.1", "description": "You're blind", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.lichess.org/*"], "js": ["Blindfold.js"]}]}

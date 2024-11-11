@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "0.1.1", "name": "Python No Highlight", "description": "Remove search highlighting from docs.python.org", "icons": {"48": "py.svg", "96": "py.svg"}, "content_scripts": [{"matches": ["*://docs.python.org/*/search.html*"], "js": ["python-no-highlight.js"]}], "browser_specific_settings": {"gecko": {"id": "{f92d6941-aecc-4c64-a2bd-df18aafd8b52}"}}}

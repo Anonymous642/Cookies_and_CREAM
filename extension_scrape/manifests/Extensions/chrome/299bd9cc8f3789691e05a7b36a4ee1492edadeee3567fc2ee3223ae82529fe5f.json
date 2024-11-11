@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Merch AI", "version": "1.0", "permissions": [], "icons": {"16": "16 logo.png", "48": "48 logo.png", "128": "128 logo.png"}, "background": {}, "content_scripts": [{"matches": ["https://merch.amazon.com/designs/new"], "js": ["content.js"]}]}

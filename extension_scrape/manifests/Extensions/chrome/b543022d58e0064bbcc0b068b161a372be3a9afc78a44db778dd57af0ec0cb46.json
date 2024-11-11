@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "SmartAss GoogleCalendar", "description": "For Lazy but Smart", "version": "0.1.2", "author": "ksu.zhytomirsky@gmail.com", "content_scripts": [{"matches": ["https://smartass.com.ua/*", "http://smartass.com.ua/*"], "js": ["addGoogle.js"]}]}

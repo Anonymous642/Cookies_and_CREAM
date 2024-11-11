@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ChatGPT Random Words", "version": "1.0", "description": "\u901a\u8fc7 ChatGPT \u81ea\u52a8\u751f\u6210\u6587\u672c\u5185\u5bb9", "action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["storage", "https://api.openai.com/*"]}

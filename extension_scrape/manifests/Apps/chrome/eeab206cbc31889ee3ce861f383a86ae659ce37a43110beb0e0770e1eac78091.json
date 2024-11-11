@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Yolaroo ABC", "description": "English Spelling and Vocabulary", "version": "0.1", "offline_enabled": true, "icons": {"128": "icon_128.png"}, "app": {"background": {"scripts": ["main.js"]}}, "permissions": ["storage"]}

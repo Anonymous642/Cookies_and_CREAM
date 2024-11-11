@@ -1,0 +1,1 @@
+{"name": "YT Overlay Disabler", "description": "Enable/disable YouTube channel and video overlay at the end of videos.", "version": "1.1", "manifest_version": 2, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["overlay.js"]}], "icons": {"16": "/images/icon16.png", "32": "/images/icon32.png", "48": "/images/icon48.png", "128": "/images/icon128.png"}}

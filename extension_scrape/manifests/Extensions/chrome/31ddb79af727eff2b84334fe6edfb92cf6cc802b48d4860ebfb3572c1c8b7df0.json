@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bitpie wallet query plugin", "version": "1.0.2", "action": {"default_popup": "index.html", "default_icon": {"128": "icon23-128.png"}}}

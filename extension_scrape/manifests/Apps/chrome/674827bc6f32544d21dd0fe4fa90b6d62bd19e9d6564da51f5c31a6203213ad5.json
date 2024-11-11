@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "BingoFlash", "description": "Enjoy variety of bingo games with real prizes", "version": "1.2", "manifest_version": 2, "icons": {"128": "bflogo.png"}, "app": {"urls": ["http://www.bingoflash.com/"], "launch": {"web_url": "http://www.bingoflash.com/?btag=a_3381b_100c_"}}}

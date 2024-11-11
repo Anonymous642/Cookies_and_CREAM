@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "LabelPane Expander for GMail", "version": "0.94", "content_scripts": [{"matches": ["https://mail.google.com/mail/u/*", "https://mail.google.com/mail/b/*"], "js": ["myscript6.js"]}]}

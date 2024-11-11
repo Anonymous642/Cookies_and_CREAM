@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Boats for Sale", "description": "Misty Harbor Pontoon Reviews, Has the Misty Harbor Platoon ever come to your attention? ", "version": "1.0", "manifest_version": 3, "action": {"default_title": "Boats for Sale", "default_icon": "logo.png", "default_popup": "plugin.html"}, "icons": {"128": "logo.png"}}

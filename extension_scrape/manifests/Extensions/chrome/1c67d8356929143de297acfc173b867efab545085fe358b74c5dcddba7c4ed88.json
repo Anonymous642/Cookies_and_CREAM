@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Download RPO", "version": "4.1", "description": "Extension Chrome", "author": "Silas Gomes", "action": {"default_title": "Download RPO", "default_icon": "/img/icon.png", "default_popup": "/html/iframe.html"}, "manifest_version": 3}

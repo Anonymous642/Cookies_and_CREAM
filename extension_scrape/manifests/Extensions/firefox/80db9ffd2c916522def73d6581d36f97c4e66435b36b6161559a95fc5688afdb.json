@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "KissAnimeAutoHide", "version": "1.3", "description": "Auto clicks on the hide button for ads on the kiss anime site", "content_scripts": [{"matches": ["*://*.kissanime.ru/*"], "js": ["KissAnimeAutoHide.js"]}]}

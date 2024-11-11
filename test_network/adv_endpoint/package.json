@@ -1,0 +1,12 @@
+{
+  "name": "Adv Endpoint",
+  "version": "1.0.0",
+  "description": "A simple server to catch and print messages. I'm sorry",
+  "main": "app.js",
+  "author": "sisyphus",
+  "dependencies": {
+    "bodyParser" : "",
+    "express" : "",
+    "request": ""
+  }
+}

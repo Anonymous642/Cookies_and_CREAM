@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Kartotek", "description": "Manage 'Other bookmarks' folder in a New Tab", "version": "1", "icons": {"128": "logo-128.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["favicon", "bookmarks"], "host_permissions": ["http://*/", "https://*/"]}

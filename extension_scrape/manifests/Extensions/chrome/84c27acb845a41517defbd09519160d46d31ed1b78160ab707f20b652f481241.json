@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Favicon Generator", "description": "Quickly generate your favicon from an image.", "version": "1.00", "action": {"default_icon": "img/icon.png", "default_popup": "popup.html"}, "icons": {"128": "img/icon-128.png"}}

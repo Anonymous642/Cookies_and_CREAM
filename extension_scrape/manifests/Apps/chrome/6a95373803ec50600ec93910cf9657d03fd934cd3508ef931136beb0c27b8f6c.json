@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Zoolz", "description": "Unlimited Storage for only $2/mo", "version": "1.1", "app": {"launch": {"web_url": "https://www.zoolz.com/signin"}}, "icons": {"128": "Zoolz_128.png"}}

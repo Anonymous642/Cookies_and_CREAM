@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "English Malay Dictionary", "version": "1", "icons": {"24": "24.png", "128": "128.png"}, "app": {"urls": ["http://www.mykamus.com/free"], "launch": {"web_url": "http://mykamus.com/free"}}, "manifest_version": 2}

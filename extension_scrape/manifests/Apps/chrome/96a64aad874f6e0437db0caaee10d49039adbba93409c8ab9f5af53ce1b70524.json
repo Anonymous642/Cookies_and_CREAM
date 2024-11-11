@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Flip Clock", "version": "1.0.3", "manifest_version": 2, "description": "Tells you the time - with style.", "icons": {"16": "img/flipclock16.png", "128": "img/flipclock128.png"}, "app": {"launch": {"local_path": "index.html"}}, "offline_enabled": true}

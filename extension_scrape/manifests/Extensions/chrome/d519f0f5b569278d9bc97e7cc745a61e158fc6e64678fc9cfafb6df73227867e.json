@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "FullscreenForAppearIn", "author": "Alexander Kostynenko", "version": "0.1", "description": "Stretch video to fullscreen", "content_scripts": [{"matches": ["https://appear.in/*"], "js": ["jquery-1.11.0.min.js", "content.js"], "run_at": "document_end"}]}

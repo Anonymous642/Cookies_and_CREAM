@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "SEO", "description": "RapidSEO - Global SEO Project, SEO Dan\u0131\u015fmanl\u0131\u011f\u0131, Backlink Paketleri, WordPress SEO ve Adsense", "version": "1.0", "browser_action": {"default_icon": "icon.png", "default_popup": "seo.html"}, "permissions": ["activeTab"]}

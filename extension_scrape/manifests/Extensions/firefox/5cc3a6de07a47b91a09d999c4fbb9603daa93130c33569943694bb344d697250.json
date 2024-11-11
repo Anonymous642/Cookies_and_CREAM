@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.0.0", "name": "Bookmark switcher", "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": {"16": "icons/switch-16.png", "32": "icons/switch-32.png"}}, "permissions": ["bookmarks"], "browser_specific_settings": {"gecko": {"id": "{f6d8b826-3012-4771-9f63-0db4d8f0d40f}"}}}

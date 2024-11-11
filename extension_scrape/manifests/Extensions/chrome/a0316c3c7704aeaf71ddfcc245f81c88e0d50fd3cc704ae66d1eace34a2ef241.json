@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "\u6210\u8a9e\u53f3\u9375\u641c", "description": "Seacrhes the selected text on pedia", "version": "2.1", "icons": {"48": "icons/logo_48.png", "96": "icons/logo_96.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_appName__", "description": "__MSG_appDesc__", "short_name": "__MSG_appShort__", "default_locale": "es", "version": "3.4.0.0", "manifest_version": 2, "icons": {"128": "appicon.png"}, "app": {"urls": ["https://www.intiza.com/?o=chrome"], "launch": {"web_url": "https://www.intiza.com/company"}}}

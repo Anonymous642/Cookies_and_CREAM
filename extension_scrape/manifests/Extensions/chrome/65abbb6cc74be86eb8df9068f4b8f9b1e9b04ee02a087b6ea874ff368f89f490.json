@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Unit converter", "description": "Converts Indian units to American", "version": "1.0.0", "icons": {"64": "unit image.png"}, "short_name": "Unit", "browser_action": {"default_popup": "unitConverterhtml.html", "default_icon": "unit image.png"}, "permissions": ["activeTab"]}

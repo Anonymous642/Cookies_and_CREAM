@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "BTN to BAM", "version": "1.0", "description": "Convert BTN to BAM", "browser_specific_settings": {"gecko": {"id": "btn-to-bam@example.com"}}}

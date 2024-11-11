@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "My Pure Desktop", "version": "0.1.1", "description": "\u7eaf\u51c0\u684c\u9762", "chrome_url_overrides": {"newtab": "new.html"}}

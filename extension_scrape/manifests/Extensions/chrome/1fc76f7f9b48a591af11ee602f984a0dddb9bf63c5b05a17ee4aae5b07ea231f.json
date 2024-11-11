@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Pages Manager", "description": "This extension shows pages, you can save your pages!", "version": "1.0.3", "browser_action": {"default_icon": "pages.png", "default_popup": "pages.html"}, "permissions": ["tabs", "activeTab", "storage"]}

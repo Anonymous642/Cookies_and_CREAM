@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.7", "name": "TabSaver", "description": "TabSaver, to save a tab and keep it. 1.7 version, we can now delete one tab, and we can have infinite tabs.", "action": {"default_popup": "index.html", "default_icon": "icon.png"}, "permissions": ["activeTab"]}

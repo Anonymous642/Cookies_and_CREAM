@@ -1,0 +1,1 @@
+{"description": "Montag - bypassing HTTP 451 through Google Translate", "manifest_version": 2, "name": "montag", "version": "1.0", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}}

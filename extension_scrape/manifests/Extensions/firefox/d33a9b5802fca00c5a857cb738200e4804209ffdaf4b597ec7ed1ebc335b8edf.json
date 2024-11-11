@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitter Minimal & Elegant", "version": "1.0", "description": "just for personal leisure on Web PC Client", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://twitter.com/*"], "js": ["twitter_topbar.js"]}]}

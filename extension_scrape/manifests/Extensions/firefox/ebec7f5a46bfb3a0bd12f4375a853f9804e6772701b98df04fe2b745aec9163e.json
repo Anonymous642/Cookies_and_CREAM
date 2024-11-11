@@ -1,0 +1,1 @@
+{"name": "Automatic Click-to-claim Clicker", "version": "1.0.3", "manifest_version": 2, "description": "Automatically click click-to-claim button to earn channel points on twitch", "content_scripts": [{"matches": ["https://*.twitch.tv/*"], "run_at": "document_idle", "js": ["content.js"]}]}

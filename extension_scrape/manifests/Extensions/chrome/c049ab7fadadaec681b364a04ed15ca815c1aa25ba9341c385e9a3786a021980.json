@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "chrome_url_overrides": {"newtab": "empty_ntp.html"}, "description": "New tabs display a blank page.", "icons": {"128": "icon_128.png"}, "manifest_version": 3, "name": "Empty New Tab", "version": "1.1"}

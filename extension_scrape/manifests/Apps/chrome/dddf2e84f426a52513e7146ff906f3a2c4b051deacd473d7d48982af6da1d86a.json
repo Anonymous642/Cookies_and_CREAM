@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://www.mathtab.com/"], "launch": {"web_url": "http://www.mathtab.com/"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Turn Calculations into Interactive Web Applications.", "name": "MATH tab", "icons": {"128": "icon_small.png"}, "manifest_version": 2, "version": "0.1.0.0"}

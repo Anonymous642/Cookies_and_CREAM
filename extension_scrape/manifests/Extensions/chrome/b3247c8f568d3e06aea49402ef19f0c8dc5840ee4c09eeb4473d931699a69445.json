@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Better tabs", "description": "List, search and manage your tabs", "version": "0.1", "action": {"default_icon": {"96": "icon.8f980857.png"}, "default_popup": "better2.bcd3d29f.html"}, "icons": {"64": "icon.8f980857.png"}, "permissions": ["tabs"]}

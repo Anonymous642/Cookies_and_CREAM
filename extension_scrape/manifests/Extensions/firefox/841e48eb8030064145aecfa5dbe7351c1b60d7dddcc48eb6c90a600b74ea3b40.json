@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SidebarDie", "version": "1.0", "description": "Just hides the sidebar on the reddit site. That's it.", "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["sidebarbegone.js"]}]}

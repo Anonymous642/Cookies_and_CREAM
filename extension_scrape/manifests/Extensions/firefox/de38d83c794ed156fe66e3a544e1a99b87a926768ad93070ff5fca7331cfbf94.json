@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Middle Click Mute", "description": "Mute and unmute YouTube video player using mouse middle click.", "version": "1.0", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{40c5d67f-42b7-4737-aa41-16c41d7fcdcb}"}}}

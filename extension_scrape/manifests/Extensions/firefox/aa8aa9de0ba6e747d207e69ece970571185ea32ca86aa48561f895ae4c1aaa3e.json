@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BetterPost", "version": "1.5", "description": "Improve the boring Postal UX & UI", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.slpost.lk/*"], "js": ["post.js"], "css": ["theme.css"]}], "permissions": ["activeTab", "tabs"]}

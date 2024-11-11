@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "cross roads", "version": "1.2.3", "description": "Need to cross the road without colliding with a moving vehicle.", "app": {"background": {"scripts": ["background.js"]}}, "manifest_version": 2, "permissions": ["storage"], "icons": {"48": "images/icon48.png", "128": "images/icon128.png"}}

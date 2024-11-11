@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Github light header", "description": "This extension reverts the github header to its former light color", "version": "1.0.3", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["*://github.com/*", "*://*.github.com/*"], "css": ["style.css"]}]}

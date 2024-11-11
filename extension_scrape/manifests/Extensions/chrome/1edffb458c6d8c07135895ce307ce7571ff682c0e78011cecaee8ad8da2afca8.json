@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Scrapbox Auto-scroll", "description": "Scroll Scrapbox pages automatically", "version": "0.4", "manifest_version": 2, "content_scripts": [{"matches": ["https://scrapbox.io/*"], "js": ["jquery-2.2.0.min.js", "ChEx.js", "content_script.js"]}], "permissions": ["https://scrapbox.io/*"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "rad-net", "description": "rad-net", "content_security_policy": {"extension_pages": "script-src 'self' ; object-src 'self'"}, "version": "0.0.1", "action": {"default_popup": "index.html", "default_icon": "icons/Icon-192.png"}, "manifest_version": 3}

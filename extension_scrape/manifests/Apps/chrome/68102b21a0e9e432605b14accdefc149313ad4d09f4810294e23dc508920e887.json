@@ -1,0 +1,1 @@
+{"name": "The Dorsch Law Firm", "description": "The Dorsch Law Firm assists clients in the Kansas City area.", "app": {"urls": ["http://www.dorschlawfirm.com/"], "launch": {"web_url": "http://www.dorschlawfirm.com/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

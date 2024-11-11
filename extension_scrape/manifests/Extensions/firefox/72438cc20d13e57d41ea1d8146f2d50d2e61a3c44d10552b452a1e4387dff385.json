@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Jjwxc", "version": "1.5.1", "description": "\u5c0f\u8bf4\u7684\u53f3\u952e\u67e5\u8be2\u83dc\u5355", "icons": {"16": "data/16.png"}, "applications": {"gecko": {"id": "abbypan@gmail.com-jjwxc-200812011635"}}, "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["background.js"]}}

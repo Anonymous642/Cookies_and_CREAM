@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "EZTool: NOK Concur Title Generator", "version": "2.1.0", "background": {"service_worker": "background.js"}, "permissions": ["storage"], "action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}}

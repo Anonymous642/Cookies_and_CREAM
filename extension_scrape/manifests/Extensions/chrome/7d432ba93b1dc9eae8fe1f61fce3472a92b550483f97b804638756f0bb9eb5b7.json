@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "No More QuantCast stuff", "description": "This will remove nasty and silly QuantCast stuff", "version": "1.0", "browser_action": {"default_popup": "popup.html"}, "permissions": ["activeTab"]}

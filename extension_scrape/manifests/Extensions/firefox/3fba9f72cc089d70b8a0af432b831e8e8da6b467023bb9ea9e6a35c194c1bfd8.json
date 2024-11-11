@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "VK notifications", "version": "1", "browser_specific_settings": {"gecko": {"id": "{613175bf-9bdb-42c3-b41e-fc107e482788}", "strict_min_version": "42.0"}}, "description": "", "content_scripts": [{"matches": ["*://*.vk.com/*"], "js": ["script.js"]}]}

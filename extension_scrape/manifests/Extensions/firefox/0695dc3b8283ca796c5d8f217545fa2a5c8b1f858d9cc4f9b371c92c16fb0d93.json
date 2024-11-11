@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "The Steak", "version": "1.10", "description": "'You know, I know this steak doesn't exist.' - Cypher. Removes What's Happening and Explore tab from Twitter.", "icons": {"48": "icons/steak.png"}, "content_scripts": [{"matches": ["*://twitter.com/*"], "js": ["thesteak.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CN_arxiv", "version": "0.1.0", "manifest_version": 2, "description": "Redirect arxiv to cn arxiv.", "background": {"scripts": ["redirect.js"]}, "icons": {"128": "icon.png"}, "permissions": ["webRequest", "*://www.arxiv.org/*", "*://arxiv.org/*", "webRequestBlocking"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove Quora Blocker", "version": "4.0", "description": "Removes Quora sign in blocker", "content_scripts": [{"matches": ["*://*.quora.com/*"], "js": ["jquery-3.3.1.min.js", "background.js"]}]}

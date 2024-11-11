@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Diablo III Character Inspector", "description": "Diablo III Character Inspector is a new way to see your character gears.", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://d3chars.appspot.com/"], "launch": {"web_url": "http://d3chars.appspot.com/"}}}

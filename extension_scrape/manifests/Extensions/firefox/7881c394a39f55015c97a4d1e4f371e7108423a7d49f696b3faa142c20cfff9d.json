@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remember the link", "description": "Remember important sites by storing their links on rememberthelink.com", "homepage_url": "https://rememberthelink.com", "version": "2.0.2", "background": {"scripts": ["background.js"]}, "page_action": {"default_icon": "icons/rememberthelink-32.png", "default_title": "Remember"}, "permissions": ["tabs"]}

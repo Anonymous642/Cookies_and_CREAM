@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WikiWide", "version": "1.0.6", "description": "Makes Wikipedia full screen again.", "content_scripts": [{"matches": ["*://*.wikipedia.org/*"], "css": ["wide.css"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{ec8267c1-6e99-48b3-906f-dcdb0be17879}"}}}

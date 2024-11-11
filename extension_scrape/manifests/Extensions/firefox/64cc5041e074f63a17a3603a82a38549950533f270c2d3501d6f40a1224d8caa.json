@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OutlookClean", "version": "1.0.3", "description": "Elimina la publicidad de la aplicaci\u00f3n web de Outlook", "icons": {"48": "icons/logo-30-48.png", "96": "icons/logo-30-96.png"}, "content_scripts": [{"matches": ["*://outlook.live.com/*"], "js": ["outlookclean.js"]}]}

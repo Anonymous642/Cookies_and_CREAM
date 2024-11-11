@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Co-WIN VaccinateMe", "description": "automatically fill data on cowin portal to speed up covid vaccine slot booking", "version": "1.0.0", "content_scripts": [{"matches": ["https://selfregistration.cowin.gov.in/*"], "js": ["jquery.min.js", "contentScript.js", "shortcut.js"]}], "icons": {"128": "icon.png"}}

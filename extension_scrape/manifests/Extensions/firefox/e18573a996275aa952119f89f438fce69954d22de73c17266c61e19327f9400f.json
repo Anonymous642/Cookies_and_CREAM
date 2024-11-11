@@ -1,0 +1,1 @@
+{"name": "Licence Generator", "description": "Protect your Blogspot template with this addons", "icons": {"128": "icon.png"}, "version": "0.0.1", "background": {"scripts": ["background.js"]}, "manifest_version": 2, "browser_action": {}, "browser_specific_settings": {"gecko": {"id": "{c3211d48-7b74-4359-a406-377acc381843}"}}}

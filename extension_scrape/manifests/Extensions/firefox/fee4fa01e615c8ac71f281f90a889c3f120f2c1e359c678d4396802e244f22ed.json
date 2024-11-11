@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "google image \u53f3\u9375\u641c", "description": "Seacrhes the selected text on goolge image", "version": "1.3", "icons": {"48": "icons/logo_48.png", "96": "icons/logo_96.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}}

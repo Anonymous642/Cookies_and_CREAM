@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "URL QR code creator", "description": "A Url qrcode creator", "version": "0.0.1", "icons": {"128": "fafa.mnzm.png"}, "browser_action": {"default_icon": {"48": "fafa.mnzm.png"}, "default_title": "URL QR Code", "default_popup": "/popup.html"}, "homepage_url": "https://github.com/fafamnzm", "permissions": ["activeTab"]}

@@ -1,0 +1,1 @@
+{"name": "Font Settings Basic", "version": "2.8", "manifest_version": 2, "description": "Customize per-script font settings.", "options_page": "options.html", "icons": {"16": "fonts16.png", "128": "fonts128.png"}, "permissions": ["fontSettings"], "browser_specific_settings": {"gecko": {"id": "{7100a260-5d0a-475b-990c-f2662ec558f2}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MangaAdBlocker", "version": "1.0", "description": "Removes propaganda from the website mangalivre.", "icons": {"48": "icons/mangalivre.png"}, "content_scripts": [{"matches": ["*://mangalivre.net/ler*"], "js": ["manga-ad-blocker.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Open Mulitple URLs", "version": "2.0.0", "icons": {"48": "arrow.svg", "96": "arrow.svg"}, "background": {"scripts": ["browser-action.js"]}, "browser_action": {}, "permissions": ["cookies"], "browser_specific_settings": {"gecko": {"id": "{52f6b638-8be5-4a0a-b91b-a92ed8a7b494}"}}}

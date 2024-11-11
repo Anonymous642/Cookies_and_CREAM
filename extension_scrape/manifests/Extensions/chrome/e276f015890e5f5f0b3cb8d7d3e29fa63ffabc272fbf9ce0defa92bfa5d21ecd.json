@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Moodle-RMB-Unlocker", "description": "Free your Moodle.", "version": "1.1", "manifest_version": 2, "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "permissions": [], "content_scripts": [{"matches": ["*://*.edu.ua/*"], "js": ["content.js"]}]}

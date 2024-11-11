@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.0.1", "name": "relaxTime", "description": "Automatic counting of time for relax by preset proportions", "browser_action": {"default_icon": "icons/icon_gray_128.png", "default_popup": "popup.html"}, "icons": {"128": "icons/icon_gray_128.png"}, "permissions": ["storage"], "manifest_version": 2}

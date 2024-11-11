@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ad Adjuster", "version": "1.0.1", "description": "Differentiates ads on Google from search results.", "icons": {"48": "icons/adjuster-48.png", "96": "icons/adjuster-96.png"}, "content_scripts": [{"matches": ["*://www.google.com/search?*"], "js": ["adAdjuster.js"]}]}

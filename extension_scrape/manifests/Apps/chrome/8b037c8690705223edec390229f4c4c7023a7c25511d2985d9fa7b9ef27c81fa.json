@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Kenyan radio stations", "description": "Listen to the mayor radio stations from Kenya", "version": "0.0.0.3", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.radio.or.ke/"], "launch": {"web_url": "http://www.radio.or.ke/"}}}

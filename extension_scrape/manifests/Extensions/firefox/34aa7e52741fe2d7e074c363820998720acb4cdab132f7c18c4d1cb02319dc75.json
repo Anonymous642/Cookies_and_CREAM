@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "illegaal", "version": "1.0", "description": "Toy extension to replace every occurence of the string 'al' with 'aal'.", "content_scripts": [{"js": ["index.js"], "matches": ["*://*/*"]}], "browser_specific_settings": {"gecko": {"id": "aal@endunry.de"}}}

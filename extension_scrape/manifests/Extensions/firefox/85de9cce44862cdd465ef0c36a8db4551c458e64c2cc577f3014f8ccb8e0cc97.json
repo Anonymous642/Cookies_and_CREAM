@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YT Open in Muted Tab", "version": "1.0", "description": "Presents a right-click menu option to open a link in a new muted tab.", "background": {"scripts": ["background.js"]}, "permissions": ["menus"]}

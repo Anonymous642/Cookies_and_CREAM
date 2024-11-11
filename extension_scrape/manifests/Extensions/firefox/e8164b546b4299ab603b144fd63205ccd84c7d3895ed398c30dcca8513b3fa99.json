@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SimpleYoutube", "version": "0.0.0.1", "description": "Get a stressfree youtube experience!", "content_scripts": [{"css": ["hide_content.css"], "matches": ["https://www.youtube.com/*"], "run_at": "document_start"}]}

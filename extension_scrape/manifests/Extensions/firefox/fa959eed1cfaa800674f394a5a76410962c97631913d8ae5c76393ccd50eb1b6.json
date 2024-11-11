@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "0.0.1", "name": "Sway (default colors)", "author": "Zhanibek Adilbekov <zhanibek.adilbekov@protonmail.com", "permissions": ["theme"], "background": {"scripts": ["background.js"]}}

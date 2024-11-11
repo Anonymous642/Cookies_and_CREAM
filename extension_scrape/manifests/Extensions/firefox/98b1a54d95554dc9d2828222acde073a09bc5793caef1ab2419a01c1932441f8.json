@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "VND to SHP", "version": "1.0", "description": "Convert VND to SHP", "browser_specific_settings": {"gecko": {"id": "VND-to-shp@example.com"}}}

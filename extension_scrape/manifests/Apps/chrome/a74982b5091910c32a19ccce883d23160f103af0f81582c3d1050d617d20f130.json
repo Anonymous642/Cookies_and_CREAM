@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Spam Cleaner for Gmail", "description": "This app uses the Gmail API to auto-delete SPAM and/or TRASH as often as you like!", "version": "1.0", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["webview"], "icons": {"16": "16.png", "128": "128.png"}}

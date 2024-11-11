@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "unBlockAMS", "version": "2.2", "description": "Entfernt leider nicht mehr die Paywall von http://www.auto-motor-und-sport.de/", "content_scripts": [{"matches": ["*://*.auto-motor-und-sport.de/*"], "js": ["unblock.js"]}], "browser_specific_settings": {"gecko": {"id": "{85497f27-3d9a-447b-a532-d19c521ece5b}"}}}

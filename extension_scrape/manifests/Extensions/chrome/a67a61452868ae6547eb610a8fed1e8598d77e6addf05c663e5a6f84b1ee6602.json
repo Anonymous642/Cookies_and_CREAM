@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Umap", "version": "2.0", "description": "Umap! Search the Web.", "chrome_url_overrides": {"newtab": "index.html"}, "web_accessible_resources": [{"resources": ["Static/javascript/script.js"], "matches": ["https://*/*", "http://*/*"]}]}

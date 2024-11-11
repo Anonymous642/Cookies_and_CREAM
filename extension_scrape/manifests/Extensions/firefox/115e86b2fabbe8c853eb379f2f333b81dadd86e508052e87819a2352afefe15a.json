@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quote Pop-up", "version": "1.0", "description": "Displays quotes about hard work and passive income", "icons": {"48": "logo.png"}, "browser_action": {"default_popup": "popup.html"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{ff2c9fdc-5e6c-4410-9f01-0e7b993be3e2}"}}}

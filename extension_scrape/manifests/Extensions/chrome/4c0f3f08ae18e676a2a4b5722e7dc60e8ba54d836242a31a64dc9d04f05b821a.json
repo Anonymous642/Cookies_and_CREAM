@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TimeTrakt", "description": "A 'simple' time tracking application", "version": "2.0", "manifest_version": 3, "icons": {"16": "16.png", "32": "32.png", "64": "64.png", "128": "128.png"}, "action": {"default_popup": "popup.html", "default_title": "TimeTrakt", "default_icon": "128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TTS-Fire", "version": "1.0", "description": "Helps you read part or full webpage.", "icons": {"48": "icons/tts-fire-48.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["tts-fire.js"]}]}

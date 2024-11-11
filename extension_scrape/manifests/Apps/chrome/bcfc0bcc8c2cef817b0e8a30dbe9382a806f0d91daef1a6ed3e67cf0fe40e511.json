@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Teach for Google\u2122", "version": "1.0.1", "manifest_version": 2, "description": "Boost Achievement with Teach for Google\u2122", "display_in_launcher": true, "icons": {"128": "teach-96-96.png"}, "app": {"launch": {"web_url": "https://www.teachforgoogle.com/"}}}

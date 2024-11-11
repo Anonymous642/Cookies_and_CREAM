@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Simple Programming Assist", "description": "Backward the cursor position one character, if Continuously typed open and close of parentheses, brackets and curly brackets.", "version": "1.0", "author": "backy0175", "content_scripts": [{"js": ["script.js"], "matches": ["<all_urls>"]}], "applications": {"gecko": {"id": "@simple-programming-assist"}}}

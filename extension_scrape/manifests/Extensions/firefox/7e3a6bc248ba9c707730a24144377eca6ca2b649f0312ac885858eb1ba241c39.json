@@ -1,0 +1,1 @@
+{"description": "Removes linkshrink from cloudyfiles urls", "manifest_version": 2, "name": "URL-Cleanup", "version": "1.4", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["http://*/*"], "js": ["clean_urls.js"]}]}

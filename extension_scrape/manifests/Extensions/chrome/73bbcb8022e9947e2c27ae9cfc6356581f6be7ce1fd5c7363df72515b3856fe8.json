@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Theme Change Extension", "version": "1.0.0", "description": "Change the theme of your current webpage into Dark or Light Mode", "manifest_version": 3, "action": {"default_title": "Theme-Change", "default_popup": "popup.html"}, "permissions": ["scripting", "activeTab"]}

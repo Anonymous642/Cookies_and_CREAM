@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tribuni Scaling", "version": "1.0", "description": "Fix scaling issues in site 'tribuni.fi' on mobile phones.", "content_scripts": [{"matches": ["*://*.tribuni.fi/*"], "js": ["scaling.js"]}]}

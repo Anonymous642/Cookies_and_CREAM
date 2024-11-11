@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "iBuy", "short_name": "iBuy", "description": "Free personal expense tracker.", "manifest_version": 2, "version": "3", "app": {"urls": ["https://xpnss.azurewebsites.net/"], "launch": {"web_url": "https://xpnss.azurewebsites.net/"}}, "icons": {"128": "wallet.png"}, "permissions": []}

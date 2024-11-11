@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Catch fish", "description": "Sitting in bumper boat, catch fish with nets up, very interesting.", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://tonycatchfish.blogspot.tw/"], "launch": {"web_url": "http://tonycatchfish.blogspot.tw/"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ecosia Ad", "version": "1.0", "description": "Adds a yellow background to all ecosia ads", "icons": {"48": "icons/ecosia-ad48.png"}, "content_scripts": [{"matches": ["*://*.ecosia.org/*"], "js": ["ecosiaad.js"]}]}

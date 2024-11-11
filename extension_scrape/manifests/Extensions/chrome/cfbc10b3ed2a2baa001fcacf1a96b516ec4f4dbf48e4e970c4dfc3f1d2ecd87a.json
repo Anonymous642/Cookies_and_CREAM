@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Muzzle", "description": "Hide outdated diff comments made by Hound (i.e. violations you've fixed)", "version": "1.0", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "content_scripts": [{"matches": ["https://github.com/*"], "js": ["muzzle.js"]}]}

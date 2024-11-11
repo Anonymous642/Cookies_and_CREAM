@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GetReference", "version": "1.0", "description": "copying reference and title", "permissions": ["clipboardWrite", "activeTab"], "background": {"scripts": ["background.js"], "persistant": false}, "browser_action": {"name": "GetReference!"}, "manifest_version": 2}

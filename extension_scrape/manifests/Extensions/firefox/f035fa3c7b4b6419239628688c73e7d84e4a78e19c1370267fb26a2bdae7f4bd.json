@@ -1,0 +1,1 @@
+{"name": "CPS Top Pages", "version": "3.2.7", "description": "It Shows the most visited sites in a browser action", "permissions": ["topSites"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{4f737bfe-62bb-47ae-a184-3ea50052999f}"}}}

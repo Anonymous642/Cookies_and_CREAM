@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Ethical Shopee", "description": "Highlights all the ads on the Shopee site to easily distinguish between real listing and ads.", "version": "1.0", "manifest_version": 3, "icons": {"48": "/icons/48.png", "128": "/icons/128.png"}, "content_scripts": [{"matches": ["<all_urls>"], "css": ["index.css"]}]}

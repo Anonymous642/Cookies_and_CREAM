@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Borderify", "version": "1.2", "description": "Adding possibility to select with using arrow keys", "icons": {"48": "img/logo.png"}, "content_scripts": [{"matches": ["*://*.uwufufu.com/*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{654b6d4c-1176-4042-992e-9b30226f32fe}"}}}

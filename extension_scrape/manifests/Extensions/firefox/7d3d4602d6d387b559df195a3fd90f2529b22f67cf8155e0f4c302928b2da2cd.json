@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.0", "name": "Local Bookmarks URLs adapter", "permissions": ["bookmarks"], "browser_action": {"default_icon": {"32": "icon-30.png"}, "default_title": "Local Bookmarks URLs adapter", "browser_style": true}, "background": {"scripts": ["/browser-polyfill.js", "/background.js"]}}

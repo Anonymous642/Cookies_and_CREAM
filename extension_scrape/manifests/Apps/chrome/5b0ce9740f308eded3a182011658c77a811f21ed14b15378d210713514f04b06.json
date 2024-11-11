@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Dugun.com", "description": "Evlenirken \u0130htiyac\u0131n\u0131z Olan Her \u015eey", "version": "4", "app": {"urls": ["http://dugun.com/"], "launch": {"web_url": "http://dugun.com/"}}, "icons": {"128": "128.png"}, "permissions": ["unlimitedStorage", "notifications"], "manifest_version": 2}

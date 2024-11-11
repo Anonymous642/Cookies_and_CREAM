@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "YMOZ", "manifest_version": 2, "description": "Shop for accessories and tools for your phone with the YMOZ mobile app.", "version": "0.0.2", "icons": {"16": "lib/appframework/ymoz512.png_16x16.png", "128": "lib/appframework/ymoz512.png_128x128.png"}, "app": {"background": {"scripts": ["background.js"]}}}

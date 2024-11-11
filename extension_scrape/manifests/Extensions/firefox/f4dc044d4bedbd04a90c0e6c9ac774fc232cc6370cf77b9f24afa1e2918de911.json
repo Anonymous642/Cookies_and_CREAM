@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Shortenfy", "version": "1.0", "description": "Shorten your links instantly", "icons": {"256": "icons/icon-256.png"}, "browser_action": {"default_icon": "icons/icon-256.png", "default_title": "Shortenfy", "default_popup": "index.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "\u751f\u304d\u305f\u7d75\u6587\u5b57", "version": "0.1.0", "description": "Twitter\u306e\u6295\u7a3f\u5185\u306e\u7d75\u6587\u5b57\u304c\u52d5\u304f\u3002", "content_scripts": [{"js": ["jquery.min.js", "emojis.js"], "matches": ["https://twitter.com/*"]}]}

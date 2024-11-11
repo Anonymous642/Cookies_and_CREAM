@@ -1,0 +1,52 @@
+<!DOCTYPE HTLM>
+<html>
+    <head>
+        <script src="popup.js"></script>
+    </head>
+    <body>
+        <div id="permissions">
+            <button id="permissionButton">Accept Host Permissions</button>
+        </div>
+        <div id="targetDiv" style="display: none">
+            <label for="targetSite" id="targetLabel" name="targetLabel">Target:</label>
+            <input type=text" id="targetSite" name="targetSite" placeholder="Target URL">
+        </div>
+        </br>
+        <div id="rulesDiv" style="display: none">
+            <div id="beforeSendDiv">
+                <label id="beforeSendLabel" name="beforeSendLabel">onBeforeHeaders:</label>
+                </br>
+                <label for="beforeSendGet" id="beforeSendGetLabel" name="beforeSendGetLabel">Get:</label>
+                <input type="checkbox" id="beforeSendGet" name="beforeSendGet"> 
+                </br>
+                </br>
+                <label for="beforeSendSet" id="beforeSendSetLabel" name="beforeSendSetLabel">Set:</label>
+                <input type="checkbox" id="beforeSendSet" name="beforeSendSet">
+                </br>
+                <input type="text" id="beforeSendSetName" name="beforeSendSetName", placeholder="Cookie Name">
+                </br>
+                <input type="text" id="beforeSendSetValue" name="beforeSendSetValue", placeholder="New Value">
+            </div>
+            </br>
+            <div id="headersRecievedDiv">
+                <label id="headersReceivedLabel" name="headersReceivedLabel">onHeadersReceivied:</label>
+                </br>
+                <label for="headersReceivedGet" id="headersReceivedLabel" name="headersReceivedGetLabel">Get:</label>
+                <input type="checkbox" id="headersReceivedGet" name="headersReceivedGet"> 
+                </br>
+                </br>
+                <label for="headersReceivedSet" id="headersReceivedSetLabel" name="headersReceivedSetLabel">Set:</label>
+                <input type="checkbox" id="headersReceivedSet" name="headersReceivedSet">
+                </br>
+                <input type="text" id="headersReceivedSetName" name="headersReceivedSetName", placeholder="Cookie Name">
+                </br>
+                <input type="text" id="headersReceivedSetValue" name="headersReceivedSetValue", placeholder="New Value">
+            </div>
+        </div>
+        </br>
+        <input type="submit" id="saveConf" name="saveConf" value="Add Rule" style="display: none">
+        <div id="outputDiv" style="display: none">
+            <label id="status" name="status"></label>
+        </div>
+    </body>
+</html>

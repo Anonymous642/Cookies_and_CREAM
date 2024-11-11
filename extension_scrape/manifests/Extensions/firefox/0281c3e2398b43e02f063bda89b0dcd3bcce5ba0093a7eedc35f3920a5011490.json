@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Who Owns It?", "version": "1.0.3", "description": "Identifies the company who ultimately owns each site you visit.", "background": {"scripts": ["companies.js", "who-owns-it.js"]}, "page_action": {}, "permissions": ["tabs"]}

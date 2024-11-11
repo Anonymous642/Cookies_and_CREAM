@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Disney Message Remover", "version": "1.0", "permissions": ["https://www.disneyplus.com/*", "webRequest", "webRequestBlocking"], "background": {"scripts": ["block.js"]}}

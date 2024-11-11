@@ -1,0 +1,1 @@
+{"name": "Disable the Selection API", "version": "0.0.0.2", "browser_specific_settings": {"gecko": {"id": "no-sel@ohzd.od"}}, "permissions": ["*://*/*"], "content_scripts": [{"all_frames": true, "match_about_blank": true, "run_at": "document_start", "matches": ["<all_urls>"], "js": ["no-sel.js"]}], "manifest_version": 2}

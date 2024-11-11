@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "NGT Ava", "description": "Ev ta\u015f\u0131ma hakk\u0131nda t\u00fcm detaylar bu eklentide.", "version": "1.0", "manifest_version": 3, "action": {"default_title": "NGT Ava", "default_icon": "logo.png", "default_popup": "plugin.html"}, "icons": {"128": "logo.png"}}

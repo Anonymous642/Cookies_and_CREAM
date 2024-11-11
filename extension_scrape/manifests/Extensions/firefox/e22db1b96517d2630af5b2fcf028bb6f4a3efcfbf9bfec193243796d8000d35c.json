@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "hwc", "version": "0.8.4", "description": "add admin console to game hw", "icons": {"48": "icons/hw.png"}, "applications": {"gecko": {"id": "vld@ilamer.ru", "strict_min_version": "52.0"}}, "permissions": ["*://i-heroes-vk.nextersglobal.com/*", "*://vk.com/*", "webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["hw.js"]}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"launch": {"web_url": "http://www.drivingtest.com/"}, "urls": ["http://www.drivingtest.com/"]}, "description": "Free Online DMV Permit Practice Tests", "icons": {"48": "icon48x48.png", "128": "icon128x128.png"}, "manifest_version": 2, "name": "Free Driver License Permit Practice Tests", "version": "1.2"}

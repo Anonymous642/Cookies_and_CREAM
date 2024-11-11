@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "betterTab", "version": "3.1.0", "manifest_version": 3, "description": "Better new tab for your new tab needs!", "action": {"default_icon": "betterlogo.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}, "background": {"service_worker": "background.js"}}

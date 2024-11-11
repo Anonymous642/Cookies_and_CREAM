@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Code Expert Keybinds", "version": "1.1", "description": "Runs Code Expert by pressing CTRL+S.", "icons": {"16": "icon.png"}, "content_scripts": [{"matches": ["*://expert.ethz.ch/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{b91e3f70-2e52-4abb-aaf6-0667f28f8405}"}}}

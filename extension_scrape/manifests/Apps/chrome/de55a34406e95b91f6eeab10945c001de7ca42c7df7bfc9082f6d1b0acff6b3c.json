@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Scrabble Wordfinder", "description": "Easy to use scrabble/wordfeud helper (multi-language) for winners!", "version": "3", "icons": {"128": "128.png"}, "app": {"urls": ["http://www.scrabblewordfinder.eu/"], "launch": {"web_url": "http://www.scrabblewordfinder.eu/"}}, "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u4e2d\u6587\u5b57\u6578\u8a08\u7b97", "description": "\u5b57\u6578\u8a08\u7b97", "version": "1.0", "permissions": ["contextMenus"], "options_page": "options.html", "background": {"scripts": ["background.js"], "persistent": false}, "icons": {"128": "abacus.png"}, "manifest_version": 2}

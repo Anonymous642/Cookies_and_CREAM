@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Better MTBiker.sk", "version": "0.1.0", "description": "Better version of mtbiker.sk", "content_scripts": [{"css": ["styles.css"], "js": ["content.js"], "matches": ["https://*.mtbiker.sk/*"]}]}

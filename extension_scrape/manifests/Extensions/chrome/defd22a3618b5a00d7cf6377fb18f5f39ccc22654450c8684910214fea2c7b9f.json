@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "3etflix", "version": "1.1", "manifest_version": 3, "icons": {"64": "icon.png"}, "permissions": [], "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MXR to DXR - WebExtension", "version": "1.0", "applications": {"gecko": {"id": "mxrtodxr@gijsk.com"}}, "content_scripts": [{"matches": ["https://*/*", "http://*/*"], "js": ["changealllinks.js"], "run_at": "document_end"}]}

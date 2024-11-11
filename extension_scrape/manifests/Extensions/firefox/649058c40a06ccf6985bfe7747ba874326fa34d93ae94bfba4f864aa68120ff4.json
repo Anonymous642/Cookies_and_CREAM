@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Shorts Redirect Tool", "version": "1.2", "description": "Automatically redirects youtube shorts links to the full video player page", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["redirect.js"]}], "browser_specific_settings": {"gecko": {"id": "{11621b85-f69d-425c-9cf3-10f3556d5065}"}}}

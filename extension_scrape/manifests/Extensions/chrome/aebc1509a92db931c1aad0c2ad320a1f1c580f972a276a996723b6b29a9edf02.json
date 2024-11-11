@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Submit File Extension", "version": "1.0", "description": "Extension to submit files", "action": {"default_title": "Click to view a popup"}, "permissions": ["scripting", "activeTab", "tabs"], "background": {"service_worker": "background.js"}}

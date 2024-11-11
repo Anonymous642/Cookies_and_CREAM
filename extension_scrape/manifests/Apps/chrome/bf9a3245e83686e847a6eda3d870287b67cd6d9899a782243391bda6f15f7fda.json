@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://www.officemahjong.com/ChromeOfficeMahjong.php"], "launch": {"web_url": "http://www.officemahjong.com/ChromeOfficeMahjong.php"}}, "update_url": "https://clients2.google.com/service/update2/crx", "name": "Office Mahjong", "icons": {"128": "icon.png"}, "manifest_version": 2, "version": "1.0.0.1"}

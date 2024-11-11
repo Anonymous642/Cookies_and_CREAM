@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Selfless", "manifest_version": 2, "version": "0.0.1", "description": "Replaces the word \"Selfie\" with \"Self Portrait\"", "content_scripts": [{"matches": ["<all_urls>"], "js": ["contentscript.js"]}]}

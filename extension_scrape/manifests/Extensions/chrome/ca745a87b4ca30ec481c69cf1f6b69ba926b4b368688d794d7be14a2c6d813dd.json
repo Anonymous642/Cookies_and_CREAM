@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hide Twitter Views", "description": "Hides twitter view count on tweets", "version": "1.0", "content_scripts": [{"js": ["hide.js"], "matches": ["https://twitter.com/*"]}]}

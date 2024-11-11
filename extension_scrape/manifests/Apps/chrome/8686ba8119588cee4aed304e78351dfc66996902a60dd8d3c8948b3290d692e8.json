@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Conference Board", "description": "The Conference Board of Canada's e-Library.", "version": "0.3", "icons": {"128": "flame_square.png"}, "app": {"launch": {"web_url": "http://www.conferenceboard.ca/e-library/default.aspx?utm_source=chrome&utm_medium=app&campaign=elibrary"}}}

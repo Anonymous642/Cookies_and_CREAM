@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RMFIX", "version": "1.1", "description": "Some fixes for reddit mobile page", "content_scripts": [{"matches": ["https://*.reddit.com/*"], "js": ["package/jquery-3.3.1.min.js", "js/rd.js"], "all_frames": true}]}

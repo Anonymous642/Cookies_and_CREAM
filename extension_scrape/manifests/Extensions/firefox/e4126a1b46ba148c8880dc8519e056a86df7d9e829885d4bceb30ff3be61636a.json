@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YT Thumbnail Rectangle", "version": "1.0", "description": "Removes YT thumbnail's rounded corners", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "css": ["background.css"]}], "icons": {"16": "icon16.png", "32": "icon32.png"}, "browser_specific_settings": {"gecko": {"id": "{9fc224d4-1254-41ce-a220-c375f4ad264e}"}}}

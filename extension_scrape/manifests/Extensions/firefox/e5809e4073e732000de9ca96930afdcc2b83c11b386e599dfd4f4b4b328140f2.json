@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "9Gag Downloader", "description": "Downloads 9Gag stuff", "version": "1.0", "background": {"scripts": ["background.js"]}, "icons": {"16": "icon.png", "32": "icon.png", "48": "icon.png"}, "permissions": ["contextMenus", "downloads", "https://*.9gag.com/*", "http://*.9gag.com/*"], "applications": {"gecko": {"id": "9gagDownloader@Horaphim.de"}}}

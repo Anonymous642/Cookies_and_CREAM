@@ -1,0 +1,1 @@
+{"name": "Zawaj Al Halal", "description": "Site des annonces de mariage pour musulman.", "app": {"urls": ["http://www.zawajalhalal.com/"], "launch": {"web_url": "http://www.zawajalhalal.com/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.2", "icons": {"128": "icon.png"}}

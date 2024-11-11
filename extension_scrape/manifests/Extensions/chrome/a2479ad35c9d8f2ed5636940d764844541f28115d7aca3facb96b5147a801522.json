@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Top Url On NewTab", "version": "2.1", "description": "extension to overide top most visited url of your browser", "chrome_url_overrides": {"newtab": "newTab.html"}, "host_permissions": ["chrome://favicon/"], "permissions": ["topSites"], "manifest_version": 3}

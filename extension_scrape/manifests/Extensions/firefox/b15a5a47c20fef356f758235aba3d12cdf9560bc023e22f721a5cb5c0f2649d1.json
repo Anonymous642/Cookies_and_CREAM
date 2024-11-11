@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Deyoutube", "version": "0.12", "description": "Kill addiction to Youtube Feed", "icons": {"48": "icons/logo-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["deyoutube.js"]}]}

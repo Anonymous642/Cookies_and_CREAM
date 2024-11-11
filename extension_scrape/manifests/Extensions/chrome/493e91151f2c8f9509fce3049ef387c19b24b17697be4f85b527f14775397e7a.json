@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Contest in 24", "version": "0.01", "description": "A simple pop out Contest reminder", "action": {"default_title": "Contest in 24", "default_popup": "popout.html", "default_icon": "icon_extension.png"}, "manifest_version": 3}

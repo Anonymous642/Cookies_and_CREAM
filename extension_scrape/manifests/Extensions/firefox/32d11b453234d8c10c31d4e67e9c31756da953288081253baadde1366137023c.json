@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Facebook ADS Token Extractor by AdProfit", "version": "1.6", "description": "Get access token without expiration period to control your ads with Facebook Graph API", "permissions": ["https://*.facebook.com/", "activeTab"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"description": "Force Http to Https", "manifest_version": 2, "name": "HTTP TO HTTPS", "version": "4.0", "permissions": ["storage", "*://*/*", "webNavigation"], "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["background.js", "button.js"]}]}

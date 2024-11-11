@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Web Page Research", "version": "1.0", "description": "Search title of a web page and launch a google search about it", "icons": {"48": "icons/search.png"}, "background": {"scripts": ["background.js", "backgroundReadServer.js"]}, "permissions": ["<all_urls>", "webNavigation", "tabs"]}

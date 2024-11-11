@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "vimmy", "version": "1.1", "description": "vim navigation", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{4ab61dd9-6976-49ba-95bf-f2b41eeb4d3c}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "e621 full link", "version": "1.1", "description": "Adds a clickable link for direct full picture for thumbnails on e621.net.", "content_scripts": [{"matches": ["https://e621.net/post*"], "js": ["fulllink.js"]}]}

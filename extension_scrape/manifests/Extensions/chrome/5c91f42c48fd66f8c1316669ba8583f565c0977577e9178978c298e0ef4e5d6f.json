@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Calculator revenue forecast", "description": "Calculate your monthly recurring revenue (MRR) and annual recurring revenue (ARR) with this simple tool.", "version": "1.0.0", "action": {"default_icon": "calculator_saas.png", "default_popup": "popup.html"}}

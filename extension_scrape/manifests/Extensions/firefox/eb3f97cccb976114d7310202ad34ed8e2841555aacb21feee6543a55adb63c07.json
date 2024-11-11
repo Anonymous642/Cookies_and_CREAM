@@ -1,0 +1,1 @@
+{"description": "Checks if the prime parts and the relics that contain them are vaulted. If so, they are tinted in gray.", "manifest_version": 2, "name": "Warframe Market Vaulted", "version": "0.1", "permissions": ["webRequest", "activeTab", "https://warframe.market/*", "https://api.warframe.market/v1/items/*"], "background": {"scripts": ["background.js"]}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "tv.vg.no Adblocker", "version": "1.2", "description": "Removes ads from VG.no", "icons": {"32": "icons/favicon-vgtv-32x32.png"}, "content_scripts": [{"matches": ["https://tv.vg.no/video/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{0e47217a-afaf-4a97-97ef-ec442fe3b701}"}}}

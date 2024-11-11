@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MDN Display", "version": "1.0.1", "description": "chrome extension", "icons": {"16": "MDN_Web_Docs_logo_new.png", "48": "MDN_Web_Docs_logo_new.png", "128": "MDN_Web_Docs_logo_new.png"}, "content_scripts": [{"matches": ["https://developer.mozilla.org/*"], "js": ["./main.js"]}]}

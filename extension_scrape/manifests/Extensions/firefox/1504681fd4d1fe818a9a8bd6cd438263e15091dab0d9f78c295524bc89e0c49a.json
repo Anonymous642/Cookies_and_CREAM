@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab-Stop", "version": "1.0", "description": "Stop view some websites which distruct you", "icons": {}, "permissions": ["storage", "tabs", "notifications"], "background": {"scripts": ["tab.js"]}, "browser_action": {}, "browser_specific_settings": {"gecko": {"id": "{31893a11-8274-4a55-9c05-909ecea62ac1}"}}}

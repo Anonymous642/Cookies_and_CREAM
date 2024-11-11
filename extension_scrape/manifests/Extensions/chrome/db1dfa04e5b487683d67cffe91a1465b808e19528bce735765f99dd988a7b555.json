@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Imafy!", "version": "1.0.4", "description": "Convert a page's text to be in Ima's voice!", "browser_action": {"default_title": "Imafy!", "default_icon": "images/imafy.png"}, "background": {"scripts": ["background.js"], "persistent": false}, "permissions": ["activeTab"]}

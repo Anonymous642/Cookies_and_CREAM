@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "WackyDays", "description": "Explore funny holidays throughout the year.", "version": "1.0.0", "manifest_version": 2, "app": {"launch": {"local_path": "main.html"}}, "icons": {"16": "wacky_icon_16x16.png", "48": "wacky_icon_48x48.png", "128": "wacky_icon_128x128.png"}}

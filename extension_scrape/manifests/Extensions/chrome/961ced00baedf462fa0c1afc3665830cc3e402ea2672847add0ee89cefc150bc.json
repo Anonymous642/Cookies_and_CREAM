@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "QRShare", "version": "1.2", "description": "A way to easily transfer websites between devices", "manifest_version": 2, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab", "tabs"]}

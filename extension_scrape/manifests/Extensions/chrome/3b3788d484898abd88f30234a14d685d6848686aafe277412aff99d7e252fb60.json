@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ommr.io", "version": "1.0.0", "description": "Replaces Schommer with his real name.", "icons": {"64": "smorc-64.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["/addon.js"]}]}

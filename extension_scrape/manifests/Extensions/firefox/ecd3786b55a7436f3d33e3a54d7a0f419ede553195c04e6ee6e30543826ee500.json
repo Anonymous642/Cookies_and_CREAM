@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ellucian Product Testing", "description": "Application For communication between Sevis and ISSM", "version": "1.0.0", "permissions": ["*://egov.ice.gov/sbtsevis/*", "*://localhost/WebAPI/api/rtiaccess/*"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["popup.js"]}]}

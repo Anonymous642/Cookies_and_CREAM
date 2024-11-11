@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cobra Tabs", "author": "Sudip Kundu", "version": "1.0", "description": "Personalize your new tab experience", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["geolocation"]}

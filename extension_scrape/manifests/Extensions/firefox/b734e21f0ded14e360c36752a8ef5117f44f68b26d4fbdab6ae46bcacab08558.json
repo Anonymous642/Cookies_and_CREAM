@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.0", "name": "Gunnery Quicklinks", "description": "addon to add easy navigation to all gunnery affilated sites", "icons": {"48": "icons/gquick-48.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/gquick-32.png", "default_title": "Gunnery Hub", "default_popup": "popup/gquick.html"}}

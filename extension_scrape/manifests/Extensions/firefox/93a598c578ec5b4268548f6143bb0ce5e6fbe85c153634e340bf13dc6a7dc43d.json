@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ektoplazm Noflash", "description": "Replace the non-free Flash-audioplayer on Ektoplazm.com with a browser-native audioplayer.", "version": "3.0.2", "content_scripts": [{"matches": ["*://ektoplazm.com/*free-music*"], "js": ["ekto-noflash.user.js"]}], "browser_specific_settings": {"gecko": {"id": "{aa76869a-cd74-4d69-a85a-3faaf0a2cd80}"}}}

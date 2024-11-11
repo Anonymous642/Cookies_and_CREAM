@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove YouTube Shorts", "version": "1.0", "description": "A simple Firefox extension to remove YouTube Shorts.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{53db0b61-5666-4f3a-a8c0-13f7872e5d3e}"}}}

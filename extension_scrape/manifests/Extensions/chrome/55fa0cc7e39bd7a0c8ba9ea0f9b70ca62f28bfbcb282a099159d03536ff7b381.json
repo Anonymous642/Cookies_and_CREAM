@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Data Analyzer", "version": "2.1.0", "description": "This extention analyzes contents of a site", "manifest_version": 3, "author": "Devashish Priyadarhsi", "action": {"default_popup": "index.html", "default_title": "Data Analyzer"}, "permissions": ["activeTab", "scripting"]}

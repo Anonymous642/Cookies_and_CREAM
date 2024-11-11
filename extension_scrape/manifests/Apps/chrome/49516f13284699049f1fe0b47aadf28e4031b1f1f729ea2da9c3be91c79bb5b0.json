@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://hdbooth.net/"], "launch": {"web_url": "http://hdbooth.net/Webcam-Effects-Booth.html"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "High Definition Webcam Photo Booth Application For HD Webcams.", "name": "HDBooth", "icons": {"128": "icon_128.png"}, "manifest_version": 2, "version": "1.0.0.1"}

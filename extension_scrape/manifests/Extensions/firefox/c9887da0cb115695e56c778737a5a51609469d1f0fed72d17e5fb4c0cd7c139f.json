@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Web Notes", "homepage_url": "https://github.com/AjaxPop/webNotes", "description": "Create and save your notes to the web browser.", "version": "1.0.1", "icons": {"48": "icons/icon48.png"}, "browser_action": {"default_icon": "icons/icon96.png", "default_popup": "popup/popup.html"}, "permissions": ["activeTab", "storage"]}

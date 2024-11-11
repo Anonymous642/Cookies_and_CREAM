@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "IPCCP Calc", "short_name": "IPCCP Calc", "description": "Ideal power cycle components/processes calculator ...", "version": "1.11.1", "manifest_version": 2, "minimum_chrome_version": "28", "offline_enabled": true, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"128": "icon_128.png"}}

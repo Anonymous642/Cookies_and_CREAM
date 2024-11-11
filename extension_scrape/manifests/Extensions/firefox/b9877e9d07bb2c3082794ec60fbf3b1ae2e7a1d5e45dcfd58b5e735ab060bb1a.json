@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NoClickBate", "version": "1.4", "description": "Saves you from ever clicking on click bate on youtube by never letting you see it.  Side effects:  abundance of time... You're welcome", "icons": {"48": "icons/No.png"}, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["NoClickBate.js"]}]}

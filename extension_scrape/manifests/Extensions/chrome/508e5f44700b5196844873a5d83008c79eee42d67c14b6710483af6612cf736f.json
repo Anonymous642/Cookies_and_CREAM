@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Github Best Answer", "version": "1.0", "description": "An extension that allows you to see the best answer to an issue on Github", "content_scripts": [{"css": ["styles.css"], "js": ["content.js"], "matches": ["https://github.com/*/issues/*"]}], "manifest_version": 2}

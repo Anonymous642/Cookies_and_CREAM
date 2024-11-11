@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Anaplan CSS Enhancement", "version": "0.1.1", "description": "CSS colour scheme enhancement", "content_scripts": [{"css": ["styles.css"], "js": ["content.js"], "matches": ["*://*.app.anaplan.com/*"]}]}

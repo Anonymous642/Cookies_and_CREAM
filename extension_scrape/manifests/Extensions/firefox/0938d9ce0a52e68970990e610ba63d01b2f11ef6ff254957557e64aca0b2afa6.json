@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Imgur Album Opener", "version": "1.0", "description": "Opens imgur albums automatically in the same tab. Applies to pictures, gifs, mp4s, etc.", "icons": {"48": "icons/imgur-opener-48.png"}, "content_scripts": [{"matches": ["*://*.imgur.com/*"], "js": ["imgur_album_opener.js"]}]}

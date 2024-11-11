@@ -1,0 +1,1 @@
+{"description": "Quick search for a trace", "manifest_version": 2, "name": "FindTrace", "version": "1.0", "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/borderify", "background": {"scripts": ["find-trace.js"]}, "permissions": ["clipboardRead", "tabs", "contextMenus"], "browser_action": {"default_icon": {"64": "icons/trace-icon.png"}}}

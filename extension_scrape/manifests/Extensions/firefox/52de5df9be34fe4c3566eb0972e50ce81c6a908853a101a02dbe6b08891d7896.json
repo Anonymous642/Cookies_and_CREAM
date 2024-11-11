@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ripple tweaks", "version": "1.2.1", "description": "Eggplants", "icons": {"128": "favicon.png"}, "content_scripts": [{"css": ["styles.css"], "js": ["content.js"], "matches": ["https://ripple.moe/u/*", "http://ripple.moe/u/*"]}]}

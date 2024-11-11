@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Geburtstagskalender", "version": "1.5", "manifest_version": 2, "description": "GKal | Dein pers\u00f6nlicher Geburtstagskalender im Internet", "app": {"launch": {"web_url": "http://www.gkal.de/geburtstagskalender.php?chrome=app"}}, "icons": {"16": "GKal_Fav.png", "128": "GKal_App.png"}}

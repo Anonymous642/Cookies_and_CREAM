@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "app": {"launch": {"web_url": "http://www.darkshopper.com/tools/md5-generator/"}, "urls": ["http://www.darkshopper.com/tools/md5-generator/"]}, "description": "With this extension you can generate MD5 hashes.", "icons": {"128": "icon_128.png"}, "name": "MD5 Generator", "version": "1.1"}

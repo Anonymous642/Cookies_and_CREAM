@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Pin Video Down", "description": "Pin Video Down", "manifest_version": 3, "version": "1.0", "action": {"default_popup": "popup.html", "default_title": "Pinvideo"}, "icons": {"128": "pv_logo.png"}, "optional_permissions": ["tabs"], "host_permissions": ["https://pinvideodown.com/"]}

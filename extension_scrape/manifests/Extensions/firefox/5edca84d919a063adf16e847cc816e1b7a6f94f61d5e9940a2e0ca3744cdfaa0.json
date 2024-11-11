@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Maximize Tear-off Window", "description": "Maximize new windows created by tearing off tabs from a maxmized origin window.", "version": "1.0", "browser_specific_settings": {"gecko": {"id": "maximize-tearoff@lionelw"}}, "background": {"scripts": ["background.js"]}}

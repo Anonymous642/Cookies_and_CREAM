@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ebay helper", "version": "1.4", "description": "This addon helps to manage ebay saved feeds ", "icons": {"48": "icons/ebay-icon-1-48.png"}, "permissions": ["contextMenus", "activeTab", "tabs"], "content_scripts": [{"matches": ["*://*.ebay.com/*"], "js": ["content.js"]}], "background": {"scripts": ["background.js"]}}

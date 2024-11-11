@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Custom Twitch chat background color", "version": "0.1", "description": "Customize the twitch chat background color", "icons": {"48": "icon/cbc-48.png"}, "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["background.js"]}]}

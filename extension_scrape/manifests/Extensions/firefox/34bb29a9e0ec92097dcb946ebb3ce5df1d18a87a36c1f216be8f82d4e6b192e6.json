@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Automate PKP", "version": "1.0", "description": "Go throught PKP ticket buying", "icons": {"48": "icon/icon-48.png"}, "content_scripts": [{"matches": ["*://www.intercity.pl/pl/"], "js": ["pkp.js"]}]}

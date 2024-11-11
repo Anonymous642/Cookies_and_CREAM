@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CalendarPlant", "version": "14", "icons": {"24": "24.png", "128": "128.png"}, "app": {"urls": ["http://www.calendarplant.com/"], "launch": {"web_url": "http://www.calendarplant.com/"}}, "manifest_version": 2}

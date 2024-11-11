@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Currency Converter", "version": "1.0", "author": "Ravi Roshan", "description": "All type for currency conversions", "browser_action": {"default_icon": "icons/icon.png", "default_title": "UnitConverter.net", "default_popup": "popup/index.html"}}

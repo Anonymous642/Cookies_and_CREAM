@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Reading Friends", "permissions": ["webview"], "description": "Reading Friends Application", "version": "1.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

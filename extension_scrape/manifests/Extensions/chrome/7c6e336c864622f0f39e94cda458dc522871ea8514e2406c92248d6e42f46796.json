@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Disney+ PIP", "description": "Adds Picture-in-Picture (PIP) support for Disney+", "version": "1.3", "manifest_version": 3, "content_scripts": [{"matches": ["https://*.disneyplus.com/*"], "js": ["assets/js/script.js"]}]}

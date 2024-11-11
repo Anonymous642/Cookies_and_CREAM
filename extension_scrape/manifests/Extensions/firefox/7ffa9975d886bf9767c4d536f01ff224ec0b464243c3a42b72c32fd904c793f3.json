@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Eslfast Helper", "version": "1.2.0", "description": "Improves user experience on https:/rong-chang.com and https://eslfast.com", "content_scripts": [{"matches": ["*://*.eslfast.com/*", "*://*.rong-chang.com/*"], "js": ["index.js"], "css": ["style.css"]}]}

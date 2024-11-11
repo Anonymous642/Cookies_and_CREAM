@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Extension Twitch pour SussuleVrai", "description": "Vous informe si SussuleVrai est en live !", "version": "1.1", "browser_action": {"default_popup": "index.html"}, "icons": {"96": "icons/sussulevraiIconNotLive.png"}, "background": {"scripts": ["background.js"]}}

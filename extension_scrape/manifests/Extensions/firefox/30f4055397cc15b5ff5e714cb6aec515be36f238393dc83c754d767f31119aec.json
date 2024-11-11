@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AI-RTL-Extension", "version": "1.0", "description": "Adds RTL direction to specific website and LTR to pre and code tags.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://poe.com/*", "*://openai.com/*"], "css": ["content-style.css"]}], "browser_specific_settings": {"gecko": {"id": "{e6f0a729-a3fa-4410-8a07-03e4da455ace}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Little Worlds", "version": "1.0", "chrome_url_overrides": {"newtab": "little_worlds.html"}, "browser_specific_settings": {"gecko": {"id": "{cf7a9535-a1d0-437f-94c0-6834a8fb9993}"}}}

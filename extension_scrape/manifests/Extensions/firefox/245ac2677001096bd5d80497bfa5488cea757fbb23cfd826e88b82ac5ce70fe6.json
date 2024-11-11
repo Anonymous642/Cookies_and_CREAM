@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "mA to Wh Converter", "version": "1.0", "description": "Convert milliamps to watt-hours", "browser_specific_settings": {"gecko": {"id": "ma-to-wh@gmail.com"}}}

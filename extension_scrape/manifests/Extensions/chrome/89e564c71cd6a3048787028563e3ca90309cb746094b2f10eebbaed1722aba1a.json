@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Polynesian Text", "description": "Enter Hawaiian, M\u0101ori and other polynesian languages in a popup, then copy and paste into your document", "version": "1.31", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Stadium CS", "description": "An extension help CS team", "version": "1.0", "manifest_version": 3, "permissions": ["contextMenus"], "background": {"service_worker": "event.js"}, "icons": {"16": "16.png", "32": "32.png", "48": "48.png", "128": "128.png"}}

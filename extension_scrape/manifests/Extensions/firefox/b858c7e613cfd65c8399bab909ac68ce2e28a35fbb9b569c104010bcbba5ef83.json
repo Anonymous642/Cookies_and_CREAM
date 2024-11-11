@@ -1,0 +1,1 @@
+{"name": "Gazsify444", "version": "1.5.3", "description": "Szabad kommentel\u00e9s 444-en.", "manifest_version": 2, "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://444.hu/*", "https://*.444.hu/*"], "js": ["contentScript.js"]}], "content_security_policy": "script-src 'self' https://444hu.didddsqus.com; object-src 'self'"}

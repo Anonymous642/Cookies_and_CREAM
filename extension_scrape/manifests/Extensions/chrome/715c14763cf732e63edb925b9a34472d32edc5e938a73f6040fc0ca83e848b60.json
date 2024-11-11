@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Wiggle", "description": "Make your screen wiggle!", "version": "1.1", "manifest_version": 3, "action": {"default_popup": "ui.html", "default_icon": {"128": "images/wiggle128.png"}}, "icons": {"128": "images/wiggle128.png"}, "permissions": ["storage", "activeTab", "scripting"]}

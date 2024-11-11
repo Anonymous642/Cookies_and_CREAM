@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "DomainBoard", "description": "DomainBoard of the Rainbow-Link", "version": "1.0.1", "app": {"urls": ["https://rl.rainbow-link.com/chrome_domainboard/"], "launch": {"web_url": "https://rl.rainbow-link.com/chrome_domainboard/domainboard.htm"}}, "icons": {"128": "icon_db.png"}}

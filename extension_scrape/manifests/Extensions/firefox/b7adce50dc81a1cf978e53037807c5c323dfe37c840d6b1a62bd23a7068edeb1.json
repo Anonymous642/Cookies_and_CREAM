@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tiling Helper", "version": "0.1", "description": "Opens all new tabs in a new window instead", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{81f31afc-1bd6-463d-96ee-9ea08b4f18c4}"}}}

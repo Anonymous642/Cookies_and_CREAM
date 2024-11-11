@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "247Sports Board Button", "version": "1.0", "description": "Adds button for convenient access to your favorite 247 Board from anywhere on the site.", "content_scripts": [{"matches": ["*://*.247sports.com/*"], "js": ["jquery.js", "borderify.js"]}], "browser_specific_settings": {"gecko": {"id": "_kojak-addon@lions247.com"}}}

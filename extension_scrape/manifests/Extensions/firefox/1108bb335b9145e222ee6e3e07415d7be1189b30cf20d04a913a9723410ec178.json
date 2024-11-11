@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Image Inpi Substitution", "description": "Replaces flash with images", "version": "1.0", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://bases-brevets19e.inpi.fr/Thot/*"], "js": ["substitute_image_inpi.js"]}]}

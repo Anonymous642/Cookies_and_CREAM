@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Easter Island Traveling", "description": "Your ultimate metropol for Easter Island tourism and travel needs.", "version": "0.0.0.3", "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://easterislandtraveling.com/"], "launch": {"web_url": "https://easterislandtraveling.com/"}}}

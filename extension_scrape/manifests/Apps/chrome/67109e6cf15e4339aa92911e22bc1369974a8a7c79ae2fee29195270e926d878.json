@@ -1,0 +1,1 @@
+{"name": "Desguaces Melli", "description": "Accede a nuestros recambios, piezas y repuestos de segunda mano.", "app": {"urls": ["http://www.desguacesmelli.com/"], "launch": {"web_url": "http://www.desguacesmelli.com/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

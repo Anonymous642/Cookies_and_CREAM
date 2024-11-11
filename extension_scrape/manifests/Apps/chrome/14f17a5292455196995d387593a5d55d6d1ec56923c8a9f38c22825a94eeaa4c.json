@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "SolarLinker", "description": "The UK\u2019s trusted solar panel price comparison site", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["HTTP://SOLARLINKER.CO.UK/"], "launch": {"web_url": "HTTP://SOLARLINKER.CO.UK/"}}}

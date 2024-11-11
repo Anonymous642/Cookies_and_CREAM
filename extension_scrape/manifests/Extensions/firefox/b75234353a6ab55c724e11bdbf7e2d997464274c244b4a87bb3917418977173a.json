@@ -1,0 +1,1 @@
+{"background": {"scripts": ["menu.js"]}, "description": "Adds a context menu for searching tracking numbers on 17Track website", "icons": {"16": "icon.png"}, "manifest_version": 2, "name": "17Track This", "permissions": ["contextMenus"], "version": "2.0", "homepage_url": "http://www.inframe.ro"}

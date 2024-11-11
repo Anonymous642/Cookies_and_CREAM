@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "cmd.fm", "description": "command-line radio for geeks", "version": "1", "manifest_version": 2, "app": {"urls": ["http://cmd.fm/"], "launch": {"web_url": "http://cmd.fm"}}, "icons": {"128": "128x128.png"}, "permissions": ["notifications"]}

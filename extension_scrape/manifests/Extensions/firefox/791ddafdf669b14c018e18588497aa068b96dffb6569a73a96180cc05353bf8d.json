@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sorarext", "version": "1.2", "description": "Add specific soaraedata search", "permissions": ["contextMenus"], "icons": {"48": "icons/foot.png"}, "background": {"scripts": ["sorarext.js"]}}

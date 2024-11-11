@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tempe", "version": "1.0.1", "description": "Temporary Email", "background": {"service_worker": "service-worker.js", "type": "module"}, "action": {"default_popup": "pages/popup/index.html"}, "permissions": ["storage", "activeTab"], "icons": {"128": "icons/128.png"}}

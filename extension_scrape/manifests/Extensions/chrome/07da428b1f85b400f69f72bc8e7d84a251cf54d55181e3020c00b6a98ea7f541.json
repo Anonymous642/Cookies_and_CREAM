@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Issue2Clipboard", "version": "0.3", "description": "Right-click on a JIRA issue to get its key and summary copied to the clipboard", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["issue2clipboard.js"]}]}

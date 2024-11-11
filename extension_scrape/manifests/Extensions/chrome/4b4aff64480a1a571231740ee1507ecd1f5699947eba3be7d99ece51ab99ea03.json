@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "QR Clip and Scan", "version": "0.0.0.1", "icons": {"128": "icons/icon.png"}, "browser_action": {"default_icon": {"128": "icons/icon.png"}, "default_title": "QR Clip and Scan", "default_popup": "popup/popup.html", "browser_style": false}, "permissions": ["tabs", "clipboardRead"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Simplify Fractions Calculator", "version": "1.0", "manifest_version": 2, "description": "Simplify Fractions Calculator", "minimum_chrome_version": "23", "icons": {"16": "img1-16.png", "128": "img1.png"}, "app": {"background": {"scripts": ["main.js"]}}}

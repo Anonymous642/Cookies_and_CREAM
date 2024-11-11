@@ -1,0 +1,1 @@
+{"description": "Qualle auf Lichess f\u00fcr Paff", "manifest_version": 2, "name": "qualle", "version": "1.0", "background": {"scripts": ["qualle.js"]}, "page_action": {"browser_style": true}, "permissions": ["https://lichess.org/*", "tabs"], "browser_specific_settings": {"gecko": {"id": "{e9a9a2d4-b2cb-47fa-8594-bc1fb03a7820}"}}}

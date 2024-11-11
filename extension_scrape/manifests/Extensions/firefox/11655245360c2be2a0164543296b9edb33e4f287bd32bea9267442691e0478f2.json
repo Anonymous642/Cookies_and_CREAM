@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Insearch", "version": "1.0", "description": "Search a word meaning in popup by using google", "icons": {"48": "images/icon.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "contextMenus", "clipboardWrite", "storage"], "browser_action": {"default_icon": "images/icon.png", "default_title": "Insearch"}}

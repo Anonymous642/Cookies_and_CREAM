@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "scrapbox easy new page", "description": "Easily create new pages using shortcuts", "version": "1.1", "manifest_version": 3, "host_permissions": ["<all_urls>"], "content_scripts": [{"matches": ["https://scrapbox.io/*"], "run_at": "document_end", "all_frames": true, "js": ["script.js"]}]}

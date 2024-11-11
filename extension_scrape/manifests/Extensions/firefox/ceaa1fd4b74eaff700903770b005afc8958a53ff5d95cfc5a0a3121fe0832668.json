@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "JoeMonster ads remover", "version": "1.0", "default_locale": "en", "description": "__MSG_extensionDescription__", "applications": {"gecko": {"id": "jmadsremover@przeszczep.addons.mozilla.org"}}, "content_scripts": [{"matches": ["*://*.joemonster.org/*"], "js": ["script.js"]}]}

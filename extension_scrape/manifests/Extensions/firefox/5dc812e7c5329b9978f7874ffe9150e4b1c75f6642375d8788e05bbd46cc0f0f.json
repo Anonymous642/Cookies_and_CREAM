@@ -1,0 +1,1 @@
+{"name": "Simply Invoice", "version": "1.1", "manifest_version": 2, "browser_action": {"default_popup": "index.html", "default_icon": {"16": "16.png", "48": "48.png", "128": "128.png"}}, "background": {"scripts": ["background.js"]}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content-script.js"]}], "icons": {"16": "16.png", "48": "48.png", "128": "128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Zoho Social", "description": "Social Media Management Software for Growing Businesses.", "update_url": "http://clients2.google.com/service/update2/crx", "version": "1.0", "app": {"urls": ["https://social.zoho.com/"], "launch": {"web_url": "https://social.zoho.com/"}}, "icons": {"128": "social_icon_128.png"}}

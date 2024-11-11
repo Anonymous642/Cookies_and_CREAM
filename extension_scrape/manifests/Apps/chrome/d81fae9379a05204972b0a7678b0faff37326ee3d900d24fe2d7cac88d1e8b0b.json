@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Colibri SEO Tools", "version": "1.0", "icons": {"128": "colibri128.png"}, "app": {"urls": ["http://colibritool.com/"], "launch": {"web_url": "http://colibritool.com/"}}, "permissions": [], "manifest_version": 2}

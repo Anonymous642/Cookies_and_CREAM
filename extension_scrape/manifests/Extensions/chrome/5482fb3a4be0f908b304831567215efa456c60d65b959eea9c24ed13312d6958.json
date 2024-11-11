@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Copy Clipboard", "description": "A clipboard extension used to copy strings quickly.", "version": "1.0.0.0", "icons": {"128": "logo.png"}, "action": {"default_popup": "extension.html"}, "permissions": ["storage"]}

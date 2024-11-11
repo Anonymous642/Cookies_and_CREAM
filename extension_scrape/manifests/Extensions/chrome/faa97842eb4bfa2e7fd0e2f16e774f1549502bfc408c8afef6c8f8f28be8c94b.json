@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Extension Notes", "short_name": "Extension Notes", "version": "1.0.1", "description": "Notes on every new tab, with tabs", "permissions": [], "chrome_url_overrides": {"newtab": "index.html?#/tab"}, "host_permissions": ["https://fonts.googleapis.com/*"], "content_security_policy": {}}

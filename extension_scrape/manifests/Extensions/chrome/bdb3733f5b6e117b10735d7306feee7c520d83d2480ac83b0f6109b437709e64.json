@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SGPI to CGPA Converter - Mumbai University", "version": "2.1", "description": "Convert your SGPI to CGPA and Percentage - Mumbai University Engineering", "manifest_version": 3, "action": {"default_icon": "icon.png", "default_popup": "index.html"}, "permissions": ["storage"]}

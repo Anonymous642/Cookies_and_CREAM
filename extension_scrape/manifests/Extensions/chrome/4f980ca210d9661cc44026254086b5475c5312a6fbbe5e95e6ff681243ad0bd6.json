@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Blank New Tab Page", "version": "0.0.2", "description": "A blank new tab page", "chrome_url_overrides": {"newtab": "blank.html"}}

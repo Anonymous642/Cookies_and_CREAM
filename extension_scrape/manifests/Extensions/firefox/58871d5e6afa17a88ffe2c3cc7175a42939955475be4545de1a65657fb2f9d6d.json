@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Teamwork.com Link Unfurler", "version": "1.0", "description": "Unfurls Teamwork links to their full greatness.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*.teamwork.com/*"], "js": ["teamwork-link-unfurler.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "RoadrunnersImdbRating", "version": "1.1", "description": "RoadrunnersImdbRating", "background": {"service_worker": "background.js"}, "content_scripts": [{"js": ["content.js"], "css": ["css.css"], "matches": ["https://www.imdb.com/title/*"], "run_at": "document_start"}], "manifest_version": 3}

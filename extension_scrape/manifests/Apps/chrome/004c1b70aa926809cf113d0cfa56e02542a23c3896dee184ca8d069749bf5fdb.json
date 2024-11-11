@@ -1,0 +1,1 @@
+{"name": "An Open Source Mind", "description": "A personal blog curated by RavS.", "app": {"urls": ["http://www.blogrsh.blogspot.com/"], "launch": {"web_url": "http://www.blogrsh.blogspot.com/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.2", "icons": {"128": "icon.png"}}

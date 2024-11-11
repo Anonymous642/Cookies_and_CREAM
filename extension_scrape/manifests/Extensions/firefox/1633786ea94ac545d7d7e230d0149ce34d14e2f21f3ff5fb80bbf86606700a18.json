@@ -1,0 +1,1 @@
+{"description": "Delete all Cookies For Tab", "manifest_version": 2, "name": "Delete all Cookies For Tab", "version": "1.0.2", "icons": {"48": "icons/cookie-48.jpg"}, "permissions": ["activeTab", "cookies", "<all_urls>"], "background": {"scripts": ["background-script.js"]}, "browser_action": {"default_icon": "icons/cookie-32.jpg", "default_title": "Delete all Cookies For Tab"}}

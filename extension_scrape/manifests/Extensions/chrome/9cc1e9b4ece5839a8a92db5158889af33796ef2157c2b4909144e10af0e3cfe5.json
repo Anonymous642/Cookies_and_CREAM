@@ -1,0 +1,1 @@
+{"manifest_version": 3, "description": "Add amazing Architecture views to your New Tab", "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"16": "icon16.png", "48": "icon48.png", "65": "icon65.png", "128": "icon128_dark.png"}, "name": "Ogometry New Tab Architecture Inspiration", "update_url": "https://clients2.google.com/service/update2/crx", "version": "1.3"}

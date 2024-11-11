@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.2", "name": "Find next page", "description": "Go to the next page when pressing Space at the end of the page", "content_scripts": [{"matches": ["*://*/*"], "js": ["index.js"]}], "homepage_url": "https://gitlab.com/arty.name/firefox-extension-find-next-page"}

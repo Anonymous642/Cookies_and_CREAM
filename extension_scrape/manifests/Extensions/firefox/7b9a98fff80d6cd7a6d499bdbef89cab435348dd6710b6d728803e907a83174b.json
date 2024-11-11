@@ -1,0 +1,1 @@
+{"author": "Karim Rahal", "name": "Download Zoom Recording", "description": "Download any Zoom recording.", "manifest_version": 2, "version": "1.11", "icons": {"96": "img/icon-96.png"}, "content_scripts": [{"matches": ["https://*.zoom.us/rec/play/*"], "js": ["main.js"]}], "permissions": ["https://*.zoom.us/rec/play/*"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Add Ads to your videos", "version": "1.0", "description": "Add ads to your YouTube videos in an easier way", "icons": {"48": "logo.png"}, "permissions": [], "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["content.js"], "run_at": "document_end"}]}

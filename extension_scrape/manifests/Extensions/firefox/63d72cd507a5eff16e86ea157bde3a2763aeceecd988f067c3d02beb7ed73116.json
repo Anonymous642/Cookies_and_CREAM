@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NamePin", "version": "1.0", "description": "Pins names of discord users", "icons": {"48": "discord.ico"}, "content_scripts": [{"matches": ["*://*.discordapp.com/*"], "js": ["discord.js"]}]}

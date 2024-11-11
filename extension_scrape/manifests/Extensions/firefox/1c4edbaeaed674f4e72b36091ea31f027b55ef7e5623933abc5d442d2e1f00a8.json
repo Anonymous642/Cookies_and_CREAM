@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Default To Bookmarks Menu", "description": "Set the default bookmark location to the Bookmarks Menu.", "author": "QFox", "version": "1.0.0", "permissions": ["bookmarks"], "background": {"scripts": ["background.js"]}, "icons": {"16": "bookmark-star-on-tray.svg"}, "page_action": {"default_icon": {"16": "bookmark-star-on-tray.svg"}}}

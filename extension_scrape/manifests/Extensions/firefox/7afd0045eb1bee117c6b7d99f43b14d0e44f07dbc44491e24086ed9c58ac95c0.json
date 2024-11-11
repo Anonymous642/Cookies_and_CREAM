@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Spotify Cursor Pointer", "version": "1.0", "content_scripts": [{"css": ["cursor_pointer.css"], "matches": ["https://open.spotify.com/*"]}]}

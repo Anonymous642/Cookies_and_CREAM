@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GitLab MergeRequest Selector", "short_name": "GLMRSel", "version": "2.1.0", "content_scripts": [{"matches": ["https://*/*/merge_requests/new?*"], "js": ["script.js"]}], "options_ui": {"page": "config.html"}, "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Robot", "version": "0.1.0", "manifest_version": 2, "icons": {"16": "img/robot.png", "48": "img/robot.png", "128": "img/robot.png"}, "description": "\u5e2e\u673a\u5668\u4eba\u56de\u5bb6", "app": {"launch": {"local_path": "index.html"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WinWeb eShop", "description": "WinWeb eShop - New. Easy. Fun(-ctional).", "version": "1.2", "app": {"urls": ["http://www.winweb.com/eshop/"], "launch": {"web_url": "http://www.winweb.com/eshop//"}}, "icons": {"16": "ww-16x16.png", "128": "ww-128x128.png"}, "manifest_version": 2}

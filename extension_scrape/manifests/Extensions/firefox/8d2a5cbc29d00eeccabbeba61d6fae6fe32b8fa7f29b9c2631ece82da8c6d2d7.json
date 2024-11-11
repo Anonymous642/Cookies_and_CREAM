@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "input-field", "version": "1.0", "description": "Adds input field to the 2D world of rC3", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://test.visit.at.wa-test.rc3.cccv.de/*", "*://*.at.rc3.world/*"], "js": ["input-field.js"]}], "browser_specific_settings": {"gecko": {"id": "input-field@galaxy.builders"}}}

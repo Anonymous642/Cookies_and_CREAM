@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Copper Tree Construction", "description": "An app that leads to the homepage of Copper Tree Construction", "version": "0.1", "icons": {"128": "logo.png"}, "app": {"launch": {"web_url": "http://www.coppertree.biz?utm_medium=chrome&utm_source=app"}}}

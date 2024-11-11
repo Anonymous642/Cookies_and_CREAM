@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MicroHub", "version": "1.1", "description": "Dost\u0119p do ka\u017cdej mikronacji w kilka sekund", "icons": {"48": "icons/icon.png"}, "browser_action": {"default_icon": "icons/icon.png", "default_title": "MicroHub", "default_popup": "popup/popup.html"}, "browser_specific_settings": {"gecko": {"id": "{5723095b-1170-4048-b2bd-0fdc8d2676ff}"}}}

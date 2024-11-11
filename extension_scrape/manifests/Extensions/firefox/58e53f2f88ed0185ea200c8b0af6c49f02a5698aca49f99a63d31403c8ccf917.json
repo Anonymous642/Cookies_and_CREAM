@@ -1,0 +1,1 @@
+{"description": "Removes tracking from search results on https://encrypted.google.com", "manifest_version": 2, "name": "GoogleUntrackify", "version": "1.0", "icons": {"48": "icons/googleuntrackify-48.png"}, "content_scripts": [{"matches": ["https://encrypted.google.com/*"], "js": ["googleuntrackify.js"]}]}

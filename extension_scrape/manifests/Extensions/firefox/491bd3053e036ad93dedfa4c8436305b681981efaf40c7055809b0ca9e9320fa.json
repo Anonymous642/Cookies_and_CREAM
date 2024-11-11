@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Scolinfo", "version": "1.2", "description": "Calcule la moyenne", "icons": {"48": "icons/logo.jpg"}, "content_scripts": [{"matches": ["*://www.scolinfo.net/Eleve/*"], "js": ["jquery.min.js", "moyenne.js"]}]}

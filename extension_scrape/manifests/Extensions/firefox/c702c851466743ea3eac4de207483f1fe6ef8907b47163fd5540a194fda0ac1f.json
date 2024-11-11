@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Apc Gmail", "version": "1.0", "applications": {"gecko": {"id": "apc-gmail1@apcbase.net"}}, "description": "Adiciona cor na Linha TR de mensagens com Estrela", "content_scripts": [{"matches": ["*://mail.google.com/*"], "js": ["apcgmail.js"], "css": ["apcgmail.css"]}]}

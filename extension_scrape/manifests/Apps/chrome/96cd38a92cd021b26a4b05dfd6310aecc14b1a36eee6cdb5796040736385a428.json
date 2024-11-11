@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Radio Internetowe", "description": "Polskie Radio", "version": "3.0.0.3", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.radiointernetowe.com.pl/"], "launch": {"web_url": "http://www.radiointernetowe.com.pl/"}}}

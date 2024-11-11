@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Homepage Revamped", "version": "2.0.9", "description": "A useful new tab page, while continuing to look clean.", "icons": {"16": "16.png", "128": "128.png"}, "browser_specific_settings": {"gecko": {"id": "newtab@afhstudio.ml"}}, "chrome_url_overrides": {"newtab": "home.html"}}

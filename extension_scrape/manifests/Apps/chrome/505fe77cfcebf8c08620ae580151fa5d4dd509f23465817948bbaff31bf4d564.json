@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Coffee 2048", "short_name": "Coffee 2048", "version": "1.0", "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.coffee2048.com/"], "launch": {"web_url": "http://www.coffee2048.com/"}}, "manifest_version": 2}

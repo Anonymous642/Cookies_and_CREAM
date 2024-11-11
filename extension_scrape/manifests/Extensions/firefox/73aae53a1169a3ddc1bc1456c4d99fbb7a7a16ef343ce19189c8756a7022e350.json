@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Buscar imagen en Google", "description": "Agrega la opci\u00f3n buscar imagen en Google en el men\u00fa contextual", "version": "1.0", "icons": {"48": "icons/48.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "World Clock", "version": "2.0", "author": "Nilotpal", "action": {"default_popup": "time.html", "default_icon": "icon.png", "default_title": "WC1"}, "background": {"scripts": ["clock2.js"]}, "browser_specific_settings": {"gecko": {"id": "chandranilotpal21@gmail.com", "strict_min_version": "42.0"}}}

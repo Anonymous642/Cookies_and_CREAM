@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SlidesWhiz | Superpowers for Google Slides", "action": {}, "manifest_version": 3, "version": "0.1.1", "description": "Superpowers for Google Slides", "permissions": [], "content_scripts": [{"matches": ["https://docs.google.com/presentation/d/*"], "js": ["bookmarklet_launcher.js"]}]}

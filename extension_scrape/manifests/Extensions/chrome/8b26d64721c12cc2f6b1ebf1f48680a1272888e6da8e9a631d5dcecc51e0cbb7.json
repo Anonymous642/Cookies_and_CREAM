@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Pinocchio News", "version": "1.0", "description": "Pinocchio News Verifier Chrome Extension!", "permissions": ["activeTab", "declarativeContent"], "background": {"scripts": ["js/main.js"], "persistent": false}, "page_action": {"default_popup": "html/popup.html"}, "manifest_version": 2}

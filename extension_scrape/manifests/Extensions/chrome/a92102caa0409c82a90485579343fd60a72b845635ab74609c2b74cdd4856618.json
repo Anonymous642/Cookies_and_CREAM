@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Momsfri bel\u00f8b", "version": "1.0", "manifest_version": 3, "action": {"default_title": "Klik for at vise momsfri bel\u00f8b"}, "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}}

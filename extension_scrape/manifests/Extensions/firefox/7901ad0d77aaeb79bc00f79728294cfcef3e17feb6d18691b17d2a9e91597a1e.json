@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OverBuffer", "version": "0.1", "description": "Aloows you to quickly lookup a BNET tag on overbuff.", "icons": {"48": "icons/icon.png"}, "permissions": ["menus", "activeTab"], "background": {"scripts": ["overbuffer.js"]}}

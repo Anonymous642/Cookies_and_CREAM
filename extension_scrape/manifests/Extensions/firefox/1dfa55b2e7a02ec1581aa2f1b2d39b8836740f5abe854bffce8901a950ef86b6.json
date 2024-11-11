@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ytrtlfix", "version": "1.0", "description": "Fix Youtube menu when display language is right to left", "icons": {"100": "icons/icon100.png"}, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["ytrtlfix.js"]}]}

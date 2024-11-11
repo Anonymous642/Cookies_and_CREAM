@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Unverify", "version": "0.1", "description": "No more blue checkmarks of approval.", "icons": {"48": "unv-48.png"}, "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["jquery.js", "unverify.js"], "run_at": "document_end"}]}

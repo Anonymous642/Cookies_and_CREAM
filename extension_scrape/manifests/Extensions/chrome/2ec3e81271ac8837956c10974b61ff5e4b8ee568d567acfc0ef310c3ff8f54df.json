@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Skip Ads", "description": "Skip all annoying Youtube ads", "version": "1.0.3", "icons": {"16": "images/16.png", "48": "images/48.png", "128": "images/128.png"}, "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["skip-ads.js"]}]}

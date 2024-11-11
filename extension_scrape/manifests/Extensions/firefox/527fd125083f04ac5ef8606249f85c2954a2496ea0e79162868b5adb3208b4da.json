@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Test", "version": "1.0", "description": "Testing out the extensions in Firefox!", "content_scripts": [{"matches": ["*://*.google.com/*"], "js": ["test.js"]}]}

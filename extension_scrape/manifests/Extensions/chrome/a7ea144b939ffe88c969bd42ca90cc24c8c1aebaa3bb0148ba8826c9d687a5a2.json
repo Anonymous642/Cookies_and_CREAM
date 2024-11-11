@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Hide TweetDeck Preview Button", "version": "1.0.0", "manifest_version": 3, "description": "Hide Preview Button for TweetDeck", "content_scripts": [{"matches": ["https://tweetdeck.twitter.com/*"], "js": ["content.js"]}]}

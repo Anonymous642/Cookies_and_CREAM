@@ -1,0 +1,1 @@
+{"description": "Listen to your favorite radio stations online from all over the world. Explore all stations by location or genre according to your mood.", "manifest_version": 2, "name": "TuneYou Radio", "version": "1.0.2", "browser_action": {"browser_style": true, "default_popup": "popup.html", "default_icon": {"16": "icons/TuneYou160.png", "32": "icons/TuneYou160.png"}}}

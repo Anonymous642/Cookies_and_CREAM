@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Easy Send WhatsApp", "description": "Uma m\u00e3ozinha na hora de enviar um WhatsApp para quem n\u00e3o \u00e9 seu contato.", "browser_action": {"default_popup": "index.html"}, "version": "1.1", "icons": {"128": "128.png"}}

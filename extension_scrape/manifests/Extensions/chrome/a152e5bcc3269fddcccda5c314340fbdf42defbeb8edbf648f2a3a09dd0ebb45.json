@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Copy curl on windows", "version": "0.6", "devtools_page": "devtools.html", "permissions": ["clipboardWrite"], "icons": {"48": "icon48.png", "128": "icon128.png"}, "action": {"default_popup": "popup.html"}}

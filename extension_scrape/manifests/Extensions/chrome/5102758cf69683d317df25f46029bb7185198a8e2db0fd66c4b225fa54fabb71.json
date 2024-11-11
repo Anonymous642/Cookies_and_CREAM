@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Software Engineering Jobs", "version": "1.0.0", "description": "Latest software engineering job postings", "manifest_version": 3, "author": "Shinhae Na & Zachary Daniels", "action": {"default_popup": "index.html", "default_title": "Software-Engineering Jobs"}}

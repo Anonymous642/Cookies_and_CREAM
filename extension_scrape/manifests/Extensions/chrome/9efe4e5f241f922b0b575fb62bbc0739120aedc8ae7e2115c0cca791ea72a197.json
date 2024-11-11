@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "xChange services manager", "version": "1.0.0", "description": "enable disable services", "manifest_version": 3, "author": "Vlad Bogun", "action": {"default_popup": "index.html", "default_title": "xChange services manager"}, "permissions": ["activeTab", "scripting", "tabs"]}

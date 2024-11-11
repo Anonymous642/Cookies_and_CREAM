@@ -1,0 +1,1 @@
+{"name": "DevStory", "version": "1.0.3", "description": "All Your Favorite News Feeds in every new tab, you never miss anything.", "manifest_version": 2, "browser_action": {"default_icon": "img.png"}, "chrome_url_overrides": {"newtab": "popup.html"}}

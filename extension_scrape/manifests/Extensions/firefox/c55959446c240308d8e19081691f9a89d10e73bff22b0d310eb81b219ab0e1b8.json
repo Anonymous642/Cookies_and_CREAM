@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "InputOutfocus", "version": "1.0", "description": "make focus out when you change windows in browser", "icons": {"64": "icons/64.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["inputoutfocus.js"]}], "browser_specific_settings": {"gecko": {"id": "{d014ecda-9273-47aa-a71a-12932fdc47b7}"}}}

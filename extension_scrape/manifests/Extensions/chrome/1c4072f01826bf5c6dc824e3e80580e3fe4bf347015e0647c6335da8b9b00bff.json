@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Add All Fonts", "version": "0.1", "description": "Add all styles of a Google Font to your selected family", "manifest_version": 3, "icons": {"128": "128.png"}, "content_scripts": [{"css": ["add.css"], "js": ["add.js"], "matches": ["https://fonts.google.com/*"]}]}

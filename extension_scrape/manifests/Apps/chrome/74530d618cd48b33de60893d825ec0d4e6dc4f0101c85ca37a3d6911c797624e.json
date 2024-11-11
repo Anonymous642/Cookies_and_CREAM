@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Quilted By Me", "description": "A site full of quilts, dolls, tutorials, and crafts.", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["HTTP://WWW.QUILTEDBY.ME/"], "launch": {"web_url": "HTTP://WWW.QUILTEDBY.ME/"}}}

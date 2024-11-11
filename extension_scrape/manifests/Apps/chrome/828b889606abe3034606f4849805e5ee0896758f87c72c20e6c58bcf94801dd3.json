@@ -1,0 +1,1 @@
+{"name": "FormGet - Online Contact Form Builder", "description": "FormGet contact form is an online form builder tool", "app": {"urls": ["http://www.formget.com/app/"], "launch": {"web_url": "http://www.formget.com/app/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.2", "icons": {"128": "icon.png"}}

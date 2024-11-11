@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Cinemana skip button fix", "version": "2.0", "description": "Auto skip botton by TMK5", "icons": {"48": "/icons/cinemana.ico"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["app.js"]}], "browser_specific_settings": {"gecko": {"id": "{91d21408-e67e-458d-97e7-9066784d64b8}"}}}

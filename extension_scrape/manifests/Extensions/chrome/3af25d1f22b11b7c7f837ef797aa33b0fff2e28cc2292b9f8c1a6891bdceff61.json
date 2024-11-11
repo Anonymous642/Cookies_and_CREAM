@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Writions Detector", "description": "You can Detects 3 languages and the percentages of the given string", "version": "1.0", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "manifest_version": 2}

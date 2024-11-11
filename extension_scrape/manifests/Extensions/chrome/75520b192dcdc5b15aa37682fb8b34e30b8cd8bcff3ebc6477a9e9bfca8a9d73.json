@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "version": "1.0.0", "name": "Dice Roller", "short_name": "Dice Roller", "description": "Dice Roller app. Play Virtual Dice Thrower!", "icons": {"128": "icon.png"}, "browser_action": {"default_popup": "app/index.html", "default_icon": "icon.png"}, "offline_enabled": true}

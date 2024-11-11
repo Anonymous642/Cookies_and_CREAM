@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "No Cover Image on Asana Tickets", "version": "0.1", "content_scripts": [{"matches": ["https://app.asana.com/*"], "js": ["content.js"]}]}

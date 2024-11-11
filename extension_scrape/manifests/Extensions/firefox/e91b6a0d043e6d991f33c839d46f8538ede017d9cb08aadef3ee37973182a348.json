@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "amz", "version": "1.0", "description": "Removes ref from amazon links(de, com, co.uk)", "icons": {"128": "icons/ref_logo.png"}, "content_scripts": [{"matches": ["*://*.amazon.de/*", "*://*.amazon.com/*", "*://*.amazon.co.uk/*"], "js": ["refremover.js"]}]}

@@ -1,0 +1,1 @@
+{"name": "Crop2Cash Basecamp extension", "version": "1.1", "description": "Simple extension that opens basecamp at 4:30", "permissions": ["alarms", "storage", "tabs"], "background": {"scripts": ["script.js"]}, "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Google Malte", "version": "1", "description": "Adds Malternativ to every Google Search", "content_scripts": [{"matches": ["*://*.google.com/search*"], "js": ["redirect.js"], "run_at": "document_start"}]}

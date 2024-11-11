@@ -1,0 +1,1 @@
+{"name": "Zob Auto Correct", "version": "1.0", "manifest_version": 2, "description": "Parce qu'on ne veut plus voir son nom", "icons": {"128": "zob.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["js/correct.js"]}]}

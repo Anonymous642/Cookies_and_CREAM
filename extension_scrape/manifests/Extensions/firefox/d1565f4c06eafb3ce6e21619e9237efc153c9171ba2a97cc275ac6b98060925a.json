@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "hiLinksX", "version": "1.0", "description": "Highlights specified domain links.", "icons": {"48": "icons/pink-black.png"}, "browser_specific_settings": {"gecko": {"id": "hiLinks@philosoft.co.uk"}}, "options_ui": {"page": "options.html"}, "permissions": ["storage"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["hiLinks.js"]}]}

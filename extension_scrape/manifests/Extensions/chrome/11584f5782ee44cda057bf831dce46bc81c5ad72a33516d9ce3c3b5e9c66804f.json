@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "MemeGit", "version": "1.0", "description": "Makes some changes to the wording on Git related sites.", "applications": {"gecko": {"id": "memegit@nzgamer41.win"}}, "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://*.github.com/*"], "js": ["bruhgit.js"]}]}

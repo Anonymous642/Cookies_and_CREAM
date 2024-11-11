@@ -1,0 +1,1 @@
+{"description": "Prevents unintentional clicks on facebook (fr)", "manifest_version": 2, "name": "NoMisClick Facebook", "version": "2.0", "icons": {"60": "icons/icone.png"}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["NoMisClick.js"]}], "browser_specific_settings": {"gecko": {"id": "{2c7000e9-373b-4597-aabe-635f8d40f632}"}}}

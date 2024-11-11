@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "What Uni", "description": "Search university Degrees, Courses & Reviews", "version": "0.1", "icons": {"128": "whatuni.jpg"}, "app": {"launch": {"web_url": "http://www.whatuni.com/"}}}

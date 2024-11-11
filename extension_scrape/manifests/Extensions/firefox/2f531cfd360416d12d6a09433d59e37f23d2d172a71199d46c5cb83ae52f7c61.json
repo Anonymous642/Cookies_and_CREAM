@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "videoSpeed", "version": "1.0", "description": "Mini projet de gestion de vitesse d'extension par extension firefox.", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["speed.js"]}]}

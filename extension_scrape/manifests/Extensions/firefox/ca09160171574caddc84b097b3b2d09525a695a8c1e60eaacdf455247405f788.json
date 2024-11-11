@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "noMaxLength", "version": "0.2", "homepage_url": "https://github.com/dongpohezui/noMaxLength", "description": "\u53bb\u9664maxlength\u5c5e\u6027", "icons": {"48": "icons/icons-48.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["noMaxLength.js"]}]}

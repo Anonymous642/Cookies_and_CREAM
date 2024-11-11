@@ -1,0 +1,1 @@
+{"name": "Dorker", "version": "1.0.0", "manifest_version": 2, "description": "Search Effectively", "browser_action": {"default_title": "Dorker by Ravi :) Search Effectively\ud83d\ude0e ", "default_popup": "popup.html"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{44215abf-4c6f-431f-b957-85bd9ed9d25e}"}}}

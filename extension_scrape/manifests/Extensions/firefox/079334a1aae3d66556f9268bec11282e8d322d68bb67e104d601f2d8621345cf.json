@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ageless on Fandom", "version": "0.1.0", "description": "Removes the age prompt from fandom.", "icons": {"48": "icons/agelessonfandom.png"}, "content_scripts": [{"matches": ["*://*.fandom.com/**"], "js": ["ageprompt.js"]}], "browser_specific_settings": {"gecko": {"id": "{1327451f-51cd-4e05-932c-ca9958cac65b}"}}}

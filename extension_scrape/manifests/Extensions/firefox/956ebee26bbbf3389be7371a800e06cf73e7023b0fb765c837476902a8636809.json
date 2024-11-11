@@ -1,0 +1,1 @@
+{"description": "Transforma a Emol en un portal tono oscuro.", "manifest_version": 2, "name": "EMOL Black Version", "version": "1.0", "short_name": "EMOL Black Version", "icons": {"128": "e.png"}, "content_scripts": [{"matches": ["*://www.emol.com/*", "*://tv.emol.com/*"], "css": ["estilos.css"]}]}

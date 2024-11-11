@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CasManage", "version": "1.0.0", "manifest_version": 2, "description": "\u521d\u898b\u3055\u3093\u78ba\u8a8d", "content_scripts": [{"matches": ["https://twitcasting.tv/*"], "js": ["content.js"]}], "permissions": [], "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

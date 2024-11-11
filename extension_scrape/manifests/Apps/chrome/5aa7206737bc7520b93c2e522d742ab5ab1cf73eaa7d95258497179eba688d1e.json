@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Devall Middle School", "description": "Devall Middle School", "version": "1.0.0", "manifest_version": 2, "app": {"urls": ["http://sites.google.com/site/devallmiddleschool/"], "launch": {"web_url": "http://sites.google.com/site/devallmiddleschool/"}}, "icons": {"128": "rsz_vikingheadlogo.png"}}

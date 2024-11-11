@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "DigiSetup", "version": "0.1", "minimum_chrome_version": "23", "icons": {"16": "resources/icons/icon_16.png", "128": "resources/icons/icon_128.png"}, "app": {"background": {"scripts": ["resources/scripts/main.js"]}}, "permissions": ["notifications", "alarms"]}

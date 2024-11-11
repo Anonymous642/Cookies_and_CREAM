@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "hoolio-checker", "description": "Check Hoolio values from Hooligans Nfts", "version": "0.0.2", "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["https://www.jpg.store/*", "https://cnft.tools/*"], "js": ["/content.js"]}]}

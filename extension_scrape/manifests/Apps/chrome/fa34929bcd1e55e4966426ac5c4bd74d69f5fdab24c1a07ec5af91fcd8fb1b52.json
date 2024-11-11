@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Peakmedia Studio", "description": "Digital Signage auf Tiroler Art. Das Powertool f\u00fcr Ihre Anzeige.", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.peakmedia.at/"], "launch": {"web_url": "http://www.peakmedia.at/"}}}

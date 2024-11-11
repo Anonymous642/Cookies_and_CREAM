@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "twoply new tab", "description": "twoply new tab", "version": "1.01", "icons": {"32": "icon_32.png", "48": "icon_48.png", "128": "icon_128.png"}, "incognito": "split", "chrome_url_overrides": {"newtab": "redirect.html"}, "manifest_version": 2}

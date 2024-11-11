@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Noty", "version": "0.0.1", "description": "Note from the start", "manifest_version": 2, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{eb06724d-57a2-42cf-902e-cb322e17437e}", "strict_min_version": "42.0"}}, "chrome_url_overrides": {"newtab": "index.html"}}

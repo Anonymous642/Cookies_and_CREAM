@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WhatsUp India", "version": "1.0", "description": "Shows latest News", "permissions": ["<all_urls>"], "browser_action": {"browser_style": true, "default_title": "WhatsUp India", "default_popup": "popup.html"}}

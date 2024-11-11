@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Baby Monitor 101", "description": "Baby Monitor 101 helps you to find the best baby monitor for your needs.", "version": "1.0", "manifest_version": 2, "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.babymonitor101.com/"], "launch": {"web_url": "http://www.babymonitor101.com/"}}}

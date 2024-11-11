@@ -1,0 +1,1 @@
+{"name": "Feature Flags", "version": "0.3.0", "description": "Manage your feature flags", "manifest_version": 2, "author": "Simon de Bruijn", "browser_action": {"default_popup": "index.html", "default_title": "Feature Flags"}, "permissions": ["cookies", "tabs", "storage", "*://*/*"], "browser_specific_settings": {"gecko": {"id": "{9bbc1976-a3eb-4654-9803-60454a407075}"}}}

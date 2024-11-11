@@ -1,0 +1,1 @@
+{"browser_specific_settings": {"gecko": {"id": "Evelynreods@example.com"}}, "manifest_version": 3, "name": "ClipCzar", "version": "1.0", "description": "ClipCzar is tailored for all your web saving needs.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["bookmarks"]}

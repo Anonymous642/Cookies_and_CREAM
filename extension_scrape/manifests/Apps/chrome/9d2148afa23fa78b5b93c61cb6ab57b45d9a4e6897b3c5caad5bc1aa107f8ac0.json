@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "G-billing", "description": "Factureren vanuit Google Agenda", "version": "1", "manifest_version": 2, "app": {"urls": ["http://www.g-billing.nl/apex/f?p=gbilling"], "launch": {"web_url": "http://www.g-billing.nl"}}, "icons": {"128": "gbilling-128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "MagnaBid", "description": "Bid and find the best doctors for Cosmetic or Dental procedure .", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["HTTP://www.Magnabid.COM/"], "launch": {"web_url": "HTTP://www.magnabid.COM/"}}}

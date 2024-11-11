@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bitweb Wallet Extension", "version": "1.0", "manifest_version": 3, "description": "Light Web Wallet for Bitweb as a Chrome Extension.", "action": {"default_popup": "overlay.html", "default_title": "Bitweb Wallet", "default_icon": "img/logo.png"}, "icons": {"48": "img/icon48.png", "128": "img/icon128.png"}}

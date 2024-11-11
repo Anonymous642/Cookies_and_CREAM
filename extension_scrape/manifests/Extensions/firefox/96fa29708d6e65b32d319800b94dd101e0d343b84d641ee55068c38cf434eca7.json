@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Halloween theme", "version": "1.0", "description": "Halloween theme for GitHub", "content_scripts": [{"matches": ["*://github.com/*"], "js": ["halloween-theme.js"]}]}

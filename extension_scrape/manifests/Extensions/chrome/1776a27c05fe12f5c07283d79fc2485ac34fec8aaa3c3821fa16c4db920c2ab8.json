@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "BMW New Tab", "version": "1.0", "chrome_url_overrides": {"newtab": "sketch/index.html"}, "icons": {"16": "sketch/sources/iconsBMW/icon16.png", "48": "sketch/sources/iconsBMW/icon48.png", "128": "sketch/sources/iconsBMW/icon128.png"}}

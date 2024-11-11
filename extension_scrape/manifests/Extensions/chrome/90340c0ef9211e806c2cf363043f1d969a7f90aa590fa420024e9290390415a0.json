@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gmantrix", "description": "Gematria is easy with Gmantrix.fun", "version": "0.0.1", "icons": {"128": "images/mason-symbol.png"}, "action": {"default_popup": "index.html"}, "content_scripts": [{"matches": ["https://*/*"], "js": ["js/content.js"]}], "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "github-pr-ci-skip", "version": "0.0.5", "description": "Adds ci skip to PR title as default.", "manifest_version": 3, "background": {"service_worker": "background.js"}, "content_scripts": [{"matches": ["https://github.com/*"], "run_at": "document_start", "js": ["content.js"]}], "permissions": ["tabs"]}

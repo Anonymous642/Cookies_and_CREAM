@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Forza Inter", "minimum_chrome_version": "14", "description": "La Tv dell'Inter e le News nerazzurre in tempo reale.", "version": "1", "app": {"launch": {"web_url": "http://www.miniportale.it/app_it/inter/index.htm"}}, "icons": {"128": "icon_128.png"}, "manifest_version": 2}

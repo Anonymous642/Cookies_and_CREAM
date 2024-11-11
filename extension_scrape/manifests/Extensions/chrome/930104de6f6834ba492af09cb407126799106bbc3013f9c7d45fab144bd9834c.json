@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "CASTA", "version": "1.0", "description": "A partir de ahora palabras como LA CASTA ser\u00e1n SANGRE SUCIA. por @buronvega ", "content_scripts": [{"matches": ["*://*/*"], "js": ["getnames.js"], "run_at": "document_end"}]}

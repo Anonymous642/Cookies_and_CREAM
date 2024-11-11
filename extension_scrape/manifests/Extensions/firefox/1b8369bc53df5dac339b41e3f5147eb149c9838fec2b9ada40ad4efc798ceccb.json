@@ -1,0 +1,1 @@
+{"name": "deck_copy", "version": "200", "manifest_version": 2, "icons": {"128": "./icon.png"}, "description": "deck_copy", "content_scripts": [{"matches": ["https://tweetdeck.twitter.com/"], "js": ["index.js"], "run_at": "document_idle"}]}

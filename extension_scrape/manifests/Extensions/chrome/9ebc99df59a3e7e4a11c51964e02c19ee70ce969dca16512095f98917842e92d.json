@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Propellernet Power Plugin", "description": "Puts The Full Power of Propellernet in Your Browser", "version": "1.1", "permissions": ["contextMenus"], "icons": {"48": "icon48.jpg"}, "background": {"scripts": ["background.js"]}, "manifest_version": 2}

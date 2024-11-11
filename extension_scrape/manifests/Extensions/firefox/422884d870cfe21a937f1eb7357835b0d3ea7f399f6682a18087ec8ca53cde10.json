@@ -1,0 +1,1 @@
+{"description": "Patches the jackbox.tv page to use a custom CSS along with custom images.", "manifest_version": 2, "name": "Talking Points Modder", "version": "0.2", "permissions": ["webRequest", "webRequestBlocking", "https://jackbox.tv/"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{a0d2cf15-8099-4ae6-b7d6-a02119e4643e}"}}}

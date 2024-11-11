@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Awfulizer", "version": "1.2", "description": "Changes all of your CSS 6 times a second.", "icons": {"48": "icons/awfulizer.png"}, "browser_action": {"default_title": "Awfulizer", "default_popup": "popup/choose.html"}, "permissions": ["activeTab"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Mech Hub TimeTable", "version": "1.5.1", "description": "Google Meet link for ME-A", "browser_action": {"default_popup": "index.html"}, "offline_enabled": true, "icons": {"96": "assets/logo-96.png"}, "permissions": [], "manifest_version": 2}

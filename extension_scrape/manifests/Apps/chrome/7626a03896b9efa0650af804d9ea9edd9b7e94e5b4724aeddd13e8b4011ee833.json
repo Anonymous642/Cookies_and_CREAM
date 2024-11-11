@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "xiangzhuyuan.com", "description": "A quick way to open my offical site xiangzhuyuan.com", "version": "0.0.0.2", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"launch": {"web_url": "http://xiangzhuyuan.com/"}}}

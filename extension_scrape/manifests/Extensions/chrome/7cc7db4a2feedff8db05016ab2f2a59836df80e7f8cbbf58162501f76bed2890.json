@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab Key Indenter", "description": "Insert indent by tab key and remove indent by tab + shift key", "version": "1.2", "icons": {"128": "icon.png"}, "background": {"service_worker": "background.js"}, "permissions": ["tabs", "scripting"], "host_permissions": ["<all_urls>"]}

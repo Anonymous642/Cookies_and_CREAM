@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Vtube+ App", "description": "Vtube+ App.", "version": "1.1", "permissions": ["webview", "http://the-v.net/*", "https://the-v.net/*", "http://players.brightcove.net/*"], "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "icon16.png", "128": "icon128.png"}}

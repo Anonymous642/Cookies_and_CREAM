@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "VocabFox", "description": "A vocabulary test creation tool for teachers", "version": "0.1", "manifest_version": 2, "extension": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "favicon-16.png", "128": "favicon-128.png"}}

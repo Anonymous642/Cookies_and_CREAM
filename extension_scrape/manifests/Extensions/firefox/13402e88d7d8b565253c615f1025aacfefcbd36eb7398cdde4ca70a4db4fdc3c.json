@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "twist.mo(ngoing)e", "description": "Hide non-ongoing anime on twist.moe", "version": "1.0", "icons": {}, "content_scripts": [{"matches": ["https://twist.moe/"], "js": ["ongoing.js"]}]}

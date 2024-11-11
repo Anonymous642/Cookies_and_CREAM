@@ -1,0 +1,1 @@
+{"version": "0.0.9", "manifest_version": 2, "name": "Currency Converter", "author": "TIKAM CHAND MEGHwANSHI", "description": "Currency Converter - Converts one currency into another with one simple click.", "homepage_url": "https://www.tcmhack.in", "icons": {"128": "icon128.png"}, "browser_action": {"default_popup": "index.html"}}

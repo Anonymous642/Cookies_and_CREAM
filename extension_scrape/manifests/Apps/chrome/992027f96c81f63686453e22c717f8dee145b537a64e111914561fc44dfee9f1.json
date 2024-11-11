@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "wasthere", "description": "Check current photo of the week from WasThere.Com!", "version": "0.0.0.3", "app": {"urls": ["http://wasthere.com/"], "launch": {"web_url": "http://wasthere.com/"}}, "icons": {"128": "wtc.png"}, "permissions": []}

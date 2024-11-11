@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Modify CSS", "version": "0.0.1", "description": "Fix CSS", "content_scripts": [{"css": ["my.css"], "js": ["my.js"], "matches": ["https://www.youtube.com/*"]}]}

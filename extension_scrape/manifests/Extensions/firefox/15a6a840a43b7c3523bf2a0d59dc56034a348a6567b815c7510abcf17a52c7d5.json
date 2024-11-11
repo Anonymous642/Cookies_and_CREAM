@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "newtab.txt", "description": "the simplest damn notepad for your browser", "version": "1.1.1", "chrome_url_overrides": {"newtab": "newpage.html"}, "icons": {"128": "/images/128.png"}, "browser_specific_settings": {"gecko": {"id": "{dffa6b6b-8677-4603-880c-63225a0fc3b9}"}}}

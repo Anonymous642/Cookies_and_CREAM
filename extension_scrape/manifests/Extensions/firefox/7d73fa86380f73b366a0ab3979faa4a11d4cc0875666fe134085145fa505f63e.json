@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Videoskipper", "version": "0.1", "description": "Skips all videos", "author": "gcx11", "background": {"scripts": ["videoskipper.js"]}, "browser_action": {"default_icon": {"16": "icons/skip-16.png", "32": "icons/skip-32.png"}, "default_title": "Skip all videos"}, "permissions": ["<all_urls>", "activeTab"]}

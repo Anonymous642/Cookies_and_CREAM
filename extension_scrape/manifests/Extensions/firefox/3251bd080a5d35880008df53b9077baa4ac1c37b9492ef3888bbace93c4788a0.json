@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Kasowacz Reklam", "version": "1.3", "description": "B\u0119dzie kasowa\u0107 reklamy na poczcie", "icons": {"48": "icons/border-48.png"}, "applications": {"gecko": {"id": "{a6e84df4-63eb-4f5f-8a70-0d8b45da8739}", "strict_min_version": "42.0"}}, "content_scripts": [{"matches": ["*://poczta.interia.pl/*"], "js": ["deleter.js"]}]}

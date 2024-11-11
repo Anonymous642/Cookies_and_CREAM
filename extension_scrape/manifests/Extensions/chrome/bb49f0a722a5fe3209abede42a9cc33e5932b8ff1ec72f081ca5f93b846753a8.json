@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "short_name": "CS Quiz Application", "name": "CS Quiz Application", "permissions": [], "manifest_version": 3, "version": "1.2.0", "action": {"default_popup": "index.html", "default_title": "CS Quiz App"}}

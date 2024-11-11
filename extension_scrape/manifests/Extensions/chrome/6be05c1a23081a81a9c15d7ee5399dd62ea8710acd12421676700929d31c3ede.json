@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Automuter", "description": "Extension to Automute tabs and keep only the focused one playing sound", "version": "0.0.1", "manifest_version": 3, "background": {"service_worker": "background.js"}}

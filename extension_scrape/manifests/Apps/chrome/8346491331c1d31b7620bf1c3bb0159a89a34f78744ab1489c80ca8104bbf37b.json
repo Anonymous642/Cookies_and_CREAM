@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "app": {"launch": {"web_url": "http://whocenterpa.com"}, "urls": ["http://whocenterpa.com/"]}, "description": "World Harvest Outreach's Website", "icons": {"16": "images/icon16.gif", "48": "images/icon48.png", "128": "images/icon.png"}, "name": "World Harvest Outreach", "version": "1.1"}

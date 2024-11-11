@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "E-Search GPS", "description": "Google Search based on your location", "version": "1.0.2", "author": "Zenox Technologies", "icons": {"128": "icon_128.png"}, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab", "geolocation"]}

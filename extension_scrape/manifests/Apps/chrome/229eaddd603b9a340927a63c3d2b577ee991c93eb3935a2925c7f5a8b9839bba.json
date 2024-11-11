@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Trip calculator", "description": "It is a handy tool to do the calculation when people share a common/shared account.", "version": "3.0.1", "permissions": ["notifications"], "icons": {"16": "16x16.png", "128": "128.png"}, "app": {"launch": {"local_path": "tripCalculator.html"}}}

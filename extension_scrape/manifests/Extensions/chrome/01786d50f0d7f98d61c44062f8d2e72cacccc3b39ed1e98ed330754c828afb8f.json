@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "EditTab", "description": "Allows you to change the text on the current tab.", "version": "1.0", "permissions": ["scripting", "activeTab", "tabs"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

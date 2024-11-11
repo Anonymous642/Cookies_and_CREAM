@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Blank/Clean New Tab Page", "description": "Blank/Clean New Tab Page changes the New Tab Page (NTP) to white or black according to light or dark mode.", "version": "1", "manifest_version": 3, "chrome_url_overrides": {"newtab": "./index.html"}}

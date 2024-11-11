@@ -1,0 +1,1 @@
+{"name": "Tweakers Scroll", "version": "0.1", "description": "Tweakers Scroll", "manifest_version": 2, "permissions": ["https://*.tweakers.net/*"], "content_scripts": [{"matches": ["https://tweakers.net/*"], "run_at": "document_end", "js": ["scroll.js"], "css": ["scroll.css"]}]}

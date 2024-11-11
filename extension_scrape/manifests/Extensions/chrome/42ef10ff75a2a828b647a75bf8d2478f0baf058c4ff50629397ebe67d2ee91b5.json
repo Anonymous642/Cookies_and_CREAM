@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "School Helper", "short_name": "schoolHelper", "description": "Mathematical tools for quick help. By: Nicholas Zivkovic.", "version": "7", "icons": {"48": "icon/48.png", "128": "icon/128.png"}, "action": {"default_icon": "icon/48.png", "default_popup": "popup.html"}}

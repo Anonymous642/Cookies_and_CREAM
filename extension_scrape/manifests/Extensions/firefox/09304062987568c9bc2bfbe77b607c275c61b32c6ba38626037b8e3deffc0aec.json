@@ -1,0 +1,1 @@
+{"name": "Tweet Only", "version": "0.1", "description": "Hide Twitter timeline to give you a clean and focused space to publish your thoughts", "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["content.js"]}], "manifest_version": 2}

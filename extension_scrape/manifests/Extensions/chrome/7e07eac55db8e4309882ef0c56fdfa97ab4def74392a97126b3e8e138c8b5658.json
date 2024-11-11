@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "G\u00e9n\u00e9rateur de mot de passe", "version": "1.0.0", "manifest_version": 3, "description": "Outils pour g\u00e9n\u00e9rer des mots de passe.", "icons": {"16": "images/16.png", "32": "images/32.png", "48": "images/48.png"}, "action": {"default_popup": "index.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Shorts to Normal Video Extension", "description": "Automatically Converts YouTube Shorts to Regular Video User Interface", "version": "1.3", "icons": {"128": "128.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["main.js"]}], "permissions": []}

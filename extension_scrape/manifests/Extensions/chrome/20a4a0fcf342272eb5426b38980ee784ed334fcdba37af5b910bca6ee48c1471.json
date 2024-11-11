@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Kanjidrag", "description": "Select text, get RTK keyword/s", "version": "0.1", "manifest_version": 2, "content_scripts": [{"matches": ["https://*/*", "http://*/*"], "run_at": "document_idle", "js": ["inject.js"]}], "web_accessible_resources": ["kanjiDrag.js"], "icons": {"128": "icon128.png"}}

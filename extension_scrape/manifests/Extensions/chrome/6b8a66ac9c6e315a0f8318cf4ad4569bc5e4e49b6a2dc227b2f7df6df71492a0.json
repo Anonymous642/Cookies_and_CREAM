@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Iniciar Conversa WhatsApp (Brasil)", "version": "1.0", "description": "Inicia uma conversa no WhatsApp Web com o n\u00famero de celular digitado.", "manifest_version": 3, "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

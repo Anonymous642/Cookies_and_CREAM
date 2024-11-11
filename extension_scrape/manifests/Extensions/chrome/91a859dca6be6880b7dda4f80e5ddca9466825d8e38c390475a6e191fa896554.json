@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Qurvex Shortcuts", "version": "1.0", "description": "An extension to disable F12 opening the dev console.", "icons": {"128": "icon.ico"}, "manifest_version": 2, "content_scripts": [{"matches": ["*://*/*"], "js": ["disablefnkeys.js"]}]}

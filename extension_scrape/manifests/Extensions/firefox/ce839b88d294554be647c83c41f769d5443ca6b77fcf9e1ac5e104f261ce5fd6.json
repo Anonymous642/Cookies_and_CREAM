@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bumpless Reverb Listings", "version": "1.0", "description": "Hides the Bumped (promoted) listings from Reverb.com search results. Icon made by Freepik from www.flaticon.com", "icons": {"48": "icons/truck.png"}, "content_scripts": [{"matches": ["*://*.reverb.com/*"], "js": ["bumpless.js"]}]}

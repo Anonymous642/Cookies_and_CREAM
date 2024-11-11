@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "content_scripts": [{"css": ["contained.css"], "matches": ["*://*.bitbucket.org/*"]}], "description": "Userstyles to prevent fluid behavior of Bitbucket", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "manifest_version": 2, "name": "Bitbucket Contained", "version": "1.0.1"}

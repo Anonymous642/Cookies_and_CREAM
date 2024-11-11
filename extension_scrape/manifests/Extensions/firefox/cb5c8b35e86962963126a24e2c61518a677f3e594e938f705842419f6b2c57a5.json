@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "logicpay", "version": "0.1.6", "description": "Lateral blog post demo extension", "content_scripts": [{"css": ["styles.css"], "js": ["content.js"], "matches": ["https://logicpay.vn/*"]}], "permissions": ["clipboardWrite"]}

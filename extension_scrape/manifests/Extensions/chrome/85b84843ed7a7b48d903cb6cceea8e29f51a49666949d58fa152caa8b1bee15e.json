@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "X Link Info", "version": "1.0", "description": "Add title and description back to links in posts.", "content_scripts": [{"js": ["content.js"], "matches": ["https://*.twitter.com/*"], "run_at": "document_end"}]}

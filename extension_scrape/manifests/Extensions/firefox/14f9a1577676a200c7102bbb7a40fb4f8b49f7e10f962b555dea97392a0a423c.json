@@ -1,0 +1,1 @@
+{"name": "rimgo", "description": "Use rimgo instead of Imgur.", "version": "1.5", "manifest_version": 2, "browser_specific_settings": {"gecko_android": {}, "gecko": {"id": "{c29f5416-192d-42ab-9da0-b4a82418752b}"}}, "background": {"scripts": ["background.js"]}, "icons": {"256": "rimgo.png"}, "permissions": ["webRequest", "webRequestBlocking", "*://*.imgur.com/*"]}

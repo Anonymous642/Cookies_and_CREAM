@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Smart Open", "version": "0.1", "icons": {"48": "icons/logo.png", "96": "icons/logo@2x.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "options_ui": {"page": "options.html", "open_in_tab": true}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "smart-open@danielquinn.org"}}}

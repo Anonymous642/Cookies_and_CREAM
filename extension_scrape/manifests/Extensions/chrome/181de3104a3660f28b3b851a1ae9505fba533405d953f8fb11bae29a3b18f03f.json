@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Brain Visualization", "version": "1.4.2", "description": "Learn more about the human brain with visualizations on your new tab", "icons": {"128": "icons/icon128.png"}, "background": {"service_worker": "background.js"}, "chrome_url_overrides": {"newtab": "newTab.html"}, "manifest_version": 3}

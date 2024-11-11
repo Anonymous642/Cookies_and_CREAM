@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Inside Tasks | Task Management Tool", "version": "1.2", "description": "A New Tab page with prioritized TODO lists.", "permissions": ["storage", "chrome://favicon/*", "sessions", "tabs"], "chrome_url_overrides": {"newtab": "newTab.html"}, "manifest_version": 2}

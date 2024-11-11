@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "app": {"background": {"scripts": ["./scripts/background.js"]}}, "name": "\u840c\u3048Can\u3061\u3047\u3093\u3058!", "short_name": "\u840c\u3048Can!", "version": "1.0.1", "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "permissions": ["webview", "storage", "browser"]}

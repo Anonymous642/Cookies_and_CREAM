@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SaveAsPNG", "version": "1.0", "description": "Allows you to download any image as png", "icons": {"64": "icons/64.png"}, "permissions": ["menus", "activeTab"], "background": {"scripts": ["scripts/main.js"]}, "browser_specific_settings": {"gecko": {"id": "{009ab0a9-a329-42de-aee5-58929f250ef2}"}}}

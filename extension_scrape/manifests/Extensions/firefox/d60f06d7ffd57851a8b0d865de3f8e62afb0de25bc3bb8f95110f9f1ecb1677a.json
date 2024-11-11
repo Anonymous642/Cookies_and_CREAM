@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Nepali Patro", "version": "1.1", "description": "Nepali Patro using HamroPatro widget", "homepage_url": "https://github.com/sanghaarsha/NepaliPatroChrome", "icons": {"48": "./hamropatro.png"}, "browser_action": {"default_icon": "./hamropatro.png", "default_title": "Nepali Patro", "default_popup": "./patro.html"}}

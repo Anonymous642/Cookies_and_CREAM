@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Close Left", "version": "0.5", "manifest_version": 3, "description": "Close Left Tabs.", "icons": {"16": "close_left.png", "48": "close_left_48.png", "128": "close_left_128.png"}, "action": {"default_icon": "close_left.png", "default_title": "Close Left"}, "background": {"service_worker": "close_left.js"}}

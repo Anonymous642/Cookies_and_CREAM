@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Favoris organis\u00e9s", "version": "1.0", "description": "Affichez vos favoris dans une fen\u00eatre popup organis\u00e9e en ic\u00f4nes, 6 par ligne.", "action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["bookmarks"]}

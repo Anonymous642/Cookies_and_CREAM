@@ -1,0 +1,1 @@
+{"name": "NekaGamez", "manifest_version": 2, "version": "1.0.2", "description": "Launch games from your browser", "background": {"scripts": ["background.js"]}, "icons": {"16": "icons/iconWeb.png", "32": "icons/iconWeb.png"}, "permissions": ["tabs"], "browser_action": {"default_popup": "pop.html", "default_icon": {"16": "icons/iconWeb.png", "32": "icons/iconWeb.png"}}}

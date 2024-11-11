@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ThinkSystem SR635 and SR655 3D Tours", "version": "4", "description": "ThinkSystem SR635 and SR655 3D Tours", "icons": {"16": "chrome-icon16.png", "128": "chrome-icon.png"}, "app": {"background": {"scripts": ["background.js"]}}}

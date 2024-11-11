@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Just For Today", "description": "A Chrome Extension to help motivate people in recovery", "version": "0.1.1", "manifest_version": 3, "chrome_url_overrides": {"newtab": "./main.html"}}

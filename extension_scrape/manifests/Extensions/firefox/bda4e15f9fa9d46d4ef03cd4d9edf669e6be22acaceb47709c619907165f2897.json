@@ -1,0 +1,1 @@
+{"name": "Current Temprature", "version": "1.0.0", "desccriptions": "Current Temprature", "manifest_version": 2, "browser_action": {"default_popup": "index.html", "default_icon": "icon.jpg"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{a8f337e5-5f93-4c16-83bb-a1d3ea8a211c}"}}}

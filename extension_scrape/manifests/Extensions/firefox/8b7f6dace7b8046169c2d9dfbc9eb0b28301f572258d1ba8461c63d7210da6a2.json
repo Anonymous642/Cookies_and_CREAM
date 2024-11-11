@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "comicsansifyer", "version": "1.0", "description": "Let's make Comic Sans MS great again!", "homepage_url": "https://upscore.ch/", "content_scripts": [{"matches": ["*://*/*"], "css": ["comicsanseverywhere.css"]}]}

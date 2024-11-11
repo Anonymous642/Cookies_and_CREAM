@@ -1,0 +1,1 @@
+{"browser_specific_settings": {"gecko": {"id": "tc@commsoft-rms.com"}}, "background": {"scripts": ["main.js"]}, "name": "CommSoft URL Detector", "version": "1.0", "manifest_version": 2, "description": "Capture urls from all tabs and send it to a host application running in the user's local pc.", "permissions": ["tabs", "activeTab", "nativeMessaging"]}

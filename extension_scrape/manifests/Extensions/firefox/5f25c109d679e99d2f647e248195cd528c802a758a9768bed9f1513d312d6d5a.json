@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Binary Flipper", "version": "1.0", "description": "Converts between binary and decimal.", "permissions": [], "browser_action": {"default_icon": "thumbnail.png", "default_popup": "popup.html", "default_title": "Convert"}, "icons": {"48": "thumbnail.png"}, "browser_specific_settings": {"gecko": {"id": "{c288174b-e842-43cf-a714-6d6332516413}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "2.0", "name": "Gera Link WPP", "description": "Gera\u00e7\u00e3o de link para o whatasapp", "author": "DM softwares", "browser_action": {"default_popup": "index.html"}, "manifest_version": 2}

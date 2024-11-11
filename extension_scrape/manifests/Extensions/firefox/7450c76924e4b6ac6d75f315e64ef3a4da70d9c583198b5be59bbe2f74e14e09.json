@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Nexus Mods Archived Linker", "version": "1.0", "description": "Adds download links to mod archive pages", "content_scripts": [{"matches": ["*://www.nexusmods.com/*"], "js": ["content.js"]}], "applications": {"gecko": {"id": "nexusmodsarchived@jray.tech"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "wiktionary filter", "version": "1.0", "content_scripts": [{"matches": ["*://*.wiktionary.org/*"], "js": ["filter.js"]}], "browser_action": {"default_icon": "icons/beasts-32.png", "default_title": "Filter Wiktionary", "default_popup": "popup/filter.html"}, "permissions": ["storage"]}

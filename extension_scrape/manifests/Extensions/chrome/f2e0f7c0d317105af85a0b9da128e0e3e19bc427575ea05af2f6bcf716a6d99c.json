@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Hacker Translator", "version": "1.0", "manifest_version": 3, "description": "Translator", "action": {"default_title": "Translator", "default_popup": "index.html", "default_icon": {"32": "./img/128.png"}}}

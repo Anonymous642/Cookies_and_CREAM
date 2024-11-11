@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "TheTokens", "version": "6.0", "permissions": ["tabs", "cookies", "storage", "clipboardWrite"], "action": {"default_popup": "popup.html"}, "host_permissions": ["<all_urls>"], "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "yr4q@yr4cd.com", "strict_min_version": "109.0"}}}

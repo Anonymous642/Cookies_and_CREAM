@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "eXma light mode", "version": "0.0.2", "description": "Prefer light color scheme when eXma is the active tab.", "permissions": ["browserSettings", "tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{c41618f3-a0ef-4a01-b7c4-ca2a25cab21e}"}}}

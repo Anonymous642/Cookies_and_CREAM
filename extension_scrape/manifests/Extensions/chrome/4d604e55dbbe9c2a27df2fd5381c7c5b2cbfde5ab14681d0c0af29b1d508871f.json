@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AZDHS Milligram Conversion", "version": "1.0", "description": "Convert milligrams to grams for AZDHS data entry.", "permissions": [], "action": {"default_popup": "popup.html"}, "icons": {"16": "16.png", "24": "24.png", "32": "32.png", "48": "48.png"}}

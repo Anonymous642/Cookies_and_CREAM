@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ZoU for Chrome", "version": "0.0.3", "manifest_version": 2, "description": "Quickly creates memos on EverNote", "icons": {"128": "128.png"}, "browser_action": {"default_popup": "popup.html"}, "permissions": ["http://zou-note.appspot.com/"]}

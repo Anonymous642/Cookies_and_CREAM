@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bulkclose", "version": "1.4", "description": "Close multiple tabs by hostname, etc", "icons": {"48": "icons/i48.png", "96": "icons/i96.png"}, "permissions": ["tabs"], "browser_action": {"default_icon": "icons/i32.png", "default_title": "Bulkclose", "default_popup": "popup.html"}}

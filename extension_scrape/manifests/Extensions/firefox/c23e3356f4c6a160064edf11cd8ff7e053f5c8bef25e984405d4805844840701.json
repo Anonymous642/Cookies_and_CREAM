@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bahn Insight", "version": "0.7", "description": "Extends the booking portal of bahn.de with linking to useful information.", "homepage_url": "https://git.clerie.de/clerie/bahn-insight/", "content_scripts": [{"matches": ["*://reiseauskunft.bahn.de/*"], "js": ["js/reiseauskunft.js"]}], "web_accessible_resources": ["media/*"]}

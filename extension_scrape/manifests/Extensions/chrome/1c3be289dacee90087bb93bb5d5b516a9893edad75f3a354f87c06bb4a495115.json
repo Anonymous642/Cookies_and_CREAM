@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "InversoBot", "version": "8.1", "manifest_version": 3, "icons": {"128": "logos/logo.png"}, "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Timestamp Hover", "version": "1.0", "description": "Adds a black background to the text that appears when hovering a timestamped chapter in the youtube timeline.", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["augmenthover.js"]}]}

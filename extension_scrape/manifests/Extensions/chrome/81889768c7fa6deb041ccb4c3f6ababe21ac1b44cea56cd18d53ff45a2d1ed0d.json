@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "short_name": "PDF Magnet", "name": "PDF Magnet", "version": "2.0", "manifest_version": 3, "action": {"default_popup": "index.html", "default_title": "PDF Magnet"}, "icons": {"16": "images/16.png", "48": "images/48.png", "128": "images/128.png"}}

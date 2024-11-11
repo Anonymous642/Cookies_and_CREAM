@@ -1,0 +1,1 @@
+{"description": "Applies a fix to the Ghost Koenig editor allowing Grammarly to work properly", "manifest_version": 2, "name": "Ghost Grammarly", "version": "1.0", "icons": {"256": "icons/ghost.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/ghost.png", "default_title": "Ghost Grammarly", "default_popup": "popup/index.html"}}

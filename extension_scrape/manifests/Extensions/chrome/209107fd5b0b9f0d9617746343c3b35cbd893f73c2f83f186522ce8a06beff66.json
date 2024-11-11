@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Influence Flight Chart Zoom", "version": "1.0.3", "permissions": [], "action": {}, "content_scripts": [{"matches": ["https://game-prerelease.influenceth.io/*", "https://game.influenceth.io/*"], "js": ["src/main.js"], "css": ["src/styles.css"]}]}

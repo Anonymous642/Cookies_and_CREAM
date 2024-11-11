@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Linker", "version": "1.2", "description": "Adds a clickable # link to quickly reference any page heading", "content_scripts": [{"js": ["linker.js"], "matches": ["http://*/*", "https://*/*"]}], "icons": {"48": "icons/48.png", "96": "icons/96.png"}}

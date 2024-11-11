@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Kiran babu", "description": "kiranbabuallam", "manifest_version": 2, "version": "0.8", "app": {"background": {"scripts": ["background.js"]}}, "sockets": {"udp": {"bind": "*", "send": "*"}}, "permissions": ["system.network"], "icons": {"16": "img/icon-16.png", "128": "img/icon-128.png"}}

@@ -1,0 +1,1 @@
+{"name": "GC Popout", "version": "2.0", "description": "Popout Music for GC(Golf Lovers)", "action": {"default_title": "Popout HTML", "default_popup": "popout.html"}, "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{c5c0782c-c6ce-4f12-827b-ea422fa843e6}"}}}

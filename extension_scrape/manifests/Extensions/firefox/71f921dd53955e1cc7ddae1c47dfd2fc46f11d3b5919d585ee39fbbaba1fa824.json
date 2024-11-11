@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Absolute Value Calculator", "version": "1.0", "description": "Calculates the absolute value of a number", "icons": {"48": "icon.png"}, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{029c90e3-48f1-4f65-8cb3-3a948f890cca}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "SZL to GMD", "version": "1.0", "description": "Convert SZL to GMD", "browser_specific_settings": {"gecko": {"id": "szl-to-gmd@example.com"}}}

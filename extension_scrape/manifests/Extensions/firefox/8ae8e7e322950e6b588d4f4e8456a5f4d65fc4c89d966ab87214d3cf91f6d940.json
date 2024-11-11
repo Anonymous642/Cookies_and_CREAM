@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Declarify", "version": "1.0", "description": "Removes the clarify notification under YouTube videos.", "icons": {"48": "icons/clarify-48.jpg"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["clarify.js"]}]}

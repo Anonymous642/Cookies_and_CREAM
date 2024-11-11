@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Disables Webp", "version": "1.0", "description": "Disables WebP", "icons": {"48": "icon.png"}, "background": {"scripts": ["src/background/webpHeaders.js"]}, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "browser_specific_settings": {"gecko": {"id": "{c53e2388-2a96-4cef-b821-9ce3c9f60bf3}"}}}

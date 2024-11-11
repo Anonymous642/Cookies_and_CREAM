@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "pyroPDF - PDF Editor", "version": "0.1", "manifest_version": 2, "short_name": "Free PDF Tool", "description": "Edit PDF files, rotate, delete, extract, merge and spilt, etc.", "app": {"urls": ["http://www.pyropdf.com/"], "launch": {"web_url": "http://www.pyropdf.com/"}}, "icons": {"128": "icon.png"}}

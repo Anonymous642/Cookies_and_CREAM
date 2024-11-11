@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "pure-youtube", "author": "Fedor Urvanov", "homepage_url": "https://urvanov.ru", "version": "1.2", "description": "Removes recomendations from youtube.com", "content_scripts": [{"matches": ["https://www.youtube.com/*"], "css": ["pure-youtube.css"]}], "browser_specific_settings": {"gecko": {"id": "{3451b5f2-eb3f-44e3-b962-fb930a891f2f}"}}}

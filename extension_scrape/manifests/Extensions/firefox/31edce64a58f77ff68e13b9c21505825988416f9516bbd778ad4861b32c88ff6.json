@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Halloween GitHub Forever", "version": "1.0", "description": "Changed GitHub contribution graph to halloween all year long.", "icons": {"48": "icons/pumpkin.jpg"}, "content_scripts": [{"matches": ["*://github.com/*"], "js": ["graphTheme.js"]}], "browser_specific_settings": {"gecko": {"id": "{aadf0927-5b86-45d6-b78b-b3ff6a6058ed}"}}}

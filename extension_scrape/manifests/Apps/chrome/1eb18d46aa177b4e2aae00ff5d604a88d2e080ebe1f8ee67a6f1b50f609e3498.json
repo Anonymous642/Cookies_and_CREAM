@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Forza Napoli", "minimum_chrome_version": "14", "description": "La Tv del Napoli e le News in tempo reale.", "version": "1", "app": {"launch": {"web_url": "http://www.miniportale.it/app_it/napoli/index.htm"}}, "icons": {"128": "icon_128.png"}, "manifest_version": 2}

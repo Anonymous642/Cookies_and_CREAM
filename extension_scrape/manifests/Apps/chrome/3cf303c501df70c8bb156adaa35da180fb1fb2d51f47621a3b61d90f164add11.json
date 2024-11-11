@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "CargayGana.com", "description": "Cargas saldo en tu Celular", "version": "1.0", "icons": {"128": "128.png"}, "app": {"urls": ["https://www.cargaygana.com/"], "launch": {"web_url": "https://www.cargaygana.com/"}}, "permissions": ["unlimitedStorage", "notifications"]}

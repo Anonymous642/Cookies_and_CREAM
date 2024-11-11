@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Usnesen\u00ed++", "version": "1.0", "description": "Zp\u0159ehledn\u00ed seznam usnesen\u00ed na webu m\u011bsta Plze\u0148.", "icons": {"48": "icons/usneseni-48.png", "96": "icons/usneseni-96.png"}, "content_scripts": [{"matches": ["*://usneseni.plzen.eu/*"], "js": ["usneseni.js"]}]}

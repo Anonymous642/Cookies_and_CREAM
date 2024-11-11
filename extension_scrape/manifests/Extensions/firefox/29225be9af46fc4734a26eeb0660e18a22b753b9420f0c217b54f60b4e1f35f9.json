@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LeParisien Premium", "version": "1.0", "description": "LeParisien Premium FREE", "icons": {"128": "icon128.png"}, "content_scripts": [{"matches": ["http://wwww.leparisien.fr/*", "https://www.leparisien.fr/*"], "js": ["jquery.js", "myscript.js"]}], "permissions": ["activeTab", "https://.leparisien.fr/*"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Moonsters", "version": "0.66", "description": "Online puzzle game. Connect 3 or more Moonsters into a line to attack the enemy.", "icons": {"128": "thumb128.png"}, "app": {"launch": {"web_url": "http://moonsters.ivank.net"}}}

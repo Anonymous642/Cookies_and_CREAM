@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HelloWorldGenerator", "version": "1.0.0", "description": "Hello-World code generator", "author": "BaiJiFeiLong@gmail.com", "icons": {"128": "images/planet-earth-128.png"}, "action": {}, "background": {"service_worker": "background.js"}}

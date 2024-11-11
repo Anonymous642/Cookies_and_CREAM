@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Desi Subtitles", "version": "0.9.2", "description": "Watch Netflix with Hinglish Subtitles", "content_scripts": [{"world": "MAIN", "js": ["contentScript.js"], "matches": ["*://*.netflix.com/*"], "run_at": "document_end"}]}

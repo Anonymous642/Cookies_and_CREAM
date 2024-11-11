@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Live Dev", "version": "1.0", "description": "Automatically reload client-side assets without refreshing the page.", "icons": {"48": "icon.svg"}, "permissions": ["activeTab", "tabs"], "page_action": {"default_icon": "icon.svg", "default_title": "Live Dev", "show_matches": ["<all_urls>"]}, "background": {"scripts": ["main.js"]}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "scroll-pg", "version": "1.11", "description": "Scroll page up/down on hovered element.", "browser_specific_settings": {"gecko": {"id": "{273aaa3e-fcce-462a-bd15-911e058710bd}"}}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["scroll.js"]}]}

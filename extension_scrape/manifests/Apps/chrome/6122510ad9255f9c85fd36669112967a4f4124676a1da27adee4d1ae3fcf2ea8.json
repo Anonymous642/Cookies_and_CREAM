@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Customize Case", "description": "Customize Your Phone Case", "version": "1.0.2", "manifest_version": 2, "icons": {"128": "casecustomlogo.png"}, "app": {"urls": ["http://www.case-custom.com/", "http://case-custom.com/"], "launch": {"web_url": "http://www.case-custom.com"}}}

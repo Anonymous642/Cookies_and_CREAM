@@ -1,0 +1,1 @@
+{"name": "family fox", "manifest_version": 2, "description": "familly fox", "version": "1", "author": "Christophe Villeneuve", "icons": {"48": "icons/screen-48.png", "96": "icons/screen-96.png", "128": "icons/screen-128.png"}, "background": {"scripts": ["background/header.js"]}, "web_accessible_resources": ["resources/*"], "permissions": ["theme"]}

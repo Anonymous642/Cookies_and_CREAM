@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ChatBot_CEX", "description": "ChatGPT \ud06c\ub86c \uc775\uc2a4\ud150\uc158 V1", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "index.html"}}

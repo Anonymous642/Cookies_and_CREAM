@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "gbExtended", "version": "0.1.2", "description": "Stopgap solution to show carousel missing controls in some devices.", "content_scripts": [{"matches": ["*://*.giantbomb.com/*"], "css": ["carousel.css"]}]}

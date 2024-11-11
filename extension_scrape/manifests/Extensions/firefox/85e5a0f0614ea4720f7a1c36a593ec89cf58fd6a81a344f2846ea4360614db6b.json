@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Check Sold", "version": "1.1", "description": "search sold instances of ebay listing title", "background": {"scripts": ["background.js"]}, "permissions": ["menus"], "browser_specific_settings": {"gecko": {"id": "{6cb8b074-0eaa-4273-8ff9-cffd86d70f2e}"}}}

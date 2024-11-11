@@ -1,0 +1,1 @@
+{"name": "Dipo", "description": "Shows list of ideas to use in Dipo.", "version": "1.2", "content_scripts": [{"matches": ["https://dipo.glitch.me/*"], "css": ["style.css"]}], "web_accessible_resources": ["Icon.png"], "browser_action": {"default_title": "Dipo", "default_icon": "Icon.png", "default_popup": "popup.html"}, "manifest_version": 2, "short_name": "Dipo"}

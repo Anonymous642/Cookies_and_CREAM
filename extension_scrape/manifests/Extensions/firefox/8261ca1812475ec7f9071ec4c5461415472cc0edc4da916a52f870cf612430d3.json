@@ -1,0 +1,1 @@
+{"description": "sets reasonable defaults for web typography", "manifest_version": 2, "name": "Reasonable Typography", "version": "1.0", "homepage_url": "https://github.com/fraction/reasonable-typography", "content_scripts": [{"matches": ["<all_urls>"], "js": ["index.js"]}]}

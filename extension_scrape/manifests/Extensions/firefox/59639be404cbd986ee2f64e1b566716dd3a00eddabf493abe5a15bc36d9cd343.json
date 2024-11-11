@@ -1,0 +1,1 @@
+{"applications": {"gecko": {"id": "info@seoprof.it"}}, "manifest_version": 2, "name": "SEOProf: Strumenti SEO e Formazione", "description": "Strumenti SEO e guide formative.", "version": "0.0.1", "background": {"scripts": ["js/background.js"]}, "browser_action": {"default_icon": {"32": "icons/32.png"}}, "icons": {"128": "icons/128.png"}}

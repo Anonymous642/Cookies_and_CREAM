@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AI\u89e3\u8b80\u300a\u6613\u7d93\u300b- \u5e6b\u6211\u9078\u4e00\u5366", "version": "1.0", "description": "\u5e6b\u6211\u9078\u4e00\u5366 by aiCommentary.com", "action": {"default_icon": {"48": "icon.png"}, "default_popup": "popup.html"}, "icons": {"48": "icon.png"}}

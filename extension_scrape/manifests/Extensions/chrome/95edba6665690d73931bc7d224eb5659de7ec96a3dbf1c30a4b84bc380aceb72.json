@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "YouTmb_del", "version": "1.0.0", "manifest_version": 2, "description": "delete Youtube's Thumbnail", "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["youtube_ce_element_none.js"]}], "icons": {"16": "images/hasami16.png", "48": "images/hasami48.png", "128": "images/hasami128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "YT Mini Player Destroyer", "description": "YT Mini Player Destroyer Extension", "version": "1.0", "manifest_version": 3, "icons": {"16": "icon.png", "32": "icon.png", "48": "icon.png", "128": "icon.png"}, "content_scripts": [{"matches": ["https://*.youtube.com/*"], "js": ["content-script.js"]}]}

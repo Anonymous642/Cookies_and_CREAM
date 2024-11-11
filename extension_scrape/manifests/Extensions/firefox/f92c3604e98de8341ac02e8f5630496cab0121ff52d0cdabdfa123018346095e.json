@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Triangle Calculator", "version": "1.0", "description": "Calculates the perimeter and area of a triangle", "icons": {"48": "icon.png"}, "browser_action": {"default_icon": "icon.png", "default_title": "Triangle Calculator", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{a71d829f-970e-4621-8a87-5255cce810f1}"}}}

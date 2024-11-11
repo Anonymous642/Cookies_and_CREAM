@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Enlarge Memo on Nativecamp", "version": "1.0.0", "description": "This extension enlarges the memo section on nativecamp.", "content_scripts": [{"matches": ["https://nativecamp.net/waiting/detail/*"], "run_at": "document_end", "all_frames": true, "js": ["main.js"]}]}

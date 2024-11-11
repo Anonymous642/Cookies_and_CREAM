@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Twitter JFIF renamer", "description": "Renames downloaded .jfif files to .jpg on Twitter.", "version": "1.0.0", "permissions": ["downloads"], "optional_permissions": [], "background": {"service_worker": "background.js", "type": "module"}, "icons": {"256": "icons/256.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Random Jocker", "version": "0.1.2", "manifest_version": 2, "browser_action": {"default_popup": "popup.html", "default_icon": "JOCK_128_128.png"}, "icons": {"128": "JOCK_128_128.png"}}

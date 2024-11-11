@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Random String Generator Plugin", "description": "Generate random strings for various uses", "version": "1.0", "action": {"default_popup": "popup.html", "default_title": "Random String Generator"}, "offline_enabled": true, "icons": {"128": "icon128.png"}, "permissions": []}

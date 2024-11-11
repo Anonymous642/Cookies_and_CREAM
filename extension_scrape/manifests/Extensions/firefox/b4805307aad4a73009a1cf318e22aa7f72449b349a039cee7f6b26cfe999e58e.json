@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Milosmatic", "version": "1.0.1", "description": "Transforme todas as imagens em gifs do Ricardo Milos", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["milosmatic.js"]}]}

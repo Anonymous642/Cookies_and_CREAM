@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AtCoder Copy Button", "version": "1.0.0", "description": "Add a copy button to AtCoder problem pages", "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "content_scripts": [{"matches": ["https://atcoder.jp/contests/*/tasks/*"], "js": ["content.js"]}]}

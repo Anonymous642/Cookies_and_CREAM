@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AO3_easy_navigation", "version": "1.2", "description": "easy navigation for AO3", "content_scripts": [{"matches": ["*://*.archiveofourown.org/*"], "js": ["app.js"]}], "browser_specific_settings": {"gecko": {"id": "AO3_easy_navigation@nav"}}}

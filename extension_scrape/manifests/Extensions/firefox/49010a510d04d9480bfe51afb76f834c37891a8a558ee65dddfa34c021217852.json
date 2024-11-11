@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "autodoc-url", "version": "1.0", "description": "Auto-corrects older rustdoc pages to be `/latest/`.", "content_scripts": [{"matches": ["*://*.docs.rs/*"], "js": ["autodoc-url.js"]}], "browser_specific_settings": {"gecko": {"id": "{5d2fa63c-a1ff-4a28-bcad-ec306ff87806}"}}}

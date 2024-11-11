@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Timewatch extension", "version": "3.0", "description": "do what they don't do", "content_scripts": [{"js": ["content.js"], "matches": ["https://admin.timewatch.co.il/phaseb/po_presence.php*"]}], "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "manifest_version": 2}

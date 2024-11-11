@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NTUST ID is Not Password!!!!!", "version": "2.0", "description": "\u675c\u7d55\u53cd\u4eba\u985e\u7684\u767b\u5165", "icons": {"48": "icons/48icon.png"}, "content_scripts": [{"matches": ["*://moodle.ntust.edu.tw/*"], "js": ["moodle.js"]}, {"matches": ["*://stuinfosys.ntust.edu.tw/*"], "js": ["stuinfosys.js"], "run_at": "document_start"}]}

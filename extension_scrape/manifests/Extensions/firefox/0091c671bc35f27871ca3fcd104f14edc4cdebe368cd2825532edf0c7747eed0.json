@@ -1,0 +1,1 @@
+{"manifest_version": 2, "applications": {"gecko": {"id": "sci-hub@sci-hub.tw"}}, "name": "Pretty Sci-Hub", "description": "Remove annoying side-bar from Sci-Hub.", "version": "1.0", "content_scripts": [{"run_at": "document_end", "matches": ["*://sci-hub.tw/*", "*://sci-hub.se/*", "*://sci-hub.zone/*", "*://sci-hub.ren/*"], "js": ["main.js"]}]}

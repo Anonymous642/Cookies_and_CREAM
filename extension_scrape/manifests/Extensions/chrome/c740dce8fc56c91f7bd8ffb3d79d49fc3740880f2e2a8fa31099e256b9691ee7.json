@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Pageify", "description": "Pageify extension", "version": "1.2.0", "browser_action": {"default_icon": "favicon.png", "default_popup": "setkey.html"}, "applications": {"gecko": {"id": "pageify@pageify.be"}}, "permissions": ["activeTab", "tabs", "storage"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Storage Lock", "description": "Prevent scripts from removing Storage objects from the global scope", "version": "1.0", "content_scripts": [{"matches": ["*://*/*"], "js": ["index.js"], "all_frames": true, "run_at": "document_start"}], "author": "Douile", "homepage_url": "https://github.com/Douile/web-storage-lock"}

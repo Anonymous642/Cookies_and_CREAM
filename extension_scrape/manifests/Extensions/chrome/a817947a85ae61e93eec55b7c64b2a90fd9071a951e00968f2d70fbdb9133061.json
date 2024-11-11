@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Team Liquid New Hype", "version": "1.0", "manifest_version": 2, "description": "Colors new sidebar links red on teamliquid.net.", "content_scripts": [{"matches": ["http://www.teamliquid.net/*"], "js": ["jquery.js", "newhype.min.js"]}], "permissions": ["http://www.teamliquid.net/*"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": " Adblocker", "version": "1.0", "description": "Too Many Adds? Here is the Solution", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["blocker.js"]}, "icons": {"49": "add blocker.png"}}

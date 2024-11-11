@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Megaburn - Megaburn Official Website", "version": "1.0", "description": "Megaburn - Megaburn Official Website", "action": {"default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "permissions": ["activeTab"], "host_permissions": ["<all_urls>"]}

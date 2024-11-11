@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "LoL Build Search", "description": "__MSG_extDescription__", "default_locale": "en", "version": "1.1.1", "icons": {"16": "img/icon-16.png", "32": "img/icon-32.png", "48": "img/icon-48.png", "128": "img/icon-128.png"}, "action": {"default_popup": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{e6f9dfa6-fb0b-4235-ad18-0951c48e65e3}"}}}

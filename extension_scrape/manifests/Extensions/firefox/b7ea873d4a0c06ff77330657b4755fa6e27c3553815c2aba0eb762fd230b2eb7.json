@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "spoilerBlock", "description": "Attempt to hide sport results from youtube secondary search", "version": "1.2", "author": "isolomak", "content_scripts": [{"matches": ["https://*.youtube.com/*"], "js": ["extension.js"], "run_at": "document_start"}]}

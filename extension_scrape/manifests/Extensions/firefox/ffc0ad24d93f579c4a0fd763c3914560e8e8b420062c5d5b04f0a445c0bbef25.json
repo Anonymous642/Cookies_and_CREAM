@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Invisible pieces until moved, lichess", "version": "2.0", "description": "Makes pieces invisible until they have been moved on Lichess. Meant for playing 960 chess with an extra challenge of locating the pieces.", "content_scripts": [{"matches": ["*://lichess.org/*"], "js": ["lichess_blinduntilmove.js"], "css": ["lichess_blinduntilmove.css"]}]}

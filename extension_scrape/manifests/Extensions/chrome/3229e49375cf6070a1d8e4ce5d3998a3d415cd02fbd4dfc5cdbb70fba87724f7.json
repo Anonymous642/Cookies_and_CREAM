@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.0", "name": "iCargo Print ExtensionV2", "description": "Extension for calling the native print executable", "background": {"service_worker": "background.js"}, "permissions": ["nativeMessaging"], "externally_connectable": {"matches": ["*://*.dlh.de/*", "*://*.ibsplc.aero/*"]}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "content_scripts": [{"js": ["content.js", "subscribers.js"], "matches": ["*://*.twitch.tv/*"]}], "description": "Claim all channel point for you", "icons": {"16": "icon16.png", "32": "icon32.png", "48": "icon48.png", "128": "icon128.png"}, "manifest_version": 2, "name": "Twitch Points Bot", "version": "0.0.1"}

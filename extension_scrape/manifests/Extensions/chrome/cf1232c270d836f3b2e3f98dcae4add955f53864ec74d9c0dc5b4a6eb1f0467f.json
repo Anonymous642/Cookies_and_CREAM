@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u4f4f\u6240\u7279\u5b9a\u3057\u306a\u3044\u3067", "version": "1.1.0.1", "version_name": "\u3042\u308b\u3075\u3041", "content_scripts": [{"matches": ["*://*.google.com/*", "*://*.amazon.co.jp/*"], "css": ["css.css"]}], "manifest_version": 3}

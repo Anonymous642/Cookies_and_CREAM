@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "My IpInfo", "version": "1.0.0", "description": "What is my IpInfo?", "manifest_version": 3, "author": "NetVgr", "action": {"default_popup": "index.html", "default_title": "My IpInfo"}}

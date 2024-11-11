@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "launch": {"local_path": "ttsdemo.html"}, "description": "Demo Chrome's synthesized text-to-speech capabilities.", "icons": {"16": "16.png", "128": "128.png", "256": "256.png"}, "minimum_chrome_version": "14", "name": "BFG", "permissions": ["tts"], "version": "2.1", "manifest_version": 2}

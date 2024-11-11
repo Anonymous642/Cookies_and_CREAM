@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Discard Tab", "description": "Discard tabs to free up resources", "version": "2.1", "icons": {"48": "icon.svg"}, "background": {"scripts": ["background.js"]}, "commands": {"discard-tab-command": {"suggested_key": {"default": "Alt+U"}, "description": "Discard Current Tab"}}, "permissions": ["tabs", "contextMenus", "activeTab"]}

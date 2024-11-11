@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Soccer Quotes Extension", "version": "1.0", "description": "Displays soccer quotes when the button is clicked.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{fa35abe8-2ac9-4c98-b242-ab1110d8303d}"}}}

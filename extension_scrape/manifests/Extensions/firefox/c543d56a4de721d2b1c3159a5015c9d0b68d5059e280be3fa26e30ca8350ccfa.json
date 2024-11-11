@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hungry Snake for Chrome", "description": "OLD SCHOOL SNAKE", "version": "1.0", "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"id": "yromeqwkaqfsd@gmail.com"}}, "icons": {"256": "icons8-s_cute.png"}, "browser_action": {}, "permissions": ["storage"]}

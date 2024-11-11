@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Obfuscated Mandelbrot", "version": "1.0.0.0", "description": "Mandelbrot in Obfuscated Python -- https://preshing.com/20110926/high-resolution-mandelbrot-in-obfuscated-python/", "manifest_version": 2, "chrome_url_overrides": {"newtab": "obfuscated.html"}}

@@ -1,0 +1,1 @@
+{"description": "gvidio gdrive streaming tool", "manifest_version": 2, "name": "gvidio", "version": "1.3", "icons": {"48": "icon.png"}, "permissions": ["tabs", "cookies", "<all_urls>"], "background": {"scripts": ["background.js", "axios.min.js"]}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["gvidio.js"], "all_frames": true}]}

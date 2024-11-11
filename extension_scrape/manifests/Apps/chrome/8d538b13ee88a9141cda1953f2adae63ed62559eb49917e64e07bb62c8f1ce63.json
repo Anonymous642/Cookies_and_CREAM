@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_extName__", "description": "__MSG_extDesc__", "version": "1.0.0", "default_locale": "en", "manifest_version": 2, "app": {"urls": ["http://prayertiming.net/"], "launch": {"web_url": "http://prayertiming.net/"}}, "icons": {"128": "128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

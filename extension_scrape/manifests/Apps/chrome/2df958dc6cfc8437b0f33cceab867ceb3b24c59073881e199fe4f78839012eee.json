@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Shooterz", "description": "Shooterz 2D Game", "version": "1.0", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"128": "shooterz_128.png"}}

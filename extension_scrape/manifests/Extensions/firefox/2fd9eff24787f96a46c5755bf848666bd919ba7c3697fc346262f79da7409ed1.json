@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Calculate Height of Isosceles Triangle", "version": "1.0", "description": "A simple Chrome extension to calculate the height of an isosceles triangle.", "browser_action": {"default_popup": "index.html", "default_icon": {"48": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{6a41e7fb-f8c0-4699-a3ac-3f168597c0b7}"}}}

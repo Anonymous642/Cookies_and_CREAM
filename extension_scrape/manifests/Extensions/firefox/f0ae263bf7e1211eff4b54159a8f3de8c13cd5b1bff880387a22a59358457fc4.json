@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Rick Roll Detector", "version": "1", "description": "Detects Rick Rolls", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*", "*://youtu.be/*"], "js": ["redir.js"]}], "browser_specific_settings": {"gecko": {"id": "rrdetect@script-js.repl.co"}}}

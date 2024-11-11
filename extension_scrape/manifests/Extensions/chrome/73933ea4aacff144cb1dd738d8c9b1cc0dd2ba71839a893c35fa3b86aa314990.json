@@ -1,0 +1,1 @@
+{"content_scripts": [{"js": ["jquery.min.js", "content.js"], "matches": ["*://klix.ba/*", "*://*.klix.ba/*"], "run_at": "document_start"}], "description": "Blokiraj Klix.ba komentare i reklame", "manifest_version": 2, "name": "Klean - Klix bez distrakcija", "update_url": "https://clients2.google.com/service/update2/crx", "version": "0.1"}

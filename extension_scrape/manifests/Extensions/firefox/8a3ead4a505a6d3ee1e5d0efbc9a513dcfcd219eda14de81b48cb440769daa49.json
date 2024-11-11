@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Data Science to Bad Statistics", "version": "1.0", "description": "Replaces the text 'data science' with 'bad statistics'.", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}]}

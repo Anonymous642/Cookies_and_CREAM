@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Catch The Flea", "description": "Challenge your memory and abstraction power", "version": "0.0.0.3", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://games.boniatillo.com/catchtheflea/"], "launch": {"web_url": "http://games.boniatillo.com/catchtheflea/"}}}

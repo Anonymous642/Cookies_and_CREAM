@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HideCookiePopup", "version": "1.0", "description": "Hides Cookie Popup with right click menu action", "icons": {"48": "./icons/border-48.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["menus", "activeTab"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "All Teh Fangs", "description": "De and Re fangs urls from a webpage to your clipboard", "version": "1.0.0", "permissions": ["contextMenus", "tabs", "menus", "clipboardWrite"], "icons": {"16": "icon.png", "32": "icon32.png", "48": "icon48.png", "128": "icon128.png"}, "background": {"scripts": ["background.js"]}}

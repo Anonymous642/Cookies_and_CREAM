@@ -1,0 +1,1 @@
+{"app": {"launch": {"local_path": "/index.html"}}, "description": "Chrome\u70ed\u95e8\u5b98\u7f51\u76f4\u8fbe-\u805a\u5212\u7b97", "icons": {"16": "favicon.png", "128": "logo.png"}, "manifest_version": 2, "name": "\u805a\u5212\u7b97", "permissions": ["unlimitedStorage", "notifications"], "update_url": "https://clients2.google.com/service/update2/crx", "version": "1.2"}

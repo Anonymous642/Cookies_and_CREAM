@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Prawdziwa cena", "version": "1.0", "description": "Wyswietla prawdziwa cene wynajmu mieszkania, a nie zanizona o czynsz.", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.otodom.pl/wynajem/mieszkanie*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{41ee7c91-7767-4ceb-9353-37c3ac8b2b38}"}}}

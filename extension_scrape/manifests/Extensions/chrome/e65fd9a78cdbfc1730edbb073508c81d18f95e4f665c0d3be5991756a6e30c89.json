@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ownDictionary", "description": "Word and its meaning saver ", "version": "0.0.0.1", "manifest_version": 3, "permissions": ["storage", "activeTab", "scripting"], "action": {"default_popup": "popup.html"}, "icons": {"16": "/images/icon_16.png", "32": "/images/icon_32.png", "64": "/images/icon_64.png"}}

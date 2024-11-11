@@ -1,0 +1,1 @@
+{"applications": {"gecko": {"id": "aliexpress-url-cleaner@sur98ke.github.com"}}, "manifest_version": 2, "name": "Aliexpress URL cleaner", "version": "1.2", "description": "Cleans Aliexpress URLs for items.", "permissions": ["webRequest", "webRequestBlocking", "*://*.aliexpress.com/"], "background": {"scripts": ["background.js"]}}

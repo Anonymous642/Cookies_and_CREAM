@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Image Copier For Instsgram", "version": "1.5", "description": "Copies url of instagram image when clicked on an instagram image", "content_scripts": [{"matches": ["https://www.instagram.com/*"], "js": ["copySrc.js"]}]}

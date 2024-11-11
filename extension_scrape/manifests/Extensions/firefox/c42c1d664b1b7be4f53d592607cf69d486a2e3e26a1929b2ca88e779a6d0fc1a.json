@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Toggl Stop", "author": "Nicholas Rishel", "version": "1.1", "description": "Asks if you want to close the tab or window if a Toggl timer is running in a tab.", "icons": {"48": "tsicon48.png", "96": "tsicon96.png"}, "content_scripts": [{"matches": ["https://www.toggl.com/app/timer", "https://toggl.com/app/timer"], "js": ["toggl-stop.js"]}]}

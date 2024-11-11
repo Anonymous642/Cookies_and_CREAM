@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Hotel Almroesl", "description": "Urlaub im Landhotel und Aparthotel Almroesl in Huettschlag im Grossarltal mitten in Oesterreich", "version": "0.1", "icons": {"128": "almroesl-logo.png"}, "app": {"launch": {"web_url": "http://www.almroesl.at?utm_medium=chrome&utm_source=app"}}}

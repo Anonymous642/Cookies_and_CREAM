@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "saubereluftmitmaske", "version": "1.0.1", "description": "Adds a red border to all webpages matching saubereluftmitmaske.eu.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.saubereluftmitmaske.eu/*"], "js": ["saubereluftmitmaske.js"]}]}

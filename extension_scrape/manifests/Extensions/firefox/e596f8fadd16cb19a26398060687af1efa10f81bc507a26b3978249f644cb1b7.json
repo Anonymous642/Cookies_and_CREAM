@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Calculator Add-on", "version": "1.0", "description": "A simple add-on that performs calculations", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{a103aff7-fb26-4222-aec7-d4216112230f}"}}}

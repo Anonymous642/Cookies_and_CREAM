@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PrettierTTV", "version": "1.2.1", "description": "A prettier twitch theme.", "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "css": ["source.css"]}], "icons": {"128": "assets/pttvlogotrans128x128.png"}}

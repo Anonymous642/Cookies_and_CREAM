@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MICE-Tong", "description": "Korea MICE Informaition", "version": "1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["*://micetong.com/"], "launch": {"web_url": "http://www.micetong.com/"}}, "manifest_version": 2}

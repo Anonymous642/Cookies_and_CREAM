@@ -1,0 +1,1 @@
+{"name": "Remove StartPage Ads", "description": "Removes ads from all webpages matching startpage.com.", "manifest_version": 2, "version": "1.0.0", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.startpage.com/*"], "js": ["main.js"]}]}

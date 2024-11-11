@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "NPI", "description": "naurok.com.ua print page improvement", "version": "1.0", "manifest_version": 3, "content_scripts": [{"css": ["npi.css"], "js": ["npi.js"], "matches": ["https://naurok.com.ua/test/*/print"]}]}

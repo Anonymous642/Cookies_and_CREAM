@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quotex Shortcuts", "version": "0.3", "background.service_worker": {"persistent": false, "scripts": ["content.js"]}, "content_scripts": [{"matches": ["https://qxbroker.com/pt/trade*"], "js": ["content.js"], "css": ["style.css"]}]}

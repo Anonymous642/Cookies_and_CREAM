@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Ads Closer", "version": "1.0", "description": "Now you no need to click on the Skip Ad button. This addon will do it for you automatically. Cheers!", "icons": {"48": "closer_48x48.png", "96": "closer_1_96x96.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["closer.js"]}]}

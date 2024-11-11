@@ -1,0 +1,1 @@
+{"description": "YourLink", "manifest_version": 2, "name": "yourlink", "version": "1.0", "permissions": ["webRequest", "webRequestBlocking", "*://mylink.cloud/*"], "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"id": "yourlink@kwiius.com"}}}

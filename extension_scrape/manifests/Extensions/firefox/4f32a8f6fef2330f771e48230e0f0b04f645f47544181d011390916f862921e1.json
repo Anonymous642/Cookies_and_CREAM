@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CopyCode", "version": "1.0", "description": "Adds a copy button to all code regions on all websites.", "icons": {}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["copy_code.js"]}], "browser_specific_settings": {"gecko": {"id": "{43e83ab5-c27e-4397-9e8f-0e0a5fda10ed}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Brandon Sun Free", "version": "1.0", "description": "Removes the paywall for all Brandon Sun articles.", "icons": {"48": "icons/icon.ico"}, "content_scripts": [{"matches": ["*://*.brandonsun.com/*"], "js": ["bypass.js"]}]}

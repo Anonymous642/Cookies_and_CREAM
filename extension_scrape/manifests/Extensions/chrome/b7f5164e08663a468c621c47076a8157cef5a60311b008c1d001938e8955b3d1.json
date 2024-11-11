@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GO-Global", "version": "4.8.1.20079", "manifest_version": 2, "icons": {"48": "icon48.png", "128": "icon128.png"}, "description": "GO-Global browser plug-in.", "plugins": [{"path": "npg4.dll", "public": true}, {"path": "libgoplugin.so", "public": true}]}

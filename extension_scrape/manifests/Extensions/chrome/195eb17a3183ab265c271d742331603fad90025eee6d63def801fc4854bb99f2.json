@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Kanye Quotes", "version": "1.0.0", "description": "Generates a random Kanye West quote.", "manifest_version": 3, "author": "Will Franklyn", "action": {"default_popup": "index.html", "default_title": "Kanye Quotes"}}

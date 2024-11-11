@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Zoom Auto Close", "description": "Automatically close zoom meeting launch tabs.", "homepage_url": "https://github.com/dump247/auto-close-zoom", "version": "1.0", "permissions": ["https://*.zoom.us/*"], "background": {"scripts": ["auto-close-zoom.js"]}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Clear Google Meet Hand Raise Icon", "version": "1.0", "description": "Change the Google Meet Hand Raise Icon to an Emoji", "manifest_version": 3, "content_scripts": [{"matches": ["https://meet.google.com/*"], "js": ["content.js"]}]}

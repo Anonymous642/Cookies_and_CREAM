@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Talishar FAB Japanese Card Translator", "version": "0.0.3", "web_accessible_resources": [{"resources": ["images/*.png"], "matches": ["https://talishar.net/*"]}], "content_scripts": [{"matches": ["https://talishar.net/*"], "js": ["dict.js", "content.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "github hide banner", "version": "1.0", "description": "Hides GitHub Signup banner for each repository.", "content_scripts": [{"matches": ["*://github.com/*"], "js": ["app.js"]}]}

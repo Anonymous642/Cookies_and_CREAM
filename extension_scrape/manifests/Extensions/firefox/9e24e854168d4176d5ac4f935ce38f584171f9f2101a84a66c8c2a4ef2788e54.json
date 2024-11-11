@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NEU Dark Mode", "version": "1.1", "description": "Make the NEU College Dashboard dark mode", "content_scripts": [{"matches": ["*://college.neu.edu.ph/*"], "css": ["style.css"]}], "browser_specific_settings": {"gecko": {"id": "{5da6470d-eed5-4d3a-bd6f-e70fa0d6671e}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Europeana: Guess Who?", "version": "1.0.0", "icons": {"128": "icon_128.png"}, "description": "Europeans quiz!made with http://europeana.eu", "app": {"background": {"scripts": ["main.js"]}}, "permissions": ["http://*.europeana.eu/api/", "http://europeanastatic.eu/api/", "storage"]}

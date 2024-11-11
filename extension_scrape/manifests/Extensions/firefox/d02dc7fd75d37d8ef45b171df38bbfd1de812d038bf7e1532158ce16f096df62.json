@@ -1,0 +1,1 @@
+{"name": "Earth Images", "description": "New tab page that displays pictures from r/earthporn", "version": "0.2", "chrome_url_overrides": {"newtab": "earth.html"}, "manifest_version": 2}

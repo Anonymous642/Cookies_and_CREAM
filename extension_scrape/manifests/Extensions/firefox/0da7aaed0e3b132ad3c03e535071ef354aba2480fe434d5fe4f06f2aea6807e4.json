@@ -1,0 +1,1 @@
+{"content_scripts": [{"all_frames": true, "js": ["blocker.js"], "matches": ["<all_urls>"], "run_at": "document_start"}], "description": "Prevents from autoplay HTML5 video", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "manifest_version": 2, "name": "Video Autoplay Blocker", "short_name": "Video Autoplay Blocker", "version": "1.0"}

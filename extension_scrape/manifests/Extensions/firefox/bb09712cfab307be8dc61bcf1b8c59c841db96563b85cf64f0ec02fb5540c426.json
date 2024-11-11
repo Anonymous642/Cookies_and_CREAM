@@ -1,0 +1,1 @@
+{"name": "FA Notes Saver", "version": "1.0.0", "content_scripts": [{"run_at": "document_start", "matches": ["*://*.furaffinity.net/*"], "js": ["content.js"]}], "manifest_version": 2}

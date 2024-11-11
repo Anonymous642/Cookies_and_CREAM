@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ome duo studieschuld resetter", "version": "1.0", "description": "Schrik je ook altijd zo van je studieschuld als je belangrijke zaken moet doen zoals het aanzetten van extra maximaal lenen? Dan bied deze plugin uitkomst!", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://mijn.duo.nl/*"], "js": ["app.js"]}]}

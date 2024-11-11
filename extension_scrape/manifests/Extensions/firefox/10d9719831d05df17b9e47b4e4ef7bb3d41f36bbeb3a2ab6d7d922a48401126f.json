@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "hacker_news_night_mode", "description": "Theme news.ycombinator.com with a darker (night mode) theme", "version": "1.1.2", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://news.ycombinator.com/*"], "css": ["data/hackernews.css"], "js": ["data/hackernews.js"]}]}

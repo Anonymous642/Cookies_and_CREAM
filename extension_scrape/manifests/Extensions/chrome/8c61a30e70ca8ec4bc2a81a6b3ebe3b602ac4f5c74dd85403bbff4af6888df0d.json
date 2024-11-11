@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mercado Livre Ad Inspect", "description": "Obt\u00e9m detalhes de um an\u00fancio do Mercado Livre.", "version": "0.0.3", "author": "Thiago B. Bittencourt", "content_scripts": [{"matches": ["https://*.mercadolivre.com.br/*"], "css": ["style.css"], "js": ["main.js"]}]}

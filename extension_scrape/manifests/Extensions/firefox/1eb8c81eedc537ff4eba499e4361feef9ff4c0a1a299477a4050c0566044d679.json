@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ShowSpoilers", "version": "1.0.3", "description": "If active show all Spoilers in Forumla", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.forumla.de/*"], "js": ["content_scripts/main.js"]}], "options_ui": {"page": "options/options.html"}, "permissions": ["browsingData", "notifications", "storage"]}

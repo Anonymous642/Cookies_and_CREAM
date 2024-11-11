@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://davidleeedtech.org/"], "launch": {"web_url": "http://davidleeedtech.org/"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Link to David Lee EdTech website", "name": "David Lee EdTech app", "permissions": ["unlimitedStorage", "notifications"], "icons": {"128": "128.png"}, "manifest_version": 2, "version": "1.1"}

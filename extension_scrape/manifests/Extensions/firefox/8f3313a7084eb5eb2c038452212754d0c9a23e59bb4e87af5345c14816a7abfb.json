@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Homepage Newtabs", "version": "1.0", "description": "Youtube homepage links open in new tab", "permissions": [], "content_scripts": [{"matches": ["https://www.youtube.com/"], "js": ["content-script.js"]}], "browser_specific_settings": {"gecko": {"id": "Youtube-Homepage-Newtabs@1.0"}}}

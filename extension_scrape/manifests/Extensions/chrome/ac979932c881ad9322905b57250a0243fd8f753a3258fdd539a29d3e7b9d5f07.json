@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "VRC Central", "description": "An extension of RobotEvent's stats!", "version": "1.0", "action": {"default_popup": "index.html", "default_icon": "vrc-central.png"}, "content_scripts": [{"js": ["scripts/content.js"], "matches": ["https://www.robotevents.com/teams/VRC/*"]}]}

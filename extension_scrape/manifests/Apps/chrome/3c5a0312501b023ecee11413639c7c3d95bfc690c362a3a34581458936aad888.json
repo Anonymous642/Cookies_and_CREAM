@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Haiku Deck", "description": "The fastest and easiest way to create beautiful presentations for work, classroom, and more.", "manifest_version": 2, "version": "2.0", "app": {"urls": ["https://www.haikudeck.com/"], "launch": {"web_url": "https://www.haikudeck.com/"}}, "icons": {"128": "icon_128.png"}}

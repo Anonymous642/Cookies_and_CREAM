@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Show Me My Tech News", "description": "Exciting tech news every time you open a new tab", "version": "0.2", "icons": {"16": "icons/16 SMMT.png", "48": "icons/48 SMMT.png", "128": "icons/128 SMMT.png"}, "chrome_url_overrides": {"newtab": "new_tab.html"}}

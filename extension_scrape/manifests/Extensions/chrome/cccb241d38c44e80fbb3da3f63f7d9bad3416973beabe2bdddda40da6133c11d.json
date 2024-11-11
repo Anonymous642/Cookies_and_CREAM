@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "PocketMate", "version": "1.0.0", "description": "PocketMate is a simple app to practice chess", "manifest_version": 3, "author": "Eli Deel", "action": {"default_popup": "index.html", "default_title": "PocketMate"}}

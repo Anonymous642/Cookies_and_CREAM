@@ -1,0 +1,1 @@
+{"description": "Toggle Proxy", "manifest_version": 2, "name": "Toggle Proxy", "version": "1.1", "permissions": ["storage", "proxy", "<all_urls>", "webRequest", "webRequestBlocking"], "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"id": "info@speed-vpn.com", "strict_min_version": "60.0"}}, "browser_action": {"default_icon": {"16": "icons/disabled.png"}}}

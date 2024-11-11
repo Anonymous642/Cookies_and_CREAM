@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "bandcamp-killer-1.0", "version": "1.0", "description": "Kills Bandcamp. No, seriously, it just adds a link for unrestricted access to every album page.", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.bandcamp.com/album/*"], "js": ["kill-bandcamp.js"]}]}

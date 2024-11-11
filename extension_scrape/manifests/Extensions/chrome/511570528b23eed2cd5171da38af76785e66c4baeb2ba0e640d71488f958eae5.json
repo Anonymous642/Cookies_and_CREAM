@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Time Viewer and UNIX time generator - uTiCh", "version": "2.1", "manifest_version": 3, "description": "Check UTC Time and Local Time Offset. Generate and convert Epoch/UNIX timestamp", "action": {"default_icon": "uTiCh.png", "default_title": "uTimeChecker", "default_popup": "timer.htm"}, "permissions": []}

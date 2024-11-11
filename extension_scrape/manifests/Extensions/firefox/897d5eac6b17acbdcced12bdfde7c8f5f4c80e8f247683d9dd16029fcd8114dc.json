@@ -1,0 +1,1 @@
+{"browser_specific_settings": {"gecko": {"id": "dict-ia@dictionaries.addons.mozilla.org"}}, "manifest_version": 2, "name": "Interlingua - Dictionario orthographic", "description": "Dictionario de Interlingua pro controlo de orthographia in applicationes de Mozilla.", "version": "2023.12.10", "author": "Artek Dzia\u0142ek", "dictionaries": {"ia": "dictionaries/ia.dic"}}

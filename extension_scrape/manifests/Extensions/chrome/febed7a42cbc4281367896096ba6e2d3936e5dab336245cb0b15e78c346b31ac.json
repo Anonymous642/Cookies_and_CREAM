@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "speakingaccent_extension", "version": "1.0", "description": "This is a speakingaccent chrome extension", "browser_action": {"default_popup": "index.html", "default_icon": "/icons/Icon-192.png", "default_title": "Speakingaccent Extension"}, "manifest_version": 2, "sandbox": {"pages": ["sandbox.html"]}}

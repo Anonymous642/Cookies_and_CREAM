@@ -1,0 +1,1 @@
+{"name": "NB Detector", "version": "1.0.4", "description": "Detect the authenticity of a website.", "manifest_version": 2, "browser_action": {"default_icon": "images/nb-blue-64.png", "default_popup": "popup.html"}, "background": {"scripts": ["sw.js"]}, "permissions": ["activeTab", "alarms", "cookies", "tabs", "https://nb-detector.network-box.eu/*"]}

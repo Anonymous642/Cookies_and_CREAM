@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Akamai Detector", "version": "0.4", "description": "Indicates when a site is being accessed via Akamai.", "background": {"page": "background.html"}, "permissions": ["<all_urls>", "dns", "tabs", "webRequest", "webRequestBlocking"], "browser_action": {"default_icon": "icons/black.png"}}

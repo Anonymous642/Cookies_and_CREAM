@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "polniypi", "version": "0.1.4", "manifest_version": 2, "icons": {"16": "16.png", "48": "48.png", "128": "128.png"}, "description": "polniypi", "app": {"launch": {"web_url": "http://pi-online.ru/lp?ref=132"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Influence Flight Chart Zoom", "version": "1.0.3", "permissions": [], "content_scripts": [{"matches": ["https://game-prerelease.influenceth.io/*", "https://game.influenceth.io/*"], "js": ["src/main.js"], "css": ["src/styles.css"]}], "browser_specific_settings": {"gecko": {"id": "InfluenceFlightChartZoom@v1", "strict_min_version": "42.0"}}}

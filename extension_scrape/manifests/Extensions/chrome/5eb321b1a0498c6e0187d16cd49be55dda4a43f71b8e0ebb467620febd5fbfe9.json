@@ -1,0 +1,1 @@
+{"content_scripts": [{"js": ["worker.js"], "matches": ["<all_urls>"]}], "icons": {"128": "128.png"}, "manifest_version": 2, "name": "Medidas Standard a Metricas", "update_url": "https://clients2.google.com/service/update2/crx", "version": "1"}

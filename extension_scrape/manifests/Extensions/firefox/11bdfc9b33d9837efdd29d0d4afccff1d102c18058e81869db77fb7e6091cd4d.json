@@ -1,0 +1,1 @@
+{"name": "Jade New Tab", "version": "0.0.2", "manifest_version": 2, "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["storage"], "description": "Jade Software's new tab page", "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{1420e3b5-f797-4d4f-a03e-fa35bf984f46}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AdHole", "version": "1.0", "description": "Attempts to delete promoted in-line ad content within the old.reddit.com document object model.", "icons": {"48": "art/adhole.png", "96": "art/adhole96.png"}, "content_scripts": [{"matches": ["*://old.reddit.com/*"], "js": ["/js/adhole.js"]}]}

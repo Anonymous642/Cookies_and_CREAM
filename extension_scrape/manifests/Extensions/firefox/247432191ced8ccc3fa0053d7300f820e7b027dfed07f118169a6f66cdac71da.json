@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "feefees_fixer", "version": "1.0", "description": "Removes the views count from twitter.", "icons": {"48": "icon/sad_seel.jpg"}, "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["feefees_fixer.js"]}], "browser_specific_settings": {"gecko": {"id": "{d2f50d95-caad-4e7c-9de8-b5afe1908e88}"}}}

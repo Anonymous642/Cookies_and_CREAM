@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Twitter Media Only Toggle", "version": "0.6.0", "description": "Add a button on twitter home that shows media only tweets.", "content_scripts": [{"js": ["content.js"], "matches": ["https://twitter.com/*"]}]}

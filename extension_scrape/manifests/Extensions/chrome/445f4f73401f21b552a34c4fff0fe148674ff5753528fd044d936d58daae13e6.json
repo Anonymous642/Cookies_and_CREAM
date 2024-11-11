@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Alteryx Community Dark Mode", "description": "Makes the Alteryx Community dark", "version": "0.1.1.2", "icons": {"16": "Logo.png", "48": "Logo.png", "128": "Logo.png"}, "manifest_version": 3, "content_scripts": [{"css": ["test.css"], "matches": ["https://community.alteryx.com/*"]}]}

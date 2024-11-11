@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mizaru", "description": "Toggle Jira ticket comment visibility", "version": "2.0", "action": {"default_icon": "images/monkey.png"}, "background": {"service_worker": "background.js"}, "host_permissions": ["https://*.atlassian.net/*"], "permissions": ["scripting", "tabs"]}

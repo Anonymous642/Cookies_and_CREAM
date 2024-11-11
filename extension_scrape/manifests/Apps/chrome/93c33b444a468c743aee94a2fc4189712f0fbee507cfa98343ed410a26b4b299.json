@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Computorium", "version": "0.1", "manifest_version": 2, "description": "iPhone reparatie, iPad reparatie en Samsung galaxy reparatie service in Rotterdam", "app": {"urls": ["http://computorium.nl/"], "launch": {"web_url": "http://computorium.nl/"}}, "icons": {"128": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u305f\u3044\u3088\u3046\u65bd\u8a2d\u9577\u4f11\u307f\u78ba\u8a8d", "version": "1.0.0", "manifest_version": 3, "description": "\u65bd\u8a2d\u9577\u306e\u51fa\u52e4\u72b6\u6cc1\u78ba\u8a8d", "content_scripts": [{"matches": ["https://s3.kingtime.jp/admin/*"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.0", "description": "A test extension from webext-generator.", "name": "dotah-salew-raill", "browser_specific_settings": {"gecko": {"id": "{aa6cd532-1c6f-4dd6-a61d-e6dbfd0cbd8a}"}}}

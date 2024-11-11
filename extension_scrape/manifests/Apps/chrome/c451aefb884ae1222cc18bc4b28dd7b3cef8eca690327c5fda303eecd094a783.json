@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Daily Bible Verse", "version": "1.1", "manifest_version": 2, "description": "Read Verse from Holy Bible. Everyday. For Free.", "icons": {"128": "128.png"}, "app": {"urls": ["http://terikehkeloonga.com/bible.php"], "launch": {"web_url": "http://terikehkeloonga.com/bible.php", "container": "tab"}}}

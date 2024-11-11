@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "cfLikeDislike", "description": "allow user to like or dislike a problem on codeforces", "version": "0.0.2", "manifest_version": 3, "icons": {"64": "icon64.png", "128": "icon128.png"}, "content_scripts": [{"matches": ["https://codeforces.com/problemset*"], "js": ["contentScript.js"]}]}

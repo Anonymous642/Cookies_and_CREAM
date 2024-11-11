@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ouo.io ouo.press autoclick", "description": "Automatically click the \u201cCaptcha\u201d and Download buttons on ouo.io and ouo.press.", "version": "1.0.0", "content_scripts": [{"matches": ["https://ouo.io/*", "https://ouo.press/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{31ea3db6-d731-469a-b159-ca0a936d96a3}"}}}

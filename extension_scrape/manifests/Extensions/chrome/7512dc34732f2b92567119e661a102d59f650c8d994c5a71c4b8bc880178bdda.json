@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Dynafood Chrome Extension", "description": "Providing Dynafood features in Chrome Web browser", "version": "1.4", "manifest_version": 3, "action": {"default_popup": "src/popup/index.html"}, "permissions": []}

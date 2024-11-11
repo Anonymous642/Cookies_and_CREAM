@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bookmarks", "description": "Bookmarks - categorizing the web.", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "BookmarksIcon128.png"}, "app": {"urls": ["http://the-bookmarks.appspot.com/"], "launch": {"web_url": "http://the-bookmarks.appspot.com/"}}}

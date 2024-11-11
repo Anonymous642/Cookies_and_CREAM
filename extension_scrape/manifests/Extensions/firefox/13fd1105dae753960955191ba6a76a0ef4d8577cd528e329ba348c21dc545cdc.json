@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Tiger", "version": "1.3", "description": "Tiger.ch als Startseite einrichten", "icons": {"32": "icon32.png", "96": "icon96.png", "128": "icon128.png"}, "browser_specific_settings": {"gecko": {"id": "{93d63ac6-42dc-477e-aeb8-1839edde9079}"}}, "chrome_settings_overrides": {"homepage": "https://tiger.ch"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "GlastBoy's Extension", "description": "Vous informe quand GlastBoy est en live !", "version": "2.0", "browser_action": {"default_popup": "index.html"}, "icons": {"64": "icon_64.png"}, "background": {"scripts": ["background.js"]}}

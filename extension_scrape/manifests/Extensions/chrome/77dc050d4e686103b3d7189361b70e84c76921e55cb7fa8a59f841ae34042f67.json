@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "OFES Form Autofill", "version": "1.1.1", "description": "Auto-fills OFES, created by shin", "content_scripts": [{"matches": ["https://ofes.feutech.edu.ph/ofes/dashboard/evaluate/*"], "js": ["content.js"]}], "icons": {"16": "ofes.png", "48": "ofes.png", "128": "ofes.png"}}

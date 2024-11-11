@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mini LastFM", "version": "1.0", "description": "Shows the selected user's scrobbles for the day.", "icons": {"48": "icons/icon-48.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/icon-48.png", "default_title": "Mini LastFM", "default_popup": "popup/index.html"}}

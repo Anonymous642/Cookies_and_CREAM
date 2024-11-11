@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "DuckDuckFree Tab", "description": "Revamp your Chrome new tab with DuckDuckFree Tab.", "version": "1.1", "manifest_version": 3, "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"128": "128image.png"}, "background": {"service_worker": "background.js"}, "permissions": ["storage"]}

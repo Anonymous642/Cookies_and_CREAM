@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Siriz Apps", "description": "Simplified Collaborative Financial Solutions for Personal & Small Businesses.", "version": "1.0.0.0", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.sirizapps.com/"], "launch": {"web_url": "http://www.sirizapps.com/"}}}

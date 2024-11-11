@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Blu-ray.com Deals Enhancer", "version": "0.1", "permissions": ["tabs", "activeTab"], "background": {"scripts": ["background.js"]}, "content_scripts": [{"matches": ["http://www.blu-ray.com/movies/*/"], "js": ["jquery-3.1.1.min.js", "content.js"]}], "browser_action": {"default_icon": "icon.png"}}

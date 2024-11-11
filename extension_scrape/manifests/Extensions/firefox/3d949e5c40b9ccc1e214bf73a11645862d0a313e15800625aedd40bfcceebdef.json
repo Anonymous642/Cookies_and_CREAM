@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\u7d20\u7a97", "description": "\u9ed1\u767d\u98ce\u683c\u7684\u7d20\u96c5\u65b0\u7a97\u53e3", "version": "1.3", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"48": "logo-48.png", "128": "logo-128.png"}, "browser_specific_settings": {"gecko": {"id": "bimohxh@gmail.com", "strict_min_version": "42.0"}}}

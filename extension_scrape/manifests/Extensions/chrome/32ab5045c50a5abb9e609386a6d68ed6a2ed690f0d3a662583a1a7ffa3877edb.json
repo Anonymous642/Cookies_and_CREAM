@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Force Scrollbars", "description": "Force homepage scrollbars", "version": "1.1", "browser_action": {"default_icon": "icon.png"}, "background": {"scripts": ["trigger.js"], "persistent": false}, "permissions": ["activeTab"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "EZTV Tools", "version": "1.0", "description": "Various tools for eztv.ag", "author": "Victor A. Santos", "content_scripts": [{"matches": ["http://eztv.ag/*", "https://eztv.ag/*"], "js": ["tools.js"], "run_at": "document_end"}]}

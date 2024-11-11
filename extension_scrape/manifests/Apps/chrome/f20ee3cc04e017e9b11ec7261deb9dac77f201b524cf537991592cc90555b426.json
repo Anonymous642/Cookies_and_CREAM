@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Competitive Cyclist", "description": "The nation's leading retailer of pro-caliber cycling goods.", "version": "1.1.5", "app": {"urls": ["http://www.competitivecyclist.com/"], "launch": {"web_url": "http://www.competitivecyclist.com/?cmp_id=cwscc"}}, "icons": {"128": "icon_128.png"}}

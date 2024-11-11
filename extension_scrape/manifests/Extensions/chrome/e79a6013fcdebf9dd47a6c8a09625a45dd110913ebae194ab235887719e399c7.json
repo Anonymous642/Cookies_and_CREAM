@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WELET PLUS PRO", "description": "WELET PLUS PRO", "version": "1.0.1", "manifest_version": 3, "action": {"default_icon": "images/launcher_foreground.png", "default_title": "WELET PLUS PRO", "default_popup": "KR/dispatcher.html"}, "permissions": ["unlimitedStorage"]}

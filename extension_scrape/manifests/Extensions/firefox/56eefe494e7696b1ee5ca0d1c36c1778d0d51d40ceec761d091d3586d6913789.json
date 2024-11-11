@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "XKCD Alt Text Display", "version": "1.1", "description": "Displays the alt text below the XKCD comic just like in the mobile version of XKCD.com. Click (alt-text) to display the text.", "icons": {"48": "icons/alt-text-48.png", "96": "icons/alt-text-96.png"}, "content_scripts": [{"matches": ["*://*.xkcd.com/*"], "js": ["xkcdAltTextDisplay.js"]}]}

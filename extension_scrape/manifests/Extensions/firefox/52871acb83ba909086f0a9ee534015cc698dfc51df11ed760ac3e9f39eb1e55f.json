@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hide rym ratings", "version": "1.0.1", "description": "Hides RateYourMusic ratings.", "icons": {"48": "icons/sonemic-512.png"}, "content_scripts": [{"matches": ["*://*.rateyourmusic.com/*"], "css": ["style.css"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{e9415306-54f1-4461-b926-67f5ccd22702}"}}}

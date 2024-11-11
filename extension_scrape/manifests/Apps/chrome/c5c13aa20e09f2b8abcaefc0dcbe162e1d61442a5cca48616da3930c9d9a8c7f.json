@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "JayWalking", "description": "Don't Be Chicken, You Must Escape!!", "version": "1", "manifest_version": 2, "app": {"urls": ["http://www.nailbuster.com/games/jaywalk/"], "launch": {"web_url": "http://www.nailbuster.com/games/jaywalk/"}}, "icons": {"128": "icon_128.png"}, "permissions": ["unlimitedStorage"]}

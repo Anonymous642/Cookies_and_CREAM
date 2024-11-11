@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "IEP Writer", "description": "IEP and Provision Map writing", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.provisionmap.co.uk/", "https://edukey.co.uk/iep/"], "launch": {"web_url": "http://www.provisionmap.co.uk/"}}}

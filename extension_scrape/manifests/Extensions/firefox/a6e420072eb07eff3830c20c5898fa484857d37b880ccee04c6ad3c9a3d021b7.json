@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SlaTeX", "version": "1", "description": "LaTeX support for Slack", "content_scripts": [{"matches": ["*://*.slack.com/*"], "js": ["slatex.js"]}], "web_accessible_resources": ["katex/*", "slatexer.js"]}

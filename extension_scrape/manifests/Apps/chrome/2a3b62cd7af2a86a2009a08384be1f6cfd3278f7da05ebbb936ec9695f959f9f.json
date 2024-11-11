@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Manchester United", "description": "Manchester United Fixtures and Results - OFFICIAL", "version": "1.2", "manifest_version": 3, "icons": {"128": "manchester_united_128.png"}, "app": {"urls": ["https://axlg.com.ar/manchester_united.php"], "launch": {"web_url": "https://axlg.com.ar/manchester_united.php"}}}

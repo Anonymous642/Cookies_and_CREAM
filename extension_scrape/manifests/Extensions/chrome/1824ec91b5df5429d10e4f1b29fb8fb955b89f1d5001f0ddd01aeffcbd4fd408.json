@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "NextCall.xyz", "description": "A chrome extension to join upcoming calls in one click.", "version": "0.0.0.3", "browser_action": {"default_title": "NextCall", "default_popup": "index.html"}, "permissions": ["storage"], "icons": {"16": "16.png", "48": "48.png", "128": "128.png"}}

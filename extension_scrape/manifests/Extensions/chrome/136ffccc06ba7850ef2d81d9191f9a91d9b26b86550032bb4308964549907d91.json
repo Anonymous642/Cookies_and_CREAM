@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Ratty Menu Extension", "description": "This provides easy access to the ratty menu.", "version": "1.0", "browser_action": {"default_icon": "cheese.png", "default_popup": "popup.html"}, "permissions": ["activeTab"]}

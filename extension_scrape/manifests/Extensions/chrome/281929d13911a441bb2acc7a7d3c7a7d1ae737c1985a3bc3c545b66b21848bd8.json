@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Lezlee's BlockStacker", "version": "0.002", "action": {"default_popup": "tetris.html", "default_icon": "icon128.png"}, "description": "A relaxing game of tetris with a slight twist", "icons": {"48": "tetris48.png"}}

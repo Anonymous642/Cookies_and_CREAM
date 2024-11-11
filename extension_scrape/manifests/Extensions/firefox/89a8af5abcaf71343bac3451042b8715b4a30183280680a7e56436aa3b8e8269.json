@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Translate", "version": "1.0", "description": "Google Translate", "icons": {"48": "translate.png"}, "browser_action": {"default_icon": "translate.png", "default_title": "Google Translate", "default_popup": "translate.html"}, "browser_specific_settings": {"gecko": {"id": "{8470f10c-72fe-49b3-bc7f-220482fc3d0c}"}}}

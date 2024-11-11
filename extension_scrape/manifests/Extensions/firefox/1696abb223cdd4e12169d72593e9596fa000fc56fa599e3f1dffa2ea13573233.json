@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "KeyNavigator", "version": "1.0", "icons": {"32": "KeyNav32.png", "64": "KeyNav64.png"}, "omnibox": {"keyword": "kn"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["func.js"], "css": ["css.css"]}], "background": {"scripts": ["background.js"]}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ur-card-fixer", "version": "1.3", "content_scripts": [{"matches": ["https://www.urban-rivals.com/*"], "css": ["some.css"]}]}

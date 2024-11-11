@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Jungle Jump", "description": "Play Jungle Jump on Google Chrome... Online or offline!", "version": "1", "manifest_version": 2, "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "junglejumplogo_16.png", "24": "junglejumplogo_24.png", "128": "junglejumplogo_128.png"}}

@@ -1,0 +1,1 @@
+{"name": "Block Twitter Shit App", "version": "1.1", "description": "We need Web \"Client\", not the fucking \"App\".", "manifest_version": 2, "background": {"scripts": ["background.js"], "persistent": true}, "permissions": ["webRequest", "webRequestBlocking", "*://*.twitter.com/"]}

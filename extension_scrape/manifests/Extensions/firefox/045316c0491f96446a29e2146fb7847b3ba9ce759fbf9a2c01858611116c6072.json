@@ -1,0 +1,1 @@
+{"name": "Search Selection", "description": "Search for selected word in popular search Engines", "version": "1.0", "manifest_version": 2, "permissions": ["contextMenus"], "background": {"scripts": ["bg.js"]}}

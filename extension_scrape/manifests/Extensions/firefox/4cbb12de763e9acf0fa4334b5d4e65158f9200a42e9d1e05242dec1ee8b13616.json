@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Alfred Tab Switch", "description": "Quickly switch between tabs using Alfred", "version": "0.1.0", "permissions": ["nativeMessaging", "tabs"], "background": {"scripts": ["background.js"], "persistent": false}, "icons": {"48": "icon.png"}, "applications": {"gecko": {"id": "alfredtabswitch@25.wf"}}}

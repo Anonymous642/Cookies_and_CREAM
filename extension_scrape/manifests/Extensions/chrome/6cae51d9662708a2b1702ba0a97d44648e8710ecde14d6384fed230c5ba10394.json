@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "request block", "version": "0.2", "declarative_net_request": {"rule_resources": [{"id": "ruleset_1", "enabled": true, "path": "rules.json"}, {"id": "ruleset_2", "enabled": true, "path": "rules.vn.json"}]}, "permissions": ["declarativeNetRequest"]}

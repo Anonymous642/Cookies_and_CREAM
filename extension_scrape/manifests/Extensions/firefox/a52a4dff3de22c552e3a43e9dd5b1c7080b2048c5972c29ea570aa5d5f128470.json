@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reverse Youtube", "description": "Replacing Youtube playback window and right column", "version": "1.0", "permissions": ["activeTab", "contextMenus"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{661071a6-89cb-4936-9096-816f4bb9871e}"}}}

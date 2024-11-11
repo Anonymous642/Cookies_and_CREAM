@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "LivePerson Brand Mapper #jf", "description": "LivePerson Brand Mapping for Grafana Dashboard", "version": "0.0.4", "manifest_version": 3, "content_scripts": [{"js": ["content.js"], "matches": ["https://grafana.int.liveperson.net/d/*/top-brands*"]}]}

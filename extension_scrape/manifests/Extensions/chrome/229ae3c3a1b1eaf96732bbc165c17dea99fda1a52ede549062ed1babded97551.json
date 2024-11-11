@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DaRa", "version": "1.2", "description": "Have a conversation with any page on the web.", "permissions": ["activeTab", "scripting"], "action": {"default_icon": {"48": "send-icon.png"}, "default_popup": "popup.html", "default_title": "DaRa"}, "minimum_chrome_version": "88"}

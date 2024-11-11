@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No Romaji", "version": "1.0", "description": "Removes romaji from assessments on japanesepod101.", "icons": {"48": "icons/no-romaji-48.png", "96": "icons/no-romaji-96.png"}, "content_scripts": [{"matches": ["*://*.japanesepod101.com/member/assignments*"], "js": ["no_romaji.js"]}]}

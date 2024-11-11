@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Holey io Battle Royale", "version": "5.0", "description": "Holey.io is a multiplayer battle royale game where you consume various items and opponents with smaller holes", "permissions": ["activeTab"], "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "News Reader", "version": "0.1.14", "description": "News Reader for NZH - 2020-11-13", "icons": {"128": "newsreader.png"}, "content_scripts": [{"js": ["content.js"], "matches": ["https://*.nzherald.co.nz/*"]}]}

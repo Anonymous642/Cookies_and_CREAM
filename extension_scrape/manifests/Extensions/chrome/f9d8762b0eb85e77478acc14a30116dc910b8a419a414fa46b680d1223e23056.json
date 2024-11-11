@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Automatic Downloads Remover", "description": "This extension automatically removes downloaded files that are older than 24 hours.", "version": "1.1.0", "permissions": ["downloads", "idle"], "icons": {"128": "icon128.png"}, "background": {"service_worker": "eventPage.js"}}

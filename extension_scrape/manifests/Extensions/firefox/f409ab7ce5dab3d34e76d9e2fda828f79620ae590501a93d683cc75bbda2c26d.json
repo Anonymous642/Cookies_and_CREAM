@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove Youtube Shorts", "version": "1.2", "description": "Removes Youtube Shorts from the menu on the Youtube website.", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["removeShorts.js"]}]}

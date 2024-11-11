@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "icons": {"128": "/images/icon_128.png"}, "manifest_version": 3, "description": "Up to 100% Exclusive Cash Back Rebates from Trusted Retailers", "version": "1.0.0", "background": {"service_worker": "background.js"}, "name": "Shoppingcoo", "action": {"default_icon": {"128": "/images/icon_128.png"}}}

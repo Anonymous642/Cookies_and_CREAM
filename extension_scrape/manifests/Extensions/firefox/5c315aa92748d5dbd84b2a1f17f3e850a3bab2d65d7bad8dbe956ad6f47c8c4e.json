@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NewTabBlackClock", "version": "0.2", "description": "New tab override to black-BG with clock", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["topSites"], "applications": {"gecko": {"strict_min_version": "54.0a1"}}}

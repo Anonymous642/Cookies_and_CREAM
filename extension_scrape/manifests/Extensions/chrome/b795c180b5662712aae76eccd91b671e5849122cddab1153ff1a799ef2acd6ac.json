@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Remove Zhihu Red Icon", "version": "1.0", "action": {"default_icon": "icon.png"}, "content_scripts": [{"matches": ["https://www.zhihu.com/*"], "js": ["script.js"]}]}

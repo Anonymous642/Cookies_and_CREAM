@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Google Meet Microphone Toggle", "version": "1.1", "description": "Toggle Google Meet microphone with CapsLock", "permissions": ["activeTab"], "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["https://meet.google.com/*"], "js": ["content.js"]}]}

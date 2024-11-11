@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SLAP LIKE NOW", "version": "6.9", "description": "SLAPS LIKE NOW on all Davie504's EPIC BASS videos.", "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "content_scripts": [{"matches": ["https://*/*"], "js": ["slap.js"]}], "browser_specific_settings": {"gecko": {"id": "{b13e909a-130b-4164-83af-983a4bba2049}"}}}

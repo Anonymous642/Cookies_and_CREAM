@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "free netfree extension", "version": "1.0", "description": "free netfree extension", "manifest_version": 2, "content_scripts": [{"matches": ["https://*.wikipedia.org/*"], "js": ["remWarn.js"]}], "permissions": ["webNavigation"]}

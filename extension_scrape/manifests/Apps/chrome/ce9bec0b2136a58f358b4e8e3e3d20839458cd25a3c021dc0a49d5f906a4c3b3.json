@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Gravity Command", "manifest_version": 2, "description": "Aliens are invading and Earths outpost is in the way. Can you protect it over 100 waves?", "version": "3.0.0.2", "icons": {"16": "chrome-icon16.png", "128": "chrome-icon.png"}, "app": {"background": {"scripts": ["background.js"]}}}

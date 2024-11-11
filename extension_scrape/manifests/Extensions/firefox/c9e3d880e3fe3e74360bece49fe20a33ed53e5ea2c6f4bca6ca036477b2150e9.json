@@ -1,0 +1,1 @@
+{"name": "Antipook: notify", "version": "0.4.8", "description": "Mostra le notifiche di antipook.", "manifest_version": 2, "icons": {"48": "icon.png"}, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "background": {"page": "background.html"}, "permissions": ["idle", "https://antipook.com/"]}

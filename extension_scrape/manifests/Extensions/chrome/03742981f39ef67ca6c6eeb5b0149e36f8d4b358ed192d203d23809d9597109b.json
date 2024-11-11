@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Github Exact Time", "description": "See exact timestamps in Github commits, comments, etc.", "version": "1.0", "content_scripts": [{"matches": ["*://github.com/*"], "js": ["js/content_script.js"]}], "icons": {"128": "icon_128.png"}}

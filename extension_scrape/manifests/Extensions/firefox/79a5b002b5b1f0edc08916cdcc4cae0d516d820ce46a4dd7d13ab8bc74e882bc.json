@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DelShorts", "version": "1.0", "description": "Removes shorts from youtubes", "icons": {"64": "icons/delshorts64.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["delshorts.js"]}], "browser_specific_settings": {"gecko": {"id": "{200c49c6-e19e-4122-8e7d-e1d07656dbe1}"}}}

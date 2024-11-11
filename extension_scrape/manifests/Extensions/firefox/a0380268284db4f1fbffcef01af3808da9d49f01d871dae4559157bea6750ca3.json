@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Display Tab Index", "version": "1.0", "description": "Displays the tabindex attribute values of elements on the current webpage.", "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "displaytabindex@gmail.com"}}, "background": {"scripts": ["background.js"], "persistent": false}}

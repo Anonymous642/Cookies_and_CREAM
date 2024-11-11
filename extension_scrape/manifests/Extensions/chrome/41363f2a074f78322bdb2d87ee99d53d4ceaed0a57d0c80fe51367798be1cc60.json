@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Veckans k\u00e4k hos Stig", "version": "1.1", "manifest_version": 2, "description": "H\u00e4r ser man vad Stickan kan fresta med i veckan.", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["http://guest.pulsen.se/*"]}

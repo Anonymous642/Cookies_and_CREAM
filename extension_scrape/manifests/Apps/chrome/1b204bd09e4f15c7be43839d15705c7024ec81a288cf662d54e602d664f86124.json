@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\uc653\ucc60 (Watcha!)", "description": "\ub0b4 \ucde8\ud5a5\uc744 \ubd84\uc11d\ud558\ub294 \uc601\ud654\ucd94\ucc9c", "version": "1.0.0.2", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://watcha.net/"], "launch": {"web_url": "http://watcha.net/"}}}

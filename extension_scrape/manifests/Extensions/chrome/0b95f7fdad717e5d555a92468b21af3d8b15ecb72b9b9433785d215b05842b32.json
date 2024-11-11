@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "HTML Attributes Editor", "version": "1.0.1", "permissions": ["scripting"], "host_permissions": ["<all_urls>"], "devtools_page": "devtools.html", "description": "View and edit the attributes of an HTML element.", "icons": {"128": "icon128.png"}, "manifest_version": 3}

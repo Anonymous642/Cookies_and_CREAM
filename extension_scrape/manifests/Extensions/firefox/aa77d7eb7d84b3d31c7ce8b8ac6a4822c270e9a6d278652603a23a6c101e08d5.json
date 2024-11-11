@@ -1,0 +1,1 @@
+{"name": "Slugifier", "description": "Turns your selected text into-a-slug", "version": "1.0.0", "permissions": ["activeTab", "contextMenus", "clipboardWrite"], "background": {"scripts": ["slugifier.js"]}, "icons": {"16": "icons/slugifier16.png", "48": "icons/slugifier48.png", "128": "icons/slugifier128.png"}, "manifest_version": 2}

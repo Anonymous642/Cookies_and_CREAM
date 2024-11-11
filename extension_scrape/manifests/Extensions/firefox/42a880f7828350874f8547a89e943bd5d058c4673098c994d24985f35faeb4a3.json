@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No Youtube shorts perf", "version": "1.1", "description": "Redirects youtube shorts to the regular video page", "icons": {}, "permissions": ["activeTab", "webNavigation"], "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["no_yt_shorts.js"]}], "browser_specific_settings": {"gecko": {"id": "{0cb6c8c3-8da3-45c8-a3fb-bb9750018324}"}}}

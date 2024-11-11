@@ -1,0 +1,1 @@
+{"manifest_version": 2, "applications": {"gecko": {"id": "sync-storage-test@ne0sight", "strict_min_version": "52.0"}}, "name": "Sync storage test", "version": "3", "author": "Yuri Konotopov <ykonotopov@gnome.org>", "background": {"scripts": ["extension.js"], "persistent": false}, "options_ui": {"page": "options.html", "chrome_style": true}, "permissions": ["storage"]}

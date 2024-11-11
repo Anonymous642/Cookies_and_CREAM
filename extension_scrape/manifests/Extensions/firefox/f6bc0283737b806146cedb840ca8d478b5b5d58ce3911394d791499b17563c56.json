@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "p-ifyer", "version": "1.0", "description": "Replaces everything with the letter p", "icons": {"48": "icons/p.svg", "96": "icons/p.svg"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["p.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{505744c8-c7d2-4cd4-bbff-b2dd6c734911}"}}}

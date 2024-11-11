@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Pistol shrimp", "version": "1.2", "manifest_version": 2, "app": {"urls": ["http://pistolshrimp.altervista.org/"], "launch": {"web_url": "http://pistolshrimp.altervista.org/"}}, "description": "Gioco di azione/avventura in stile platform", "icons": {"128": "icon_128.png"}}

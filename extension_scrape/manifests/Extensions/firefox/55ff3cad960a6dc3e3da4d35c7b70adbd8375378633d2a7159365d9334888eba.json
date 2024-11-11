@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hide Fiverr Balance", "version": "1.0", "description": "Hides your Fiverr balance from all fiverr.com pages", "icons": {"96": "icons/hide.png"}, "content_scripts": [{"matches": ["*://*.fiverr.com/*"], "js": ["hide_it.js"]}], "browser_specific_settings": {"gecko": {"id": "hide_balance@aquib_sh.github.com"}}}

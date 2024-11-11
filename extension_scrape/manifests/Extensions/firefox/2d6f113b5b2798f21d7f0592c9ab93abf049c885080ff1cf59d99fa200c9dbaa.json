@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Scroll Disabler", "version": "1.0", "description": "Disables scrolling any webpage once activated ", "icons": {"48": "cancel.png", "96": "cancel.png"}, "content_scripts": [{"matches": ["*://*.instagram.com/*"], "js": ["scrolldisabler.js"]}], "browser_specific_settings": {"gecko": {"id": "{f8d7250f-5fd8-4839-9c25-43e5b24e1c84}"}}}

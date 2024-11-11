@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "youtube-subscription-redirect", "version": "1.0", "description": "Redirects the main YouTube link to the subscriptions page instead of the homepage", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["redirect.js"], "run_at": "document_start"}]}

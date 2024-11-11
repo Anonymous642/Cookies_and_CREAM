@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Apple Links", "version": "1.0", "icons": {"128": "media/ext/logo_128x128.png"}, "description": "Quick links for Apple users (including iCloud).", "browser_action": {"default_icon": "media/ext/logo_300x300.png", "default_popup": "app.html"}, "browser_specific_settings": {"gecko": {"id": "apple-links@tobyworld.eu"}}}

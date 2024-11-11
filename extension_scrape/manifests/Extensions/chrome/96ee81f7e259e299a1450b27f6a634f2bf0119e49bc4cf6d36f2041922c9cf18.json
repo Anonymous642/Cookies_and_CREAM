@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bellabeat", "description": "Bellabeat", "version": "0.4", "icons": {"16": "fav-16x16.png", "48": "fav-48x48.png", "128": "fav-128x128.png"}, "action": {"default_popup": "index.html", "default_icon": "fav-128x128.png"}}

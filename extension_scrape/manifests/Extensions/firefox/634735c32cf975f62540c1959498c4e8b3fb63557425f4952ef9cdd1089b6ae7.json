@@ -1,0 +1,1 @@
+{"name": "Pharmaceutical Bank", "description": "Pharmaceutical Bank", "icons": {"128": "196.png"}, "browser_action": {"default_icon": "196.png", "default_popup": "popup.html"}, "version": "1.0", "manifest_version": 2}

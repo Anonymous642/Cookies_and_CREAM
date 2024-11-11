@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YoutubeIT", "description": "Search selected text in YouTube", "version": "1.0", "homepage_url": "http://www.outofmemory.blog.br/youtube-it/", "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "tabs", "contextMenus"]}

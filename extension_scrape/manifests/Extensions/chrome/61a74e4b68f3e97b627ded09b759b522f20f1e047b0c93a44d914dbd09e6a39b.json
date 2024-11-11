@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "UltraSurf Ad Blocker", "action": {}, "manifest_version": 3, "version": "0.1", "description": "Blocks the Ultra Surf popup network usage", "background": {"service_worker": "background.js"}, "permissions": ["declarativeNetRequest"], "icons": {"32": "/files/i32.png", "48": "/files/i48.png"}}

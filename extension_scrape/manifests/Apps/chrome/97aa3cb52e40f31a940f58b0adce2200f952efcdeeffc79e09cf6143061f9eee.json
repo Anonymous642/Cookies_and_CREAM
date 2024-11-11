@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "CCCC Map", "description": "Don't Get Lost", "version": "4", "app": {"urls": ["http://ccccmap.appspot.com/"], "launch": {"web_url": "http://ccccmap.appspot.com/"}}, "icons": {"48": "48.png", "128": "128.png"}, "manifest_version": 2}

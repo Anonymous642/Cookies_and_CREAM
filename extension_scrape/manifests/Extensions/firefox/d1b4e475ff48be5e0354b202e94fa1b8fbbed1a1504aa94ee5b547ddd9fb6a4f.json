@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BljesakColorChanger", "version": "1.1", "description": "Background Color Changer for Bljesak.info", "author": "Dane Majich", "content_scripts": [{"matches": ["https://www.bljesak.info/*"], "js": ["bljesakTema.js"]}]}

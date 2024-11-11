@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mobile Wikipedia Redirect", "description": "Automatically redirects Wikipedia to mobile version", "version": "0.1", "icons": {"128": "icons/wikipedia.png"}, "background": {"scripts": ["background_script.js"]}, "permissions": ["webRequest", "webRequestBlocking", "*://en.wikipedia.org/*"]}

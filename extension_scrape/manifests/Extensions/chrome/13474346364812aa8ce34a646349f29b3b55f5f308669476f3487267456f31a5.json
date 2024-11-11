@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Comic Sans Everywhere", "version": "1.0", "description": "Changes the font of all text on web pages to Comic Sans.", "manifest_version": 3, "host_permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "all_frames": true, "js": ["content.js"]}]}

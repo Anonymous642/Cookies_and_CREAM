@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Rot2", "short_name": "Rot2", "description": "The double rotation game", "version": "0.0.1", "minimum_chrome_version": "38", "offline_enabled": true, "icons": {"16": "assets/rot2-16.png", "128": "assets/rot2-128.png"}, "app": {"background": {"scripts": ["background.js"]}}}

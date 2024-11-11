@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fruit Watch Ultra", "version": "0.2", "applications": {"gecko": {"strict_min_version": "57.0", "id": "{4d372259-6d59-4769-b68a-ab5c5d38960c}"}}, "icons": {"128": "fwu.png"}, "permissions": ["alarms", "theme"], "background": {"scripts": ["fwu.js"]}, "default_locale": "en"}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "auto-skip-youtube-ads", "version": "1.1", "description": "this is an extension for youtube ads, it's automatically skip youtube ads", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["ad.js"]}]}

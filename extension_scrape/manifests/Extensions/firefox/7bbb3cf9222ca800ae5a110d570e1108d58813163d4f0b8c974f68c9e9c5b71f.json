@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BlooketUI", "version": "1.1", "description": "Automatically runs Minesraft2's Blooket Cheats GUI when 'play.blooket.com' is loaded.", "icons": {"48": "favicon.png"}, "content_scripts": [{"matches": ["*://play.blooket.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{f46a416e-40bc-4541-b4a3-3981b43cf3cf}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Image and Base64 Converter", "version": "1.2", "manifest_version": 3, "description": "Converts images to Base64 format and vice versa", "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "action": {"default_popup": "popup.html"}}

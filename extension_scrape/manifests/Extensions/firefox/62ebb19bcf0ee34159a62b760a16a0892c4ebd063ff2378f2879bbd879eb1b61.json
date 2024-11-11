@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YT shorts to video", "version": "1.0", "description": "Redirects youtube shorts special view to normal video view", "content_scripts": [{"matches": ["*://*.youtube.com/shorts/*"], "js": ["replace.js"]}], "browser_specific_settings": {"gecko": {"id": "{e80f978f-2d69-410b-9e92-2c2be5e9f4d5}"}}}

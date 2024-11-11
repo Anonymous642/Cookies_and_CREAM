@@ -1,0 +1,1 @@
+{"name": "reserve post to radiotalk", "description": "reserve post to radiotalk Chrome Extension", "version": "0.1", "manifest_version": 2, "content_scripts": [{"matches": ["https://radiotalk.jp/me/talk/create"], "js": ["content_script.js"], "css": ["exstyle.css"]}], "browser_specific_settings": {"gecko": {"id": "{6aa043d5-6db0-439f-9ba8-b3b85e80f7fe}"}}}

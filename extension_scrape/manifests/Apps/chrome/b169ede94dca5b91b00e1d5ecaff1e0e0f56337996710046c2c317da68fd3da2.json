@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Divine Message", "manifest_version": 2, "description": "This is a full gospel plugin with live radio and podcasts.", "version": "34.0", "icons": {"16": "chrome-icon16.png", "128": "chrome-icon.png"}, "app": {"background": {"scripts": ["background.js"]}}}

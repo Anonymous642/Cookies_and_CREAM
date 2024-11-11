@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "action": {"default_popup": "main.html"}, "description": "MrBird game offline, flappy bird remake", "icons": {"16": "Icon.png", "48": "Icon.png", "128": "Icon.png"}, "manifest_version": 3, "name": "MrBird", "version": "1.01"}

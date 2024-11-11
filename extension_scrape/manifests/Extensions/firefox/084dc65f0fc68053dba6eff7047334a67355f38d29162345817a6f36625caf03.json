@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Stop Facebook Floating Player", "version": "0.1", "description": "Auto close floating player of facebook's videos when you scroll down.", "icons": {"48": "icons/enable.png"}, "content_scripts": [{"matches": ["*://www.facebook.com/"], "js": ["main.js"]}], "applications": {"gecko": {"id": "stop-facebook-floating-player@your-domain.com"}}}

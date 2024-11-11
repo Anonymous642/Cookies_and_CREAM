@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SurferStuck", "version": "2.0", "description": "Adds keyboard shortcuts to Homestuck.com", "icons": {"48": "sburb.png"}, "content_scripts": [{"matches": ["https://www.homestuck.com/story/*", "https://www.homestuck.com/story", "https://www.homestuck2.com/story/*"], "js": ["keyboardHandler.js"]}]}

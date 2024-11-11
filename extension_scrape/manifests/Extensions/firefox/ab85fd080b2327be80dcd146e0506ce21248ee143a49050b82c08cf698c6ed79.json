@@ -1,0 +1,1 @@
+{"description": "Adds a copy button to copy webm link of video post", "manifest_version": 2, "name": "9GagCopy", "version": "1.0.2", "homepage_url": "https://9gag.com", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://9gag.com/*", "*://*.9gag.com/*"], "js": ["jquery-3.5.1.min.js", "addcopybutton.js"]}]}

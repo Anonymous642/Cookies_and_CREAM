@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "That New Platformer Game", "description": "Choose a map, collect coins, and level up. New levels added every now and then. Have fun trying to beat the levels.", "version": "1.9", "manifest_version": 3, "action": {"default_popup": "index.html", "default_icon": "logo.png"}}

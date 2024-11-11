@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "PlayGameWith.me", "description": "Play a game with your friends easily!", "manifest_version": 2, "version": "1", "app": {"urls": ["http://playgamewith.me/", "http://www.playgamewith.me/"], "launch": {"web_url": "http://www.playgamewith.me/"}}, "icons": {"128": "icon_128.png"}, "permissions": []}

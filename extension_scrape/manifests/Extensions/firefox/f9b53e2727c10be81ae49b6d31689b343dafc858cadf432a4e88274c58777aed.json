@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "lastChars", "version": "1.0", "content_scripts": [{"matches": ["*://*.codingbat.com/*"], "js": ["lastChars.js"]}]}

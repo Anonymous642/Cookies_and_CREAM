@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Jira Clip", "version": "1.1", "description": "", "content_scripts": [{"matches": ["https://jira.ad.i-bs.pl/*"], "js": ["clip.js"]}], "browser_specific_settings": {"gecko": {"id": "{a56ebbe6-752f-476a-a39c-8c92d5757873}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "AECA Plots", "short_name": "AECA Plots", "description": "Advanced energy conversion analysis plots for ideal and basic power cycles, etc. ...", "version": "1.12.1", "manifest_version": 2, "offline_enabled": true, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"128": "icon_128.png"}}

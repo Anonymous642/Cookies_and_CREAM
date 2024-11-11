@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Counter", "description": "This extension shows you how many tabs you have open at a given time.", "version": "0.1", "author": "Lucas Meireles", "permissions": ["tabs", "storage"], "background": {"page": "./html/background.html"}, "browser_action": {"default_popup": "./html/popup.html"}}

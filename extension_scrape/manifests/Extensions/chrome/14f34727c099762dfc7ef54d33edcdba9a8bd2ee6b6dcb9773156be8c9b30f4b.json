@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Lazy Peoples Tool", "version": "1.0.0", "manifest_version": 3, "author": "Akshay Nayak", "content_scripts": [{"matches": ["https://www.ccisites.com/*"], "js": ["content.js"]}], "action": {"default_popup": "popup.html"}}

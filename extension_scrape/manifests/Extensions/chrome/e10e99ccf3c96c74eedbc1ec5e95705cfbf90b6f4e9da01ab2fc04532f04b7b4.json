@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Jinsei Tab", "short_name": "JINSEI", "version": "1.0.0", "description": "Japanese concepts that will help you improve your life while searching online.", "icons": {"64": "icons/64.png", "128": "icons/128.png"}, "chrome_url_overrides": {"newtab": "new-tab.html"}}

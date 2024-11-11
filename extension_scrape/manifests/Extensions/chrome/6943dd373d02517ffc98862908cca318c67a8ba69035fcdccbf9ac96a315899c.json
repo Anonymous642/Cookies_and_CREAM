@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "BingMe", "version": "0.2.3", "manifest_version": 3, "content_scripts": [{"matches": ["http://www.google.com/*", "https://www.google.com/*"], "js": ["contentscript.js"]}]}

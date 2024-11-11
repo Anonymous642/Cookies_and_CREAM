@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Makni komentare s Indexa", "version": "1.0", "description": "Mice komentare sa index.hr stranice.", "content_scripts": [{"js": ["scripts/main.js"], "matches": ["https://www.index.hr/*"]}], "browser_specific_settings": {"gecko": {"id": "{023fe426-408c-4650-8b61-9fa6108c2270}"}}}

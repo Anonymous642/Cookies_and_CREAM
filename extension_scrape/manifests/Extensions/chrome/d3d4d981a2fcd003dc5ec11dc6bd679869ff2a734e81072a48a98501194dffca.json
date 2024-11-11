@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Learn Bitcoin Tab", "author": "Anon", "version": "1.0.2", "description": "Replace new tab screen with Learn Bitcoin screen.", "icons": {}, "chrome_url_overrides": {"newtab": "index.html"}, "permissions": []}

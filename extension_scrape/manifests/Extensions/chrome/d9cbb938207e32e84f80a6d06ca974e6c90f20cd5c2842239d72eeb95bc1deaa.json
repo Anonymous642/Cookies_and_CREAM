@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Whois", "description": "Whois Extention By 7Hosty", "version": "0.1", "permissions": ["tabs"], "browser_action": {"default_title": "Extension Title on Hover", "default_icon": "images/icon.png", "default_popup": "html/popup.html"}}

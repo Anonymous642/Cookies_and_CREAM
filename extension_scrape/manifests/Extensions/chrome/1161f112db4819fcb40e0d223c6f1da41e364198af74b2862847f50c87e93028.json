@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Send To Slack", "version": "1.1", "description": "Send a link to a specified Slack channel", "manifest_version": 2, "permissions": ["contextMenus", "https://hooks.slack.com/", "storage"], "background": {"scripts": ["background.js"]}, "icons": {"512": "icon.png"}, "options_page": "options.html"}

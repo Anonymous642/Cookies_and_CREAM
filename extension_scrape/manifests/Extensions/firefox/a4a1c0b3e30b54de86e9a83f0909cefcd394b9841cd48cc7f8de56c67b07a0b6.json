@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "2009 Megalovania", "version": "1.0.1", "description": "Replace every occurence of \"U.N. Owen Was Her?\" with \"2009 Megalovania\".", "icons": {"48": "flandres-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["2009 megalovania.js"]}]}

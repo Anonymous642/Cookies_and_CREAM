@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Mighty Fred", "description": "Experience a world with progressive graphics!", "version": "1.95", "manifest_version": 2, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "app": {"launch": {"local_path": "2014-06-08.html"}}}

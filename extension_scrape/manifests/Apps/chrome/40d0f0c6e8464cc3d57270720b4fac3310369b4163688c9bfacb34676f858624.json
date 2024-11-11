@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Ling.pl", "description": "Najwi\u0119kszy s\u0142ownik internetowy w Polsce", "version": "0.1", "manifest_version": 2, "app": {"urls": ["http://premium.ling.pl/"], "launch": {"web_url": "http://premium.ling.pl/"}}, "icons": {"16": "16.png", "128": "128.png"}}

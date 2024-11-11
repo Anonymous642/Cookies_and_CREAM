@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "LSL to AUD", "version": "1.0", "description": "Convert Lesotho loti to Australian dollars", "browser_specific_settings": {"gecko": {"id": "lsl-to-aud@example.com"}}}

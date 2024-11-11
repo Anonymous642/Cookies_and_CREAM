@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "EndTab", "version": "1.2", "icons": {"48": "./icons/log48_2.png"}, "permissions": ["tabs"], "applications": {"gecko": {"id": "masterharoldsaxon4@gmail.com", "strict_min_version": "55.0"}}, "browser_action": {"default_icon": {"48": "./icons/log48_2.png"}, "default_title": "EndTab"}, "background": {"scripts": ["background.js"]}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Fl\u00e1cido Domingo", "description": "Cambia el nombre de Pl\u00e1cido Domingo por Fl\u00e1cido Domingo", "version": "1.0", "icons": {"128": "icon_128.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

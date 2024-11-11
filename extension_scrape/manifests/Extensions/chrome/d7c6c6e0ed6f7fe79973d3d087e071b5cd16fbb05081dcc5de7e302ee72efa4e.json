@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Little J", "description": "Acc\u00e8s simplifi\u00e9 au site littlej.fr", "version": "0.1", "icons": {"128": "128.png"}, "browser_action": {"default_title": "Little J", "default_icon": "128.png", "default_popup": "iframe.html"}, "permissions": ["unlimitedStorage", "notifications"]}

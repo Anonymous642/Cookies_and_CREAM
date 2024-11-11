@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove pl.wiki", "version": "1.0", "description": "Automatically follows links to English articles on pl.wikipedia.org.", "icons": {"48": "icons/removeplwiki.svg", "96": "icons/removeplwiki.svg"}, "content_scripts": [{"matches": ["*://pl.wikipedia.org/wiki/*"], "js": ["forward.js"]}]}

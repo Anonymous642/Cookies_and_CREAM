@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Neural Up", "version": "1.1.4", "description": "An Ionic project", "browser_action": {"default_icon": "icon.png", "popup": "index.html"}, "manifest_version": 2}

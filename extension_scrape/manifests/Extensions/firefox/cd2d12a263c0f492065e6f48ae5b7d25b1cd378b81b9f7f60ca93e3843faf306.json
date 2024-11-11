@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Block Facebook Trends", "version": "1.0.1", "description": "Dislike the Facebook Trends block on the right hand side. They don't let you disable it, so this extension lets you block it out.\u2026", "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["block-facebook-trends.js"]}]}

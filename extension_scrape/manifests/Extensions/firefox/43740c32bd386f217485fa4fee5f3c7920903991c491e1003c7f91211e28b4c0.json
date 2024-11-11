@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Lil Reddit", "version": "1.0.1", "browser_action": {"browser_style": true, "default_icon": {"48": "images/reddicon.png"}, "default_title": "Lil Reddit", "default_popup": "lilreddit.html"}, "permissions": ["activeTab"]}

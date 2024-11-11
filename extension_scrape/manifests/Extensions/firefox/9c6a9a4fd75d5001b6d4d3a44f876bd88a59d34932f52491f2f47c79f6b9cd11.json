@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Sidebar Remover", "version": "1.0", "description": "Removes the youtube suggestion sidebar", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["sidebarRemover.js"]}]}

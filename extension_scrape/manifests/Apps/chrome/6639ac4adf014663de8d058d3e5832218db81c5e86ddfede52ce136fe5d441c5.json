@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Passei?", "version": "0.4", "icons": {"128": "icon_128.png"}, "permissions": [], "app": {"background": {"scripts": ["background.js"]}}, "minimum_chrome_version": "28"}

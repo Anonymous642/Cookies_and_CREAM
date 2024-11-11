@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TargetKiller", "description": "Open all links in current tab, ignoring any HTML target.", "version": "0.9.1", "content_scripts": [{"matches": ["<all_urls>"], "js": ["contentscript.js"]}]}

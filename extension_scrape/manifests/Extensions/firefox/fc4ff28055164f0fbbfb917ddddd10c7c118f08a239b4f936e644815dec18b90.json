@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Interval Scroll", "version": "1.0.1", "description": "Scrolls the page at specified intervals.", "permissions": ["activeTab", "storage"], "browser_action": {"default_title": "Interval Scroll", "default_popup": "popup/options.html"}}

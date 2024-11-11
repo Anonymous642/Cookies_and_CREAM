@@ -1,0 +1,1 @@
+{"name": "Twitch Auto Channel Points", "version": "1.0.0", "description": "Automatically collects twitch channel points for you!", "manifest_version": 2, "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["points.js"]}], "icons": {"48": "icon_48.png", "128": "icon.png"}}

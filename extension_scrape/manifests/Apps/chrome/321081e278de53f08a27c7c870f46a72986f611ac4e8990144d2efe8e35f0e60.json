@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "MAT", "description": "M.A.T. is a free-to-play, fast paced combat FPS.  Take down epic dragons, mummies, robots, and more!", "version": "1.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.jpg"}, "app": {"urls": ["http://mat.subagames.com/"], "launch": {"web_url": "http://mat.subagames.com/"}}}

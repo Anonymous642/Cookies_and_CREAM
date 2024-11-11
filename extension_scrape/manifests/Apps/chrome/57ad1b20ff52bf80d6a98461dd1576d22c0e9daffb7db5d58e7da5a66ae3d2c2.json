@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Pokemon Go Rare Guide", "version": "1", "icons": {"24": "24.png", "128": "128.png"}, "app": {"urls": ["http://pokemongo.gamesrich.net/"], "launch": {"web_url": "http://pokemongo.gamesrich.net/"}}, "manifest_version": 2}

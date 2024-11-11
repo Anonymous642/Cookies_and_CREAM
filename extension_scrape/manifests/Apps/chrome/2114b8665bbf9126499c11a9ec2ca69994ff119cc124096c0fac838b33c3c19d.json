@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "tibbr", "version": "4.1.1.3", "icons": {"24": "App1.png", "128": "App2.png"}, "app": {"launch": {"web_url": "https://try.tibbr.com/tibbr/tibbr_app.html"}}, "permissions": [], "options_page": "https://try.tibbr.com/tibbr/options.html", "manifest_version": 2}

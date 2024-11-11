@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Super Search", "description": "Search the selected text from any of the listed search engines.", "version": "1.0", "icons": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}, "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["background.js"]}}

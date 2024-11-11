@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Download Lock", "version": "1.2", "description": "Prevents all downloads", "icons": {"98": "icon.svg"}, "permissions": ["downloads"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{9c5e9c81-9259-4436-8f4b-56db60efe13c}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search on Jisho.org", "description": "Looks up a selection on jisho.org", "version": "1.0", "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus", "activeTab"], "icons": {"96": "icons/jisho-96.png"}}

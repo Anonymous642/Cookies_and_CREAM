@@ -1,0 +1,1 @@
+{"app": {"launch": {"local_path": "default.htm"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Puzzle-based hot air balloon duels.", "name": "Bret Airborne - Gauntlet Edition", "permissions": ["unlimited_storage", "notifications"], "icons": {"16": "16.png", "28": "48.png", "128": "128.png"}, "manifest_version": 2, "version": "2"}

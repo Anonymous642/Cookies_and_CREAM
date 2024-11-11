@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "XAF to KYD", "version": "1.0", "description": "Convert XAF to KYD", "browser_specific_settings": {"gecko": {"id": "xaf-to-kyd@example.com"}}}

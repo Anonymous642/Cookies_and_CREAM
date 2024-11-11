@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gelbooru - Image Only", "version": "1.0", "description": "Adds a link to view the image in the thumbnail without having to go to the page.  Avoid ads, and view more images faster.", "content_scripts": [{"matches": ["*://*.gelbooru.com/*"], "js": ["jquery-3.4.1.min.js", "content.js"]}]}

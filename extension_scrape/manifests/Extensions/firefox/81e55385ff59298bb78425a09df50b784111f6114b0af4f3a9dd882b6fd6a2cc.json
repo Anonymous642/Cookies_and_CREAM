@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "The Wolf Live", "version": "1.3.5", "description": "Notifications des lives de The Wolf.", "browser_action": {"default_popup": "index.html"}, "permissions": ["webRequest", "notifications", "tabs"], "icons": {"96": "pyro_x96.png"}, "background": {"scripts": ["streamCheck.js"]}}

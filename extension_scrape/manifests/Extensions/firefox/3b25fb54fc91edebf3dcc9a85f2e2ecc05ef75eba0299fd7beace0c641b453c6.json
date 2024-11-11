@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Agendum", "version": "0.0.1", "chrome_url_overrides": {"newtab": "newtab.d2eda5d2.html"}, "browser_action": {"default_icon": "icon.6e8a65a6.png", "default_title": "Agendum", "default_popup": "popup.720e8773.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{ea747f91-79f3-4de6-b4ee-0a80ea9a5ece}"}}}

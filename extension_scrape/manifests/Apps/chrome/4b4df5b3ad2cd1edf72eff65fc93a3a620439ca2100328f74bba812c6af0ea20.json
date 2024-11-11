@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "IP4 Calculator", "description": "Find info about the any IP Address and it's subnet.", "version": "1.1", "app": {"urls": ["http://tools.bradlis7.com/ip/"], "launch": {"web_url": "http://tools.bradlis7.com/ip/"}}, "icons": {"128": "128.png"}, "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "NinjaBoy", "description": "Run, Jump and Chop your way through 100+ levels as you chase down the Evil Lord Hito to save The Kingdom.", "version": "1.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"launch": {"web_url": "http://www.2tonstudios.com/NinjaBoy/NinjaBoy%20-%20Web.html"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_appName__", "description": "__MSG_appDesc__", "default_locale": "es", "version": "1.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://micuadernodecampo.es/"], "launch": {"web_url": "http://micuadernodecampo.es/"}}}

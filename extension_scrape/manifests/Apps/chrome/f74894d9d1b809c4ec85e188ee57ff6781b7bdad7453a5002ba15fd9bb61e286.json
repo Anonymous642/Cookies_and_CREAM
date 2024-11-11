@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "kantan-ds player", "version": "1.0", "description": "kantan-ds player", "app": {"launch": {"web_url": "http://kantan-ds3-receiver.appspot.com/"}}, "icons": {"128": "NanoSignage.png"}, "permissions": ["background"]}

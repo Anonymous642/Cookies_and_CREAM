@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Unreal engine 4 API links", "version": "1.3", "content_scripts": [{"matches": ["*://api.unrealengine.com/*", "*://docs.unrealengine.com/*"], "js": ["convert_ue_links.js"]}], "icons": {"48": "icons/icon.png"}, "options_ui": {"page": "options.html"}, "permissions": ["storage"], "applications": {"gecko": {"id": "dragon248@gmail.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Video Ad Skipper", "version": "1.0", "description": "Automatically skips ads in videos on YouTube", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["content.js"]}], "icons": {"48": "icon.png"}}

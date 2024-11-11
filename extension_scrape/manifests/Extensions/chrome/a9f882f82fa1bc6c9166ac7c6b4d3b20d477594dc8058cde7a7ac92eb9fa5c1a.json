@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SD Prompt Helper", "version": "1.0", "description": "SD Prompt Helper", "manifest_version": 3, "action": {"default_popup": "simple-prompt-helper-chrome.html"}}

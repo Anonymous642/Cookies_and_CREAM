@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "xMas", "description": "Merry Christmas Emily!!!!!!", "version": "1.0", "icons": {"128": "icon128.png"}, "action": {"default_icon": "icon128.png"}, "content_scripts": [{"matches": ["https://www.google.com/*"], "css": ["main.css"]}]}

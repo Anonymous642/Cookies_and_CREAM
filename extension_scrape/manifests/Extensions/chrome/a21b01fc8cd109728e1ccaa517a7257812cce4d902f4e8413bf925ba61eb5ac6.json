@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "wiki-zh-default", "version": "1", "background": {"scripts": ["bg.js"]}, "content_scripts": [{"matches": ["*://zh.wikipedia.org/*"], "js": ["content.js"], "run_at": "document_end"}], "permissions": ["storage", "webRequest", "webRequestBlocking", "*://zh.wikipedia.org/wiki*"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pubmed", "version": "1.0", "description": "Add a context menu for searching pubmed article", "icons": {"48": "icons/48x48.png"}, "browser_action": {"default_icon": {"48": "icons/48x48.png", "96": "icons/96x96.png"}}, "permissions": ["activeTab", "contextMenus", "storage"], "background": {"scripts": ["background.js"]}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "RatesBTC", "description": "Simple Bitcoin price converter. See the live Bitcoin price at any currency", "version": "0.0.0.2", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://ratesbtc.com/"], "launch": {"web_url": "http://ratesbtc.com/"}}}

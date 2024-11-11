@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove Whatsapp Avatars", "version": "1.0", "description": "Remove all avatars of groups of Whatsapp Web", "icons": {"48": "icons/remove-avatars-icon-48px.png"}, "content_scripts": [{"matches": ["*://*.whatsapp.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{c20b1628-5570-468f-8308-6d76548a7300}"}}}

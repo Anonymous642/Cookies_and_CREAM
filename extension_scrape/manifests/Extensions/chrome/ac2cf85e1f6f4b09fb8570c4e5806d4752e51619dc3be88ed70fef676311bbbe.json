@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "eDesk Helper", "version": "1.0", "description": "Erweitert eDesk.com um einige Funktionen", "permissions": ["clipboardWrite"], "content_scripts": [{"matches": ["*://*.edesk.com/*"], "js": ["content.js"]}], "icons": {"1000": "icon1000.png"}}

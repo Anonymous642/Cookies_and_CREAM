@@ -1,0 +1,1 @@
+{"name": "Mango Image Downloader", "description": "Mango Image Downloader", "version": "0.4", "manifest_version": 2, "permissions": ["activeTab", "tabs", "notifications", "http://*/*", "https://*/*", "downloads"], "browser_action": {"default_icon": "mango.png", "default_popup": "popup.html"}}

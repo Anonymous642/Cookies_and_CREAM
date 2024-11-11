@@ -1,0 +1,1 @@
+{"name": "Yahoo New Tab", "description": "Welcome to My Yahoo. Get your headlines, email, quotes and more \u2014 all in one place.", "manifest_version": 2, "version": "1.0", "homepage_url": "https://github.com/heubergen/yahoo-new-tab", "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"48": "./images/icon_48.png"}}

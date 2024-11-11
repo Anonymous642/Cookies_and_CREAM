@@ -1,0 +1,1 @@
+{"name": "Hindu Wedding Calendar", "description": "Find the most auspicious hindu wedding dates in 2021 & 2021 on an english calender", "version": "1.0", "manifest_version": 2, "permissions": [], "icons": {"128": "logotype.png"}, "browser_action": {"default_popup": "popup.html", "default_title": "Date"}}

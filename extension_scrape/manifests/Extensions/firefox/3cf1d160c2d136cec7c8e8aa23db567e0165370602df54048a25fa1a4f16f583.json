@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Badot", "version": "1.0", "description": "Estou pronto para te estender a m\u00e3o e ajud\u00e1-lo no Badoo. Venha comigo!", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://*.badoo.com/*"], "js": ["girlsWatcher.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DLS - Machine Status", "description": "DLS - Machine Status", "version": "1.0.0", "icons": {"128": "icon_128.png"}, "action": {"default-icon": "icon.png", "default-popup": "dls-ms.html"}}

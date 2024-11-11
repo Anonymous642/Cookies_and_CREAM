@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "No Shorts Youtube", "version": "1.0", "description": "Filter out shorts from YouTube videos", "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["youtube-filter.js"], "run_at": "document_end"}]}

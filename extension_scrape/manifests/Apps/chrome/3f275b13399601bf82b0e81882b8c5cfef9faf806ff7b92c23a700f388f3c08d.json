@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Into Tomorrow", "description": "Covering Consumer Tech Since 1996", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.intotomorrow.com/"], "launch": {"web_url": "http://www.intotomorrow.com/"}}}

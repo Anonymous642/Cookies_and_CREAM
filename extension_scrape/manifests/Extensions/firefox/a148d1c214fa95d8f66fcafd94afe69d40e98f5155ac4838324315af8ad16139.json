@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Disney Subtitle", "version": "1.0", "description": "Fixing Disney+ Hotstar Subtitle", "content_scripts": [{"matches": ["*://*.hotstar.com/*"], "css": ["style.css"]}], "browser_specific_settings": {"gecko": {"id": "{3efc10f9-a1ed-4354-88fb-0c449604320f}"}}}

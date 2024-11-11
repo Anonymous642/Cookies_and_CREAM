@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "yank-url", "version": "1.1", "description": "Yanks urls as files", "author": "egvl", "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "yank-url@egvl"}}}

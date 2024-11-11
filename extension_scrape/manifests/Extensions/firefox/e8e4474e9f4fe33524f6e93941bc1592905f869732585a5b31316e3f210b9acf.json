@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "StrakyTV", "version": "2.9", "description": "\u00catre inform\u00e9 des lives de StrakyTV", "icons": {"128": "assets/img/icon.png"}, "background": {"scripts": ["assets/js/background.js"]}, "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "addon@straky.tk"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Nickel-Iron Lite", "version": "2.0.6.7", "description": "Nickel Iron, defend Earth", "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "icon_16.png", "128": "icon_128.png"}}

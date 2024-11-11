@@ -1,0 +1,1 @@
+{"description": "Treasure Data TD-JS-SDK debugger for Firefox", "manifest_version": 2, "name": "td-debugger", "version": "1.0", "permissions": ["webRequest", "webRequestBlocking", "*://*/*/", "tabs"], "icons": {"48": "td-icon.jpg"}, "background": {"scripts": ["background.js"]}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_start"}]}

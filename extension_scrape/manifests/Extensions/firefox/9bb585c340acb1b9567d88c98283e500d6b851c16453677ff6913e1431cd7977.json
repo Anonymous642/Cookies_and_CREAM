@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "unprecedented To spooky", "version": "3771.1", "description": "Replaces the text 'unprecedented' with 'spooky', we truely live in frightening times.", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}]}

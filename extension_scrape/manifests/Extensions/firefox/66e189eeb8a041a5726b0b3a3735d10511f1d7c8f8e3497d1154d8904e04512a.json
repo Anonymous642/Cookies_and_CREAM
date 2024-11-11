@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Return Button", "version": "1.0.0", "description": "Adds a 'Return' button to any website, allowing users to go back one page in their browsing history.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{39d9f24e-bbcf-4233-b71a-375dd71d4263}"}}}

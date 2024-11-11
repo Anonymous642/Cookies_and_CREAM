@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Edit Page Content", "version": "1.1", "description": "Add an option on the context menu to start or stop editing the content of the page", "homepage_url": "https://github.com/anonimoconiglio/webext-edit-content", "icons": {"80": "icons/edit80.png"}, "permissions": ["activeTab", "contextMenus"], "background": {"scripts": ["backgroundScript.js"]}}

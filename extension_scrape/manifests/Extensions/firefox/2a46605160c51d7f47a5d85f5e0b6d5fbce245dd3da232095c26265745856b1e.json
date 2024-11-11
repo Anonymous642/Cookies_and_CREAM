@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Convert HTML to Haml", "version": "1.0.1", "description": "Convert HTML to Haml without needing a new tab.", "browser_specific_settings": {"gecko": {"id": "convert_html_to_haml@example.com"}}, "icons": {"48": "icon.svg", "96": "icon.svg"}, "permissions": ["storage", "menus", "activeTab", "<all_urls>"], "background": {"scripts": ["background.js"]}}

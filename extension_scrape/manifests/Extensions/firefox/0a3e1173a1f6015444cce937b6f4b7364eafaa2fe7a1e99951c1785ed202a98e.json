@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "KleinanzeigenAdRemover", "version": "1.0", "description": "Removes ads from ebay-kleinanzeigen", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.ebay-kleinanzeigen.de/*"], "css": ["ad-remover.css"]}], "browser_specific_settings": {"gecko": {"id": "kleinanzeigen@addons.enricobertolotti.com"}}}

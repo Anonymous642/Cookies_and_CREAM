@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DomainKiller", "version": "0.97", "description": "Rozszerza mo\u017cliwo\u015bci zakopywania i ukrywania na portalu wykop.pl", "icons": {"48": "icons/ico-48.png"}, "content_scripts": [{"matches": ["*://*.wykop.pl/*"], "js": ["thirdParty/jquery-3.2.1.min.js", "domainkiller.js"]}]}

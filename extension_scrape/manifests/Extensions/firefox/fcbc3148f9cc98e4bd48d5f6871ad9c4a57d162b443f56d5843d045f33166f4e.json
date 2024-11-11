@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Borderify", "version": "1.0", "description": "Adds a red border to all webpages matching mozilla.org.", "icons": {"48": "border-48.png"}, "content_scripts": [{"matches": ["*://*.google.com/*"], "js": ["borderify.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Subscriptions Redirector", "version": "1.0", "description": "Redirects youtube.com to youtube.com/feed/subscriptions", "icons": {"48": "icons/icon.svg", "96": "icons/icon.svg"}, "background": {"scripts": ["redirect.js"]}, "permissions": ["webRequest", "webRequestBlocking", "*://youtube.com/*", "*://*.youtube.com/*"]}

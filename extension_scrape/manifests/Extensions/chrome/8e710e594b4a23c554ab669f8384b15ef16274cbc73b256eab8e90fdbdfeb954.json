@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Github Incident Alerts", "description": "Show extra warnings in Github when there's an active incident", "version": "1.1", "manifest_version": 3, "content_scripts": [{"matches": ["https://git.rsglab.com/*"], "js": ["contentScript.js"], "css": ["style.css"], "run_at": "document_end"}]}

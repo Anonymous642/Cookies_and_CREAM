@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "DJEP Most Requested", "manifest_version": 2, "description": "The Perfect DJ Companion - Check out the Most Requested Charts of 2013, compiled by DJ Event Planner", "version": "1.0", "icons": {"16": "chrome-icon16.png", "128": "chrome-icon.png"}, "app": {"background": {"scripts": ["background.js"]}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "slickplan", "description": "Create, organize and share the initial information architecture of the site you are creating", "version": "1", "icons": {"128": "128.png"}, "app": {"urls": ["http://slickplan.com/"], "launch": {"web_url": "http://slickplan.com/dashboard/"}}, "manifest_version": 2}

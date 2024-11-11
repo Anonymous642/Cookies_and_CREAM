@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Welcome Wagon", "description": "The industry leader in new homeowner and new mover marketing", "version": "1", "app": {"urls": [], "launch": {"web_url": "http://www.welcomewagon.com"}}, "icons": {"128": "icon_ww.png"}, "permissions": ["unlimitedStorage", "notifications"], "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Voice Controller", "description": "With voice controller you can access links with ease. Just open the extension add a command and speak it!", "version": "1.0", "browser_action": {"default_icon": "vector.png"}, "background": {"scripts": ["background.js"], "persistent": false}}

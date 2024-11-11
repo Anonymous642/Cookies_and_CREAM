@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Polygon Transformer", "description": "Create and edit polygons with linear transformations!", "version": "0.4", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "transformer-16.png", "128": "transformer-128.png"}}

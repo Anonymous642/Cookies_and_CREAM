@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Aajtak-unblock", "version": "1.0", "description": "Allow to read news on AajTak without disabling adblocker or moving out of private browsing.", "icons": {"48": "icons/aa-48.png"}, "content_scripts": [{"matches": ["*://aajtak.intoday.in/*"], "js": ["app.js"]}]}

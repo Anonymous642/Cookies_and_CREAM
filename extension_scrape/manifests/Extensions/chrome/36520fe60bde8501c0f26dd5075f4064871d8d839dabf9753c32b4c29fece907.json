@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Notepad", "version": "1.0", "description": "Simple note for sidebar from Nyx.", "permissions": ["sidePanel", "storage"], "side_panel": {"default_path": "panel.html", "width": 300, "height": 400}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Note Manager", "description": "Stores multiple notes.", "action": {"default_popup": "popup.html"}, "permissions": [], "version": "1.0", "manifest_version": 3, "background": {"service_worker": "background.js"}}

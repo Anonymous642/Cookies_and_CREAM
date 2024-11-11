@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "mondefox", "version": "0.6", "license": "GPLv3", "default_locale": "fr", "description": "__MSG_extensionDescription__", "homepage_url": "https://github.com/tychobrailleur/mondefox", "icons": {"64": "icons/social-64.png"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*.lemonde.fr/*"], "js": ["data/cleanup.js"]}]}

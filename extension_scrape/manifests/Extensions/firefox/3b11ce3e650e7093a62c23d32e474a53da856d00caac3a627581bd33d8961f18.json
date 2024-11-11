@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dictar", "version": "1.0", "description": "Send web site's URL to dictar.app for further processing.", "icons": {"48": "icons/logo48.png", "96": "icons/logo96.png"}, "browser_action": {"default_icon": "icons/logo32.png", "default_title": "Dictar"}, "permissions": ["activeTab"], "background": {"scripts": ["dictar.js"]}}

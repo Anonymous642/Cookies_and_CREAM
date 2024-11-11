@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Thexyz Webmail", "manifest_version": 2, "description": "Access Thexyz with the Chrome app.", "version": "4.1.3", "icons": {"16": "package-assets/16.png", "128": "package-assets/128.png"}, "app": {"background": {"scripts": ["background.js"]}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Zapytaj Onet Fix", "version": "1.0", "description": "Przywraca menu po lewej stronie.", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.onet.pl/*"], "js": ["fix.js"]}]}

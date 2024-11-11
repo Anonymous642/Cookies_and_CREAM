@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "version": "0.0.7", "name": "__MSG_application_title__", "description": "__MSG_application_description__", "default_locale": "en", "icons": {"128": "images/makeleaps-app-128.png"}, "app": {"urls": ["https://app.makeleaps.com/"], "launch": {"web_url": "https://app.makeleaps.com/home/"}}}

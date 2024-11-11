@@ -1,0 +1,1 @@
+{"name": "Contas Turbo", "version": "3.0.0", "manifest_version": 2, "description": "Gere Links Premium com apenas 1 clique com a extens\u00e3o do Contas Turbo!", "icons": {"200": "images/icon200.png"}, "browser_action": {"default_icon": "images/icon200.png", "default_title": "Gerar Link Premium", "default_popup": "popup.html"}, "permissions": ["tabs"]}

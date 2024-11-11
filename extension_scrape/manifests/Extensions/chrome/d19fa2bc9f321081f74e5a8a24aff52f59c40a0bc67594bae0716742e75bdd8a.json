@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Coldshard", "description": "Manage your services on the fly!", "version": "1.0", "manifest_version": 3, "permissions": ["storage"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "/index.html"}, "icons": {"512": "/icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Shengbin Meng", "short_name": "shengbin.me", "description": "Shengbin's home page, and daily poems", "version": "1.0", "manifest_version": 2, "icons": {"128": "shengbin_128.png"}, "app": {"urls": ["http://www.shengbin.me/"], "launch": {"web_url": "http://www.shengbin.me/"}}}

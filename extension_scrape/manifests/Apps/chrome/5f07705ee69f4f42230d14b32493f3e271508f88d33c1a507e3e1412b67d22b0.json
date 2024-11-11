@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"background": {"scripts": ["background.js"]}}, "manifest_version": 2, "name": "The Hungry Slug", "version": "6.615", "description": "This is a simple memory matching game that's suitable for any beginning reader.", "icons": {"16": "slug16.png", "128": "slug128.png"}}

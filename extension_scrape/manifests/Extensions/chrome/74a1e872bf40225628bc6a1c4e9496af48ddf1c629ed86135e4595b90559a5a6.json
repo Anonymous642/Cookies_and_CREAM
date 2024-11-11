@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "444!Dark", "description": "444 s\u00f6t\u00e9t m\u00f3d", "version": "1.0", "manifest_version": 3, "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["https://444.hu/*"], "css": ["styles.css"], "run_at": "document_start"}]}

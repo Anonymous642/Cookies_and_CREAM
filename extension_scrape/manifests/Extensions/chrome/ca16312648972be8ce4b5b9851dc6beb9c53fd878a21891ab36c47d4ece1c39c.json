@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Mass Ping", "action": {"default_title": "One Click Mass Ping!", "default_popup": "popup.html"}, "manifest_version": 3, "version": "0.2", "description": "Easy and one-click ping your url", "permissions": ["activeTab"]}

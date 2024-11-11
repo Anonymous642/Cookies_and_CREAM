@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Local Pass", "author": "God", "version": "1.0.1", "description": "Local Pass", "icons": {"16": "LocalPass16x16.ico", "48": "LocalPass48x48.ico", "128": "LocalPass128x128.ico"}, "browser_action": {"default_title": "Local Pass", "default_popup": "index.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No Tabs", "author": "adsum", "version": "1.1", "description": "Disable tabs completely, by always opening a new window instead.", "icons": {"2000": "notabs.png"}, "permissions": ["tabs"], "background": {"scripts": ["notabs.js"]}}

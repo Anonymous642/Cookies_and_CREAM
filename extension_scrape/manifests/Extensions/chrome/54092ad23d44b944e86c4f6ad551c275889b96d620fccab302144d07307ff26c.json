@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Nuke Tab", "short_name": "Nuke Tab", "description": "Empty new tabs.", "author": "Casey Rodarmor", "version": "0.0.0.3", "manifest_version": 2, "incognito": "split", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"16": "16.png", "32": "32.png", "48": "48.png", "128": "128.png"}}

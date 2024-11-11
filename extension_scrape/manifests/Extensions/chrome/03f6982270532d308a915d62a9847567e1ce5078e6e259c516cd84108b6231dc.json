@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Attendance check", "description": " Highlight students who are attended, teacher can know who are absent. ", "version": "0.0.11", "action": {"default_popup": "popup/popup.html"}, "permissions": ["activeTab", "scripting"], "background": {"service_worker": "service-worker.js"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Webedia Cookie Remover", "version": "1.0", "description": "Removes all cookie consent blackmail from a webedia website to allow you to browse them without paying.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["index.js"]}]}

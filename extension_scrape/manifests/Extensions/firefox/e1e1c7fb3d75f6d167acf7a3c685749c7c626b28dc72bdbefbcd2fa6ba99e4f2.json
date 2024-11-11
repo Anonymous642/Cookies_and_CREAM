@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Zwipr", "version": "1.1", "description": "Allows right-click download of undownloadable flickr images", "icons": {"48": "icons/zwipr-48.png"}, "content_scripts": [{"matches": ["*://www.flickr.com/*"], "js": ["zwipr.js"]}], "browser_specific_settings": {"gecko": {"id": "{eed920a7-f2f3-4aac-a494-ea4038df8f0b}"}}}

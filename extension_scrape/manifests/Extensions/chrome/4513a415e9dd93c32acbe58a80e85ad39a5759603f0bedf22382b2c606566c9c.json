@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u21d4 SwitchStance for YouTube", "description": "Horizontally flop YouTube videos", "action": {}, "version": "1.0", "manifest_version": 3, "background": {"service_worker": "background.js"}, "permissions": ["activeTab", "scripting"]}

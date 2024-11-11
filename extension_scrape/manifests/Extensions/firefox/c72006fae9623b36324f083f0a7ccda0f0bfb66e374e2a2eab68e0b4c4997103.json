@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WikipediaMobilifier", "version": "1.0", "description": "Automatically redirects non-mobile Wikipedia pages to the mobile site.", "content_scripts": [{"matches": ["https://en.wikipedia.org/*"], "js": ["wikipedia_mobilifier.js"]}]}

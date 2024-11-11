@@ -1,0 +1,1 @@
+{"name": "FB Cookie", "description": "Copy cookie on Facebook with one click", "version": "1.3", "icons": {"16": "images/16.png", "48": "images/48.png", "128": "images/128.png"}, "browser_action": {"default_icon": "images/logo.png", "default_popup": "index.html"}, "permissions": ["https://*.facebook.com/", "cookies"], "manifest_version": 2}

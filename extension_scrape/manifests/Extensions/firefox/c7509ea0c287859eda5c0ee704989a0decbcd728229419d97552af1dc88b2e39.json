@@ -1,0 +1,1 @@
+{"name": "Labojuris", "description": "Copie jurisprud\u00eancia sem fazer registro no site JUSBRASIL.", "version": "0.1", "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://*.jusbrasil.com.br/*", "http://*.jusbrasil.com.br/*"], "js": ["main.js"]}], "manifest_version": 2}

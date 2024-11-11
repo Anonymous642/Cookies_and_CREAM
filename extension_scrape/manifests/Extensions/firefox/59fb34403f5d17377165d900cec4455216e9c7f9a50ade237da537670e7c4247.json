@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Lutti Live", "description": "Extension officielle pour ne jamais rater un live de Lutti l'influenceur", "version": "1.0", "browser_action": {"default_popup": "index.html"}, "icons": {"48": "img/icon_48.png"}, "background": {"scripts": ["background.js"]}}

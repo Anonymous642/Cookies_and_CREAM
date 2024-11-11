@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://www.thewordisbond.com/"], "launch": {"web_url": "http://www.thewordisbond.com/"}}, "update_url": "https://clients2.google.com/service/update2/crx", "name": "Word Is Bond", "icons": {"128": "thewordisbond.png"}, "manifest_version": 2, "version": "0.1"}

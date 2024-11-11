@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BarterGGLink", "version": "1.0", "description": "Adds a link to gg.deals on barter.vg game pages", "icons": {"48": "gg.png"}, "permissions": [], "content_scripts": [{"matches": ["*://*.barter.vg/i/*"], "js": ["ggDeals.js"]}], "browser_specific_settings": {"gecko": {"id": "{3724f97b-6296-41d2-a97a-c68292391add}"}}}

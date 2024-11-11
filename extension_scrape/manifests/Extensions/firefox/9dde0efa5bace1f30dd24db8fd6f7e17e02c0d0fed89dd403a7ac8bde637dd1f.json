@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "B vision", "version": "1.1", "description": "Replace all B with more cool B", "icons": {"48": "b.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["main.js"]}]}

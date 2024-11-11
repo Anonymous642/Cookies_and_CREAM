@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Square YT Player", "version": "1.0", "description": "Removes rounded edges off of the youtube video player", "icons": {"48": "logo.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "css": ["square.css"]}], "browser_specific_settings": {"gecko": {"id": "{bc2f1a24-5843-4379-9b0a-357011296a45}"}}}

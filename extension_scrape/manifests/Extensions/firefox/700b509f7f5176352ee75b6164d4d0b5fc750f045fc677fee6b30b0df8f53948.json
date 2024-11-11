@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Keyboard Navigation", "version": "1.0", "description": "Navigate webpages using the keyboard.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["styles.css"]}], "browser_specific_settings": {"gecko": {"id": "{198f6bad-83fd-4eed-b97a-e85a50ea44b9}"}}}

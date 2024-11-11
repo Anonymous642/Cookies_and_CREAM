@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CheggSkip", "version": "1.0.1", "description": "Allow skip or Exit a question on chegg", "icons": {"48": "border-48.png"}, "browser_specific_settings": {"gecko": {"id": "cheggextension@github.com"}}, "content_scripts": [{"matches": ["*://*.chegg.com/*"], "js": ["skip.js"]}]}

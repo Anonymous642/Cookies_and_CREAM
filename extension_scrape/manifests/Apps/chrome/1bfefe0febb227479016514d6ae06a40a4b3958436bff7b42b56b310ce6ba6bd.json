@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "\u77e5\u4e4e", "description": "\u8fdb\u5165\u77e5\u4e4e\u7f51\u7ad9", "version": "2", "icons": {"24": "24.png", "128": "128.png"}, "app": {"urls": ["http://www.zhihu.com/"], "launch": {"web_url": "http://www.zhihu.com/"}}, "manifest_version": 2}

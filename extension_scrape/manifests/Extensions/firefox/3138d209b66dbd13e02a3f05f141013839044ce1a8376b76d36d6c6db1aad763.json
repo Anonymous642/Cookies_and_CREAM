@@ -1,0 +1,1 @@
+{"name": "Kursy walut ekantor.pl", "description": "Tabela z kursami walut z ekantor.pl", "version": "1.0.1", "manifest_version": 2, "icons": {"19": "icon19.png", "48": "icon48.png"}, "browser_action": {"default_icon": "icon19.png", "default_popup": "popup.html"}, "permissions": ["activeTab", "https://ekantor.pl/"]}

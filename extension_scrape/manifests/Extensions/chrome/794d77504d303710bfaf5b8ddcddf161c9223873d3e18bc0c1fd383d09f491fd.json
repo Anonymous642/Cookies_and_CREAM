@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Stopwatch for Excel", "description": "Adds a stopwatch to Excel.", "version": "1.0", "icons": {"48": "timer48.png"}, "content_scripts": [{"matches": ["https://*.sharepoint.com/*x*/*xlsx*"], "js": ["excel-stopwatch.js"]}]}

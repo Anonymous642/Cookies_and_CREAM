@@ -1,0 +1,1 @@
+{"description": "Make the website your watching going on DISCO Mode", "manifest_version": 2, "name": "Disco Page", "version": "1.0.3", "background": {"scripts": ["background.js"]}, "icons": {"2400": "icons/icon.png"}, "page_action": {"default_icon": "icons/off.svg", "browser_style": true}, "permissions": ["activeTab", "tabs", "unlimitedStorage"]}

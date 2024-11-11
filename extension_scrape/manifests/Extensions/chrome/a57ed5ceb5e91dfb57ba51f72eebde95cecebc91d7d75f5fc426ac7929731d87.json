@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HRMS", "version": "1.0.0", "description": "Attandance System", "action": {"default_icon": "assets/images/icon.png", "default_popup": "index.html"}, "icons": {"16": "assets/images/icon16.png", "48": "assets/images/icon48.png", "128": "assets/images/icon128.png"}}

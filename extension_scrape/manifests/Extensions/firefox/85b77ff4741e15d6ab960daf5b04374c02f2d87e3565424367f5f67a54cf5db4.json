@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "XCD to HUF", "version": "1.0", "description": "Convert XCD to HUF", "browser_specific_settings": {"gecko": {"id": "xcd-to-huf@example.com"}}}

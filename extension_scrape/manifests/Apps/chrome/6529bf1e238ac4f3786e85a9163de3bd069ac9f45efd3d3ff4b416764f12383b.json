@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Minton", "description": "Kostenlose Flappy Bird Alternative. Hilf der Fledermaus Minton.", "version": "1.0.4", "app": {"urls": ["*://minton.gamefab.de/"], "launch": {"web_url": "https://minton.gamefab.de/"}}, "icons": {"128": "icon_128.png"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Logseq Clip", "version": "0.0.6", "permissions": ["contextMenus", "storage"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "options.html"}, "manifest_version": 3, "options_page": "options.html", "icons": {"16": "icon-16.png", "48": "icon-48.png", "128": "icon-128.png"}}

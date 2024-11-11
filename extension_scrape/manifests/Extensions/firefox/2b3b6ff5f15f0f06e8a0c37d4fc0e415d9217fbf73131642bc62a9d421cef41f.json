@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "\u53f3\u30af\u30ea\u30c3\u30afScrapbox\u691c\u7d22", "description": "", "version": "1.0", "applications": {"gecko": {"strict_min_version": "60.0"}}, "background": {"scripts": ["src/Test.js", "src/background.js"]}, "permissions": ["contextMenus"], "icons": {"48": "icons/icon_48.png", "96": "icons/icon_96.png"}}

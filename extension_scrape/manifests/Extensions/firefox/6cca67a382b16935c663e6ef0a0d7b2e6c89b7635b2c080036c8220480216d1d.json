@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Curse Highlight", "version": "1.0", "description": "Highlights curse words on lyrics websites.", "icons": {"48": "icons/curse_2.svg"}, "content_scripts": [{"matches": ["*://*.azlyrics.com/*", "*://*.songlyrics.com/*", "*://*.lyricsfreak.com/*", "*://*.metrolyrics.com/*", "*://*.lyricsmode.com/*"], "js": ["mark.min.js", "curse.js"]}]}

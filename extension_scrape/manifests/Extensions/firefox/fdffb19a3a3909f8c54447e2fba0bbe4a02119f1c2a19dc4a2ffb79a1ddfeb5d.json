@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "!Bang Quick Search", "description": "DuckDuckGo !bang quick search", "version": "1.5.2", "author": "Brian Dawson", "permissions": ["*://*.google.com/*", "*://*.bing.com/*", "webRequest", "webRequestBlocking"], "background": {"scripts": ["js/bang.js"]}, "icons": {"16": "images/bang.png", "48": "images/bang.png", "128": "images/bang.png"}}

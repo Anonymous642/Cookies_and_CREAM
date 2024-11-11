@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Minimum Chrome Version", "manifest_version": 3, "description": "Minimum Chrome Version", "minimum_chrome_version": "107.0.5304.87", "version": "0.1", "icons": {"128": "icon.png"}, "browser_action": {"default_icon": "icon.png"}}

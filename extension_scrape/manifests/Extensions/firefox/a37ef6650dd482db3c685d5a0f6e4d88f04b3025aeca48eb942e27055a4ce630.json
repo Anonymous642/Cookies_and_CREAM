@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My Extension", "version": "1.0", "description": "Extension for Turkmenpost payments", "browser_specific_settings": {"gecko": {"id": "turkmenpost@automate.org"}}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "permissions": ["tabs"]}

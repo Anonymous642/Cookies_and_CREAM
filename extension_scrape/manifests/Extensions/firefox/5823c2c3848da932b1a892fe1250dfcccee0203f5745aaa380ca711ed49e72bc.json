@@ -1,0 +1,1 @@
+{"name": "Discord BetterTheme", "description": "An alternative discord theme handler", "version": "1.0", "manifest_version": 2, "content_scripts": [{"matches": ["https://discord.com/channels/*"], "css": ["styles.css"]}], "applications": {"gecko": {"id": "DiscordThemes@carlosthepro.com"}}}

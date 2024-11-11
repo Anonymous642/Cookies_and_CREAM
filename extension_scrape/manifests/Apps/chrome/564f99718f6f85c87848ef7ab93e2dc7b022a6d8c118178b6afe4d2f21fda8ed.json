@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Pixel Count", "description": "Finds the percentage of coloured pixels", "version": "1.0.0", "app": {"background": {"scripts": ["app/js/background.js"]}}, "icons": {"256": "app/logo.png"}, "permissions": ["storage", {"fileSystem": ["write", "retainEntries", "directory"]}]}

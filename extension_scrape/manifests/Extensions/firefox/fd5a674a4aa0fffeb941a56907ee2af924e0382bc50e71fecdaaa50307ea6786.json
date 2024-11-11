@@ -1,0 +1,1 @@
+{"name": "weather", "version": "0.0.1", "manifest_version": 2, "browser_action": {"default_popup": "popup.html", "default_icon": "logo.png"}, "permissions": ["activeTab"], "icons": {"128": "logo.png"}, "browser_specific_settings": {"gecko": {"id": "{d19563d0-45ae-4380-8112-0ea9431ce3a6}"}}}

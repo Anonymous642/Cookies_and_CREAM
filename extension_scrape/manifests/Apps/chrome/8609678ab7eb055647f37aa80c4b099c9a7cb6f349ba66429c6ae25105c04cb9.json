@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ZIV Dms Mobile Lite", "description": "ZIV Dms Mobile Lite", "permissions": ["storage", "alarms", "notifications", "webview"], "version": "0.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "DMS-16.png", "128": "DMS-128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AntiPHP web theme", "version": "0.0.1", "description": "Dark theme for google.de", "author": "Christian Reinecke <christian.reinecke@web.de>", "homepage_url": "https://github.com/antiphp/web_theme", "applications": {"gecko": {"id": "web-theme@antiphp.net"}}, "content_scripts": [{"matches": ["*://*.google.de/*"], "css": ["google.min.css"]}]}

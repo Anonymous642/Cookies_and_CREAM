@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Justification", "version": "1.0.1", "description": "Justify and hyphenate (if site declares language) any paragraph or list.", "icons": {"48": "icon48.png", "96": "icon96.png"}, "applications": {"gecko": {"id": "{865ef0c9-4859-40ba-b16b-3b21a6fae460}"}}, "content_scripts": [{"css": ["style.css"], "matches": ["http://*/*", "https://*/*"]}]}

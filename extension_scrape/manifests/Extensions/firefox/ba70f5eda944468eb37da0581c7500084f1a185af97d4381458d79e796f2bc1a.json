@@ -1,0 +1,1 @@
+{"description": "Adds a button that copies the fireteam leader's join code to clipboard", "manifest_version": 2, "name": "Bungie.net - Fireteam Join Code Button", "version": "1.0", "icons": {"48": "icons/icon.png", "96": "icons/icon@2x.png"}, "content_scripts": [{"matches": ["*://*.bungie.net/*/ClanV2/PublicFireteam?*"], "js": ["copybutton.js"], "run_at": "document_start"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gpaletanotif", "description": "Cette extension a \u00e9t\u00e9 mise au point pour vous pr\u00e9venir quand Gpaletan stream", "version": "0.5", "browser_action": {"default_popup": "index.html"}, "icons": {"64": "sub.png"}, "background": {"scripts": ["background.js"]}}

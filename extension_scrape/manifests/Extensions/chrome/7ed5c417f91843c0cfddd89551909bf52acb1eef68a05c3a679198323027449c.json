@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Zombie Survival", "description": "Sobrevivia aos ataques dos zombies", "version": "1.0", "manifest_version": 3, "icons": {"48": "sprites/logo@48.png", "128": "sprites/logo@128.png"}, "action": {"default_popup": "index.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Rugs Rate Estimation By FMP", "version": "1.0", "description": "Estimate rug rates with this extension.", "icons": {"16": "images/icon.png", "48": "images/icon48.png", "128": "images/icon128.png"}, "action": {"permissions": ["tabs"], "default_popup": "popup.html"}}

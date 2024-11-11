@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Origami Player", "description": "Learn origami with 3d graphics", "version": "2.5", "default_locale": "en", "app": {"urls": ["http://www.origamiplayer.com/"], "launch": {"web_url": "http://www.origamiplayer.com/"}}, "icons": {"128": "logo.png"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Swap.com Valet Service", "description": "The safest and most convenient way to trade pre-owned baby and kids' items", "version": "0.8.0.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://valet.swap.com/"], "launch": {"web_url": "http://valet.swap.com/"}}}

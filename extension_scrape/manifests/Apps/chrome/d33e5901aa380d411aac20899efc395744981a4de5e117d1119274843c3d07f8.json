@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Front & Social", "version": "1.1.1", "manifest_version": 2, "description": "Front & Social Media", "icons": {"128": "128.png"}, "app": {"launch": {"web_url": "http://frontandsocial.com/"}, "urls": ["http://frontandsocial.com/"]}}

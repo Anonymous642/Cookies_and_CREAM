@@ -1,0 +1,1 @@
+{"name": "Cat BackPack", "description": "this extension is about backpack shopping. The Cat BackPack site is the shopping site which allow you to find the best backpack for you", "version": "0.0.0.1", "background": {"scripts": ["background.js"], "persistent": false}, "permissions": [], "browser_action": {}, "manifest_version": 2, "icons": {"128": "logo.png"}}

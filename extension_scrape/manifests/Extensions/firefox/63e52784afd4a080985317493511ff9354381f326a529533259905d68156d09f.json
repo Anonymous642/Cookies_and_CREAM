@@ -1,0 +1,1 @@
+{"name": "\u4e2d\u79fb\u7f51\u5927\u5de5\u5177\u680f", "version": "1.2", "manifest_version": 2, "description": "by lunzi@2021.4", "icons": {"16": "16.png", "48": "48.png", "128": "128.png"}, "browser_action": {"default_icon": "16.png", "default_popup": "index.html"}, "content_scripts": [{"matches": ["*://wangda.chinamobile.com/*"], "js": ["index.js"], "all_frames": true}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No Instagram Stories!", "version": "0.1", "description": "Instagram, but without the stories", "content_scripts": [{"matches": ["*://*.instagram.com/*"], "js": ["nostories.js"]}]}

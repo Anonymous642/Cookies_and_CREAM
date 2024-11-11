@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "BTN to SHP", "version": "1.0", "description": "Convert BTN to SHP", "browser_specific_settings": {"gecko": {"id": "BTN-to-shp@example.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Intranet Indecopi", "description": "Intranet Indecopi", "version": "1.0", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"64": "intranet64.png", "128": "intranet128.png"}}

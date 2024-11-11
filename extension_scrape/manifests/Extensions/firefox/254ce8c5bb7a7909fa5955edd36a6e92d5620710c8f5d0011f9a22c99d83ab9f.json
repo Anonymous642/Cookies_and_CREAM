@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sparkles", "version": "1.3", "description": "Sparkles at you fingertips.", "icons": {"48": "icons/sparkly-48.png", "64": "icons/sparkly-64.png", "96": "icons/sparkly-96.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["sparkly.js"]}]}

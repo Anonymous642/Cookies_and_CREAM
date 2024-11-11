@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Prompt", "description": "Displays a new prompt every day in a new tab.", "version": "1.0", "action": {"default_popup": "index.html"}, "permissions": [], "chrome_url_overrides": {"newtab": "index.html"}}

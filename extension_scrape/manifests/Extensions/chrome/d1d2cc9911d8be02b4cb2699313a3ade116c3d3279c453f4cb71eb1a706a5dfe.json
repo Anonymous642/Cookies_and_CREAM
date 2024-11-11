@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "2048 Fusion Challenge", "version": "1.0.0", "description": "Play The Famous 2048 Puzzle Game Directly From Chrome Browser!", "manifest_version": 3, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "action": {"default_popup": "popup.html"}, "permissions": ["storage"]}

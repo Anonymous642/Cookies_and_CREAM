@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "buy books", "description": "Non-fiction books you'll actually read.", "version": "0.0.1", "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.42rules.com/"], "launch": {"web_url": "http://www.42rules.com/"}}}

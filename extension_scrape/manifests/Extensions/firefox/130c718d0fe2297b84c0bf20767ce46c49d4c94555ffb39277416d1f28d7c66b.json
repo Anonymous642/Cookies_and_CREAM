@@ -1,0 +1,1 @@
+{"browser_specific_settings": {"gecko": {"id": "almascute@example.com"}}, "manifest_version": 3, "name": "Tab Tag", "version": "1.0", "description": "Tab Tag the Firefox bookmarks API to search through, save and delete bookmarks from the user's bookmark tree.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["bookmarks"]}

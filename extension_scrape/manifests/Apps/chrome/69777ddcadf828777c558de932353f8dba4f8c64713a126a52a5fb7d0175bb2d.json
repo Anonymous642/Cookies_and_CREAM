@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u65e5\u5386\u8868", "description": "\u652f\u6301\u4e2a\u6027\u5316\u5b9a\u5236\u7684\u65e5\u5386\u8868", "version": "1.0.2", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.51zhi.com/"], "launch": {"web_url": "http://www.51zhi.com/calendar/"}}}

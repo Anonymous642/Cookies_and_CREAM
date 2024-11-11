@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Nice Pages", "action": {}, "manifest_version": 3, "version": "1.0.0", "description": "Make your pages look nice with one click! Round corners, add transitions, and add smooth scrolling!", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}}

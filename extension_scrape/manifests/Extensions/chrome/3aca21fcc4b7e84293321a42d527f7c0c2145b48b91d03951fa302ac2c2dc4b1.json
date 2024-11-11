@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Unrounded Thumbnails", "version": "1.2", "description": "Removes round corners from YouTube thumbnails.", "icons": {"48": "icons/icon-48.png", "128": "icons/icon-128.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["main.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Remove BS", "version": "1.2.0", "description": "Remove all the BS and read your article from any site peacefully", "icons": {"128": "icons/icon.png"}, "action": {"default_title": "Remove BS", "default_popup": "popup.html"}, "permissions": ["storage", "activeTab", "scripting"]}

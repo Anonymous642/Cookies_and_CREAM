@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "hltv forum hider", "version": "1.0", "description": "removes the hltv.org forum", "icons": {"48": "icons/hltv-edit.jpg"}, "content_scripts": [{"matches": ["*://*.hltv.org/*"], "js": ["hlforumgo.js"]}]}

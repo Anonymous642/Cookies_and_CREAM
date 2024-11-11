@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Startpage", "version": "1.0", "description": "simple startpage", "icons": {"48": "ico-48.ico", "96": "ico-96.ico"}, "chrome_settings_overrides": {"homepage": "index.html"}, "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{912919f2-54a4-488d-9153-3c6395021a2c}"}}}

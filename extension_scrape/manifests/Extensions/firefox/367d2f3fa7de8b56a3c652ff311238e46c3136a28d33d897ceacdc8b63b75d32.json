@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "json-mime-type-override", "version": "1.5", "description": "Allow to override any content type containing json to application/json", "applications": {"gecko": {"strict_min_version": "52.0"}}, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["main.js"]}}

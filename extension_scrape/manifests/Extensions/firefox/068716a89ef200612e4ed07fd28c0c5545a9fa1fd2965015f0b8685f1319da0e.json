@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Return Old Twitter Logo", "version": "1.0.1", "description": "Replaces the new X logo with the blue bird icon", "icons": {}, "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["returntwt.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{d4645440-9414-4f0d-b000-2cfb124abcfc}"}}}

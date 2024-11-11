@@ -1,0 +1,1 @@
+{"name": "Contract Labeling Services", "description": "We are a Southern California package decoration and product labeling company.", "app": {"urls": ["http://www.contractlabel.com/"], "launch": {"web_url": "http://www.contractlabel.com/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

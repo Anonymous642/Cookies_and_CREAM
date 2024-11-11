@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tumblr Unrecommend", "version": "1.1", "description": "Remove \"recommended\" posts from your Tumblr dashboard.", "icons": {"48": "icon-48.png", "96": "icon-96.png"}, "content_scripts": [{"matches": ["*://*.tumblr.com/*"], "css": ["unrecommend.css"], "run_at": "document_start"}]}

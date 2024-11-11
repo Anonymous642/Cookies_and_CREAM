@@ -1,0 +1,1 @@
+{"description": "bugzilla", "manifest_version": 2, "name": "bugzilla", "version": "2.0", "icons": {"48": "icons/bugzilla.png"}, "permissions": ["webRequest", "webRequestBlocking", "http://bugzilla.intra.nsfocus.com/*"], "background": {"scripts": ["bugzilla.js"]}, "browser_specific_settings": {"gecko": {"strict_min_version": "57.0a1"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "IRR Calculation", "version": "0.0.1", "description": "Calculates the IRR for a selected period of time in Google Finance stock graph", "manifest_version": 2, "content_scripts": [{"matches": ["https://www.google.com/*", "http://www.google.com/*"], "js": ["content.js"]}]}

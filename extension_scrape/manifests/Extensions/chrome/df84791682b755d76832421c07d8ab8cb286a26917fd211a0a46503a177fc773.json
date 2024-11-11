@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "background": {"service_worker": "background.js"}, "content_scripts": [{"js": ["content_scripts.js"], "matches": ["<all_urls>"]}], "description": "IBS Extension", "icons": {"128": "icon-128.png"}, "manifest_version": 3, "name": "IBSextension", "permissions": ["nativeMessaging"], "version": "1.0.0.0"}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Minha Encomenda", "version": "2.7", "description": "Acompanhe a entrega das suas encomendas dos Correios com praticidade e rapidez!", "author": "Herbert Souza", "action": {"default_popup": "index.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "manifest_version": 3}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RotMG Cheater Database", "version": "1.2.3", "permissions": ["http://www.realmeye.com/", "https://www.realmeye.com/"], "content_scripts": [{"matches": ["http://www.realmeye.com/*", "https://www.realmeye.com/*"], "js": ["jquery.js", "rotmg-cheaters.js"]}], "applications": {"gecko": {"id": "jid1-I9KGnRU1CtGTCg@jetpack"}}}

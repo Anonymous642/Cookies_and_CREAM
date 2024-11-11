@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Music Video Disabler", "version": "1.0", "description": "Removes music videos from youtube music.", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://music.youtube.com/*"], "js": ["disabler.js"]}], "browser_specific_settings": {"gecko": {"id": "{96f78f0a-8a56-4a25-995f-0504b5afe8ce}"}}}

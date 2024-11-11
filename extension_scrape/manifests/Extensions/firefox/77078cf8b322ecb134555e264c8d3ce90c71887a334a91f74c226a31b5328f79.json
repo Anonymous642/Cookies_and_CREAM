@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "msredirect", "version": "1.0", "description": "Redirects Microsoft Documentation website to English.", "content_scripts": [{"matches": ["*://*.docs.microsoft.com/*"], "js": ["msredirect.js"]}], "browser_specific_settings": {"gecko": {"id": "{69731d8e-b408-4dd6-ac3e-2ad9a7e257e9}"}}}

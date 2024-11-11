@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Random Joke Generator", "version": "1.0", "description": "Displays a random joke", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html"}, "permissions": ["<all_urls>"], "browser_specific_settings": {"gecko": {"id": "{16dc533c-da80-4229-a076-2f0226449e3f}"}}}

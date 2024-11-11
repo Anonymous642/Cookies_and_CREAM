@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "View in Steam", "version": "1.0", "description": "Adds a button on Steam store pages to open inside of the Steam client.", "icons": {"48": "icon-48.png"}, "content_scripts": [{"matches": ["*://store.steampowered.com/app/*"], "js": ["content.js"]}]}

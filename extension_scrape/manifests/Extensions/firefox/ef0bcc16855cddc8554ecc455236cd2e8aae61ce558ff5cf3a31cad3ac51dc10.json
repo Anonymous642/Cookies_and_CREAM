@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "sciebo-center", "version": "1.0", "description": "Centers video on scibo", "icons": {"48": "icon-48.png", "96": "icon-96.png"}, "content_scripts": [{"matches": ["*://*.sciebo.de/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{a6b4ef40-c47e-4d65-b83d-6a98d112560c}"}}}

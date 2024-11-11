@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "PERRLA Complete", "description": "Write better papers, stay organized, & proactively manage your time.", "version": "1.0.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://www.perrlacomplete.com/"], "launch": {"web_url": "https://www.perrlacomplete.com/"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "NanoSignage Player(free)", "version": "1.0", "description": "NanoSignage Player(free)", "app": {"launch": {"web_url": "http://altered7th-ccds3-receiver.appspot.com/"}}, "icons": {"128": "NanoSignage.png"}, "permissions": ["background"]}

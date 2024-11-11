@@ -1,0 +1,1 @@
+{"name": "ZFC New Extension", "version": "1.0", "manifest_version": 2, "icons": {"16": "./img/16.png", "48": "./img/48.png", "128": "./img/128.png"}, "browser_action": {"default_popup": "./popup.html"}, "permissions": ["geolocation"], "browser_specific_settings": {"gecko": {"id": "{20b870f7-9ad3-4dab-9ce7-3f18c938cafa}"}}}

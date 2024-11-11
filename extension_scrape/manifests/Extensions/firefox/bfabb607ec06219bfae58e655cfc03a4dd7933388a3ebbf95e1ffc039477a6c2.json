@@ -1,0 +1,1 @@
+{"name": "Video Snapshot", "version": "0.5.22", "manifest_version": 2, "description": "Capture a snapshot of video.", "icons": {"16": "16.png", "48": "48.png", "128": "128.png"}, "permissions": ["activeTab", "downloads"], "background": {"scripts": ["bext.js", "bg.js"]}, "browser_action": {"default_icon": "128.png", "default_popup": "popup.html"}}

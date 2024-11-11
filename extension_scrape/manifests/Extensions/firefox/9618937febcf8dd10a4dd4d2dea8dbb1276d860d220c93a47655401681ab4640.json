@@ -1,0 +1,1 @@
+{"name": "Corono Virus Tracker", "author": "vintageclassics", "version": "0.1", "manifest_version": 2, "description": "Track the Corono Virus in Real Time", "browser_action": {"default_icon": "cv19.png", "default_title": "Track the Corono Virus in Real Time", "default_popup": "extension.html"}, "icons": {"128": "cv19.png"}}

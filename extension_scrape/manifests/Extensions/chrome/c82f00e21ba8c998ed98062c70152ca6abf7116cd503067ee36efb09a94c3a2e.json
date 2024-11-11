@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DC Custom RG UI Elements", "version": "0.1.0", "description": "DC Adjustments to do temporary changes to RG ui.", "content_scripts": [{"css": ["styles.css"], "js": ["content.js"], "matches": ["https://www.rentalgauge.ca/*"]}]}

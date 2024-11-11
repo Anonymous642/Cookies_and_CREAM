@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://www.ninsaude.com/pt/"], "launch": {"web_url": "https://meu.ninsaude.com/"}}, "update_url": "https://clients2.google.com/service/update2/crx", "name": "Ninsa\u00fade", "icons": {"24": "24.png", "128": "128.png"}, "manifest_version": 2, "version": "2"}

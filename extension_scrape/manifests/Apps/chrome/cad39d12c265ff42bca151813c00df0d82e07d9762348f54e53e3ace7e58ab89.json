@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Thaifrau.de", "description": "Thailand Kontaktanzeigen", "version": "4.0", "manifest_version": 2, "app": {"urls": ["http://www.Thaifrau.de/"], "launch": {"web_url": "http://www.Thaifrau.de/"}}, "icons": {"128": "thaifrau-icon128.png"}}

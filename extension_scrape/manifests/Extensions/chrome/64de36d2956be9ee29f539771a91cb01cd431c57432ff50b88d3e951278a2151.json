@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Diff the JSON", "description": "Know what changes are done in JSON before it is late.", "version": "1.0", "manifest_version": 3, "background": {"service_worker": "background.js"}, "action": {}, "icons": {"16": "logo.png", "48": "logo.png", "128": "logo.png"}}

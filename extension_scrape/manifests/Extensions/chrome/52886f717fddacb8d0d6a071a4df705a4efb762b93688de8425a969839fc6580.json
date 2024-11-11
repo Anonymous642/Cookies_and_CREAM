@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Arris Router Login ", "version": "1.0", "description": "This extension opens helps you log in to admin Panel of Arris Router.", "action": {"default_popup": "popup.html"}, "icons": {"512": "icon.png"}}

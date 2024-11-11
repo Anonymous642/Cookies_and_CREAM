@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.0", "name": "Toshik & Yulchik", "description": "Forever?", "action": {"default_popup": "background.html"}, "icons": {"16": "heart_16.png", "48": "heart_48.png", "128": "heart_128.png"}}

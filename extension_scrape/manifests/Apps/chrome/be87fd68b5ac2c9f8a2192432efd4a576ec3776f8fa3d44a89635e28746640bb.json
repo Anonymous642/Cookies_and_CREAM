@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "FMOdisha", "description": "Listen to your favorite odiya music anytime.", "version": "0.3", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "icon16.png", "28": "icon28.png", "48": "icon48.png", "128": "icon128.png"}, "permissions": ["webview"]}

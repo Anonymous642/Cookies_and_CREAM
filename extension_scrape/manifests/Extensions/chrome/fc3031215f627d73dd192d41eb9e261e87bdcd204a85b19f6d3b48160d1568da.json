@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Si\u00eau Th\u1ecb B\u1ea3n Quy\u1ec1n", "version": "1.0.0", "description": "Change the background color of websites.", "permissions": ["scripting"], "host_permissions": ["<all_urls>"], "action": {"default_popup": "popup.html"}}

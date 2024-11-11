@@ -1,0 +1,1 @@
+{"name": "AFSX Wallet", "version": "1.0.0", "manifest_version": 2, "description": "AFSX wallet", "icons": {"512": "icon.png"}, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}}

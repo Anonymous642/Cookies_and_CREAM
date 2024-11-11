@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No Adfoc.us Links", "version": "1.0.0", "content_scripts": [{"matches": ["<all_urls>"], "js": ["index.js"]}], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{d7f7e2ce-4941-4d07-9af0-ce563b700523}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Student Admin but not that ugly", "description": "Makes UConn's Student Admin page more user friendly", "version": "1.0.2", "content_scripts": [{"js": ["contentScript.js"], "matches": ["https://student.studentadmin.uconn.edu/psp/CSPR/EMPLOYEE/HRMS/*"]}]}

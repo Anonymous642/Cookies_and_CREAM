@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AWS User Consent Tab Close", "version": "1.0", "description": "Auto-closes an AWS user-consent tab once consent is given.", "icons": {"48": "icons/baseline_close_black_24dp.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["tabs"]}

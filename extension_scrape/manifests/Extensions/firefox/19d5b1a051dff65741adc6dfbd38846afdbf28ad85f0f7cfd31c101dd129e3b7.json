@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Analog Watch with Easter Angels theme", "version": "0.3", "chrome_url_overrides": {"newtab": "EasterAngels.html"}, "permissions": [], "applications": {"gecko": {"strict_min_version": "54.0a1"}}}

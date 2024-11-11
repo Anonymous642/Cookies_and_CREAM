@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "infinity_job_view", "version": "1.0", "description": "View jobs without login in kariyer.net", "background": {"scripts": ["infinity_job_view.js"], "persistent": false, "type": "module"}, "permissions": ["cookies", "*://*.kariyer.net/*"], "browser_specific_settings": {"gecko": {"id": "infinity_job_view@alper.com"}}}

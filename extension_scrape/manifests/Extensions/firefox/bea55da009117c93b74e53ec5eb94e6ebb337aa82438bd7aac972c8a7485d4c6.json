@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BookmarSpeeDial", "version": "1.0", "description": "Create a Speed Dial from the Bookmarks", "icons": {"48": "icons/BookmarSpeeDial48.png"}, "chrome_url_overrides": {"newtab": "./index.html"}, "permissions": ["bookmarks"], "browser_specific_settings": {"gecko": {"id": "BookmarSpeeDial@srjuggernaut.dev"}}}

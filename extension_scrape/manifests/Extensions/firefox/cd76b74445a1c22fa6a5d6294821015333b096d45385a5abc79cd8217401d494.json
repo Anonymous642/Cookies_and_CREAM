@@ -1,0 +1,1 @@
+{"applications": {"gecko": {"id": "virtuos86@autoclosing-of-addons-page", "strict_min_version": "57.0"}}, "manifest_version": 2, "name": "Autoclosing of Addons Page", "version": "0.1", "icons": {"32": "icons/icon.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["tabs"]}

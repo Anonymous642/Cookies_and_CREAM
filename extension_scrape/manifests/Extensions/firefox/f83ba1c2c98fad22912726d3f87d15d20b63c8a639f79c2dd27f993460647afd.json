@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "gothamExtension", "author": "Aryan Sharma", "version": "1.0.1", "description": "Focus on your main tasks with Time and weather widgets", "permissions": ["storage"], "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{98a50573-2b7d-4e3f-be89-44d58c2fca94}"}}}

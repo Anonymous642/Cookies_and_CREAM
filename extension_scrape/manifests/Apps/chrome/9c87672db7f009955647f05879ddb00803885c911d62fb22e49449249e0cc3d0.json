@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Rauchwarnmelder Test", "description": "Wir haben f\u00fcr sie die besten Rauchwarnmelder getestet", "version": "2.1", "manifest_version": 2, "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.rauchwarnmelder-test.de/"], "launch": {"web_url": "http://www.rauchwarnmelder-test.de/"}}}

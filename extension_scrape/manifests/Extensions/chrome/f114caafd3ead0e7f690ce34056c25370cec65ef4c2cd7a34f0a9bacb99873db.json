@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pacman Game", "description": "Pacman game, unblocked and offline.", "version": "1.020", "icons": {"16": "Icon.png", "48": "Icon.png", "128": "Icon.png"}, "action": {"default_popup": "main.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Cuck to Smurf", "description": "This extension squanches the word cuck to smurf.", "version": "1.0", "icons": {"128": "smurf.png"}, "applications": {"gecko": {"id": "smurf@somethingafal.com"}}, "content_scripts": [{"matches": ["*://*/*"], "js": ["script.js"], "run_at": "document_end"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Link Sharer for Discord", "description": "Share links to Discord webhooks", "version": "0.0.2", "options_page": "options.html", "options_ui": {"page": "options.html"}, "browser_action": {"default_popup": "popup.html"}, "permissions": ["tabs", "storage"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Majestical Pig", "description": "You control a snazzy pig trying to make his way back home. if you liked this please donate. Flightless Bird inc 2015", "version": "0.0.0.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "icon_16.png", "128": "icon_128.png"}}

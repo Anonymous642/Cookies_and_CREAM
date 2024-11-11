@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "reader", "version": "1.0", "description": "reads the whole webpage excluding the adds and menu ", "browser_action": {"default_title": "weather", "default_popup": "weather.html"}, "permissions": ["http://api.openweathermap.org/*"]}

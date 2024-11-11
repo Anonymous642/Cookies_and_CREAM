@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TestRail display full cases names", "version": "2", "description": "Display long test cases names in the TestRail checklists!", "content_scripts": [{"matches": ["https://*.testrail.io/index.php?/runs/view*"], "js": ["app.js"]}]}

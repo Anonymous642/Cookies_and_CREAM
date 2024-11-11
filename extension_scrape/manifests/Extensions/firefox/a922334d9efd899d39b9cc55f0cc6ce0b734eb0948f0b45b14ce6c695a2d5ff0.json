@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bing Search Clear", "version": "1.0", "description": "Clears the Bing search bar", "icons": {"48": "icons/my_icon.jpg", "96": "icons/my_icon.jpg"}, "background": {"scripts": ["clear.js"]}, "browser_specific_settings": {"gecko": {"id": "clear-yxgstudio@outlook.com"}}, "permissions": ["*://*.bing.com/search*", "webRequest", "webRequestBlocking"]}

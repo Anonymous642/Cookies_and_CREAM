@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cat Image Extension", "version": "1.0", "description": "Opens a new tab with a cute cat image.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Battlehand Tunnel Vision", "version": "1.2.2", "description": "Removes all web content from Battlehand web page except the game and/or the chat.", "icons": {"48": "icons/bhtv-48.png", "96": "icons/bhtv-96.png"}, "content_scripts": [{"matches": ["*://*.kongregate.com/games/AnotherPlaceProd/battlehand-web*"], "js": ["bhtv.js"]}]}

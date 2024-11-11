@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "sDark", "version": "1.0", "description": "A dark mode made by Sparksammy.", "icons": {"48": "icons/dark-48.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["dark.js"]}]}

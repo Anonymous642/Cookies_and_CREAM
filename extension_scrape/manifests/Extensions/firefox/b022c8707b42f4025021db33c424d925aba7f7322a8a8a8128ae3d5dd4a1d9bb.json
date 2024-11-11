@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "T-View NoAds", "version": "1.0", "description": "Removes the annoying ads and the upgrade to pro message in T-View", "icons": {"128": "icon-128.png"}, "content_scripts": [{"matches": ["*://*.tradingview.com/*"], "js": ["index.js"], "run_at": "document_start"}]}

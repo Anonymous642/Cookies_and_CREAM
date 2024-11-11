@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Cousins Adore a Summer at the Shore", "short_name": "Cousins Adore", "description": "Childrens book by Dr Garth Slysz", "version": "1.1", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "appicon16.png", "128": "appicon128.png"}}

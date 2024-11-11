@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bergzeit Outdoor Shop", "description": "Bergzeit, der Outdoorshop f\u00fcr Klettern, Bergsport und Camping", "version": "0.2", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.bergzeit.de/"], "launch": {"web_url": "http://www.bergzeit.de/"}}}

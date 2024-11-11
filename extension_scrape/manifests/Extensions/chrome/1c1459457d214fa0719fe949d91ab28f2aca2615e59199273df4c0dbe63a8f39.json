@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Access Fintech - Bubbler", "version": "0.0.1", "description": "Takes your bubbles to a whole new level", "content_scripts": [{"css": ["styles.css"], "js": ["jquery.min.js", "content.js"], "matches": ["https://*.accessfintech.com/risks/by-journey/*"]}]}

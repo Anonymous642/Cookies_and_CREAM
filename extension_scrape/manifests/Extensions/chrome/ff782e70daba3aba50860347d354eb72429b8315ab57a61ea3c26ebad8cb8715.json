@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "HYPE CRO", "description": "This tool helps you to manage your A/B Tests", "version": "0.1", "manifest_version": 2, "browser_action": {"default_popup": "index.html", "default_icon": "assets/icon.png"}, "permissions": ["activeTab", "*://*/*", "cookies", "browsingData"], "icons": {"128": "assets/icon.png"}}

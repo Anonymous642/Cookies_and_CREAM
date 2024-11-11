@@ -1,0 +1,1 @@
+{"name": "Feed-killer", "author": "Serhii Tatsiak", "version": "0.5", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "css": ["style.css"], "js": ["content.js"], "run_at": "document_start"}], "browser_action": {}, "description": "Browser extension that removes distracting elements from Youtube\u2122", "manifest_version": 2}

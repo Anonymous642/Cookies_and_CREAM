@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TabCap", "version": "1.2", "description": "A simple tab limiting extension", "background": {"scripts": ["background.js"], "persistent": false}, "browser_action": {"default_popup": "popup.html"}, "permissions": ["tabs", "storage"], "browser_specific_settings": {"gecko": {"id": "{1f8924bf-aca3-48cb-92f8-52118a3a748c}"}}}

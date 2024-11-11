@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Page Background", "action": {}, "manifest_version": 3, "version": "0.11", "description": "Modify the page background", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "service_worker.js"}}

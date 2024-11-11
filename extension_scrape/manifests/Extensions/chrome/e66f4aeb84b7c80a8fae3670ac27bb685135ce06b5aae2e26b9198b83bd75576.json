@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "GitHub Diff Filter", "description": "Filter out diffs by filename on GitHub", "version": "0.0.1", "content_scripts": [{"matches": ["https://github.com/*"], "js": ["jquery.js", "main.js"], "all_frames": true}]}

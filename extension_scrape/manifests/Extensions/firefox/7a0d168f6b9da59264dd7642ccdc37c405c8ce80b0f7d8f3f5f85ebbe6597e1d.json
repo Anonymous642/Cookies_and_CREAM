@@ -1,0 +1,1 @@
+{"content_scripts": [{"js": ["js/jquery.js", "js/upvotes.js"], "matches": ["*://www.quora.com/*"]}], "description": "Sorts Quora answers by upvotes", "icons": {"128": "icon128.png"}, "manifest_version": 2, "name": "Quora Upvotes", "permissions": ["*://www.quora.com/*"], "version": "1.0.0.0"}

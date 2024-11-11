@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Antifa", "version": "1.1", "description": "Replaces facebook feed with positive image to help maintain your inner peace", "icons": {"48": "icons/ico.jpg"}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["antifa.js"]}], "web_accessible_resources": ["conent.jpg", "icons/ico.jpg"]}

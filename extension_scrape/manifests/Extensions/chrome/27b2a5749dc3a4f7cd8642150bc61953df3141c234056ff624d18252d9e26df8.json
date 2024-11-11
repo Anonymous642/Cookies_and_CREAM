@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "only-all-replay", "manifest_version": 3, "version": "0.1", "icons": {"48": "icon-48.png"}, "content_scripts": [{"matches": ["*://mail.google.com/*"], "js": ["content.js"], "run_at": "document_end"}]}

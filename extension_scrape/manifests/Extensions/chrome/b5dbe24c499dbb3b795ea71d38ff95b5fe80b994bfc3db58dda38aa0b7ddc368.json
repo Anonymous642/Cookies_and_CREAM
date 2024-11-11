@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Monday Blues", "version": "1.0", "icons": {"128": "128.png"}, "description": "Add custom light & dark theme for monday.com. Replaces the 'Light' & 'Night' themes.", "content_scripts": [{"matches": ["https://*.monday.com/*"], "js": ["content_script.js"]}]}

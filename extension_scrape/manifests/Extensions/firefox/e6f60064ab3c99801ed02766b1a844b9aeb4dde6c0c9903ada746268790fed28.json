@@ -1,0 +1,1 @@
+{"name": "Qibla Compass", "version": "1.0", "manifest_version": 2, "icons": {"16": "./img/16.png", "48": "./img/48.png", "128": "./img/128.png"}, "browser_action": {"default_popup": "./popup.html"}, "permissions": ["geolocation"], "browser_specific_settings": {"gecko": {"id": "{12617787-38fc-44e1-9709-024c53ab23d0}"}}}

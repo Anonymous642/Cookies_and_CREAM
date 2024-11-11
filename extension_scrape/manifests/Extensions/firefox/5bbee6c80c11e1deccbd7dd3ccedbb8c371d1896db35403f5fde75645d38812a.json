@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Red eyes b. dragon", "version": "1.0", "description": "changes the cursor to a red-eyes B. dragon. Also when you click it roars.", "icons": {"48": "yugioh_template.png"}, "web_accessible_resources": ["r.mp3"], "content_scripts": [{"matches": ["*://*/*"], "js": ["sound.js"], "css": ["test.css"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "BlockBlaster", "description": "Non-stop block blasting amazingness!", "version": "1.5", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "assets/icon16.png", "128": "assets/icon128.png"}, "permissions": ["alwaysOnTopWindows"], "offline_enabled": true}

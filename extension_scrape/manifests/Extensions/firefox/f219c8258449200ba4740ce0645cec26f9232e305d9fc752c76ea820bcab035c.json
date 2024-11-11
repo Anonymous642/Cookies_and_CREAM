@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gerador de CPF, RG e CNPJ", "version": "1.6", "author": "Paulo Andrade", "description": "Gera n\u00fameros v\u00e1lidos de CPF, RG e CNPJ", "browser_action": {"default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "default_icon": "icon.png", "browser_specific_settings": {"gecko": {"id": "{9cb4a600-f198-459c-afd5-6f03e6956502}"}}}

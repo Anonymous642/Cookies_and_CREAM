@@ -1,0 +1,1 @@
+{"app": {"launch": {"local_path": "main.html"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Habrahabr link", "name": "Habrahabr", "icons": {"16": "16x16.png", "32": "32x32.png", "48": "48x48.png", "128": "128x128.png"}, "manifest_version": 2, "version": "0.0.1"}

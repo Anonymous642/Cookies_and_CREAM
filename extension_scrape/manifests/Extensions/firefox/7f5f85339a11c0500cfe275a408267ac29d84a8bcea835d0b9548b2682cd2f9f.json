@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Idreau Live", "description": "Indique si Idreau est en live", "permissions": ["alarms"], "version": "1.0.2", "action": {"default_popup": "index.html"}, "icons": {"64": "img/icon.png"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "othman.amor@gmail.com"}}}

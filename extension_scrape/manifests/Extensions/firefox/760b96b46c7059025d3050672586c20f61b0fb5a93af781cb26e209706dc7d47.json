@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HouseHunter", "version": "1.0", "description": "Helps with house hunting on some real estate sites", "icons": {"48": "house48.png"}, "permissions": [], "content_scripts": [{"matches": ["*://*.redfin.com/*"], "js": ["js/househunter.js"]}]}

@@ -1,0 +1,1 @@
+{"name": "WebRequest Blocker", "version": "1.0", "description": "Uses the WebRequest API to block all cross-site requests", "background": {"scripts": ["background.js"], "persistent": true}, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"name": "JVForum", "description": "Ins\u00e8re un lien JVForum \u00e0 la place du bouton \u00ab\u202fNouveau sujet\u202f\u00bb inutile.", "version": "1.0", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["*://www.jeuxvideo.com/*"], "js": ["jvc.js"]}, {"matches": ["*://jvforum.fr/*"], "js": ["jvf.js"]}], "manifest_version": 2}

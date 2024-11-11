@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Merchant Machine", "description": "Compare UK Merchant Accounts & Card Payment Processing Providers", "version": "1.0", "icons": {"128": "bank-terminal.png"}, "app": {"launch": {"web_url": "http://merchantmachine.co.uk"}}}

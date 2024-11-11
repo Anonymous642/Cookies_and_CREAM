@@ -1,0 +1,1 @@
+{"description": "beta.crunchyroll.com unblocker", "manifest_version": 2, "name": "CR-beta", "version": "1.0.1b1", "permissions": ["storage", "webRequest", "webRequestBlocking", "cookies", "*://*.crunchyroll.com/", "*://*.herokuapp.com/"], "content_scripts": [{"matches": ["*://*.crunchyroll.com/"], "js": ["hello.js"]}], "background": {"scripts": ["background.js", "cors.js"]}}

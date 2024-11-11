@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Launchcloud", "short_name": "Launchcloud", "description": "Forms, reports & automation to make your business flow", "version": "1", "icons": {"128": "icon_128.png"}, "app": {"launch": {"web_url": "https://www.launchcloud.com/admin"}}}

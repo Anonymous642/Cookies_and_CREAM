@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "screensharing", "version": "2.0", "description": "allows for screensharing.", "icons": {"48": "icons/logo48.png", "64": "icons/logo64.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["index.js"]}]}

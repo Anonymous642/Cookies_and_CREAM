@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tidal long volume slider", "version": "1.3", "description": "Make the volume slider longer for more accurate volume control.", "content_scripts": [{"matches": ["*://listen.tidal.com/*"], "js": ["acc_volume.js"]}], "browser_specific_settings": {"gecko": {"id": "{f9e9b5ef-8d06-4186-bd73-16a0c7e4d22b}"}}}

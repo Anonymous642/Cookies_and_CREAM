@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Increase Your English Vocabulary", "version": "1.0", "description": "Learn a new english word on every new tab :D", "author": "Agency Enterprise Studio", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"16": "icon16.png", "128": "icon128.png"}}

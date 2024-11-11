@@ -1,0 +1,1 @@
+{"manifest_version": 2, "author": "Ada\u00edas Magdiel", "name": "Hex2Rgb", "description": "Converter hexadecimal color to rgb and vice versa.", "version": "0.1", "icons": {"48": "assets/icon.svg", "96": "assets/icon.svg"}, "browser_action": {"default_icon": "assets/icon.svg", "default_title": "Hex2Rgb", "default_popup": "popup/index.html"}}

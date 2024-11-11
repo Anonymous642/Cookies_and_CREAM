@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Racing", "manifest_version": 2, "description": "Nick Ooms Racing", "version": "1.0", "icons": {"16": "chrome-icon16.png", "128": "chrome-icon.png"}, "permissions": ["storage"], "app": {"background": {"scripts": ["background.js"]}}}

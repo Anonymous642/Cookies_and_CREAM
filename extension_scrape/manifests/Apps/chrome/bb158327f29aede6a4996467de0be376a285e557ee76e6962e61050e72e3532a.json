@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "63 Squares", "description": "Social Media Marketing Tools", "version": "2.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://63squares.com/"], "launch": {"web_url": "http://63squares.com/"}}}

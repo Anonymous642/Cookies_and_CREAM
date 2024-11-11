@@ -1,0 +1,1 @@
+{"name": "quotes", "version": "0.0.1", "manifest_version": 2, "browser_action": {"default_popup": "popup.html", "default_icon": "logo.png"}, "icons": {"128": "logo1.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{6cbde88c-5ba0-49fb-b99f-b748a0b9e7ac}"}}}

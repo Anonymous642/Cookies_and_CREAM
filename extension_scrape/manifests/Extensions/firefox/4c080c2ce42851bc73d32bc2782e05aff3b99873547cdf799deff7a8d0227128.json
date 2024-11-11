@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bulk URL Opener", "version": "1.0", "description": "Open multiple URLs at once", "icons": {"48": "icon.png"}, "permissions": ["tabs"], "browser_action": {"default_icon": {"48": "icon.png"}, "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{96f24682-bbfd-4672-9814-fb77de7e21c1}"}}}

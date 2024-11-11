@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "LivePerson E2E Enhancement #jf", "description": "LivePerson E2E Enhancement #jf", "version": "0.1.6", "manifest_version": 2, "content_scripts": [{"css": ["styles.css"], "js": ["content.js"], "matches": ["http://e2e.lpdomain.com:3030/production"]}], "browser_action": {"default_icon": "Extension_Icon.png"}}

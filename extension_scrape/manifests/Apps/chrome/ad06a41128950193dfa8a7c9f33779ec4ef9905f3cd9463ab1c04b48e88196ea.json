@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Japanese Kanji Quizzer", "description": "Learn Japanese Hiragana, Katakana, or Kanji with flashcard quizzes.", "version": "1.2", "app": {"urls": ["http://studykanji.net/kanjiquiz/"], "launch": {"web_url": "http://studykanji.net/kanjiquiz/chrome/"}}, "icons": {"128": "icon_128.png"}, "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "OER Commons", "description": "High-quality OER, tools, and training to navigate the brave new world of Open Ed. Welcome to the education renaissance.", "version": "0.3", "manifest_version": 2, "icons": {"128": "icon128.png"}, "app": {"launch": {"web_url": "http://www.oercommons.org/"}}}

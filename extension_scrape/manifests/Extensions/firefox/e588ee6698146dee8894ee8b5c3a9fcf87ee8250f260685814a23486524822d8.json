@@ -1,0 +1,1 @@
+{"version": "1.1", "manifest_version": 2, "short_name": "Live COVID-19 IND tracker", "name": "COVID-19 India tracker", "description": "Track Covid-19 cases in India from Chrome", "author": "Ullas Nandan", "browser_action": {"default_icon": "covid.png", "default_popup": "index.html"}, "icons": {"16": "covid.png", "48": "covid.png", "128": "covid.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "TabCleaner", "version": "0.1", "browser_action": {"default_icon": "Icons/Windex16.png", "default_popup": "index.html"}, "permissions": ["tabs"], "icons": {"128": "Icons/Windex128.jpg"}}

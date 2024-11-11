@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Bestmarmotte Extension Twitch", "description": "Savoir quand Bestmarmotte est en live sur Twitch!", "version": "0.4", "permissions": ["notifications"], "browser_action": {"default_popup": ""}, "icons": {"64": "offline.png"}, "background": {"scripts": ["background.js"]}}

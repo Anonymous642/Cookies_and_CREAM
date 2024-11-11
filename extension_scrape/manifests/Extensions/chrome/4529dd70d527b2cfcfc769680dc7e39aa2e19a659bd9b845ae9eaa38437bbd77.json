@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Proxy settings", "description": "Chrome Proxy settings", "icons": {"48": "icon.png"}, "version": "1.0.1", "manifest_version": 3, "permissions": ["proxy", "storage"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html"}}

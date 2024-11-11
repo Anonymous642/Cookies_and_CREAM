@@ -1,0 +1,1 @@
+{"description": "", "manifest_version": 3, "name": "IP Online Tools | By Solve IT", "version": "1.0", "icons": {"48": "images/icon-48.png"}, "action": {"default_icon": "images/icon-48.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "cs@solveit.my.id", "strict_min_version": "42.0"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HN Comments", "version": "0.3", "applications": {"gecko": {"id": "hncomments@mozilla.org", "strict_min_version": "45.0"}}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "browser_action": {"default_title": "HN Comments"}, "background": {"scripts": ["background.js"]}, "permissions": ["*://hn.algolia.com/*", "tabs"]}

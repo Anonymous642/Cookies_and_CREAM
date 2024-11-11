@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "WPI Schedule Exporter", "version": "1.2.3", "description": "Converts a WPI workday schedule to an ICS file.", "content_scripts": [{"matches": ["*://wd5.myworkday.com/wpi/*"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "globe-trotting", "version": "1.0", "description": "travelling sites shortcuts", "browser_action": {"default_title": "travel add-ons", "default_popup": "travel.html"}}

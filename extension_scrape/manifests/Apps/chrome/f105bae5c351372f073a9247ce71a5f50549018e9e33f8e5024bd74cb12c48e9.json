@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Nuvair", "description": "Manufacturer of Low/High Pressure Industrial, Breathing Air, Paintball, and Nitrox-Generating Compressors.", "version": "0.1", "icons": {"128": "nuvair-logo.png"}, "app": {"launch": {"web_url": "http://www.nuvair.com/?utm_medium=chrome&utm_source=app"}}}

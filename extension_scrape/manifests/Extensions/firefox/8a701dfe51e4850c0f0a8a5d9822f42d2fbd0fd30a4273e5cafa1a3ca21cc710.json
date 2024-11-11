@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "bruh", "version": "1.0", "description": "this addon will change almost all the text to bruh ", "icons": {"48": "bruhs/bruh.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["bruhscript.js"]}]}

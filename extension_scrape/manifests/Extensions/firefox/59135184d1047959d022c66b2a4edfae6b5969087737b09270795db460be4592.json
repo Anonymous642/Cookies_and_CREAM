@@ -1,0 +1,1 @@
+{"manifest_version": 3, "browser_specific_settings": {"gecko": {"id": "github-repos@siriuskoan.one"}}, "name": "GitHubRepos", "description": "Helps you list all your GitHub repos.", "version": "2.0", "permissions": ["storage"], "action": {"default_popup": "popup.html", "default_icon": {"16": "imgs/icon.png"}}}

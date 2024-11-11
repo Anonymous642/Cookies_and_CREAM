@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Dharmony Herbs", "description": "The Essential Guide to Aurvedic Medicine", "version": "1.0", "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.dharmonyherbs.com/"], "launch": {"web_url": "http://www.dharmonyherbs.com/"}}}

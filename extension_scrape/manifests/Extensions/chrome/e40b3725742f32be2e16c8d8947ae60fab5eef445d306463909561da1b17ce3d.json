@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Zendesk title updater", "version": "0.0.2", "description": "Update Zendesk window titles", "content_scripts": [{"js": ["script.js"], "matches": ["https://corelight.zendesk.com/*"]}]}

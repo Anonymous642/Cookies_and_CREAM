@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": " TIME ADDON", "version": "1.2", "description": "Time on IRCTC By Chinna$rinu", "icons": {"48": "icons/time.jpg"}, "applications": {"gecko": {"id": "TIME@mozilla.org", "strict_min_version": "45.0"}}, "content_scripts": [{"matches": ["*://*.irctc.co.in/*"], "js": ["time.js"]}]}

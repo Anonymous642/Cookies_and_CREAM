@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Gentlemint", "version": "1.0.1", "description": "The official Gentlemint chrome app.", "manifest_version": 2, "app": {"urls": ["http://gentlemint.com/"], "launch": {"web_url": "http://gentlemint.com/"}}, "icons": {"128": "icon_128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

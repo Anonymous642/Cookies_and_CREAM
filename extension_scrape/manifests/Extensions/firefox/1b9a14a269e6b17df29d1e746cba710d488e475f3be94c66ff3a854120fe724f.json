@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Wiki Widener", "version": "1.0", "description": "makes wikipedia pages full width again", "content_scripts": [{"matches": ["*://*.wikipedia.org/*"], "js": ["Wiki_Widener.js"]}], "browser_specific_settings": {"gecko": {"id": "{a91af330-6b6b-467b-abf2-d6626d7c8551}"}}}

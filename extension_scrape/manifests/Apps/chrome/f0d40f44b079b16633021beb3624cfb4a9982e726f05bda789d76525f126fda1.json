@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Project Starlight", "description": "HTML5 Game", "version": "0.2", "author": "Robert Bartolomei", "manifest_version": 2, "app": {"background": {"scripts": ["init.js"]}}, "icons": {"128": "icon 128x128.png"}, "permissions": ["https://www.google-analytics.com/", "storage"]}

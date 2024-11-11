@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Nju\u0161kalo kvadratura", "version": "1.0", "description": "Calculating and displaying real estate prices on Nju\u0161kalo.hr in euro per meter squared. Copyright AlphaSolutions Chrome extension.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*.njuskalo.hr/*"], "js": ["njkvadratura.js"], "run_at": "document_end"}]}

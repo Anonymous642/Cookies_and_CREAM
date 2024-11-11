@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Rupee Unit Converter", "description": "A tool to convert INR values in lakh/crores to USD", "version": "1.0", "action": {"default_popup": "index.html", "default_icon": "image.png"}}

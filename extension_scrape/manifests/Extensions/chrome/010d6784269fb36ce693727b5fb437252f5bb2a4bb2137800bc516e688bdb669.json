@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SEKHO", "description": "Now you can Change the current page colors with four different variations", "version": "2.0", "permissions": ["activeTab"], "browser_action": {"default_title": "SEKHO", "default_icon": "icon.png", "default_popup": "popup.html"}, "manifest_version": 2}

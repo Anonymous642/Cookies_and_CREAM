@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "No such thing as PDK", "description": "changes the word PDK to Automatic Transmission", "version": "1.0", "action": {"default_icon": "icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "all_frames": true, "js": ["content_script.js"], "run_at": "document_start"}]}

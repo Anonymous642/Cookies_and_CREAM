@@ -1,0 +1,1 @@
+{"description": "Adds an icon on toolbar which allows conversion from epoch timestamp to date", "manifest_version": 2, "name": "Rhombus", "version": "2.1", "icons": {"48": "icons/default-icon.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/default-icon.png", "default_title": "Rhombus", "default_popup": "popup/rhombus.html"}}

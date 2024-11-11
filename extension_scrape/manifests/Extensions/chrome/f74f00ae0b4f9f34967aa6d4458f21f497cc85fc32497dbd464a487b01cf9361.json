@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Twitter Viewcount Remover", "version": "0.1", "description": "Removes the Twitter view count icon and numbers. Not the most efficient code but gets the job done.", "browser_action": {}, "content_scripts": [{"matches": ["https://*.twitter.com/*"], "js": ["content.js"]}]}

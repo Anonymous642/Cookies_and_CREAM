@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CDisplay!", "description": "MusicCD Stream", "manifest_version": 2, "version": "1.0", "icons": {"128": "appicon.png"}, "app": {"urls": ["http://cdisplay.xyz/"], "launch": {"web_url": "http://cdisplay.xyz/"}}}

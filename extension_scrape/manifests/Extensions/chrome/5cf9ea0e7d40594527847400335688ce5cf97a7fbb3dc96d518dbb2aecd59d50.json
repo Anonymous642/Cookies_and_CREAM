@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Lazy Reddit", "description": "Typing r + space + name_of_subreddit in the omnibox will take you directly to reddit.com/r/name_of_subreddit.", "version": "1.1", "background": {"scripts": ["background.js"]}, "omnibox": {"keyword": "r"}, "icons": {"128": "snoo.png"}, "manifest_version": 2}

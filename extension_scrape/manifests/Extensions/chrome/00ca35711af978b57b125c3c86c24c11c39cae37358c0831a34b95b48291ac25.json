@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "SAP OSS/ CSS Finder", "version": "1.03", "description": "SAP OSS/CSS Finder", "author": "Debarya Sarkar", "browser_action": {"default_popup": "PopUp.html", "default_icon": "finder.png"}}

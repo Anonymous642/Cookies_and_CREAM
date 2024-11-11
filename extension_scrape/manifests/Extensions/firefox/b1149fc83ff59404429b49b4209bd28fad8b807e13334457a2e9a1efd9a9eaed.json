@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.1.6", "name": "Link Saver", "browser_action": {"default_popup": "./HTML/index.html", "default_icon": "./IMG/logo_128.png"}, "icons": {"48": "./IMG/logo_48.png", "64": "./IMG/logo_64.png", "128": "./IMG/logo_128.png"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{7e04b8d4-4bde-48f2-95bf-8b01c1e21894}"}}}

@@ -1,0 +1,1 @@
+{"description": "Block FB Ads", "manifest_version": 2, "name": "FB-video-ads-Blocker", "version": "1.1", "permissions": ["webRequest", "webRequestBlocking", "https://www.facebook.com/"], "icons": {"48": "icons/fbadsp-48x48.png"}, "background": {"scripts": ["web_respn.js"]}, "browser_specific_settings": {"gecko": {"id": "{21480cc9-3953-485e-b8d0-44f2f85b7a32}"}}}

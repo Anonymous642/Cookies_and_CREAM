@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Minha UNIDAVI!", "description": "Acesse agora mesmo o ambiente \"Minha UNIDAVI\".", "version": "0.2", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"128": "logo-128.png"}, "permissions": ["serial", "storage", "videoCapture", "webview"]}

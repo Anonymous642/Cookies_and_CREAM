@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Nordnet.se Darkmode", "version": "0.1.0", "description": "Darkmode css override for Nordnet", "content_scripts": [{"css": ["styles.css"], "matches": ["https://www.nordnet.se/*"]}]}

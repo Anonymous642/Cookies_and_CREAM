@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Kim Quy Flowlu Style", "description": "By OpenyVN", "version": "1.0", "content_scripts": [{"matches": ["https://kimquy.flowlu.com/_module/crm/view/lead*"], "css": ["css/styles.css"], "js": ["js/script.js"]}], "action": {"default_icon": "img/logo.png"}}

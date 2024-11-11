@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Vidsy", "version": "1.0.0", "manifest_version": 2, "icons": {"32": "32.png", "48": "48.png", "64": "64.png", "128": "128.png", "256": "256.png"}, "app": {"urls": ["http://vidsy.tv/"], "launch": {"web_url": "http://vidsy.tv/"}}}

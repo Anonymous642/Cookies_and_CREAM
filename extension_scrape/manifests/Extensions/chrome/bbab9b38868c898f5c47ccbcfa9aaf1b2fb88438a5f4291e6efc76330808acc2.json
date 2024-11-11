@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "web-ngon", "version": "0.1", "description": "Truy xu\u1ea5t nhanh c\u00e1c trang web y\u00eau th\u00edch c\u1ee7a b\u1ea3n th\u00e2n", "permissions": ["topSites"], "browser_action": {"default_icon": "icon.png", "default_popup": "mostVisit.html"}, "icons": {"128": "icon_128.png"}, "manifest_version": 2}

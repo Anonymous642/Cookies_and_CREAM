@@ -1,0 +1,1 @@
+{"applications": {"gecko": {"strict_min_version": "57.0"}}, "manifest_version": 2, "version": "0.3", "name": "Smart Start page", "description": "Forms recommendations on the start page based on your preferences.", "chrome_settings_overrides": {"homepage": "index.html"}, "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["history", "<all_urls>"]}

@@ -1,0 +1,1 @@
+{"name": "ShortBack", "version": "0.1", "description": "Go back and forward simply.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["script.js"]}], "icons": {"48": "icon.png"}, "manifest_version": 2}

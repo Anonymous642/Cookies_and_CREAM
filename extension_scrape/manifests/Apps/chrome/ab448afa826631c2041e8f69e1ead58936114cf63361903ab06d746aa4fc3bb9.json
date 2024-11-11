@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Blog TecnoFiccion", "description": "Acceso directo a nuestro Blog", "manifest_version": 2, "version": "1.0.0", "app": {"urls": ["http://blog.tecnoficcion.com/"], "launch": {"web_url": "http://blog.tecnoficcion.com/"}}, "icons": {"128": "TF.png"}, "permissions": ["unlimitedStorage", "notifications"]}

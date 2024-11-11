@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quarantine Skipper", "version": "1.0", "description": "Automatically skips the quarantine page of the TU Berlin", "content_scripts": [{"matches": ["*://*.quarantine.tu-berlin.de/*"], "js": ["skip.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sudoku.com shortcut", "version": "1.0", "description": "Lets you hold/release shift key to toggle pencil mode on Sudoku.com", "icons": {"64": "icons/icon-64x64.png"}, "content_scripts": [{"matches": ["https://sudoku.com/expert/", "https://sudoku.com/hard/", "https://sudoku.com/medium/", "https://sudoku.com/easy/"], "js": ["sudokuShortcut.js"]}]}

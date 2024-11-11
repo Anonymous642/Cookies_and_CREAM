@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ZUVIO\u5c0f\u52a9\u624b", "description": "ZUVIO", "version": "2.0", "browser_action": {"default_title": "Go", "default_popup": "popup.html"}, "content_scripts": [{"matches": ["https://irs.zuvio.com.tw/student5/irs/question/*"], "js": ["bang.js"]}]}

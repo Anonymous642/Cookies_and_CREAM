@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Highlight Youtube New Video", "version": "1.0.3", "description": "Highlight Youtube New Video", "icons": {"96": "icons/logo.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["assets/util.js", "content-script.js"]}], "permissions": ["storage"], "options_ui": {"page": "options/index.html", "browser_style": true}}

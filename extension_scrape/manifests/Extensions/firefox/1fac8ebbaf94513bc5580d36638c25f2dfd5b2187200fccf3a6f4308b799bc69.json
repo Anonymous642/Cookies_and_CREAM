@@ -1,0 +1,1 @@
+{"content_scripts": [{"js": ["fix.js"], "matches": ["https://hypixel.net/members/*", "https://hypixel.net/conversations/*", "https://hypixel.net/threads/*"]}], "browser_specific_settings": {"gecko": {"id": "hypixel-image-fix@1.0.0"}}, "manifest_version": 3, "name": "Hypixel Image Fix", "version": "1.0.0"}

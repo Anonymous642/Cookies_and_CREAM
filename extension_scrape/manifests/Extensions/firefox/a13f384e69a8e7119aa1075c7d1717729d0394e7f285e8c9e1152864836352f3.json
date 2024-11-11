@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Funimation Spoiler Blocker", "version": "1.2", "author": "base", "description": "Hide any spoilers on Funimation.com", "icons": {"32": "icons/logo.png"}, "permissions": [], "content_scripts": [{"matches": ["*://*.funimation.com/*"], "js": ["funimation.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "deactivate-autocomplete", "version": "1.0", "description": "Deactivates autocomplete on any pages. Every input gets 'autocomplete=off'.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["autocomplete-off.js"]}], "browser_specific_settings": {"gecko": {"id": "{c91956d0-5f0d-489a-bfe2-c39343dcc62c}"}}}

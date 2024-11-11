@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Jack's Frozen Pizza to J-Dawg", "short_name": "JP2JD", "version": "0.1", "icons": {"128": "jdawg.png"}, "description": "Replaces the text 'Jack's Frozen Pizza with 'J-Dawg'.", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_idle"}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "PAPAYA", "description": "on key ctrl", "version": "1.2", "manifest_version": 3, "content_scripts": [{"js": ["papaya.js", "papaya_load.js"], "matches": ["https://papago.naver.com/*", "https://translate.google.com/*", "https://translate.google.co.kr/*"]}]}

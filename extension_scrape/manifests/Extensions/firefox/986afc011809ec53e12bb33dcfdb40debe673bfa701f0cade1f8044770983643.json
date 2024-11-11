@@ -1,0 +1,1 @@
+{"browser_action": {"default_icon": "img/icon_128.png", "default_popup": "html/popup.html", "default_title": "Best Gearly"}, "description": "Ultimate Guide to top kitchen Products", "icons": {"16": "img/icon_16.png", "128": "img/icon_128.png"}, "manifest_version": 2, "name": "Best Gearly", "version": "1.1"}

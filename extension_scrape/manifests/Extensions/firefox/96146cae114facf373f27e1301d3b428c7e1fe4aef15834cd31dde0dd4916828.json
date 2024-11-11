@@ -1,0 +1,1 @@
+{"name": "Twitch Channel Points Collector", "version": "1.0", "author": "Shanox", "description": "Automatically collect Twitch Channel Point Chests", "manifest_version": 2, "icons": {"128": "assets/logo-128.png"}, "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["twitch.js"], "run_at": "document_end"}]}

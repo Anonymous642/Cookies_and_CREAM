@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tabs description", "version": "1.1", "browser_action": {"default_title": "Tabs description", "default_popup": "popup.html"}, "icons": {"128": "328.png"}, "permissions": ["tabs", "activeTab"]}

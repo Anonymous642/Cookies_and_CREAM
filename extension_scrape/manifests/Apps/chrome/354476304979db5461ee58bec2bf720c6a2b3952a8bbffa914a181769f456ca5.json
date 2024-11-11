@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Snaked", "description": "A 3D snake game.", "manifest_version": 2, "version": "0.5.2", "app": {"urls": ["*://snaked.arekczogala.pl/"], "launch": {"web_url": "http://snaked.arekczogala.pl/"}}, "icons": {"128": "assets/app_adds/app-icon_128.png"}}

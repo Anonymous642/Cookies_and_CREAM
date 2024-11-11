@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "YouTube Focus", "version": "0.1.1", "description": "Open Youtube and search. You don't have to click.", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["script.js"]}], "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

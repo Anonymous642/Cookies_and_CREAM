@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "LexiSpeak Extensions", "description": "TTS Extension", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "popup.html", "default_icon": "logo.jpg"}, "side_panel": {"default_path": "popup.html"}, "permissions": ["sidePanel"]}

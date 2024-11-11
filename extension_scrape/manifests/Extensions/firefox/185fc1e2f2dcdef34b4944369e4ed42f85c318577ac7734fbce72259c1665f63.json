@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Jira Helpers", "version": "1.0", "description": "Some stuff to make JIRA better", "icons": {"48": "icons/eye.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "tabs", "http://*/*", "https://*/*"], "browser_action": {"default_icon": {"16": "icons/eye.png"}}}

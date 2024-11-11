@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Copy Paste Clipboard", "version": "1.0", "description": "Keep things handy which you want to quickly copy. Tap on the text to copy it quickly!", "icons": {"48": "icon.png"}, "action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "permissions": ["storage"]}

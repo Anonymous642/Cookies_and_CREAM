@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ReadPosition", "version": "1.0.0", "description": "Display read position in the page", "permissions": ["activeTab", "storage"], "applications": {"gecko": {"id": "readPosition@email.com"}}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["/content_script.js"], "run_at": "document_end"}]}

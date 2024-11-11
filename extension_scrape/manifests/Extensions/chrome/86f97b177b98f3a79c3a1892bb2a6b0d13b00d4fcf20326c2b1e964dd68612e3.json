@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "LCHS Tetrys", "description": "A re-release of the popular game tetrys built for the lchs bell schedule.", "version": "1.1.2", "manifest_version": 3, "action": {"default_popup": "index.html"}, "icons": {"16": "images/tetrysicon.png", "48": "images/tetrysicon.png", "128": "images/tetrysicon.png"}}

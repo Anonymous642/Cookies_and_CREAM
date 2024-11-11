@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Trash Opinions", "version": "1.2.1", "description": "Removes the opinion section of the Washington Post and the Trending section of Twitter for peace of mind", "icons": {"48": "trashcan.png"}, "content_scripts": [{"matches": ["*://*.washingtonpost.com/*", "*://*.twitter.com/*"], "js": ["trash.js"]}]}

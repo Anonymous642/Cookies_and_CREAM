@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Redcat Competition Rc", "version": "3.0", "description": "Pro Grade Rc Racing", "manifest_version": 2, "icons": {"128": "128.png"}, "app": {"urls": ["http://www.redcatcompetition.com/"], "launch": {"web_url": "http://www.redcatcompetition.com/"}}, "permissions": ["http://www.redcatcompetition.com/"]}

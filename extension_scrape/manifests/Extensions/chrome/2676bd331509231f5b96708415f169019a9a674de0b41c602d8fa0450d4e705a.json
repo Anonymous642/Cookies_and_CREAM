@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Azrieli Resource center", "version": "0.1.0", "icons": {"128": "./icon.png"}, "action": {"default_popup": "popup.html"}}

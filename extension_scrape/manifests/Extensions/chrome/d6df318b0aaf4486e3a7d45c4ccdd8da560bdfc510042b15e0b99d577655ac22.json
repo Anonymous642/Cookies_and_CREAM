@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Trellodo", "description": "Theodo tools for Trello", "version": "0.0.4", "icons": {"128": "trellodo.png"}, "content_scripts": [{"css": ["trellodo.css"], "js": ["jquery-1.7.1.min.js", "trellodo.js"], "matches": ["https://trello.com/*"]}]}

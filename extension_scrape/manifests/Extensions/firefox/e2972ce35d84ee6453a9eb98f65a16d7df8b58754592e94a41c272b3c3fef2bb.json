@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Eraser", "version": "1.1", "description": "Removes blocked user comment stubs", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.ozbargain.com.au/*"], "js": ["borderify.js"]}]}

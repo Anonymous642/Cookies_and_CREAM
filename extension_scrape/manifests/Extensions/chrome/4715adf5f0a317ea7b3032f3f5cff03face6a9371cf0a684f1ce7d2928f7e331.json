@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Open In WSA", "description": "Right click to open links in WSA (Windows Subsystem for Android\u2122)", "icons": {"256": "WSA-icon.png"}, "version": "1.0", "manifest_version": 3, "permissions": ["contextMenus"], "background": {"service_worker": "background.js"}}

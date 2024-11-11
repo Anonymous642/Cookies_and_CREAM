@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sam's Schoology Declutterer", "version": "1.1", "manifest_version": 3, "description": "Hide specific notifications in Schoology", "content_scripts": [{"matches": ["https://schoology.svvsd.org/home"], "js": ["jquery.js", "contentscript.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Prevent CircleCI Login Wall", "description": "Display CircleCI Jobs without connecting a Github account or logging in", "version": "1.0", "permissions": ["webRequest", "webRequestBlocking", "https://*.circleci.com/*"], "background": {"scripts": ["background.js"]}}

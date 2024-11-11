@@ -1,0 +1,1 @@
+{"applications": {"gecko": {"id": "jumble@wordunscrambler.net"}}, "name": "Jumble Solver", "short_name": "Jumble Solver", "version": "1.1.0", "description": "Solve The Daily Jumble word puzzles", "manifest_version": 2, "icons": {"32": "favicon.png"}, "browser_action": {"default_popup": "popup.html", "default_title": "Jumble Solver"}, "permissions": ["activeTab"]}

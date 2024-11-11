@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Recording Studio . BZ", "description": "Online Recording Studio", "version": "2.1", "icons": {"16": "16rs.png", "48": "48rs.png", "128": "128rs.png"}, "app": {"urls": ["http://www.recordingstudio.bz/"], "launch": {"web_url": "http://www.recordingstudio.bz/"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "UFO Invasion", "version": "1.0", "description": "UFO Invasion Free Web Game.", "icons": {"48": "icon-48.png", "128": "icon-128.png"}, "app": {"urls": ["http://sites.google.com/site/ufoinvasiongame/"], "launch": {"web_url": "http://sites.google.com/site/ufoinvasiongame/"}}, "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "flappy bird", "description": "Go through portals, jump over, fly under and sneak through obstacles and avoid enemies, who are just a warm up for the boss!", "version": "1.2", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "icon_16.png", "128": "icon_128.png"}}

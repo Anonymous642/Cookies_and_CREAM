@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "10thHukuViewer", "version": "0.0.4", "manifest_version": 3, "description": "dq10", "content_scripts": [{"matches": ["https://hiroba.dqx.jp/sc/home/*"], "css": ["Anniv.css"], "js": ["content.js", "sub.js", "tableTemplate.js", "htmlget.js"]}]}

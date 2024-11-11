@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Github Shortcuts", "version": "2.0.0", "description": "keyboard shortcuts for Github", "homepage_url": "https://github.com/travelist/github-shortcuts", "manifest_version": 2, "content_scripts": [{"matches": ["*://github.com/*"], "js": ["index.js"], "css": ["index.css"]}]}

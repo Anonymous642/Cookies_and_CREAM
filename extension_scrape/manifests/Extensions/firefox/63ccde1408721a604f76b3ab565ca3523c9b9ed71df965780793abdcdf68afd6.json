@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Cloudbuster", "version": "1.1", "description": "Warns the user of known MITM attacks.", "icons": {"48": "icons/cloudbuster-48.png", "96": "icons/cloudbuster-96.png"}, "permissions": ["<all_urls>", "webRequest"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["/js/cloudbuster.js"]}]}

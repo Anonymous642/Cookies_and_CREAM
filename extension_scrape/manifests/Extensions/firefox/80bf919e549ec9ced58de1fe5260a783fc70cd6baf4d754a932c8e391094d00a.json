@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "444.hu Addon", "version": "0.1.0", "description": "Eltavolitja a kunyeralasdobozt", "content_scripts": [{"css": ["styles.css"], "matches": ["https://444.hu/*"]}]}

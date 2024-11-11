@@ -1,0 +1,1 @@
+{"name": "colognehunt", "description": "The cologne guide extensoin for internet users to buy new cologne online", "version": "0.0.0.27", "background": {"scripts": ["background.js"], "persistent": false}, "permissions": [], "browser_action": {}, "manifest_version": 2, "icons": {"128": "logo.png"}}

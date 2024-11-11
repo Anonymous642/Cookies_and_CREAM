@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.0", "name": "Techno Tab", "description": "Techno Tab changes your new tab page to an animated Techno greeting page.", "icons": {"48": "images/icon 48.png", "96": "images/icon 96.png"}, "chrome_url_overrides": {"newtab": "tab.html"}, "permissions": ["activeTab"], "background": {"scripts": ["main.js"]}}

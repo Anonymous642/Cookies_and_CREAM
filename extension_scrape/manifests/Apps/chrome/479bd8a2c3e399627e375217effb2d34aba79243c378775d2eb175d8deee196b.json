@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "INFOhio", "description": "Ohio's PreK-12 Digital Library", "version": "3.0", "manifest_version": 2, "permissions": ["webview"], "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "powerbutton_small.png", "128": "powerbutton_large.png"}}

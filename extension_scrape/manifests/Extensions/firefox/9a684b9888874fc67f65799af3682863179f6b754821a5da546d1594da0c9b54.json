@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YTBotBlocker", "version": "1.0", "description": "Remove videos do youtube escondidos em sites distribuidores de conteudo pirata.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["ytbotblocker.js"]}]}

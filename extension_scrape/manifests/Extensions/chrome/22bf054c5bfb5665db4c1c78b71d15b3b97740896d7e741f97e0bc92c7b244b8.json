@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ZeAlAnglit", "description": "You know that moment when you realize your keyboard is on English?", "version": "1.0.1", "browser_action": {"default_icon": "zealanglit.png", "default_popup": "popup.html"}, "permissions": ["clipboardWrite"]}

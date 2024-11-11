@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Simple new tab icon", "version": "0.1", "manifest_version": 2, "description": "A minimalist icon appears whenever you open a new tab", "author": "Benjamin Issenmann", "icons": {"128": "icon_128.png"}, "chrome_url_overrides": {"newtab": "myPage.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Soundiiz", "description": "Manage your playlists, share it, listen it and enjoy it where you want !", "version": "2.0.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://soundiiz.com/"], "launch": {"web_url": "http://soundiiz.com/"}}}

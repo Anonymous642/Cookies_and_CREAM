@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "0.1", "name": "Coach Tools", "description": "Tools, for coaches!", "background": {"service_worker": "background.js"}, "permissions": ["contextMenus"], "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["file:///*", "https://*/*"], "js": ["content.js"]}]}

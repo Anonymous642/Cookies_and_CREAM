@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Facebook Wipe", "version": "2.1", "description": "Wipes facebook's distracting content off the screen.", "icons": {"48": "icons/wipe.png"}, "content_scripts": [{"matches": ["*://www.facebook.com/*"], "js": ["wipe.js"]}]}

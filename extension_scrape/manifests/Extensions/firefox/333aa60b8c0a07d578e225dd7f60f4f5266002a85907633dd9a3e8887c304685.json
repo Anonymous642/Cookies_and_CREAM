@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Memento", "description": "Simple notepad extension for Firefox", "version": "1.0.2", "browser_specific_settings": {"gecko": {"id": "memento@placidfox.org"}}, "permissions": ["tabs", "activeTab", "storage"], "action": {"default_icon": "images/icon.png"}, "background": {"scripts": ["background.js"]}}

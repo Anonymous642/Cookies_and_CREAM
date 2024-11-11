@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Permissions test case", "version": "1.0.0", "options_ui": {"page": "options.html", "browser_style": false}, "optional_permissions": ["clipboardRead"], "browser_specific_settings": {"gecko": {"id": "permissions-test-case-2@svincent"}, "gecko-android": {}}}

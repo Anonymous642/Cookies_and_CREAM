@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FumbblSelectAllMessages", "version": "2.0", "description": "Adds a select button to add and delete all messages in the user message directory on Fumbbl.", "icons": {"48": "images/unselectall.png"}, "content_scripts": [{"matches": ["*://*.fumbbl.com/p/*"], "js": ["FumbblSelectAllMessages.js"]}]}

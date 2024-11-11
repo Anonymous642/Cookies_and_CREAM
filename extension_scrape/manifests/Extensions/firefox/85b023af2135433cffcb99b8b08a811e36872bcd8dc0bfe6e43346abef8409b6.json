@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DirectLoad_Instagram", "version": "0.6", "description": "When showing a single Instagram-post you can press F2 and the picture will be loaded in full size. Should work for JPG and PNG files.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["https://www.instagram.com/p/*"], "js": ["directload.js"]}]}

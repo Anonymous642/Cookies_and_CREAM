@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Autofocus", "version": "1.0", "description": "Automatically focuses on search bar when YouTube is opened", "content_scripts": [{"matches": ["https://www.youtube.com/"], "js": ["autofocus.js"]}], "icons": {"16": "search16.png", "128": "search128.png"}}

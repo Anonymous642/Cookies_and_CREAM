@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.02", "name": "Black Andreas", "description": "This is a BlackJack copy that has some flaws, but I hope you enjoy it!", "action": {"default_popup": "index.html", "default_icon": "Untitled-1.png"}}

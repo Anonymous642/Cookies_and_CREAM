@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TV Version for YouTube", "short_name": "youtube-for-tv", "description": "Version 2 reduces the size of the program and loads the code much faster.", "version": "2", "icons": {"512": "icons/512.png"}, "permissions": ["*://*.youtube.com/tv*", "webRequest", "webRequestBlocking", "storage"], "background": {"scripts": ["background.js"]}}

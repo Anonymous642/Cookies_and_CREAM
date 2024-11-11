@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Auto Tab Close", "version": "1.0", "description": "Automatically closes tabs with specified addresses", "permissions": ["tabs", "storage"], "background": {"service_worker": "background.js"}, "options_ui": {"page": "options.html"}}

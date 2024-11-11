@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LIBS-dee", "version": "1.1", "description": "LinkedIn BullShit Detector detects and warns LinkedIn bullshit posts", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.linkedin.com/*"], "js": ["bsdetector.js"]}], "browser_specific_settings": {"gecko": {"id": "{a1bbd4f3-7b47-41d9-8d1e-f6be9420a353}"}}}

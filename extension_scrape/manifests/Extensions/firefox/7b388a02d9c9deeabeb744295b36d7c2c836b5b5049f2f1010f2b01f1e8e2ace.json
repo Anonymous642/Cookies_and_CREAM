@@ -1,0 +1,1 @@
+{"description": "ScrollDownUp Extension", "manifest_version": 2, "name": "scroll_down_up", "version": "1", "homepage_url": "https://github.com/mdn/webextensions-examples", "permissions": ["activeTab"], "browser_action": {"default_title": "ScrollDownUp"}, "background": {"scripts": ["x.js"]}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "IP Lookup Extension", "version": "1.0", "description": "Right-click IP address lookup in multiple databases.", "permissions": ["contextMenus"], "background": {"scripts": ["background.js"], "persistent": false}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{6150f06e-4a16-4171-b067-aaf973c01c18}"}}}

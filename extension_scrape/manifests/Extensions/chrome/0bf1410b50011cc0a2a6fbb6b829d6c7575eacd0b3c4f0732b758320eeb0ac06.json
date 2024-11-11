@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "chatGPT-4 Browsing", "version": "1.0", "description": "Sets chatGPT to GPT-4 with browsing by default when visiting chat.openai.com.", "icons": {"128": "icon_128.png"}, "content_scripts": [{"matches": ["https://chat.openai.com/*"], "js": ["content.js"]}]}

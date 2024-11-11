@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Arduboy Multiplayer", "version": "0.2", "manifest_version": 2, "minimum_chrome_version": "23", "description": "Connect Arduboys together by sending their serial data to one another.", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"128": "icon_128.png"}, "permissions": ["serial"]}

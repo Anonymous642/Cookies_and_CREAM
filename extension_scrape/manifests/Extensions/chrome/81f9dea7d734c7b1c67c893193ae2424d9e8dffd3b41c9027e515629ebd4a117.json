@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "WSDLY - SOAP Client", "version": "1.1", "description": "Tool manage and test SOAP API. It parses WSDL and generates human-readable documentation.  ", "action": {"default_popup": "popup.html"}, "icons": {"128": "wsdly_mark.png"}}

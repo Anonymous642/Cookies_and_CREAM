@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "muteAllButThisOne", "version": "1.0", "permissions": ["tabs"], "background": {"scripts": ["muteALL.js"]}, "description": "Mute all the inactive tabs", "icons": {"50": "icons/mute.png"}, "browser_action": {"default_icon": "icons/mute.png", "default_title": "mute"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Okolab", "description": "Okolab website", "version": "1.4", "icons": {"128": "128.png"}, "app": {"urls": ["http://www.oko-lab.com/"], "launch": {"web_url": "http://www.oko-lab.com/"}}, "permissions": ["unlimitedStorage", "notifications"]}

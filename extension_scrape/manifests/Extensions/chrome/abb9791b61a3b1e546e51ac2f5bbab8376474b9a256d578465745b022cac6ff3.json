@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "BS-Meter", "description": "", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "bs_meter.html", "default_icon": "images/bs_meter.png"}, "permissions": ["activeTab", "tabs"]}

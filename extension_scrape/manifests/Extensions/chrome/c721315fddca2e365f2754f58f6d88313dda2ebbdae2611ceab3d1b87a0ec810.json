@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WebRetailer Calculators", "description": "Used to calculate fee", "version": "1.0.0", "manifest_version": 3, "action": {"default_popup": "popup.html", "default_icon": "Logo 26x26.png"}, "icons": {"26": "Logo 26x26.png", "128": "Logo 26x26.png"}}

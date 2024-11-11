@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Easy Flutter Pub", "version": "1.0", "description": "Allows copying flutter dependency info to clipboard.", "icons": {"48": "icons/pub-48.png", "96": "icons/pub-96.png"}, "content_scripts": [{"matches": ["*://*.pub.dev/packages/*"], "js": ["flutterpub.js"]}]}

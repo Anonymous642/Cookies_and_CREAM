@@ -1,0 +1,1 @@
+{"description": "Adds browser action icon to toolbar to open the GitHub web page.", "manifest_version": 2, "name": "open-github", "version": "1.0", "icons": {"48": "icons/favicon.png"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icons/favicon.png"}, "browser_specific_settings": {"gecko": {"id": "{617b7a04-e467-440a-b3b3-73637a36ed60}"}}}

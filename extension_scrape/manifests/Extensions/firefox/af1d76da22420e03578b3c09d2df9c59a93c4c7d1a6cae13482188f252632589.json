@@ -1,0 +1,1 @@
+{"name": "y\u00f6katlasnettoplam", "version": "1.0", "manifest_version": 2, "action": {"default_icon": "16.png", "default_title": "Y\u00f6k Atlas Net Toplama"}, "content_scripts": [{"matches": ["https://yokatlas.yok.gov.tr/*"], "js": ["background.js"]}], "browser_specific_settings": {"gecko": {"id": "{69cd36a6-5cce-40ad-a54c-7d13544e4ddd}"}}}

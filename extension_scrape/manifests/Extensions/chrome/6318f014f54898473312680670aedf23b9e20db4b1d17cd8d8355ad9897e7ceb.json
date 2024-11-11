@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "JIRA copy comment", "short_name": "JIRA copy comment", "version": "1.2.5", "icons": {"128": "icon-128.png"}, "content_scripts": [{"matches": ["https://*.atlassian.net/*"], "js": ["script.user.js"], "css": ["css.user.css"]}], "permissions": ["clipboardWrite"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "fastwheel", "description": "A firefox extension that allows users to activate shortcuts using a mouse's scroll wheel.", "homepage_url": "https://github.com/hueyjj/fastwheel", "version": "0.2", "permissions": ["<all_urls>"], "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["content-script.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SearchTooLong", "version": "1.1", "description": "When google search is too big", "icons": {"48": "icons/icon.PNG"}, "permissions": ["activeTab", "menus", "search", "webRequest"], "browser_action": {"default_icon": "icons/icon.PNG", "default_title": "SearchTooLong", "default_popup": "popup/window.html"}}

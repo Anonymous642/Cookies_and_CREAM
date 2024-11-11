@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Slasher", "version": "1.0", "description": "Modify Selected path to relative OS", "icons": {"48": "icons/slasher.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["slasher.js"]}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitchify", "version": "1.0", "description": "The ultimate Twitch lurker experience", "icons": {"48": "icons/icon48.jpg"}, "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "css": ["style.css"]}]}

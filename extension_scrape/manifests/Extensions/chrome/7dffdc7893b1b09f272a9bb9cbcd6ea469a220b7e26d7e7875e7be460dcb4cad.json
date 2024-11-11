@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SpeedAudio", "version": "0.1", "description": "Gift from Arthur to Diogo", "author": "Arthur Santos", "content_scripts": [{"matches": ["https://web.whatsapp.com/"], "css": ["style.css"], "js": ["content.js"]}], "icons": {"16": "pain16.png", "48": "pain48.png", "128": "pain128.png"}, "manifest_version": 2}

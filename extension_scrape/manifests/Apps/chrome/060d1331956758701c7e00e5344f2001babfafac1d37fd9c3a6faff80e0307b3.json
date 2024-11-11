@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://www.moko.cc/"], "launch": {"web_url": "http://www.moko.cc"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "MOKO!\u7f8e\u7a7a | MOKO.CC \u7f8e\u7a7a-\u6587\u5316\u827a\u672f\u4ea7\u4e1a\u5e73\u53f0", "name": "Moko", "icons": {"128": "icon_128.png"}, "manifest_version": 2, "version": "0.0.0.1"}

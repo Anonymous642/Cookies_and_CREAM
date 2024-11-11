@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab Saver", "version": "1.0.3", "description": "Tab Saver is a minimalist extension, for easily saving active tabs.", "permissions": ["tabs", "downloads"], "action": {"default_icon": {"48": "icons/tab-saver-48.png"}, "default_popup": "popup/tab-saver.html"}}

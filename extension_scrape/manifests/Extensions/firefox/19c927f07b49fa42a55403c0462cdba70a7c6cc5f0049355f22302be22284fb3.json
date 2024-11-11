@@ -1,0 +1,1 @@
+{"description": "BBBMessageNotifier", "manifest_version": 2, "name": "BBBMessageNotifier", "version": "1.1", "content_scripts": [{"matches": ["*://*/html5client*"], "js": ["exmess.js"]}], "background": {"scripts": ["background.js"]}, "permissions": ["notifications"], "browser_specific_settings": {"gecko": {"id": "{635ca822-3663-4763-a7ae-e9195034ebf9}"}}}

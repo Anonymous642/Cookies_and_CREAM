@@ -1,0 +1,1 @@
+{"description": "Telegram Web", "manifest_version": 2, "name": "Telegram Web", "version": "3.0", "homepage_url": "https://telegram.org/", "icons": {"48": "icons/t48.png"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icons/t.png"}}

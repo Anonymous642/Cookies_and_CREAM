@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "skip youtube ads", "version": "1.0", "description": "Simule le clique sur le bouton pour ignorer les publicit\u00e9s sur YouTube.", "icons": {"48": "icons/border-48.png"}, "browser_specific_settings": {"gecko": {"id": "nath.peix@gmail.com"}}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["code-javascript.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TWBuyer Extensions", "description": "\u652f\u63f4 PChome, MOMO, Yahoo \u8cfc\u7269\u4e2d\u5fc3\u6b77\u53f2\u6bd4\u50f9", "version": "1.1", "manifest_version": 3, "action": {"default_popup": "pricing.html", "default_icon": "dollar.png"}, "permissions": ["activeTab"], "host_permissions": ["https://*/*"]}

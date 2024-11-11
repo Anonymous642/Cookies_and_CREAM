@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "python-doc", "version": "0.0.1", "description": "Always redirect to specified version of the python docs.", "content_scripts": [{"matches": ["*://docs.python.org/*"], "js": ["python-doc.js"]}]}

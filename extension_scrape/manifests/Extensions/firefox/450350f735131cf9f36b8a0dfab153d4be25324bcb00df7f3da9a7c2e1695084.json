@@ -1,0 +1,1 @@
+{"short_name": "Multitasktab", "manifest_version": 2, "version": "1.0.1", "name": "Multitasktab", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{e6a5e6b6-b89e-4fd1-a221-03afca3c385f}"}}}

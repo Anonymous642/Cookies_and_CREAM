@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "hideAd_chrome_yeees", "version": "0.7", "manifest_version": 3, "description": "Hide Advertising Chrome Extension", "content_scripts": [{"matches": ["https://*/*"], "js": ["youtube.js"], "css": ["adHide.css"]}], "homepage_url": "https://www.yeees.in"}

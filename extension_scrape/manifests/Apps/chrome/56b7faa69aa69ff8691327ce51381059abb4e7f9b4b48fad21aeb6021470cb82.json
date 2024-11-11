@@ -1,0 +1,1 @@
+{"name": "JustRangefinder", "description": "JustRangefinder - Your guide to the best rangefinder", "app": {"urls": ["https://justrangefinder.com/"], "launch": {"web_url": "https://justrangefinder.com/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

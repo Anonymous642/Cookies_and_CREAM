@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "JARVIS CRM", "description": "Jarvis Medical Customer Relationship Management System", "version": "1.1.1", "manifest_version": 2, "app": {"urls": ["*://crm.jarvis.kr/"], "launch": {"web_url": "http://crm.jarvis.kr/"}}, "icons": {"128": "icon_128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

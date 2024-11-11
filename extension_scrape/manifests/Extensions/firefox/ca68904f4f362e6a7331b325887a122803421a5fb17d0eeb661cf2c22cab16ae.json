@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Australian Stock Finder", "version": "1.0", "description": "Adds a right click option to search for an ASX Share", "default_locale": "en", "background": {"scripts": ["background.js"]}, "permissions": ["menus", "activeTab", "tabs"]}

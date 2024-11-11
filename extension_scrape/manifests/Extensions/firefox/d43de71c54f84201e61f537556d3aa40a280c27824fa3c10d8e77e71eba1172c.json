@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "123b Time", "version": "1.0", "description": "Hi\u1ec3n th\u1ecb ng\u00e0y gi\u1edd hi\u1ec7n t\u1ea1i tr\u00ean thanh c\u00f4ng c\u1ee5", "icons": {"48": "icon.png"}, "action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "123btime-id@123b"}}}

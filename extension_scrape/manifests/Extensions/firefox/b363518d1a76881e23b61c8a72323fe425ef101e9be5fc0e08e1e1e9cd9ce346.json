@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Redirect", "version": "1.2.8", "description": "Redirecciona las paginas de lectortmo", "icons": {"48": "icons/border-48.png"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*/news/*"], "js": ["redi.js"]}], "browser_specific_settings": {"gecko": {"id": "{ac0993cc-3e58-4110-a6da-8d33c054d34f}"}}}

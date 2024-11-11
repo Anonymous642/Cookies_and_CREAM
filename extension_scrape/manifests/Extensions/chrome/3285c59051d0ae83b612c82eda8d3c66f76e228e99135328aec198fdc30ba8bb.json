@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Click Cat Chrome", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "index.html", "default_title": "Click Cat"}, "commands": {"_execute_action": {"suggested_key": {"default": "Ctrl+Shift+Y"}}}, "permissions": ["tabs"], "icons": {"128": "catlogogo.png"}}

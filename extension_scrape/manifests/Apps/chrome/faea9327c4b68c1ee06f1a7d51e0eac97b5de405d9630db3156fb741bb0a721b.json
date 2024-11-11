@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Match And Learn", "description": "Drag And Drop game To learn spelling", "manifest_version": 2, "version": "1.4", "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

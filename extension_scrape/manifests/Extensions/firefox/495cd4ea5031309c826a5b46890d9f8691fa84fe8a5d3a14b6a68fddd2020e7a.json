@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LM Website Font Changer", "version": "1.0", "description": "Changes the font of the Lm2606 website.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*.lm2606.co.uk/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{0a334946-113e-4fd2-b601-0ea61c563859}"}}}

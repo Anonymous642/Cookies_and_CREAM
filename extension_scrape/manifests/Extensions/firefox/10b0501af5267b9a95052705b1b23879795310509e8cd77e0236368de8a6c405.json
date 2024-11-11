@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Galician Orthography", "description": "Changes Portuguese websites to Galician orthography", "version": "1.0", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{6e759a85-2c20-4c29-99da-f6a9e350837f}"}}}

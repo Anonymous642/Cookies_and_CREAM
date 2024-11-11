@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Word Of The Day", "version": "0.01", "description": "Expand your vocabulary with the word of the day.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon16.jpg"}, "background": {"page": "background.html", "persistent": false}, "manifest_version": 2}

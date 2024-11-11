@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "pokepastefix", "version": "0.2.2", "manifest_version": 3, "description": "Fix missing pictures on pokepaste.", "content_scripts": [{"matches": ["https://pokepast.es/*"], "js": ["content.js"]}]}

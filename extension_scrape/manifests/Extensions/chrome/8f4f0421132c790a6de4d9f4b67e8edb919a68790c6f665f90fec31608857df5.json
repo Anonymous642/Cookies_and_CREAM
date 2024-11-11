@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Video in New tab", "version": "1.5.1", "description": "Opens video in video tag in new window (using source code)", "content_scripts": [{"matches": ["https://prehraj.to/*", "https://prehrajto.cz/*"], "js": ["main.js"]}]}

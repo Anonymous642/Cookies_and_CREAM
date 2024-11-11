@@ -1,0 +1,1 @@
+{"name": "EmojTea", "version": "1.1", "description": "EmojTea plugin", "manifest_version": 2, "permissions": ["activeTab", "tabs"], "content_scripts": [{"js": ["content.js"], "matches": ["<all_urls>"]}], "browser_action": {"default_popup": "popup.html"}, "icons": {"512": "512.png"}}

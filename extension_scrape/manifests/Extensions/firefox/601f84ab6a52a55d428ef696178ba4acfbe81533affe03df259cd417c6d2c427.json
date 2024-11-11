@@ -1,0 +1,1 @@
+{"name": "Scrapp Bookmarks", "version": "1.0", "description": "Take back control of your bookmarks", "permissions": ["tabs"], "icons": {"32": "icon-only-32.png", "192": "icon-192.png"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icon-only-32.png"}, "manifest_version": 2}

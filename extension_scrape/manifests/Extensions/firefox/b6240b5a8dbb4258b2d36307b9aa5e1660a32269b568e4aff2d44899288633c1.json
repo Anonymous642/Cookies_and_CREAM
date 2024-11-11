@@ -1,0 +1,1 @@
+{"description": "A simple extention to hide the topbar of Zhihu site.", "manifest_version": 2, "name": "Hide Zhihu Topbar", "version": "1.2", "icons": {"32": "icons/hide-32.png"}, "content_scripts": [{"matches": ["*://*.zhihu.com/*"], "js": ["hide-zhihu-topbar.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bad Apples", "description": "Replaces police with bad apples.", "homepage_url": "https://gitlab.com/rockerest/bad-apples", "version": "1.4", "icons": {"48": "img/bad-apple-48.png", "96": "img/bad-apple-96.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["./bad-apples.js"]}]}

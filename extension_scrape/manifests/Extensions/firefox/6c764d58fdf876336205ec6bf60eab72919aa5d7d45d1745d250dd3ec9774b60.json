@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Facebook hide video comments", "version": "1.0", "description": "Hides Facebook Video Comments", "content_scripts": [{"matches": ["*://www.facebook.com/*"], "js": ["app.js"]}], "browser_specific_settings": {"gecko": {"id": "{edb81cd0-189b-41d3-8f66-4e890a038ca8}"}}}

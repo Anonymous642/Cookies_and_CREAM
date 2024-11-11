@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Page Editor", "version": "1.0.0", "description": "A plugin that allows you to edit any webpage like a word doc", "background": {"scripts": ["background.js"]}, "browser_action": {}, "permissions": ["activeTab"], "icons": {"48": "icon.png", "128": "icon.png"}, "manifest_version": 2}

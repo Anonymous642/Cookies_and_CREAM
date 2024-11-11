@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ordrcreditadder", "version": "1.0.2", "description": "Adds credit for danser on the ordr page", "icons": {"48": "icons/icon48.png"}, "content_scripts": [{"matches": ["*://ordr.issou.best/*"], "js": ["addcredit.js"]}], "browser_specific_settings": {"gecko": {"id": "{8114b10f-1015-4ed2-8df8-b84cd1dde088}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Youtube Icon Changer", "description": "Changes Youtube Video Icons into the Youtube logo", "version": "0.0.1", "author": "aprameyakannan@gmail.com", "content_scripts": [{"matches": ["https://www.youtube.com/*"], "css": ["style.css"]}]}

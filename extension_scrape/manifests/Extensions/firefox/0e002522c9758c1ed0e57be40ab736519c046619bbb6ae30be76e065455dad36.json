@@ -1,0 +1,1 @@
+{"name": "YouTube-Mp3.my", "description": "Adds a button to your Browser that allows you to convert YouTube Videos to MP3.", "version": "1.1", "icons": {"128": "icon.png"}, "permissions": ["tabs", "http://*/*", "https://*/*"], "browser_action": {"default_title": "Convert video to MP3", "default_icon": "icon-off.png"}, "background": {"scripts": ["site.js"]}, "manifest_version": 2}

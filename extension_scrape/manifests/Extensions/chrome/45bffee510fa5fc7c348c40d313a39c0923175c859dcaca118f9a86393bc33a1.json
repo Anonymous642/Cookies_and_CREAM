@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "NAV t\u00e1rhely kiemel\u0151", "version": "1.4", "manifest_version": 3, "description": "NAV t\u00e1rhely \u00fczeneteinek kiemel\u00e9se.", "icons": {"128": "icon.png"}, "action": {"default_icon": "icon.png"}, "content_scripts": [{"matches": ["*://tarhely.gov.hu/*"], "js": ["jquery.min.js", "szuro.js"]}]}

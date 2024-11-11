@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Zuckabrug emoticon changer", "version": "1.0.0", "description": "Change emoticons for Messenger and Facebook", "icons": {"128": "smile.png"}, "content_scripts": [{"css": ["styles.css"], "js": ["content.js"], "matches": ["https://www.messenger.com/*", "https://www.facebook.com/*"]}]}

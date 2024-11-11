@@ -1,0 +1,1 @@
+{"name": "Crypto Tracker", "version": "1.1", "description": "Chrome Extension to Track Your Favourite Crypto Price and Market Cap.", "icons": {"128": "128.png"}, "permissions": ["activeTab", "*://*.api.nomics.com/*"], "browser_action": {"default_popup": "popup.html", "default_icon": "128.png"}, "manifest_version": 2}

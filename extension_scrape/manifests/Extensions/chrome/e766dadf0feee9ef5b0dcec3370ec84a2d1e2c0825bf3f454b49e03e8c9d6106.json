@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Squada Wallet", "version": "1.0.0", "description": "Crypto Wallet Extension", "manifest_version": 3, "action": {"default_popup": "index.html", "default_title": "Squada Wallet", "default_icon": "icon128.png"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Morning Tab", "version": "1.2.0", "manifest_version": 3, "description": "Morning Tab for Chrome/Firefox/Edge", "chrome_url_overrides": {"newtab": "tab.html"}, "permissions": ["storage"], "content_security_policy": {"script-src": "self", "object-src": "self"}}

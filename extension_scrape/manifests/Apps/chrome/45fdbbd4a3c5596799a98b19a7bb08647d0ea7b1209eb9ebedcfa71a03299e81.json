@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "GalEx", "version": "1.2.1", "description": "A fast game about delivering mail between worlds.", "icons": {"128": "icon.png"}, "offline_enabled": true, "app": {"launch": {"web_url": "http://galex.markusfisch.de/"}}}

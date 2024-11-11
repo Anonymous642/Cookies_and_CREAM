@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Instagram Downloader", "description": "This extension allows you to download Instagram videos and pictures with a single click.", "version": "1.0", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{b82a411a-5cdd-42e6-a8d1-5450bea0dc20}"}}}

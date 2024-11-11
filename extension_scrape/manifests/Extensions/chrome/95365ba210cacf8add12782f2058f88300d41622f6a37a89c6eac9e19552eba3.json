@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "JSON Censor", "version": "1.0", "description": "Censors JSON", "action": {"default_popup": "popup.html", "icons": {"16": "icons/JSONicon.png", "32": "icons/JSONicon.png", "64": "icons/JSONicon.png", "128": "icons/JSONicon.png"}}, "permissions": []}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "YT Ad Skip", "version": "1.1", "description": "If you're too lazy to click the YT Ad skip button.", "manifest_version": 3, "content_scripts": [{"matches": ["https://*.youtube.com/*"], "js": ["content.js"]}]}

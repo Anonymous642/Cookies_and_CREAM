@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "\u7092\u80a1\u5185\u53c2", "version": "1", "description": "\u7edd\u5bc6\u80a1\u5e02\u5185\u53c2\uff0c\u8ba9\u60a8\u7a33\u64cd\u80dc\u5238\uff01", "icons": {"24": "24.png", "128": "128.png"}, "permissions": ["notifications"], "app": {"launch": {"web_url": "http://stock.jawua.com"}}}

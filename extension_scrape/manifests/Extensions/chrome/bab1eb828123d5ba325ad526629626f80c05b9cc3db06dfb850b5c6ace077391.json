@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Dolar Argentina", "version": "1.0.1", "action": {"default_popup": "index.html"}, "host_permissions": ["https://dolarnoticias.vercel.app/*"], "icons": {"16": "logo-16x16.png", "32": "logo-32x32.png", "48": "logo-48x48.png", "128": "logo-128x128.png"}}

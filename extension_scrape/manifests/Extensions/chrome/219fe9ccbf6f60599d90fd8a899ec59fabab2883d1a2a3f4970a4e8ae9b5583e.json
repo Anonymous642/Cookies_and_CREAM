@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Sunrise-ActionNetwork Integration", "short_name": "SANI", "version": "2.0.1.1", "api_console_project_id": "168946680108", "description": "An add-on to sync a Surnise Hubs Action Network data with a volunteer tracking spreadsheet", "container": ["DOMAIN_INSTALLABLE", "GOOGLE_DRIVE"]}

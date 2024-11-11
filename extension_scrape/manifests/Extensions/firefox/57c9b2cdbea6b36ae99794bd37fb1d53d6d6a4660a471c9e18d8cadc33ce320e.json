@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BetterNimoTV", "version": "1.0", "description": "Add features aimed to improve the overall experience on NimoTV", "content_scripts": [{"matches": ["*://*.nimo.tv/*", "*://nimo.tv/*"], "js": ["index.js"]}]}

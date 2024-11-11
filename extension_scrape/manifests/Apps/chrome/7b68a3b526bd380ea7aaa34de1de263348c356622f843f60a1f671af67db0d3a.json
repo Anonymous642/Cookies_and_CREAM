@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Exploring the Lognormal Distribution", "description": "This is an educational interactive visualization for learning more about the lognormal distribution.", "version": "0.3", "sandbox": {"pages": ["index.html"]}, "app": {"background": {"scripts": ["background.js"]}}}

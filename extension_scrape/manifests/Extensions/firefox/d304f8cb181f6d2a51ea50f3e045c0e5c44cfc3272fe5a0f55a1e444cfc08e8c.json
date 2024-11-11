@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Easy Quote", "version": "1.0", "description": "Allows you to easyly create Quotes.", "icons": {"48": "icons/logo-48.png"}, "permissions": ["contextMenus"], "background": {"page": "backgroundpage/backgroundpage.html", "persistent": true}, "browser_specific_settings": {"gecko": {"id": "{cf2c72b9-2685-4fdf-aabf-261847376109}"}}}

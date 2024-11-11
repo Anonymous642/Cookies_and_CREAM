@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Efe Has\u0131r Dekorasyon", "description": "Efe Has\u0131r Dekorasyon sitesini ziyaret edebilirsiniz.", "version": "1.0", "manifest_version": 3, "action": {"default_title": "Has\u0131r \u00c7it", "default_icon": "logo.png", "default_popup": "plugin.html"}, "icons": {"128": "logo.png"}}

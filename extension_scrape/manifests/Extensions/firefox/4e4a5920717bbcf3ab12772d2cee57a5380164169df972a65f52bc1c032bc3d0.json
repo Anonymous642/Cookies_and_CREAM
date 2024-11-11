@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RedditShowNSFW", "version": "1.0", "description": "Displays nsfw posts", "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["unhide.js"]}], "browser_specific_settings": {"gecko": {"id": "{06d70633-76b6-41e5-92cc-7c1dca3511bd}"}}}

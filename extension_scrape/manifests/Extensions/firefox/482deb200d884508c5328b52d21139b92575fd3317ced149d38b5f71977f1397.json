@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TFS Dark", "version": "1.0", "description": "Adds a dark theme to all webpages with /tfs/ in their path.", "icons": {"48": "icons/tfsdark.png"}, "applications": {"gecko": {"id": "benjyring@gmail.com"}}, "content_scripts": [{"matches": ["https://*/tfs/*"], "js": ["tfsdark.js"]}]}

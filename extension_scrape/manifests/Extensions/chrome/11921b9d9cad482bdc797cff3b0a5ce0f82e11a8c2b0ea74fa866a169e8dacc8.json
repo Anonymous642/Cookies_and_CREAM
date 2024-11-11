@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Netflix Ratings", "version": "1.0", "description": "Shows you Rotten Tomatoes and IMDB ratings for netflix movies and TV shows.", "manifest_version": 2, "content_scripts": [{"matches": ["https://*.netflix.com/*", "http://*.netflix.com/*"], "js": ["content.js"], "css": ["rt.css"]}]}

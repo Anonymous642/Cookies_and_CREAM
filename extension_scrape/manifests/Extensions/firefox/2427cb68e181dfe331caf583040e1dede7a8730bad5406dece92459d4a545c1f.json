@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitter Cut Tags", "version": "1.0", "description": "Puts LJ style cut tags around tweets more than 140 characters long.", "content_scripts": [{"matches": ["*://*.twitter.com/*", "*://twitter.com/*"], "js": ["cuttag.js"], "css": ["styles.css"]}]}

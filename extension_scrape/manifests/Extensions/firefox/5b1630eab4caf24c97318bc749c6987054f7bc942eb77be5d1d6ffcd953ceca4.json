@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Animension Fix", "version": "1.0", "description": "Fixes Animension's broken CSS.", "icons": {"48": "icons/border-64.png"}, "content_scripts": [{"matches": ["*://*.animension.to/*"], "js": ["animensionfix.js"]}], "browser_specific_settings": {"gecko": {"id": "{db1f21be-1ce7-4ef8-aa38-b947c8391240}"}}}

@@ -1,0 +1,1 @@
+{"name": "Dark Mode", "description": "Dark Theme For Websites", "version": "1.0.3", "permissions": ["activeTab"], "background": {"scripts": ["bg.js"]}, "content_scripts": [{"matches": ["http://*/*"], "css": ["css.css"]}], "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Flash Cards", "description": "A flash cards app.", "version": "0.0.0.1", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "flash_2.png", "128": "flash_1.png"}}

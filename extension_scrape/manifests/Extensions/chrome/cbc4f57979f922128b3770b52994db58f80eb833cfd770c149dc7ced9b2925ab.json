@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Khamza?", "description": "This extension will khamza your youtube", "version": "0.1.0", "manifest_version": 3, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "css": ["styles.css"]}]}

@@ -1,0 +1,1 @@
+{"description": "", "manifest_version": 2, "name": "LDAZ", "version": "1.3", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.ldlc.com/*"], "js": ["ldlc-amazon.js"]}], "browser_specific_settings": {"gecko": {"id": "{29fc74d6-23b5-4fe8-ae4c-fc603865cbd1}"}}}

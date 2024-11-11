@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Noto Color Emojify", "version": "1.0", "description": "Replaces your native emojis with noto color emoji.", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["emojify.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search engine assistant", "version": "1.13", "description": "Simply switch between search results from DuckDuckGo to results from Google or reverse in one click!", "icons": {"48": "extension.svg"}, "browser_action": {"default_title": "Search engine assistant", "default_popup": "switch.html"}, "permissions": ["activeTab"]}

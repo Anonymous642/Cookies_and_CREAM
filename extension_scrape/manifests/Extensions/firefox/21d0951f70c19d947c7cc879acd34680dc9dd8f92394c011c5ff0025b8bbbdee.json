@@ -1,0 +1,1 @@
+{"author": "Author", "background": {"page": "background.html"}, "browser_action": {"default_icon": {"48": "images/disabled.svg"}}, "description": "Player Radio Sonica", "icons": {"16": "images/enabled.svg", "48": "images/enabled.svg", "128": "images/enabled.svg"}, "manifest_version": 2, "name": "Radio Sonica Unofficial", "version": "1.0.0"}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "M\u00fcllblock Ursprung", "author": "Ichertragesnicht", "version": "1.0", "description": "", "icons": {}, "permissions": ["webRequest", "webRequestBlocking", "webNavigation", "https://*/*"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{69851ad6-dad6-4c0f-b3ad-761a17f196a0}"}}}

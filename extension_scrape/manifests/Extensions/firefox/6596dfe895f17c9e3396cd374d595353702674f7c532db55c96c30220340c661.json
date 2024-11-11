@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Enhancer for Nimbuscloud", "version": "1.1", "description": "Improve the user experience of community.nimbuscloud.at", "content_scripts": [{"matches": ["*://community.nimbuscloud.at/*"], "js": ["enhancer.js"]}], "browser_specific_settings": {"gecko": {"id": "{278dde99-b106-4541-9679-9013ac21a761}"}}}

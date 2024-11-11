@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RE-FOCUS", "author": "Rohit Abhishek", "version": "1.0.4", "description": "Replace new tab screen with your today's Main Focus, Weather,Time,Todos,Google Search and Some anime quotes.", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{fcc9ce33-dd3b-4f2f-8c69-6f355cd9001a}"}}}

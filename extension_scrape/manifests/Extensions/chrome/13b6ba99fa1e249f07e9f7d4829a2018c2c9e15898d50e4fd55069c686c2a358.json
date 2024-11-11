@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TimeTrekker Pro", "version": "1.1.2", "description": "Chrome extension for tracking office hours, calculates end time.", "permissions": ["storage"], "action": {"default_popup": "calc-time.html", "default_icon": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}}

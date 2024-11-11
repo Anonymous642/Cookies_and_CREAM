@@ -1,0 +1,1 @@
+{"name": "\u00c9 merc\u00e9 correcteur", "version": "0.1", "manifest_version": 2, "description": "\u00c9 merc\u00e9 hein", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["js/correct.js"]}]}

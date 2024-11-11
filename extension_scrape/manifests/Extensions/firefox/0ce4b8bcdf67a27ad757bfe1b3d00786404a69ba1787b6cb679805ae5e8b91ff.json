@@ -1,0 +1,1 @@
+{"applications": {"gecko": {"id": "contact@instill.io", "strict_min_version": "42.0"}}, "manifest_version": 2, "name": "Screencast Recording by Instill", "version": "1.2", "content_scripts": [{"matches": ["*://*.instill.io/*", "*://instill.io/*"], "js": ["content-script.js"]}]}

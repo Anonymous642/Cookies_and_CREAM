@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "youraclown", "version": "1.0", "description": "Nasser Hussain yells \"you're a clown!\" when you open an incongnito tab.", "background": {"scripts": ["bg.js"]}, "icons": {"48": "icons/nasser-hussain-48.png", "128": "icons/nasser-hussain-128.png"}}

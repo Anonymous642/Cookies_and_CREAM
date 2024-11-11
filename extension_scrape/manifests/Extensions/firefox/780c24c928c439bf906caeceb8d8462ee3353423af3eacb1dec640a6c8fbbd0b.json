@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Open tg: links in Telegram Web", "version": "1.0.2", "description": "Open tg: links in Telegram Web K client", "icons": {"48": "48.png"}, "background": {"scripts": ["capture_proto_event.js"]}, "permissions": ["webNavigation", "*://web.telegram.org/*"], "browser_specific_settings": {"gecko": {"id": "{c8a2c045-e9ca-4c05-a37a-28c2f44dc748}"}}}

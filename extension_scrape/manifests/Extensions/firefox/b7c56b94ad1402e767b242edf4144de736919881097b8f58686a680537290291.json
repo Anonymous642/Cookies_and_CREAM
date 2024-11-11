@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "El Qomercio", "version": "1.0.4", "description": "Permite ver notas que se ocultan", "icons": {"48": "icons/favicon.png"}, "permissions": ["activeTab"], "content_scripts": [{"css": ["styles.css"], "matches": ["https://elcomercio.pe/*"], "js": ["jquery-3.3.1.js", "content.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Span Calc", "version": "2.1.1", "manifest_version": 2, "minimum_chrome_version": "31", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"128": "img/pic.png"}, "permissions": [{"fileSystem": ["write", "retainEntries", "directory"]}, "storage", "http://*/", "https://*/", "unlimitedStorage"]}

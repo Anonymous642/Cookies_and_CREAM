@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Password Generator", "version": "1.1", "action": {"default_popup": "popup.html", "default_icon": {"16": "Icon.png", "48": "Icon.png", "128": "Icon.png"}}, "icons": {"16": "Icon.png", "48": "Icon.png", "128": "Icon.png"}}

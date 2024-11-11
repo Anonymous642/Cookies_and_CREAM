@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MSN to Outlook Redirect", "version": "1.0", "description": "Redirects MSN URL to Outlook login page.", "icons": {"48": "outlook-logo.png"}, "content_scripts": [{"run_at": "document_start", "matches": ["*://*.msn.com/*"], "js": ["msn2out.js"]}]}

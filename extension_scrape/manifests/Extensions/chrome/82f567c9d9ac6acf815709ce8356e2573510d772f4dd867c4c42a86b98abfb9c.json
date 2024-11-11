@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "chrome_url_overrides": {"newtab": "index.html"}, "name": "Audi Fan Dashboard", "description": "A dashboard for Audi Fans", "version": "1.00", "permissions": ["topSites", "storage", "favicon"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Loqui", "description": "Simple Chat App", "version": "1.2.4", "manifest_version": 3, "action": {"default_popup": "/public/index.html"}, "icons": {"128": "/public/favicon.png"}}

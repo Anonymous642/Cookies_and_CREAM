@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "M\u0101ori Dictionary Search", "version": "1.0", "description": "Allows you to search for words in the M\u0101ori dictionary.", "permissions": ["contextMenus", "tabs"], "icons": {"16": "favicon-16x16.png"}, "background": {"service_worker": "background.js"}}

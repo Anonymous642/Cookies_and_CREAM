@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tempo", "version": "0.3.3", "manifest_version": 2, "description": "Simple metronome.", "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["storage"], "icons": {"128": "icon_128.png"}, "offline_enabled": true}

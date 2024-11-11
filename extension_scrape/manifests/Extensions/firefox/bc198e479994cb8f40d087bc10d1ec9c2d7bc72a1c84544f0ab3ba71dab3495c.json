@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "German Synonyms", "version": "1.0", "description": "Opens new tab and googles for synonyms.", "permissions": ["menus", "contextMenus"], "icons": {"48": "icons/icon_48.png"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{4bb41678-9bfb-4775-8efe-5e86bf3416e4}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Daily Ayah", "description": "And remind, for indeed, the reminder benefits the believers", "version": "1.0", "manifest_version": 3, "chrome_url_overrides": {"newtab": "index.html"}, "action": {"default_title": "Open the popup"}, "icons": {"16": "new.png", "48": "new.png", "128": "new.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Super Rainbow Comic Sans Marquee", "version": "1.0", "description": "Makes every heading tag rainbow marquee.", "icons": {"16": "icon.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["srcsmx.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Jithya Next", "description": "Clinical Management Redefined", "version": "2.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://next.jithya.com/"], "launch": {"web_url": "http://next.jithya.com/"}}, "permissions": ["unlimitedStorage", "notifications"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_tv_name__", "description": "__MSG_tv_description__", "default_locale": "en", "version": "1.0.7", "manifest_version": 2, "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "icon_16.png", "128": "icon_128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Block Fake News", "description": "Bloqueador de noticias falsas", "version": "1.0.1", "icons": {"128": "icon_128.png"}, "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Snake Game", "version": "1.4.1", "description": "A snake game, with several maps to choose from, plus a 2 player mode!", "icons": {"16": "images/snake16.png", "128": "images/snake128.png"}, "app": {"background": {"scripts": ["background.js"]}}, "manifest_version": 2, "permissions": ["storage"]}

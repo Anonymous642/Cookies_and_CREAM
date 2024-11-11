@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "drubbr", "description": "drubbr- your world at one place! Get your news, movies, music, fashion at one board", "version": "1.0.10.2", "manifest_version": 2, "permissions": ["webview"], "icons": {"128": "icon_128.png"}, "app": {"background": {"scripts": ["background.js"]}}}

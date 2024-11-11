@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Translate", "version": "1.0", "permissions": ["contextMenus", "notifications"], "description": "Adds a red border to all webpages matching mozilla.org.", "background": {"scripts": ["borderify.js"]}}

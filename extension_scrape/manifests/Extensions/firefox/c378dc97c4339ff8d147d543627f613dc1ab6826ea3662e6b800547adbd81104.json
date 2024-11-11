@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube-control", "version": "1.0.2", "description": "Choose the maximum hours of youtube for one day !", "background": {"scripts": ["background.js"]}, "permissions": ["webNavigation", "storage", "tabs", "notifications"], "browser_action": {"default_icon": "icons/icon.png", "default_title": "Youtube control", "default_popup": "popup.html"}}

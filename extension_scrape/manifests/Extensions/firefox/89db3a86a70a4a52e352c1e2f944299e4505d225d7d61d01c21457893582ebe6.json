@@ -1,0 +1,1 @@
+{"name": "Block TikTok", "description": "Blocks access to TikTok to boost productivity", "version": "1.0", "manifest_version": 2, "permissions": ["storage", "tabs"], "options_page": "options.html", "background": {"scripts": ["background.js"]}, "icons": {"16": "icon_16.png", "48": "icon_48.png", "128": "icon_128.png"}}

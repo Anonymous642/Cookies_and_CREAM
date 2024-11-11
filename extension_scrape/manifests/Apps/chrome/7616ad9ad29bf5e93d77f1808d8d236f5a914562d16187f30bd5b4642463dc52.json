@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Other Domain", "manifest_version": 2, "description": "Graphic, digital and design documents", "version": "1.1.1", "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "app": {"background": {"scripts": ["background.js"]}}}

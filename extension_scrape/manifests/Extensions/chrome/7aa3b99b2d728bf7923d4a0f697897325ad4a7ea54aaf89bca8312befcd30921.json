@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Lichess2Chess", "version": "1.2", "description": "Adds Chess.com rating estimate to Lichess.org.", "icons": {"48": "images/icon.png"}, "content_scripts": [{"matches": ["*://lichess.org/*"], "js": ["lichess2chess.js"]}]}

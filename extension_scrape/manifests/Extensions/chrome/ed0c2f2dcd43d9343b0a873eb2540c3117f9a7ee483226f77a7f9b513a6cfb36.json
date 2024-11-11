@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Teamwork Show Full Task Title", "version": "1.0.0", "description": "Allows titles of Teamwork tasks to show as multiple lines on task pages", "manifest_version": 3, "content_scripts": [{"css": ["styles.css"], "matches": ["https://*/*"]}]}

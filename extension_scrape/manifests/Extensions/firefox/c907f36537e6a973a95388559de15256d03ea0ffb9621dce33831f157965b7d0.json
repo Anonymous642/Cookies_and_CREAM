@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "messenger-emoji-purifier", "description": "Undoes Facebook Messenger's conversion of emoticons into emoji.", "version": "1.2", "content_scripts": [{"matches": ["https://www.messenger.com/*"], "js": ["purify-emojis.js"]}]}

@@ -1,0 +1,16 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "name": "Anwalt in Hamburg",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  
+  "description": "Spezialisiertes Internet-Verzeichnis mit Profilen und Kontaktdaten von Rechtsanwälten, Fachanwälten und Kanzleien in Hamburg.",
+  "icons": { "128": "logo.png" },
+  
+  "app": {
+	"urls": "http://anwalt.verzeichnis-hamburg.de",
+	"launch": {"web_url": "http://anwalt.verzeichnis-hamburg.de"}
+  }
+
+}

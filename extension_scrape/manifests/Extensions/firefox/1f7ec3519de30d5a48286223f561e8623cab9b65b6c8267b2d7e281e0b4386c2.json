@@ -1,0 +1,1 @@
+{"name": "Jira Issue Copy", "version": "1.0", "description": "Allows selecting of the issue key + name and then converting that to a valid branch name.", "permissions": ["clipboardWrite", "activeTab"], "browser_action": {"default_title": "Copy JIRA Branch", "default_icon": "icon.png", "default_popup": "popup.html"}, "manifest_version": 2}

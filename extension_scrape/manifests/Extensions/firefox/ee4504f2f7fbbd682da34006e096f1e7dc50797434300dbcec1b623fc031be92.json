@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "remove_wiki_add", "description": "Turn off wikipedia ads.", "version": "1.0.1", "icons": {"48": "static/icons/icon.jpg"}, "content_scripts": [{"matches": ["*://ja.wikipedia.org/*"], "js": ["src/index.js"]}]}

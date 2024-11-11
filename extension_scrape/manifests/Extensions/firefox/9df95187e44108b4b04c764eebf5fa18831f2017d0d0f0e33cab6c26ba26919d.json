@@ -1,0 +1,1 @@
+{"version": "1.0", "manifest_version": 2, "name": "Simple Clock", "description": "Show popup analog clock.", "browser_action": {"browser_style": true, "default_title": "Clock", "default_popup": "clock.html", "default_icon": {"64": "icons/clock-64.png"}}, "icons": {"64": "icons/clock-64.png"}}

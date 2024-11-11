@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ZNO comment opener", "version": "1.0", "description": "Allows you to open comments to tasks on https://zno.osvita.ua/", "icons": {"48": "icons/zno-48.png"}, "content_scripts": [{"matches": ["*://zno.osvita.ua/*"], "js": ["zno.js"]}], "browser_specific_settings": {"gecko": {"id": "{d09732a0-9dc2-40c7-aeca-00ef1338f5e1}"}}}

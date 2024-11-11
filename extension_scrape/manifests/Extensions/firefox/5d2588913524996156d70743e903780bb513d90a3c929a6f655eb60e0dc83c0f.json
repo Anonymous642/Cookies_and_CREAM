@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove censoring from Gravity Tails", "version": "1.0", "description": "Removes censoring of words like 'fuck' from gravitytales", "applications": {"gecko": {"id": "none@none.none", "strict_min_version": "45.0"}}, "content_scripts": [{"matches": ["*://*.gravitytales.com/*"], "js": ["uncensor.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Discord Emote Copier", "version": "1.0", "description": "Copies emote as image url  to the clipboard so you get the joy of using emote in a discord server that has no emotes. Simply left click and url gets copied", "content_scripts": [{"matches": ["https://discord.com/*"], "js": ["main.js"], "css": ["style.css"]}]}

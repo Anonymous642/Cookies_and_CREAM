@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "PC to Respect", "version": "0.0.0.1", "description": "Replaces politically correct with treating other people with respect.", "icons": {"48": "icon48.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["PCtoRespect.js"], "run_at": "document_end"}]}

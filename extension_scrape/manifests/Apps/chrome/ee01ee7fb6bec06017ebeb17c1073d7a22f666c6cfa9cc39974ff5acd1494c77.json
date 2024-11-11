@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Greenfield Hub", "description": "Quick access to district resources.", "version": "2.0", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"128": "gfcube128.jpg"}}

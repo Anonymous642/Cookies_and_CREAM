@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "what day color of the week", "description": "Change browser color for day of the week", "version": "1.0.1", "icons": {"48": "back48.png", "128": "back128.png"}, "permissions": ["theme"], "background": {"scripts": ["background.js"]}}

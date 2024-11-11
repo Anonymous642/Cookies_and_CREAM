@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Crypto Zen", "version": "0.1.1", "description": "Stay calm and prevent panic selling by changing coinmarketcap.com's price-change colors to green and flipping the chart upside-down.", "content_scripts": [{"css": ["styles.css"], "matches": ["https://coinmarketcap.com/*"]}]}

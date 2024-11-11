@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Epoch time converter", "description": "Converts epoch(unix) and milliseconds to date time", "version": "1.0.6", "icons": {"128": "logo/logo.png"}, "action": {"default_title": "Epoch converter", "default_popup": "popup/popup.html"}}

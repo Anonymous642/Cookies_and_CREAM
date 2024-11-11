@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Follow The POINTER (JS Game)", "description": "A pure Javascript written game", "version": "1.0", "icons": {"48": "icons/icon.png"}, "sidebar_action": {"default_title": "Follow The POINTER", "default_icon": "icons/icon.png", "default_panel": "game.html", "browser_style": true}}

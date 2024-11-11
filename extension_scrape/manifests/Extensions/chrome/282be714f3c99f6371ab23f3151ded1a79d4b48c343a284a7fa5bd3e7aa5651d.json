@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "AS2", "description": "Easily Print your desire pages with AS2", "version": "1.0", "background": {"scripts": ["background.js"], "persistent": false}, "permissions": ["activeTab"], "browser_action": {"default_title": "AS2", "default_icon": "icon.png"}, "manifest_version": 2}

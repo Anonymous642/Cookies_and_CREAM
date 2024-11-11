@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YT Promo auto remove", "version": "1.7", "description": "removes youtube premium promo popup", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["promptRemove.js"]}], "browser_specific_settings": {"gecko": {"id": "{eff86da6-189d-433c-8194-1e8bb7347e61}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AI Extension", "version": "1.7", "description": "Addon de gestion avanc\u00e9e de AI Marketing", "icons": {"48": "icons/gestion-48.png"}, "permissions": ["<all_urls>", "tabs"], "browser_action": {"default_icon": "icons/gestion-48.png", "browser_style": true, "default_popup": "popup/popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Ilias Video-Download-Button", "version": "1.1.0", "description": "Adds missing download buttons to videos at ILIAS Opencast pages.", "content_scripts": [{"matches": ["*://*/*ilias.php*xocteventgui*"], "js": ["/content_script.js"]}], "permissions": []}

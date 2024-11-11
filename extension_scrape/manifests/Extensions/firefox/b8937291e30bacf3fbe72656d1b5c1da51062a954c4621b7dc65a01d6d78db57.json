@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "vi Keys", "version": "0.2", "description": "Scroll pages with vi keys.", "permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["vikeys.js"]}]}

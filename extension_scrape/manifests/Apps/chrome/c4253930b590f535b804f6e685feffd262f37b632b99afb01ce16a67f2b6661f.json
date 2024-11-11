@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "AceProject", "description": "Unleash the project manager in you with AceProject! Keep track of projects, tasks, documents, expenses, timesheets and users.", "version": "6.1", "app": {"launch": {"web_url": "https://login.aceproject.com/?src=cwsen"}}, "icons": {"128": "icon128.png"}}

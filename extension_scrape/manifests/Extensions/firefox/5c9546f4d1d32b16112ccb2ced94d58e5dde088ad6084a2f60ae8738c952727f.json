@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove Google Suggestions", "version": "1.0", "description": "Removes the \"People also search for\" box on google.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://www.google.com/*", "*://google.com/*", "*://www.google.se/*", "*://google.se/*"], "js": ["remove-google-suggestions.js"]}]}

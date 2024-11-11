@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "youtube10ft", "version": "1.1", "description": "Make YouTube work better in the living room.", "icons": {"48": "icons/yt10-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["youtube10ft.js"]}], "browser_specific_settings": {"gecko": {"id": "{43066539-dd78-48bf-b7cf-1a3ef8d4a7d3}"}}}

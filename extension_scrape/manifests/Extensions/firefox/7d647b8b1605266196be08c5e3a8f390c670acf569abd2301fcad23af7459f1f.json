@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "bowlroll-english", "version": "0.1.0", "description": "Experimental extension to translate BowlRoll into English.", "content_scripts": [{"matches": ["https://bowlroll.net/*"], "js": ["bowlroll-english.user.js"]}], "browser_specific_settings": {"gecko": {"id": "{968cd0c9-8ffb-4455-9cd6-4dcb82233076}"}}}

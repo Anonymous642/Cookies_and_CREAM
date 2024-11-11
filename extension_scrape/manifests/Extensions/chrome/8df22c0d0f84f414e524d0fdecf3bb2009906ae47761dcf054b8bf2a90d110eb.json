@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Unchained dVPN", "description": "Decentralising internet privacy", "version": "0.2.1", "background": {"service_worker": "background.js"}, "permissions": ["storage", "proxy"], "icons": {"128": "logo.png"}, "action": {"default_icon": "logo.png", "default_popup": "popup.html"}}

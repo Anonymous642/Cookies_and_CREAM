@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Your last 1 year Myntra Wrap", "version": "4.1", "manifest_version": 3, "description": "Know your Myntra orders and much more for last year", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["tabs", "scripting"], "host_permissions": ["https://www.myntra.com/"]}

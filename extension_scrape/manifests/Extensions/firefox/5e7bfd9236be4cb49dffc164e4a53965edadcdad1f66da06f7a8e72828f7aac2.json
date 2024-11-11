@@ -1,0 +1,1 @@
+{"description": "Eurodance Magazine", "manifest_version": 2, "name": "Eurodance Magazine", "version": "1.6", "homepage_url": "https://eurodancemag.blogspot.com", "icons": {"48": "icons/enews.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/enews.png", "default_title": "Eurodance Magazine", "default_popup": "data/news.html"}}

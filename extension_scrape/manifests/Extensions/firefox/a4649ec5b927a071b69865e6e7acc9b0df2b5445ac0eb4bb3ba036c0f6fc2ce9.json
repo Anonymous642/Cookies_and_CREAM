@@ -1,0 +1,1 @@
+{"name": "Document Scanning", "version": "2.5", "manifest_version": 2, "minimum_chrome_version": "37", "app": {"background": {"scripts": ["background.js"]}}, "permissions": [], "optional_permissions": ["documentScan"], "browser_specific_settings": {"gecko": {"id": "{c9d4733e-e146-4b56-b2f2-f4d9c0fc753b}"}}}

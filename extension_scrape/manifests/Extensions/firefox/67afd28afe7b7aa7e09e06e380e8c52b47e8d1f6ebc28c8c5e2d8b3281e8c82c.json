@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Base64 Decoder", "version": "1.1.0", "author": "Devin", "description": "Decode a base64 URL and open in the tab to the right", "background": {"scripts": ["background.js"]}, "icons": {"325": "icon.png"}, "permissions": ["menus"], "browser_specific_settings": {"gecko": {"id": "{424f13b5-8bc5-4249-8562-0fd564adffdf}"}}}

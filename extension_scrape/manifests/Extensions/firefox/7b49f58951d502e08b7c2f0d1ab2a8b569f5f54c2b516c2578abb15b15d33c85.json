@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Selective D&P", "version": "1.3", "description": "Disables the Protanopia & Deuteranopia mode for select elements on github", "content_scripts": [{"matches": ["*://*.github.com/*"], "js": ["colorChanger.js"]}], "browser_specific_settings": {"gecko": {"id": "{be2d499a-e6da-43fd-9fbc-ea9d796e17f8}"}}}

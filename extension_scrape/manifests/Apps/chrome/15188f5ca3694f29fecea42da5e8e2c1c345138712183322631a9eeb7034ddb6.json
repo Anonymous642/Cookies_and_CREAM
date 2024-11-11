@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "My Berkeley Springs", "description": "A community hub about wild and wonderful Morgan County, West Virginia.", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://bspringswv.com/index.html"], "launch": {"web_url": "http://bspringswv.com/index.html"}}}

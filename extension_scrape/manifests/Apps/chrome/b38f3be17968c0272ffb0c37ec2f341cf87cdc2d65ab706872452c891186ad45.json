@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Zertifizierung ", "description": "ISO 9001 Zertifizierung Angebote anfordern", "manifest_version": 2, "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://qm-guru.de/appzertifizierung/"], "launch": {"web_url": "http://qm-guru.de/appzertifizierung/"}}}

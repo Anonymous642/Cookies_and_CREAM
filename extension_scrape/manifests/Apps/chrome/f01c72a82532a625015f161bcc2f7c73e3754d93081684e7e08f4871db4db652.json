@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Stashscout", "description": "Geocache digital items. Share files with people nearby in realtime.", "version": "0.0.0.2", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"128": "stashlogo-128.png"}, "offline_enabled": false, "permissions": ["webview", "geolocation"]}

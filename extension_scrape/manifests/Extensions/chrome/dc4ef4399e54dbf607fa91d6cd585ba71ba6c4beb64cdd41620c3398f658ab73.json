@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Fashy Fox", "version": "1.0", "description": "Replaces Fox News contributor titles like 'Fox host' with a more accurate description.", "icons": {"128": "FashyFox.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}]}

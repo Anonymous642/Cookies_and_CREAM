@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Right-click menu to Muted or First Tab", "version": "2", "description": "Present a right-click menu option to open a link in a muted tab, or to the first position.", "background": {"scripts": ["background.js"]}, "permissions": ["menus"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "NextTab", "description": "This extension provides an alternative UI for the new tab page", "version": "1.1", "chrome_url_overrides": {"newtab": "new_tab.html"}, "icons": {"128": "images/icon128.png"}, "permissions": ["storage"]}

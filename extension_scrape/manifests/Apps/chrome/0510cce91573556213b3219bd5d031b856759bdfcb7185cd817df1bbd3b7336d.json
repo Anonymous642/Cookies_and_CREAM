@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MapOfBatik", "manifest_version": 2, "description": "The geometric map of Indonesian Batik", "version": "1.0.0", "icons": {"16": "icos/16.png", "128": "icos/128.png"}, "app": {"background": {"scripts": ["background.js"]}}}

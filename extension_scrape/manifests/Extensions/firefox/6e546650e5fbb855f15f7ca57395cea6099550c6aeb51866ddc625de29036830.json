@@ -1,0 +1,1 @@
+{"name": "Clean Tabs", "version": "0.0.2", "description": "Close all your tabs and reduce links to a self contained site with all your urls.", "manifest_version": 2, "browser_action": {"default_title": "Clean All", "default_icon": {"128": "broom_icon_128.png"}}, "background": {"persistent": false, "scripts": ["tab-manager.js", "lzma-c.js"]}, "permissions": ["tabs", "storage"]}

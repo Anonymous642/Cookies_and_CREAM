@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hide Shortcut Docs", "description": "Hides Shortcut's Docs card in case you don't want that feature taking up space.", "version": "1.0", "icons": {"64": "icon-64.png"}, "content_scripts": [{"js": ["content.js"], "matches": ["https://app.shortcut.com/*"]}]}

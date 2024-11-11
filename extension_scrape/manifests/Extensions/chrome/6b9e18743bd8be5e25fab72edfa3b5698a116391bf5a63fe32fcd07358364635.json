@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AU Panopto All Cameras", "version": "1.0.0", "description": "Show all lecture camera angles simultaneously on panopto.au.dk.", "content_scripts": [{"js": ["content.js"], "matches": ["https://panopto.au.dk/*"]}], "permissions": []}

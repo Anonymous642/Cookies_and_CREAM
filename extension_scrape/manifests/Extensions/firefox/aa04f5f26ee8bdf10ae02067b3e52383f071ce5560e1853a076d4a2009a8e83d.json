@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AutoRefresh", "version": "1.0", "description": "Refresh Firefox tabs automatically every 30 seconds!", "icons": {"48": "icons/refresh-icon.png"}, "content_scripts": [{"matches": ["*://*.fiverr.com/*"], "js": ["refresh.js"]}]}

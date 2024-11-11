@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Kleki", "version": "0.14", "manifest_version": 2, "description": "Paint and edit with Kleki", "icons": {"128": "icon_128.png"}, "app": {"urls": [], "launch": {"web_url": "https://kleki.com/"}}, "permissions": ["unlimitedStorage"]}

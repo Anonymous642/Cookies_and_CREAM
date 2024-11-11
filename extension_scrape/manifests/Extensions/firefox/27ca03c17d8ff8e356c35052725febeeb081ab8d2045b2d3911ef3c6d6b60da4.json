@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove Analytics Count", "version": "1.2", "description": "Removes the analytics indicator off twitter", "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["noviewer.js"]}], "browser_specific_settings": {"gecko": {"id": "{a49b76f7-204a-44de-a586-2fbd7b56bca1}"}}}

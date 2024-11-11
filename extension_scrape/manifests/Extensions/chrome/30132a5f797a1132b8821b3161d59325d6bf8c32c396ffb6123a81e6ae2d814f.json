@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Elrond Explorer Enhanced", "version": "1.0.0", "description": "Improve Elrond official explorer", "content_scripts": [{"js": ["content.js"], "matches": ["https://*.elrond.com/nfts/*"]}]}

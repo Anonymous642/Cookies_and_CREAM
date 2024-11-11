@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "New Tab Verse", "version": "1.3", "description": "Replaces the new tab page with a Bible verse.", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"48": "icons/newtab_verse_48.png", "96": "icons/newtab_verse_96.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Crystal Clarke Jewellery", "description": "Handcrafted Mixed Media, Silver and Copper Contemporary Art Jewellery", "version": "0.0.0.5", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.crystalclarke.co.uk/"], "launch": {"web_url": "http://www.crystalclarke.co.uk/"}}}

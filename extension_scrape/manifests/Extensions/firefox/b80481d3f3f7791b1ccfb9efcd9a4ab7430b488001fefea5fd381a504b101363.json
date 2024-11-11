@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "image-save", "version": "1.7", "description": "Allows to save images from Instagram with right click 'Save Image as...' .", "icons": {"48": "icons/instagram.png"}, "content_scripts": [{"matches": ["*://www.instagram.com/*"], "js": ["app.js"]}], "browser_specific_settings": {"gecko": {"id": "{6f99b5da-d696-4a33-8cc4-072873422204}"}}}

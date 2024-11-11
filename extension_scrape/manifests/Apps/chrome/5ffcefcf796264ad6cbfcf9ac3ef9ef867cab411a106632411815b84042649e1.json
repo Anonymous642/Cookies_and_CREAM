@@ -1,0 +1,1 @@
+{"name": "PcLiga.com", "description": "PcLiga.com - El mejor juego manager de futbol online", "app": {"urls": ["http://www.pcliga.com/index.asp?ref=googleapp"], "launch": {"web_url": "http://www.pcliga.com/index.asp?ref=googleapp"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "1.1", "icons": {"128": "icon128.png"}}

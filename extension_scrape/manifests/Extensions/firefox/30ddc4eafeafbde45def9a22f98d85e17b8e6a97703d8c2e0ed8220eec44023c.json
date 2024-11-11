@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Total Google Sign Out", "version": "6.0", "description": "Totally signs out of all Google Services", "content_scripts": [{"matches": ["*://accounts.google.com/*"], "js": ["jquery-3.3.1.min.js", "background.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Snackable NFT", "author": "snackable21", "version": "1.0.1", "description": "Snackable is a new-tab browser plugin that instantly delivers curated NFTs art", "icons": {"16": "16px.png", "48": "48px.png", "128": "128px.png"}, "chrome_url_overrides": {"newtab": "index.html"}}

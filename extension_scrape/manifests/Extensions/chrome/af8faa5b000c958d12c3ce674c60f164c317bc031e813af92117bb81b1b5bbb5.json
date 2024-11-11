@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Upwork Liked Job Marker", "version": "1.2.1", "description": "Marks the liked jobs on upwork.com job feed, by giving them a light green background color.", "content_scripts": [{"matches": ["https://*.upwork.com/*"], "js": ["on-scroll-actions.js"]}], "manifest_version": 2}

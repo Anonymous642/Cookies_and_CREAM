@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "oldTwitterStyles", "version": "2.5.0", "manifest_version": 3, "description": "Change some CSS on Twitter Web Client to old style", "content_scripts": [{"matches": ["https://twitter.com/*", "https://x.com/*"], "js": ["content.js"]}], "icons": {"48": "icon.ico"}, "permissions": []}

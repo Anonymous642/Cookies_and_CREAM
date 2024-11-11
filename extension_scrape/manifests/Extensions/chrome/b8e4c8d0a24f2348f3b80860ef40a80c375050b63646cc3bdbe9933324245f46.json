@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Developer Notes", "version": "1.1", "description": "Take notes in Chrome DevTools Panel", "permissions": ["storage"], "icons": {"16": "art/16.png", "48": "art/48.png", "128": "art/128.png"}, "background": {"service_worker": "background.js"}, "devtools_page": "devtools.html"}

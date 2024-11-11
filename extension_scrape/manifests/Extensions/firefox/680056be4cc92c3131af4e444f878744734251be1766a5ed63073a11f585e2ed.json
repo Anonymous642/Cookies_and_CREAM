@@ -1,0 +1,1 @@
+{"name": "Open image in a new tab", "version": "0.1", "manifest_version": 2, "description": "A context menu to open images in a new tab  ", "background": {"scripts": ["background.js"]}, "permissions": ["tabs", "contextMenus"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["background.js"]}], "icons": {"64": "icon64.png"}}

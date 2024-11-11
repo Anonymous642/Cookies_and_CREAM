@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ClearClarify", "version": "1.2", "description": "Profitez de vos vid\u00e9o en supprimant le bandeau clarify de youtube.", "update_rul": "https://github.com/cGIfl300/ClearClarify", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["clearclarify.js"]}]}

@@ -1,0 +1,1 @@
+{"name": "OsloBuss.no", "description": "OsloBuss AS - Ditt lokale turbilselskap!", "app": {"urls": ["http://oslobuss.no/"], "launch": {"web_url": "http://oslobuss.no/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "To Sourcegraph!", "version": "0.1", "background": {"scripts": ["background.js"]}, "permissions": ["activeTab"], "browser_action": {"default_title": "To Sourcegraph!"}}

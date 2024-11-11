@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Rubber Chicken", "description": "Here is your browser based Rubber Chicken", "version": "1.0", "manifest_version": 3, "icons": {"16": "chicken.png", "48": "chicken.png"}, "action": {"default_icon": "chicken.png", "default_popup": "chicken.html"}}

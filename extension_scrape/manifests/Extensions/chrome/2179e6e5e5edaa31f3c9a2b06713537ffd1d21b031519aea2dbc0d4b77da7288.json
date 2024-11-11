@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "worse-onetab", "description": "worse-onetab", "version": "0.1", "manifest_version": 3, "permissions": ["contextMenus", "storage", "tabs"], "background": {"service_worker": "service_worker.js"}, "action": {"default_popup": "popup/popup.html", "default_title": "Click me to open a new window"}}

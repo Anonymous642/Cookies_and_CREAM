@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VK Old", "version": "1.0", "description": " Return VK Old Style", "icons": {"48": "favicon.jpeg"}, "applications": {"gecko": {"id": "@vkold_nick", "strict_min_version": "45.0"}}, "content_scripts": [{"matches": ["*://vk.com/*"], "js": ["main.js"]}]}

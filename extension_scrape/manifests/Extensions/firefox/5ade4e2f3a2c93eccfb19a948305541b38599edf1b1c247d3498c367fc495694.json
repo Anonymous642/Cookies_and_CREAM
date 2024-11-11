@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CopyMessage for 7TV", "version": "1.28", "description": "Copies the message when you click on a message in twitch chat ZULUL", "content_scripts": [{"matches": ["https://www.twitch.tv/*"], "js": ["main.js"], "css": ["main.css"]}]}

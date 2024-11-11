@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Instagram remove log in to continue", "version": "1.0.0", "description": "Removes log in window from instagram when not logged in.", "icons": {"128": "scroll.png"}, "content_scripts": [{"matches": ["https://www.instagram.com/*"], "js": ["content.js"]}]}

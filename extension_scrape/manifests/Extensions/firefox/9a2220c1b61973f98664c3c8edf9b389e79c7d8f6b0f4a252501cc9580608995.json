@@ -1,0 +1,1 @@
+{"name": "Upslash", "description": "Bookmarking reinvented for distributed teams", "background": {"scripts": ["background.js"]}, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "icons": {"16": "icons/border-16.png", "48": "icons/border-48.png", "96": "icons/border-96.png", "128": "icons/border-128.png"}, "version": "2.2", "manifest_version": 2}

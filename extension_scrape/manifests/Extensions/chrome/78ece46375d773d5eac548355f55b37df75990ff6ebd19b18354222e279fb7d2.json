@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tip Track", "description": "Search the best prices and get notified when price drops.", "version": "1", "icons": {"48": "icon48.png", "128": "icon128.png"}, "chrome_url_overrides": {"newtab": "home.html"}, "manifest_version": 3}

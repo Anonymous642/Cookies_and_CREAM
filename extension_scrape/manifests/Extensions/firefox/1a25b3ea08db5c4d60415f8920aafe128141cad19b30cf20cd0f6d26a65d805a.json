@@ -1,0 +1,1 @@
+{"name": "Ecolos-Connards", "version": "0.21", "manifest_version": 2, "description": "Ceux qui me font de la peine, c'est les connards qui votent pour eux.", "icons": {"96": "icons/96.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["js/correct.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "2.5", "name": "Dice Roler", "action": {"default_popup": "Dice Roller.html", "default_icon": "images/icon.png"}}

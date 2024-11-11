@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BlockLocalFiles", "version": "1.0", "description": "Blocks browser from opening \"file://\" urls.", "icons": {"48": "icons/BlockLocalFiles-48.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["<all_urls>", "tabs"], "browser_specific_settings": {"gecko": {"id": "{aef92afc-9d4c-4bbe-a275-dd02e39ecc49}"}}}

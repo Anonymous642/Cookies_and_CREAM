@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SWr", "version": "1.0.1", "description": "Show is this author or channel on youtube support Russian aggresion", "manifest_version": 3, "author": "Team MMR", "permissions": ["tabs"], "action": {"default_popup": "index.html", "default_title": "Stop Watch russian"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UrbDict", "version": "0.1", "description": "urban Dictionary ", "icons": {"48": "ico/ud.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "contextMenus", "tabs"]}

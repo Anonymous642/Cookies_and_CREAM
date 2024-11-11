@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Omnivox+", "version": "0.0.1", "description": "An extension that enhances Omnivox.", "icons": {"16": "src/static/img/icon.png", "32": "src/static/img/icon.png", "48": "src/static/img/icon.png", "128": "src/static/img/icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Free QR Code Generator", "version": "1.0", "description": "Free QR Code Generator to create custom QR Codes", "permissions": ["activeTab"], "action": {"default_icon": {"48": "icon.png"}, "default_popup": "popup.html"}, "icons": {"48": "icon.png"}}

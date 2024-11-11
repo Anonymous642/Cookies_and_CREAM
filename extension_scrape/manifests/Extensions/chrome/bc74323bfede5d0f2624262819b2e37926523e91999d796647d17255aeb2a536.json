@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "1000 Top Chinese Words & Audio by FvrHassan", "description": "1000 Top Chinese Words with Audio by FvrHassan and TinyDharla. Contact me at https://hassanbot.com or https://discord.gg/heaN7MvDmF", "manifest_version": 3, "version": "0.0.0.1", "chrome_url_overrides": {"newtab": "newtab.html"}}

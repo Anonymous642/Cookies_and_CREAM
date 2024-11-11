@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Random itch.io bundle game", "version": "1.0", "description": "Bought the Bundle for Racial Justice and Equality but can't choose which game to play? This picks a random game for you.", "content_scripts": [{"matches": ["*://itch.io/bundle/download/*"], "js": ["src/content.js"]}]}

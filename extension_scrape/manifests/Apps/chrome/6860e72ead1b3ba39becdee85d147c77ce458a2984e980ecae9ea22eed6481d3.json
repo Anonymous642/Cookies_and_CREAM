@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "mijnHosting.nl", "description": "Webhosting al voor 0,99 euro per maand. Gratis domeinnaam registratie", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://mijnHosting.nl/"], "launch": {"web_url": "https://mijnHosting.nl/"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Class 10 Maths", "description": "NCERT Solution for Class 10 Maths in Hindi & English Medium", "version": "1.0.0", "manifest_version": 3, "icons": {"16": "10maths.png", "48": "10maths.png", "128": "10maths.png"}, "action": {"default_popup": "popup.html", "default_icon": "10maths.png"}}

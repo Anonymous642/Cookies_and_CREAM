@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CopyPass ", "description": "Copy text from password fields to clipboard.", "version": "1.0", "permissions": [], "action": {"default_icon": "/src/img/copy-pass.png"}, "content_scripts": [{"js": ["/src/js/content.js"], "matches": ["*://*/*"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Youtube SpeedWatch", "description": "This extension shows the duration of a video on YouTube based on the playback speed.", "version": "1.3", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["script.js"]}], "icons": {"128": "icon.png"}}

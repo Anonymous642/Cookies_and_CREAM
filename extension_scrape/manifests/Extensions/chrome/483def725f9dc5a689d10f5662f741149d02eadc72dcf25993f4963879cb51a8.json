@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.0", "manifest_version": 3, "name": "Githubify", "description": "Adds an option to update Your contrib chart", "content_scripts": [{"matches": ["*://github.com/*"], "js": ["./src/githubify.min.js"]}], "icons": {"48": "./icons/48.png"}, "author": "Roman Kozin"}

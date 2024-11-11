@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YTAutoLike", "version": "1.0", "description": "Autolikes all Youtube Videos that you watched over a specified amount of time.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["Autolike.js"]}]}

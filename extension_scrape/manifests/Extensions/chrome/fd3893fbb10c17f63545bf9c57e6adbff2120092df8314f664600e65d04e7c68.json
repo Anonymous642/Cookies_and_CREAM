@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DeviantArt AI opt-out", "version": "1.0", "description": "Automatically opts you out of inclusion for third-party AI datasets when submitting new work.", "icons": {"96": "icon.png"}, "content_scripts": [{"matches": ["*://*.deviantart.com/submit/*"], "js": ["index.js"]}]}

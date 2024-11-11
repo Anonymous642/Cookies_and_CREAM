@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Notepad Online", "manifest_version": 2, "short_name": "Notepad Online", "description": "Free online notepad. No login required, no sign up required.", "version": "1", "icons": {"128": "icon.png"}, "app": {"launch": {"web_url": "http://notepad.hekoru.lol/"}}}

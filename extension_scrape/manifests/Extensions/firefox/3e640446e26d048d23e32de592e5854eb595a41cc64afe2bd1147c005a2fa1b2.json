@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search Widget", "description": "The search widget allows you to integrate a search box on your mobile or desktop browser.", "version": "1.0.5", "icons": {"48": "icons/logo.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus"], "page_action": {"default_icon": "icon/logo.png", "browser_style": true}}

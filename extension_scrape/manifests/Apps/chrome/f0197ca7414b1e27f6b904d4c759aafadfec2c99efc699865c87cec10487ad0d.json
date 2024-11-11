@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SummitCRM", "description": "Ihr Tool f\u00fcr effiziente Kundengewinnung + E-Mail Marketing", "version": "3.55", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://www.summitcrm.de/"], "launch": {"web_url": "https://www.summitcrm.de/chromeapp"}}}

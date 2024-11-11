@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "GitHub Pages Source Finder (GPSF)", "version": "0.1.4", "web_accessible_resources": ["octocat.gif"], "permissions": ["https://github.com/"], "content_scripts": [{"matches": ["http://*.github.io/*"], "js": ["jquery-2.2.0.min.js", "content.js"]}]}

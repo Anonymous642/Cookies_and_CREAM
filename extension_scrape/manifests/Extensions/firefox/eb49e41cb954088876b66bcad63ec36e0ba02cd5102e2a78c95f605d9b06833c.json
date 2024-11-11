@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dracula new tab", "version": "1.2", "description": "New page in dracula style!", "content_scripts": [{"match_about_blank": true, "matches": ["about:blank"], "js": ["script.js"]}], "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{6613de9f-4c2a-43bc-8f07-0bf000c59956}"}}}

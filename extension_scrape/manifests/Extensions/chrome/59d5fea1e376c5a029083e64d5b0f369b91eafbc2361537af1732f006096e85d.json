@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "BIP39 Mnemonic Checker", "description": "BIP39 Mnemonic Checker is a tool that verifies the accuracy of BIP39 phrases.", "icons": {"48": "icon.png"}, "version": "1.9", "action": {"default_popup": "popup.html"}}

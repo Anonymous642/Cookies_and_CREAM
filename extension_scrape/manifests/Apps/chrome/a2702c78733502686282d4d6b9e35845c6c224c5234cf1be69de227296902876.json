@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Events WOW", "description": "EventsWOW is a leading B2B and B2C Trade Show Portal.", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["HTTP://WWW.EVENTSWOW.COM/"], "launch": {"web_url": "HTTP://WWW.EVENTSWOW.COM/"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Amazon XRay Shield", "version": "1.0", "description": "Removes the X-Ray node from Amazon while watching videos", "icons": {"48": "icons/xray-48.png"}, "content_scripts": [{"matches": ["*://*.amazon.com/*"], "js": ["xrayshield.js"]}], "browser_specific_settings": {"gecko": {"id": "{c9f488d5-d8a6-4a1f-8801-a5f44f869567}"}}}

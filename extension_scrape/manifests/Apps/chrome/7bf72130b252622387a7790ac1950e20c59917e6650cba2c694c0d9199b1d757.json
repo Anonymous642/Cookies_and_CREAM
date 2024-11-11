@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "LIME Go", "short_name": "LIME Go", "description": "Your best sales friend", "version": "1.0.0", "manifest_version": 2, "app": {"launch": {"web_url": "https://go.lime-go.com", "container": "panel"}}, "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WhitGGCalendar", "version": "1.0", "description": "This is a test extension!", "manifest_version": 2, "content_scripts": [{"matches": ["https://my.whitman.edu/mobile"], "js": ["content.js"]}], "browser_action": {"default_popup": "popup.html", "default_title": "WhitGGCalendar"}}

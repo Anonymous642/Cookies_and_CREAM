@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ScrollableJira", "version": "0.1.0", "description": "Optimize Jira Whitespace", "content_scripts": [{"css": ["styles.css"], "matches": ["https://*.atlassian.net/jira/*"]}]}

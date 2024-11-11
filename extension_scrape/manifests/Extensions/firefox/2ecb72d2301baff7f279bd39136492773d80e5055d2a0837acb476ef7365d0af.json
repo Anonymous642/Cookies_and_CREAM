@@ -1,0 +1,1 @@
+{"author": "Lance Gundersen", "manifest_version": 2, "name": "MIKEL, Inc. Launcher", "description": "Quick Launch MIKEL, Inc.", "version": "2.0.0", "icons": {"128": "mikel-128.png"}, "browser_action": {"default_icon": "mikel.png", "default_popup": "popup.html"}, "permissions": ["*://*/*"]}

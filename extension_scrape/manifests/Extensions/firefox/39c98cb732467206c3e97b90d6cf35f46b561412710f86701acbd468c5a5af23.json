@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "greenwire-uii", "version": "0.0.8", "description": "Improves the UI for greenwire.greenpeace.de", "permissions": ["storage", "unlimitedStorage"], "background": {"scripts": ["background.js"]}, "content_scripts": [{"matches": ["*://greenwire.greenpeace.de/*"], "js": ["content_scripts.js"], "css": ["styles/style.css"]}]}

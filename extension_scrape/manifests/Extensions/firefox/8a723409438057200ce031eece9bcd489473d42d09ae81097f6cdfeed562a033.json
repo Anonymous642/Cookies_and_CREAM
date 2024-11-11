@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Growth University", "description": "Get your weekly tasks in your new tab screen", "version": "0.1.2", "icons": {"64": "icons/icon.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}, "web_accessible_resources": ["img/*"], "permissions": ["https://university.growthtools.com/*", "cookies", "storage"]}

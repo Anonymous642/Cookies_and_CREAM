@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Titlovi.com", "description": "Search title on titlovi.com site", "version": "1.0", "applications": {"gecko": {"id": "sinisaaa@hotmail.com"}}, "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus"], "icons": {"16": "icon.png", "48": "icon48.png", "128": "icon128.png"}}

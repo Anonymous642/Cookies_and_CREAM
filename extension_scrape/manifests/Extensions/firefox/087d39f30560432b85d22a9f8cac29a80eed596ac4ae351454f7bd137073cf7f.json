@@ -1,0 +1,1 @@
+{"name": "Make github markdown readable", "version": "1.0.1", "manifest_version": 2, "description": "Show only the body of markdown", "icons": {"48": "icons/48.png"}, "background": {"scripts": ["background.js"], "persistent": false}, "permissions": ["activeTab"], "browser_action": {"browser_style": true, "default_icon": "icons/32.png", "default_title": "Click to show only body"}}

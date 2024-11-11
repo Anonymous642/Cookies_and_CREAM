@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "n00b el Juego", "version": "0.1.1", "manifest_version": 2, "description": "Juego de acertijos y puzzles", "app": {"urls": ["http://www.n00b.cl/"], "launch": {"web_url": "http://www.n00b.cl/"}}, "icons": {"128": "chrome_n00b_128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

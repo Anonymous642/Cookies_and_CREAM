@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Str\u00f8jer Tegl", "description": "mursten med format...", "version": "1.0", "icons": {"128": "128.png"}, "app": {"urls": ["http://strojertegl.dk/"], "launch": {"web_url": "http://strojertegl.dk/"}}, "permissions": ["unlimitedStorage", "notifications"]}

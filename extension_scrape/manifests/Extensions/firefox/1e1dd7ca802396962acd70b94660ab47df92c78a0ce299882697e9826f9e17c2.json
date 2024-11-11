@@ -1,0 +1,1 @@
+{"description": "Hides the rating of both the opponent and yourself on chess.com", "manifest_version": 2, "name": "Chess.com rating hider", "version": "1.0", "homepage_url": "https://github.com/SturlaSolheim/Hide-chess.com-rating", "icons": {"48": "icons/logo.png"}, "content_scripts": [{"matches": ["*://*.chess.com/*"], "css": ["style.css"]}]}

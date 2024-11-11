@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Disable ctrl+S", "description": "disable crtl+s", "version": "1.0", "background": {"service_worker": "background.js"}, "action": {"default_icon": "ctrl_s.png"}, "permissions": ["activeTab", "tabs", "scripting"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

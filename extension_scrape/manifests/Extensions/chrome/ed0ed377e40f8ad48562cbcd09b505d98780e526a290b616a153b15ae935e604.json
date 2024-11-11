@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "White Open Online", "version": "1.0", "description": "Modifica lo sfondo e il colore del testo del container su open.online", "content_scripts": [{"matches": ["*://*.open.online/*"], "js": ["content.js"]}]}

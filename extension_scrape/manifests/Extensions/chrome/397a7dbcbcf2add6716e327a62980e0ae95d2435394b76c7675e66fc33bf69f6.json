@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "short_name": "chrome-extension-notina", "name": "Notina", "icons": {"16": "favicon.ico", "48": "logo192.png", "128": "logo512.png"}, "permissions": [], "version": "1.0.1", "manifest_version": 3, "action": {"default_icon": "logo192.png", "default_popup": "index.html", "default_title": "Notina"}}

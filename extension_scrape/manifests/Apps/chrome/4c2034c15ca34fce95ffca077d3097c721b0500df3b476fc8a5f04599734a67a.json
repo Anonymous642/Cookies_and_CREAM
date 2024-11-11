@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Kiosk - Google App Test", "version": "1.2", "manifest_version": 2, "app": {"background": {"scripts": ["background.js", "application.js"], "persistent": false}}, "permissions": ["logPrivate"], "kiosk_enabled": true}

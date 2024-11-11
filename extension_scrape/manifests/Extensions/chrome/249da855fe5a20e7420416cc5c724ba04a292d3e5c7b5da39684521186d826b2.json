@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Perfect Squares Practice", "description": "Do you want to practice your perfect squares? Then this is what you need.", "version": "1.0", "manifest_version": 3, "background": {"service_worker": "main.js"}, "permissions": [], "action": {"default_popup": "index.html"}}

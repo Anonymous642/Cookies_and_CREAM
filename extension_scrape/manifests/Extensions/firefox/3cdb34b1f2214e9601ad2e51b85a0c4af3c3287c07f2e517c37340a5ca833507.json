@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SuperLibrus", "description": "Pomaga w obs\u0142udze Librusa.", "version": "0.2.1", "icons": {"64": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.librus.pl/nieobecnosci/wykaz_uczeszczania/*"], "js": ["attendanceReportPage.js"]}], "developer": {"name": "Andrzej W\u00f3dkiewicz", "url": "https://github.com/akwodkiewicz/super-librus"}}

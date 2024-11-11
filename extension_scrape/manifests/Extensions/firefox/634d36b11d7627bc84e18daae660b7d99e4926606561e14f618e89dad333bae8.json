@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No New Tweets popup", "version": "1.3", "description": "Removes the 'New Tweets' popup in Tweeter mobile and avoids page reloads to keep timeline position", "content_scripts": [{"matches": ["*://mobile.twitter.com/*"], "css": ["mystyle.css"], "js": ["script.js"]}]}

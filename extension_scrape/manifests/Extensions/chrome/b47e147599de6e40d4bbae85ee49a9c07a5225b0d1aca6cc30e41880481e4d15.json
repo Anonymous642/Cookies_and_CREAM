@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Modo Dark Unicarioca", "version": "0.1", "content_scripts": [{"matches": ["https://ava.unicarioca.edu.br/*"], "css": ["style.css"], "js": ["script.js"]}]}

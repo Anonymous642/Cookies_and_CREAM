@@ -1,0 +1,1 @@
+{"name": "Auto Theater Mode", "description": "Extension to automatically open youtube videos in theater Mode", "version": "0.0.1", "manifest_version": 2, "background": {"scripts": ["background.js"]}, "permissions": ["scripting", "tabs", "https://www.youtube.com/watch*"], "browser_specific_settings": {"gecko": {"id": "{f89f45d5-9eba-48e4-a85e-f0ab41fef550}"}}}

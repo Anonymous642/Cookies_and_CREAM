@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Build a Space Drone", "description": "Build a Space Drone", "version": "1.0", "minimum_chrome_version": "23", "offline_enabled": true, "icons": {"16": "icon.png", "128": "icon.png"}, "app": {"background": {"scripts": ["launchApp.js"]}}, "permissions": ["fullscreen", "storage"]}

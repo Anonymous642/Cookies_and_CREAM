@@ -1,0 +1,1 @@
+{"name": "plug.dj tools", "version": "1.5.3", "icons": {"16": "icon16.png", "48": "icon48.png", "96": "icon96.png", "128": "icon128.png"}, "description": "Some tools for plug.dj", "content_scripts": [{"matches": ["https://plug.dj/*"], "js": ["content.js"]}], "permissions": ["clipboardRead"], "web_accessible_resources": ["tools.js"], "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Freecycle + trash nothing!", "description": "Give & get free stuff in your local Freecycle, Freegle, ReUseIt and Full Circles groups.", "version": "1.1", "manifest_version": 2, "app": {"launch": {"web_url": "http://trashnothing.com"}}, "icons": {"128": "icon_128.png"}, "permissions": []}

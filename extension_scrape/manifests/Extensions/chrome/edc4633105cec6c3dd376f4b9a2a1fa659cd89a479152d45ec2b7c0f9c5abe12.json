@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bubble.io Extension", "version": "1.1", "description": "This extension improves some visual aspects of the Bubble.io editor. Mainly the element tree.", "manifest_version": 3, "host_permissions": ["https://bubble.io/"], "content_scripts": [{"matches": ["https://bubble.io/*"], "css": ["style.css"]}]}

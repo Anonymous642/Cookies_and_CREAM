@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Trendless FB", "version": "2.0.0", "description": "Removes the Trending sidebar on Facebook.", "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["trendless-fb.js"]}]}

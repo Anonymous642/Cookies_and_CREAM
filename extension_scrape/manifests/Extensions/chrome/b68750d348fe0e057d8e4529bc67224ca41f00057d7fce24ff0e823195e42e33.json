@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Can I deploy today?", "version": "1.0.1", "description": "Chrome extension to know if it's a good day to deploy", "icons": {"128": "icon.png"}, "action": {"default_popup": "popup.html"}}

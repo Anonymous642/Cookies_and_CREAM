@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Boost Mobile ExtensionGPT", "version": "1.0.0", "description": "A Google Chrome extension that provides support for your Boost Mobile related issues", "icons": {}, "permissions": ["https://api.openai.com/*"], "action": {"default_popup": "popup1.html"}}

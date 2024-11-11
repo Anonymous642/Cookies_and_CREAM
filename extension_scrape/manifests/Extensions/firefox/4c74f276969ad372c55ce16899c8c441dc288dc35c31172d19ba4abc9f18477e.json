@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "stackoverflow context menu search", "version": "1.0", "description": "\ud83d\udc49 highlight text, right click, search on stack overflow", "homepage_url": "https://github.com/kosmos434/stackoverflow-context-menu-search", "icons": {"48": "icons/stack48.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["stack.js"]}}

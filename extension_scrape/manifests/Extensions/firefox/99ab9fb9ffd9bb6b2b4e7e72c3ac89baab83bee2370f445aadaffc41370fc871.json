@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Download Blocker", "version": "1.4", "description": "Disable downloading files to disk", "applications": {"gecko": {"strict_min_version": "60.0", "id": "download-blocker@clear-code.com"}}, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}}

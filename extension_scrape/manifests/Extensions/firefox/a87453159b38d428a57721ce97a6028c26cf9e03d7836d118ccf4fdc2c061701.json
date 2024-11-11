@@ -1,0 +1,1 @@
+{"name": "SMMRY-XT", "version": "1.0.4", "manifest_version": 2, "permissions": ["tabs", "contextMenus", "scripting", "activeTab"], "browser_action": {"default_popup": "popup.html"}, "icons": {"48": "./img/s-48.png"}, "browser_specific_settings": {"gecko": {"id": "{6a00f71e-bd54-443d-b36a-c9133d5f1d2d}"}}}

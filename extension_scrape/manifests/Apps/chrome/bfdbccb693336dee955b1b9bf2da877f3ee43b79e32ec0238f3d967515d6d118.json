@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "BoardMicro", "version": "1.2", "description": "AVR Simulator", "icons": {"16": "/style/icons/16/icon.png", "48": "/style/icons/48/icon.png", "128": "/style/icons/128/icon.png"}, "app": {"background": {"scripts": ["/js/main.js"]}}}

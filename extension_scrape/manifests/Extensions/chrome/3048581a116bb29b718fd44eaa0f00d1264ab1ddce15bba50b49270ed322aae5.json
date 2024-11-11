@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "School Progress Tab", "version": "2.2", "manifest_version": 3, "description": "Show School Progress when you open a new tab.", "chrome_url_overrides": {"newtab": "/index.html"}, "icons": {"128": "icon.png"}, "offline_enabled": true}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Stats Navigator", "description": "Linking between Baseball-Reference, Baseball Savant, and Fangraphs", "version": "1.4.0", "browser_action": {"default_icon": "newIcon.png", "default_popup": "popup.html"}, "permissions": ["activeTab"]}

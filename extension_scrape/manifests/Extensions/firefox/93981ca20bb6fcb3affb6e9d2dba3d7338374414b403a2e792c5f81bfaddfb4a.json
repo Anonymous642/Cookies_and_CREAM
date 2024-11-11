@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Easy-lxg", "version": "1.2", "description": "Affiche toutes les pages d'un chapitre automatiquement sur littlexgarden.", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://littlexgarden.com/*"], "js": ["setup.js"], "css": ["style.css"]}], "browser_specific_settings": {"gecko": {"id": "easylxg@gmail.com"}}}

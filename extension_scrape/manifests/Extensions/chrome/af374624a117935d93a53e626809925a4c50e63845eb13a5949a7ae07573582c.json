@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Intentional", "version": "0.0.3", "description": "List your browsing session's intention on your new tab page.", "icons": {"128": "icon_128.png"}, "chrome_url_overrides": {"newtab": "new_tab_page.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "You Never Knew", "description": "Replaces \u201cyou never knew you needed\u201d with \u201cyou secretly longed for\u201d etc.", "version": "1.1", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

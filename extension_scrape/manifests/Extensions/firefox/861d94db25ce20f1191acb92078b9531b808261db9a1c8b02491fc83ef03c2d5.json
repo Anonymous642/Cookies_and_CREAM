@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube-SkipS-hit", "version": "1.0", "description": "Redirect www.youtube.com to www.youtube.com/feed/subscriptions to save users from recommendations.", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["whileload.js"]}]}

@@ -1,0 +1,1 @@
+{"name": "Jokes", "description": "Enjoy a new joke with every click", "author": "Vaishnavi Konda", "version": "0.0.2", "manifest_version": 2, "browser_action": {"default_popup": "index.html", "default_icon": "logo.png"}, "icons": {"400": "logo.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{9a34d8cd-5e98-4df4-9ef8-e1ab70411f44}"}}}

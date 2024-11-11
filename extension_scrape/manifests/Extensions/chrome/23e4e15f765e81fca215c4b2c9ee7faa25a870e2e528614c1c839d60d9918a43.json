@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Email Actions", "version": "1.1", "description": "Add actions to your emails", "manifest_version": 2, "browser_action": {"default_popup": "quick-response.html", "default_title": "Create action items in your email"}, "icons": {"16": "page-16.png", "48": "page-48.png", "128": "page-128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Scuola di musica a Forl\u00ec", "description": "FOURMUSIC.STUDIO offre corsi di batteria, chitarra, canto, pianoforte", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.fourmusic.it/"], "launch": {"web_url": "http://www.fourmusic.it"}}}

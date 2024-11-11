@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Namaste Tab", "version": "1.3", "description": "Helping you to balance your life", "icons": {"256": "images/icon-256.png"}, "chrome_url_overrides": {"newtab": "new_tab.html"}, "manifest_version": 3}

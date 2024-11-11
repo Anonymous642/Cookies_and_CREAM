@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Rewards for Amazon", "description": "We automatically apply an affiliate tag and get rewarded for your shopping.", "version": "1.0.0.0", "manifest_version": 2, "content_scripts": [{"matches": ["https://www.amazon.com/*"], "js": ["script.js"], "run_at": "document_start"}]}

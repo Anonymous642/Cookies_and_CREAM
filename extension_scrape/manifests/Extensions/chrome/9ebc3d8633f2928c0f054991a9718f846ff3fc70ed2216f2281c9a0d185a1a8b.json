@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ZenTao Change", "description": "change ZenTao bug status", "version": "1.0.1", "manifest_version": 2, "browser_action": {"default_popup": "index.html", "default_icon": "icon.png"}, "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["js/background.js"]}}

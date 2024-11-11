@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tamahere Model Country School", "version": "0.2", "manifest_version": 2, "description": "Access to the Tamahere Model Country School website", "app": {"urls": ["http://www.tamahere.school.nz/"], "launch": {"web_url": "http://www.tamahere.school.nz/"}}, "icons": {"128": "icon.png"}}

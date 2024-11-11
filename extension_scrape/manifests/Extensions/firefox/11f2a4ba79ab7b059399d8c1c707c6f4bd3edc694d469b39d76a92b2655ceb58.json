@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Password Generator", "version": "1.1", "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "wheelofate@wheelofate-ffaaf.web.app.com"}}, "background": {"scripts": ["background.js"]}, "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

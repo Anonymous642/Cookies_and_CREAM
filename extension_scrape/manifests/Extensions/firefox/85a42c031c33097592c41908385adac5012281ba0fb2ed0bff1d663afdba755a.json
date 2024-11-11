@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tenseiglass", "version": "1.1", "description": "Provides a text interface to Wolfeon's Tenseigan Box App", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["http://tenseigan.herokuapp.com/box"], "js": ["tenseiglass.js"]}]}

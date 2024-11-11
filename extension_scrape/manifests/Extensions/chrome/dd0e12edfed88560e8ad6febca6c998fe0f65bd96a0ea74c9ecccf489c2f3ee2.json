@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Multiplayer fun Tic-Tac-Toe", "version": "0.0.1", "description": "Multiplayer fun tic tac toe game", "manifest_version": 3, "author": "Umesh Lodha and Hardik Shetty", "action": {"default_popup": "index.html", "default_title": "Tic-Tac-Toe"}}

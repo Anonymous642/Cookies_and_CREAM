@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Flight Searcher", "description": "Flight search plugin from reliable sites", "version": "1.2.6", "action": {"default_popup": "popup.html"}, "icons": {"16": "statics/imgs/png/icon.png", "48": "statics/imgs/png/icon.png", "128": "statics/imgs/png/icon.png"}}

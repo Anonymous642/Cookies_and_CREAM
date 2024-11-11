@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Don't Drop The Bomb", "description": "Seriously, don't drop it!!", "version": "0.1", "manifest_version": 2, "permissions": ["storage"], "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "icon-16.png", "128": "icon-128.png"}}

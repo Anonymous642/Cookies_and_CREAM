@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AROTOF", "version": "1.0", "description": "Download all relevant images from there urls.", "permissions": ["clipboardWrite"], "icons": {"48": "icons/aro.ico"}, "content_scripts": [{"matches": ["*://*.ondonnedesnouvelles.com/*"], "js": ["arotofoddn.js"]}]}

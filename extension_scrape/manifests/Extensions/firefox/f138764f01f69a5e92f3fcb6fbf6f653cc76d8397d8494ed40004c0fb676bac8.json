@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NoToMailto", "description": "Say no to mailto", "version": "1.0.1", "icons": {"64": "icons/icon_64.png"}, "browser_specific_settings": {"gecko": {"id": "notomailto@webext"}}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content_script.js"]}], "permissions": ["storage"], "options_ui": {"page": "options/index.html"}}

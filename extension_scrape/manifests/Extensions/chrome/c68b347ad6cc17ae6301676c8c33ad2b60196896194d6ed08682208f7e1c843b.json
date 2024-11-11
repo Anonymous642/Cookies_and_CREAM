@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TBL Ecom Scraper", "version": "1.0.0", "description": "Scrap Shopify and woocommerce site scraper ", "action": {"default_title": "ecom scrapper", "default_popup": "popup.html"}, "manifest_version": 3, "permissions": ["storage", "tabs"]}

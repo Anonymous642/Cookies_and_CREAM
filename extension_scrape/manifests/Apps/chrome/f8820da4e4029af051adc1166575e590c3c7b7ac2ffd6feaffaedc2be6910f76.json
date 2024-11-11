@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "PHPHOST.ORG", "version": "1.0", "manifest_version": 2, "description": "PHP Web Hosting", "icons": {"128": "128.png"}, "app": {"launch": {"web_url": "http://phphost.org/"}, "urls": ["http://phphost.org/"]}}

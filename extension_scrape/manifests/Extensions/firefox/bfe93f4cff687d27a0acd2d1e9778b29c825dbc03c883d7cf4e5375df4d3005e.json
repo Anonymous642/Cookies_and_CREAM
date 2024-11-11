@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "shob_sho", "version": "1.0", "description": "Replace every \u0449 letter with \u0448", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["shob_sho.js"]}], "browser_specific_settings": {"gecko": {"id": "{152bded4-f976-4dc8-8d86-c33000e5b9e1}"}}}

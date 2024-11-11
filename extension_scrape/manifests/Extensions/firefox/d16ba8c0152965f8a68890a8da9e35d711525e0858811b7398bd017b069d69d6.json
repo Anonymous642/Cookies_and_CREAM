@@ -1,0 +1,1 @@
+{"name": "NewTab Pastels", "version": "2.6", "description": "A Pastel New Tab Page.", "manifest_version": 2, "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["theme"], "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "browser_specific_settings": {"gecko": {"id": "{4b402447-69d7-4362-8888-9d53e185f441}"}}}

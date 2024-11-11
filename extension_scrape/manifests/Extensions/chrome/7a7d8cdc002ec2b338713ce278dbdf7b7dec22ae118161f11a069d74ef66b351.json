@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "browser_action": {"default_popup": "popup.html"}, "description": "Password generator chrome extension, to save you the hassle of finding generator sites", "icons": {"128": "smart-lock.png"}, "manifest_version": 2, "name": "Passwords Now", "version": "1.0"}

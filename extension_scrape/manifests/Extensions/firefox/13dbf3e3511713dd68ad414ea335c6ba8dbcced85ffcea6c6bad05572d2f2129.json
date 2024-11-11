@@ -1,0 +1,1 @@
+{"description": "Mein eBay nach >bald endend< sortiert aufrufen", "manifest_version": 2, "name": "Mein eBay sortiert nach bald endend", "version": "1.0", "background": {"scripts": ["background.js"]}, "permissions": ["webRequest", "webRequestBlocking", "https://my.ebay.de/ws/eBayISAPI.dll?MyEbay&gbh=1"], "browser_action": {"default_icon": {"48": "icons/meinebay.png"}}}

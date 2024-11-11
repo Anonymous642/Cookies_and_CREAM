@@ -1,0 +1,1 @@
+{"name": "Berifai", "version": "1.0", "description": "Verify the authenticity of websites", "manifest_version": 2, "browser_action": {"default_icon": "images/icon.png", "default_popup": "popup.html"}, "background": {"scripts": ["popup.js"], "persistent": false}, "permissions": ["activeTab", "tabs"]}

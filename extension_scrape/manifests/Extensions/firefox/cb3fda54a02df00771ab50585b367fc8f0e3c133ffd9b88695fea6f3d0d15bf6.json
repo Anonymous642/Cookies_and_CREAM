@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "F I R E fox Extension", "version": "1.0", "description": "Exaggarates the 'fire' in Firefox.", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["fire.js"]}], "browser_specific_settings": {"gecko": {"id": "{368ec368-0640-41ab-a36d-6002587c2b24}"}}}

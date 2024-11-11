@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sourcecatcher Fetcher", "author": "piggies", "version": "1.1", "description": "Gets Sourcecatcher's results for an image.", "icons": {"48": "icons/scfetcher-48.png"}, "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["scfetcher.js"]}}

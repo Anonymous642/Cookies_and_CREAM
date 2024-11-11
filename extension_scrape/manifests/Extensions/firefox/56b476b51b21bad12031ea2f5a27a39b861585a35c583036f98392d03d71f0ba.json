@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "nocovid", "version": "1.1", "description": "Answers \"NO\" to Campus Checkin.", "content_scripts": [{"matches": ["*://checkin.uwaterloo.ca/campuscheckin/screen.php?key=*"], "js": ["nocovid.js"]}]}

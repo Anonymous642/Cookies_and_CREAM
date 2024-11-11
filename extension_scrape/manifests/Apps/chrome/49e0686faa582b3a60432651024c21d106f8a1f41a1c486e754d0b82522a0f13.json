@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Math Maze Madness", "description": "An educational first person shooter app", "version": "0.2", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "DrupalToolsToo2.jpg", "128": "DrupalToolsToo2.jpg"}, "permissions": ["fullscreen", "storage"]}

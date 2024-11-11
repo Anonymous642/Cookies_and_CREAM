@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Hue Tab", "version": "1.0", "description": "A beautiful new tab page that travels the colour spectrum throughout the year and goes from light to dark as the day progresses.", "manifest_version": 2, "incognito": "split", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"128": "icon.png"}}

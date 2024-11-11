@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "start-up.buzz", "short_name": "start-up.buzz", "description": "Description for start-up.buzz", "version": "0.0.1.2", "icons": {"16": "assets/icon_16.png", "128": "assets/icon_128.png"}, "app": {"background": {"scripts": ["background.js"]}}}

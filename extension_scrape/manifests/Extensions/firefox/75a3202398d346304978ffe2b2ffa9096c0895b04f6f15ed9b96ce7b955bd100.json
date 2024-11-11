@@ -1,0 +1,1 @@
+{"name": "JustSearch", "version": "0.2", "description": "A minimal New Tab page", "manifest_version": 2, "chrome_url_overrides": {"newtab": "JustSearch.html"}, "icons": {"16": "Images/JustSearchLogo.png", "48": "Images/JustSearchLogo.png", "128": "Images/JustSearchLogo.png"}}

@@ -1,0 +1,1 @@
+{"name": "Magento Chrome Extension", "version": "0.2", "description": "Magento Chrome Extension", "permissions": ["activeTab", "storage", "browsingData", "webRequest", "tabs", "<all_urls>"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "manifest_version": 2}

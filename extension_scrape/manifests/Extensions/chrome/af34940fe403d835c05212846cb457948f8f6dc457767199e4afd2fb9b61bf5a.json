@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "X to BlueBird", "version": "1.0.1", "manifest_version": 3, "description": "X to BlueBird for Twitter", "content_scripts": [{"matches": ["https://twitter.com/*"], "js": ["content.js"]}]}

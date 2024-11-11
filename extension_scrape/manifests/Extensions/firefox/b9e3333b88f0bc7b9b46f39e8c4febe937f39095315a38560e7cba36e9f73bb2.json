@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SaltyBet Character Previews", "version": "1.3", "description": "Adds buttons to the SaltyBet Compendium for previewing a character's idle gif", "icons": {"37": "icon.png"}, "content_scripts": [{"matches": ["*://*.saltybet.com/compendium*"], "css": ["styles.css"], "js": ["jquery-3.5.1.min.js", "jquery-ui.js", "previewChars.js"]}]}

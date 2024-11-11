@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CalC Deva", "version": "1.0.0", "description": "calculator extension for chrome", "manifest_version": 3, "author": "Devashish Priyadarhsi", "action": {"default_popup": "index.html", "default_title": "CalC Deva"}}

@@ -1,0 +1,1 @@
+{"browser_action": {"default_popup": "leadsolo.html", "default_title": "Leadsolo LinkedIn Plugin"}, "description": "Leadsolo", "manifest_version": 2, "name": "Leadsolo LinkedIn Plugin", "permissions": ["activeTab", "https://leadsolo.io/*"], "version": "2.5", "icons": {"16": "leadsolo-linkedin-logo.png", "48": "leadsolo-linkedin-logo.png", "128": "leadsolo-linkedin-logo.png"}}

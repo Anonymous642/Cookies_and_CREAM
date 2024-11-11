@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Random Number generator(1 to 10)", "description": "Generates a random number from 1 to 10", "version": "1.0", "browser_action": {"default_icon": "icons.png", "default_popup": "popup.html"}, "permissions": [], "icons": {"48": "Iconchrome48.png"}, "browser_specific_settings": {"gecko": {"id": "{5f6eb81c-e60d-41b7-bc63-17a15db39e13}"}}}

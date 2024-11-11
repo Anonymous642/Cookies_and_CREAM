@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "clixood", "description": "The only extension you need to deal with old bookmarks", "version": "1.0", "icons": {"16": "images/mark.png", "32": "images/mark (1).png", "128": "images/mark (2).png"}, "action": {"default_popup": "popup.html"}, "permissions": ["bookmarks"]}

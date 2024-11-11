@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "EmptyTab", "version": "1.0.0", "manifest_version": 2, "description": "Have a clean tab without thumbnails", "icons": {"16": "SP_icon_16.png", "48": "SP_icon_48.png", "128": "SP_icon_128.png"}, "chrome_url_overrides": {"newtab": "default.html"}}

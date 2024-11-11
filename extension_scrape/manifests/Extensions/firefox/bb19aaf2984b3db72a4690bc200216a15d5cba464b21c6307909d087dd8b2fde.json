@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "dudle name filter", "version": "1.0.1", "description": "Name filter for dudle polls", "content_scripts": [{"matches": ["*://dudle.inf.tu-dresden.de/*", "*://dud-poll.inf.tu-dresden.de/*"], "js": ["dudlenamefilter.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{a3f940dc-3642-4c8e-a1ec-b4231e98f84f}"}}}

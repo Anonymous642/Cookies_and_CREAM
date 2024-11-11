@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pangzitv", "version": "1.0", "description": "reset player automatically", "icons": {"48": "icons/48.png", "128": "icons/128.png"}, "content_scripts": [{"matches": ["*://pangzitv.com/vod-play-id*"], "js": ["user.js"], "all_frames": true}], "browser_specific_settings": {"gecko": {"id": "{093c8657-7cd9-4ce5-9f71-598c6653f5b6}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Xttps", "version": "1.0.4", "description": "Make ttps:// links clickable in Twitter (or X)", "homepage_url": "https://github.com/sevenc-nanashi/xttps", "icons": {"48": "48.png"}, "content_scripts": [{"matches": ["https://twitter.com/*", "https://x.com/*"], "js": ["main.mjs"]}], "browser_specific_settings": {"gecko": {"id": "xttps@sevenc7c.com"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "You're Normal", "version": "1.0", "description": "Click it when you need to feel normal!", "homepage_url": "https://gitlab.com/eg-tech/normal-extension", "icons": {"48": "icons/wink48.png"}, "browser_action": {"default_icon": "icons/wink36.png", "default_title": "You're Normal", "default_popup": "popup/normal.html"}}

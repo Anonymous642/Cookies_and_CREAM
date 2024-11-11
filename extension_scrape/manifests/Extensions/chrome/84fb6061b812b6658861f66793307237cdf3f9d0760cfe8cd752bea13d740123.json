@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sponsor Blocker for skroutz.gr", "version": "0.2", "description": "Sponsor Blocker for skroutz.gr", "permissions": [], "content_scripts": [{"matches": ["*://*.skroutz.gr/*"], "css": ["style.css"]}], "icons": {"128": "icon.png"}}

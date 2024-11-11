@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ChatGPT-WebUI-NoInfo", "version": "1.1", "description": "Removes the 'This is a free research preview' text.", "icons": {}, "content_scripts": [{"matches": ["*://chat.openai.com/chat", "*://chat.openai.com/chat/*"], "js": ["GPTChat_NoInfo.js"]}], "browser_specific_settings": {"gecko": {"id": "{ceeaa501-ecd7-48a5-ad1e-fcb5999feea5}"}}}

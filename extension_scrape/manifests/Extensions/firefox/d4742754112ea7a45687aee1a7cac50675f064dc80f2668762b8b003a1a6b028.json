@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "KMF to XCD", "version": "1.0", "description": "Convert KMF to XCD", "browser_specific_settings": {"gecko": {"id": "kmf-to-xcd@example.com"}}}

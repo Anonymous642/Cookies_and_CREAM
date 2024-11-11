@@ -1,0 +1,1 @@
+{"name": "ASDA Groceries Helper", "manifest_version": 2, "version": "0.3", "description": "This extension helps with filling a shopping basket on https://groceries.asda.com/ .", "homepage_url": "https://github.com/davegoopot/asda_groceries_helper", "content_scripts": [{"matches": ["https://groceries.asda.com/*"], "js": ["asda.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "WWE France", "version": "1.0", "description": "WWE.FR - Le site officiel pour la France et la Belgique", "icons": {"128": "App_wwe_fr.png"}, "app": {"urls": ["http://www.wwe.fr/"], "launch": {"web_url": "http://www.wwe.fr/"}}}

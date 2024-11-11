@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Crypto Translator", "version": "1.1", "description": "A joke extension that will automatically replace Crypto Terms.", "icons": {"48": "Icons/bitcoin-icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["translate.js"]}], "browser_specific_settings": {"gecko": {"id": "{1e4d6915-a8ab-4b86-8894-35b414d8f70e}"}}}

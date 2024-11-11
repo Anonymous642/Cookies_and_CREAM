@@ -1,0 +1,1 @@
+{"name": "__MSG_appName__", "version": "1.0.2", "description": "__MSG_appDesc__", "default_locale": "en", "icons": {"48": "img/icon-48x48.png", "128": "img/icon-128x128.png"}, "permissions": ["webRequest", "webRequestBlocking", "*://*.zoom.us/*", "*://*.zoomgov.com/*"], "background": {"scripts": ["background.js"], "persistent": true}, "manifest_version": 2}

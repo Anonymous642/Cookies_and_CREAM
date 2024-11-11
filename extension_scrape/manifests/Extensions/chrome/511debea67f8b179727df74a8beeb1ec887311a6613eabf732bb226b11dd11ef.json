@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple window", "version": "0.0.1", "action": {"default_title": "Open in simple window"}, "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "FbBlokr", "version": "1.0", "description": "Block Fb", "permissions": ["webRequest", "webRequestBlocking", "*://www.facebook.com/*"], "background": {"scripts": ["background.js"], "persistent": true}, "manifest_version": 2}

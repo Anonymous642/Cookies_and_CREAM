@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Units Converter", "description": "Converts Between different units", "version": "1", "icons": {"16": "icon.png", "32": "icon.png", "64": "icon.png", "128": "icon.png"}, "app": {"background": {"scripts": ["js/background.js"]}}}

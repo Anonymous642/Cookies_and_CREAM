@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UG-Scroller", "version": "1.1", "description": "An extension to scroll automatically on Ultimate Guitar", "icons": {}, "content_scripts": [{"matches": ["*://tabs.ultimate-guitar.com/tab/*"], "js": ["autoscroll.js"]}], "browser_specific_settings": {"gecko": {"id": "{d4d5ac89-6ab9-43f3-93ce-d804ef8eefd0}"}}}

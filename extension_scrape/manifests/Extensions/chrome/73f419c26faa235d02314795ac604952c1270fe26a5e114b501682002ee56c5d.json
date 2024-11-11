@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Flash Notes", "version": "0.5", "description": "Notas de acesso r\u00e1pido.", "manifest_version": 3, "action": {"default_icon": {"19": "assets/flash-logo.png", "38": "assets/flash-logo.png"}, "default_popup": "index.html"}}

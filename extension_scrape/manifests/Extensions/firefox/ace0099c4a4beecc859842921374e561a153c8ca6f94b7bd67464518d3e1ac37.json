@@ -1,0 +1,1 @@
+{"description": "Removes youtube distractions by Limiting you see only the video", "manifest_version": 2, "name": "FocusTube", "version": "2.0", "content_scripts": [{"matches": ["*://*.youtube.com/watch?v*"], "js": ["page_eater.js"]}], "browser_action": {"default_icon": "icons/FocusTubeLogo.png", "default_title": "FocusTube is active"}}

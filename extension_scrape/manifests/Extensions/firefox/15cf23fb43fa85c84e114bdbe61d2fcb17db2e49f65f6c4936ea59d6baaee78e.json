@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ShotTube", "description": "A Modification of Youtube Screenshot Button by RAM", "version": "1.0", "icons": {"96": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["content_script.js"]}], "options_ui": {"page": "options/index.html"}, "permissions": ["storage"]}

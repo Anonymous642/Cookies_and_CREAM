@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bashi Warrior", "description": "Battle", "version": "1.0", "manifest_version": 2, "homepage_url": "www.kraitstudios.com", "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "icon-16.png", "128": "icon-128.png"}, "permissions": ["unlimitedStorage"], "offline_enabled": true}

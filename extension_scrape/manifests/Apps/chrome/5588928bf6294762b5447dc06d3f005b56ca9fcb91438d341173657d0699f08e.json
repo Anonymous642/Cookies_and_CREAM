@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Punto Cr\u00edtico", "description": "Punto Cr\u00edtico es un medio con la \u00fanica premisa de libertad editorial", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["HTTP://WWW.PCRITICO.COM/"], "launch": {"web_url": "HTTP://WWW.PCRITICO.COM/"}}}

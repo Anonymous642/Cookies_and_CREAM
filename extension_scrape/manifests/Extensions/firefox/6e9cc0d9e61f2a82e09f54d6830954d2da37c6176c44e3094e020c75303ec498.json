@@ -1,0 +1,1 @@
+{"name": "I'm old, give me a break", "version": "0.0.2", "description": "I'm old, give me a break", "homepage_url": "https://retiolus.net", "author": "retiolus", "manifest_version": 2, "background": {"scripts": ["content/background.js"]}, "permissions": ["webRequest", "*://reddit.com/*", "*://www.reddit.com/*", "webRequestBlocking"]}

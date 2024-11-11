@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "UP Brain Trainer", "version": "2.1", "minimum_chrome_version": "23", "icons": {"16": "icons/icon_16.png", "128": "icons/icon_128.png"}, "permissions": ["storage"], "app": {"background": {"scripts": ["main.js"]}}}

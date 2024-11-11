@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Iluslugu", "version": "0.1.0", "description": "Brauseri rakendus, mis teeb Digiloo ja e-tervise portaali ilusamaks", "content_scripts": [{"css": ["style.css"], "js": ["content.js"], "matches": ["https://*.digilugu.ee/*"]}], "icons": {"128": "iluslugu-128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Full Crosshair Cursor", "version": "1.0.1", "description": "Full Crosshair Cursor over window", "icons": {"16": "src/icons/16.png", "48": "src/icons/48.png", "128": "src/icons/128.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["src/app.js"], "css": ["src/style.css"]}], "permissions": ["activeTab"]}

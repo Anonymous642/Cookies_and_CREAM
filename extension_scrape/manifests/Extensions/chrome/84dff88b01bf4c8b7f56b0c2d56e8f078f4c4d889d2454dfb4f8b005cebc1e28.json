@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "San Mateo library search v1", "version": "1", "manifest_version": 2, "description": "Quick search of San Mateo library catalogue", "icons": {"128": "bks128.jpg"}, "permissions": ["contextMenus"], "background": {"scripts": ["script.js"]}}

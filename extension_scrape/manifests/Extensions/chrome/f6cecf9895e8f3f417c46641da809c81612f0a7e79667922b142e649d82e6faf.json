@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Audio Device Pre-warmer", "version": "1.0", "author": "ClearCode Inc.", "description": "Pre-warm microphone for Google Meet", "permissions": ["webNavigation", "tabs", "storage", "<all_urls>"], "background": {"scripts": ["background.js"], "persistent": false}}

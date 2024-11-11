@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "restore sessions for crxMouseGesture", "version": "0.0.1", "description": "This extension helps crxMouseGesture to restore sessions and search in google.", "icons": {"128": "images/icon128.png"}, "background": {"service_worker": "js/background.js"}, "permissions": ["sessions"]}

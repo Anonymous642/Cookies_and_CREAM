@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Old Warframe Arrows", "version": "1.0", "description": "Changes Warframes arrows into the old style.", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["https://*.reddit.com/r/Warframe/*"], "js": ["changeArrows.js"]}]}

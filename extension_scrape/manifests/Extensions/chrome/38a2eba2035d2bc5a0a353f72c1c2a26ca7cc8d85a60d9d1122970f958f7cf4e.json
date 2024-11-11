@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "The Element Cycles", "version": "0.0.0.1", "icons": [{"src": "images/element-128-icon.png", "type": "image/png", "sizes": "128x128"}, {"src": "images/element-48-icon.png", "type": "image/png", "sizes": "48x48"}], "start_url": "/", "display": "standalone", "orientation": "landscape"}

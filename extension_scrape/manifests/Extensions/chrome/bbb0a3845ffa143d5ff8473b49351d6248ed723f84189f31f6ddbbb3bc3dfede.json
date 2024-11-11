@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Presently", "description": "Simple new tab with current time.", "author": "Chris Andrejewski", "version": "0.0.0.1", "chrome_url_overrides": {"newtab": "new-tab.html"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fraction Calculator", "version": "1.0", "description": "A Mozilla Addon for performing fractional calculations.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{03320d52-ecef-401a-aaf6-60b7e428306f}"}}}

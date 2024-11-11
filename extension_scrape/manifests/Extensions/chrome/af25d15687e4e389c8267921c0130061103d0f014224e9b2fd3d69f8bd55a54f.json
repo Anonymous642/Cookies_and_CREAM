@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "New Tab Chinese Characters", "version": "1.2", "description": "Shows a different Chinese (simplified Mandarin) character in each newtab screen.", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["storage"]}

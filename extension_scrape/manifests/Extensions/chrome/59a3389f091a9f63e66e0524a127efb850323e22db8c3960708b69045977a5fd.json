@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "0.0.0.1", "name": "XaCi-leads", "description": "A tool to easy save urls in different categories", "action": {"default_popup": "index.html", "default_icon": "icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "css": ["style.css"]}], "permissions": ["activeTab"]}

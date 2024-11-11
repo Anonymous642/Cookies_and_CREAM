@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "0.1.1", "name": "Tab cleaner", "description": "Clean up open tabs using regex", "homepage_url": "https://github.com/expenses/tab_cleaner", "permissions": ["tabs"], "browser_action": {"browser_style": true, "default_title": "Tab Cleaner", "default_popup": "popup.html"}}

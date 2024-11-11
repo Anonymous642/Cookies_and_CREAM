@@ -1,0 +1,1 @@
+{"name": "ZenTao Change", "description": "change ZenTao bug status", "version": "1.0.1", "manifest_version": 2, "browser_action": {"default_popup": "index.html", "default_icon": "icon.png"}, "permissions": ["contextMenus", "tabs", "http://*/*", "https://*/*"], "background": {"scripts": ["js/background.js"]}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Case Converter Tool", "version": "1.0.3", "description": "Use our online Case Converter tool to easily convert text and more. Convert your text hassle-free with Case Converter Online.", "icons": {"128": "icon.png"}, "action": {"default_popup": "popup-wrapper.html"}}

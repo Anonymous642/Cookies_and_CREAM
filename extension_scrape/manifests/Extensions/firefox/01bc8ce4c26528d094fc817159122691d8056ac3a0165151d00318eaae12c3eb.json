@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search with Google Scholar", "description": "Search selected text with Google Scholar", "version": "1.0.2", "homepage_url": "https://github.com/mammothb/search-with-google-scholar", "icons": {"48": "icons/48.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "contextMenus"]}

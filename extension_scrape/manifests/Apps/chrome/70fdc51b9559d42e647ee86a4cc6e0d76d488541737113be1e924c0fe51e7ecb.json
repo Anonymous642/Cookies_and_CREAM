@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "__MSG_extension_name__", "version": "5.2", "manifest_version": 2, "description": "__MSG_extension_description__", "default_locale": "en_US", "app": {"urls": ["http://speedtest.courthost.com/"], "launch": {"web_url": "http://speedtest.courthost.com/"}}, "icons": {"128": "128.png"}}

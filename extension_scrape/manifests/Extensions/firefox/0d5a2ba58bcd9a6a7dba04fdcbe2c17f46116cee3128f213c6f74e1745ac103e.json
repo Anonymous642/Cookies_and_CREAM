@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove Twitter Login Pop-up", "version": "1.0.1.4", "permissions": ["activeTab"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{a2e46660-a6cd-4896-a8cf-938d7f5d7742}"}}, "content_scripts": [{"matches": ["*://twitter.com/*", "*://www.twitter.com/*"], "js": ["background.js"]}]}

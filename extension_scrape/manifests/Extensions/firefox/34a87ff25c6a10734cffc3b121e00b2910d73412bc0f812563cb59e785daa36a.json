@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitter Zen", "description": "Replaces Twitter's Explore/Trending tabs for a more peaceful viewing experience.", "version": "1.0", "icons": {"128": "icons/twitter-128.png"}, "content_scripts": [{"css": ["./twitter-zen.css"], "js": ["./twitter-zen.js"], "matches": ["*://www.twitter.com/*", "*://twitter.com/*"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "IMDB to torrents", "version": "1.7", "description": "IMDB to torrents", "icons": {"32": "icon32.png", "48": "icon48.png", "128": "icon128.png"}, "content_scripts": [{"matches": ["*://*.imdb.com/*", "*://*.eztv.wf/*"], "js": ["imdbtorrentlinks.user.js"], "css": ["style.css"]}]}

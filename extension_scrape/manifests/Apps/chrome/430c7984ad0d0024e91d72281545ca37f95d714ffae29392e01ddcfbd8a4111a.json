@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "inHouse: video chat via email", "description": "Video chat quickly via email with others in the same office building, home, or school.", "version": "0.0.0.7", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"launch": {"web_url": "http://www.silvawood.co.uk/p2p/"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "RbxInfo", "version": "0.1.0", "description": "Show Roblox trading information on a new tab", "background": {"service_worker": "background.js"}, "chrome_url_overrides": {"newtab": "index.html"}, "host_permissions": ["*://*.roblox.com/*", "*://www.rolimons.com/catalog"]}

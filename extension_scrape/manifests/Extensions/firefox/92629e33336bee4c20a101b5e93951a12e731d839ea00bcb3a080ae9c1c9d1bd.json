@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NSLookup (Techid)", "version": "1.0", "description": "IP Resolver for test DOH", "icons": {"48": "magnifying-glass.png"}, "permissions": ["dns"], "sidebar_action": {"default_title": "NSLookup (Techid)", "default_panel": "tenslookup.html"}}

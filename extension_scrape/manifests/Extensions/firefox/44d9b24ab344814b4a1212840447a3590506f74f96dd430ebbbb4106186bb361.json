@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "remove tumblr live", "version": "3", "description": "", "content_scripts": [{"matches": ["*://www.tumblr.com/*"], "js": ["remove.js"]}], "browser_specific_settings": {"gecko": {"id": "{2d2df57f-7aca-4b10-be83-d2d42202a480}"}}}

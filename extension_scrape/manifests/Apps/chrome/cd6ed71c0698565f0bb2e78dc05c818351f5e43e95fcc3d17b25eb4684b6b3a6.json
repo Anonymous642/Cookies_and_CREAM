@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TransGlobal Rail", "description": "a rail building game for touch tables", "version": "1.1", "manifest_version": 2, "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "icon_16.png", "48": "icon_48.png", "128": "icon_128.png"}}

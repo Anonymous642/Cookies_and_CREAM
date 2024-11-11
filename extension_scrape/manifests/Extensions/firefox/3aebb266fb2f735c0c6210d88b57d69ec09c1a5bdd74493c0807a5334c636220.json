@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ad Blocker", "version": "1.0", "description": "Blocks ads on web pages", "icons": {"48": "icon.png"}, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{c3b8a335-c051-4f7a-9737-6ddccc72a990}"}}}

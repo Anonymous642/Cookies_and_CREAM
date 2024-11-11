@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Distraction-Free New Tab with Dark Mode", "description": "Replace the default New Tab window with a blank screen to remove distractions.", "version": "0.3", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"16": "icon16.png", "128": "icon128.png"}}

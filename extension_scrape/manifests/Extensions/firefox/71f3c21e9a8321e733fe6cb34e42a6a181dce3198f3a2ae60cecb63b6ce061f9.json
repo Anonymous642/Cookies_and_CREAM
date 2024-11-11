@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube 2 CCC Redirector", "version": "2.0", "description": "Redirects YouTube to media.ccc.de", "permissions": ["webNavigation", "activeTab"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{c0a9da83-1260-4370-8d04-13a680169e59}"}}}

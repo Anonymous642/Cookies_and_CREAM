@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Worktile", "description": "Worktile \u8ba9\u5de5\u4f5c\u66f4\u7b80\u5355", "version": "1.0.0", "manifest_version": 2, "app": {"urls": ["http://worktile.com/", "http://www.worktile.com/"], "launch": {"web_url": "http://worktile.com/"}}, "icons": {"128": "icon_128_128.png"}}

@@ -1,0 +1,1 @@
+{"name": "Aftercup", "description": "A cup of coffee with a hint a peace", "app": {"urls": ["https://aftercupwebapp.carrd.co/"], "launch": {"web_url": "https://aftercupwebapp.carrd.co/"}}, "manifest_version": 2, "version": "1.0", "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{fe4e9057-ba21-422a-81bb-069cef8343a6}"}}}

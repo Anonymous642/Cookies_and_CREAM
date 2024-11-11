@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MasquerBarreOnglets", "version": "1.0", "description": "Une extension pour masquer la barre des onglets.", "permissions": ["tabs"], "browser_action": {"default_icon": "icon.jpg", "default_popup": "popup.html"}, "icons": {"48": "icon.jpg"}, "browser_specific_settings": {"gecko": {"id": "{8f03c58d-1400-431a-bedf-f9b2935252a1}"}}}

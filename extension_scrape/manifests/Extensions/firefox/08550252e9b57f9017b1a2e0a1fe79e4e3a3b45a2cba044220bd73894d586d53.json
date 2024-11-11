@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Multitran search", "version": "1.0", "description": "Multitran dictionary search", "icons": {"64": "logo.png"}, "chrome_settings_overrides": {"search_provider": {"name": "Multitran", "search_url": "https://www.multitran.com/m.exe?s={searchTerms}&l1=1&l2=2", "keyword": "multitran", "favicon_url": "https://www.multitran.com/gif/favicon.ico"}}}

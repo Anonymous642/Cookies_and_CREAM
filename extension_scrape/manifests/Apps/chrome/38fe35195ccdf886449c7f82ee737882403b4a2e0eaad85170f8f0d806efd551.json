@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Speed POS", "description": "Point of Sale solution for restaurants and bars", "version": "1.1", "app": {"urls": ["*://pos.speedpos.com/", "*://speedpos.com/", "*://*.speedpos.com/"], "launch": {"web_url": "http://pos.speedpos.com/?chromeApp"}}, "icons": {"128": "icon_128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AutoTab by AJ", "version": "1.0", "icons": {"16": "icon16.png", "48": "icon48.png", "64": "icon64.png", "128": "icon128.png", "256": "icon256.png"}, "permissions": ["alarms", "storage"], "action": {"default_popup": "popup.html"}, "background": {"service_worker": "background.js"}}

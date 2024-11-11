@@ -1,0 +1,1 @@
+{"description": "QuantumEdge Dark is a theme made using the new Theme API introduced in Firefox 60+.", "manifest_version": 2, "name": "QuantumEdge Dark", "permissions": ["theme"], "background": {"scripts": ["background.js"]}, "version": "1.3.3", "applications": {"gecko": {"strict_min_version": "60.0a1"}}}

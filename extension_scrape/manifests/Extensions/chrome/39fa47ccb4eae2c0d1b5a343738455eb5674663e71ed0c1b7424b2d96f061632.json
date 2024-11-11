@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Blueriddle", "author": "Meghna Dash & Sidharth Potdar", "version": "1.2.6", "description": "Know where your Amazon products come from", "permissions": ["tabs"], "icons": {"16": "small.png", "48": "medium.png", "128": "large.png"}, "browser_action": {"default_popup": "index.html"}}

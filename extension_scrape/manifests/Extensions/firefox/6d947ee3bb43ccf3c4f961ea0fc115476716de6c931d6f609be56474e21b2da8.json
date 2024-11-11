@@ -1,0 +1,1 @@
+{"name": "Joke Refresh Notification", "version": "1.0", "description": "Plays an audio clip saying 'Don't Close Your Browser On Me' on refresh. Based on a dream.", "permissions": ["webNavigation"], "background": {"scripts": ["background.js"]}, "manifest_version": 2}

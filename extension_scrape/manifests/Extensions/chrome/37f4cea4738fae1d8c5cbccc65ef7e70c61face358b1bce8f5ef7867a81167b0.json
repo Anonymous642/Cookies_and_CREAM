@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Decision Quality Check", "description": "Decision Quality Check", "version": "2.0", "manifest_version": 3, "action": {"default_popup": "popup.html", "default_icon": "assets/image-1.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Password viewer", "version": "1.0.2", "description": "Makes a password field visible when you hover the mouse over it.", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"js": ["content/change-pwd-field-types.js"], "matches": ["<all_urls>"], "run_at": "document_end"}]}

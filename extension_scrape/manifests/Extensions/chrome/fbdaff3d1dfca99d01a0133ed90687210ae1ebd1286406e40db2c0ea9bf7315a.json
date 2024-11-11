@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Efficacious", "author": "Garima", "version": "2.0", "description": "A browser extension that will help you focus and increase your work productivity", "icons": {"64": "assets/icon64.png.png", "128": "assets/icon128.png.png"}, "chrome_url_overrides": {"newtab": "index.html"}}

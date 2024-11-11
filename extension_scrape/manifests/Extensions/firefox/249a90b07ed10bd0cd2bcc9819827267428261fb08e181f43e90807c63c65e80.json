@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AVG", "version": "1.2", "description": "Calcule ta moyenne g\u00e9n\u00e9rale sur MonBureauNumerique.", "icons": {"48": "icons/avg.png"}, "content_scripts": [{"matches": ["*://*.monbureaunumerique.fr/*"], "js": ["avg.js"]}], "browser_specific_settings": {"gecko": {"id": "{60a141cf-72c9-4799-b587-23279cd4467e}"}}}

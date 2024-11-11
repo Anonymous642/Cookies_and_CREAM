@@ -1,0 +1,1 @@
+{"name": "web screenshot", "description": "Tool to take full screenshot of whole page", "version": "1.0.0", "manifest_version": 2, "browser_action": {"default_popup": "index.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}}

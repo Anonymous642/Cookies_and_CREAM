@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "UCR R'auncher", "description": "R'auncher provides shortcuts to R'web, Schedule, R'mail, iLearn/Blackboard!", "version": "1.0.2", "icons": {"128": "128x128.png"}, "browser_action": {"default_icon": "19x19.png", "default_popup": "popUp.html"}}

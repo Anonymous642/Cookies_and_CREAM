@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Econoread", "version": "1.0", "description": "Read economist.com with no hassle", "icons": {"32": "icons/econoread-32.png", "48": "icons/econoread-48.png", "64": "icons/econoread-64.png"}, "content_scripts": [{"matches": ["*://*.economist.com/*"], "js": ["econoread.js"]}]}

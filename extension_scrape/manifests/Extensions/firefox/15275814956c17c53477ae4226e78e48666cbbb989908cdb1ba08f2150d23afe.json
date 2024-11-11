@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search selected text on Youtube", "description": "Simplest possible extension that searches selected text on Youtube.", "version": "1.0", "permissions": ["activeTab", "contextMenus"], "icons": {"48": "SearchYoutube.svg", "96": "SearchYoutube.svg"}, "background": {"scripts": ["background.js"]}}

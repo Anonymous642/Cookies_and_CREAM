@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "V\u00ebllez\u00ebrit Hajni", "version": "1.0", "description": "Z\u00ebvend\u00ebson mbiemrat e v\u00ebllez\u00ebrve me mbiemrin e tyre t\u00eb p\u00ebrbashk\u00ebt, Hajni.", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}]}

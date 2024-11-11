@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "YT Artist Channel Video Sorter", "version": "1.1", "manifest_version": 3, "description": "Adds functionally to sort videos on a YouTube Artists Channel", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["script.js"]}]}

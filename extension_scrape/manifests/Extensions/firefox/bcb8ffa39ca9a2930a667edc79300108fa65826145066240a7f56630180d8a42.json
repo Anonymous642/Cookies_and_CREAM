@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Extension Wadd", "version": "1.2", "description": "Pour savoir quand Wadd est en Stream sur Twitch !", "browser_action": {"default_popup": "index.html"}, "icons": {"64": "img/icon_waddStream.png"}, "background": {"scripts": ["background.js"]}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "MMK to CAD", "version": "1.0", "description": "Convert Myanmar Kyats to Canadian Dollars", "browser_specific_settings": {"gecko": {"id": "mmk-to-cad@example.com"}}}

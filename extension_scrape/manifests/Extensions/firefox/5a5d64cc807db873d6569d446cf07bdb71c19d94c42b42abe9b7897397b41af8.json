@@ -1,0 +1,1 @@
+{"manifest_version": 2, "short_name": "Main Focus", "name": "Main Focus", "author": "Saurabh Kumar", "version": "1.0.3", "description": "Main Focus, Weather and Time.", "icons": {"32": "icon32.png", "48": "icon48.png", "128": "icon128.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{72bc4a97-0684-4bb2-a738-7ef394d66769}"}}}

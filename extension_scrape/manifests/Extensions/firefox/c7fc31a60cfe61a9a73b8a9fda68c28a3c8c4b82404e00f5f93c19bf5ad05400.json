@@ -1,0 +1,1 @@
+{"description": "Show scrollbar on Instagram", "manifest_version": 2, "name": "Instabar", "version": "1.1", "content_scripts": [{"matches": ["https://www.instagram.com/*"], "css": ["content-script.css"], "run_at": "document_start"}], "applications": {"gecko": {"strict_min_version": "57.0a1"}}}

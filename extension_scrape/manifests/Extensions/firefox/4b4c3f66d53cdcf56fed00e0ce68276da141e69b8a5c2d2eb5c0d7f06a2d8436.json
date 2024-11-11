@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Moodle-RMB-Unlocker", "version": "1.0", "description": "Free your Moodle.", "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "browser_action": {"default_icon": {"48": "icons/48.png", "96": "icons/96.png"}, "default_popup": "popup/popup.html"}, "content_scripts": [{"matches": ["*://*.edu.ua/*"], "js": ["content.js"]}]}

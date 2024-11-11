@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ares Creative", "description": "The Ares Creative Extension", "version": "1.0", "action": {"default_popup": "popup/index.html", "default_icon": "logos/noir_blanc_picto.png"}}

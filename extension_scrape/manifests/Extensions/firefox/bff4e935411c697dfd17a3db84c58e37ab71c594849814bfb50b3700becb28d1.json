@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "cf-br", "version": "1.0", "description": "Permite ver o standings do Brasil em um contest no codeforces.", "icons": {"48": "icons/cf-br48.png"}, "content_scripts": [{"matches": ["*://codeforces.com/contest/*/standings"], "js": ["cf-br.js"]}]}

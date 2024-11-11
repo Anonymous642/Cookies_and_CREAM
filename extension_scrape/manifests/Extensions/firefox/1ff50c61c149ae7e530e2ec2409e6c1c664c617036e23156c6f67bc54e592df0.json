@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No2TifPlease", "version": "1.0", "description": "Removes annoying number in title tab.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.facebook.com/*", "*://*.youtube.com/*", "*://*.whatsapp.com/*"], "js": ["no2tifplease.js"]}]}

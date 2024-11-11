@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "No Lonely Numbers", "description": "Replaces lonely single digits with words in HTML textareas", "version": "0.0.1", "manifest_version": 3, "icons": {"128": "lonely-one-128.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["no-lonely-numbers.js"]}]}

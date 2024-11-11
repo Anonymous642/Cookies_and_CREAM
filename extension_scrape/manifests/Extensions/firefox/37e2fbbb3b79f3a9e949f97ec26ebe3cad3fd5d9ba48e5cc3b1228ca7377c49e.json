@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SeLite Hands-on GUI", "homepage_url": "http://selite.github.io/", "version": "0.13", "applications": {"gecko": {"id": "hands-on-gui@selite.googlecode.com"}}, "description": "It makes Selenium IDE GUI better.", "background": {"scripts": ["shared/migrating_to_webextensions.js", "scripts/background.js"]}, "permissions": ["management", "storage"]}

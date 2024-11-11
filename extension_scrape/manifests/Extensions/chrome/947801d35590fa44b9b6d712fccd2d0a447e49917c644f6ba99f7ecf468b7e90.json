@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "WITS Dark Mode", "version": "0.0.1", "description": "Applies a simple dark theme to the WITS site (for the WCSD District)", "content_scripts": [{"css": ["styles.css"], "matches": ["https://wits.williamsvillek12.org/*"]}]}

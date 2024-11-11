@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RN", "version": "1.0", "description": "Change le CSS d'observium", "icons": {"48": "icons/rn48.png", "96": "icons/rn96.png"}, "content_scripts": [{"matches": ["*://192.168.245.235/*"], "js": ["changecss.js"]}], "browser_specific_settings": {"gecko": {"id": "{1ed39795-413b-4d7c-a5b6-5710a049a7c9}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Default Google Map account", "version": "0.1.1", "description": "Automatically redirect Google Map to a URL with ?authuser=1", "permissions": ["webNavigation"], "background": {"service_worker": "background.js"}, "icons": {"128": "icon.png"}, "manifest_version": 3}

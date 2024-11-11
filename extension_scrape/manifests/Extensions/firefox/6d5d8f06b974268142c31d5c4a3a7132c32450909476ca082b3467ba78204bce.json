@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Addiction stopper", "version": "1.0", "description": "Blocker", "content_scripts": [{"matches": ["*://*.youtube.com/*", "*://*.slither.io/*", "*://*.agar.io/*", "*://*.skribbl.io/*"], "js": ["script.js"]}]}

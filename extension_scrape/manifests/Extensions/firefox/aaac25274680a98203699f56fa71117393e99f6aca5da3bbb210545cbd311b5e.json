@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "burningwhee1s links", "version": "1.0", "description": "provides links for all videos on burningwhee1s", "content_scripts": [{"matches": ["*://burningwhee1s.blogspot.com/*"], "js": ["replace.js"]}]}

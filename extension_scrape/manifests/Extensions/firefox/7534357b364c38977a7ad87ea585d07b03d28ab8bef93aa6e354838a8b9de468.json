@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VKComents", "version": "1.0", "description": "delete VK coments", "icons": {"48": "vk.png"}, "applications": {"gecko": {"id": "bdd@ddd", "strict_min_version": "45.0"}}, "content_scripts": [{"matches": ["*://*.vk.com/*"], "js": ["script.js"]}]}

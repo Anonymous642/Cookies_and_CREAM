@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Overwrite Existing Downloads", "description": "All downloads overwrite existing files instead of adding ' (1)', ' (2)', etc.", "version": "2.3", "minimum_chrome_version": "88", "background": {"service_worker": "bg.js"}, "permissions": ["downloads"], "manifest_version": 3}

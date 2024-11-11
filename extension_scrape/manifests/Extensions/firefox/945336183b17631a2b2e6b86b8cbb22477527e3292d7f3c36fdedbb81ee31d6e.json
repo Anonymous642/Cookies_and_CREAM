@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Macron Start-up nation", "version": "1.0", "description": "Cette extension anticipe le changement disruptif du nom de la France, remplac\u00e9e par la Start-up nation d'Emmanuel Macron.", "icons": {"96": "icons/96.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}]}

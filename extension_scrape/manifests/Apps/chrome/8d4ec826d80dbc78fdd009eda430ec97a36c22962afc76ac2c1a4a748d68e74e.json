@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Apptivo Expenses", "description": "Apptivo Expenses is the perfect app to streamline your expense management process.", "version": "0.2", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"32": "icons/expense32.png", "128": "icons/expenses128.png"}}

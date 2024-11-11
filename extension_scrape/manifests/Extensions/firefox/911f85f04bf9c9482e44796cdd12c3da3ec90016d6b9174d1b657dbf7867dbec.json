@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SocialMediaSidebar", "version": "2.0", "description": "Adiciona uma sidebar ao firefox com as principais redes sociais.", "icons": {"48": "icons/groups.png"}, "sidebar_action": {"default_icon": "icons/groups.png", "default_title": "Social", "default_panel": "sidebar/main.html"}, "permissions": ["tabs"]}

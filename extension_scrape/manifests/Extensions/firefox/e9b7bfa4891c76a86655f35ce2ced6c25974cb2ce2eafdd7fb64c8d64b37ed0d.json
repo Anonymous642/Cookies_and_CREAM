@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hide Tweet Views", "version": "1.0.2", "description": "Hides tweet views.", "icons": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}, "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{a2902210-7e23-44e0-988c-1d43f546dff4}"}}}

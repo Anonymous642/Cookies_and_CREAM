@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mobile reddit redirect", "version": "0.2.1", "background": {"scripts": ["background.js"]}, "permissions": ["webNavigation", "webRequest", "webRequestBlocking", "*://old.reddit.com/*", "*://v.redd.it/*", "activeTab"], "browser_specific_settings": {"gecko": {"id": "{5d3c6061-82c3-4a06-85de-72965c64f9ae}"}}}

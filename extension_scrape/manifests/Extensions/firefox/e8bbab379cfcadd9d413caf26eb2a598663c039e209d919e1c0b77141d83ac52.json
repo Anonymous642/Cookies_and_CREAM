@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ColorCodedComments", "version": "1.0", "description": "Highlights comment links on Hackernews according to how many comments there are.", "icons": {"32": "icon.png"}, "content_scripts": [{"matches": ["*://*.news.ycombinator.com/*"], "js": ["main.js"]}]}

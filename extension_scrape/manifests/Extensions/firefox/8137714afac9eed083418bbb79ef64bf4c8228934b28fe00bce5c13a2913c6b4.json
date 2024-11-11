@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WebsocketsURLSender", "version": "0.2", "description": "Sends the URL of the website you are visiting via websockets.", "icons": {"48": "icons/icon-48.png", "567": "icons/icon-567.png"}, "browser_action": {"default_popup": "popup/popup.html"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["WebsocketsURLSender.js"]}]}

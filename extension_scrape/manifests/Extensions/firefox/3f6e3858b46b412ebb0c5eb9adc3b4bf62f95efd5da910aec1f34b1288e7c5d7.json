@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "walpin", "author": "haz3r", "version": "1.0.1", "description": "A cool browser extention which not only provides with peacful background but also a task manage with a event todo as well.", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{0c7d35e1-b944-4f65-bcd5-0f6ad79d1bbd}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Syllable Dictionary", "short_name": "Syllables", "description": "Syllable Dictionary, a syllable counter & reference guide for syllables, pronunciations, synonyms, and rhymes.", "version": "1.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"128": "128.png"}}

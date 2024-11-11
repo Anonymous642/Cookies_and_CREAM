@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Nuggets", "version": "0.1.1", "permissions": ["contextMenus", "https://summarizer-text-hn.herokuapp.com/"], "background": {"scripts": ["./script.js"], "persistent": false}}

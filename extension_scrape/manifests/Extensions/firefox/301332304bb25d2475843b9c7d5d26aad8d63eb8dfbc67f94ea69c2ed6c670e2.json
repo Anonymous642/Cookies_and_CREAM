@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hamburguesa Background", "version": "1.0", "description": "Adds a gray background to hamburguesa.net", "permissions": ["tabs", "http://hamburguesa.net/"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{18642b0e-27c6-4891-8956-ffaad49b519f}"}}}

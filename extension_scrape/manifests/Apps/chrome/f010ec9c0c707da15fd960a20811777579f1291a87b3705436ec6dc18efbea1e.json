@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "El Sinonimo", "description": "El diccionario de sin\u00f3nimos de la lengua espa\u00f1ola", "version": "1.1", "manifest_version": 2, "app": {"launch": {"web_url": "http://www.elsinonimo.es"}}, "icons": {"128": "icon128.png"}}

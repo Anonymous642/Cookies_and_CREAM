@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "apiTest", "description": "api Test-A free and easy-to-use REST Client. ", "version": "0.1.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "img/16.png", "48": "img/48.png", "128": "img/128.png"}}

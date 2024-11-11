@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Kindle Cloud Reader 2x Zoom Extension", "description": "Add 2x zoom functionality to Kindle Cloud Reader.", "version": "0.1", "manifest_version": 3, "content_scripts": [{"matches": ["https://read.amazon.co.jp/?asin=*"], "js": ["content_script.js"]}]}

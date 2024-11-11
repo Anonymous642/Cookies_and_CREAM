@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "vimode", "version": "1.1.2", "description": "vimode is an Add-on that let us to use vi-like operations on Firefox.", "icons": {"48": "icons/icon-48.png"}, "permissions": ["sessions"], "background": {"scripts": ["background-script.js"]}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content-script.js"]}]}

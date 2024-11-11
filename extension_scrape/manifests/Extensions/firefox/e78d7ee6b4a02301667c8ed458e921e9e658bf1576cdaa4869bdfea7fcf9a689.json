@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No VK Feed", "version": "1.1", "description": "No more vk feed", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.vk.com/*"], "js": ["clearNews.js"]}], "browser_specific_settings": {"gecko": {"id": "{7cb0d1bc-7c1b-443c-90f5-919f65274f8b}"}}}

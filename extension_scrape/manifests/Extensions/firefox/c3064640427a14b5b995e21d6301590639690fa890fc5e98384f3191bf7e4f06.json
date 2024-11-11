@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.0", "name": "PutinHotDog", "content_scripts": [{"matches": ["<all_urls>"], "js": ["main.js"]}], "web_accessible_resources": ["hotdog.jpg"], "browser_specific_settings": {"gecko": {"id": "{b53823d5-bdd4-4516-b97b-d590d8833034}"}}}

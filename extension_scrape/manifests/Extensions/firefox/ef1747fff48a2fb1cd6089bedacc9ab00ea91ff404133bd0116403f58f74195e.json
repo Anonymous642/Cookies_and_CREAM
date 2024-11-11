@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CopyHash", "version": "0.1", "description": "Context menu button to copy md5 hash from a 4chan thumbnail to the clipboard", "background": {"scripts": ["background.js"]}, "permissions": ["menus", "clipboardWrite", "activeTab"], "icons": {"16": "ferongr-16.png"}}

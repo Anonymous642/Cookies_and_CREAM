@@ -1,0 +1,1 @@
+{"name": "Purple-Pages", "short_name": "Purple-Pages", "description": "Purple-Pages", "version": "0.3.2", "permissions": [], "browser_action": {"default_title": "Purple-Pages", "default_icon": "/icons/icon128.png", "default_popup": "/popup.html"}, "manifest_version": 2}

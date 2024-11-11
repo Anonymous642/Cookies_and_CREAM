@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Twitch Brightness Reducer", "version": "1.0", "description": "Controls brightness of the videoplayer  in twitch.", "permissions": ["activeTab", "storage"], "content_scripts": [{"matches": ["https://www.twitch.tv/*"], "js": ["reducer.js"], "css": ["styles.css"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Api Caller", "description": "Simple app for calling the api, not many function there", "version": "1.0", "action": {"default_popup": "index.html", "default_icon": "./assets/icons/icon.png"}, "permissions": ["storage"], "host_permissions": ["<all_urls>"]}

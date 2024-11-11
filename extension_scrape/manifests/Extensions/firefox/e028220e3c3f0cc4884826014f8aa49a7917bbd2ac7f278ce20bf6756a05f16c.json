@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CustomDuckDuckGo", "version": "1.1", "description": "Change design of DuckDuckGo", "icons": {"48": "icons/square-duckduckgo-48.png", "96": "icons/square-duckduckgo-96.png"}, "content_scripts": [{"matches": ["*://*.duckduckgo.com/*"], "js": ["duckduckgo.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "yt-ff-remover", "version": "1.0", "description": "Hides that horrible feed filter from youtube", "icons": {"48": "icons/crossed-oval-48.png", "96": "icons/crossed-oval-96.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "css": ["ff-remover.css"]}]}

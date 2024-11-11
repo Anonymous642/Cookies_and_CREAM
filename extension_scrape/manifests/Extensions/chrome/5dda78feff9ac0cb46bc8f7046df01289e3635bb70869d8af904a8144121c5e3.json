@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Package Tracker", "description": "Track any package worldwide with a simple right click", "version": "1.11", "manifest_version": 3, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "background": {"service_worker": "main.js"}, "permissions": ["contextMenus"]}

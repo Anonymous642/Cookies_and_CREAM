@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "FOCUS", "manifest_version": 2, "description": "Software de integraci&oacuten POS", "version": "1.0.1", "icons": {"16": "img/android/focus_16x16.png", "128": "img/android/focus_128x128.png"}, "app": {"background": {"scripts": ["background.js"]}}}

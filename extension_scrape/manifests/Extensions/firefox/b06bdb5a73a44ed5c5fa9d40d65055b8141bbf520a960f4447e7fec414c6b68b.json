@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Taxfy", "version": "1.0.4", "description": "Autofill captcha & enable disabled site options on the iTax website", "icons": {"48": "icons/logo.png"}, "content_scripts": [{"matches": ["*://itax.kra.go.ke/*"], "js": ["src/tesseract.min.js", "taxfy.js"]}], "browser_specific_settings": {"gecko": {"id": "{538954bf-0776-4591-b555-948a720cf9a2}"}}}

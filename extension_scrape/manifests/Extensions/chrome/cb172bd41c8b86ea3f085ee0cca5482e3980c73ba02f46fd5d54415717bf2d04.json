@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gonzaga EasyRegister", "version": "0.1.0", "content_scripts": [{"matches": ["https://xe.gonzaga.edu/*"], "js": ["content.js"], "css": ["styles.css"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "WhoisDataCenter", "version": "1.0", "permissions": ["activeTab"], "description": "Get Whois Data on one click", "action": {"default_icon": "wdc.png", "default_popup": "main.html"}, "icons": {"48": "wdc.png"}}

@@ -1,0 +1,1 @@
+{"author": "Defend.pw", "manifest_version": 2, "name": "TrackYourTime 2", "version": "1.0", "description": "Time tracker extension", "content_scripts": [{"matches": ["http://*/*", "https://*/*"]}], "icons": {"128": "icon.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["<all_urls>", "tabs", "storage"]}

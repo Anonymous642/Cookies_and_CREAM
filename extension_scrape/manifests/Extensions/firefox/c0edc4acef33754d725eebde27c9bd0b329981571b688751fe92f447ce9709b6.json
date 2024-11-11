@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Soundcloud DX", "version": "1.0", "description": "Modifys the layout of soundcloud's website to optimize user friendliness.", "icons": {"48": "icons/scdx-icon-48.png", "64": "icons/scdx-icon-64.png", "512": "icons/scdx-icon-512.png"}, "content_scripts": [{"matches": ["*://*.soundcloud.com/*"], "js": ["scdx.js"], "css": ["scdx.css"]}]}

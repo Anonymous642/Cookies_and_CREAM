@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTubeTime", "version": "1.0.3", "description": "Updates the URL with the current time of the video.", "icons": {"48": "icons/ytt-48.png", "96": "icons/ytt-96.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/watch*"], "js": ["index.js"]}]}

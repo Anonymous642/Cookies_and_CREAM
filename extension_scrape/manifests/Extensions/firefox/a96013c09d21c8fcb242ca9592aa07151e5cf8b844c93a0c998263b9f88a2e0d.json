@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "mlnlmal", "version": "1.2", "description": "A simple url shortner", "homepage_url": "http://mlnlmal.ml", "permissions": ["tabs", "notifications", "clipboardWrite"], "browser_action": {"default_icon": "icon.png", "default_title": "Make it short!"}, "background": {"scripts": ["background.js"]}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "scroll liberator", "description": "liberate scrolling from abusive websites", "author": "Andrew Zhao", "version": "0.1", "content_scripts": [{"matches": ["*://*/**"], "js": ["script.js"], "run_at": "document_start"}]}

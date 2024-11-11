@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Piksel", "version": "1.0.0", "description": "Piksel is google chrome extension for calculate from piksel to other unit and vice versa", "manifest_version": 3, "author": "kretawiweka <ekanuraga@gmail.com>", "action": {"default_popup": "index.html", "default_title": "Piksel"}}

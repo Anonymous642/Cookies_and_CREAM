@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "\u4e66\u7b7e\u641c\u7d22", "version": "1.0", "description": "\u4e00\u4e2a\u7528\u4e8e\u641c\u7d22\u4e66\u7b7e\u7684Chrome\u63d2\u4ef6", "action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["bookmarks"]}

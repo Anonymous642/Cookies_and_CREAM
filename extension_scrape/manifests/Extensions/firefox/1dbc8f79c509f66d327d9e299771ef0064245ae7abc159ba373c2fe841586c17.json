@@ -1,0 +1,1 @@
+{"name": "Khmer Chanketik", "description": "Extension use to generate Khmer Chanketik Calendar", "version": "1.0.0", "manifest_version": 2, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": {"48": "image/logo-two.png"}, "default_title": "Khmer Chanketik", "default_popup": "popup.html"}}

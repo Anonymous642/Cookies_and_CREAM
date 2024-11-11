@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SFMC QuickMenu", "version": "2.2", "icons": {"8": "icon-8.png", "16": "icon-16.png", "32": "icon-32.png", "64": "icon-64.png", "128": "icon-128.png"}, "description": "A quick menu extension for SFMC.", "permissions": ["activeTab"], "action": {"default_popup": "popup.html"}}

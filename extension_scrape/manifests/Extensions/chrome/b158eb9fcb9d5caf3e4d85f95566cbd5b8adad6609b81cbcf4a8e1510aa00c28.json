@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Instant GBP/USD to INR FX Rates", "version": "1.0.0", "description": "This is an extension to see GBP to INR and USD to INR FX Rates instantly.", "manifest_version": 3, "author": "Vaibhav Agarwal", "action": {"default_popup": "index.html", "default_title": "Instant GBP/USD to INR FX Rates"}}

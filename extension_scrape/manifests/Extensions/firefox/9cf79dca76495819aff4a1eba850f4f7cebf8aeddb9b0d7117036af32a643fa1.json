@@ -1,0 +1,1 @@
+{"description": "Block the play button from the pause screen of Opencast video player.", "manifest_version": 2, "name": "Opencast - Block Play Button", "version": "1.0", "icons": {"16": "playcrossed16.png", "48": "playcrossed48.png", "128": "playcrossed128.png"}, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "qk.rs in new tab", "version": "1.0", "description": "Redirects new tabs to https://qk.rs", "chrome_url_overrides": {"newtab": "redirect.html"}, "icons": {"128": "duck.png"}}

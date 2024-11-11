@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Discard stale tabs", "version": "0.0.2", "description": "Automatically discard inactive, unpinned, inaudible tabs after 15 minutes. This frees up substantial CPU and memory resources from idle background tabs. No tab or content permissions are required for this extension.", "permissions": ["alarms"], "background": {"scripts": ["background.js"]}}

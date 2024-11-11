@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Blue LearningSuite", "version": "1.0", "description": "Changes the tan sidebar of BYU's LearningSuite to blue.", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://learningsuite.byu.edu/*"], "css": ["blue.css"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "My Free Zoo", "description": "My Free Zoo - upjers Browsergame", "version": "1.0", "manifest_version": 2, "icons": {"128": "My_Free_Zoo_Icon.png"}, "app": {"urls": ["http://www.myfreezoo.com/"], "launch": {"web_url": "http://www.myfreezoo.com/landing/?ref=webstore"}}}

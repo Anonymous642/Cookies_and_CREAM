@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "silent-twitter", "version": "0.2", "description": "mute what's happing and who to follow from twitter.", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.twitter.com/*"], "css": ["silent.css"]}]}

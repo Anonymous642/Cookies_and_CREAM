@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gesetze im Internet Verlinker", "version": "0.1.0", "description": "Verlinkt Verweise auf andere Gesetze im selben Gesetzesbuch auf der Seite www.gesetze-im-internet.de.", "content_scripts": [{"matches": ["https://www.gesetze-im-internet.de/*"], "js": ["build/index.js"]}]}

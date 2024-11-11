@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Penalty Shooters 2", "description": "Choose goals to win the football tournament! Penalty Shooters 2", "version": "2.0", "action": {"default_icon": {"16": "128.png", "48": "128.png"}}, "icons": {"128": "128.png"}, "background": {"service_worker": "background.js"}}

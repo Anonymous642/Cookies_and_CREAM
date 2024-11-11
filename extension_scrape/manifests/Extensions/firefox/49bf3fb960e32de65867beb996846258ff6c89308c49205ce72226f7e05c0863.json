@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "yt-focus", "version": "1.1", "description": "Fights binge watch by removing recommended videos and other distracting elements.", "icons": {"48": "icons/yt-focus-48.png", "96": "icons/yt-focus-96.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["yt-focus.js"]}], "applications": {"gecko": {"id": "yt-focus@anpeshne"}}}

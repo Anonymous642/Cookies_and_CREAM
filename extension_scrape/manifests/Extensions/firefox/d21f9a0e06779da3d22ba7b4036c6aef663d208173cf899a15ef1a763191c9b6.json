@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PageProofer", "description": "The easiset way to leave feedback and track issues right on your website.", "version": "1.0.3", "icons": {"128": "icon_128.png"}, "browser_action": {"default_icon": "icon.png"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["embed.js"], "run_at": "document_end"}]}

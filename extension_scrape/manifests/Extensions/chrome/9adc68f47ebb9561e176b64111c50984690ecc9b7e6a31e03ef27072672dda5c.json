@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GST Calculator NBSOFT", "version": "1.0.0", "description": "GST Calculator NBSOFT", "manifest_version": 3, "author": "Sampurna Chapagain", "action": {"default_popup": "index.html", "default_title": "GST Calculator NBSOFT"}}

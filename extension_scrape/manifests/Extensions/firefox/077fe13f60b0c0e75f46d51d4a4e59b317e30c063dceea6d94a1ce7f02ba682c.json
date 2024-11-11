@@ -1,0 +1,1 @@
+{"name": "Mode Sombre pour Wikipedia", "version": "1.0.11", "manifest_version": 2, "description": "Mode Sombre pour Wikipedia", "icons": {"48": "wikipedia-logo.png"}, "content_scripts": [{"matches": ["*://*.wikipedia.org/*"], "run_at": "document_start", "css": ["background.css"]}], "browser_specific_settings": {"gecko": {"id": "{578dc482-0821-41b1-946b-2bc753c6c780}"}}}

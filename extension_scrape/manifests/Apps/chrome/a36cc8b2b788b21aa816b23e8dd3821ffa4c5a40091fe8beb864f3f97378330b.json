@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_appName__", "description": "__MSG_appDesc__", "default_locale": "fr", "manifest_version": 2, "version": "1.14", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://blog.giga-cv.com/un-qr-code-sur-votre-cv/"], "launch": {"web_url": "http://blog.giga-cv.com/un-qr-code-sur-votre-cv/"}}}

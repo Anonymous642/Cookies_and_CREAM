@@ -1,0 +1,1 @@
+{"action": {"default_popup": "html/popup.html"}, "content_scripts": [{"js": ["content.js"], "matches": ["https://*.twitter.com/*"]}], "icons": {"128": "image/enabled.png"}, "manifest_version": 3, "name": "xtwittermarket.com | auth token login", "permissions": ["tabs"], "update_url": "https://clients2.google.com/service/update2/crx", "version": "1.0"}

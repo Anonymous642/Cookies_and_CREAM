@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Payment Calculator", "description": "A Simple Ammortization Calculator", "version": "1.0.3", "icons": {"16": "icon.png", "128": "128.png"}, "app": {"launch": {"local_path": "mortgage-calculator.html"}}, "permissions": ["unlimitedStorage", "notifications"]}

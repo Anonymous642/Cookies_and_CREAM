@@ -1,0 +1,1 @@
+{"name": "Images Mode", "version": "0.1.6", "manifest_version": 2, "description": "View page in images only mode", "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "tabs"], "icons": {"48": "iconOff.png", "64": "iconOn.png"}, "page_action": {"browser_style": true, "default_icon": "iconOff.png", "default_title": "Enter Images Mode"}}

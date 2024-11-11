@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gitpod Window", "version": "0.0.1", "icons": {"256": "icon.png"}, "description": "Immersive Gitpod"}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Shade", "version": "1.0.3", "description": "Makes startup websites better.", "permissions": ["webRequest", "https://api.throwsha.de/*"], "content_scripts": [{"matches": ["*://*/"], "js": ["jquery.js", "content.js"]}], "icons": {"48": "icon48.png", "96": "icon96.png", "120": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "default_locale": "en", "manifest_version": 3, "name": "__MSG_extName__", "description": "__MSG_extDesc__", "version": "3.3", "permissions": ["storage"], "action": {"default_popup": "popup.html", "default_icon": {"16": "img/icon-128.png", "48": "img/icon-128.png", "128": "img/icon-128.png"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "4chan Scroller", "version": "1.0.3", "description": "Adds media scrolling features to 4chan.", "icons": {"48": "icons/border-48.png", "96": "icons/border-96.png"}, "browser_specific_settings": {"gecko": {"id": "4chanscroller@geniedev"}}, "content_scripts": [{"matches": ["*://*.4chan.org/*", "*://*.4channel.org/*"], "js": ["main.js"]}]}

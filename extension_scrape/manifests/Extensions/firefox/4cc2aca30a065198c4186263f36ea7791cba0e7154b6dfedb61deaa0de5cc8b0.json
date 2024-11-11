@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LichessMouseBlock", "version": "1.0", "description": "Block the annoying scrolling of moves on lichess if you are a Magic Mouse user.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"js": ["script.js"], "matches": ["https://*.lichess.org/*"], "run_at": "document_start"}]}

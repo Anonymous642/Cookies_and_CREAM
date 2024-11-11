@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pretty BDD", "version": "1.0", "description": "Prettifies BDD in BDD Acceptance Criteria field", "applications": {"gecko": {"id": "prettifybdd@duapps.com"}}, "icons": {"48": "icons/border-48.png", "96": "icons/border-96.png"}, "content_scripts": [{"matches": ["*://jira.unileversolutions.com/*"], "js": ["prettifybdd.js"]}]}

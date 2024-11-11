@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "NotepadGo Chrome", "version": "1.0.0", "description": "Chrome app that allows you to write notes and, download them", "manifest_version": 3, "author": "Useful Tools", "action": {"default_popup": "index.html", "default_title": ""}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

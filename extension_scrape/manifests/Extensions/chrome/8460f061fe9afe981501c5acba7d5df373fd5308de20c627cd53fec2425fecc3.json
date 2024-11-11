@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "DissTract", "version": "1.0", "action": {"default_popup": "extension.html", "default_icon": "icon.png"}, "manifest_version": 3, "permissions": ["tabs", "storage"], "background": {"service_worker": "background.js"}}

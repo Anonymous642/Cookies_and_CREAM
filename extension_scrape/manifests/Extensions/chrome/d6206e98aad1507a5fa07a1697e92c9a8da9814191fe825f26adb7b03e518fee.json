@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Github Pr Template Switcher", "description": "Github Pr Template Switcher", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["*://github.com/*"], "js": ["/dist/github.js"], "run_at": "document_start"}], "permissions": ["storage"]}

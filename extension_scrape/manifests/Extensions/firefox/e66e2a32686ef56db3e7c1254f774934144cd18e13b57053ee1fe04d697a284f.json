@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "google-ads-blocker", "description": "Google Ads Blocker", "version": "0.1", "content_scripts": [{"matches": ["*://*.google.es/*", "*://*.google.com/*"], "js": ["main.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UP Bitbucket", "description": "Use this when creating branches", "version": "1.6", "author": "Stanislav Iliev", "permissions": [], "browser_action": {"default_icon": "icon.png"}, "content_scripts": [{"matches": ["*://bitbucket.org/branch/create*"], "js": ["content.js"]}]}

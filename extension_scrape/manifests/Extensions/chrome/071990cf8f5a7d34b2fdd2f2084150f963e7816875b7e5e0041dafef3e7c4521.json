@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Pseudoscience Bullshitter", "description": "Replace pseudoscience terms with bullshit", "version": "0.2", "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["content.js"], "run_at": "document_start"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitter Promotion Blocker", "version": "1.2", "content_scripts": [{"matches": ["https://*.twitter.com/*", "https://*.x.com/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{62ce6119-ba30-4850-9f9f-78795dd5fcf9}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Femto Uploader", "version": "1.0.0", "browser_action": {"name": "Shorten URLs and Upload Files"}, "icons": {"192": "images/icon192.png"}, "permissions": ["notifications", "tabs", "https://v2.femto.pw/*"], "background": {"scripts": ["background.js"]}}

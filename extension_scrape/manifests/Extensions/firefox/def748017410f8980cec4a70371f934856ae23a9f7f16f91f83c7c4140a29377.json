@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Google Drive Percentage", "version": "0.0.1", "description": "Displays zipping progress in percentage when downloading stuff from Google Drive", "icons": {"48": "assets/icon48.png", "128": "assets/icon128.png"}, "content_scripts": [{"js": ["dist/index.js"], "run_at": "document_start", "matches": ["*://drive.google.com/drive/*"]}]}

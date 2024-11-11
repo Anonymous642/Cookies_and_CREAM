@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "macverse support", "version": "1.0", "description": "gain more info about Mac apps and request install assistance/support from macverse", "icons": {"128": "icons/icon-128.png"}, "content_scripts": [{"matches": ["*://apps.apple.com/*"], "js": ["macverse.js"]}]}

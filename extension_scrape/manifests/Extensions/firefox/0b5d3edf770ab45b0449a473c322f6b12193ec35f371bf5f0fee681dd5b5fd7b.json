@@ -1,0 +1,1 @@
+{"version": "0.1.2", "manifest_version": 2, "name": "Mr Wolf", "chrome_url_overrides": {"newtab": "./index.html"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"strict_min_version": "54.0a1", "id": "{48ab19fd-21cc-45b3-abf0-7cfc1f7814e1}"}}, "content_security_policy": "script-src 'self'; object-src 'self'; connect-src ws://localhost:*/"}

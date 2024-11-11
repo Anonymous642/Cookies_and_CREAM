@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Nord Theme", "version": "1.3", "permissions": ["theme"], "description": "A Firefox Theme designed with nord color palette.", "background": {"scripts": ["nord.js"]}, "icons": {"48": "icons/nord.svg", "64": "icons/nord.svg", "96": "icons/nord.svg"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Mute Timer", "version": "1.2", "description": "Allows you to set timed mutes on Twitter", "content_scripts": [{"matches": ["*://twitter.com/*"], "js": ["zepto.min.js", "zepto.cookie.min.js", "content_script.js"], "css": ["fix.css"], "run_at": "document_start"}]}

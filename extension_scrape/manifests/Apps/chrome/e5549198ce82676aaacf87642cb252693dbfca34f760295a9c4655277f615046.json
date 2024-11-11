@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "To do List", "version": "2.9.6", "description": "Keep track of all the stuff you got to do.", "icons": {"16": "images/icon16.png", "128": "images/icon128.png"}, "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["storage"], "manifest_version": 2}

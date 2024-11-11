@@ -1,0 +1,1 @@
+{"name": "Currency Converter", "description": "Get real time currency conversion", "version": "0.0.1", "manifest_version": 2, "browser_action": {"default_popup": "index.html", "default_icom": "logo.png"}, "icons": {"128": "logo.png"}}

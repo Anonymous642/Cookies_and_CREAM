@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AeriTH", "version": "1.1", "description": "Replaces all instances of \"Aeris\" on AO3 or FFN with \"Aerith\", as it should be.", "icons": {"48": "icons/th-48.png", "96": "icons/th-96.png"}, "content_scripts": [{"matches": ["*://*.archiveofourown.org/*", "*://*.fanfiction.net/*"], "js": ["aerith.js"]}]}

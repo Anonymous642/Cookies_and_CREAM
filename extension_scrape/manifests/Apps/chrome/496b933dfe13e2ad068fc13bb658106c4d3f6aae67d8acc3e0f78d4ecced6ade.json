@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bmby CRM", "description": "Bmby - CRM & Lead Management System", "version": "0.0.0.4", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://mbeat.bmby.com/"], "launch": {"web_url": "http://mbeat.bmby.com/Login/"}}}

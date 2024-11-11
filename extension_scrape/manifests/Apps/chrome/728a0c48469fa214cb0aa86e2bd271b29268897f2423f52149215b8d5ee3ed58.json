@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Scorekeeper", "description": "Keep track of scores for 1 or more players", "version": "0.2", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "assets/scorekeeper-16.png", "128": "assets/scorekeeper-128.png"}, "offline_enabled": true, "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Redbridge", "description": "Redbridge Group of Florida", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "RB_128_1.png"}, "app": {"urls": ["http://www.redbridge.cc/"], "launch": {"web_url": "http://www.redbridge.cc/"}}}

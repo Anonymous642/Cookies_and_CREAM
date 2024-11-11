@@ -1,0 +1,1 @@
+{"description": "leboncoin light", "manifest_version": 2, "name": "leboncoin light", "version": "0.0.0", "icons": {"180": "data/icon.png"}, "permissions": ["*://*.leboncoin.fr/*", "webRequest", "webRequestBlocking"], "background": {"scripts": ["js/bg.js"]}, "applications": {"gecko": {"id": "leboncoinlight@example.com"}}}

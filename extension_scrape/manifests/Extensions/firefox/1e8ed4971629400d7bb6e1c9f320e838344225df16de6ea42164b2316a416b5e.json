@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Trump Taco", "version": "0.0.1", "description": "Make Trump Taco Again: Replaces \"Trump\" with \"Drumpf\" and \"Wall\" with \"Taco\".", "main": "index.js", "icons": {"48": "icons/ruuude-48.png", "96": "icons/ruuude-96.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["wall-taco.js"]}]}

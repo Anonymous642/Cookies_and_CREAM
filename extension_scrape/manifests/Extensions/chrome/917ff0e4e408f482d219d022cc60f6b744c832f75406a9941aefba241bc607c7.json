@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Azure Databricks Dark Mode", "version": "0.0.6", "description": "Dark mode for Azure Databricks", "permissions": [], "content_scripts": [{"css": ["index.css"], "js": ["index.js"], "matches": ["https://*.azuredatabricks.net/*"]}], "icons": {"128": "databricks-logo.png"}, "manifest_version": 2}

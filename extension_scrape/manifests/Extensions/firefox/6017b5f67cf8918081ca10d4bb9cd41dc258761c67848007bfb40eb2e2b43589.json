@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hide Specific Elements", "version": "1.0", "description": "Hides specific elements on twitter.com", "content_scripts": [{"matches": ["*://twitter.com/*"], "js": ["content.js"]}], "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{1fd4f95b-1e63-4a9d-9931-9919972f2f27}"}}}

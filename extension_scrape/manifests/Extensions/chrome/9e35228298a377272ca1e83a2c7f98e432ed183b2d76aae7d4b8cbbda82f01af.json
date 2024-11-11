@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Incognito Tab", "version": "1.0.1", "description": "Modify and custom newtab page", "icons": {"16": "favicon.ico"}, "chrome_url_overrides": {"newtab": "index.html"}}

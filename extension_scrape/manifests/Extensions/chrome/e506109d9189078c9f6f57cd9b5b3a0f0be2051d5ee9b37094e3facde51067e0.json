@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_name__", "version": "1.4", "description": "__MSG_description__", "manifest_version": 3, "default_locale": "en", "content_scripts": [{"js": ["/js/check.js"], "matches": ["https://*.youtube.com/*"]}], "icons": {"128": "/images/app.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "popups-visiveis-pje", "version": "0.1", "description": "permite que os popups fiquem vis\u00edveis na tela. Adiciona barra de rolagem quando necess\u00e1rio", "icons": {"48": "icons/logo-pje-48.png", "96": "icons/logo-pje-96.png"}, "content_scripts": [{"matches": ["*://*/*"], "css": ["visible-dialogs.css"]}]}

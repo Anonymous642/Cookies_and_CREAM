@@ -1,0 +1,1 @@
+{"app": {"launch": {"web_url": "http://www.myintervals.com/cws/"}}, "description": "Stop getting dominated by your projects with Intervals. Time tracking, task management & project management for small businesses.", "icons": {"128": "icon_128.png"}, "name": "Intervals", "update_url": "http://clients2.google.com/service/update2/crx", "version": "1.3.5", "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gladys", "version": "1.4", "description": "Ajouter une info-veille sur votre compte gladys", "browser_action": {"default_icon": "img/icon.png", "default_popup": "gladys.html", "default_title": "Gladys"}, "icons": {"19": "img/icon.png", "48": "img/icon48.png", "128": "img/icon128.png"}, "permissions": ["*://*.gladys.com/*", "cookies", "tabs"]}

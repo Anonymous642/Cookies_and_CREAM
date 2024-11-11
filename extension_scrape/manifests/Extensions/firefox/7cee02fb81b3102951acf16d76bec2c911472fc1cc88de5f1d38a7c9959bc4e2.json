@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Password Generator", "version": "1.0", "description": "Generate a random password", "icons": {"48": "icons/lock-48.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/lock-48.png", "default_title": "Password Generator", "default_popup": "popup/generator.html"}}

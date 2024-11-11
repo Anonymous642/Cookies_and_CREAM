@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.2.3", "name": "Start Page", "description": "A start page with many useful features.", "chrome_url_overrides": {"newtab": "index.html"}, "chrome_settings_overrides": {"homepage": "index.html"}, "browser_specific_settings": {"gecko": {"id": "startpage@notmario.net"}}, "icons": {"48": "icon.svg", "96": "icon.svg"}}

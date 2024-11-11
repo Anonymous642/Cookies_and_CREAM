@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "URL Collector", "version": "2.1", "description": "Collect URLs and endpoints from a webpage.", "icons": {"50": "icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{598061dc-e503-4c81-9640-133c2d6a80de}"}}}

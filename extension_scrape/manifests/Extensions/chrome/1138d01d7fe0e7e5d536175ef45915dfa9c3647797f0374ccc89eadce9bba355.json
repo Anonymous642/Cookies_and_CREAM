@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "G\u00e9n\u00e9rer un dessin \u00e0 colorier", "version": "1.0", "description": "Extension qui permet de cr\u00e9er automatiquement un dessin \u00e0 colorier", "action": {"default_popup": "popup.html", "default_icon": "logo dessin.png"}, "permissions": ["clipboardWrite"]}

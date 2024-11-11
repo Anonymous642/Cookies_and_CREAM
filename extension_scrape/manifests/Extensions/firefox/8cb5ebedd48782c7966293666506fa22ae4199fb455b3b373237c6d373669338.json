@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Rainbowz", "version": "1", "description": "Turns everything into rainbows", "icons": {"96": "icon.svg"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["rainbowz.js"]}]}

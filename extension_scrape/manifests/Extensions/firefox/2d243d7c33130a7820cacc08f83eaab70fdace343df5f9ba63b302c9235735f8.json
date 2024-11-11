@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Everything Right", "version": "1.0.0", "description": "__MSG_extensionDescription__", "homepage_url": "https://github.com/nralbrecht/everything-right", "default_locale": "en", "background": {"scripts": ["background.js"]}, "options_ui": {"page": "options.html"}, "permissions": ["storage"]}

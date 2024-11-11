@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Online Local Notebook", "manifest_version": 2, "version": "0.1.6", "icon": "notebook128128.jpg", "description": "This extension is used to save data temporarly with security", "browser_action": {"default_popup": "index.html", "default_icon": "notebook128128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "action": {"default_icon": "icon_128.png", "default_title": "Keyboard Tester"}, "description": "Test Keyboard keys.", "icons": {"128": "icon_128.png"}, "background": {"service_worker": "background.js"}, "name": "Keyboard Tester", "version": "1.2", "manifest_version": 3}

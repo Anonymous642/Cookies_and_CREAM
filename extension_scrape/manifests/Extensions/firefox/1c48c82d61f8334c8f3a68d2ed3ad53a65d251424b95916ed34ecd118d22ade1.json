@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "deGoogle", "version": "1.0", "description": "Replace Google CDN with cdnjs", "permissions": ["webRequest", "webRequestBlocking", "*://ajax.googleapis.com/*"], "background": {"scripts": ["background.js"]}}

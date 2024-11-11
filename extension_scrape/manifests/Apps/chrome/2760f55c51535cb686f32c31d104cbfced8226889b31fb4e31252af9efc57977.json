@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "LaTrobe Transact", "description": "LaTrobe Transact Bookmark By Kelaby Dev Team", "version": "0.0.3.1", "manifest_version": 2, "app": {"launch": {"local_path": "transact.html"}}, "icons": {"16": "16.png", "24": "24.png", "128": "128.png"}, "permissions": ["unlimited_storage", "notifications"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Block YT miniplayer", "version": "1.1", "description": "Block the miniplayer on Youtube.", "icons": {"48": "block-miniplayer.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["block-miniplayer.js"]}]}

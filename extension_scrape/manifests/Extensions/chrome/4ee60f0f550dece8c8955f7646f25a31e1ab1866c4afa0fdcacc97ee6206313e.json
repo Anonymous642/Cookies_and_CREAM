@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "qAlfred ", "description": "Command manager", "version": "2.2", "author": "Chris Elioglou", "browser_action": {"default_popup": "qalfred.html"}, "icons": {"16": "qalfred-icon.png", "48": "qalfred-icon-48.png", "128": "qalfred-icon-128.png"}}

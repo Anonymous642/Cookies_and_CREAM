@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sgnam", "version": "4.3", "manifest_version": 2, "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.sgnam.it/"], "launch": {"web_url": "http://www.sgnam.it/"}}}

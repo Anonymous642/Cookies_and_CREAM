@@ -1,0 +1,1 @@
+{"name": "Plan9 from outer space", "author": "vintageradioclassics", "version": "0.1", "manifest_version": 2, "description": "Watch the great Sci-fi Classic Plan9", "browser_action": {"default_icon": "plan9.png", "default_title": "Watch the great Sci-fi Classic Plan9", "default_popup": "extension.html"}, "icons": {"128": "plan9.png"}}

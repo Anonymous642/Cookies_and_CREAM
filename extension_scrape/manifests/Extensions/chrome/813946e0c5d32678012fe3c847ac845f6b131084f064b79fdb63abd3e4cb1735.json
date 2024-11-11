@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GoSupermodel Pride Style", "description": "goSupermodel Pride but 4 a lot more colourfull", "version": "1.0", "icons": {"16": "/Images/16.png", "48": "/Images/48.png", "128": "/Images/128.png"}, "content_scripts": [{"matches": ["https://gosupermodel.com/*"], "css": ["main.css"]}]}

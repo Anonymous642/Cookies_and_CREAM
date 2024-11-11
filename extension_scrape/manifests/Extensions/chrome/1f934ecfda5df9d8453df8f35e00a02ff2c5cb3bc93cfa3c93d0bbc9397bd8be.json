@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Locate POs for AMAZON IXD FCs", "version": "1.75", "description": "Locate POs from other AMAZON IXD FCs when none are available at your AMAZON IXD FC.", "permissions": ["tabs"], "action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}}

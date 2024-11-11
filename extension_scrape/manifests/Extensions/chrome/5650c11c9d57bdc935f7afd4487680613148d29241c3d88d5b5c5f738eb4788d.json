@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Demotivational Quote Generator", "version": "1.0", "manifest_version": 3, "description": "Get inspired anytime, anywhere with our Demotivational Quote Generator. The perfect tool for a quick boost of demotivation!", "chrome_url_overrides": {"newtab": "popup.html"}}

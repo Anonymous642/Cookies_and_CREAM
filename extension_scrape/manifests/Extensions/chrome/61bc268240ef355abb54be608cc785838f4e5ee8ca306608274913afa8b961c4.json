@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "PhotoSense", "version": "0.0.2", "description": "Censor your images with PhotoSense!", "permissions": ["contextMenus"], "background": {"scripts": ["background.js"], "persistent": false}, "icons": {"16": "images/eye16.png", "32": "images/eye32.png", "128": "images/eye128.png"}, "manifest_version": 2}

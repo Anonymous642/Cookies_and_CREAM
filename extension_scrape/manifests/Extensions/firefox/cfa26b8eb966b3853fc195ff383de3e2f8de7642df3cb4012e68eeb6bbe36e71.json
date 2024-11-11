@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NetflixSkipIntro", "version": "1.0", "description": "Auto skip intro in Netflix", "icons": {"48": "icons/skip-48.png"}, "content_scripts": [{"matches": ["*://*.netflix.com/*"], "js": ["skipIntro.js"]}]}

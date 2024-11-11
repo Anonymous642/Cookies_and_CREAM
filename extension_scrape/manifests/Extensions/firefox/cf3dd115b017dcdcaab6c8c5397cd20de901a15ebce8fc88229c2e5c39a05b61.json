@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GJL2CJ_Plugin", "version": "5.0", "content_scripts": [{"matches": ["https://blog.csdn.net/cj1064789374/article/details/*"], "js": ["app.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hide DISHA", "version": "1.0", "description": "Hides 'Ask DISHA' on IRCTC Indian Railways Website", "content_scripts": [{"matches": ["*://www.irctc.co.in/nget/*"], "js": ["app.js"]}]}

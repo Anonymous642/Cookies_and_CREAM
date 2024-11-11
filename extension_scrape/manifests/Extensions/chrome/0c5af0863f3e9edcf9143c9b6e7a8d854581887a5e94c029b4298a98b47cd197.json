@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Search & Highlight", "version": "1.0", "content_scripts": [{"matches": ["*://*/*"], "css": ["main.css"], "js": ["mark.min.js", "content.js"]}], "browser_action": {"default_icon": "SearchHighlight.png", "default_popup": "index.html", "default_title": "Search & highlight"}}

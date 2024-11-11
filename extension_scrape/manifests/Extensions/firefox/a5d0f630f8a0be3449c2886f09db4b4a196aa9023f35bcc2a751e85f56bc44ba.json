@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Melvor Speed", "version": "1.0.1", "description": "Speed-running extension for Melvor Idle", "icons": {"96": "icon_96.png"}, "content_scripts": [{"matches": ["*://melvoridle.com/*", "*://www.melvoridle.com/*", "*://test.melvoridle.com/*"], "js": ["main.js"]}], "web_accessible_resources": ["melvor-speed.js", "melvor-speed-settings.js"]}

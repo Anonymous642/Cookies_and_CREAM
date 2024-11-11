@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u667a\u6167\u5b66\u5802\u5b66\u751f\u7aef\u63d2\u4ef6", "description": "\u667a\u6167\u5b66\u5802\u5b66\u751f\u7aef\u63d2\u4ef6", "version": "1.0", "manifest_version": 2, "background": {"service_worker": "background.js"}, "permissions": ["webRequest", "webRequestBlocking", "*://*/*"]}

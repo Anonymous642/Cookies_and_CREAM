@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "\u5c0f\u5ddd", "description": "\u5c0f\u5ddd", "version": "2.0.1", "chrome_url_overrides": {"newtab": "tab.html"}, "icons": {"16": "icon_16.png", "48": "icon_48.png", "128": "icon_128.png"}, "permissions": ["storage"]}

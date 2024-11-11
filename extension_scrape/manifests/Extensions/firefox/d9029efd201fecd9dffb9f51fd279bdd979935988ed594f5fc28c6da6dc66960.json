@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "19.2.3.3", "name": "Dicion\u00e1rio Portugu\u00eas (pt-PT", "author": "Projeto Natura", "description": "Portuguese, Portugal (pt-PT) Dictionary", "browser_specific_settings": {"gecko": {"id": "pt-PT@dictionaries.addons.mozilla.org"}}, "dictionaries": {"pt-PT": "dictionaries/pt-PT.dic"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u7b80\u4e66", "version": "1.0", "description": "\u7b80\u4e66\u7684\u5feb\u6377\u65b9\u5f0f", "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "manifest_version": 2, "app": {"launch": {"web_url": "http://www.jianshu.io/"}}, "permissions": []}

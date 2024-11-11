@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Yudoo - Time Tracker", "description": "A simple time tracker for Chrome", "version": "1.2.2", "manifest_version": 3, "permissions": ["storage"], "action": {"default_popup": "index.html", "default_title": "Yudoo - Time Tracker"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CentralDispatchMap", "version": "1.1", "description": "Enlarge the central dispatch map.", "icons": {"32": "icons/central.png"}, "content_scripts": [{"matches": ["*://*.centraldispatch.com/search?*"], "js": ["centraldispatchmap.js"]}], "browser_specific_settings": {"gecko": {"id": "{78f6b3cd-7ddd-48ba-869a-ca3a4255dc4f}"}}}

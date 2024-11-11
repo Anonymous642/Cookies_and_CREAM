@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Viddsee", "description": "Watch awesome short films from Asia", "version": "1.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.viddsee.com/?utm_source=chromewebstore"], "launch": {"web_url": "http://www.viddsee.com/?utm_source=chromewebstore"}}}

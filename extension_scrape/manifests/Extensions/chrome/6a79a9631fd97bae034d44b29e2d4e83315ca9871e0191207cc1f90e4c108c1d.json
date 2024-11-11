@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.0.7", "name": "Namesis | Random Name Generator", "description": "Generate names, from serious to silly, using various selections", "action": {"default_popup": "index.html", "default_icon": "icon.png"}}

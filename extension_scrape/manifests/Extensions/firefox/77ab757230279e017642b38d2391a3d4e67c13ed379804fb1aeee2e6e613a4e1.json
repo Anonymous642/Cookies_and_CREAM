@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gumroad Video Fix", "description": "Removes the padding on the padlist making it so you can touch the video controls", "version": "1.0", "content_scripts": [{"css": ["style.css"], "matches": ["https://*.gumroad.com/*"]}], "browser_specific_settings": {"gecko": {"id": "{7e956067-3616-4d05-a21e-591ccb88b2df}"}}}

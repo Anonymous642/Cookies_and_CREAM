@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NamaJawa", "version": "1.0.2", "description": "Explain Javanese name meanings in online articles.", "icons": {"48": "icons/nama-jawa-48.jpeg", "100": "icons/nama-jawa-100.jpeg"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["dictionary.js", "index.js"]}]}

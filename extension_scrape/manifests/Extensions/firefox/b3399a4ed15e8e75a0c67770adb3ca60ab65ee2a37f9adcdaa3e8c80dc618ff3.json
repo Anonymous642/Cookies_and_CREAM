@@ -1,0 +1,1 @@
+{"web_accessible_resources": ["images/sound.mp3"], "manifest_version": 2, "name": "Loelis Twitch Extension", "description": "Vous informe quand Loelis est en live.", "version": "1.3", "browser_action": {"default_popup": "index.html"}, "icons": {"64": "images/logo.png"}, "background": {"scripts": ["jquery.js", "background.js"]}, "permissions": ["notifications"]}

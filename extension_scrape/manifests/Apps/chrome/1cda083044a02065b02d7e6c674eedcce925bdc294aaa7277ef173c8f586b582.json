@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Besucher-App Eilenburg", "version": "1.2.4", "description": "Besucher-App Eilenburg - besuchen Sie die Muldestadt mit gr\u00fcnem Herzen", "icons": {"128": "ebmobi-icon.png"}, "app": {"urls": ["http://www.eilenburg.mobi/"], "launch": {"web_url": "http://www.eilenburg.mobi/"}}}

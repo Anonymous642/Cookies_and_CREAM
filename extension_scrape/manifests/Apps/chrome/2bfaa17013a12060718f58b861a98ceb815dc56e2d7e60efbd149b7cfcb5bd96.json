@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Digiditi", "description": "Digitale edities van papieren publicaties", "version": "1.1", "icons": {"128": "128.png"}, "app": {"urls": ["https://digiditi.nl/"], "launch": {"web_url": "https://digiditi.nl/"}}, "permissions": ["unlimitedStorage"]}

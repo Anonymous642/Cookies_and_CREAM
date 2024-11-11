@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Shortstop - Hide and Disable Youtube Shorts", "version": "1.1", "description": "Don't want to see Youtube shorts? Hide and disable Youtube shorts now.", "content_scripts": [{"js": ["scripts/content.js"], "matches": ["https://www.youtube.com/*"]}]}

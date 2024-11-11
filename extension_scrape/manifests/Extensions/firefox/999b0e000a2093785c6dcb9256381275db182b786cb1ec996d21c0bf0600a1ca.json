@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No Scryfall Autocomplete", "version": "1.0", "content_scripts": [{"matches": ["https://scryfall.com/*"], "js": ["noautocomplete.js"]}], "browser_specific_settings": {"gecko": {"id": "{f3d41896-287e-482a-8a54-670780e9a0fb}"}}}

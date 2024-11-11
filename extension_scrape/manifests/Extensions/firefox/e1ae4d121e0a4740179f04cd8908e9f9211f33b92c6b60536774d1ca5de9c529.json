@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Invidious redirect", "description": "redirect automatically from Youtube links to Invidio.us", "permissions": ["*://*.youtube.com/*", "*://youtu.be/*"], "background": {"scripts": ["redirect.js"]}, "applications": {"gecko": {"id": "redirect@invidious-youtube.com"}}, "version": "1.0"}

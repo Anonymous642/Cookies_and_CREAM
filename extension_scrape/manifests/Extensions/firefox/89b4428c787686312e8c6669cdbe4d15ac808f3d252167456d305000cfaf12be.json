@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "BZD to EUR", "version": "1.0", "description": "Convert Belarusian Rubles to Euros", "browser_specific_settings": {"gecko": {"id": "bzd-to-eur@gmail.com"}}}

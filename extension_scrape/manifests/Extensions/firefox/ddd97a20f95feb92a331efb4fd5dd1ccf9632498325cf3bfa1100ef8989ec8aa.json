@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Open in Reader View", "version": "1.0", "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["background.js"]}}

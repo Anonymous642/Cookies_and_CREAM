@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bricks (game)", "description": "My first Chrome App. Basic version of the game Bricks / Breakout.", "version": "0.1", "manifest_version": 2, "app": {"background": {"scripts": ["js/vendor/jquery-1.9.1.min.js", "background.js"]}}, "icons": {"16": "calculator-16.png", "128": "calculator-128.png"}}

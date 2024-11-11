@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.0.0", "name": "pomodoro timer", "action": {"default_popup": "index.html"}, "permissions": ["scripting", "storage", "notifications"], "icons": {"32": "icon.png"}}

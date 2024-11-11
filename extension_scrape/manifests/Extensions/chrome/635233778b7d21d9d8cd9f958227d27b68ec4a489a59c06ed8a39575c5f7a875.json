@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WB History URLs", "version": "5.3.2", "description": "Our extension helps you easily excess your recent closed history URLs.", "permissions": ["history"], "action": {"default_popup": "typedUrls.html", "default_icon": "clock.png"}, "manifest_version": 3}

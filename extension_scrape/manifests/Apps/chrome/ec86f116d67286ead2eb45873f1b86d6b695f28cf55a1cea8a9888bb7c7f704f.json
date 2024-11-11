@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Wooshii", "description": "The Internet's leading video production production community", "version": "0.1", "icons": {"128": "wooshii_logo_128.png"}, "app": {"launch": {"web_url": "http://www.wooshii.com"}}}

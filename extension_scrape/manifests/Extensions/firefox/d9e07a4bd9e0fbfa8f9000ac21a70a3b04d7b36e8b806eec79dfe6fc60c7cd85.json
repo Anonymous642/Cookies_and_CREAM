@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Toggle Page Fonts", "version": "1.0", "description": "Toggle a page's fonts On or Off", "browser_action": {"default_icon": {"48": "Icons/off.svg", "96": "Icons/off.svg"}}, "background": {"scripts": ["background-script.js"]}, "icons": {"48": "Icons/on.svg", "96": "Icons/on.svg"}, "permissions": ["browserSettings"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Weather Forecast", "version": "1.0.0", "description": "Latest weather data for the selected region", "manifest_version": 3, "author": "Chris Shiman", "action": {"default_popup": "index.html", "default_title": "Weather Forecast"}}

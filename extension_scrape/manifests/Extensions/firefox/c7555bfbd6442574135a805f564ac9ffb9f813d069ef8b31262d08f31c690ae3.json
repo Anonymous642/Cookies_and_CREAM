@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UnHighlight", "version": "0.2", "description": "Strips ?highlight=... from URLs", "author": "Justin Bassett", "homepage_url": "https://github.com/Quincunx271/UnHighlight", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["unhighlight.js"]}}

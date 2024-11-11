@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "kwestion", "version": "5.2.1", "manifest_version": 2, "description": "kwestion for chrome", "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "kwestion.png", "128": "kwestion128.png"}, "permissions": ["<all_urls>", "unlimitedStorage", "notifications"]}

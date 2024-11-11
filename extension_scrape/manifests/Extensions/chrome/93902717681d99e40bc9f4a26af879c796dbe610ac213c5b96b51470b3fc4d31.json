@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Crazy fast notes", "version": "1.0", "description": "Make notes fast and easy in you browser!", "browser_action": {"default_icon": "note.ico", "default_popup": "popup.html", "default_title": "Speedy note"}, "manifest_version": 2}

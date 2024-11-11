@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Compliments From Good News Buddy", "description": "This extension gives you best compliments from Good News Buddy, the popular TikTok account.", "version": "1.1", "action": {"default_icon": "Icon.png", "default_popup": "popup.html"}}

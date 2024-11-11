@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bilibili\u770b\u677f\u5a18", "version": "2.2", "manifest_version": 2, "content_scripts": [{"js": ["contentscript.js"], "matches": ["https://www.bilibili.com/*"]}], "icons": {"128": "images/icon_128.png"}, "web_accessible_resources": ["live2d-widget/autoload.js"]}

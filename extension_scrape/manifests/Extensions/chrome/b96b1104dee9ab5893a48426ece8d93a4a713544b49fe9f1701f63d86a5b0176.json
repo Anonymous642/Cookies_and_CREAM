@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Text to Speech", "description": "Speak the Text provided in input field", "version": "1.0.0", "icons": {"128": "images/icon_128.png"}, "browser_action": {"default_icon": "images/icon.png", "default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u682a\u30c9\u30e9\u30b4\u30f3\u62e1\u5f35", "description": "", "version": "0.1", "manifest_version": 2, "content_scripts": [{"matches": ["https://www.kabudragon.com/*"], "js": ["jquery-2.2.0.min.js", "content_script.js"], "run_at": "document_start"}], "permissions": []}

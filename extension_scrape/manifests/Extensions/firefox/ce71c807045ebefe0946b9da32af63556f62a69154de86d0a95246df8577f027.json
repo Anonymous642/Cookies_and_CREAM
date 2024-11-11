@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Container Color Toolbar", "version": "0.2", "description": "Black theme toolbar following container color", "background": {"scripts": ["background.js"]}, "permissions": ["cookies", "theme", "contextualIdentities", "tabs"], "applications": {"gecko": {"strict_min_version": "58.0"}}, "icons": {"96": "img/containers.svg"}}

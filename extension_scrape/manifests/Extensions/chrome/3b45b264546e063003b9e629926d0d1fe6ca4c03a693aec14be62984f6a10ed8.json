@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Blocket bildf\u00f6rstoring", "version": "1.0", "manifest_version": 3, "description": "F\u00f6rstora upp bilden till annonsen, genom att f\u00f6ra muspekaren \u00f6ver bilden", "content_scripts": [{"matches": ["*://*.blocket.se/*"], "js": ["content.js"]}]}

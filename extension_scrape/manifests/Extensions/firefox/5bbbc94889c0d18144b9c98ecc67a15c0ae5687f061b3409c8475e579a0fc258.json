@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "private-github-header", "version": "0.3.1", "content_scripts": [{"matches": ["https://github.com/*"], "js": ["private-github-header.js"]}], "browser_specific_settings": {"gecko": {"id": "{588b842c-969a-450b-8c72-5073789b32d0}"}}}

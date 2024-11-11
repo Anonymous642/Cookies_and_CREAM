@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LNER Time Selector Additions", "version": "1.0", "description": "Modifies time options on LNER booking form.", "host_permissions": ["https://www.lner.co.uk/*"], "content_scripts": [{"matches": ["https://www.lner.co.uk/*"], "js": ["content.js"]}]}

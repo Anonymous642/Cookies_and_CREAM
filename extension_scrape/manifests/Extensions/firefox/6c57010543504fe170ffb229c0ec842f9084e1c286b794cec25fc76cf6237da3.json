@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitch Points Chest Clicker", "version": "0.3", "description": "Clicks the twitch points chest automatically for you.", "icons": {"48": "icons/treasure_Chest_48.png", "96": "icons/treasure_Chest_96.png"}, "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["twitch_points.js"]}]}

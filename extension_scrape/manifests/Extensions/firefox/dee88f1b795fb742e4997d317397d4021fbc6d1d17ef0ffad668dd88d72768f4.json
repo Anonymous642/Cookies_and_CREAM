@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "detail-expander", "version": "1.0", "description": "Expands contents of html <details> tags.", "icons": {"48": "icons/exp-48.png"}, "background": {"scripts": ["background.js"]}, "page_action": {"default_icon": "icons/col.png", "browser_style": true}, "permissions": ["activeTab", "tabs"]}

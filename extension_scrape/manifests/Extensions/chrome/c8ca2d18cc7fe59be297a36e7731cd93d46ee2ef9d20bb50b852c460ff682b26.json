@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "banyotuvalet.com", "version": "1.0", "manifest_version": 3, "background": {"service_worker": "./background.js"}, "host_permissions": ["https://www.banyotuvalet.com/blog"], "action": {"default_popup": "./popup.html"}, "icons": {"16": "./img/16.png", "48": "./img/48.png", "128": "./img/128.png"}}

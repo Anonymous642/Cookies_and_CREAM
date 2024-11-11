@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Flipping Heck", "version": "1.0", "description": "This is a prank extension. Every second, it flips an element in the page upside dowm.", "icons": {"48": "icon.svg"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["index.js"]}]}

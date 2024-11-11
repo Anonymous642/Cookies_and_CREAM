@@ -1,0 +1,1 @@
+{"dictionaries": {"az": "dictionaries/az.dic"}, "version": "0.2.1webext", "browser_specific_settings": {"gecko": {"id": "az@dictionaries.addons.mozilla.org"}}, "name": "Azerbaijani Spellchecker", "manifest_version": 2}

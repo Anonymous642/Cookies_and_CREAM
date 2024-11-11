@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Cortisync Language Detector", "description": "This extension helps in identifying different languages and can detect three languages at same time.", "version": "1.3", "action": {"default_icon": "ldc.png", "default_popup": "popup.html"}, "manifest_version": 3}

@@ -1,0 +1,1 @@
+{"name": "__MSG_extName__", "default_locale": "fr", "version": "1.0.3", "description": "__MSG_extDescr__", "permissions": ["webRequest", "webRequestBlocking", "storage", "http://*/*", "https://*/*"], "background": {"scripts": ["background.js"], "persistent": true}, "options_ui": {"page": "options.html", "chrome_style": true}, "manifest_version": 2}

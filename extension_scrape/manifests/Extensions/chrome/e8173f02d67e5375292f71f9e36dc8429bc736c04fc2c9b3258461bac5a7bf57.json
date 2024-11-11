@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SNL Host Hider", "version": "1.0.0", "description": "Never have the SNL host spoiled for you again!", "content_scripts": [{"js": ["home_script.js"], "matches": ["https://www.nbc.com/*"]}], "icons": {"16": "logos/SHH16.png", "48": "logos/SHH48.png", "128": "logos/SHH128.png"}}

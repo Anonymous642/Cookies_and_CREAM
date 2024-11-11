@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"background": {"scripts": ["main.js"]}}, "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "manifest_version": 2, "name": "Manaple", "permissions": ["audioCapture", "videoCapture", "storage", "unlimitedStorage", "http://*/*"], "version": "0.4.0.3"}

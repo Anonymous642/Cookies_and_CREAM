@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Steemoji", "version": "1.0", "description": "Adds emojis for Steemit MarkDown.", "content_scripts": [{"matches": ["*://*.steemit.com/*"], "js": ["jquery.js", "steemoji.js"]}]}

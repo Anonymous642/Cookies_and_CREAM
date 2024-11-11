@@ -1,0 +1,1 @@
+{"name": "NextCampsite", "description": "The go to resource for finding the best campsites and planning your next camping trip!", "app": {"urls": ["http://www.nextcampsite.com/"], "launch": {"web_url": "http://www.nextcampsite.com/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "SmartBrowser", "description": "SmartBrowser", "version": "2.1", "manifest_version": 2, "icons": {"128": "128.png"}, "app": {"urls": ["http://brandwall.ru/"], "launch": {"web_url": "http://brandwall.ru/"}}, "permissions": ["unlimitedStorage", "notifications"]}

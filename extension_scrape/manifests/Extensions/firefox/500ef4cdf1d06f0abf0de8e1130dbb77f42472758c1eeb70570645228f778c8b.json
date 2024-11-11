@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "QikReview Extension", "description": "This extension will make a screenshot and submit it to QikReview site", "version": "0.11", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab", "<all_urls>"]}

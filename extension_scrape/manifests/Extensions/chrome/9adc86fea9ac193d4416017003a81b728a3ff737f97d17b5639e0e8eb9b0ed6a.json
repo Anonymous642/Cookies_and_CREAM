@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Remove Border Radius", "version": "0.0.2", "manifest_version": 2, "description": "Removes border radius from websites.", "icons": {"128": "icons/icon128.png"}, "background": {}, "browser_action": {}, "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "css": ["css.css"]}]}

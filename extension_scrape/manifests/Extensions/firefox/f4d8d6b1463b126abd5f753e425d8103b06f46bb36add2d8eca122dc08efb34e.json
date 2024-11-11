@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Stackoverflow HNQ Blocker", "version": "1.0", "description": "Blocks the Hot Network Questions panel on Stackoverflow.", "icons": {"32": "favicon.png"}, "content_scripts": [{"run_at": "document_start", "matches": ["https://*.stackoverflow.com/*"], "js": ["inject.js"]}], "web_accessible_resources": ["inject.css"]}

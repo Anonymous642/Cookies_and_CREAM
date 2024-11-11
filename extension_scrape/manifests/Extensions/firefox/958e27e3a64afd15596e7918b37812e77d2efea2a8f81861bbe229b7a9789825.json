@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "__MSG_extensionName__", "version": "0.1.5", "description": "__MSG_extensionDescription__", "background": {"scripts": ["background.js"]}, "default_locale": "en", "browser_specific_settings": {"gecko": {"id": "tst-change-close-tab-button-behavior@rinsuki.net"}}}

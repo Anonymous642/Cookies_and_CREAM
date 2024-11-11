@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "DCPlanet.fr", "description": "Le site de r\u00e9f\u00e9rence exclusivement d\u00e9di\u00e9 \u00e0 DC Comics et Vertigo", "version": "1.1", "manifest_version": 2, "app": {"launch": {"web_url": "http://www.dcplanet.fr"}}, "icons": {"128": "icon_128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

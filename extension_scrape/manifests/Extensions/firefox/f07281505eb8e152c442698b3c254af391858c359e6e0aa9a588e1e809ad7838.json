@@ -1,0 +1,1 @@
+{"description": "Download Twitch clips right from their clip page", "manifest_version": 2, "name": "Get Clip", "version": "1.1.0", "icons": {"16": "assets/get-clip-logo-16.png", "48": "assets/get-clip-logo-48.png", "128": "assets/get-clip-logo.png"}, "content_scripts": [{"matches": ["https://*.twitch.tv/*"], "js": ["content_scripts/script.js"]}]}

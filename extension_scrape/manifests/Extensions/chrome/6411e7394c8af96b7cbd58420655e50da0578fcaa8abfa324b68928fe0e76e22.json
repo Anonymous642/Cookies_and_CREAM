@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Youtube Browse Blocker", "description": "This extension will only allow to search videos up but not let you browse.", "version": "2.0", "manifest_version": 2, "content_scripts": [{"matches": ["<all_urls>"], "css": ["styles.css"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NexusModRewards", "version": "1.0", "description": "Adds some useful stats to Nexusmods Rewards page.", "content_scripts": [{"matches": ["*://*.nexusmods.com/modrewards*"], "js": ["NexusModRewards.js"]}], "browser_specific_settings": {"gecko": {"id": "{ffbc18af-0582-4fd1-a0e6-67801bc4a10e}"}}}

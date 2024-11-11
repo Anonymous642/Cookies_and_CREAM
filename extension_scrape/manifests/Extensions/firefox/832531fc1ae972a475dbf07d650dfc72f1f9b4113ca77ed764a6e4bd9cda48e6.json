@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "demoexttmt", "version": "1.2", "description": "Adds a red border to all webpages matching mozilla.org website", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.mozilla.org/*"], "js": ["borderify.js"]}], "browser_specific_settings": {"gecko": {"id": "hello@g43.in", "strict_min_version": "65.0"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reddit Fix", "version": "0.3", "description": "Hides previously voted on posts from front page and disables voting on archived reddit posts.", "icons": {}, "applications": {"gecko": {"id": "acas@mozilla.org"}}, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["jquery-2.2.3.min.js", "redditFix.js"]}]}

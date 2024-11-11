@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GitHub - Branch Scroll", "version": "0.1", "description": "Keeps branch info on the right side of the screen when scrolling through a PR", "content_scripts": [{"matches": ["*://*.github.com/*/*/pull/*"], "js": ["jquery-3.3.1.min.js", "branchscroll.js"]}]}

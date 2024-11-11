@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Galaxy Warfare", "description": "Galaxy Warfare is a browser-based Space-themed MMORPG.", "version": "1.0", "app": {"urls": ["http://game.galaxywarfare.com/", "http://galaxywarfare.com/"], "launch": {"web_url": "http://game.galaxywarfare.com/"}}, "icons": {"128": "128.png"}, "manifest_version": 2}

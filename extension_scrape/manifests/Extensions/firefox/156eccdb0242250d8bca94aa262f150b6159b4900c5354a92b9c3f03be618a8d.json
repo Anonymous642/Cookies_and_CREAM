@@ -1,0 +1,1 @@
+{"manifest_version": 2, "dictionaries": {"es-ES": "dictionaries/es-ES.dic"}, "applications": {"gecko": {"id": "es-es@dictionaries.addons.mozilla.org"}}, "version": "3.2.8", "name": "Spell checker for es-ES", "description": "Spell checker dictionary for Espa\u00f1a ", "author": "Proyecto RLA-ES"}

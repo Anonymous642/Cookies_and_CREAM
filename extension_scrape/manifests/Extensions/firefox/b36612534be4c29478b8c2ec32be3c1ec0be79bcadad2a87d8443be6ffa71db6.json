@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "__MSG_name__", "description": "__MSG_description__", "version": "1.0", "default_locale": "en", "permissions": ["contextMenus"], "applications": {"gecko": {"id": "uromkaq@mail.ru"}}, "background": {"scripts": ["script.js"]}, "icons": {"128": "icon128.png"}}

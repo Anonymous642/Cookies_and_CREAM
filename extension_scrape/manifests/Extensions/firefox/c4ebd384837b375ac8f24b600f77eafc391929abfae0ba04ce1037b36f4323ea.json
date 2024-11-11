@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Rotate Regex Crossword", "version": "1.0", "description": "Rotate the top line of clues in regex crossword to be more readable.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.regexcrossword.com/challenges/*"], "js": ["rotate.js"]}]}

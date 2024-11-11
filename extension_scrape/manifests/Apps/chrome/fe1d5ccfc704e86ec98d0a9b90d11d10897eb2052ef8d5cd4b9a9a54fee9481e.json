@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "i-Waris", "short_name": "i-Waris", "description": "Aplikasi pintar menghitung warisan.", "version": "1.6.1", "manifest_version": 2, "icons": {"128": "iwaris.png"}, "permissions": ["webview"], "app": {"background": {"scripts": ["js/window.js"]}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Apply Kiya ?", "version": "0.0.2", "manifest_version": 2, "browser_action": {"default_popup": "popup.html", "default_icon": "logos.png"}, "web_accessible_resources": ["logos.png"], "icons": {"128": "logos.png"}, "permissions": ["activeTab"]}

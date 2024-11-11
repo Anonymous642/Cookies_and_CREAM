@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "csdnautoreadmore", "version": "1.0", "description": "Auto expand the csdn page with click new read more button", "icons": {"48": "csdnautoreadmore.jpg"}, "content_scripts": [{"matches": ["*://blog.csdn.net/*"], "js": ["csdnautoreadmore.js"]}]}

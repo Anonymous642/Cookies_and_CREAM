@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YTcleaner", "version": "0.1", "description": "Cleans your youtube ;)", "icons": {"128": "icon.svg"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["cleaner.js"], "css": ["cleaner.css"]}], "browser_specific_settings": {"gecko": {"id": "{12813f06-ed29-4a23-b06c-91e5aa462c9b}"}}}

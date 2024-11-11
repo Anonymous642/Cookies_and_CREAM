@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "neb! - \uc77c\uc0c1 \uadfc\ubb34\uc790\ub97c \uc704\ud55c \ube44\uc77c\uc0c1 \ub3c4\uc2dc \uc0dd\ud65c \ucc38\uace0\uc11c\n", "manifest_version": 2, "version": "1.1", "permissions": [], "web_accessible_resources": ["favicon.ico"], "chrome_url_overrides": {"newtab": "index.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "tague's New Tab Page", "version": "1.2", "description": "A Minimal New Tab Page", "manifest_version": 2, "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["storage"]}

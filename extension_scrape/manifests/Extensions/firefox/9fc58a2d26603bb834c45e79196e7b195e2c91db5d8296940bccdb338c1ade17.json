@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove-Iframe", "version": "1.0.0", "description": "Removes all iframe from 4anime", "content_scripts": [{"matches": ["https://4anime.to/*"], "js": ["app.js"]}]}

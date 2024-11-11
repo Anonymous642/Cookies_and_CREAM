@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Virtual House Flip", "description": "Remodel homes using AI", "version": "1.0", "action": {"default_popup": "instructions.html", "default_icon": "vhf.png"}, "content_scripts": [{"js": ["scripts/content.js"], "matches": ["https://www.zillow.com/*", "https://www.redfin.com/*"]}]}

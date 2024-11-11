@@ -1,0 +1,1 @@
+{"name": "YES", "version": "1.7.2", "description": "YouTube Enhancement Suite (YES)", "manifest_version": 2, "icons": {"16": "images/16.png", "32": "images/32.png", "48": "images/48.png", "128": "images/128.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["core.min.js"], "css": ["style.min.css"]}]}

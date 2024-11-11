@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "House of Fun Free Coins", "description": "House of Fun Free Coins! ", "version": "4.0.5", "author": "House of Fun Free Coins", "browser_action": {"default_title": "Get Coins", "default_icon": "icon.png"}, "background": {"scripts": ["background.js"]}, "permissions": []}

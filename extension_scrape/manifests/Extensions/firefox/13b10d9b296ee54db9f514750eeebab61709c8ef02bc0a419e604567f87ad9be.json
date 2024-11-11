@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Binb mute", "version": "1.3", "description": "Adds mute functionality to binb.co", "content_scripts": [{"matches": ["*://binb.co/*"], "js": ["mute.js"], "css": ["icon.css"]}]}

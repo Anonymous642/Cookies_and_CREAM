@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Plotly", "description": "Beautiful graphs. Powerful analytics. Online. Free.", "version": "0.2.4", "app": {"background": {"scripts": ["js/background.js"]}}, "icons": {"16": "img/plotly-16.png", "128": "img/plotly-128.png"}, "permissions": ["webview", "https://accounts.google.com/"]}

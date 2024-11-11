@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LinkedIn Polls Remover", "version": "1.0", "homepage_url": "https://wolkanca.com/", "description": "LinkedIn Polls remover - LinkedIn anketlerini siler.", "icons": {"48": "icon-48x48.png"}, "content_scripts": [{"matches": ["*://*.linkedin.com/*"], "css": ["style.css"], "js": ["l-polls-remove-script.js"]}]}

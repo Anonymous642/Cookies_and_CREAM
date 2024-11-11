@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "To Learn List", "version": "0.02", "description": "Make a browser to learn list", "browser_action": {"default_title": "Popout HTML", "default_popup": "popout.html", "default_icon": "nice.png"}, "icons": {"128": "nice.png"}, "manifest_version": 2, "permissions": ["tabs"]}

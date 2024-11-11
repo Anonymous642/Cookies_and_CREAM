@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Kid 4 Numbers game", "description": "Best algebraic game for kids!", "version": "1.3", "manifest_version": 2, "app": {"urls": ["http://www.4nums.com/kids/"], "launch": {"web_url": "http://www.4nums.com/kids/"}}, "icons": {"128": "128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

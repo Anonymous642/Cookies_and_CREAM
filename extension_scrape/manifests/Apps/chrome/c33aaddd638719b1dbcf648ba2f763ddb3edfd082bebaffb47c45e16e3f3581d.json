@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Zaprojektuj-Ogrod.pl", "description": "Aplikacja do Projektowania Ogrod\u00f3w.", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.zaprojektuj-ogrod.pl/pl/Home"], "launch": {"web_url": "http://www.zaprojektuj-ogrod.pl/pl/Home"}}}

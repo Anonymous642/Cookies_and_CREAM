@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SnapPages", "description": "Website creation for the rest of us.", "version": "2.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["*://snappages.com/", "*://www.snappages.com/"], "launch": {"web_url": "http://snappages.com/home"}}}

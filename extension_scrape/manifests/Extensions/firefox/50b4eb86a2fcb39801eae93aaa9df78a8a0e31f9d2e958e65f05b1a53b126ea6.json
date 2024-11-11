@@ -1,0 +1,1 @@
+{"background": {"scripts": ["background.js"]}, "permissions": ["cookies", "storage", "theme", "contextualIdentities", "<all_urls>", "tabs"], "applications": {"gecko": {"strict_min_version": "70.0"}}, "icons": {"96": "img/containers.svg"}, "description": "Change theme colour based on your container color", "manifest_version": 2, "name": "Container Color Theme", "version": "1.2"}

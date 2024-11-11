@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "querySelectorAll", "version": "1.0.2", "description": "Chrome Devtools Elements querySelectorAll side panel.", "icons": {"128": "icon_128.png"}, "devtools_page": "querySelectorAll.html", "manifest_version": 2}

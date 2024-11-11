@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Block To Butt", "version": "1.0", "description": "Replaces the text 'blockchain' with 'buttchain' and 'Web3' to 'TripleButt'.", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pretty New Tab (using Bing Images)", "version": "0.1", "chrome_url_overrides": {"newtab": "newtabpage.html"}, "permissions": ["*://az619822.vo.msecnd.net/*", "webRequest"], "applications": {"gecko": {"strict_min_version": "54.0a1"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "DuoListen", "version": "0.1", "description": "An extension that removes the hint sentence from a Duolingo.", "content_scripts": [{"matches": ["https://*.duolingo.com/*"], "js": ["index.js"]}], "icons": {"128": "duo.png"}}

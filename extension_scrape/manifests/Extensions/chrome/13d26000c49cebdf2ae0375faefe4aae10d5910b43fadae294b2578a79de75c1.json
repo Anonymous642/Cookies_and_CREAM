@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cota\u00e7\u00e3o Ibovespa", "version": "1.1", "action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png"}}, "permissions": ["alarms"], "host_permissions": ["https://cotacao.b3.com.br/"], "background": {"service_worker": "background.js"}, "icons": {"16": "icon.png"}}

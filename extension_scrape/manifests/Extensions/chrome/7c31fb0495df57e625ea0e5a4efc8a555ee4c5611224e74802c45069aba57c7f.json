@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Show Z06 Options", "version": "0.1", "description": "Expose the options of z06 cars on the list page", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["https://www.chevrolet.com/locate-inventory/corvette-z06"], "js": ["extension.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "short_name": "Declutter me", "name": "Declutter me", "icons": {"16": "favicon.ico", "48": "logo192.png", "128": "logo512.png"}, "permissions": ["tabs", "storage"], "manifest_version": 2, "version": "0.0.1", "browser_action": {"default_popup": "index.html", "default_title": "Declutter me"}}

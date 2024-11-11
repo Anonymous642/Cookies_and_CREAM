@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "maxTabs", "version": "0.1.3", "description": "Limits the number of concurrently opened tabs", "icons": {"96": "icons/tab-96.png"}, "background": {"scripts": ["background.js"]}}

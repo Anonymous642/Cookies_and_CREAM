@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "M2s", "version": "1", "manifest_version": 2, "icons": {"24": "icon_24.png", "128": "icon_128.png"}, "permissions": ["unlimited_storage", "notifications"], "web_content": {"enabled": true, "origin": "http://m2s.es/app", "paths": ["/web/"]}, "app": {"launch": {"web_url": "http://m2s.es/app"}}}

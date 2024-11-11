@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MagicLink", "version": "1.0", "description": "Query Magnet and ED2K links on the current page", "permissions": ["tabs", "activeTab"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{c0f78b7c-6d27-48cf-941f-8c8a409448e8}"}}}

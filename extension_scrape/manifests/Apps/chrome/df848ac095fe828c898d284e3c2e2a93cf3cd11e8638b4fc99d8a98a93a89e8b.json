@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MechRage", "description": "Build a strong base and  train a commander and put him to battle. ", "version": "1.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.mechrage.us/"], "launch": {"web_url": "http://www.mechrage.us?rid=7956"}}, "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "What's Playing?!", "version": "1.3", "description": "What's outputing that sound?", "icons": {"48": "./img/logo.png"}, "background": {"service_worker": "./js/background.js"}, "chrome_url_overrides": {"newtab": "./src/main.html"}, "permissions": ["tabs"]}

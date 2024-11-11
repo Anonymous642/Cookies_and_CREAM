@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Boogs", "version": "0.1", "description": "Adds Bugzilla links to Github pages.", "developer": {"name": "Stefan Arentz", "url": "https://github.com/st3fan"}, "content_scripts": [{"matches": ["https://github.com/*"], "js": ["boogs.js"], "run_at": "document_start"}]}

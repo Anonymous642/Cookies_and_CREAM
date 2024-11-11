@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Soothe", "version": "1.0", "chrome_url_overrides": {"newtab": "index.html"}, "browser_action": {"default_icon": "favicon.ico", "default_title": "Soothe"}, "browser_specific_settings": {"gecko": {"id": "{8e3712d4-0078-4aa8-a57e-8a35f300deff}"}}}

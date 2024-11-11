@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AMAZON FC LOCATOR", "version": "2.0", "description": "An extension with autocomplete functionality.", "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{16674db9-3f9a-4db4-9168-b37803b415c4}"}}}

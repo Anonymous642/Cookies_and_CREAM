@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "HPA_Navi converter", "description": "Data conversion software for HPA_Navi", "version": "0.20", "icons": {"128": "HPA_Navi_converter_Icon.png"}, "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["storage", "unlimitedStorage", {"fileSystem": ["write", "retainEntries"]}]}

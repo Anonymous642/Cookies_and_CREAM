@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Checkly", "version": "1.0", "description": "Check all checkboxes in the web page.", "icons": {"48": "icons/checkly-48.png"}, "content_scripts": [{"matches": ["*://joshmacdonald.net/*"], "js": ["checkly.js"]}]}

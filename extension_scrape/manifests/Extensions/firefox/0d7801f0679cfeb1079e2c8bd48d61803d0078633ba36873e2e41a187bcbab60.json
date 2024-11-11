@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Rebrand", "version": "1.0", "description": "Rebrands your webpage with Brand New Roman.", "icons": {"48": "icons/logo.svg", "96": "icons/logo.svg"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/logo.svg", "default_title": "Brand New", "default_popup": "popup.html"}}

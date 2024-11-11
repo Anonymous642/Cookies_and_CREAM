@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RDS QR Coder", "version": "1.0", "description": "Produces a QR code for whatever web address you are currently at.", "icons": {"48": "icons/qrcoder48.png", "96": "icons/load.gif"}, "permissions": ["tabs"], "browser_action": {"default_icon": "icons/qrcoder48.png", "default_title": "RDS QR Coder", "default_popup": "popup/qrcoder.html"}}

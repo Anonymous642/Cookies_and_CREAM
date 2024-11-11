@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Twitter Logo Changer: No \ud835\udd4f", "version": "0.0.1", "manifest_version": 3, "description": "The new Twitter logo is ugly, so let's change it.", "icons": {"128": "icons/BirdTwitter.png"}, "content_scripts": [{"matches": ["https://twitter.com/**"], "js": ["content.js"]}]}

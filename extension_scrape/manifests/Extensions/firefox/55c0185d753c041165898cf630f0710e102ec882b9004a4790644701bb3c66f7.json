@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Temperature converter", "version": "0.1", "description": "Converts temperatures to sensible units", "content_scripts": [{"matches": ["*://*/*"], "js": ["jquery-3.3.1.min.js", "tc.js"]}]}

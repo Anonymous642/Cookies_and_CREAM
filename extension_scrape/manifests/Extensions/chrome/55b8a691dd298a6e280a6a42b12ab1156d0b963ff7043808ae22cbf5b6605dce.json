@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Music Streaming & Search | Stream and Vibes", "version": "1.6", "description": "Stream and Vibes is a premium quality extension.", "chrome_url_overrides": {"newtab": "new_tab.html"}, "permissions": ["chrome://favicon/*", "sessions", "tabs"]}

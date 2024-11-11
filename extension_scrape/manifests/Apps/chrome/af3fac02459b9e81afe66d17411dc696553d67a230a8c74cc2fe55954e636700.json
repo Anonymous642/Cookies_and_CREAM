@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Pixi", "description": "Pixi is a fun and interactive drawing app for Twitter", "version": "0.0.1.2", "icons": {"128": "128.png"}, "app": {"urls": ["http://pixidraw.com/"], "launch": {"web_url": "http://pixidraw.com/"}}, "manifest_version": 2}

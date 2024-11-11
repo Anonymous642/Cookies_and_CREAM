@@ -1,0 +1,1 @@
+{"name": "Fresh Move", "description": "This extension contains todo, main-focus and weather", "version": "1.0.0", "manifest_version": 2, "author": "Arpit", "browser_action": {"default_popup": "index.html", "default_title": "Fresh Move"}, "browser_specific_settings": {"gecko": {"id": "{1b0a4109-b2da-4212-a88c-cb904743b744}"}}}

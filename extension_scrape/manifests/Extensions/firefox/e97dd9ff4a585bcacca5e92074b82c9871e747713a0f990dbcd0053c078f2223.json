@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ReddSafer", "version": "1.0", "description": "Redirects all Reddit URLs in Google search results to ReddSafe.com instead.", "icons": {"48": "icons/reddsafer-48.png", "96": "icons/reddsafer-96.png"}, "content_scripts": [{"matches": ["*://www.google.com/*"], "js": ["reddsafer.js"]}]}

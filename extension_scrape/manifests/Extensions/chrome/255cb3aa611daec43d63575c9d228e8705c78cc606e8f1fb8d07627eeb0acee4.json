@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Covid19 Tracker", "description": "This is a small Covid-19 world tracker", "version": "1.0", "browser_action": {"default_icon": "virus.png", "default_popup": "popup.html"}}

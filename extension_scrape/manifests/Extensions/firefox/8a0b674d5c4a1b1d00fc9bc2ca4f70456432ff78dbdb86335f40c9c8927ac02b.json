@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PNG Grid Background", "version": "0.1", "description": "Inserts the PNG Grid onto png images", "icons": {"64": "64.png"}, "permissions": ["tabs", "file:///*", "*://*/*"], "background": {"scripts": ["background.js"]}, "content_scripts": [{"matches": ["file:///*", "*://*/*"], "js": ["content.js"]}]}

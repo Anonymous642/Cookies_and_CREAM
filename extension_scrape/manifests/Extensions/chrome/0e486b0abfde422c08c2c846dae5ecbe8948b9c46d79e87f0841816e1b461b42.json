@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Stripe Test Cards", "version": "1.0", "description": "A Chrome extension to quickly access Stripe test cards for testing purposes.", "action": {"default_popup": "popup.html"}}

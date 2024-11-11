@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CountDown Timer", "author": "Mohamed Hafez", "version": "1.0.0", "description": "CountDown.", "icons": {"128": "stopwatch.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{e1320e07-3b7a-4185-8ccd-79863c025346}"}}}

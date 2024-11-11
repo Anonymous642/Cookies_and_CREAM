@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GenFanAd IIFE This Creator", "version": "1.0.0", "description": "Uses Chrome's debugging API to create a document.this variable for Genfanad's IIFE", "permissions": ["debugger", "webNavigation"], "background": {"service_worker": "background.js"}, "manifest_version": 3}

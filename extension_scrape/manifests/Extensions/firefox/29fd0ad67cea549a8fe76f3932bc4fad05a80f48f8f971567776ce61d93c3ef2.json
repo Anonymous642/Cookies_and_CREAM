@@ -1,0 +1,1 @@
+{"browser_action": {"default_icon": "images/icon.png", "default_popup": "calculator.html", "default_title": "Simple Calculator"}, "description": "A simple calculator extension for Firefox, designed to help you make quick and efficient calculations on the fly.", "manifest_version": 2, "name": "Simple Calculator", "sandbox": {"pages": ["sandbox.html"]}, "version": "2.0"}

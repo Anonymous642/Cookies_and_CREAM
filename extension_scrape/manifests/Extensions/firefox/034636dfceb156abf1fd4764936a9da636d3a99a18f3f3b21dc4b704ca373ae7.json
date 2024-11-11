@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Netflix Rater", "version": "1.0", "description": "Opens IMDB [shift+I] / Rottentomatoes [shift+R] when hovering over film thumbnail", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.netflix.com/*"], "js": ["netflixRater.js"]}], "browser_specific_settings": {"gecko": {"id": "{599ad2cf-494d-4d4c-93f9-7211406a4369}"}}}

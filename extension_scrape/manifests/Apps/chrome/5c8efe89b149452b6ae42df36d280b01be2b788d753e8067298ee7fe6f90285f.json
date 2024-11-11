@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "W-Fragen Tool", "description": "Passende W-Fragen bei Google finden", "manifest_version": 2, "version": "1", "app": {"launch": {"web_url": "http://www.wrel.de/keywordfragen/"}}, "icons": {"128": "icon_128.png"}}

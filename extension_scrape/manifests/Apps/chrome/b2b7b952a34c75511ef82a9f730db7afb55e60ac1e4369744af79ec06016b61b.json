@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Frogger Extreme", "description": "My Fun Little Version Of Frogger.", "version": "1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js", "main.js"], "persistant": false}}, "icons": {"128": "art/logo.png"}}

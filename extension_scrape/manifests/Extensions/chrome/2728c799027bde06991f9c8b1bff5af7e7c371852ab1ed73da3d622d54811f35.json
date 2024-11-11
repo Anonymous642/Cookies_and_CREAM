@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bling Platform", "description": "This extension will allow click to call and add data to CRM", "version": "1.0", "action": {"default_icon": "bling_icon.png"}, "background": {"service_worker": "background.js"}, "permissions": ["tabs", "scripting"], "host_permissions": ["https://*/*"]}

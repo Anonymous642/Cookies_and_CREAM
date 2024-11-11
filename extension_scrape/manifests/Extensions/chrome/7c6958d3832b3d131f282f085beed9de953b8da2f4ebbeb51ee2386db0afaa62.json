@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Modify Gmail Layout", "version": "0.2", "description": "Expand Gmail layout to see all your folders and lables.", "content_scripts": [{"matches": ["https://mail.google.com/mail/u/*"], "js": ["content.js"]}]}

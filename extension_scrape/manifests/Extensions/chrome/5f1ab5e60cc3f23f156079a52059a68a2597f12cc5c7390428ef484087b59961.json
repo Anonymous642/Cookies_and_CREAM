@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Sponsored Blocker for Car.gr", "version": "0.3", "description": "Sponsored Blocker for Car.gr!", "permissions": [], "content_scripts": [{"matches": ["https://*.car.gr/*"], "js": ["jquery.js", "content.js"]}]}

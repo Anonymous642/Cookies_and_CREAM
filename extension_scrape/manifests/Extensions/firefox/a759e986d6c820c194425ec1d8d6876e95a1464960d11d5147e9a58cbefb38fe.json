@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "\u5c0b\u627e\u53f0\u8a9e", "description": "\u4f7f\u7528\u627e\u53f0\u8a9e\u7db2\u7ad9\u627e\u53f0\u8a9e", "author": "poligen", "homepage_url": "https://github.com/poligen/taigi-extension", "version": "0.1.1", "icons": {"18": "icons/48.png", "36": "icons/96.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}}

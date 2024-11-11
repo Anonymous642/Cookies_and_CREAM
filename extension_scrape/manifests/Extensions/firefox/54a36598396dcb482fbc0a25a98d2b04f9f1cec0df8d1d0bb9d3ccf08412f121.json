@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CalmDown", "version": "1.1", "description": "Change ALL CAPS tweets on twitter.com to lowercase.", "icons": {"48": "icons/calmdown-48.png"}, "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["calmdown.js"]}]}

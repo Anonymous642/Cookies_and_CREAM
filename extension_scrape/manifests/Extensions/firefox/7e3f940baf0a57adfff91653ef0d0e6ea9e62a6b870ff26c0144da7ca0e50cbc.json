@@ -1,0 +1,1 @@
+{"name": "BetterNotionRTL", "version": "1.0", "description": "Aligns the text in the correct way on https://notion.so", "manifest_version": 2, "permissions": ["tabs", "*://*.notion.so/*"], "content_scripts": [{"matches": ["*://*.notion.so/*"], "js": ["index.js"], "run_at": "document_idle"}], "icons": {"48": "icons/betterrtlicon.png"}}

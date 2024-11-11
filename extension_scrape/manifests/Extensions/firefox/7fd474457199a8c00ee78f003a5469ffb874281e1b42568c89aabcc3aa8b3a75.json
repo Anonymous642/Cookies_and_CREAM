@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MuteTab", "version": "0.0.2", "description": "", "applications": {"gecko": {"id": "mutetab@mozilla.org", "strict_min_version": "45.0"}}, "background": {"scripts": ["background.js"]}}

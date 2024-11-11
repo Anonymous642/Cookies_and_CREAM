@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Dolar Blue", "description": "Precio del dolar en Argentina.", "version": "1.2", "action": {"default_popup": "index.html", "default_icon": "./dolar.png"}, "browser_specific_settings": {"gecko": {"id": "joa22714@gmail.com"}}}

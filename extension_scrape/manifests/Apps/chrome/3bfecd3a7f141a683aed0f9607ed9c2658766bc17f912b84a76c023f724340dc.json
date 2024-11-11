@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Good Fish, Bad Fish", "version": "1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "homepage_url": "http://buxle.com", "app": {"urls": ["http://buxle.com/game/good-fish-bad-fish"], "launch": {"web_url": "http://buxle.com/game/good-fish-bad-fish"}}}

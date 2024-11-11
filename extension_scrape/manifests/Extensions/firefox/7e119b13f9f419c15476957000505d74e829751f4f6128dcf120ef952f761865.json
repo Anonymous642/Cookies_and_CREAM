@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "zajel", "version": "1.0", "description": "fix the height and the width of zajel.najah.edu", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://zajelbs.najah.edu/*"], "js": ["zajel.js"]}]}
