@@ -1,0 +1,128 @@
+theory MonitoredCookie
+begin
+
+builtins: hashing, symmetric-encryption
+
+////////// PROTOCOL: PART A - Creating a Monitored Cookie //////////
+
+rule CreateServer: // Make a server
+    [Fr(~serverLTK)]
+    -->
+    [!LTK($server, ~serverLTK)]
+
+rule Browser_1[role="Browser"]:
+    [Fr(~browserKey)]
+    --[Msg1_sent($browser, $server)]->
+    [Browser_1($browser, $server, ~browserKey), TLS1($browser, $server, ~browserKey)]
+
+
+rule Server_1[role="Server"]:
+	let
+	  ct_out = senc(~browserKey, ~serverLTK)
+	  mac_out = h(~id,ct_out,~serverLTK)
+	in
+    [Fr(~id),Fr(~userState),!LTK($server, ~serverLTK), TLS1($browser, $server, ~browserKey)]
+	--[
+		Msg2_sent($browser, $server),
+		CreatedCookiePersistedSession($browser, $server, ct_out, ~userState)
+	]->
+    [
+		Server_1($server,~serverLTK, ~id, ~userState),
+		TLS2($browser, $server, ~id,ct_out,mac_out) // the cookie
+	]
+
+
+rule Browser_2[role="Browser"]:
+    [
+		Browser_1($browser, $server, ~browserKey),
+		TLS2($browser, $server, id, cookie, cookie_mac)
+	]
+    --[
+		Msg2_rcv($browser, $server)
+	]->
+    [Browser_2($browser, $server, ~browserKey, id, cookie, cookie_mac),
+	//// EXTENSION COOKIE THEFT: Send cookie and all associated info to Adv, except for browser key as early as browser has them.
+	 Out(<id, cookie, cookie_mac>)
+	]
+
+
+////////// PROTOCOL: PART B - Server Receiving a Monitored Cookie //////////
+
+
+rule Browser_3[role="Browser"]:
+	let
+	  browser_mac = h('b3', cookie, cookie_mac, ~browserKey)
+	in
+    [
+		Browser_2($browser, $server, ~browserKey, id, cookie, cookie_mac)
+	]
+    --[
+		BrowserSentCookie($browser,$server, cookie)
+	]->
+    [Out(<id, cookie, cookie_mac, browser_mac>), Browser_3($browser, $server, id, ~browserKey)]
+
+
+
+rule Server_2[role="Server"]:  //Note: In a cookie protocol this must be stateless, except for the Server's LTK (and user data sent upon authentication)
+	let
+		browserKey = sdec(cookie,~serverLTK)
+		ct = senc(~userState,browserKey)
+		mac = h('last',ct,browserKey)			
+	in
+    [
+		Server_1($server,~serverLTK, ~uid, ~userState),
+		In(<id, cookie, cookie_mac, browser_mac>)
+	]
+    --[	
+		Eq(h('b3',cookie, cookie_mac, browserKey), browser_mac), //CREAM in action
+		Eq(h(id,cookie,~serverLTK), cookie_mac),
+		Eq(id, ~uid),
+		CookieAccessAllowed($server,cookie,~uid,~userState)
+	]->
+    [Out(<ct,mac>)]
+
+//Getting data back from server based on the cookie just for fun
+rule Browser_4[role="Browser"]:
+	let
+		userdata = sdec(ct, ~browserKey)
+		mac_check = h('last',ct, ~browserKey)
+	in
+    [
+		Browser_3($browser, $server, id, ~browserKey),
+		In(<ct,mac>)
+	]
+    --[
+		Eq(mac, mac_check),
+		RcvUserData($browser, $server, id, userdata)
+	]->
+    []
+
+
+//////////RESTRICTIONS//////////////////////
+
+restriction Equality:
+	"All x y #i. Eq(x,y)@i ==> x=y"  // for MAC CHECKS
+
+//////////LEMMAS//////////////////////
+
+lemma Sanity:
+  exists-trace
+  " Ex S B id userdata #i.
+		RcvUserData(S,B,id,userdata)@i
+  "
+
+// No leakage, as long as data sent back after the cookie is encrypted.
+lemma browserKeySecrecy:
+  all-traces
+  " All S B cookie userdata #i.
+		CreatedCookiePersistedSession(B, S, cookie, userdata)@i ==> not (Ex #j. K(userdata)@j)
+  "
+
+lemma sameBrowserOnly:
+  all-traces
+  " All S userdata cookie id #i.
+		CookieAccessAllowed(S, cookie, id, userdata)@i ==>
+			(Ex B1 B2 #j #k. CreatedCookiePersistedSession(B1, S, cookie, userdata)@j & BrowserSentCookie(B2,S,cookie)@k & B1=B2)
+  "
+
+end
