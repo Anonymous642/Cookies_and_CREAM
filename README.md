@@ -376,23 +376,23 @@ Similarly taking the session token and adding it to another browser will result 
 
 ### Formal Verification
 
-To run the verification of the CREAM's Monitored attribute protocol you will first need to install the Tamarin Prover. Instructions for installing Tamarin can be found on there (website)[https://tamarin-prover.com/install.html]. Once installed, navigate to the `formal_verification` directory and run:
+To run the verification of the CREAM's Monitored attribute protocol, you will first need to install the Tamarin Prover. Instructions for installing Tamarin can be found on their [website](https://tamarin-prover.com/install.html). Once installed, navigate to the `formal_verification` directory and run:
 
     tamarin-prover interactive .
     
-This command will start the Tamarin server and load the `monitored_cookie.spthy` model. Once ready, the terminal will display the link `http://127.0.0.1:3001`. Navigating to the link will take you to the servers landing page. On the page you will see table of theories that can be verified. As only one model exists in the `formal_verification` directory, the only theory present should be `MonitoredCookie`. Select it.
+This command will start the Tamarin server and load the `monitored_cookie.spthy` model. Once ready, the terminal will display the link `http://127.0.0.1:3001`. Navigating to the link will take you to the server's landing page. On the page, you will see a table of theories that can be verified. As there is only one model in the `formal_verification` directory, the only theory present should be `MonitoredCookie`. Select it.
 
 <p align="center"><img src="./img/tamarin_landing.png"></p>
 
-After clicking the theory, you will be taken to new page divided into two panes. The left pane displays multiple options to view the underlying model, rules, Tamarin's rewritten/deconstructed rules, as well as the lemmas present in the model. The right pane is where the information for each selection is displayed. 
+After clicking the theory, you will be taken to a new page divided into two panes. The left pane displays multiple options to view the underlying model, rules, Tamarin's rewritten/deconstructed rules, as well as the lemmas present in the model. The right pane is where the information for each selection is displayed. 
 
 <p align="center"><img src="./img/tamarin_theory.png"></p>
 
-To verify that a lemma holds, click the blue `sorry` under the lemma. The right pane will update to display the available options for proving the lemma as well as the current state of the proof. Proofs can be performed manually, however for ease select `a. autoprove`. As the name suggests this will automatically perform the verification for you. 
+To verify that a lemma holds, click the blue `sorry` under the lemma. The right pane will update to display the available options for proving the lemma as well as the current state of the proof. Proofs can be performed manually, however, for ease, select `a. autoprove`. As the name suggests, this will automatically perform the verification for you. 
 
 <p align="center"><img src="./img/tamarin_autoprove.png"></p>
 
-After a few seconds the verification should finish and a visualization of the proof will appear in the right pane. Similarly the lemma in the left pane will be updated with each step of the proof and will be highlighted green to indicate that the lemma holds.
+After a few seconds, the verification should finish and a visualization of the proof will appear in the right pane. Similarly, the lemma in the left pane will be updated with each step of the proof and will be highlighted green to indicate that the lemma holds.
 
 <p align="center"><img src="./img/tamarin_proved.png"></p>
 
