@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Chinese RMB Converter", "version": "1.0", "description": "Convert numerical amounts to Chinese RMB uppercase format", "icons": {"128": "icon128.png"}, "action": {"default_popup": "popup.html"}, "permissions": []}

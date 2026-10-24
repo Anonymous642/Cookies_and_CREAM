@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "X to BlueSky Redirector", "version": "1.0", "description": "Automatically redirects from X to BlueSky using a background script.", "permissions": ["tabs"], "host_permissions": ["https://x.com/*"], "background": {"service_worker": "background.js"}}

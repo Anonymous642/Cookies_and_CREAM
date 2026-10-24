@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Celestial Inferno", "version": "1.0.1", "description": "A breathtaking browser theme inspired by the cosmic majesty of a fiery celestial event", "icons": {"128": "1734167.png"}, "permissions": ["geolocation"], "chrome_url_overrides": {"newtab": "index.html"}}

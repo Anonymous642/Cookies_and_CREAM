@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Save Your Tabs", "version": "0.7.1", "description": "Never lose your tabs again! Save your tabs on only click!", "action": {"default_popup": "popup.html", "default_icon": "img/OIG4.png"}, "permissions": ["bookmarks", "tabs"]}

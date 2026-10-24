@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ORSR ICO FINSTAT CLICK", "version": "1.0", "description": "Replaces ICO text with finstat URL", "icons": {"32": "icon.png"}, "content_scripts": [{"matches": ["https://www.orsr.sk/*", "https://sluzby.orsr.sk/*"], "js": ["urlChange.js"], "run_at": "document_idle"}]}

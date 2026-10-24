@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "azubiheft-paste", "version": "0.0.2", "icons": {"56": "icons/OkayChampHypers@56.png"}, "content_scripts": [{"matches": ["*://*.azubiheft.de/*"], "js": ["azubiheft-paste.js"]}], "browser_specific_settings": {"gecko": {"id": "{db11fb84-08a6-4a76-890d-29db29bb3196}"}}}

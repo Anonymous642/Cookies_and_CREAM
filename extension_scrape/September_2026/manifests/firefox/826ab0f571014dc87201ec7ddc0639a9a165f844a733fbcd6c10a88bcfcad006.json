@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "6ffgroup", "version": "1.0.0", "description": "Addon 6ffgroup", "browser_specific_settings": {"gecko": {"id": "6ffgroup@addons.mozilla.org", "strict_min_version": "109.0", "data_collection_permissions": {"required": ["none"]}}}, "icons": {"48": "icon.png"}}

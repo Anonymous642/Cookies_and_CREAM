@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Redirect to Strims", "version": "0.1.3", "description": "This redirects you to strims.gg/{platform}/{name}", "icons": {"48": "icons/icon-48.png"}, "browser_action": {"default_icon": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}, "default_title": "Redirect to Strims"}, "background": {"scripts": ["background.js"]}, "permissions": ["tabs"]}

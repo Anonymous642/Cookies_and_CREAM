@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Download Beatmaps From osu.ppy.sh", "version": "1.0", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://osu.ppy.sh/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{e70f937f-623a-459e-8713-df917947bbab}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Issues/PRs user icon for GitHub", "description": "An extension to show author icon to GitHub's issues and pull requests pages.", "version": "0.2.0", "content_scripts": [{"matches": ["https://github.com/*"], "js": ["content_scripts.js"]}]}

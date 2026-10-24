@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Acronym Maker", "version": "1.0", "description": "Turn any word into a funny or epic acronym instantly!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "roykeelinegan3550@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

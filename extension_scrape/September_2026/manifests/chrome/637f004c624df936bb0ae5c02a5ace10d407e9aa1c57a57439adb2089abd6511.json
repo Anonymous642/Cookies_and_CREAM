@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Syllabus", "description": "\u30b7\u30e9\u30d0\u30b9\u691c\u7d22", "version": "1.0.0", "manifest_version": 3, "content_scripts": [{"matches": ["https://www5.fukuchiyama.ac.jp/Gakusei/web/Syllabus/WebSyllabusKensaku/UI/WSL_SyllabusKensaku.aspx"], "js": ["Sample.js"], "run_at": "document_end"}]}

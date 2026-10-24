@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Magic 8 Ball", "version": "1.0", "description": "A magic 8 ball for all the answers you need", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": []}

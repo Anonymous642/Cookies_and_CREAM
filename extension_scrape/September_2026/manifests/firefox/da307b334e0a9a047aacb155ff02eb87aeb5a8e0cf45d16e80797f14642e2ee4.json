@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Rock Paper Scissors, SHOT!", "version": "1.0", "description": "Just a silly game to test your luck.", "browser_action": {"browser_style": true, "default_title": "Rock! Paper! Scissors!", "default_popup": "game.html"}, "icons": {"128": "ico.png"}}

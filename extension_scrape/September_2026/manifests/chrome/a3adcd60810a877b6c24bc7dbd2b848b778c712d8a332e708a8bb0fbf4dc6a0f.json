@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Vintage Email Signature Helper", "version": "1.0.0", "description": "Suggest simple email signature templates in an antique, scroll-inspired popup interface.", "action": {"default_title": "Email signature suggestion", "default_popup": "popup.html"}, "icons": {"128": "icon-128.png"}}

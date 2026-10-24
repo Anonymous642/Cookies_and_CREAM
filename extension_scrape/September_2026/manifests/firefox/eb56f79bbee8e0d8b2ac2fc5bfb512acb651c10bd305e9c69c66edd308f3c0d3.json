@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "USD to JPY Converter", "version": "1.0", "description": "Convert US Dollar (USD) to Japanese Yen (JPY) instantly.", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/*"], "browser_specific_settings": {"gecko": {"id": "{48722127-9e79-475e-b717-749b1758d7c9}"}}}

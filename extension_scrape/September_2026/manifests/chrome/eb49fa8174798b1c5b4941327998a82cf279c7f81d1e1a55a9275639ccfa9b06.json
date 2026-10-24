@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Which Factory", "description": "Base Level Extension", "version": "1.1", "manifest_version": 3, "action": {"default_icon": "hello_extensions.png"}, "background": {"service_worker": "background.js"}}

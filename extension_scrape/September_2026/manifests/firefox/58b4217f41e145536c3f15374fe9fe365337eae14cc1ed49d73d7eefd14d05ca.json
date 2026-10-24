@@ -1,0 +1,1 @@
+{"action": {"default_popup": "src/popup/index.html"}, "manifest_version": 3, "name": "Fusion VAA Trip Finder", "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "piovtom@gmail.com", "strict_min_version": "58.0"}}, "version": "1.0.3"}

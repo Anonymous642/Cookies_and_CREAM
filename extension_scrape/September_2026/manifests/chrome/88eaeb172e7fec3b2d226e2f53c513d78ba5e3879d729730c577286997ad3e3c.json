@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Katana Mouse", "description": "", "version": "1.0", "icons": {"128": "icon128.png"}, "content_scripts": [{"js": ["katana.js"], "css": ["katana.css"], "matches": ["<all_urls>"]}], "web_accessible_resources": [{"resources": ["pointer.png"], "matches": ["<all_urls>"]}]}

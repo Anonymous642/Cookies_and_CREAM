@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "tads", "description": "this extension will depreciate", "version": "1.0.2resigned1", "content_scripts": [{"matches": ["https://www.twitch.tv/*"], "js": ["scripot.js"]}], "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{9befa4c5-d6f8-4bb4-b114-5aa37ca97dc5}"}}}

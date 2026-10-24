@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Spotify AdMute", "version": "7.3", "description": "Mutes Spotify web player during ads", "content_scripts": [{"matches": ["*://open.spotify.com/*"], "js": ["admute.js"]}]}

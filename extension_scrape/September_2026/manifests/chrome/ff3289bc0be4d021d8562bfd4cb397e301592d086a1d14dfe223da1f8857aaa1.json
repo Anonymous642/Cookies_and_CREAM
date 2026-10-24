@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Unix time", "description": "Displays current UNIX milliseconds time", "version": "1.0.0024", "manifest_version": 3, "action": {"default_popup": "index.html", "default_icon": "unix.png"}, "icons": {"16": "unix.png", "32": "unix.png", "48": "unix.png", "128": "unix.png"}}

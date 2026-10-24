@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Better ITV controls", "version": "1.0", "description": "Allows skipping forward/back and pausing using the spacebar and arrow keys respectively.", "content_scripts": [{"matches": ["*://*.itv.com/*"], "js": ["player.js"]}], "permissions": ["*://itv.com/*"], "browser_specific_settings": {"gecko": {"id": "{83d445fe-6835-4187-8454-b527f7bf4350}"}}}

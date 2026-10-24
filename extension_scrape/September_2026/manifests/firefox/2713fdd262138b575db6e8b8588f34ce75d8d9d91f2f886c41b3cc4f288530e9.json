@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ports 1-1023", "version": "1.0", "description": "A static reference of well-known ports (1-1023) in sidebar", "sidebar_action": {"default_title": "Ports 1-1023", "default_panel": "sidebar.html"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{9d75cdc5-5077-4676-ac98-0f16ae7185ad}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Princess 2048", "version": "1.0.0", "description": "Play Princess 2048 in a focused popup.", "action": {"default_title": "Princess 2048", "default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}}

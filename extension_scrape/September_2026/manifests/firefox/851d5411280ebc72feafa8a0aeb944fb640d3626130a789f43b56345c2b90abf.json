@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Nasa Picture of the Day", "version": "1.2", "description": "Adds the NASA picture of the day to your google background.", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"48": "icons/npod_icon.jpg"}, "browser_specific_settings": {"gecko": {"id": "{db456fbd-c72d-4869-9dd1-cd03fec7b045}"}}}

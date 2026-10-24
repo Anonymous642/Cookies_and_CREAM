@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "That's Your Jam", "description": "Find your favorite songs and see if you can remember all their lyrics!", "version": "0.0.0.2", "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://www.thatsyourjam.com/"], "launch": {"web_url": "https://www.thatsyourjam.com/"}}}

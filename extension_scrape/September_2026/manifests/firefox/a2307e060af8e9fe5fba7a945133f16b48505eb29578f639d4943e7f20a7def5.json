@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Renamer!", "version": "1.1", "description": "Rename a Tab with just the right click menu!.", "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{f28800cd-0c73-4f1e-8571-e23461a899ab}"}}}

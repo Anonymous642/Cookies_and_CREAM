@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Make scrollbars thicker", "version": "1.0.1", "description": "Makes the scrollbars displayed in YouTube Studio thicker.", "content_scripts": [{"matches": ["https://studio.youtube.com/*"], "css": ["style.css"]}], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{ea944339-1d8c-4a48-bd3a-6ecf730eb50e}"}}}

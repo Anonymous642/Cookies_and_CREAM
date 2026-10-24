@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Vei\u00f0ibann", "version": "0.0.0.1", "description": "Betri fyrirsagnir fyrir mbl.is.", "icons": {"48": "icon48.png", "96": "icon96.png", "128": "icon128.png"}, "content_scripts": [{"matches": ["https://mbl.is/*", "https://www.mbl.is/*"], "js": ["content.js"]}]}

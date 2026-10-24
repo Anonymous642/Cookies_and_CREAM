@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab Shamer", "version": "1.2", "description": "Counts your open tabs and judges you accordingly.", "permissions": ["tabs"], "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"128": "icon128.png"}}

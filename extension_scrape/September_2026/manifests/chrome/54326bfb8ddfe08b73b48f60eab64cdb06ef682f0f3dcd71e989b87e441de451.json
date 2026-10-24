@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Calculateur de Cat\u00e9gorie de Revenu", "version": "1.0", "description": "Extension pour calculer la cat\u00e9gorie de revenu selon MaPrimeR\u00e9nov'", "action": {"default_popup": "popup.html"}, "permissions": []}

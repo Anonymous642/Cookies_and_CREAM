@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "__MSG_searchExtensionName__", "description": "__MSG_searchExtensionDescription__", "version": "1.0.2", "default_locale": "en", "icons": {"128": "images/logo128.png"}, "chrome_url_overrides": {"newtab": "searchPage.html"}, "host_permissions": ["https://www.symbaloo.com/"]}

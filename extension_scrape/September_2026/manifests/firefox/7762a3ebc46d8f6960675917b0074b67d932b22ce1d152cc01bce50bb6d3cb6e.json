@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "CSRF PoC Generator", "version": "1.1", "description": "Generate HTML PoC from raw HTTP form requests.", "action": {"default_popup": "popup.html"}, "permissions": ["clipboardWrite"], "browser_specific_settings": {"gecko": {"id": "csrf-poc-generator@abhinav.dev", "strict_min_version": "128.0"}}}

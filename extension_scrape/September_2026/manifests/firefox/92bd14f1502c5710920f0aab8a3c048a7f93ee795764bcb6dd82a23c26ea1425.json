@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YYT Price Checker", "version": "1.0", "permissions": ["webRequest", "https://yuyu-tei.jp/*"], "description": "Checks prices on yyt", "content_scripts": [{"matches": ["*://cardfight.fandom.com/*"], "js": ["background.js"]}], "browser_specific_settings": {"gecko": {"id": "{98b6e18d-5b63-4a9e-aef2-3cdaffabb005}"}}}

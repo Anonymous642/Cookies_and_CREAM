@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Nette debug mode", "version": "1.3", "description": "Nette framework debug mode", "permissions": ["cookies", "activeTab"], "action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "manifest_version": 3, "incognito": "split", "host_permissions": ["*://*/*"]}

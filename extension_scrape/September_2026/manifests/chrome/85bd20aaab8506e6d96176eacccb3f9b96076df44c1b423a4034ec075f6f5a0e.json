@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Schedule with Google Calendar", "version": "1.0", "description": "Create Google Calendar events from the current tab", "permissions": ["tabs"], "action": {"default_title": "Schedule this page", "default_icon": "icon.png"}, "background": {"service_worker": "background.js"}}

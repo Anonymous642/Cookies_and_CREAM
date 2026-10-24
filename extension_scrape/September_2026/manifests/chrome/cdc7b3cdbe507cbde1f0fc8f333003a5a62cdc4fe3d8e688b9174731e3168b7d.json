@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Soft Unit Converter", "version": "1.0.0", "description": "A gentle, minimalist unit converter for temperature, weight, and length. Works offline.", "action": {"default_title": "Unit Converter", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

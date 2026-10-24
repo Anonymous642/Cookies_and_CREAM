@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Halloween Solitiare", "version": "1.0.0.2", "manifest_version": 2, "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.halloweensolitaire.com/ChromeHalloweenSolitaire.php"], "launch": {"web_url": "http://www.halloweensolitaire.com/ChromeHalloweenSolitaire.php"}}}

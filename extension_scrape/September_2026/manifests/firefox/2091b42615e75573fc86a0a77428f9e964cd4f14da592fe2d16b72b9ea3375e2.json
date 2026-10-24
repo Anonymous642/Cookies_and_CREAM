@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Minilink Extension", "version": "1.2", "description": "Forkort dine links med Minilink.dk", "permissions": ["tabs", "activeTab", "clipboardWrite"], "host_permissions": ["<all_urls>"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{111e4567-e89b-12d3-a456-426614174000}"}}}

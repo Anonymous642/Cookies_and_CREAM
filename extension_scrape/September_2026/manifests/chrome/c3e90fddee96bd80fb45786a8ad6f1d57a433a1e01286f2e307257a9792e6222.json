@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HoverLink", "version": "1.0", "description": "Preview links without opening.", "action": {"default_popup": "popup.html", "default_icon": "hoverlink.png"}, "icons": {"128": "hoverlink.png"}, "permissions": [], "host_permissions": ["<all_urls>"]}

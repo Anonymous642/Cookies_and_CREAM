@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Clean Switch", "version": "2.3", "description": "Bascule YouTube \u2192 yout-ube.com sans cookies + bouton 'Nous soutenir' (fix popup logic).", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"]}], "icons": {"128": "icon.png"}}

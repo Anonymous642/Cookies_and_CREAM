@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Transparent Anime Quote Generator", "version": "1.0.0", "description": "Display random anime quotes in a clean, transparent popup.", "icons": {"128": "icon128.png"}, "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}}

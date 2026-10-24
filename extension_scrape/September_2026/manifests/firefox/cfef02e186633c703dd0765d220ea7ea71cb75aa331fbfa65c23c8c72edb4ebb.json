@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reveal Password", "version": "1.0", "description": "Add a toggle button to show/hide password fields.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{b4d1ceaa-59bf-407a-952f-47ff0c6edfff}"}}}

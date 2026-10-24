@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ice", "version": "1.0", "description": "Ice is Cool", "icons": {"48": "icons/ice-cube.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/ice-cube.png", "default_title": "Ice", "default_popup": "popup/index.html"}, "browser_specific_settings": {"gecko": {"id": "{dd711393-36ca-4ada-a441-9dbf90b45d6c}"}}}

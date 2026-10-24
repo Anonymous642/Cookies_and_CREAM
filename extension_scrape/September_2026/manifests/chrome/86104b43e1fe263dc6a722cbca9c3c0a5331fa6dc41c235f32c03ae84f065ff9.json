@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Decision Helper", "version": "1.0", "description": "Helps you decide by shuffling between 3 choices", "action": {"default_popup": "build/index.html"}}

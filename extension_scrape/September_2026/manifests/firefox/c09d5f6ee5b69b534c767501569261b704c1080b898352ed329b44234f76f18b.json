@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gmail Row Highlihter", "version": "1.2resigned1", "description": "Highlights gmail rows on mouse over.", "content_scripts": [{"matches": ["*://mail.google.com/*"], "css": ["highlight.css"]}], "browser_specific_settings": {"gecko": {"id": "{488f97e9-93ff-4b89-9575-3ec85cb874fa}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitter-Debloat", "version": "1.0", "description": "Removes undesirable tabs from twitter (Grok, premium, subscribe...)", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*.x.com/*"], "js": ["twitter-debloat.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{d839b751-bab5-4b5a-983d-684b471c08bf}"}}}

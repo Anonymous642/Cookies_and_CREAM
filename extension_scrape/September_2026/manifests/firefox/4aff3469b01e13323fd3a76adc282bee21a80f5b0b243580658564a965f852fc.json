@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Super Extension 8-en-1", "version": "1.0", "description": "Outils utiles, testeur PC, s\u00e9curit\u00e9 et jeux !", "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "super-extension-tool@mon-domaine.com", "data_collection_permissions": {"required": ["none"]}}}}

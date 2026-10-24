@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "videoFast", "version": "1.5", "description": "Adjust video playback speed seamlessly with centralized server authentication tracking.", "permissions": ["activeTab", "scripting", "storage"], "host_permissions": ["https://abtechpoint.com/*"], "action": {"default_popup": "popup.html"}}

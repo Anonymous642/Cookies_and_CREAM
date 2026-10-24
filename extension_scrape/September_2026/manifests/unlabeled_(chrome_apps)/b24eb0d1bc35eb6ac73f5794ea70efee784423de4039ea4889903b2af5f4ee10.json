@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Tic-Tac-Toe 3D", "version": "1.0", "manifest_version": 2, "description": "Classic multiplayer Tic-Tac-Toe in 3D", "icons": {"16": "tictactoe3d16.png", "128": "tictactoe3d128.png"}, "app": {"launch": {"local_path": "index.html"}}}

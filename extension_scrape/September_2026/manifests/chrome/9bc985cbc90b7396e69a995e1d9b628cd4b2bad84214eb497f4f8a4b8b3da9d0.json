@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Unemploymoment", "version": "0.0.1", "description": "A countdown timer for your new tab page.", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"16": "assets/icons/clock.png", "48": "assets/icons/clock.png", "128": "assets/icons/clock.png"}}

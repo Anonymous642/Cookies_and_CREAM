@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "StackCT Tab Renamer", "version": "1.0", "description": "Renames the tab to the current sheet name in StackCT", "content_scripts": [{"matches": ["*://go.stackct.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

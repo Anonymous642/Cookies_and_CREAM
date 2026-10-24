@@ -1,0 +1,1 @@
+{"description": "OOF clicker play oof clicker online/offline", "manifest_version": 2, "name": "oof clicker", "version": "1.1.0", "homepage_url": "https://github.com/techtimefor", "icons": {"48": "icons/page-48.png"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icons/page-32.png"}}

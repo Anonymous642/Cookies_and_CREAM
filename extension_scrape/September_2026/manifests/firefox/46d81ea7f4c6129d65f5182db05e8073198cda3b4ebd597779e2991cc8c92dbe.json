@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Penalty Suggestor", "version": "1.0", "description": "Suggests random penalties for game losers with a military-themed interface.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "ayalah7012000womgg@hotmail.com"}}}

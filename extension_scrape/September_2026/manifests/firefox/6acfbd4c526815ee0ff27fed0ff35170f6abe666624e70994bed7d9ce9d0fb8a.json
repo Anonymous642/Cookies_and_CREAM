@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "YouTube Thingy", "version": "1.0", "permissions": ["storage", "tabs", "scripting", "activeTab"], "host_permissions": ["*://*.youtube.com/*"], "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "skip-tube@tozaringdev.info", "data_collection_permissions": {"required": ["none"]}}}}

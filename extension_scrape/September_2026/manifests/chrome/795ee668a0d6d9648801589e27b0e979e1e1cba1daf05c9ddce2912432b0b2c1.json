@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "My Clock Screen", "version": "1.1", "description": "Beautiful time and weather display that replaces your new tab page", "permissions": ["geolocation"], "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"16": "icon16.png", "48": "icon16.png", "128": "icon16.png"}}

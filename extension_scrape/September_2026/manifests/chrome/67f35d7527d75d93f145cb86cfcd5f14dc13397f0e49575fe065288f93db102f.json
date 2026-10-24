@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Copy Text as Link", "version": "1.0", "description": "Copies selected text as a clickable hyperlink to the current page.", "permissions": ["contextMenus", "activeTab", "scripting"], "background": {"service_worker": "background.js"}}

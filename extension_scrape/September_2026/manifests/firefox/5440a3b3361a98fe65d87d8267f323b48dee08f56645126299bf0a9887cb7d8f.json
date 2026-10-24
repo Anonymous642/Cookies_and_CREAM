@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Web Whatsapp Audio Amplify", "version": "1.0.0", "icons": {"48": "icons/icon48.png", "96": "icons/icon96.png"}, "content_scripts": [{"matches": ["https://web.whatsapp.com/"], "css": ["style.css"], "js": ["content.js"]}]}

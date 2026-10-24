@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TrapLess", "description": "Don't let the internet trap you!", "version": "1.0.1", "manifest_version": 3, "content_scripts": [{"matches": ["*://*.linkedin.com/*", "*://*.youtube.com/*"], "js": ["bundle.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "peepoCozy", "version": "1.0.0", "description": "Allows you to customize Twitch's video player: zoom and pan.", "icons": {"32": "icons/1.png", "64": "icons/2.png", "96": "icons/3.png", "128": "icons/4.png"}, "content_scripts": [{"js": ["main.js"], "matches": ["*://*.twitch.tv/*"]}]}

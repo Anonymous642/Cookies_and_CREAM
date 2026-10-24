@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute Social Bio Maker", "version": "1.0.0", "description": "T\u1ea1o bio profile m\u1ea1ng x\u00e3 h\u1ed9i theo phong c\u00e1ch cute.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}, "icons": {"128": "icon128.png"}}

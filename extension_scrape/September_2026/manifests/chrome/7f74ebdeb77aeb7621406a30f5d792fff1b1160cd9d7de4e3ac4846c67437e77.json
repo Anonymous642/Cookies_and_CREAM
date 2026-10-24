@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Soft Word Counter", "version": "1.0.0", "description": "Count words and characters on the current webpage or selected text.", "action": {"default_title": "Soft Word Counter", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}, "permissions": ["activeTab", "scripting"]}

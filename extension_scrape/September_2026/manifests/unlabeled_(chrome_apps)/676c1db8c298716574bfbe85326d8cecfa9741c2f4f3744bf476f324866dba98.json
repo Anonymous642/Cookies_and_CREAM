@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "app": {"launch": {"web_url": "http://www.learncafe.com"}}, "description": "Learncafe - Nunca pare de aprender", "icons": {"128": "128x128_rounded2.png"}, "name": "Learncafe", "version": "0.1", "short_name": "Learncafe"}

@@ -1,0 +1,1 @@
+{"description": "Pikachu in a dynamic, action-packed scene", "manifest_version": 2, "chrome_url_overrides": {"newtab": "index.html"}, "name": "Pikachu's Electric Surge", "version": "1.0", "browser_specific_settings": {"gecko": {"id": "{7acdba5d-b6df-4c2b-a965-9b49cab4d7c3}"}}}

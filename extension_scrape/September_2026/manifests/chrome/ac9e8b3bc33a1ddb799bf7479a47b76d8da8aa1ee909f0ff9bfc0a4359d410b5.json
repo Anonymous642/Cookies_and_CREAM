@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gemini & ChatGPT Split View", "version": "1.0", "description": "Opens Gemini and ChatGPT in separate windows, side-by-side.", "action": {"default_popup": "popup.html"}, "permissions": ["windows"]}

@@ -1,0 +1,1 @@
+{"description": "Remove anti ADblocker without reload the page!", "manifest_version": 2, "name": "Anti-X", "version": "0.3resigned1", "homepage_url": "https://succi23.github.io/", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{f4d73a62-336b-4b0c-a554-ac3bc16677f0}"}}}

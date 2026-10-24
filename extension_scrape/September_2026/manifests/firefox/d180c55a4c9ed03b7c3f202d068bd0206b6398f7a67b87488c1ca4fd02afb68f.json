@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "gdocs-view-mode", "version": "1.0", "permissions": [], "homepageURL": "https://github.com/jabielecki/firefox-gdocs-view", "content_scripts": [{"matches": ["https://docs.google.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{e4041048-0c12-4534-877b-72617bed785b}"}}}

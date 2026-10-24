@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bring Back Leetcode Dislikes", "version": "1.4", "browser_specific_settings": {"gecko": {"id": "bring-back-leetcode-dislikes@rudransh-shrivastava.github.io"}}, "description": "Brings back leetcode dislikes", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.leetcode.com/*"], "js": ["index.js"]}]}

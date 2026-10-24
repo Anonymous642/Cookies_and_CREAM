@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Kuai APK Downloader", "version": "1.0", "description": "Search APK from website", "action": {"default_popup": "popup.html"}, "permissions": ["tabs"], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "kuaiapk@yourdomain.com", "data_collection_permissions": {"required": ["none"], "optional": []}}}}

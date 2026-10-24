@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "BModel Random Photo", "version": "1.0.0", "description": "Affiche une photo aleatoire du premier modele disponible sur bmodel.ch/model-agency.", "action": {"default_title": "BModel Photo", "default_popup": "popup.html"}, "host_permissions": ["https://bmodel.ch/*"]}

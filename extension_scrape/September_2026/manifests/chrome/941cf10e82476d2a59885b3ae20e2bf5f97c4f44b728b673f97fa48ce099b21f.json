@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MyEasyBusiness - Scraper", "version": "1.0", "description": "MyEasyBusiness - Scraper", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}, "icons": {"16": "meb-logo-small.png", "48": "meb-logo-medium.png", "128": "meb-logo.png"}}

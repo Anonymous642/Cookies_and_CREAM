@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Thumbnail Blackout", "version": "1.1", "description": "Blacks out the thumbnail images on YouTube home page and suggested videos.", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "css": ["style.css"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto_Group", "version": "1.0", "description": "Automaticly make tab groups for webpages of same domain", "permissions": ["tabs", "tabGroups", "<all_urls>"], "background": {"scripts": ["auto_group.js"]}, "browser_specific_settings": {"gecko": {"id": "auto_group@example.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple QR Code Generator", "version": "1.0", "description": "Generate QR from URL.", "action": {"default_popup": "popup.html", "default_icon": "simple_qr_code_generator.png"}, "icons": {"128": "simple_qr_code_generator.png"}, "permissions": ["tabs", "activeTab"]}

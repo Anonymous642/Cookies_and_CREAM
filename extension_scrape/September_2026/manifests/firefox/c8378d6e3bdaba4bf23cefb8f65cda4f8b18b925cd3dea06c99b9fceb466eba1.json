@@ -1,0 +1,1 @@
+{"name": "Signaturen auf reddit", "version": "0.1", "description": "F\u00fcgt allen Kommentaren auf reddit Signaturen wie in den guten alten Zeiten hinzu.", "manifest_version": 2, "content_scripts": [{"js": ["content.js"], "matches": ["https://*.reddit.com/*"]}]}

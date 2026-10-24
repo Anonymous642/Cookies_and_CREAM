@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Text to Uppercase - Alt+C", "version": "1", "description": "Convert selected text to uppercase with Alt+C", "permissions": ["activeTab", "scripting"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{28fe6a3b-b075-4e1d-a9a9-8ce0b35332d9}"}}}

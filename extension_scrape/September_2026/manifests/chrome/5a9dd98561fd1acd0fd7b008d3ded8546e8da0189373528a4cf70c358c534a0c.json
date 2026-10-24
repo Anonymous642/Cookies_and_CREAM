@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Retro Video Effect", "version": "3.0", "permissions": ["activeTab", "scripting", "storage"], "action": {"default_title": "Retro Video Effect", "default_icon": {"48": "128.png"}}, "background": {"service_worker": "background.js"}}

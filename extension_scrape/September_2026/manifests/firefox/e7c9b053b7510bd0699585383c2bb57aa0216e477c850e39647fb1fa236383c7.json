@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mirror Video context menu", "description": "Make videos mirrored or rotated with context menu. Mirror horizontally and vertically, rotates in 90deg.", "version": "2.0", "background": {"scripts": ["background.js"]}, "icons": {"48": "icons/mirror-48.png", "96": "icons/mirror-96.png"}, "permissions": ["contextMenus", "activeTab"]}

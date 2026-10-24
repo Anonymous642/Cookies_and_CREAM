@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fandom Wiki Recommendations Remover", "version": "1.0", "description": "Frees space for wiki main content by hiding recommendations sidebar", "icons": {"48": "icons/appico.png"}, "content_scripts": [{"matches": ["*://*.fandom.com/*"], "js": ["blockAside.js"]}], "browser_specific_settings": {"gecko": {"id": "FandomWikiRecRemover@addon.com"}}}

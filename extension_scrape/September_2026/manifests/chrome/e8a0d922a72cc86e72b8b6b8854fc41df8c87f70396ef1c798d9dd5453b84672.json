@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Prueba Extensi\u00f3n", "version": "1.0.0", "description": "Prueba implementaci\u00f3n extensiones de chrome", "manifest_version": 3, "author": "Emmanuel Rubado", "action": {"default_popup": "index.html", "default_title": "Prueba Exten"}}

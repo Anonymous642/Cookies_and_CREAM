@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Alouette", "description": "1\u00e8re Radio R\u00e9gionale de France !", "author": "SAS Alouette", "manifest_version": 2, "version": "1.0.0.0", "icons": {"128": "128.png"}, "app": {"urls": ["http://www.alouette.fr/"], "launch": {"web_url": "http://www.alouette.fr/"}}}

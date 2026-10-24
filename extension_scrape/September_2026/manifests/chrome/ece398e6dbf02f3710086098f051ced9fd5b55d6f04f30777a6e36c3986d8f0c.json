@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Colorful Quote Pop", "description": "Displays a cool and meaningful English quote each time you open the popup.", "version": "1.0", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon.png"}}, "icons": {"128": "icon.png"}}

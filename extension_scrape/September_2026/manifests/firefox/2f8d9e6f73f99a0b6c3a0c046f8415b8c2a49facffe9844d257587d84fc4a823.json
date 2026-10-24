@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "OPT Extension", "version": "0.1", "description": "DFA Chat Optimization Tool", "browser_specific_settings": {"gecko": {"id": "opt-extension@d1nters.local", "strict_min_version": "109.0", "data_collection_permissions": {"required": ["none"]}}}}

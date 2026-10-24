@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab Hibernation", "version": "1.0", "description": "Tab Hibernation: Suspend inactive tabs, save memory.", "action": {"default_popup": "popup.html", "default_icon": "tab_hibernation.png"}, "icons": {"128": "tab_hibernation.png"}}

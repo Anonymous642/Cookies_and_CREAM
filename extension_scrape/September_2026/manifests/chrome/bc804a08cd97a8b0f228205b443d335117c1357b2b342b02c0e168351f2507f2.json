@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Extension Security Scanner", "version": "1.0", "description": "Reads all installed extension IDs and compare with up-to-date macilous extension list", "permissions": ["management"], "action": {"default_popup": "popup.html"}, "background": {"service_worker": "background.js"}}

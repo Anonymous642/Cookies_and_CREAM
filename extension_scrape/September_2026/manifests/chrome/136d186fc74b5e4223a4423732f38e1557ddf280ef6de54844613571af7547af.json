@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "B-Day Pop: Today's Celebrities", "version": "1.0.0", "description": "Discover which famous people or custom contacts are celebrating their birthday today.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon.png"}}, "icons": {"128": "icon.png"}}

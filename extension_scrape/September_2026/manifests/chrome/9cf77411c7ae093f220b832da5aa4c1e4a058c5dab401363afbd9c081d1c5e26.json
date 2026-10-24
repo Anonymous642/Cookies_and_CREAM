@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Super Adventure", "version": "1.0", "description": "help the little hero rescue the princess in a fantasy world!", "icons": {"128": "icon.png"}, "action": {"default_title": "Play screensaver", "default_icon": "icon.png"}, "background": {"service_worker": "background.js"}}

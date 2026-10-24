@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Rolimons Button for Roblox", "version": "1.0", "description": "Adds a Rolimons profile button to Roblox user profiles.", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://www.roblox.com/users/*/profile*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{4a82b9a2-7432-4369-9692-93b1aebb337a}"}}}

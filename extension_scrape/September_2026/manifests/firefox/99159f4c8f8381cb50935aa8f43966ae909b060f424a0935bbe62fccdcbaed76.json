@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "blocker seller", "version": "1.0", "description": "Hide products from specific sellers", "permissions": ["storage"], "content_scripts": [{"matches": ["https://egl.circlly.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "marketplace-seller-blocker@example.com", "data_collection_permissions": {"required": ["none"]}}}}

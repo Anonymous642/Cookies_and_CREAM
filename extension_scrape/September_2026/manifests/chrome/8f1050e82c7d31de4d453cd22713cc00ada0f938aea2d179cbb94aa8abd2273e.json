@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LinkedIn Home Blocker", "version": "1.0", "description": "Hides the Home button in LinkedIn's navigation bar.", "content_scripts": [{"matches": ["*://*.linkedin.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

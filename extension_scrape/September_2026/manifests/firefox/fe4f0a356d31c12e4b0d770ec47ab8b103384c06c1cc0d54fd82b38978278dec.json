@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Wikipedia Redirector", "version": "1.0", "description": "Redirects all Wikipedia pages to a specific revision URL.", "permissions": ["tabs", "https://en.wikipedia.org/*"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{c3c2de08-92cb-44db-a55c-063862f02191}"}}}

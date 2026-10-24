@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hide Sports Scores", "version": "1.0", "description": "Hides sports scores in Google search results.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://www.google.com/*"], "js": ["sports.js"]}], "browser_specific_settings": {"gecko": {"id": "{3c1fb269-bf3c-4483-8065-bb12f3d61222}"}}}

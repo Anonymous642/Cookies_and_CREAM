@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Secretary New Tab", "version": "1.0", "description": "For those with ADHD", "browser_specific_settings": {"gecko": {"id": "secretary-new-tab@local.dev", "data_collection_permissions": {"required": ["none"], "optional": []}}}, "permissions": ["topSites"], "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {}}

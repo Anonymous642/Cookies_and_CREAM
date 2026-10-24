@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Math Expression Finder", "version": "0.1.0", "description": "Convert LaTeX-style tokens to Unicode and copy to clipboard.", "action": {"default_title": "Find math", "default_popup": "popup.html"}, "permissions": ["storage"], "options_page": "options.html"}

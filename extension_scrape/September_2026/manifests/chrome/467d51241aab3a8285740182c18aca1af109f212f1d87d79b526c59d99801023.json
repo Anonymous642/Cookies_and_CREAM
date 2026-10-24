@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Kpop Place Picker", "description": "Pick a fun place to go based on your city.", "version": "1.0", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon.png"}}, "icons": {"128": "icon.png"}}

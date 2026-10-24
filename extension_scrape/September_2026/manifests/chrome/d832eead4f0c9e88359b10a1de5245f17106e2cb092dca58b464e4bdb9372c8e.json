@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Claude Element Remover", "version": "1.0", "description": "Removes specific disclaimer elements from claude.ai", "icons": {"128": "icon128.png"}, "content_scripts": [{"matches": ["https://claude.ai/*"], "js": ["content.js"], "run_at": "document_end"}]}

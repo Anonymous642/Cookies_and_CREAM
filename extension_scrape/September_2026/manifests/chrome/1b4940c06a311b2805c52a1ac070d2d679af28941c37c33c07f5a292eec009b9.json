@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SMG4 New Tab!", "version": "1.0", "description": "A tribute to SMG4 and his amazing content.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "icons": {"48": "images/smg41.png", "128": "images/smg42.png"}}

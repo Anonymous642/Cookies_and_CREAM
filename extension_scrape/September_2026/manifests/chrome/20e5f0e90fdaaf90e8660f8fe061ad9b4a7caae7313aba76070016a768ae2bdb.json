@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Test Data Forge", "version": "0.0.0.1", "description": "A data generator for fast manual testing!", "icons": {"128": "images/128x128_generator.png"}, "action": {"default_title": "Test Data Forge", "default_popup": "popup.html"}}

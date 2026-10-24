@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "weimo", "version": "1.0", "description": "Open weibo pages in the mobile version to view content without logging in", "icons": {"48": "icons/icon192.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["menus"]}

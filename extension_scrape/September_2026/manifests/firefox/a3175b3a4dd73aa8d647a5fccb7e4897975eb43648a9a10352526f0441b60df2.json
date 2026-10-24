@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reparacitas", "version": "1.1", "description": "Permite leer el comentario de una cita donde se ha a\u00f1adido un gui\u00f3n bajo para evitar el bloqueo de usuarios ignorados.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["https://*.meneame.net/m/*", "https://*.meneame.net/story/*"], "js": ["reparacitas.js"]}]}

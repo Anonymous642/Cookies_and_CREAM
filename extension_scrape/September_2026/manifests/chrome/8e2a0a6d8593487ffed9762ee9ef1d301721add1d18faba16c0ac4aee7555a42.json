@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Checkbox for data100", "version": "1.0", "description": "Adds a persistent checkbox to website to track tasks", "permissions": ["storage"], "content_scripts": [{"matches": ["https://ds100.org/*"], "js": ["content.js"], "css": ["style.css"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Quiet Tabs", "version": "1.0", "description": "Quiet Tabs: Mute background tabs.", "action": {"default_popup": "popup.html", "default_icon": "quiet_tabs.png"}, "icons": {"128": "quiet_tabs.png"}, "browser_specific_settings": {"gecko": {"id": "tamsyna3797@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

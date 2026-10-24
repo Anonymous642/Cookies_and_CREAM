@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "SnapKurd", "version": "1.0.0", "description": "Click any text to translate it to or from Kurdish, save it to your dashboard, and see it.", "background": {"service_worker": "background.js", "scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "snapkurd@yourdomain.com", "data_collection_permissions": {"required": ["none"]}}}}

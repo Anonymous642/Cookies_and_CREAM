@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Lite Scraper", "description": "A minimal web scraping tool to gather insights for your business", "version": "1.0", "permissions": ["storage", "cookies", "https://localhost:3000/"], "host_permissions": ["https://localhost:3000/"], "action": {"default_popup": "/dist/index.html"}}

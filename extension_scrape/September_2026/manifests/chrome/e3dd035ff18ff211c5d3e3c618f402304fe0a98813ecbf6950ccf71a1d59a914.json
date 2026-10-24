@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Jarvy JS Toggle", "version": "1.0", "permissions": ["contentSettings"], "action": {"default_icon": {"16": "js-on-16.png", "32": "js-on-32.png", "48": "js-on-48.png", "128": "js-on-128.png"}, "default_title": "JavaScript Active"}, "background": {"service_worker": "background.js"}}

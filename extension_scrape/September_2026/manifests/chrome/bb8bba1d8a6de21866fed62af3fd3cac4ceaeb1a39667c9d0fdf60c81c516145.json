@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "All Black Screen Test", "version": "1.0", "description": "Turn your entire screen black for testing purposes.", "action": {"default_popup": "index.html", "default_icon": "icon128.png"}, "permissions": [], "icons": {"128": "icon128.png"}}

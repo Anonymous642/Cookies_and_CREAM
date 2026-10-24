@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gif Maker", "version": "1.0", "description": "A simple GIF maker tool as a Firefox extension.", "icons": {"48": "favicon.ico"}, "browser_action": {"default_popup": "popup.html", "default_icon": "favicon.ico"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{4649caf3-da44-42fe-a623-b32c9cd6077d}"}}}

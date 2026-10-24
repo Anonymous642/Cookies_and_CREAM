@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "OnOffYoutubeSearchBar", "version": "1.0", "permissions": ["scripting", "activeTab"], "background": {"service_worker": "background.js"}, "action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "host_permissions": ["*://www.youtube.com/*"]}

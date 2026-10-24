@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "InstaPDFPro", "description": "Easily convert documents to PDF.", "version": "2.6", "icons": {"16": "instaicon16.png", "48": "instaicon48.png", "128": "instaicon128.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "instapdfpro@example.com"}}}

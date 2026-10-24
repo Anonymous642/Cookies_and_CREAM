@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ZoomLoom", "version": "1.0", "description": "Hover images to show a smooth animated circular magnifier. Toggle by hotkey (Ctrl+Shift+M).", "permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content_script.js"], "run_at": "document_end"}], "applications": {"gecko": {"id": "zoomloom@example.com"}}}

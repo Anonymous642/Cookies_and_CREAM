@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TradingView Quick Chart", "version": "1.0", "description": "Opens a TradingView chart for the ticker you highlight on any webpage", "permissions": ["contextMenus"], "icons": {"16": "tw16.png", "48": "tw48.png", "128": "tw128.png"}, "background": {"service_worker": "background.js"}}

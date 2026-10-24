@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Surprise Me", "version": "1.0", "description": "Surprise Me: Open random interesting page", "action": {"default_popup": "popup.html", "default_icon": "surprise_me.png"}, "icons": {"128": "surprise_me.png"}, "browser_specific_settings": {"gecko": {"id": "lonnieconnellyt24661@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

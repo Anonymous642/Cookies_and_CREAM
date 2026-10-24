@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Site Timer Productivity Helper", "version": "1.0.1", "permissions": ["tabs", "alarms", "activeTab", "storage"], "options_ui": {"page": "options.html", "open_in_tab": true}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{fc0259b8-c6ee-4755-8110-da48619a2dd1}"}}}

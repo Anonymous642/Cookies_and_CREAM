@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RandomLightshot", "version": "1.0", "description": "open random LightShot", "content_scripts": [{"matches": ["*://*.prnt.sc/*"], "js": ["random.js"]}], "browser_specific_settings": {"gecko": {"id": "randomlightshot@dev-village.de"}}}

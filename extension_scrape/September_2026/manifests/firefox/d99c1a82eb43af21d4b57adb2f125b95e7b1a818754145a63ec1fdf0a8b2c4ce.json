@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "QR Link Share", "version": "1.0", "description": "QR Link Share: Generate QR for current URL.", "action": {"default_popup": "popup.html", "default_icon": "qr_link_share.png"}, "icons": {"128": "qr_link_share.png"}, "browser_specific_settings": {"gecko": {"id": "valenciap106804@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

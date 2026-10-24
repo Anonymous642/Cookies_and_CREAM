@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "User Agent Switcher for YouTube", "version": "1.0", "description": "Changes user agent to Chrome when visiting YouTube.", "permissions": ["webRequest", "webRequestBlocking", "*://www.youtube.com/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{5ddd4eba-9a16-4faf-8939-aa4d0d4447b6}"}}}

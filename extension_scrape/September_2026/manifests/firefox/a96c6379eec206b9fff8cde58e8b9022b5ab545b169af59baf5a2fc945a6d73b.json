@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Different Tab Succession Semantics", "version": "1", "browser_specific_settings": {"gecko": {"id": "{3ca4d7ef-d44f-4962-ba3d-70e18cf3cf73}", "data_collection_permissions": {"required": ["none"]}, "strict_min_version": "140.0"}}, "permissions": ["tabs", "tabGroups"], "background": {"scripts": ["background.js"], "type": "module"}}

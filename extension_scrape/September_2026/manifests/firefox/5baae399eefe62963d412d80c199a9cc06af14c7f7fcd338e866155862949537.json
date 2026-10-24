@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "QuickSketch", "version": "1.0", "description": "Create and save quick sketches instantly in your browser.", "icons": {"48": "icon.png"}, "permissions": [], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{9ed4d5c2-4cec-490c-8d01-0f7ec20588c7}"}}}

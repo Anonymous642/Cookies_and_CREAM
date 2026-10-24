@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "lebron's sunshine", "version": "1.2", "description": "you are my sunshine, my only sunshine", "action": {"default_popup": "popup.html", "default_icon": {"128": "icons/icon128.png"}}, "icons": {"128": "icons/icon128.png"}}

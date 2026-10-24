@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bullshit Blocker", "version": "1.3.0", "description": "Blocks unwanted YouTube channels.", "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["blocked-channel.js", "content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{f45dafa5-a11d-470f-9739-fc1cee41f80a}"}}}

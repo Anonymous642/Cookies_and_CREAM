@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BSL Stats Padder", "version": "1.6", "description": "Add-on to make box-scores of BSL more readable", "icons": {"48": "icons/basketball.png"}, "content_scripts": [{"matches": ["*://*.basketballaustria.at/*"], "js": ["bsl.js"]}], "browser_specific_settings": {"gecko": {"id": "{203d9cf8-f745-4881-bc35-fe948e0f509f}"}}}

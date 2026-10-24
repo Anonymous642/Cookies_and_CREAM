@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Smart Tab Organizer", "version": "1.0", "description": "Show only tabs you need, hide the rest.", "permissions": ["tabs"], "browser_action": {"default_title": "Smart Tab Organizer", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{077de080-0faa-47d9-ac3c-57679b19a21d}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Reading List Sync", "version": "1.0", "description": "Save articles to read later.", "action": {"default_popup": "popup.html", "default_icon": "reading_list_sync.png"}, "icons": {"128": "reading_list_sync.png"}, "browser_specific_settings": {"gecko": {"id": "butwinszcdnh9101987@hotmail.com"}}}

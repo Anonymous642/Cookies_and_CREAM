@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Who's First?", "version": "2.0", "description": "Randomize standup order and get a fun icebreaker question!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon-48.png", "128": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pink Motivation \u2013 Daily Quote", "version": "1.0", "description": "Display a new motivational quote each day with a stylish black and pink design.", "icons": {"128": "icon128.png"}, "action": {"default_popup": "popup.html", "default_title": "Pink Motivation"}}

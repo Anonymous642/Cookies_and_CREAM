@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ChromaFocus", "version": "0.0.0.2", "description": "Selecciona un color de la pantalla y muestra su nombre y valor. Pensado para personas daltonicas.", "action": {"default_popup": "popup.html", "default_icon": {"16": "icon16.png"}}, "icons": {"16": "icon16.png"}}

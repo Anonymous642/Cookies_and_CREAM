@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Motivation Station", "description": "New tab with random motivational quotes and images.", "version": "1.0", "icons": {"32": "icons/logo_32.png", "64": "icons/logo_64.png"}, "chrome_url_overrides": {"newtab": "tabs.html"}, "browser_specific_settings": {"gecko": {"strict_min_version": "119.0", "id": "{9dfcde37-edaa-4087-804a-32ebc2458025}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Page Speed Tester", "version": "1.0", "description": "Test page load speed using browser performance API.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{9364221b-ba54-47d9-8414-36d00af5a3b4}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LingoStream Pro", "version": "1.0", "description": "Advanced language learning with AI-generated grammar explanations and video summaries.", "action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}}

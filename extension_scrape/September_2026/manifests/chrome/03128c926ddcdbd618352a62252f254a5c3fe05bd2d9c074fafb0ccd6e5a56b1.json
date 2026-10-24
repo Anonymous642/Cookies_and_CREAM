@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Beyonc\u00e9's Internet", "version": "1.0.0", "content_scripts": [{"matches": ["<all_urls>"], "js": ["Content.js"]}], "permissions": ["activeTab"]}

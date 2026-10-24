@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Secure Password Generator", "version": "1.1", "description": "Generate secure passwords.", "permissions": ["clipboardWrite"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{5b8cc052-d372-4b1c-8cbd-d601a0fb49c9}"}}}

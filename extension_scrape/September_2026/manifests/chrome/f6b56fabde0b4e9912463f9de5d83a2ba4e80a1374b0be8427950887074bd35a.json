@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ETH EUR Price Badge", "version": "1.1", "description": "Mostra il prezzo di Ethereum in EUR in alto nel browser", "action": {"default_title": "ETH/EUR"}, "background": {"service_worker": "background.js"}, "permissions": ["alarms"], "host_permissions": ["https://api.coingecko.com/*"]}

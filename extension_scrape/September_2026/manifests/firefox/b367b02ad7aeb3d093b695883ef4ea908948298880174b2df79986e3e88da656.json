@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TabTitle Copier", "version": "1.0", "description": "Copy the active tab's title to clipboard instantly.", "permissions": ["tabs", "clipboardWrite"], "browser_action": {"default_popup": "popup.html", "default_title": "Copy tab title"}, "browser_specific_settings": {"gecko": {"id": "{f1851483-0245-415a-859d-594e65a47058}"}}}

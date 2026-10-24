@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Better Moodle", "version": "1.0", "description": "Better-Moodle is a Chrome extension designed to enhance the ESIEA ENT platform.", "permissions": [], "content_scripts": [{"run_at": "document_idle", "matches": ["https://learning.esiea.fr/*"], "js": ["content.js"]}]}

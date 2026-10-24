@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RemoveMaj", "version": "1.3", "description": "Enl\u00e8ve les majuscules", "permissions": ["activeTab", "contextMenus", "scripting", "tabs", "clipboardRead"], "background": {"scripts": ["script.js"]}, "browser_specific_settings": {"gecko": {"id": "{ebc8aae2-7276-4979-b9bd-a876dc8201d2}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Name Styler", "version": "1.0.0", "description": "Generate stylish name variants in a modern popup.", "action": {"default_title": "Name Styler", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

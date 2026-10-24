@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ZenTube: Shorts Blocker", "version": "1.0.2", "description": "A simple CSS-based tool to hide specific layout elements.", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "css": ["style.css"]}], "icons": {"128": "icon.png"}}

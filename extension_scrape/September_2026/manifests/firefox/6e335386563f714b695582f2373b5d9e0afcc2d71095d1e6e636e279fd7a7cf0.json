@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Proxy Changer", "description": "Rotate between Mullvad proxy servers to combat blocking.", "version": "1.6", "icons": {"48": "images/icon.png"}, "browser_specific_settings": {"gecko": {"id": "proxychanger@vladimir.sharpie", "strict_min_version": "91.1.0"}}, "browser_action": {"default_popup": "popup.html"}, "permissions": ["proxy", "storage"]}

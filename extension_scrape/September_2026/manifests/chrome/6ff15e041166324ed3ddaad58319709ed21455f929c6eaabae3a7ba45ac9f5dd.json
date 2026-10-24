@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Lingo", "version": "1.1", "description": "Lingo is a platform for learning English vocabulary.", "action": {"default_icon": "Logo.png"}, "chrome_url_overrides": {"newtab": "index.html"}}

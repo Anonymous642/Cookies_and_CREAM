@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Blockella", "version": "1.4", "description": "Block influencers on index.hr news portal", "icons": {"64": "icons/not-allowed.png"}, "content_scripts": [{"matches": ["*://*.index.hr/*"], "js": ["blockella.js"]}]}

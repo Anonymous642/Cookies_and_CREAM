@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Group Game Genie", "version": "1.0.0", "description": "Suggests fun group games with quick filters\u2014perfect for hangouts, team nights, and parties.", "action": {"default_title": "Group Game Genie", "default_popup": "popup.html"}, "icons": {"128": "icons.png"}}

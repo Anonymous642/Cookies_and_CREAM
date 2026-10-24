@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Keep Window Open Extension", "description": "Keep Window Open", "version": "1.1", "manifest_version": 3, "action": {"default_popup": "action.html", "default_icon": "icon.png"}, "permissions": ["tabs"], "author": "zoukaiping@gmail.com"}

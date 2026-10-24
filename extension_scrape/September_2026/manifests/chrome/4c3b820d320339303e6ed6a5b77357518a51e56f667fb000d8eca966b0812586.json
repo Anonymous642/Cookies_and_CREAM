@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "mailTabler", "description": "makes it easy to create, edit and manage tables in your gmail emails", "version": "1.0.0", "permissions": ["activeTab"], "icons": {"64": "icons/logo.png"}, "content_scripts": [{"matches": ["*://*.google.com/*"], "js": ["custom-script.js"]}]}

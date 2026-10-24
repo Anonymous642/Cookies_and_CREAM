@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.0", "name": "Task Quester", "description": "A simple to do list extension", "action": {"default_popup": "index.html", "default_icon": "./images/mountains@3x.png"}}

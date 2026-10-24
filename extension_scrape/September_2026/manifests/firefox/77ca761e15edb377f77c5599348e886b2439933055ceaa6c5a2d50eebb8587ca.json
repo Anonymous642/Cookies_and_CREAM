@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Palette Extractor", "version": "1.0", "description": "Extrae todos los colores de la hoja de estilos de una p\u00e1gina.", "permissions": ["activeTab"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{ef2cf830-6178-4d5b-9db3-d924a3d0e0e8}"}}}

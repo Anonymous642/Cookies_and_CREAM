@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PCG !", "version": "1.0", "description": "Recherche rapide des comptes du Plan Comptable G\u00e9n\u00e9ral", "icons": {"16": "logo.png", "48": "logo.png", "128": "logo.png"}, "action": {"default_popup": "popup.html", "default_icon": "logo.png"}}

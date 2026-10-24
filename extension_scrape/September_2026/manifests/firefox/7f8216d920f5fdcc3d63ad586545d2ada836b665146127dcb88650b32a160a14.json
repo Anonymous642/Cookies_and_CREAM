@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fortune Cookie Tab", "version": "1.0", "description": "Each new tab reveals a fun fortune cookie message.", "chrome_url_overrides": {"newtab": "fortune.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{4d85e36f-a554-440c-b6bd-2b47e31ef035}"}}}

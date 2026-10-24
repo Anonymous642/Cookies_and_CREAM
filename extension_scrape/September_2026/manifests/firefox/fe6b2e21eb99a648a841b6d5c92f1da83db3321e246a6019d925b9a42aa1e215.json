@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Custom Theme Changer", "version": "1.0", "description": "Change the browser toolbar's background color.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["theme"], "browser_specific_settings": {"gecko": {"id": "{c7ec49e1-968f-4fe6-90a3-bff6179631c4}"}}}

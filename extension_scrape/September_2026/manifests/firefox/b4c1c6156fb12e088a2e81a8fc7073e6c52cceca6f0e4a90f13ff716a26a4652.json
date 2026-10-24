@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GenderLess", "version": "1.1", "description": "Entfernt Schreibweisen mit Binnen-I und Genderstern, und ersetzt diese mit der grammatikalisch korrekten Grundform.", "icons": {"48": "src48x48.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["genderLess.js"]}]}

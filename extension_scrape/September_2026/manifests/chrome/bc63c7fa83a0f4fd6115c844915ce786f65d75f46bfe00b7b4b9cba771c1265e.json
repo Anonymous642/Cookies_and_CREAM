@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "EA - Remove Paywall Redirect", "description": "Abre enlaces directamente en removepaywall.com desde el clic derecho.", "version": "1.2", "manifest_version": 3, "permissions": ["contextMenus"], "background": {"service_worker": "background.js"}, "icons": {"128": "icon/icon128.png"}}

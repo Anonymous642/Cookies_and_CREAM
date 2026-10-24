@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Timestamp Generator", "description": "Generate the current timestamp instantly from a popup.", "version": "1.0", "icons": {"128": "icon128.png"}, "action": {"default_popup": "popup.html"}}

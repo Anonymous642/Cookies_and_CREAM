@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_appName__", "version": "1.1.0.0", "manifest_version": 2, "description": "__MSG_appDesc__", "default_locale": "en", "container": ["DOMAIN_INSTALLABLE", "GOOGLE_DRIVE"], "api_console_project_id": "875955645682", "icons": {"128": "icon-128.png"}, "app": {"launch": {"web_url": "https://sketchboard.me"}}}

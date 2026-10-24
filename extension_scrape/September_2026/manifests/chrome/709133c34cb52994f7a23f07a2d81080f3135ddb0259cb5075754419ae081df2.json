@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Genius Eye Guard", "version": "1.0", "description": "Advanced blue light filter with FL-41 Migraine relief and Panic Mode.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_icon": {"128": "icon.png"}}, "icons": {"128": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Meme Generator", "version": "1.0", "description": "T\u1ea1o meme t\u1eeb v\u0103n b\u1ea3n nhanh ch\u00f3ng.", "action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Declutter Crunchyroll Simulcast Calendar", "version": "2.0", "permissions": ["storage", "activeTab"], "action": {"default_popup": "popup.html", "default_icon": "icon128.png"}, "content_scripts": [{"matches": ["https://www.crunchyroll.com/simulcastcalendar*"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Invidious YouTube Redirector", "version": "1.0", "description": "Redirects YouTube videos to the Invidious Instance iv.nboeck.de", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["redirect.js"]}], "browser_specific_settings": {"gecko": {"id": "{1f9804c0-3622-426a-8fef-e60e1319e414}"}}}

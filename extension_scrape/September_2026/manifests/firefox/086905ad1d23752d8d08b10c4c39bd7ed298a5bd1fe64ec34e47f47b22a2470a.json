@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WastedWelt", "version": "0.0.0.2", "description": "Ist ehrlicher mit der WELT, ersetzt das Wort Lesedauer durch Verschwendete Lebenszeit", "permissions": ["*://*/*", "activeTab"], "content_scripts": [{"matches": ["*://*/*"], "include_globs": ["*://*.welt.de/*"], "js": ["wasted.js"]}]}

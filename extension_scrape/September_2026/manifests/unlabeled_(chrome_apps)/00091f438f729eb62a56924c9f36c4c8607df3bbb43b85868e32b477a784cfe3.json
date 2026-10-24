@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Cours des pi\u00e8ces en or", "description": "Cours des principales pi\u00e8ces d'or actualis\u00e9s quotidiennement", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://piece-or.monnaie.me/"], "launch": {"web_url": "http://piece-or.monnaie.me/"}}}

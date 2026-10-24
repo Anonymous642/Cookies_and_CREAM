@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Twitter no-foryou", "version": "0.1.0", "description": "Automatically changes twitter feed to 'Following'.", "host-permissions": ["https://*.twitter.com/*"], "content_scripts": [{"matches": ["https://*.twitter.com/*"], "js": ["contentScript.js"]}], "manifest_version": 3}

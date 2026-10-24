@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Universal Dark Mode", "version": "1.0", "description": "Her web sitesine tek t\u0131kla karanl\u0131k mod uygular.", "action": {"default_popup": "popup/popup.html", "default_icon": "icons/icon128.png"}, "permissions": ["storage", "scripting"], "host_permissions": ["<all_urls>"]}

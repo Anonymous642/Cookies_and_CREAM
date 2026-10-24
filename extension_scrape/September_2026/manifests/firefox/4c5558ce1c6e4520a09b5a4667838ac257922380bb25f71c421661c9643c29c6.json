@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Refresher Lite", "version": "1.0", "description": "Refresh the current tab instantly with one click.", "permissions": ["tabs"], "browser_action": {"default_popup": "popup.html", "default_title": "Refresh Tab"}, "browser_specific_settings": {"gecko": {"id": "{2043ec5c-01ca-478b-8c01-519e364c93dc}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Twitter Token Login", "version": "1.0", "description": "\u901a\u8fc7Twitter_Token\u767b\u5f55", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_icon": {"16": "icons/logo.png", "48": "icons/logo.png", "128": "icons/logo.png"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Trello API Search", "version": "0.0.1", "manifest_version": 3, "description": "Fast Search on Trello", "icons": {"128": "icon128.png"}, "action": {"default_icon": "icon128.png", "default_popup": "popup.html", "default_title": "Fast Search on Trello"}}

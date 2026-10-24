@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Mini Driver", "description": "A simple mini driving game built up by text! Made by CCIB", "version": "1.0.3", "manifest_version": 3, "action": {"default_popup": "pop.html"}, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "permissions": ["storage"]}

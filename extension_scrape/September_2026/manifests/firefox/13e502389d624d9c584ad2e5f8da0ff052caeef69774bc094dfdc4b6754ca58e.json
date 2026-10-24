@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hide Twitter Views", "description": "Hides twitter view count on tweets", "version": "1.0", "icons": {"48": "icons/icon.png", "96": "icons/icon@2x.png"}, "content_scripts": [{"matches": ["https://twitter.com/*"], "js": ["./hide.js"]}], "browser_specific_settings": {"gecko": {"id": "{a1125868-1ddc-474e-af7e-9c14e473804b}"}}}

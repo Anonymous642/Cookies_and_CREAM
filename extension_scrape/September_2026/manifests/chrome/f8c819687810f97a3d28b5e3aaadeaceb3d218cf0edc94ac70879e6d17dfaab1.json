@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GPA Calculator", "description": "GPA calculator for College & University.", "version": "1.1", "manifest_version": 3, "action": {"default_popup": "popup/index.html", "default_title": "GPA Calculator"}, "icons": {"48": "popup/assets/img/icon-48.png", "96": "popup/assets/img/icon-96.png"}}

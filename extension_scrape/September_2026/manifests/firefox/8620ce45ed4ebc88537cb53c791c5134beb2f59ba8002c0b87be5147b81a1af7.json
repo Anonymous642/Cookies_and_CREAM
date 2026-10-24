@@ -1,0 +1,1 @@
+{"description": "A girl standing on a rooftop, watching a pretty sunset over a city.", "manifest_version": 2, "chrome_url_overrides": {"newtab": "index.html"}, "name": "City Sunset", "version": "1.0", "browser_specific_settings": {"gecko": {"id": "{569ac001-cadf-4f0e-b8b7-e772e86af686}"}}}

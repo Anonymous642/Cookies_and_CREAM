@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Empire Idle \u2014 Business Tycoon", "version": "1.0.0", "description": "Build a business empire from a lemonade stand. Click, automate, gamble, moon.", "permissions": ["storage"], "action": {"default_popup": "index.html", "default_title": "Empire Idle"}, "icons": {}}

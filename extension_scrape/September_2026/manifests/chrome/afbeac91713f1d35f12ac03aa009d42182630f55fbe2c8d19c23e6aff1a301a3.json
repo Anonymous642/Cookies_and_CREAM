@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Youtube Resume Extensions", "description": "An extension to resume Youtube video play", "version": "2.0", "manifest_version": 3, "permissions": ["storage"], "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

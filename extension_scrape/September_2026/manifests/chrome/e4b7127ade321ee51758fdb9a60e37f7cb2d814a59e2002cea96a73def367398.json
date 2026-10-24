@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Text Saver Pro", "version": "6.5", "description": "Gerenciador de textos em pastas sincronizado na nuvem do Google.", "permissions": ["storage"], "action": {"default_popup": "index.html"}, "icons": {"48": "icon48.png", "128": "icon128.png"}}

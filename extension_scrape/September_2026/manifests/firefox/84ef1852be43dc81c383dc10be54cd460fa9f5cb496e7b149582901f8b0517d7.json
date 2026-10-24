@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Print-Friendly CSS Checker", "version": "1.0", "description": "Alerts the user if print-friendly CSS is available for the current website.", "permissions": ["tabs", "webNavigation"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "print_friendly_css_checker_extension@gmail.com"}}}

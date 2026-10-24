@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Silvao VPN Free", "version": "1.0", "description": "Um Vpn para se conectar sem limites.", "action": {"default_icon": "icon.png"}, "background": {"service_worker": "background.js"}, "host_permissions": ["https://www.freevpn.one/*"]}

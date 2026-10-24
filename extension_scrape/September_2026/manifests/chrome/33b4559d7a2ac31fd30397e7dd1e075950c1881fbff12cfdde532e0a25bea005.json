@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Contador de Casos", "version": "1.0", "description": "Cuenta casos manualmente y calcula promedio por hora.", "action": {"default_popup": "popup.html"}, "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "A/B Test Calculator", "version": "1.2", "description": "Calculates the statistical significance of A/B tests.", "icons": {"128": "128.png"}, "action": {"default_popup": "popup.html"}}

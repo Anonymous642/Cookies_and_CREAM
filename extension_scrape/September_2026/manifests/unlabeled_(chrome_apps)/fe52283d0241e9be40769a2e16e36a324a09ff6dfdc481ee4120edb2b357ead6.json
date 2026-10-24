@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "TVPrograma.LT", "version": "2", "icons": {"24": "i24.png", "96": "i96.png", "112": "i112.png", "128": "i128.png"}, "app": {"launch": {"web_url": "http://www.tvprograma.lt"}}, "permissions": [], "manifest_version": 2}

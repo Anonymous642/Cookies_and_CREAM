@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "quickMarks", "version": "2.0", "description": "Display bookmarks on click", "permissions": ["bookmarks"], "action": {"default_popup": "popup.html", "default_popup_width": 200}, "icons": {"48": "icon.png"}}

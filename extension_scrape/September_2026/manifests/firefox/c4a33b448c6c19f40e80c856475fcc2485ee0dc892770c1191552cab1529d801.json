@@ -1,0 +1,1 @@
+{"name": "Google Translate Flags", "version": "1.0.1", "description": "Add country flags to the language selection in Google Translate", "manifest_version": 2, "content_scripts": [{"matches": ["*://translate.google.com/*", "*://translate.google.es/*"], "css": ["inject.css"]}], "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

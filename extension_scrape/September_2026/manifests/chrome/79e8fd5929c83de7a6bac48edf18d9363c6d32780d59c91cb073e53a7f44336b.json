@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "XML Downloader", "manifest_version": 3, "version": "2.1", "action": {"default_popup": "index.html"}, "icons": {"128": "images/128.png"}, "author": "Ivan-Rosales", "permissions": ["activeTab", "scripting"]}

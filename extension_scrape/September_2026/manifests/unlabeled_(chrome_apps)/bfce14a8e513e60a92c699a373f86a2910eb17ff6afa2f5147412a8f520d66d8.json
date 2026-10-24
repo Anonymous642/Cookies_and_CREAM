@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Skulpt Interpreter", "description": "Run python scripts in your browser. Offline!", "version": "0.1", "app": {"background": {"scripts": ["background.js"]}}, "sandbox": {"pages": ["sandbox.html"]}, "icons": {"16": "skulpt16.png", "128": "skulpt128.png"}}

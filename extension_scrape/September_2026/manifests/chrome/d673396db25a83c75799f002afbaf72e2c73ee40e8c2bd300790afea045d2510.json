@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DreamWipe", "description": "Removes everything from your Dreamborn.ink library", "version": "1.0", "action": {"default_popup": "dreamwipe.html", "default_icon": "dreamwipe.png"}, "permissions": ["scripting"], "host_permissions": ["*://dreamborn.ink/*"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Web-Encoder", "version": "1.2.1", "description": "Hello Web-Encoder", "icons": {"48": "icon.png"}, "browser_action": {"default_icon": {"48": "icon.png"}, "default_popup": "pages/popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{5f2e9789-2631-419e-893f-49ebf21ad02e}"}}}

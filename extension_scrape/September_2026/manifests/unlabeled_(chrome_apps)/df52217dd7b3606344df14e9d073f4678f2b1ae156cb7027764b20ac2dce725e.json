@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "UAlg", "description": "UAlg - Universidade do Algarve", "version": "1.2.4", "icons": {"128": "128.png"}, "app": {"urls": ["http://www.pgfernandes.pt/ualg/"], "launch": {"web_url": "http://www.pgfernandes.pt/ualg/"}}, "permissions": ["unlimitedStorage", "notifications"], "manifest_version": 2}

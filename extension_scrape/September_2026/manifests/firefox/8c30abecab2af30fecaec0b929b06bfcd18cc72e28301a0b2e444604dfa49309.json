@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "9gag_video_controls", "version": "1.0", "description": "Always shows the video controls on 9gag.com.", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://*.9gag.com/*"], "js": ["show_control.js"]}]}

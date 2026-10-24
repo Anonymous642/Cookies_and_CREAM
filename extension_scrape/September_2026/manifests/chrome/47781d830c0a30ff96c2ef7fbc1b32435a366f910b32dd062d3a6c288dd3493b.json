@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "New Tab Forwarder", "description": "Forwards the new tab to a user-specified URL.", "version": "1.1", "manifest_version": 3, "background": {"service_worker": "background.js"}, "options_page": "options.html", "permissions": ["tabs", "storage"]}

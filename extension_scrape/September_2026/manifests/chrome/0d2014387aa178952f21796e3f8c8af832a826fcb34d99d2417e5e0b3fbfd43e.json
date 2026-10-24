@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "NemoBook", "description": "bookmark that lets you quickly save and categorize web pages into custom sections.", "version": "1.0", "action": {"default_popup": "index.html"}, "permissions": ["tabs"]}

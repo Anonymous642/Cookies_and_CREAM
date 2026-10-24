@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "kieranclever", "version": "1.3.1", "description": "a simple shortcut app that helps you get to stuff quickly", "action": {"default_popup": "kieranclever.html", "default_icon": "kc_logo.png"}, "permissions": ["storage"]}

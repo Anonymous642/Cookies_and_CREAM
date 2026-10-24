@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Archipanel", "default_locale": "en", "description": "Dodawaj produkty bezpo\u015brednio do swoich projekt\u00f3w", "version": "1.0", "manifest_version": 3, "action": {"default_title": "Archipanel", "default_popup": "popup.html", "default_icon": "icons/icon16.png"}, "permissions": ["activeTab"]}

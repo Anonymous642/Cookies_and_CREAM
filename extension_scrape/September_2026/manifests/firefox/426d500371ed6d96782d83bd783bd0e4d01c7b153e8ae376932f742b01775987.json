@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Custom New Tab", "version": "1.0", "description": "Enhance your new tab page with a custom background, clock, search bar, and quick links.", "icons": {"48": "icon.png"}, "chrome_url_overrides": {"newtab": "popup.html"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{251dcf8c-bec3-4ff3-a747-624ec7993e02}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Free and Simple QR Code Generator", "version": "2", "icons": {"24": "24.png", "128": "128.png"}, "manifest_version": 2, "app": {"urls": ["http://www.wikarski.com/qr_app/"], "launch": {"web_url": "http://www.wikarski.com/qr_app/"}}}

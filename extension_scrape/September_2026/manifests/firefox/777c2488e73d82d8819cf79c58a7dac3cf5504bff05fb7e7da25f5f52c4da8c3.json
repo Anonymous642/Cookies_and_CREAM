@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Posture Promoter - with Emma Watson", "version": "1.3", "icons": {"128": "emma_icon.png"}, "description": "Want better posture? Want to maintain a healthier back? Emma Watson will remind you every 30 minutes to sit straight!", "background": {"scripts": ["background.js"]}, "options_ui": {"page": "settings.html"}, "permissions": ["tabs", "storage"]}

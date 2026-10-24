@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Cinema Pro", "description": "CinemaPro - a must-have extension for cinema fans", "version": "3.3", "manifest_version": 3, "background": {"service_worker": "background.js"}, "chrome_url_overrides": {"newtab": "search.html"}, "icons": {"128": "img/cinema_128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Oase Schedule", "version": "1.0", "description": "Adds a oase planning to the schedule", "icons": {"48": "icons/icon-48x48.png"}, "content_scripts": [{"matches": ["https://student.novacollege.nl/rooster"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{88906255-2141-4952-8820-07c85d91482f}"}}}

@@ -1,0 +1,1 @@
+{"name": "Github XP", "version": "5.0.4resigned1", "description": "Github <3 Microsoft!", "manifest_version": 2, "content_scripts": [{"matches": ["https://github.com/*"], "css": ["xp.css"]}], "icons": {"16": "icon-16.png", "48": "icon-48.png", "128": "icon-128.png"}, "browser_specific_settings": {"gecko": {"id": "{78b1a251-b32f-4fd2-9a5d-df6a13e0bd0f}"}}}

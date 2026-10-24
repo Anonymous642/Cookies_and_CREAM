@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Popup Hero", "version": "1.0", "description": "A lightweight extension with a simple popup interface.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "popup-hero@realzen.dev", "strict_min_version": "91.0"}}}

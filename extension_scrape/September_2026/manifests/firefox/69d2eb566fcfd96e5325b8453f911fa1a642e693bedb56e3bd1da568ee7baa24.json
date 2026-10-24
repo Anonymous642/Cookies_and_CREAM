@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Insta Blocker", "version": "1.2", "description": "Blocks suggested posts and reels from the Insta website", "icons": {"96": "icons/blocker-96.png"}, "content_scripts": [{"matches": ["*://*.instagram.com/*"], "js": ["blocker.js"]}], "browser_specific_settings": {"gecko": {"id": "{8253d8d4-fef8-4ab2-acf0-923fa0d480cb}"}}}

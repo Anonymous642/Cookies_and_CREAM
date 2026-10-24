@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Random Dad Jokes", "version": "1.0.0", "description": "Random jokes generator that fetches jokes from icanhazdadjoke REST API", "manifest_version": 3, "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "permissions": []}

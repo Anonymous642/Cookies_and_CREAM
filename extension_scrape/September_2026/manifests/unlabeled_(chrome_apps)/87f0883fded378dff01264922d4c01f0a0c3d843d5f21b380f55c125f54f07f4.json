@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"launch": {"web_url": "http://fiddlesalad.com/css/"}, "urls": ["http://fiddlesalad.com/css/"]}, "description": "A Reactive Editor for CSS3 Creations and Experiments", "icons": {"128": "css.png"}, "manifest_version": 2, "name": "CSS Editor", "version": "1.0.0.1"}

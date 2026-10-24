@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Block EXE & MSI Downloads", "version": "1.0", "description": "Prevents downloading .exe and .msi files for security purposes.", "permissions": ["downloads"], "background": {"scripts": ["background.js"], "persistent": true}, "applications": {"gecko": {"id": "block-downloads@example.com"}}}

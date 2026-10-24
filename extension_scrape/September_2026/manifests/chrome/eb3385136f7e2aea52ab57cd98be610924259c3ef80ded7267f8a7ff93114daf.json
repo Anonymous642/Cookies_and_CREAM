@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Clocks Dash", "version": "1.0", "description": "Replaces your new tab page with a world clocks dashboard.", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"48": "icon.png", "128": "icon.png"}}

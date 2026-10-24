@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Text Repeater Pro", "version": "2.0", "description": "Advanced text repeating tool with premium features.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}}

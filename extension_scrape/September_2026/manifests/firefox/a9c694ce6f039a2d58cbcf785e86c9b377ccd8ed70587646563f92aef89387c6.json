@@ -1,0 +1,1 @@
+{"description": "Just Redirect", "manifest_version": 2, "name": "Redirect to Original PTT", "version": "1.1", "homepage_url": "https://hiy.tw", "icons": {"48": "icons/p.png"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "no_more_mo@hiy.tw"}}, "background": {"scripts": ["background.js"]}}

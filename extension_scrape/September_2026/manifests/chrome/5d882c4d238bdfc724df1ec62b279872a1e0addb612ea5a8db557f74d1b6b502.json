@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Daily Commenter", "version": "1.0", "description": "Add unique, high-quality comments to YouTube videos daily", "permissions": ["storage", "activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

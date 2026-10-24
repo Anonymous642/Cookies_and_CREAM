@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "wow-analyzer-shortcut", "description": "Adds a button to redirect to wow analyzer with id of the report", "version": "1.0.0", "content_scripts": [{"matches": ["https://www.warcraftlogs.com/reports/*"], "js": ["content-scripts/content.js"]}]}

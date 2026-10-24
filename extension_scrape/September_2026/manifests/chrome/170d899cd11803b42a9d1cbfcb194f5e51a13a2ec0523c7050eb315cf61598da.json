@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HEIC to PNG Converter", "version": "1.0", "description": "Convierte im\u00e1genes HEIC de iPhone a PNG de forma local y segura.", "action": {"default_popup": "popup.html"}, "permissions": []}

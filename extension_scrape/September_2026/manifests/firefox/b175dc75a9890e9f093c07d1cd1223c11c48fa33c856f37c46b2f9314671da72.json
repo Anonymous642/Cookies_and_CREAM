@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Disable GitHub Shortcuts", "version": "1", "browser_specific_settings": {"gecko": {"id": "@disable-github-shortcuts", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"matches": ["https://*.github.com/*"], "js": ["content.js"]}]}

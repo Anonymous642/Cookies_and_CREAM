@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "IvaanBlox", "version": "1.0", "description": "Changes the Roblox page title to IvaanBlox.", "content_scripts": [{"matches": ["https://www.roblox.com/*"], "js": ["content.js"], "run_at": "document_start"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "onlyonions", "version": "1", "description": "block all other domains then .onion", "background": {"scripts": ["background.js"]}, "permissions": ["webRequest", "webRequestBlocking", "storage", "<all_urls>"], "browser_specific_settings": {"gecko": {"id": "{a599d50d-3e72-4709-927b-724b02227bc9}"}}}

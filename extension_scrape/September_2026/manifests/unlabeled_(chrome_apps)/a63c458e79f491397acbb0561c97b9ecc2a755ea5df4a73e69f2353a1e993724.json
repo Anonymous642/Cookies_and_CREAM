@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Flip Flap", "icons": {"128": "img/128.png"}, "manifest_version": 2, "version": "0.5", "app": {"background": {"scripts": ["js/background.js"]}}}

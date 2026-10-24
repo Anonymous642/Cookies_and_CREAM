@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Better LinkedIn", "version": "1.1.0", "description": "Improves the LinkedIn user experience.", "permissions": ["*://*.linkedin.com/*"], "icons": {"64": "logo.png"}, "content_scripts": [{"matches": ["*://*.linkedin.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{1426f060-18a0-49ba-a69d-deb0bcfe1e56}"}}}

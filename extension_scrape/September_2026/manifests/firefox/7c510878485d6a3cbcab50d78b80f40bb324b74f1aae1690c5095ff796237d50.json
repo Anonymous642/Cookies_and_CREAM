@@ -1,0 +1,1 @@
+{"manifest_version": 3, "browser_specific_settings": {"gecko": {"id": "catppuccin-stopwatch@uwu.com"}}, "name": "catppuccin stopwatch", "version": "1.0", "description": "a basic catppuccin stopwatch extension.", "icons": {"48": "icons/clock.svg"}, "action": {"default_icon": {"48": "icons/clock.svg"}, "default_title": "catppuccin stopwatch", "default_popup": "popup.html"}}

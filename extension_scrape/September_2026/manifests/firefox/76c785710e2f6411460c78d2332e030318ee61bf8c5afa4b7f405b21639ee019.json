@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BobRossRocks", "version": "1.0.0", "description": "Replace images on YouTube with Bob Ross paintings.", "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["Content.js"]}], "browser_specific_settings": {"gecko": {"id": "{e9725905-0949-4e0a-a2de-6a5836ebb64a}"}}}

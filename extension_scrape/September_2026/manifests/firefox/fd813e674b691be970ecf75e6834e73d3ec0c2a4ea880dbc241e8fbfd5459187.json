@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dark Mode Switcher", "version": "1.0", "description": "Enable or disable dark mode on any page with one click.", "permissions": ["activeTab"], "browser_action": {"default_title": "Toggle Dark Mode"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{610cc06e-90c2-41ec-8e57-42c8b820e280}"}}}

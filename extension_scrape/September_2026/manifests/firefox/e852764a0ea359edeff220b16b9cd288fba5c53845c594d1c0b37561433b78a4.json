@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ligmafy", "version": "1.1resigned1", "description": "What is Ligma?", "icons": {"48": "icons/ligma-48.png"}, "content_scripts": [{"matches": ["*://www.google.com/search*"], "js": ["ligmafy.js"]}], "browser_specific_settings": {"gecko": {"id": "{7d4f0a4b-7c52-4098-9c7e-3600161ebd5d}"}}}

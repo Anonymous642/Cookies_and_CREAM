@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Google Business Profile Rank Checker", "version": "1.01", "description": "Finds the ranking position of a specific business on Google Search and Maps.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

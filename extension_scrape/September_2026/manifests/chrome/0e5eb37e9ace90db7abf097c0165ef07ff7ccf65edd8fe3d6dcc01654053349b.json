@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple MBOX Viewer", "version": "1.2", "description": "Opens and reads local .mbox files in a persistent browser tab.", "background": {"service_worker": "background.js"}, "action": {"default_title": "Open MBOX Viewer"}}

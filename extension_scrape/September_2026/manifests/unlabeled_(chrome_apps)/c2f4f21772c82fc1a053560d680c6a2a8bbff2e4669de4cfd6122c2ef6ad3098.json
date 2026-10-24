@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "MasterMinded", "description": "A clone of popular MasterMind logic game.", "version": "0.1", "manifest_version": 2, "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "icon16.png", "128": "icon128.png"}}

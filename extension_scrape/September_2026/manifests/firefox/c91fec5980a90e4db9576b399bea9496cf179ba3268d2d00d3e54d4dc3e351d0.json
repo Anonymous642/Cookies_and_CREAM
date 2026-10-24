@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Simple Youtube Video Speed Controller", "version": "1.0", "description": "Youtube Video Speed Controller for setting the speed from 1x - 4x", "icons": {"64": "icon.png"}, "permissions": [], "background": {"scripts": []}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["includes/load.js"], "run_at": "document_start"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Google Meet Auto Admit", "version": "1.0", "description": "Automatically admits users in Google Meet.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["https://meet.google.com/*"], "js": ["meet-auto-admit.js"]}], "browser_specific_settings": {"gecko": {"id": "{61889381-48cc-4984-8d77-c9bf5b6ef9a3}"}}}

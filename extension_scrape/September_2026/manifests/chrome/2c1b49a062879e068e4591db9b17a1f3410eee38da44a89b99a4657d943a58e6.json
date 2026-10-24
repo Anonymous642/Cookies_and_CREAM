@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WikiCheck Extension", "description": "WikiCheck Extension is an extension that fact checks wikipedia articles using the google search api and AI ", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "index.html"}, "permissions": ["activeTab"]}

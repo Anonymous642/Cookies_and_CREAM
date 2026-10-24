@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tensor", "version": "1.2", "description": "Keeps you in your lane.", "icons": {"48": "tensor.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["youtube.js"]}, {"matches": ["*://*.google.com/*"], "js": ["google.js"]}], "browser_specific_settings": {"gecko": {"id": "{5cf3f5aa-2261-4938-b360-5d8c96ba050d}"}}}

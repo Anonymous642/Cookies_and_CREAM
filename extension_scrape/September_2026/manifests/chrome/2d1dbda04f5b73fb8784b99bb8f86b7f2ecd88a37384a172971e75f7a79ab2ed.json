@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TSDR Quick Search", "version": "1.2", "description": "Right-click a serial or registration number to search TSDR.", "permissions": ["contextMenus"], "background": {"service_worker": "background.js"}, "icons": {"128": "icon.png"}}

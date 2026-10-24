@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Square Calculator", "version": "1.0", "description": "Calculates the square of a number.", "permissions": [], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{a8f754c5-6dfb-45b6-8f2c-8f1d3b99fd01}"}}}

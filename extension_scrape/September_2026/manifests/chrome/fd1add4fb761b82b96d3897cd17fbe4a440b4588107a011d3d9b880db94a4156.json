@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Block Blast Unblocked", "description": "Play Block Blast Unblocked in a popup window", "version": "1.1", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "host_permissions": ["https://blockblastonline.com/*"]}

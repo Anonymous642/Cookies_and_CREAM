@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Ayah", "version": "1.2", "description": "Get a random Quran verse every time you click.", "action": {"default_popup": "popup.html"}, "icons": {"16": "icon/16.png", "48": "icon/48.png", "128": "icon/128.png"}, "permissions": ["storage"]}

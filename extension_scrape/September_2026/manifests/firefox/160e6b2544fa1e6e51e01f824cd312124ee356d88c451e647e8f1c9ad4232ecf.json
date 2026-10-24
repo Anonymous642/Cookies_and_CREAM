@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Penguin Game Popup", "version": "1.0", "action": {"default_popup": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{fa9dd3c6-3ed5-4727-b697-9d0e60550a3d}"}}}

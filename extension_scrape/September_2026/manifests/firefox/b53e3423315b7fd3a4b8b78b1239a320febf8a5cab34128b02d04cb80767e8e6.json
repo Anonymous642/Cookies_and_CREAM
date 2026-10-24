@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Keyword Alert", "version": "1.0", "description": "Alerts users when specified keywords appear on a webpage.", "permissions": ["storage", "activeTab"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{7c15aa25-6da7-4861-b427-8c57362f2151}"}}}

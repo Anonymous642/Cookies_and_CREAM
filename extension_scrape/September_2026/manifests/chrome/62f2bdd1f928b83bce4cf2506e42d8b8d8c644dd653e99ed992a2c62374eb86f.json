@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ScrollPin", "version": "1.0.0", "description": "Save your position on a long page and jump back to it later.", "permissions": ["activeTab", "scripting", "storage"], "action": {"default_title": "Save or restore this page position", "default_popup": "popup.html"}}

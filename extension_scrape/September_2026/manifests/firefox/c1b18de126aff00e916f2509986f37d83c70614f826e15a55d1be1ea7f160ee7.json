@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "fire", "version": "2.1resigned1", "description": "111111", "content_scripts": [{"matches": ["*://*.baidu.com/*"], "js": ["start.js", "index.js"]}], "browser_specific_settings": {"gecko": {"id": "{36b624e9-3744-4b4e-8f71-b7197b13d5a5}"}}}

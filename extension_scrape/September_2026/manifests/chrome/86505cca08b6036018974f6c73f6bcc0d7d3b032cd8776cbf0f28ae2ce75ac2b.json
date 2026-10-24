@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Fixed Text Copy", "description": "Copy predefined text instantly with one click. Simple, fast, and offline.", "version": "1.0.0", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}}

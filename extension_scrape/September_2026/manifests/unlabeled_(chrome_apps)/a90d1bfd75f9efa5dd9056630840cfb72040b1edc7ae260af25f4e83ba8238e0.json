@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Mission Control", "description": "Launch rockets, achieve orbit, screw it all up, repeat.", "version": "1.11", "icons": {"128": "screen1.png"}, "permissions": ["storage"], "app": {"background": {"scripts": ["background.js"]}}, "minimum_chrome_version": "28"}

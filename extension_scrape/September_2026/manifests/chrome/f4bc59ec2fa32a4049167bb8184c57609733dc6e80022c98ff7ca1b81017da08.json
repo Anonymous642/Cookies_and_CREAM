@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "String Escape Unescape", "version": "1.0", "description": "\u4e00\u4e2aChrome\u6269\u5c55\uff0c\u7528\u4e8e\u5b57\u7b26\u4e32\u8f6c\u4e49\u548c\u53bb\u8f6c\u4e49\uff0c\u5904\u7406\u6362\u884c\u7b26\u7528\\n\u66ff\u6362\u3002", "action": {"default_popup": "popup.html"}}

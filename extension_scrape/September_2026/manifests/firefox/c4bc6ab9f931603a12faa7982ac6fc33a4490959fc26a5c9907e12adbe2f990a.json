@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Tab Switcher", "version": "1.0", "description": "Switch between open tabs quickly and easily.", "permissions": ["tabs"], "browser_action": {"default_icon": "icon.png", "default_title": "Quick Tab Switcher", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{146f09e6-8df6-4cd9-a5f2-29b068af09ff}"}}}

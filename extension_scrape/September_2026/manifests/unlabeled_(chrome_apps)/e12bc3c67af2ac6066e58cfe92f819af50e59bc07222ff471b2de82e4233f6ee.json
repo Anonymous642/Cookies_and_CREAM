@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.1", "manifest_version": 2, "name": "Concrete Calculations", "app": {"urls": ["http://macfam.me/apps/concrete/"], "launch": {"web_url": "http://macfam.me/apps/concrete/"}}, "description": "Calculate volume of concrete needed for your next pour.", "icons": {"114": "icon-114.png", "128": "icon-128.png"}}

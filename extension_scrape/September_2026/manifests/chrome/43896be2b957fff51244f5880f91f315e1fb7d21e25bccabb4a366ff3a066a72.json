@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "tq - TechQuiza Learning French", "version": "1.5", "manifest_version": 3, "description": "Learning French", "action": {"default_icon": "tq-fr.png", "default_title": "TechQuiza-Fr", "default_popup": "dice-quiz.html"}, "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TweetDeck Homerow Shortcuts", "version": "1.1resigned1", "description": "Allows Vim navigation shortcuts for TweetDeck", "icons": {"48": "icons/twitter_48.png"}, "content_scripts": [{"matches": ["*://tweetdeck.twitter.com/*"], "js": ["homerow.js"]}], "browser_specific_settings": {"gecko": {"id": "{35a1244f-eabf-4eda-996c-885f067cafc4}"}}}

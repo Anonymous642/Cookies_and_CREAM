@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Breaking Bad \u2014 Heisenberg's New Tab ", "version": "1.0.0", "description": "A dark, chemistry-inspired new tab page featuring aesthetic of Heisenberg's lab.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["search", "storage"], "icons": {}}

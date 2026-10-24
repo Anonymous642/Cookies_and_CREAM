@@ -1,0 +1,1 @@
+{"description": "Force twitter to use the old interface", "manifest_version": 2, "name": "RealTwitter", "version": "1.0", "homepage_url": "https://twitter.com/home", "icons": {"48": "twitter.svg"}, "permissions": ["webRequest", "webRequestBlocking", "https://twitter.com/*"], "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"strict_min_version": "57.0a1"}}}

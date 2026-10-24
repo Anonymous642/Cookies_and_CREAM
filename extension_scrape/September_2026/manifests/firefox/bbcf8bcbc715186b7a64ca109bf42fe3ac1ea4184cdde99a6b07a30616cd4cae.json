@@ -1,0 +1,1 @@
+{"name": "rgb\u8272\u5f69\u9078\u64c7\u5668", "version": "1.0", "description": "\u65b9\u4fbf\u7684\u8272\u5f69\u9078\u64c7\u5668", "manifest_version": 2, "permissions": ["contextMenus"], "browser_action": {"default_popup": "html/index.html"}, "browser_specific_settings": {"gecko": {"id": "{30658f33-9f94-487c-974f-b7e9170fe92d}"}}}

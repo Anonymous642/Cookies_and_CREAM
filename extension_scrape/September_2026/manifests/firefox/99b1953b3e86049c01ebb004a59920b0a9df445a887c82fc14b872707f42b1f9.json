@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "monowi.re New Tab", "description": "Replace the new tab with the search engine https://monowire.org", "version": "0.0.1", "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"128": "icons/icon-128.png"}, "browser_specific_settings": {"gecko": {"id": "help@monowire.org", "strict_min_version": "109.0"}}}

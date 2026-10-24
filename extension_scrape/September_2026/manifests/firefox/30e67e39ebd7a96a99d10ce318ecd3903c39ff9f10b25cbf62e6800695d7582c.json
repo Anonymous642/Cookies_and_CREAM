@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Bookmark", "version": "1.0", "description": "Quickly bookmark the current page with one click.", "permissions": ["bookmarks", "activeTab"], "browser_action": {"default_icon": {"48": "icon.png"}, "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{3d80c7a4-fe0d-4a4f-94c9-b1addd0083aa}"}}}

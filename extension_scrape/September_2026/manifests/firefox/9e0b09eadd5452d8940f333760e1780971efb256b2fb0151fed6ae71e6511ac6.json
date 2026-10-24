@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GhostBG", "version": "1.0", "description": "Blur image background with a simple center-focus mask and optional manual masking. Client-side only.", "permissions": [], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content_script.js"], "run_at": "document_end"}], "applications": {"gecko": {"id": "ghostbg@example.com"}}}

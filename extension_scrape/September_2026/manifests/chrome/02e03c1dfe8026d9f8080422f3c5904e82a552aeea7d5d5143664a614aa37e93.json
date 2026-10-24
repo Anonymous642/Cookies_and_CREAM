@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TKAD Exambrowser", "version": "1.1", "description": "Modul pengaman ujian untuk integritas tes pada situs tkad.online", "icons": {"128": "icon_128.png"}, "content_scripts": [{"matches": ["https://tkad.online/*"], "js": ["content.js"], "run_at": "document_start"}]}

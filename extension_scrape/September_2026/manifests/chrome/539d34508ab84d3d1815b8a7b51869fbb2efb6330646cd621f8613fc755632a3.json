@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AI Gmail Assist", "version": "1.0", "description": "Generate professtional AI replies", "permissions": [], "host_permissions": ["http://localhost:8080/*", "https://ai-email-assist.onrender.com/*"], "content_scripts": [{"matches": ["https://mail.google.com/*"], "js": ["content.js"]}]}

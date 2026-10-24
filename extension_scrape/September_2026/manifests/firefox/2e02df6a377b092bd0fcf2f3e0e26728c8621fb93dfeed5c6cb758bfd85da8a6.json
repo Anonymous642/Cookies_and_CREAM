@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitch Channel Point Collector", "version": "1.0", "description": "Auto collects for twitch channel points.", "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["twitch-points.js"]}], "applications": {"gecko": {"id": "anilsenay3@gmail.com"}}}

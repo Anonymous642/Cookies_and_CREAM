@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My Add-on", "version": "0.3", "description": "My add-on description", "icons": {"48": "icon.png", "96": "icon.png"}, "applications": {"gecko": {"id": "{abcd1234-1abc-1234-12ab-abcdef123456}", "strict_min_version": "44.0"}}, "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "storage"]}

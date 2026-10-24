@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Terraria Class Setups Minifier", "version": "1.0", "description": "Collapses the class setups for each boss for easier navigation", "content_scripts": [{"matches": ["https://terraria.wiki.gg/wiki/Guide:Class_setups*"], "js": ["content.js"], "run_at": "document_idle"}]}

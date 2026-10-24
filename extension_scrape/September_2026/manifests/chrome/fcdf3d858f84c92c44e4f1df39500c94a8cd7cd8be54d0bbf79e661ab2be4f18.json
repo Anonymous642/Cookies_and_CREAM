@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Boxel Jump Color", "description": "Boxel Jump Color", "version": "0.0.0.5", "permissions": [], "background": {"service_worker": "background.js"}, "action": {"default_popup": "game/index.html"}, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}

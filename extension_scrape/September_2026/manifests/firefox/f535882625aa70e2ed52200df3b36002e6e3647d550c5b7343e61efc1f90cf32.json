@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Focus Mode", "version": "1.0", "description": "Hide distracting elements on YouTube to help you stay focused.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"]}], "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{2d57ff62-8a49-422d-b44c-1d2114b88904}"}}}

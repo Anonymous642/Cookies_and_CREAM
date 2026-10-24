@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reading Goals Tracker", "version": "1.0", "description": "Set daily word count goals.", "permissions": ["activeTab", "storage", "tabs"], "browser_action": {"default_title": "Reading Goals Tracker", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{3672ba03-9f79-455f-a65d-698ae2cbaef5}"}}}

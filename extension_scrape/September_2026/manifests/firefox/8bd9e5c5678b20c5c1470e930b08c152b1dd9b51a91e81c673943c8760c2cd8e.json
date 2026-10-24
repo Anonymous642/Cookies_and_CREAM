@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Moyenne Pronote", "version": "1.0", "description": "Calcule votre moyenne g\u00e9n\u00e9rale sur Pronote", "content_scripts": [{"matches": ["*://*.index-education.net/pronote/*"], "js": ["content.js"], "run_at": "document_end"}], "icons": {"48": "icon48.png"}, "browser_specific_settings": {"gecko": {"id": "micheldhubieres@outlook.fr"}}}

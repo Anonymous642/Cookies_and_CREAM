@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "QA Checker_BS", "version": "1.1", "description": "href, title, alt, data-omni \ub4f1 \uc18d\uc131\uc758 \ube48 \uac12 \uc5ec\ubd80\ub97c DevTools\uc5d0\uc11c \uac80\uc0ac", "devtools_page": "devtools/devtools.html", "permissions": ["tabs"]}

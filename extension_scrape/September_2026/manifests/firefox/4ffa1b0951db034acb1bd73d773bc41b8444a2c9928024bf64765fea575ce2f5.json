@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Book Viewer", "version": "1.0", "description": "Hi\u1ec3n th\u1ecb v\u0103n b\u1ea3n d\u1ea1ng trang s\u00e1ch cu\u1ed9n ngang.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["style.css"]}], "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{afdd1d18-abc2-4886-bd7e-aaf210b41b8e}"}}}

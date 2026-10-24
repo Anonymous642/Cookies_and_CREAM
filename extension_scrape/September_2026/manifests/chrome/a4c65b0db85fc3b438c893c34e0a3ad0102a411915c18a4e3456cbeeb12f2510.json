@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PBX CSS Fixer", "version": "0.1.0", "description": "Injects custom CSS for pbx.io so the interface is easier to use.", "content_scripts": [{"matches": ["https://pbx.io/*", "https://*.pbx.io/*"], "css": ["styles/pbx.io.css"], "run_at": "document_start"}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "One-Tap Copy", "version": "1.0.0", "description": "Copy the currently selected text with a single button click.", "action": {"default_title": "One-Tap Copy", "default_popup": "popup.html"}, "permissions": ["activeTab", "scripting"], "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Form Filler Pro", "version": "1.0", "description": "Rellena formularios con datos de prueba con un solo clic.", "permissions": ["activeTab"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{02bf23e7-ef3c-4e17-bd51-b4ec227c6084}"}}}

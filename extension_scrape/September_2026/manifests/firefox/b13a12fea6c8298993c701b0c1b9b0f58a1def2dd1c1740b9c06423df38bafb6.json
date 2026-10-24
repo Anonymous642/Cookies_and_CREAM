@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "USD to ZMW Converter", "version": "1.0", "description": "Convert USD to ZMW directly in the popup.", "permissions": ["https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{90ccea75-cd9a-46d1-887a-d810e73348cd}"}}}

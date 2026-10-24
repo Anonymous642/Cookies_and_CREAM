@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ELI5 & Summarizer", "version": "1.0", "permissions": ["activeTab", "scripting", "storage"], "background": {"service_worker": "background.js"}, "action": {"default_title": "ELI5 & Summarizer"}, "options_page": "options.html", "host_permissions": ["https://api.fireworks.ai/*"]}

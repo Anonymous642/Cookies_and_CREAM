@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "JSON Editor", "version": "0.1.0", "description": "Edite, valide, formate e salve arquivos JSON em uma aba do navegador.", "minimum_chrome_version": "102", "permissions": ["storage"], "action": {"default_title": "Abrir JSON Editor"}, "background": {"service_worker": "background.js"}}

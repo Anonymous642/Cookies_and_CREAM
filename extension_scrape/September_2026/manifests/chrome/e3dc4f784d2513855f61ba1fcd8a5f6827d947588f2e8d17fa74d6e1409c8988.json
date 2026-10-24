@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Auto Admit for Meet", "version": "0.0.1", "manifest_version": 3, "author": "Anchit Ayush Guria", "icons": {"128": "google_meet_logo.jpg"}, "content_scripts": [{"matches": ["https://meet.google.com/*"], "js": ["content.js"]}]}

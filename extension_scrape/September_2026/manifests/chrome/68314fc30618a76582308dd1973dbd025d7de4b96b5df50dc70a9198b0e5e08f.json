@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YT Capture+", "version": "1.0", "description": "Take screenshot of YouTube video only.", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"]}], "action": {"default_icon": "icons/ext.png"}}

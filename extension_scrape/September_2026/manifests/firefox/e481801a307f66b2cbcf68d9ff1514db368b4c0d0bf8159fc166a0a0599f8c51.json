@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "xkcd substitutions", "version": "1.2resigned1", "description": "Applies all xkcd substitutions from comics #1288, #1265, and #1679", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["substitutions.js"]}], "browser_specific_settings": {"gecko": {"id": "{f583d7cd-2f35-4604-9b4b-35f1a6726db5}"}}}

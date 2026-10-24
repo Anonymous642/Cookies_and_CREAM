@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SilentTab", "version": "1.0", "description": "Automatically mute background tabs and restore sound when a tab is focused again.", "background": {"scripts": ["background.js"], "persistent": false}, "permissions": ["tabs", "activeTab"], "icons": {}, "browser_specific_settings": {"gecko": {"id": "{b4450454-dcbe-43a5-9861-6306b2092b8d}"}}}

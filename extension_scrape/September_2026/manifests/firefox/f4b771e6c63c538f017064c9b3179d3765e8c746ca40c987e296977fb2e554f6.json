@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Old Reddit Redirect", "version": "1.0", "description": "Ensures you always browse Reddit with the old design by automatically redirecting to old.reddit.com whenever needed", "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["oldify.js"]}], "browser_specific_settings": {"gecko": {"id": "{0214b3e6-6878-47cf-bc0c-16eb9dd515de}"}}}

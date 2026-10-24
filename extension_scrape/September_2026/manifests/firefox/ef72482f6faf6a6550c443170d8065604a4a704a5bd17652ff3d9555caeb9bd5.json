@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Minimal Extension", "version": "1.0", "description": "A very lightweight and simple Firefox extension.", "browser_specific_settings": {"gecko": {"id": "minimal-extension-df07b5fb-a6a0-4443-a2ce-29532c980d54@example.com"}}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_title": "Minimal Extension"}, "permissions": []}

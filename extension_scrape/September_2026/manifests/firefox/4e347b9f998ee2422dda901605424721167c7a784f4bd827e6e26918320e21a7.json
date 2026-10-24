@@ -1,0 +1,1 @@
+{"name": "Comic Overlay (Demo)", "version": "0.4", "description": "Applies translation overlays to the raw comic.", "manifest_version": 2, "content_scripts": [{"matches": ["https://*.kuragebunch.com/*"], "js": ["comic_border_style.js"], "run_at": "document_idle"}]}

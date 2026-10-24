@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TimeBox Task Flow Manager", "version": "1.0", "description": "Organize your tasks into buckets with priorities, due dates, and subtasks", "action": {"default_popup": "popup.html", "default_title": "TimeBox"}, "permissions": ["storage"], "icons": {"48": "icon.png"}}

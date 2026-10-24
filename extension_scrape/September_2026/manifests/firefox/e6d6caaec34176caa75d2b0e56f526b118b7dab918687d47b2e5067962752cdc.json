@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Amazon Detail page", "description": "Search on Amazon", "version": "1.1resigned1", "icons": {"48": "logo_48.jpg"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{cdef60a5-57b7-48e0-866c-5d638fcd2191}"}}}

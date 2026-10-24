@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Yandex Access", "version": "5.2.0", "minimum_chrome_version": "88", "background": {"service_worker": "service_worker.js"}, "permissions": ["cookies", "alarms", "proxy", "storage", "declarativeNetRequest", "scripting"], "host_permissions": ["<all_urls>"]}

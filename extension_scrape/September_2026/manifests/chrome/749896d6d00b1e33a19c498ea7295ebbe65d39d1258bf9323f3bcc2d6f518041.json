@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ImgCompressor", "version": "0.2", "manifest_version": 3, "description": "Effortlessly compress images to reduce file sizes while preserving quality.", "action": {"default_popup": "index.html", "default_icon": "logo.png"}, "icons": {"128": "logo.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "__MSG_extName__", "default_locale": "en", "version": "2.2", "description": "__MSG_extDescription__", "permissions": ["storage", "activeTab"], "icons": {"128": "logo46.png"}, "action": {"default_title": "LinkMemo", "default_popup": "index.html"}}

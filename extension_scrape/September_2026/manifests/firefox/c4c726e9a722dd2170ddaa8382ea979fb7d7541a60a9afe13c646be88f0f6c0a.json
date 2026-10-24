@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RemoveAiModeThing", "version": "1.1", "description": "Removes Ai mode.", "content_scripts": [{"matches": ["*://*/*"], "js": ["removeAi.js"]}], "browser_specific_settings": {"gecko": {"id": "{b424e32c-28c2-414d-833f-f3512b13fd3c}"}}}

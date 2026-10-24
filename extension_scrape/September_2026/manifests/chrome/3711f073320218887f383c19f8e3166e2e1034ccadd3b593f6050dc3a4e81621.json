@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "EXAMREADY", "version": "1.0", "manifest_version": 3, "description": "Redirects New Tab to GitHub", "chrome_url_overrides": {"newtab": "redirect.html"}, "icons": {"192": "icons/Icon-192.png", "512": "icons/Icon-512.png"}}

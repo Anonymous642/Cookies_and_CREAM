@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Lurk", "version": "1.1resigned1", "description": "Blocks your ability to comment on reddit posts and reply to comments", "icons": {"32": "Lurk.png"}, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["commentblock.js"]}], "browser_specific_settings": {"gecko": {"id": "{028fdefe-87d6-4152-81c1-64f6aa617586}"}}}

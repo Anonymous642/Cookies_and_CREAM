@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Neon Countdown Timer", "version": "1.0.0", "description": "A sleek neon-style countdown timer with presets, pause/resume, and an alert when time is up.", "action": {"default_title": "Neon Countdown", "default_popup": "popup.html"}}

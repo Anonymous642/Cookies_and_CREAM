@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "\u2795 Quick Math Popup", "version": "1.0", "description": "Simple popup calculator for quick addition, subtraction, multiplication, and division.", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

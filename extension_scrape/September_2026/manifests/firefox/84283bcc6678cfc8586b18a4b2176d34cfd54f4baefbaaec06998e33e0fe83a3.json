@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My First Add-on", "version": "1.0", "description": "A simple Firefox add-on", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{7123a40b-c1af-4445-9157-b14ae5bd9e2d}"}}}

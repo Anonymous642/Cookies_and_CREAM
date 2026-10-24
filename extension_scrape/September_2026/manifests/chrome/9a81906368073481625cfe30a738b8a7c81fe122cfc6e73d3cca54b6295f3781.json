@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MAHJONGO - Play Riichi Mahjong Online", "version": "1.0.2", "action": {"default_icon": "icon.png"}, "background": {"service_worker": "background.js"}, "permissions": []}

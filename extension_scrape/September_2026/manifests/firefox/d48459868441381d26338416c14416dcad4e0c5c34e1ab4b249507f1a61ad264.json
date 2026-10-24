@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reading Ruler", "version": "1.0", "description": "Adds a reading ruler to help follow lines while reading.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["ruler.js"], "css": ["ruler.css"]}], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{497db1ff-ce62-44bc-93a1-270c3b34ddac}"}}}

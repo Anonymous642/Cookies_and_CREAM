@@ -1,0 +1,1 @@
+{"description": "This extension forces Wikipedia.org pages to use the old layout by redirecting.", "manifest_version": 2, "name": "WikiVector", "version": "1.2", "content_scripts": [{"matches": ["*://*.wikipedia.org/*"], "js": ["wikivector.js"]}], "browser_specific_settings": {"gecko": {"id": "{4469e83b-1ba5-457f-8b7e-05601822dd4b}"}}}

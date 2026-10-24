@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Fieldwire Form Helper", "version": "1.0", "description": "Adds one-click buttons to check or uncheck all checkboxes on Fieldwire forms.", "content_scripts": [{"matches": ["https://app.fieldwire.com/*"], "js": ["content.js"]}]}

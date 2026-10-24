@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Beeper Sidebar", "version": "1.0", "description": "Chat with Beeper in a Firefox/LibreWolf sidebar", "sidebar_action": {"default_title": "Beeper", "default_icon": {"48": "icon.png"}, "default_panel": "sidebar.html"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{4eef3ab8-4e87-4118-a748-87f18cab8d42}"}}}

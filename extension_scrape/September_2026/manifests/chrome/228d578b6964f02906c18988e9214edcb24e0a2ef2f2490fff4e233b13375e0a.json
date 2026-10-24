@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Elegant Typing Effect", "version": "1.0.0", "description": "Display text with an elegant typing effect, revealing characters one by one.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}, "icons": {"128": "icon128.png"}}

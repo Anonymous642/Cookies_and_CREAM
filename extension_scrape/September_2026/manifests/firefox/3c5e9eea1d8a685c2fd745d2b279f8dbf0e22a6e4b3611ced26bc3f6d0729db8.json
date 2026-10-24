@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gurbani-Prayers", "version": "1.2resigned1", "chrome_url_overrides": {"newtab": "GP.html"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icons/icon.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{11c11ff2-7ced-4907-aabd-5d153ee54bb3}"}}}

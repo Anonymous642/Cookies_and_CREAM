@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "description": "ozbargain referrals saver", "manifest_version": 3, "name": "ozbargain-referrals-saver", "version": "1.0", "permissions": [], "content_scripts": [{"matches": ["*://www.ozbargain.com.au/*/edit/referrals"], "js": ["referrals.js"], "all_frames": true}]}

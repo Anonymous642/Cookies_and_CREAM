@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Lo-fi Chill Track Generator", "version": "1.0.0", "description": "Discover aesthetic, relaxing, and chill song titles for your lo-fi playlists or creative projects.", "action": {"default_popup": "popup.html", "default_title": "Get a Chill Track"}, "icons": {"128": "icon128.png"}}

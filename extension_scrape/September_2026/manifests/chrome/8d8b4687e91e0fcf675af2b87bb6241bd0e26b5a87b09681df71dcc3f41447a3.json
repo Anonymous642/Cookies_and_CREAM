@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "surfly protocol", "description": "Emulates support of `surfly://` protocol in browsers", "version": "0.0.5", "icons": {"64": "icons/icon.png"}, "permissions": ["webNavigation", "tabs"], "host_permissions": ["*://*/*"], "background": {"service_worker": "background.js"}}

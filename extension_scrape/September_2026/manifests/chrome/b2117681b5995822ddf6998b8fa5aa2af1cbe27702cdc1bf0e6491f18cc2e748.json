@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "VIN Extractor Tool", "version": "1.0", "description": "Surgically extract 17-digit VINs from dealership websites.", "action": {"default_title": "Extract VINs"}, "background": {"service_worker": "background.js"}, "permissions": ["activeTab", "contextMenus", "scripting"]}

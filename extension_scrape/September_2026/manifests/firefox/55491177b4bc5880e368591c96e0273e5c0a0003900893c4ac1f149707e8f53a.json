@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bookmarks Popup", "version": "1.1", "description": "Add your own icon bookmarks", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["tabs", "storage", "*://*/*"], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{823013f4-74ca-41f9-bc32-f897856713b5}"}}}

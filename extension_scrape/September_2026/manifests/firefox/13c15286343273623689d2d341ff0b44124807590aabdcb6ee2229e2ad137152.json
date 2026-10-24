@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Scroll to Bottom", "version": "1.0", "description": "Automatically scrolls to the bottom of the page and stops.", "background": {"scripts": ["background.js"]}, "permissions": ["tabs", "activeTab"], "browser_action": {"default_title": "Auto Scroll"}, "browser_specific_settings": {"gecko": {"id": "{0936f05b-04c9-4fa6-8e93-3aa8b331ed15}"}}}

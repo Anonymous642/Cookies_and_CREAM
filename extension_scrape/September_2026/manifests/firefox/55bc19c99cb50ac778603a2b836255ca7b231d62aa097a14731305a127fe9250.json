@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "web-fast-nav", "version": "1.1resigned1", "description": "Helps to navigate quickly thought web", "icons": {"48": "icons/app.png"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{3d8392c0-ad86-4e8c-b580-2693b549c559}"}}}

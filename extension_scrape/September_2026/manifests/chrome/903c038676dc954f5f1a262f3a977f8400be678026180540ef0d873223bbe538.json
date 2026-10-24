@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Paint Calculator", "version": "1.0", "description": "Calculates the amount of paint needed for a room.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}}

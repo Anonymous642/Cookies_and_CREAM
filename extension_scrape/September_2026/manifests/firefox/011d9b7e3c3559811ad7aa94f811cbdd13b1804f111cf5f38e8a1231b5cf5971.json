@@ -1,0 +1,1 @@
+{"name": "Llamacation - Fun & Relax in Every New Tab", "short_name": "Llamacation", "version": "1.0.1", "manifest_version": 2, "description": "LLamazing Fun, Inspiration and Relaxation in every new tab.", "permissions": ["management"], "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"48": "icon48.png", "128": "icon128.png"}}

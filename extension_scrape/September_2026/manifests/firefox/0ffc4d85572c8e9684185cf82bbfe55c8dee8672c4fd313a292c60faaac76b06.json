@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Image URL Cleaner", "version": "1.0", "description": "Strips _640x640q90.jpg from image URLs before they load", "permissions": ["webRequest", "webRequestBlocking", "*://*.aliexpress.com/"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{0365d4fe-8992-4731-80e1-b3b80822739b}"}}}

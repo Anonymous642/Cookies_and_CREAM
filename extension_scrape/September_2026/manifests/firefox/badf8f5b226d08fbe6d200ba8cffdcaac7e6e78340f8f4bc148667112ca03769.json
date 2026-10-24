@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Blink Game", "version": "1.0", "description": "A blink-and-you-miss-it memory game. Remember the flash position.", "browser_action": {"default_title": "Blink Game", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "blink-game@amo.local", "data_collection_permissions": {"required": ["none"], "optional": []}}}}

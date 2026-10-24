@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Kabutor - New Tab", "version": "1.1.1", "description": "A clean and minimal custom new tab page with a terminal-style design.", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"128": "icon.png"}, "permissions": ["tabs", "management"], "browser_specific_settings": {"gecko": {"id": "{6e29c6be-3871-4d3f-a883-0a452d6c39cd}"}}}

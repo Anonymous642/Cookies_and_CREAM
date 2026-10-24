@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Medium Cleaner", "version": "0.1", "description": "Access all blogs of medium without any cost :)", "browser_action": {"default_popup": "popup.html"}, "permissions": ["activeTab", "storage", "tabs", "declarativeContent", "cookies", "https://*/", "http://*/"], "icons": {"16": "font.png", "48": "font.png", "128": "font.png"}}

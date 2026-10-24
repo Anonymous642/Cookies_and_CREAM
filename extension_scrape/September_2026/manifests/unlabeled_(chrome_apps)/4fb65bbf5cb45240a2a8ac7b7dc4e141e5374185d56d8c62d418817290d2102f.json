@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "45 | Irish Forty Five | Monolithic Games", "short_name": "Forty Five", "version": "0.1.5.5", "icons": {"16": "45-icon-small-16.png", "48": "45-icon-med-48.png", "128": "45-icon-big-128.png"}, "app": {"background": {"scripts": ["background.js"], "persistent": false}}}

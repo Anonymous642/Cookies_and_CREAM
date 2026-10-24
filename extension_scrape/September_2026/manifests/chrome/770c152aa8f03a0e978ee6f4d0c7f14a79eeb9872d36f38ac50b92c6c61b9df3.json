@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "nMansao", "version": "0.4", "description": "Troque todas as imagens do site por fotos do pessoal da Mans\u00e3o.", "icons": {"48": "icon48.png", "128": "icon128.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["jquery.js", "nMansao.js"]}]}

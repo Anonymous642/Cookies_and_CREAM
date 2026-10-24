@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Black New Tab", "description": "Use a black page as your new tab page.", "author": "Asif Youssuff", "version": "1.0.1resigned1", "applications": {"gecko": {"strict_min_version": "54.0a1", "id": "{3c53fae8-7f6e-4c86-b595-43f97766b977}"}}, "chrome_url_overrides": {"newtab": "blank-page.html"}}

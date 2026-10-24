@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TechStack Spy", "version": "1.0", "description": "Detecta las tecnolog\u00edas usadas en el sitio web actual.", "permissions": ["activeTab"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{a3181839-1474-4c86-a141-6ec2a9df4ef2}"}}}

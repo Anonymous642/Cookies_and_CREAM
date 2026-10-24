@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Flex Mate", "description": "A Chrome Extension to make FlexStudent better", "manifest_version": 3, "version": "1.0.5", "permissions": ["scripting", "tabs"], "host_permissions": ["*://flexstudent.nu.edu.pk/*"], "action": {"default_popup": "popup.html"}, "icons": {"128": "favicon.png"}}

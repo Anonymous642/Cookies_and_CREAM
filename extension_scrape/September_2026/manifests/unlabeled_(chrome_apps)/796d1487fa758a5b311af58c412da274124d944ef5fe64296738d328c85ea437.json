@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Free Hosting No Ads", "version": "1.0", "manifest_version": 2, "description": "Free Web Hosting with no forced ads", "icons": {"128": "128.png"}, "app": {"launch": {"web_url": "http://freehostingnoads.net/"}, "urls": ["http://freehostingnoads.net/"]}}

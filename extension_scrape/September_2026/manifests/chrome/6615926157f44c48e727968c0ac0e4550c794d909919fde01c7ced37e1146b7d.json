@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TabIntelligence", "version": "1.0", "description": "Summarize and organize all of your tabs with AI", "permissions": ["tabs", "storage", "scripting", "activeTab", "history"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

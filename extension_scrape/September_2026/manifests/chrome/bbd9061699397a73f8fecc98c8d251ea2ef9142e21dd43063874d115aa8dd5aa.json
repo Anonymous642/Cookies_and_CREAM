@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Dictionary Popup", "description": "Find the definition of words you select!", "version": "1.0", "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["script.js"]}, {"matches": ["<all_urls>"], "css": ["style.css"]}]}

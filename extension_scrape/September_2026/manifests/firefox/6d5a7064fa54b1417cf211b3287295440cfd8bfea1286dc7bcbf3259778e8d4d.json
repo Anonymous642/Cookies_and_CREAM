@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Woccu Screensharing", "version": "1.1resigned1", "description": "Herramienta para compartir pantalla en WoccuConference", "icons": {"128": "if.png"}, "content_scripts": [{"matches": ["*://*.wocculatam.com/videoconferencia/*"], "js": ["woccucore.js"]}], "browser_specific_settings": {"gecko": {"id": "{c5963c0b-3d0d-4e98-9e0e-6a80c4ed9aa5}"}}}

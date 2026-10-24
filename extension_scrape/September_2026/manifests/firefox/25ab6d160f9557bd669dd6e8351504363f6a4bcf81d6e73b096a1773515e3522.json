@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Password Generator", "version": "1.0", "description": "Generate a random secure password.", "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{090259e7-0a8a-4934-89a2-327556ea3346}"}}}

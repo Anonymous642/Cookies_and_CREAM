@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitch Pick Source", "version": "1.0", "description": "Collect channel points automatically", "icons": {"48": "icons/icon.svg"}, "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{f21463d4-643f-11ee-8c99-0242ac120002}"}}}

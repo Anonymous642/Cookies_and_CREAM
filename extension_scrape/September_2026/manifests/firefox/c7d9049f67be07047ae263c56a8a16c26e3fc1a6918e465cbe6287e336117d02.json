@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Move Active Tab to End", "version": "1.0", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{0e52a645-7bb6-40db-b62c-20af90e388bc}"}}}

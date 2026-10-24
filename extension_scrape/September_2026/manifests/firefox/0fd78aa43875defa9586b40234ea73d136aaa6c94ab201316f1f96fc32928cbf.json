@@ -1,0 +1,1 @@
+{"description": "Show all premium content of the Nouvelliste Website", "manifest_version": 2, "name": "Nouvelliste Premium", "version": "1.1resigned1", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.lenouvelliste.ch/*"], "js": ["nouvelliste.js"]}], "browser_specific_settings": {"gecko": {"id": "{6f392006-60c3-4dc2-88f9-9dc515fe6a86}"}}}

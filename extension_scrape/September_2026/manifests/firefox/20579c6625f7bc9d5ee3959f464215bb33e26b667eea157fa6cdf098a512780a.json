@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quiz Tab", "version": "1.0", "description": "Mini quiz khi m\u1edf tab m\u1edbi, bao g\u1ed3m nhi\u1ec1u l\u0129nh v\u1ef1c.", "chrome_url_overrides": {"newtab": "quiz.html"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "quiz-tab@example.com"}}}

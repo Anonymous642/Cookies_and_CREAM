@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PG Footnote Preview", "version": "1.0", "description": "Hover over citations on Paul Graham's essays to see a preview.", "content_scripts": [{"matches": ["*://*.paulgraham.com/*"], "js": ["content.js"]}]}

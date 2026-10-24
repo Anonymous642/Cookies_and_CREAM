@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gestor de Extensiones Vue", "description": "Una extensi\u00f3n b\u00e1sica de Chrome con Vue + Vite", "version": "1.0", "action": {"default_popup": "popup.html"}, "permissions": ["management"], "background": {"service_worker": "background.js"}, "icons": {"128": "vite.svg"}}

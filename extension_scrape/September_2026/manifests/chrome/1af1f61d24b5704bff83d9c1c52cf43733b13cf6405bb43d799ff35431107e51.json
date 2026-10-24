@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute 20-20-20 Break", "version": "1.0.0", "description": "Cute reminders for the 20-20-20 eye break rule with a simple popup timer.", "action": {"default_title": "20-20-20 Break", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

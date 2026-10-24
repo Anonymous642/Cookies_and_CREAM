@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LeetCode Reminder", "version": "4.0", "description": "Set email reminders for LeetCode problems", "permissions": ["activeTab", "storage"], "action": {"default_popup": "index.html"}, "host_permissions": ["https://leetcode.com/*"], "icons": {"128": "latesticon.png"}}

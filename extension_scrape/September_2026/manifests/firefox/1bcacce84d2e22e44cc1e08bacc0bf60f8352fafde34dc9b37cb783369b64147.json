@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Fancy Tab", "version": "0.2", "description": "Ein sch\u00f6nerer neuer Tab.", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["storage", "search", "history", "bookmarks"], "browser_specific_settings": {"gecko": {"id": "fancy-tab@maik1.dev", "strict_min_version": "142.0", "data_collection_permissions": {"required": ["none"]}}}}

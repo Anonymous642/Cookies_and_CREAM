@@ -1,0 +1,1 @@
+{"author": "Dan Mattera", "description": "Replace the New Tab page with a blank, dark tab", "chrome_url_overrides": {"newtab": "dark_tab.html"}, "chrome_settings_overrides": {"homepage": "dark_tab.html"}, "icons": {"48": "assets/48.png"}, "manifest_version": 2, "name": "Blank Dark Tab", "version": "1.0.7"}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Deepfake Detector Prototype", "version": "1.0", "description": "Prototype extension for deepfake detection", "action": {"default_popup": "popup.html"}, "permissions": []}

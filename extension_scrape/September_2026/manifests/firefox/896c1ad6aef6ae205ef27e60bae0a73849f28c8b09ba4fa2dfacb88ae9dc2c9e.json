@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube", "version": "1.1resigned1", "description": "Remove relacionados", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["youtube.js"]}], "browser_specific_settings": {"gecko": {"id": "{f1f7dee3-4e8a-4fbc-b064-ce024c0aee35}"}}}

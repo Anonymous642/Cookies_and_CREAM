@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Green Password Checker", "version": "1.0", "description": "Check your password strength instantly: Weak, Medium, or Strong.", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

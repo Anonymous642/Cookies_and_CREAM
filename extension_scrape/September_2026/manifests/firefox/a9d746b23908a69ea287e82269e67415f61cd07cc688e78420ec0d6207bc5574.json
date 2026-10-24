@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Random Group Game Picker", "version": "1.0", "description": "Pick a random fun game for a group of friends to enjoy together!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "briceyprp407403@hotmail.com"}}, "permissions": []}

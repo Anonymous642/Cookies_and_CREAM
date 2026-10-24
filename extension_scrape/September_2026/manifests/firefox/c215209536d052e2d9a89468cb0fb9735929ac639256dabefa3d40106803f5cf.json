@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Wikipedia Lookup", "version": "1.0", "description": "Look up selected text on Japanese Wikipedia.", "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{1832282b-810a-4282-a78c-2842c1e09fd6}"}}}

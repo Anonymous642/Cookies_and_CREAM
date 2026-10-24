@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Logo Builder", "version": "1.0.0", "description": "Create and customize simple logos with text, shapes, and colors", "permissions": ["storage"], "action": {"default_popup": "popup.html", "default_title": "Logo Builder"}, "background": {"service_worker": "background.js"}}

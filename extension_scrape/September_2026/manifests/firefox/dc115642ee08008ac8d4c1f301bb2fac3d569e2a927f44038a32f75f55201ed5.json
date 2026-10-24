@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Game Wiki Quick Search", "version": "1.0", "description": "Quickly search game wikis from a popup.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["tabs"], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{184bbe19-2c94-451b-aa8a-94691026cdc0}"}}}

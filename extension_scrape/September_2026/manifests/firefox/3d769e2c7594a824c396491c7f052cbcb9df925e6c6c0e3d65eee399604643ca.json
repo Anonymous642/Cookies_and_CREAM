@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No Shorts on YouTube", "description": "This extension removes the shorts section of the youtube webpage to make it more difficult to waste time on the site.", "version": "1.3", "content_scripts": [{"js": ["no-shorts.js"], "matches": ["https://www.youtube.com/*"]}], "browser_specific_settings": {"gecko": {"id": "noshorts@arikrundquist.us"}}}

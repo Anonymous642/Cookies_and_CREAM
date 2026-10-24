@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "FSE Plus", "version": "0.3.0", "description": "FS Economy Extended Features", "content_scripts": [{"css": ["styles.css"], "js": ["content.js"], "matches": ["https://server.fseconomy.net/*", "https://dispatch.simbrief.com/options/new*"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Thyroid Nodule TIRADS Reporting Tool - VAK", "version": "5.3", "action": {"default_popup": "popup.html", "default_title": "Thyroid Nodule TIRADS Reporting Tool - VAK"}, "permissions": ["clipboardWrite"]}

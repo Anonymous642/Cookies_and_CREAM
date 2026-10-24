@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Downr - YouTube Downloader", "version": "1.0", "description": "Download YouTube videos", "browser_action": {"default_title": "Download YouTube videos"}, "background": {"scripts": ["background.js"]}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{3bed92da-0523-40b1-9746-3d4c399ab702}"}}}

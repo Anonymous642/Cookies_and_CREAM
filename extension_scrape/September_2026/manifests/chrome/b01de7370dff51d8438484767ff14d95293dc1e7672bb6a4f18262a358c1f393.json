@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ETH JSON-RPC Analyzer DevTools", "version": "1.0", "description": "\u5728 DevTools Network \u9762\u677f\u5206\u6790 ETH JSON-RPC \u5e76\u8c03\u7528 OpenChain API", "permissions": [], "devtools_page": "devtools.html"}

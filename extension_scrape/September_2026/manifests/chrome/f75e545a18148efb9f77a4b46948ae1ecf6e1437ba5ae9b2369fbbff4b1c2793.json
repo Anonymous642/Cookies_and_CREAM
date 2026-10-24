@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "BA II Plus Financial Calculator", "version": "2.0", "description": "Texas Instruments BA II Plus-style financial calculator for TVM and arithmetic.", "action": {"default_popup": "popup.html"}, "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bookmarks Dashboard", "version": "1.2", "description": "A custom dashboard for Firefox bookmarks", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["bookmarks", "storage", "tabs"], "browser_specific_settings": {"gecko": {"id": "vuorre@gmail.com"}}, "icons": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}}

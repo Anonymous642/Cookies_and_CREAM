@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "USD to KES Converter", "version": "1.0", "description": "A simple extension that converts USD to KES ", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate-api.com/"], "browser_specific_settings": {"gecko": {"id": "{d80ab431-9635-4979-a329-41f026b3fde3}"}}}

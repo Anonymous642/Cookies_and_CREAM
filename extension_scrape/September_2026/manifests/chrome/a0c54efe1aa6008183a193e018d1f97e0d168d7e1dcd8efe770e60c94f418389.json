@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CopyPasta \ud83c\udf5d", "version": "1.0", "description": "Save multiple copied texts and paste them like delicious CopyPasta! \ud83c\udf5d", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage", "clipboardWrite"]}

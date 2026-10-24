@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Today's Luck (Cute)", "version": "1.0.0", "description": "See a cute 'today's luck' score and message. Offline, simple, and no complicated permissions.", "action": {"default_title": "Today's Luck", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

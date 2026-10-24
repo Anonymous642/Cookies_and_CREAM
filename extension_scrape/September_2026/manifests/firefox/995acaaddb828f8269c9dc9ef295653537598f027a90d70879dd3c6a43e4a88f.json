@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Cylinder Calculator", "version": "1.0", "description": "Calculates the surface area and volume of a cylinder", "icons": {"48": "icon.png"}, "browser_action": {"default_icon": "icon.png", "default_title": "Cylinder Calculator", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{aba10e3b-f545-40c0-8bac-fa7f3e99c494}"}}}

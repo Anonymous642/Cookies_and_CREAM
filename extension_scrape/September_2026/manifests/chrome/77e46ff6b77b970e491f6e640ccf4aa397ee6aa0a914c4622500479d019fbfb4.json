@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Slow Auto Scroll", "version": "1.0.0", "description": "Smooth, adjustable auto-scroll for the current page.", "action": {"default_title": "Slow Auto Scroll", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}, "permissions": ["activeTab", "scripting"]}

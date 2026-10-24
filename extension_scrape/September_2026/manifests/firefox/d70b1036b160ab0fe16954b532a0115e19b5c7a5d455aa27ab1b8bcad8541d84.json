@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove Qwant Ads", "version": "2026.0", "description": "Remove all ads from the search engine Qwant", "browser_specific_settings": {"gecko": {"id": "removeads@qwant", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"matches": ["*://*.qwant.com/*"], "js": ["removeqwantads.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PROTECTOR DE PANTALLA - PIXEL SHIFTER", "version": "1.0", "description": "Extensi\u00f3n que mueve el contenido para prevenir burn-in", "content_scripts": [{"matches": ["*://app.powerbi.com/*"], "js": ["content.js"]}], "permissions": [], "browser_specific_settings": {"gecko": {"id": "{80f10a4c-b68e-4c55-a379-049473eb1f00}"}}}

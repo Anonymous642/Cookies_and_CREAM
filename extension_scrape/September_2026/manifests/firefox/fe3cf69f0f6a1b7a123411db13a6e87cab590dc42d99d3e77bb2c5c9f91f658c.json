@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fire the chef", "version": "1.0", "author": "Benjamin Riezler", "description": "Removes all search results for chefkoch.de from a google (com, de, at, ch) search", "icons": {"48": "icons/x.png"}, "content_scripts": [{"matches": ["*://*.google.de/*", "*://*.google.com/*", "*://*.google.at/*", "*://*.google.ch/*"], "js": ["fire_the_chef.js"]}]}

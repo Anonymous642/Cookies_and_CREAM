@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "minimal-cross-device-tab-migration", "version": "1.0.0", "action": {"default_popup": "index.html"}, "permissions": ["tabs", "scripting"], "host_permissions": ["*://*/*"], "browser_specific_settings": {"gecko": {"id": "{37E3B92C-1E8E-4ECB-88B1-D4A7E293215A}", "strict_min_version": "120.0"}}}

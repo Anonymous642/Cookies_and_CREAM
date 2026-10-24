@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Compliment Tab", "version": "1.0", "description": "Hi\u1ec3n th\u1ecb m\u1ed9t l\u1eddi khen ng\u1eabu nhi\u00ean m\u1ed7i khi m\u1edf tab m\u1edbi.", "icons": {"48": "icon.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{909ef4f0-7403-4333-91b2-42291c5aa51d}"}}}

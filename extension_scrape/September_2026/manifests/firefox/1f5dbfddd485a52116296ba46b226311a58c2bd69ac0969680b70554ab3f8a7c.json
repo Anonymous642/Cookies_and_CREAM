@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AUD to NZD Converter", "version": "1.0", "description": "A simple converter for AUD to NZD.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{565e0b77-e47c-414e-a17d-5e44b82be612}"}}}

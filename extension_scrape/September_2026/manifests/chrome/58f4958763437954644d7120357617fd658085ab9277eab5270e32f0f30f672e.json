@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Extremely Simple New Tab", "version": "1.0", "description": "New tab that has a clock and a Markdown note", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["storage"]}

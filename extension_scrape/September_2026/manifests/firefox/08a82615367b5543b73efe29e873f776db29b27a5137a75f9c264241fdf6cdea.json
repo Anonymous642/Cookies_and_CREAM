@@ -1,0 +1,1 @@
+{"name": "touch navigation", "description": "go backward, forward in your browser history with touch swipes", "manifest_version": 2, "version": "1.4", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content-script.js"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "touchnavigation@h43z"}}, "permissions": ["activeTab"]}

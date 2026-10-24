@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bookmark Courier", "version": "1.0", "description": "Select a bookmark folder and send it via gmail.", "permissions": ["bookmarks"], "icons": {"128": "icons/icon_128.png"}, "action": {"default_icon": "icons/icon_128.png", "default_popup": "index.html"}}

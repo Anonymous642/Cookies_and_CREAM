@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Stockfish Chess Engine", "description": "Chess analysis engine", "version": "2.3.1.2", "manifest_version": 2, "icons": {"128": "stockfish.png"}, "app": {"urls": ["http://chesseng.herokuapp.com/"], "launch": {"web_url": "http://chesseng.herokuapp.com/"}}}

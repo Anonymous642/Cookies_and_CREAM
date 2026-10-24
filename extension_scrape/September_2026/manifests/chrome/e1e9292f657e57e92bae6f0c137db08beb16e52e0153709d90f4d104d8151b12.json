@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LION BUSINESS REFRESH", "description": "Auto refresh com intervalo configur\u00e1vel e indicador de status", "version": "1.0", "action": {"default_popup": "popup.html"}, "background": {"service_worker": "background.js"}, "icons": {"128": "lb.png"}}

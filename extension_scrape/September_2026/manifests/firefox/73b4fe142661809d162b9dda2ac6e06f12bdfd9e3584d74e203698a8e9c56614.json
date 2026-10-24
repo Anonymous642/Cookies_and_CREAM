@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AZN to TMT Converter", "version": "1.0", "description": "Convert Azerbaijani Manat (AZN) to Turkmenistani Manat (TMT).", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/"], "browser_specific_settings": {"gecko": {"id": "{6bbaa4dc-5e9b-434d-911a-72eaafced4eb}"}}}

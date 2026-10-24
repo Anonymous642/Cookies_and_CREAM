@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search on Google Map", "version": "0.2resigned1", "description": "Right-click to search the selected text on Google Map", "icons": {"512": "icons/icon-512.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{28b773bf-5ae2-4732-b58f-b31b632ae0c3}"}}}

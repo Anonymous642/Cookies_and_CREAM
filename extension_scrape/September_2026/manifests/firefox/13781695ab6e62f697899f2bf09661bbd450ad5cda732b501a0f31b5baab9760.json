@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Reloader", "version": "1.0", "description": "Reloads the current tab at a set interval.", "permissions": ["tabs", "activeTab"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{b8bd18e3-6928-457f-9487-7daf8a8db237}"}}}

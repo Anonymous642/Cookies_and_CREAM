@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VacYourFriends", "version": "1.0.1", "default_locale": "en", "icons": {"150": "vacicon.png"}, "permissions": ["*://*.steamcommunity.com/*", "tabs"], "background": {"scripts": ["background.js"], "persistent": true}, "browser_action": {}}

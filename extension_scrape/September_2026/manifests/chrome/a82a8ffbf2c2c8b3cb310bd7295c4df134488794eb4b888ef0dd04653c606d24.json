@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SuiteScript Converter", "version": "1.0", "description": "Convert JavaScript code to SuiteScript.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"16": "icon.png"}}

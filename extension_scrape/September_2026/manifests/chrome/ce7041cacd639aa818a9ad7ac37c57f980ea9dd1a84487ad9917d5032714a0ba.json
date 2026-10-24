@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LuxaPlus", "version": "1.0", "permissions": ["webNavigation"], "host_permissions": ["*://www.roblox.com/*"], "background": {"service_worker": "background.js"}}

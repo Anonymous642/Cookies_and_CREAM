@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Thangs SearchScope Fixer", "version": "1.0", "description": "\u00c4ndert den searchScope bei thangs.com auf 'all'.", "permissions": ["webRequest", "webRequestBlocking", "tabs", "*://thangs.com/search/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{abeb3cea-7188-41ae-b03a-04c050e93c4c}"}}}

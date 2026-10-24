@@ -1,0 +1,1 @@
+{"manifest_version": 2, "author": "Nolan", "name": "Sugoi Extension", "version": "2.1resigned1", "content_scripts": [{"matches": ["<all_urls>"], "js": ["jquery-3.3.1.js", "content.js"]}], "permissions": ["webRequest", "<all_urls>"], "browser_specific_settings": {"gecko": {"id": "{2c86ce41-dd9d-405b-8365-4c7fcf63a622}"}}}

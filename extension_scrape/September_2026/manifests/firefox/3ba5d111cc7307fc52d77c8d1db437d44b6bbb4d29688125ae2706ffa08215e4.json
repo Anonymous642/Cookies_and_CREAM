@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitch Dev Dark Theme", "version": "1.0", "description": "Changes the background color of dev.twitch.dev to rgb(36, 36, 36) and color white.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://dev.twitch.tv/*"], "css": ["styles.css"]}], "browser_specific_settings": {"gecko": {"id": "{d078af9e-9257-4c05-a99a-2d16e0f0fe4e}"}}}

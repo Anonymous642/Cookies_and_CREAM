@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Breathe - Retro Coach", "version": "1.0.3", "description": "Guided breathing for stress relief, focus, and sleep.", "background": {"service_worker": "background.js"}, "action": {"default_title": "Breathe - Retro Coach"}, "permissions": ["tabs", "alarms"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MNT to PYG Converter", "version": "1.0", "description": "Convert Mongolian Tugrik (MNT) to Paraguayan Guarani (PYG).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert MNT to PYG"}, "browser_specific_settings": {"gecko": {"id": "{1f56d8d6-4576-41c6-8fcd-d92d704b33e3}"}}}

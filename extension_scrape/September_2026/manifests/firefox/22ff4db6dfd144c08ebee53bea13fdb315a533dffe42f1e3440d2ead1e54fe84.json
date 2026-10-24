@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Run and bun calc enhancer", "version": "1.2", "description": "Run and bun calc enhancer.", "permissions": ["https://calc.runandbun.com/*"], "content_scripts": [{"matches": ["https://calc.runandbun.com/*"], "js": ["Content.js"]}], "browser_specific_settings": {"gecko": {"id": "{bb0ea9ac-b1bb-422f-b90c-16fc93cd1785}"}}}

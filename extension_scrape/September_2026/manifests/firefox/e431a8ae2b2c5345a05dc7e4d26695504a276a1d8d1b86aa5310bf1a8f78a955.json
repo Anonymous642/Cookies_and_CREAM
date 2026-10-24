@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ronald Jack Setup Guide", "version": "1.0", "description": "Simple guide to install Ronald Jack time attendance devices.", "browser_action": {"default_popup": "popup.html"}, "applications": {"gecko": {"id": "ronald_jack_setup@digitaltech.com.vn"}}}

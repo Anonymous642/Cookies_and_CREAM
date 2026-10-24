@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Notes", "version": "1.0", "description": "Ghi ch\u00fa nhanh trong Firefox v\u00e0 l\u01b0u t\u1ef1 \u0111\u1ed9ng.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{de4a4d51-1cc5-487d-b954-f75cb9a006f8}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Many Tabs", "version": "1.1", "description": "Keep track of the number of open tabs and windows", "action": {"default_popup": "popup.html"}, "permissions": [], "background": {"service_worker": "background.js"}, "icons": {"128": "icons/icon128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Snow Status Picker", "version": "1.0.0", "description": "Randomly pick a clean social media status in a minimal snow-white popup.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon-128.png"}}, "icons": {"128": "icon-128.png"}}

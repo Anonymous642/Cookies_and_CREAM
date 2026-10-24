@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Reviewtube: Youtube reviews for Amazon products", "version": "1.1", "permissions": ["https://www.amazon.com/*", "https://www.amazon.in/*"], "content_scripts": [{"matches": ["https://www.amazon.com/*/dp/*", "https://www.amazon.in/*/dp/*"], "js": ["content.js"]}]}

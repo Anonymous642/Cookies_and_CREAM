@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab Mute Control", "version": "1.0", "description": "Mute tabs individually.", "action": {"default_popup": "popup.html", "default_icon": "tab_mute_control.png"}, "icons": {"128": "tab_mute_control.png"}, "permissions": ["tabs", "activeTab", "storage"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab One-Click Save", "version": "1.0.0", "description": "Save all tabs in the current window to one list, then restore them all at once.", "permissions": ["tabs"], "action": {"default_popup": "popup.html", "default_title": "Tab One-Click Save"}}

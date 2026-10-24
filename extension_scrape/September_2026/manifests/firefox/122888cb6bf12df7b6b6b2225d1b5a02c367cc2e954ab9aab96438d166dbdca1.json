@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Transparent Background Fixer", "version": "1.0", "description": "Changes transparent backgrounds to whitesmoke.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{321e0d19-70da-4378-91d4-3e07199fa3ca}"}}}

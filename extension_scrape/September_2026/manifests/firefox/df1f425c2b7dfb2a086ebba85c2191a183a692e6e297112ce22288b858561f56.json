@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BetterProsple", "version": "1.1", "description": "Filters out opening jobs", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*.prosple.com/*"], "js": ["BetterProsple.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{cc2d4c7a-6125-4c89-8471-b752a2a6311b}"}}}

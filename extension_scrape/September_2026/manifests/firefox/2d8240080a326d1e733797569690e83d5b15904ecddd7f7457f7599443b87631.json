@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FJD to RWF Converter", "version": "1.0", "description": "Convert Fijian Dollar (FJD) to Rwandan Franc (RWF).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert FJD to RWF"}, "browser_specific_settings": {"gecko": {"id": "{2feb5e61-8536-4886-8a5b-17b602cdf591}"}}}

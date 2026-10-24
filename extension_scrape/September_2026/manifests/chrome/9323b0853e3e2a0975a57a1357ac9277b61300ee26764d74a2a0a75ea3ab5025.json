@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LitPass", "description": "The irreversible, repeatable password generator.", "version": "1.3", "action": {"default_popup": "main.htm", "default_icon": "icon.png"}, "permissions": ["storage"], "host_permissions": ["https://litpass.cdnja.com/*"]}

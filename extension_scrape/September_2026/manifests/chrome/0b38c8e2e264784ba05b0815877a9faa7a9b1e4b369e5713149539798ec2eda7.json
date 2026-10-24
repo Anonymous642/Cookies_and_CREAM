@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Word Counter", "version": "1.0", "description": "Shows word count, character count, and reading time for selected text or page.", "icons": {"128": "icon128.png"}, "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_icon": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Group URL Copier", "version": "1.0", "description": "Copies all URLs from tabs in the current window to the clipboard.", "permissions": ["tabs", "contextMenus", "clipboardWrite", "activeTab"], "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"id": "tab-group-url-copier@sid", "strict_min_version": "102.0"}}}

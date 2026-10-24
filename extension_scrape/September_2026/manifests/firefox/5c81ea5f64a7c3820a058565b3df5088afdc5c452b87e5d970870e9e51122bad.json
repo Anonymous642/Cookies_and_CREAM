@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NewTabFromPinnedOnRight", "description": "Open new tabs opened from pinned tabs on the far right of the tab bar.", "version": "0.0.2resigned1", "background": {"scripts": ["background.js"]}, "icons": {"64": "icons/icon.png"}, "browser_specific_settings": {"gecko": {"id": "{ad533597-2e29-40f1-afbe-675e7158928b}"}}}

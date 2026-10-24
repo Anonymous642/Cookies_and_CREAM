@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Trailhead Task Tracker", "version": "1.1", "description": "Adds checkboxes to steps in Trailhead for easy progress tracking", "permissions": ["storage"], "icons": {"128": "logo.png"}, "content_scripts": [{"matches": ["https://trailhead.salesforce.com/*"], "js": ["content.js"]}]}

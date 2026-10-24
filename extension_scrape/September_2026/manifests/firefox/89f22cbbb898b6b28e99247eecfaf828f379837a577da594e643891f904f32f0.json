@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Custom New Tab", "version": "1.0", "description": "Displays custom content in a new tab.", "browser_specific_settings": {"gecko": {"id": "customnewtab@digiform.com", "strict_min_version": "91.1.0"}}, "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["proxy", "tabs"], "host_permissions": ["https://calendar.bornasan.ir/*"]}

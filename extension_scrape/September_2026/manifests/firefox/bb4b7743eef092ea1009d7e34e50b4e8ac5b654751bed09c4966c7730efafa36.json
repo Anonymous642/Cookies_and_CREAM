@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Live Wallpaper New Tab", "version": "1.0", "description": "Set a custom video live wallpaper for your new tab background.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "live-wallpaper-gabriel@gabriellmal", "data_collection_permissions": {"required": ["none"]}}}}

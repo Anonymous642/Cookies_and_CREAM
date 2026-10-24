@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SeriousEatsBannerRemover", "version": "1.0", "description": "Removes the cookie banner from the Serious Eats site", "content_scripts": [{"matches": ["*://*.seriouseats.com/*"], "js": ["remove.js"]}], "browser_specific_settings": {"gecko": {"id": "{f0684907-c666-4770-ba2a-262b9bb4386b}"}}}

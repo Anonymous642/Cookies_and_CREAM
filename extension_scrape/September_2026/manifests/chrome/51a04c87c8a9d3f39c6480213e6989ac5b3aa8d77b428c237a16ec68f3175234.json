@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "smarttabbi", "version": "1.0", "description": "organize your tabs into cute folders!", "permissions": ["tabs", "storage"], "action": {"default_popup": "popup.html", "default_icon": {"16": "cat_icon16.png", "128": "cat_icon128.png"}}}

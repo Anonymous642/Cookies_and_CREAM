@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bulk Image Grabber", "version": "1.0", "description": "Bulk Image Grabber: Download all page images.", "action": {"default_popup": "popup.html", "default_icon": "bulk_image_grabber.png"}, "icons": {"128": "bulk_image_grabber.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Markdown Previewer", "version": "1.0.0", "description": "Renders local .md files as styled HTML in Chrome.", "host_permissions": ["file:///*"], "content_scripts": [{"matches": ["file:///*"], "js": ["content.js"], "css": ["styles.css"], "run_at": "document_end"}]}

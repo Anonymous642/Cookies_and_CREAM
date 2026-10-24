@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Log Dictionary", "version": "0.1.5", "action": {"default_icon": "icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "privacy-policy": "https://indianathe3rdking.github.io/Quick-Log-extension/privacy-policy.html"}

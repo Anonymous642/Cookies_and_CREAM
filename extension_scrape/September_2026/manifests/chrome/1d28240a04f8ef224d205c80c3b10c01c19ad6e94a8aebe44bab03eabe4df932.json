@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "refreshPowerBIV3", "action": {}, "manifest_version": 3, "version": "5.0", "description": "(V3) Actually refreshes Power BI dashboard every set interval (real)", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "content-script.js"}, "icons": {"128": "icon.png"}}

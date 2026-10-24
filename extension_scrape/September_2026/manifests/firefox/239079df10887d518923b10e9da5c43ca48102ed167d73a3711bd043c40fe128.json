@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Carbon Footprint Tracker", "version": "1.0", "description": "Track your carbon footprint over time with trend analysis.", "icons": {"48": "icon.png"}, "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{5c1a2001-a4ed-4a55-8e85-c2261cc3b411}"}}}

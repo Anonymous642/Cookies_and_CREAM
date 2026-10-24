@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "todo", "description": "what todo brought to Packaged Apps.", "version": "1", "offline_enabled": true, "app": {"background": {"scripts": ["main.js"]}}, "permissions": ["storage"], "icons": {"16": "16.png", "32": "32.png", "64": "64.png", "128": "128.png"}}

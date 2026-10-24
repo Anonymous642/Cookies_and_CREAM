@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Scroll", "version": "1.0", "description": "Automatically scroll down the page.", "permissions": ["activeTab"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{d6e8e309-6a11-4823-8475-e7fde922780b}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "gruvbox-everything", "version": "1.1", "description": "make a lot of websites appear in a gruvbox theme", "browser_specific_settings": {"gecko": {"id": "gruvbox-everything@thebaum123.github.io"}}, "content_scripts": [{"matches": ["*://devdocs.io/*"], "js": ["js/devdocs.io.js"]}, {"matches": ["*://*.google.com/*"], "css": ["css/google.com.css"]}]}

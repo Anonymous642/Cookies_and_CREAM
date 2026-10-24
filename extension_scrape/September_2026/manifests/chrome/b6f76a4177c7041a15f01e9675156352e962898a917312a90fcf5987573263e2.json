@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Audio Karate: Compressor & EQ", "version": "1.0", "description": "Advanced Audio Compression & EQ.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_icon": {"128": "icon.png"}}, "icons": {"128": "icon.png"}}

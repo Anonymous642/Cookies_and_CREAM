@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple Timer", "description": "Record activities and track how you spend your time", "version": "1.2", "action": {"default_popup": "index.html", "default_icon": "timer.png"}, "permissions": ["offscreen"], "background": {"service_worker": "service-worker.js"}}

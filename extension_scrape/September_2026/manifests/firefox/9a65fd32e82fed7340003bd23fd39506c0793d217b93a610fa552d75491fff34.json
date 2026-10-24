@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Math Solver", "version": "1.0", "description": "Solve math problems quickly and easily.", "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{8d1b1ca7-e8fd-4573-8848-7e72bd867468}"}}}

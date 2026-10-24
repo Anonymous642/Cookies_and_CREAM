@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Scroll by Button", "version": "1.0", "description": "Scroll using large on-screen up/down arrows.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_title": "Scroll by Button", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{50d3c850-7b2c-406a-ad43-2a1ea8e12224}"}}}

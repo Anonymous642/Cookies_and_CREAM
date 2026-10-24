@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LogSweep", "version": "1.0", "description": "View & Delete Salesforce Debug Logs", "permissions": ["scripting", "activeTab"], "icons": {"128": "icon128.png"}, "host_permissions": ["*://*.salesforce.com/*", "*://*.lightning.force.com/*"], "action": {"default_popup": "popup.html"}}

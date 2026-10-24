@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DRAWER2", "version": "2.2", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["tabs"], "icons": {"128": "icon128.png"}}

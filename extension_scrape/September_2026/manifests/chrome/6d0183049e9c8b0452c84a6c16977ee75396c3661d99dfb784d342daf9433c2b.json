@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Media Shield", "version": "3.0.0", "description": "Check images for potential AI-generation, manipulation, and authenticity indicators.", "permissions": ["storage", "tabs"], "action": {"default_title": "Media Shield", "default_popup": "popup.html"}}

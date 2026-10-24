@@ -1,0 +1,1 @@
+{"description": "Blocking all font requests", "manifest_version": 2, "name": "nofont", "version": "1.0", "icons": {"48": "nofont-48.png", "96": "nofont-96.png"}, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["app.js"]}, "browser_specific_settings": {"gecko": {"id": "{e158c455-79be-40fd-b667-879742fe3c30}"}}}

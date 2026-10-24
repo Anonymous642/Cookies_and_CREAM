@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Floaters", "version": "1", "minimum_chrome_version": "23", "icons": {"16": "images/icon_16.png", "128": "images/icon_128.png"}, "app": {"background": {"scripts": ["main.js"]}}, "permissions": ["storage"]}

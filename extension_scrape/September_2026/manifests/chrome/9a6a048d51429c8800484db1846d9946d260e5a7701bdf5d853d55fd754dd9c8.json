@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Weather Details", "version": "1.0.0", "description": "Latest Weather Details based on Location", "manifest_version": 3, "author": "Pradeep Kumar Sundaramurthy", "action": {"default_popup": "index.html", "default_title": "Latest Weather Details"}}

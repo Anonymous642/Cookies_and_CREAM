@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Herramienta de Plantillas de Finanzas", "version": "1.0", "description": "Inyecta plantillas de correo para el equipo de finanzas", "permissions": ["activeTab", "scripting"], "action": {"default_title": "Abrir men\u00fa de plantillas", "default_popup": "popup.html"}}

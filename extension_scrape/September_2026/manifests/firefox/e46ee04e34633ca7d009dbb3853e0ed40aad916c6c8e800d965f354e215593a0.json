@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pinned Tab Flashing", "version": "1.0", "description": "Disable pinned tabs flashing", "content_scripts": [{"matches": ["https://www.messenger.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{4a348504-c02d-485f-a2a4-e71732cbdebc}"}}}

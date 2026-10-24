@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "eBay Tab Manager", "version": "1.0", "description": "Prevents eBay from opening new tabs when clicking on items, ensuring a smoother and less cluttered browsing experience", "content_scripts": [{"matches": ["*://*.ebay.com/sch/*"], "js": ["nonewtab.js"]}], "browser_specific_settings": {"gecko": {"id": "{b16b7f15-7e66-4db7-9454-27530d0c12be}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Remove Twitch Stories", "version": "1.3.0", "description": "Removes twitch stories from the side navigation menu.", "background": {"service_worker": "background.js"}, "content_scripts": [{"matches": ["*://www.twitch.tv/*"], "js": ["content.js"]}]}

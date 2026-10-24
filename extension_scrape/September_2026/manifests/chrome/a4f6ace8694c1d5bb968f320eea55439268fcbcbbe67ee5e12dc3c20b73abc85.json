@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Motivation Popup - Daily Quotes", "version": "1.0.0", "description": "Shows a motivational quote every time you open the popup. Offline, lightweight, no permissions.", "action": {"default_title": "Motivation Popup", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

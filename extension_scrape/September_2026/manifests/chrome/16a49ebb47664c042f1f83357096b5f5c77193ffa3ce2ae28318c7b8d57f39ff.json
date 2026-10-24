@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Crypto.com - NFT Rank displayer", "description": "__MSG_description__", "version": "1.0.2", "icons": {"128": "data/img/icon128.png"}, "default_locale": "en", "content_scripts": [{"matches": ["https://crypto.com/nft/*"], "js": ["data/js/main.js"]}], "manifest_version": 3}

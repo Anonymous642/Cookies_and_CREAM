@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "2024.06.28.15", "name": "OmnivaTrack", "description": "Track using Omniva", "icons": {"128": "images/omniva.png"}, "permissions": ["contextMenus"], "background": {"service_worker": "background.js"}}

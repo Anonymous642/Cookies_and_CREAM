@@ -1,0 +1,1 @@
+{"name": "Non Gooner Kemono", "version": "1.0", "description": "A simple extension to remove the gooner theming.", "manifest_version": 3, "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://kemono.su/*"], "js": ["content.js"]}], "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "non-gooner-kemono@example.com"}}}

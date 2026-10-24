@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Unit Converter", "version": "1.0.0", "description": "Simple Ethereum Unit Converter", "manifest_version": 3, "author": "EzTools", "action": {"default_popup": "index.html", "default_title": "Ez Unit Converter"}}

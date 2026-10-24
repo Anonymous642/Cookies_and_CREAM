@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UserlessChatGPT", "version": "1.0.1", "description": "Automatically press stay logged out when accessing ChatGPT", "icons": {"48": "icons/icon.jpg"}, "content_scripts": [{"matches": ["*://chatgpt.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{9a34fb26-8257-4b28-87f8-9fe80289c2a6}"}}}

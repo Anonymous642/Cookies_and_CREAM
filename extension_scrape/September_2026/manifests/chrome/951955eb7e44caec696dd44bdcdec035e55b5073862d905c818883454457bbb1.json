@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Very Basic Extension", "version": "1.0.0", "description": "A tiny starter extension with a popup button.", "action": {"default_title": "Basic Extension", "default_popup": "popup.html"}, "permissions": ["activeTab", "scripting"]}

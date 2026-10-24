@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Nightfall Survival", "version": "1.5.0", "description": "Nightfall Survival - an offline 2D survival game.", "permissions": ["storage"], "action": {"default_title": "Play Nightfall Survival"}, "background": {"service_worker": "background.js"}, "icons": {"128": "icons/icon128.png"}}

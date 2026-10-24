@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GIF Clock New Tab", "version": "1.0", "description": "A fullscreen GIF with a clock for your new tab page.", "icons": {"128": "icon128.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Kobold", "version": "1.0", "description": "Easily download videos from YouTube using Cobalt", "icons": {"100": "guy.png"}, "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["main.js"]}], "web_accessible_resources": ["guy.png"], "browser_specific_settings": {"gecko": {"id": "{1fd69438-af01-4eb7-b669-d4bde49bab79}"}}}

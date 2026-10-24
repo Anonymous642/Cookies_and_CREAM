@@ -1,0 +1,1 @@
+{"manifest_version": 3, "browser_specific_settings": {"gecko": {"id": "gh-pr-cleaner@velocity.hcl"}}, "name": "GH PR cleaner", "version": "1.4", "description": "Cleanup GH PR page", "content_scripts": [{"js": ["github01.hclpnp.js"], "matches": ["https://github01.hclpnp.com/*"]}]}

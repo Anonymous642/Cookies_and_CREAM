@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ludo XP \u2013 Daily Spin & Rewards", "version": "1.0", "description": "Spin the wheel daily and win rewards for XP786!", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{11129b7c-09c9-4ceb-a667-4126228fe096}"}}}

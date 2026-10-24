@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Timetable Creator", "version": "1.0", "description": "Create a 5x7 grid to quickly fill in a personal study or work schedule.", "action": {"default_popup": "popup.html", "default_icon": "timetable_creator.png"}, "icons": {"128": "timetable_creator.png"}, "browser_specific_settings": {"gecko": {"id": "carmelo3barclayyuhy402@hotmail.com"}}}

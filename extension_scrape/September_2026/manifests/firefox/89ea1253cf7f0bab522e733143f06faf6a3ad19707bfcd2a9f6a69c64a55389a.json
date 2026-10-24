@@ -1,0 +1,1 @@
+{"description": "Declutter Youtube.", "manifest_version": 2, "name": "Minimal YouTube", "version": "1.0.0", "homepage_url": "https://github.com/choochootrain/minimal-youtube", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["declutter.js"]}], "browser_specific_settings": {"gecko": {"id": "{20d12146-50b7-47ca-a212-8caf30b5e2ab}"}}}

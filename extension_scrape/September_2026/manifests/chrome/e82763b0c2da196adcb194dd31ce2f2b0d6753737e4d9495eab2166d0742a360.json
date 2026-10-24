@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Local Password Generator", "version": "1.0", "description": "Local Password Generator: Generate passwords", "action": {"default_popup": "popup.html", "default_icon": "local_password_generator.png"}, "icons": {"128": "local_password_generator.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "xLogin by Nocturnal", "version": "1.0", "description": "Se connecter \u00e0 un token discord facilement et simplement.", "permissions": ["tabs"], "browser_action": {"default_icon": "icon.jpg", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{55210985-28ec-470b-90c7-22620cb60d54}"}}}

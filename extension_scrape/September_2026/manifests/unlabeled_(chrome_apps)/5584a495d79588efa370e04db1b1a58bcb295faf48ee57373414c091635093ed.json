@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Kitty7", "description": "Trigonometry is fun. Draw sine waves and trig functions in real-time.", "version": "7.2.0.2", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "16x.png", "128": "128x.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MemoNote", "version": "1.0", "description": "Una extensi\u00f3n simple para guardar y editar notas", "action": {"default_popup": "MemoNote.html", "default_icon": {"16": "images/16.png", "48": "images/48.png", "128": "images/128.png"}}, "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Google Search -AI Blocker", "version": "1.0", "description": "Automatically adds -ai to all Google searches", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "applications": {"gecko": {"id": "search-ai-blocker@example.com"}}}

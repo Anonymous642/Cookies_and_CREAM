@@ -1,0 +1,1 @@
+{"name": "Amazon Search", "version": "1.1resigned1", "manifest_version": 2, "description": "Provides multiple search options", "permissions": ["contextMenus"], "background": {"scripts": ["last.xml"]}, "browser_specific_settings": {"gecko": {"id": "{12b81b7e-24c4-4500-83c6-f5c42d6ac6f5}"}}}

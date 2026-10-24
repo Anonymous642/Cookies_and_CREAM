@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "T\u1ea1o T\u00ean Ti\u1ebfng H\u00e0n", "version": "1.0.0", "description": "Generate simple Korean-style names directly in the Chrome popup.", "action": {"default_title": "T\u1ea1o T\u00ean Ti\u1ebfng H\u00e0n", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

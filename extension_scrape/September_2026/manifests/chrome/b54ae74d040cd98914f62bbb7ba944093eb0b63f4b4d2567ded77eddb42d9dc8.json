@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "28Tech Competitive Companion", "version": "0.1", "description": "Integrates 28Tech OJ with Competitive Companion", "content_scripts": [{"matches": ["https://oj.28tech.com.vn/problem/*"], "js": ["content.js"]}]}

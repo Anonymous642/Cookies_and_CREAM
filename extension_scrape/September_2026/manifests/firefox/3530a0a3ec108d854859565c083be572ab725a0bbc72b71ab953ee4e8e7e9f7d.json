@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Site Ziyaret Sayac\u0131", "version": "1.0", "description": "Ziyaret edilen siteleri takip eder.", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>", "storage"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{72b450f5-98b7-4167-a192-3f8218a9f1dd}"}}}

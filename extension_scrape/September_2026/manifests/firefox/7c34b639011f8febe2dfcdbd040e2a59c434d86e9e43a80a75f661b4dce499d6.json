@@ -1,0 +1,1 @@
+{"version": "1.0", "name": "Megatron NewtabNewtab", "chrome_url_overrides": {"newtab": "index.html"}, "description": "Edit new tab with megatron image and functions", "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{6056c17a-c6d2-4872-8c53-527a7ae4a3cb}"}}}

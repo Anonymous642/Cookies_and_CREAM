@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Page Refresher", "version": "1.0", "description": "Automatically refresh the current tab at set intervals.", "permissions": ["tabs", "activeTab"], "browser_action": {"default_icon": {"48": "icon.png"}, "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{6b604374-309a-4c74-9160-b10c5f636ae5}"}}}

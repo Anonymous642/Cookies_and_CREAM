@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.1", "name": "Lavender Glow Tab", "chrome_url_overrides": {"newtab": "index.html"}, "description": "A serene lavender field under a starry sky", "manifest_version": 3}

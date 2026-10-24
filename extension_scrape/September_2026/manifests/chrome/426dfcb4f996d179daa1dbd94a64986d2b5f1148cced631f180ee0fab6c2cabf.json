@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Google Maps Redirection", "short_name": "Maps Redirection", "version": "3.2", "manifest_version": 3, "content_scripts": [{"matches": ["https://www.google.com/search?*"], "js": ["custom.js"], "css": ["custom.css"]}], "icons": {"128": "logo-128x128.png", "192": "logo-192x192.png"}}

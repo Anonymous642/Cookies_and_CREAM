@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "T\u00ednh T\u1ef7 L\u1ec7", "version": "1.0", "description": "T\u00ednh t\u1ef7 l\u1ec7 gi\u1eefa hai s\u1ed1.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{97ab3e1a-af6f-4e8e-93f7-5cfcdcdbde55}"}}}

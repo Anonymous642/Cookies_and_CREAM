@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Recherche+", "version": "1.3", "description": "Moteur de recherche augment\u00e9 avec filtres intelligents", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "sm-research@extension", "strict_min_version": "142.0", "data_collection_permissions": {"required": ["none"]}}}}

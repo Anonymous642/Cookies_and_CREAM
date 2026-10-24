@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hide YouTube Shorts", "version": "1.0", "description": "Hides Shorts from YouTube's home feed and recommendations.", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{ed155180-34e4-4b40-904a-9c78d2e3aa75}"}}}

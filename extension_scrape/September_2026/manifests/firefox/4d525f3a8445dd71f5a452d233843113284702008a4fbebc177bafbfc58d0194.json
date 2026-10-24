@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Version Control Diff", "version": "1.0", "description": "Compare differences between two code versions.", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{39a21a9c-1a65-4417-b74e-9b5d128f5517}"}}}

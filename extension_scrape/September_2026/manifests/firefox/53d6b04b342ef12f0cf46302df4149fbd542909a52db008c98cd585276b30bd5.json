@@ -1,0 +1,1 @@
+{"manifest_version": 3, "browser_specific_settings": {"gecko": {"id": "sargdsra@gmail.com"}}, "name": "NN Stickers", "version": "0.3", "description": "Show NN stickers.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

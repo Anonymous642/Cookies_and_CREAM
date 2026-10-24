@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "H,P TAG Box Copier", "action": {}, "manifest_version": 3, "version": "0.9", "description": "\ud074\ub9ad\uc2dc h tag p tag \ubcf5\uc0ac", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}}

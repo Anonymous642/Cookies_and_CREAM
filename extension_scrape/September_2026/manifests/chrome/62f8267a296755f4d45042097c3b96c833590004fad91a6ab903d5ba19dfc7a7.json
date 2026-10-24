@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Antigravity", "version": "1.0.0", "description": "A neon side-scrolling gravity-flip arcade game. Flip gravity, dodge obstacles, and chase your high score.", "action": {"default_popup": "popup.html", "default_title": "Antigravity"}, "permissions": ["storage"]}

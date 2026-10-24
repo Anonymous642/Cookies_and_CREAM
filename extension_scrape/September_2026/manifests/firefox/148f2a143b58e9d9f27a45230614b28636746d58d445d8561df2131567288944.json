@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Access Tool", "version": "1.0", "description": "Quickly access useful links from your browser.", "browser_action": {"default_popup": "popup.html", "default_title": "Open Tool"}, "browser_specific_settings": {"gecko": {"id": "quickaccess@coinmasterhub.com", "data_collection_permissions": {"required": ["none"], "optional": []}}}}

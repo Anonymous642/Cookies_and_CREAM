@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Auto Recompile", "version": "1.0", "description": "Automatically clicks recompile when editor changes", "icons": {"128": "reload-apple.png"}, "content_scripts": [{"matches": ["https://www.overleaf.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

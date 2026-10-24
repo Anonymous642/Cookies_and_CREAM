@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Only corgi", "version": "1.0.0", "description": "corgi. Because corgi.", "manifest_version": 3, "author": "M\u00e9lanie Dang", "action": {"default_popup": "index.html", "default_icon": "corgi.png"}}

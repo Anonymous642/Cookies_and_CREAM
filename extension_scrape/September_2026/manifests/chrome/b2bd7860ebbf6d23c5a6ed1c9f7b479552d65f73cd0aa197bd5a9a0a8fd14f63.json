@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AutoScroller for YouTube", "version": "1.0", "description": "Automatically clicks the Next button on YouTube Shorts.", "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["content.js"], "css": ["style.css"]}]}

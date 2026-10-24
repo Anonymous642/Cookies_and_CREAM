@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "MTTemplateMerge", "version": "0.2.4", "permissions": ["browser", "storage", "http://*/*", "https://*/*"], "app": {"background": {"scripts": ["main.js"]}}, "icons": {"128": "MTmplMerge128.png"}}

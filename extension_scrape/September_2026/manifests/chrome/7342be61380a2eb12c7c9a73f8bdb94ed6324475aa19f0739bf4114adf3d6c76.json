@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "RepoTree", "version": "1.0", "description": "Display and copy GitHub repository file tree structure", "host_permissions": ["https://github.com/*"], "content_scripts": [{"matches": ["https://github.com/*/*"], "js": ["content.js"], "css": ["styles.css"]}]}

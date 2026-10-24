@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ChatGPT Button Renamer", "version": "0.1.0", "permissions": ["storage"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "content_scripts": [{"matches": ["https://chatgpt.com/*"], "js": ["content.js"], "run_at": "document_idle"}], "icons": {"128": "icon.png"}}

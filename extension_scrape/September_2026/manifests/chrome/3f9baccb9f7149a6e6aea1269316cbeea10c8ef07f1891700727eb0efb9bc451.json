@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Campfire", "description": "You are a snowball falling in a forest, and you need to survive as long as you can! Don't fall in any Campfires.", "version": "1.0", "manifest_version": 3, "icons": {"128": "campfire.png"}, "action": {"default_popup": "campfire.html", "default_icon": "campfire.png"}}

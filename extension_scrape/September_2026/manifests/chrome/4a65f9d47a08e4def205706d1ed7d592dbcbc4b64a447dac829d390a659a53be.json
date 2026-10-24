@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Steam CS2 Stats Checker", "version": "1.0", "description": "Adds buttons for checking CS2 stats on Steam profiles (Leetify and csstat).", "content_scripts": [{"matches": ["*://steamcommunity.com/id/*", "*://steamcommunity.com/profiles/*"], "js": ["content.js"]}]}

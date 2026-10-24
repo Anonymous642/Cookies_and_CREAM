@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Webcam Guard", "version": "1.0", "description": "Webcam Guard: Control webcam access instantly.", "action": {"default_popup": "popup.html", "default_icon": "webcam_guard.png"}, "icons": {"128": "webcam_guard.png"}}

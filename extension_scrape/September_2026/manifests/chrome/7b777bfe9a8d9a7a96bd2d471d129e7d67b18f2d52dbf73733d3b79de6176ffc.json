@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\ud615 \uc774\uac70\ubd24\uc5b4?", "action": {}, "manifest_version": 3, "version": "1.1", "description": "\ud615 \uc774\uac70\ubd24\uc5b4?", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}, "icons": {"128": "icon.png"}}

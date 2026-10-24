@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "M's Password Generator", "description": "A password generator with simple and advanced features", "version": "1.0.0", "action": {"default_popup": "index.html", "default_icon": "/media/favicon.png"}, "icons": {"512": "/media/favicon.png"}}

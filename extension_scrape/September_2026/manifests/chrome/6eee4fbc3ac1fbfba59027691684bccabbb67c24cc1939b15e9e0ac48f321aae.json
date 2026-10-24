@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Today's Date in Latin", "version": "0.0.1", "description": "A simple chrome extension that replaces your new tab with one displaying today's date in Latin.", "chrome_url_overrides": {"newtab": "src/pages/newtab/index.html"}, "icons": {"128": "spqr.png"}}

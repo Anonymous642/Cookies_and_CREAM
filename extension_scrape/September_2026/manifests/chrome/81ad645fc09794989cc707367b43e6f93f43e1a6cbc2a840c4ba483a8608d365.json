@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GearDs eBay Analyzer", "version": "1.0", "description": "Analyze eBay products with GearDs.", "permissions": ["activeTab", "scripting", "tabs"], "host_permissions": ["https://www.ebay.com/*"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

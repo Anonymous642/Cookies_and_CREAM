@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Display Window Size", "version": "1.0", "description": "Display window size for the website you are accessing.", "permissions": ["activeTab"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "display-window-size-extension@yourdomain.com"}}}

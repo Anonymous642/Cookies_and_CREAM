@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Tab", "description": "Quick Tab", "version": "1.2.1", "author": "among software", "action": {"default_popup": "popup.html"}, "permissions": ["tabs"], "icons": {"16": "src/assets/q_logo_16px.png", "32": "src/assets/q_logo_32px.png", "48": "src/assets/q_logo_48px.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Grok-B-Gone", "version": "1.0", "description": "Removes all references to Grok on Twitter (also known as X, formerly Twitter)", "content_scripts": [{"matches": ["https://x.com/*", "https://www.x.com/*", "https://twitter.com/*", "https://www.twitter.com/*"], "css": ["/no-grok.css"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "OUJ Player Controller", "description": "\u30c7\u30d5\u30a9\u30eb\u30c8\u3067n\u500d\u901f\u306b\u3057\u305f\u3044", "version": "1.0", "content_scripts": [{"matches": ["https://online.ouj.ac.jp/mod/vimeo/*"], "js": ["./dist/main.js"]}]}

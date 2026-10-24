@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Random Alias Generator", "version": "1.0", "description": "Generate random pseudonyms for use as aliases with a military theme.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "deatonkcrh635316@hotmail.com"}}}

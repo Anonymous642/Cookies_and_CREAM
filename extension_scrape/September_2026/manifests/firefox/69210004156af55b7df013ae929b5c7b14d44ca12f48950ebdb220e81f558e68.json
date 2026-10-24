@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Fechador Automatico de Abas", "version": "1.0", "description": "Fecha abas em intervalos variaveis (15s, 30s, 40s).", "browser_specific_settings": {"gecko": {"id": "fechador-abas-meu-script@meudominio.com", "data_collection_permissions": {"required": ["none"]}}}, "permissions": ["tabs", "alarms"], "background": {"scripts": ["background.js"]}}

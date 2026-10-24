@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gratitude Prompt", "version": "1.0", "description": "Get a gratitude prompt in a new tab and jot down what you're thankful for.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["storage"], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{6a631393-009d-47b7-a366-cf7a20fdbe7a}"}}}

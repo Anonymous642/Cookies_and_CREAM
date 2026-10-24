@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NetClear", "version": "1.2resigned1", "icons": {"48": "icons/beasts-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["contentscript.js"]}], "browser_specific_settings": {"gecko": {"id": "{9709cf31-4a07-4f9a-982b-ff7b9a1328f1}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Notizblock", "version": "0.01", "manifest_version": 3, "description": "Your new favore calender", "permissions": ["storage"], "action": {"default_popup": "main_page.html"}}

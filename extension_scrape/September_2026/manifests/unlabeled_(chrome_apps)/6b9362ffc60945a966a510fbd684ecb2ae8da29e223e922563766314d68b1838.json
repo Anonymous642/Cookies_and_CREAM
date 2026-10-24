@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bloc de Notas Online", "manifest_version": 2, "short_name": "Bloc de Notas Online", "description": "Bloc de notas online. Sin registro.", "version": "1", "icons": {"128": "icon.png"}, "app": {"launch": {"web_url": "http://notepad.hekoru.lol/es/"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Eyessistant", "description": "The best assistant", "version": "1.0", "manifest_version": 3, "action": {"default_title": "Eyessistant"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["Eyessistant.js"], "css": ["Eyessistant.css"]}]}

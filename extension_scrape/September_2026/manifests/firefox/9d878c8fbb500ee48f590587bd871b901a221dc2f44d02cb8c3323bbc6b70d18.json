@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "auto-find-quilombo", "version": "1.0", "description": "Adds a red border when quilombo, povos originarios ou indios for encontrado na p\u00e1gina.", "icons": {"48": "icons/punho-cerrado.png"}, "browser_action": {"browser_style": true}, "content_scripts": [{"matches": ["http://*/*", "https://*/*", "<all_urls>"], "js": ["app.js"]}]}

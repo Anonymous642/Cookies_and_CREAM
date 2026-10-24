@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "PRODA Reloader", "description": "Reloads PRODA page every 10 minutes", "version": "1.0", "manifest_version": 3, "icons": {"48": "icons/reload_48.png", "96": "icons/reload_96.png"}, "content_scripts": [{"js": ["reload.js"], "matches": ["https://myplace.ndis.gov.au/supplier/*"]}]}

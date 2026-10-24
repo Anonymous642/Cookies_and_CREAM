@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Popup Dark Mode Toggle", "version": "1.0", "description": "A dark/light theme toggle button for the extension's popup itself, demonstrating a theme switcher.", "action": {"default_popup": "popup.html"}, "permissions": ["storage"]}

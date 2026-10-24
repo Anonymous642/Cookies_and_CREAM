@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tunz Tunz", "version": "1.0", "description": "Make any website tunz like crazy", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}, "action": {"default_icon": {"16": "icons/TUNZ16.png", "48": "icons/TUNZ48.png", "128": "icons/TUNZ128.png"}}}

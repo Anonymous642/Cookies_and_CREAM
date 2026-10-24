@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Gazeta.Dev", "description": "Conte\u00fado Dev em portugu\u00eas na sua nova tab", "version": "1.0", "manifest_version": 3, "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

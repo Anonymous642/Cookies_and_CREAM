@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cryptodex", "version": "1.0", "action": {"default_popup": "popup.html"}, "icons": {"16": "cryptodex_icon_v3.png", "32": "cryptodex_icon_v3.png", "48": "cryptodex_icon_v3.png", "128": "cryptodex_icon_v3.png"}, "permissions": []}

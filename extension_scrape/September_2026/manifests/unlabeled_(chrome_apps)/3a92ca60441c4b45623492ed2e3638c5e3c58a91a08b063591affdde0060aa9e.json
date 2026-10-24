@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Birthday Mandala", "description": "Build for free birthday mandalas or famous people mandalas.", "version": "0.0.0.3", "icons": {"128": "icon_128.png"}, "app": {"urls": ["HTTP://BIRTHDAYMANDALA.COM/"], "launch": {"web_url": "HTTP://BIRTHDAYMANDALA.COM/"}}}

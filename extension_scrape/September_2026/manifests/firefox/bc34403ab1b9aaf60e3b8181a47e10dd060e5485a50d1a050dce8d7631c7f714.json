@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Shorts redirect", "version": "1.0", "description": "redirects youtube shorts pages to watch page", "permissions": [], "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["content-script.js"]}], "browser_specific_settings": {"gecko": {"id": "Youtube-Shorts-redirect@1.0"}}}

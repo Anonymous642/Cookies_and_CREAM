@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Cute Countdown Calendar", "version": "1.0", "description": "Count down to a chosen or random date with pink calendar vibes.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "fulseogarnospr@hotmail.com"}}}

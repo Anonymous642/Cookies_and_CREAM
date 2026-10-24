@@ -1,0 +1,1 @@
+{"description": "Adds a 50 second delay to all web pages", "manifest_version": 2, "name": "slow_down", "version": "1.0", "icons": {"48": "slow_down.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["slow_down.js"]}], "browser_specific_settings": {"gecko": {"id": "{f043ade0-4402-4d62-a955-340f45d574bd}"}}}

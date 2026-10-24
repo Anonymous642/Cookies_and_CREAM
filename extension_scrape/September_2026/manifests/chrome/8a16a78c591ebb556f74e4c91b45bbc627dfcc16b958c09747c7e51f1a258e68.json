@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Swifty Sticky Note", "description": "Swifty Sticky Note!", "version": "1.6", "action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["unlimitedStorage", "storage"], "icons": {"128": "icon.png"}}

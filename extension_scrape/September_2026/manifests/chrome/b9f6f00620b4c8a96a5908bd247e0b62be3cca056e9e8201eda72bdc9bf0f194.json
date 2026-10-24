@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Click2WA", "version": "1.0", "description": "Web sayfas\u0131nda se\u00e7ti\u011finiz numaray\u0131 do\u011frudan WhatsApp'a y\u00f6nlendirir.", "host_permissions": ["https://wa.me/*"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

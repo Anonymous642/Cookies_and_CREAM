@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gemini Subtitle Creator", "version": "3.1", "description": "\u81ea\u52d5\u5316Gemini\u5b57\u5e55\u751f\u6210\u5de5\u5177 (SRT)", "permissions": ["storage"], "content_scripts": [{"matches": ["https://gemini.google.com/*"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube ClipStart", "version": "1.0", "description": "Create shareable YouTube links that start at a specific time", "permissions": ["clipboardWrite"], "action": {"default_popup": "popup.html"}}

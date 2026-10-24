@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Ball Drop 2D [UNBLOCKED]", "description": "Drop Balls to your Hearts Content in the All New Ball Drop 2D", "version": "0.1", "manifest_version": 3, "permissions": ["storage"], "icons": {"16": "thumbnail.png", "48": "thumbnail.png", "128": "thumbnail.png"}, "action": {"default_popup": "index.html"}}

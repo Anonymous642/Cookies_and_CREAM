@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Abhi URL's", "version": "1.0", "description": "Remove everything after '?' in a URL and copy cleaned URLs.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["clipboardWrite"]}

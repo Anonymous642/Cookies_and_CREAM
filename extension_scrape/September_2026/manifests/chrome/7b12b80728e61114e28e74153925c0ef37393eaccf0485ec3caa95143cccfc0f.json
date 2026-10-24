@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hallify", "version": "1.2", "description": "Get a Tally Hall reference every time you click the icon!", "action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}, "permissions": []}

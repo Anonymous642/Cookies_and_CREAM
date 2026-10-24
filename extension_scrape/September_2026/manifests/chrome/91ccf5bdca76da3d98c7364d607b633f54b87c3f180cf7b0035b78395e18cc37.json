@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.2", "name": "cosmetics", "chrome_url_overrides": {"newtab": "index.html"}, "description": "Orange cosmetics line leads in 2025", "manifest_version": 3}

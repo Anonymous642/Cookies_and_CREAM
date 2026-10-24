@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Title Renamer", "version": "1.0", "description": "Rename the title of the current tab.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{a7196949-d726-4950-b42d-437c12b72c6e}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simulador de visi\u00f3n animal", "version": "1.0", "description": "Simula c\u00f3mo ven los animales en tu navegador.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

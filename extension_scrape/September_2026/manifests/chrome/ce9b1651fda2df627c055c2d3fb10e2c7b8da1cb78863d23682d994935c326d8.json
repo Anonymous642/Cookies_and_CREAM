@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SecureChat", "version": "1.0", "description": "Secure communication with built-in timers for encrypted messages", "permissions": [], "action": {"default_popup": "index.html", "default_icon": "icon.png"}}

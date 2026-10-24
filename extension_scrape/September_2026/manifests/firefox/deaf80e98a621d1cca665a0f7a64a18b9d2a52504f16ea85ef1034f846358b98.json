@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BDT to EUR Converter", "version": "1.0", "description": "Convert Bangladeshi Taka (BDT) to Euro (EUR) instantly.", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/*"], "browser_specific_settings": {"gecko": {"id": "{dfcb923d-b6a7-4351-b372-c1ba9d56206d}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "__MSG_extensionName__", "version": "1.0", "description": "__MSG_extensionDescription__", "default_locale": "en", "icons": {"48": "icons/youtube-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["youtube.js"]}]}

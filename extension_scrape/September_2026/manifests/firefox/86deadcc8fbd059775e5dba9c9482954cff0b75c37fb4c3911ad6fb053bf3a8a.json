@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VM Jira Layout", "version": "1.0.1", "author": "MVladislav", "description": "Change Layout for Jira", "icons": {"48": "assets/icons/vm-48.png", "96": "assets/icons/vm-96.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "assets/icons/vm-32.png", "default_title": "Layout Changer", "default_popup": "popup/dashboard.html"}}

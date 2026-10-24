@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Weather Widget", "version": "1.0", "description": "Simple weather information widget", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Weather Widget"}, "browser_specific_settings": {"gecko": {"id": "{8999fd03-d257-4631-90e4-5f15094eaf32}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SISREG Whatsapp", "version": "1.0", "permissions": ["activeTab"], "action": {"default_popup": "popup.html", "default_icon": {"16": "icons/1.png", "48": "icons/2.png", "128": "icons/3.png"}}, "background": {"service_worker": "background.js"}}

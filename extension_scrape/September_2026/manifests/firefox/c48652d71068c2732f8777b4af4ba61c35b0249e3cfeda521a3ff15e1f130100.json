@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "USD to PLN Converter", "version": "1.0", "description": "Easily convert USD to Polish Z\u0142oty (PLN).", "browser_action": {"default_popup": "popup.html", "default_title": "USD to PLN Converter"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{bfd0f07d-9ab3-4e4a-aeda-c101ae1ed636}"}}}

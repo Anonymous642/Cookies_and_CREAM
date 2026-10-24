@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Page Info Copy", "version": "1.0", "description": "Copy the current tab's title and URL to clipboard.", "permissions": ["contextMenus", "clipboardWrite", "tabs", "activeTab"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icons/icon.png"}, "applications": {"gecko": {"id": "quick-page-info@example.com"}}}

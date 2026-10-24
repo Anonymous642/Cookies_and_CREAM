@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Barcode Reader Emulator", "version": "1.0.0", "description": "Trigger barcode input via local server", "action": {"default_popup": "popup.html", "default_title": "Barcode Reader Emulator"}, "permissions": [], "host_permissions": ["http://localhost:9876/*"]}

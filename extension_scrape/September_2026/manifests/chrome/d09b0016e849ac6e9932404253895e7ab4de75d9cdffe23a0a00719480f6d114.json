@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Lidl Receipt Data", "version": "1.0", "description": "Shows Lidl receipt data", "permissions": [], "host_permissions": ["https://www.lidl.de/*"], "content_scripts": [{"matches": ["https://www.lidl.de/*/purchase-detail*"], "js": ["content.js"]}]}

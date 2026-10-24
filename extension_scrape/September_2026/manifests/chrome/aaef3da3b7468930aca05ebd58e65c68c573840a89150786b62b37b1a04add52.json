@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GeoGPT", "version": "1.0", "permissions": ["activeTab", "storage"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html", "default_icon": "img_16.png"}, "icons": {"16": "img_16.png", "32": "img_32.png", "48": "img_48.png", "128": "img_128.png"}}

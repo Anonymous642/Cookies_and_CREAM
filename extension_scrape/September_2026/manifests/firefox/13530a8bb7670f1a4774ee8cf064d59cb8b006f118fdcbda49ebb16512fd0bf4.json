@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SnapMark", "version": "1.0", "description": "Bookmark any webpage with one click into a 'Quick Saves' folder.", "permissions": ["bookmarks", "tabs", "notifications", "storage", "activeTab"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{ed027e51-8fb9-4cb1-8f8e-5a665019ebe4}"}}}

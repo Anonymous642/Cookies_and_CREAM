@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitch Chat Skins", "version": "1.0", "description": "Customize your Twitch chat with a custom background!", "options_ui": {"page": "options.html", "browser_style": true}, "permissions": ["storage"], "icons": {}, "content_scripts": [{"matches": ["https://www.twitch.tv/*"], "js": ["twitch-chat-skins.js"]}]}

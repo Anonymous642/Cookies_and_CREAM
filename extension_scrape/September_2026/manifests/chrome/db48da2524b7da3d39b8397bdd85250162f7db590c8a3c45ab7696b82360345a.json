@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Keaton Clicker", "description": "A basic clicker extension for Chrome.", "version": "1.1", "icons": {"16": "Keaton10.png", "48": "Keaton10.png", "128": "Keaton10.png"}, "action": {"default_popup": "index.html", "default_icon": "Keaton10.png"}, "permissions": []}

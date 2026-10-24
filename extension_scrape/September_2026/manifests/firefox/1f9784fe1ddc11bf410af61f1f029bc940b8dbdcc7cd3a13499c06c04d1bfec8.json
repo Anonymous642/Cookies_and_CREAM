@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Active Reading", "version": "1.0", "description": "Adds a simple checkmark tool to paragraphs upon clicking them while active", "icons": {"48": "icons/activeReading.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["activeReading.js"]}], "browser_specific_settings": {"gecko": {"id": "{de393de1-6ae1-4e70-bd27-ab5de00b6ad9}"}}}

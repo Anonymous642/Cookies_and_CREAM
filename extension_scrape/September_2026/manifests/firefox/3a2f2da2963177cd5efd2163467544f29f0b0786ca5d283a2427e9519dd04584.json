@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FlyClip", "version": "1.0", "description": "Capture Anything, Instantly", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{b5ac3c2d-f156-4c66-b270-26f1df6527f2}"}}}

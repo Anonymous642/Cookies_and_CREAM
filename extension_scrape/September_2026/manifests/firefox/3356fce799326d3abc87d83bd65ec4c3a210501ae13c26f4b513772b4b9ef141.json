@@ -1,0 +1,1 @@
+{"name": "Find Korea from Dropdowns", "manifest_version": 2, "description": "Automatically finds Korea from html select tags (dropdowns) with right-click", "version": "1.3resigned1", "permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{60590abc-c6e8-4dc1-8e6f-3da73c3f4b58}"}}}

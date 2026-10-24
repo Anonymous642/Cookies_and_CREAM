@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ninlifehshopqr", "version": "0.1", "description": "Injects QR code from hShop to nintendolife.com", "icons": {"48": "icons/hqr-48.png", "96": "icons/hqr-96.png"}, "content_scripts": [{"matches": ["*://*.nintendolife.com/games/*"], "js": ["inject.js"]}], "browser_specific_settings": {"gecko": {"id": "{ef1e6095-a283-4891-bcf3-3470fc6d4db7}"}}}

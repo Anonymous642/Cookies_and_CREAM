@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab Order Checker", "version": "1.0", "description": "Visualize keyboard tab order for accessibility (keyboard and screen reader users).", "permissions": ["scripting", "activeTab"], "action": {"default_title": "Show tab order"}, "background": {"service_worker": "background.js"}}

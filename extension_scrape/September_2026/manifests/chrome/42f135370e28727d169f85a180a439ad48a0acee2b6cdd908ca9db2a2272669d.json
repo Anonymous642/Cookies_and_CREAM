@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "weather app", "version": "0.0.1", "manifest_version": 3, "action": {"default_popup": "index.html", "default_title": "weather app", "default_icon": "images/logo.png"}, "icons": {"16": "images/Thunderstorm.jpeg", "48": "images/Clear.jpeg", "128": "images/logo.png"}}

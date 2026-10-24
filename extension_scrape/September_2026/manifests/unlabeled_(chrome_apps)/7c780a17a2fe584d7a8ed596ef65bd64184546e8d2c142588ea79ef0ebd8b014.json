@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ShoppersBase", "description": "Shoppersbase brings to you the right consumer information, news and trends at your finger tips", "version": "1.0", "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.shoppersbase.com/"], "launch": {"web_url": "http://www.shoppersbase.com/"}}}

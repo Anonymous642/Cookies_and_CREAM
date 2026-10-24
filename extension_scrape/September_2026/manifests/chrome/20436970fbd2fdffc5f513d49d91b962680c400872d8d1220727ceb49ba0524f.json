@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "__MSG_appTitle__", "version": "1.0.4", "default_locale": "en", "description": "Simple To Do List", "action": {"default_popup": "index.html"}, "permissions": ["storage"]}

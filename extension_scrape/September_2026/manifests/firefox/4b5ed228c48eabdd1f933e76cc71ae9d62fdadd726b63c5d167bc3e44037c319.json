@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Rasmelthor Live Extension", "version": "2.0.0", "description": "Avec cette extension, ne ratez plus aucun live de Rasmelthor !", "browser_action": {"default_popup": "index.html"}, "icons": {"64": "img/online.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["notifications"]}

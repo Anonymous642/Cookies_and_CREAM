@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Vocabulary Booster", "version": "1.0", "description": "Show a new English word every day on new tab.", "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{d0746f0a-a42c-45ca-b3ef-fd2877ec9e8f}"}}}

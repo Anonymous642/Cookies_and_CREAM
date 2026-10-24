@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "FGC Inside Out Notation", "description": "Replaces Numpad Notation on designated sites with Inside Out Notation", "version": "1.0", "content_scripts": [{"matches": ["https://www.dustloop.com/w/*"], "js": ["notation_injector.js"], "run_at": "document_end"}]}

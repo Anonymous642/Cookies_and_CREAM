@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Intel SSO Auto-Continue", "version": "1.0", "description": "Automatically clicks Continue button for Intel Single Sign-On on GitHub", "permissions": [], "content_scripts": [{"matches": ["https://github.com/intel-innersource/*"], "js": ["content.js"], "run_at": "document_idle"}]}

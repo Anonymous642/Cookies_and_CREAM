@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Funny Quiz (Pop Quiz!)", "version": "1.0.0", "description": "A silly, lighthearted quiz extension for quick laughs and brain wiggles.", "action": {"default_title": "Funny Quiz", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

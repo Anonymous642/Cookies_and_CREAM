@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SV Forum Improver", "short_name": "SV Improver", "description": "Improves SV", "author": "logiccosmic", "version": "1.0.3resigned1", "content_scripts": [{"matches": ["*://*/*"], "all_frames": true, "js": ["content_script.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{938714ca-28e5-4fa6-bbff-5a1c59bb985c}"}}}

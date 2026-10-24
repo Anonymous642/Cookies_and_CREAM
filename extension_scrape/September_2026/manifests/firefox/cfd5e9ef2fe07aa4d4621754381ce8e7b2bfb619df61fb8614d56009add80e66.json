@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Exberliner Modal Blocker", "version": "1.0", "description": "Improves the browsing experience of exberliner.com by blocking the regular modals", "content_scripts": [{"matches": ["*://*.exberliner.com/*"], "js": ["modal-blocker.js"]}], "browser_specific_settings": {"gecko": {"id": "{f54ca43d-395e-4855-a6dc-97343d099647}"}}}

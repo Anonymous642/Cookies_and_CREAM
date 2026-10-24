@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ZenMode", "version": "1.0", "description": "Dark mode and reader mode with customizable colors.", "permissions": ["scripting", "activeTab", "storage"], "action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png"}}}

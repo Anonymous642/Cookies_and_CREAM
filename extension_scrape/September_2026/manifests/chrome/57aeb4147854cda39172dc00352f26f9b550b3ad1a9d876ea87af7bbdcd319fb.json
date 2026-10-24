@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Save To Hole", "version": "1.7", "background": {"service_worker": "background.d17885a8.js"}, "permissions": ["activeTab", "offscreen", "scripting"], "action": {"default_popup": "popup.e54f59cb.html"}}

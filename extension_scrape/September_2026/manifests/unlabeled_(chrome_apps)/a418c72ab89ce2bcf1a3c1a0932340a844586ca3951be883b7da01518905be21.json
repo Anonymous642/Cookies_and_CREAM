@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Unique fighter", "version": "1.0.2", "offline_enabled": true, "description": "a simple fighter game,programmed by TsTan", "icons": {"16": "nsb/images/16.png", "128": "nsb/images/128.png"}, "author": "Copyright 2012 TsTan", "app": {"background": {"scripts": ["background.js"]}}}

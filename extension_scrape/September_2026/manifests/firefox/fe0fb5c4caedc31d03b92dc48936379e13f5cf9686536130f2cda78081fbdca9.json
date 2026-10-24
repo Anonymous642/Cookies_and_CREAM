@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Simple New Tab", "version": "1.0", "description": "Thay \u0111\u1ed5i trang tab m\u1edbi th\u00e0nh \u0111\u1ed3ng h\u1ed3 k\u1ef9 thu\u1eadt s\u1ed1.", "icons": {"48": "icon.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{0f3605d5-5655-4b8d-b2af-0af694c0aae3}"}}}

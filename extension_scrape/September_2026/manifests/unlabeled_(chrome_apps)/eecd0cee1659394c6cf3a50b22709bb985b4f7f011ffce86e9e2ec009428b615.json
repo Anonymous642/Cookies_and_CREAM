@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "No Attachments", "description": "Transfer files between local devices (within the same building) without lengthy and insecure uploads and downloads.", "version": "0.0.0.4", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"launch": {"web_url": "http://www.silvawood.co.uk/p2pData/"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Unload Background Tabs by RMB anywhere", "version": "1.1", "description": "Unload background tabs by RMB anywhere", "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "youyghnu6678mm.kyiol@main.com"}}}

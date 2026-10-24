@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Offline Basic Spell Check", "version": "1.0.0", "description": "A modern, offline, basic spell checker in a clean popup. No permissions required.", "action": {"default_title": "Offline Spell Check", "default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}}

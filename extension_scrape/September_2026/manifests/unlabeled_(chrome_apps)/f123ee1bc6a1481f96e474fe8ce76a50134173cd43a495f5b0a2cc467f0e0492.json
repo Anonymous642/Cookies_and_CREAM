@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Days 'til Christmas - Countdown", "description": "Minimal Christmas countdown.", "version": "1.2", "app": {"launch": {"web_url": "http://christmas.jamesgenchi.co.uk/"}}, "icons": {"128": "icon.png"}, "manifest_version": 2, "permissions": []}

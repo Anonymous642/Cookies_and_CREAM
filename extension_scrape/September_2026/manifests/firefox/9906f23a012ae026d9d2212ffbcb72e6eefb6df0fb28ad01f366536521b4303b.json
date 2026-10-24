@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Jump Index", "version": "1.0", "description": "Instantly jump to any section or chapter.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_title": "Quick Jump Index", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{55f89541-430e-4fdc-bd51-e147adef905b}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "FinOps Loading Screen", "version": "1.0", "description": "Displays a random FinOps tip every time you open a new tab.", "action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "permissions": [], "icons": {"48": "icon.png"}}

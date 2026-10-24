@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "StackFlex", "version": "1.0", "description": "Save your code from websites, use it from VSCode", "icons": {"48": "logo.png"}, "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{0f1872fb-2443-4418-ba9e-c07d1a9fe64a}"}}}

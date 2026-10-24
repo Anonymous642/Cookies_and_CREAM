@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LinkedIn li_at Cookie Viewer", "version": "1.0", "description": "Exibe o valor do cookie li_at do LinkedIn.", "permissions": ["cookies", "activeTab"], "host_permissions": ["https://www.linkedin.com/*"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

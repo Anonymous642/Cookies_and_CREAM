@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Cute Nickname Generator", "version": "1.0", "description": "Generate adorable and sweet nicknames instantly.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "samuelcjaspinder6@outlook.com", "data_collection_permissions": {"required": ["none"]}}}}

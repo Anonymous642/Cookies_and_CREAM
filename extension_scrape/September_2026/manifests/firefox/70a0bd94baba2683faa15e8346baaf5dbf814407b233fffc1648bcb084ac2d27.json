@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ugly Twitch", "version": "1.0", "description": "Why did Twitch suddenly get so ugly?", "icons": {"48": "icons/little-t.png"}, "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "css": ["ugly_twitch.css"]}]}

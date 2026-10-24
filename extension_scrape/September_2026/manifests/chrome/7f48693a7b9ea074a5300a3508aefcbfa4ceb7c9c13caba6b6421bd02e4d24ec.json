@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Lot Size Calculator", "version": "1.0.0", "description": "Calculate position size, take profits, and P&L from simple inputs.", "action": {"default_popup": "popup.html", "default_title": "Lot Size Calculator"}, "icons": {}}

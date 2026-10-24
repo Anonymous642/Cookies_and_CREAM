@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Tab Mute Control", "version": "1.0", "description": "Mute tabs individually.", "action": {"default_popup": "popup.html", "default_icon": "tab_mute_control.png"}, "icons": {"128": "tab_mute_control.png"}, "browser_specific_settings": {"gecko": {"id": "mattisoneykh631528@hotmail.com"}}}

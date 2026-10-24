@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Goldblumify", "version": "1.1resigned1", "description": "Jeff Goldblum Everywhere", "content_scripts": [{"matches": ["<all_urls>"], "js": ["g.js"]}], "browser_specific_settings": {"gecko": {"id": "{af2cc7c6-9954-4d2a-9d81-349083a50dfc}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Chess.com Auto Move Arrows", "version": "1.0", "description": "Show top 3 best moves as arrows on Chess.com automatically.", "permissions": ["activeTab", "storage"], "content_scripts": [{"matches": ["*://www.chess.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{bb7ff584-56f8-4ce5-b004-9566df33c62b}"}}}

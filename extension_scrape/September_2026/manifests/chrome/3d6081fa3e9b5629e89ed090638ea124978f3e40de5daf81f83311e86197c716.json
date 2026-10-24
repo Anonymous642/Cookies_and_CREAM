@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Military JSON Formatter", "version": "1.0.0", "description": "Format (pretty-print) JSON locally with a rugged military-style interface. No permissions required.", "action": {"default_title": "JSON Formatter", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

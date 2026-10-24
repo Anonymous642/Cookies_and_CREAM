@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TimerPro", "version": "1.0", "description": "TimerPro is an extension for alarms, timers, and stopwatch in your browser.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{96b5e4f8-6147-4d76-946c-60ea8e5ea7a2}"}}}

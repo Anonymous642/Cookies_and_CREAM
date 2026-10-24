@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MoodleForceDownloadBlocker", "version": "1.0", "description": "It does what it says...", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["blocker.js"]}, "browser_specific_settings": {"gecko": {"id": "{ab3a7db0-c067-4e54-8e2d-adab53a67c35}"}}}

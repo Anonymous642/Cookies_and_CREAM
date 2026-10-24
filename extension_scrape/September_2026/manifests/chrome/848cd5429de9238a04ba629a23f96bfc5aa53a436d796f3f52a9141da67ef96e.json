@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Page Editor", "version": "3.0", "description": "Edit any website text!", "action": {"default_icon": {"16": "off.png", "48": "off.png", "128": "off.png"}}, "background": {"service_worker": "background.js"}, "permissions": ["activeTab", "scripting"]}

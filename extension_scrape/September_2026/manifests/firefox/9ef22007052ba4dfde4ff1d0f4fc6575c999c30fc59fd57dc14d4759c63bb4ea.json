@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Qase Sidebar Resizer", "version": "1.0", "description": "Resizes the sidebar on Qase.io if specific conditions are met.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://app.qase.io/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{4923fae0-5208-4603-bd2b-0401a9e3bff3}"}}}

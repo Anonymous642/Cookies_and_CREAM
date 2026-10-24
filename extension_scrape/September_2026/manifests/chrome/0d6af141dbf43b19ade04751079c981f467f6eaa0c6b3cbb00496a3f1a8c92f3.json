@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Kiosk Idle Redirect", "version": "1.0.0", "description": "Redirects to the original URL after 10 seconds of inactivity.", "permissions": ["idle", "storage", "activeTab"], "background": {"service_worker": "background.js"}}

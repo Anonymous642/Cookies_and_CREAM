@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HuaSheng Epub Reader", "version": "1.0", "description": "The best Epub-Reader extension of Chrome.", "permissions": ["storage"], "action": {"default_popup": "popup.html", "default_icon": {"16": "img/open.png", "32": "img/open.png", "48": "img/open.png", "128": "img/open.png"}}}

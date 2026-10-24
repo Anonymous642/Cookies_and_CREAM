@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Simplify Page View", "version": "1.0", "description": "Strip clutter, ads, and popups automatically.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_title": "Simplify Page View", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{ee9cf7da-2b25-4d7c-a8c0-40614337123e}"}}}

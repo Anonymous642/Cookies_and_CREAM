@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gamepad Tester", "version": "1.0", "description": "Minimalist Gamepad Tester. Check stick drift and test buttons.", "icons": {"16": "gp.png", "48": "gp.png", "128": "gp.png"}, "action": {"default_icon": "gp.png", "default_title": "Gamepad Tester", "default_popup": "game.html"}}

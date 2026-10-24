@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Trump to Vomit Emoji", "version": "1.1resigned1", "description": "Replaces various Trump-related phrases with the vomit emoji.", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{c3071a89-9514-45a7-80a4-9ebdbdda80b4}"}}}

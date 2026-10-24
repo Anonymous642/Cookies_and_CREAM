@@ -1,0 +1,1 @@
+{"name": "Splitplan Extension", "version": "1.1resigned1", "description": "Extension for splitplan.com", "manifest_version": 2, "browser_action": {"default_popup": "popup.html"}, "permissions": ["http://api.splitdev.com:8888/*", "https://api.splitplan.com/*"], "browser_specific_settings": {"gecko": {"id": "{c3b65c3e-9c93-4322-ae8b-62cf7279c83b}"}}}

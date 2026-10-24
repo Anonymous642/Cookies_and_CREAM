@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Code Snippet Collector", "version": "1.0", "description": "Quickly save code snippets from any website.", "permissions": ["storage", "activeTab", "contextMenus"], "background": {"scripts": ["background.js"], "persistent": false}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{50f51c08-ca22-4782-b8ee-f61ed1a7d4f2}"}}}

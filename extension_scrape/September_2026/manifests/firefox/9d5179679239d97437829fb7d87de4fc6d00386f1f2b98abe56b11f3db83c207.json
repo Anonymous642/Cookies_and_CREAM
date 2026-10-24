@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "onep3a", "version": "0.3resigned1", "description": "Makes 1point3acres.com bbs more readable.", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.1point3acres.com/*"], "js": ["onep3a.js"]}], "browser_specific_settings": {"gecko": {"id": "{1dade674-9768-4469-91fd-1a648ac1d494}"}}}

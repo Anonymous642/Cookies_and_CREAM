@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Genius Lyrics Search", "description": "Quickly search for song lyrics on Genius with just a click", "version": "1.0", "background": {"scripts": ["background.js"]}, "icons": {"48": "icons/lyricsearch-48.png"}, "permissions": ["contextMenus"], "browser_specific_settings": {"gecko": {"id": "{4fe04eaa-1c45-4891-92ba-b5b1fb1a5e57}"}}}

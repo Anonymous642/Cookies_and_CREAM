@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "VRChat2VRCList", "version": "1.8.0", "description": "VRChat2VRCList", "permissions": ["contextMenus", "tabs"], "background": {"service_worker": "background.js"}, "action": {"default_title": "VRChat2VRCList"}, "icons": {"128": "icon.png"}, "manifest_version": 3}

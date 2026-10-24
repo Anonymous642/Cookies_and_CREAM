@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Chains of Fate Episode 1", "description": "Chains of Fate is an action rpg that follows an assassin named Cira who finds herself lost in the abyss.", "version": "1.2", "manifest_version": 2, "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "CoF_16.png", "128": "CoF_128.png"}}

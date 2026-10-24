@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Short Life Lesson", "version": "1.0", "description": "Display a short life lesson inside a simple popup interface.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}, "icons": {"128": "icon128.png"}}

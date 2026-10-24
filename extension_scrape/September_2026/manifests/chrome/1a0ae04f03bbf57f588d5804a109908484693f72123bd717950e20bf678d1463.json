@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Voice Call Script Assistant", "version": "1.0", "description": "A bilingual (English-Spanish) call script assistant for customer service.", "permissions": ["storage"], "action": {"default_title": "Voice Script Assistant"}, "background": {"service_worker": "background.js"}}

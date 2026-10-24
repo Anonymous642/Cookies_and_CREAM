@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GoT GR Fans", "version": "1.3", "manifest_version": 2, "description": "A page for fans of the series Game of Thrones", "icons": {"128": "128.png"}, "app": {"urls": ["http://www.gameofthrones-grfans.com/"], "launch": {"web_url": "http://www.gameofthrones-grfans.com"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Daily Tasks Reminder", "version": "1.0", "description": "A simple addon to manage daily tasks with reminders.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage", "notifications"], "browser_specific_settings": {"gecko": {"id": "{005e2278-eb34-4955-8df7-f5dee10e04c6}"}}}

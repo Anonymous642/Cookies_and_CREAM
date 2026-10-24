@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Padi\u015fahbet Sugar Game", "version": "1.0", "description": "A fun 3-level sugar collection game.", "icons": {"48": "icon48.png", "128": "icon128.png"}, "permissions": [], "host_permissions": [], "action": {"default_popup": "index.html", "default_icon": {"48": "icon48.png"}}}

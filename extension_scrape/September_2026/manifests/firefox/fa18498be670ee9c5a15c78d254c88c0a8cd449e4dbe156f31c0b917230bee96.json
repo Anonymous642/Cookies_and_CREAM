@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FunPayDark", "version": "1.0", "description": "Add dark theme for funpay.com", "icons": {"48": "icons/1.png"}, "content_scripts": [{"matches": ["*://*.funpay.com/*"], "js": ["themes.js"], "css": ["style.css"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{278acd10-eb67-4166-917b-a4e2865accf6}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Filmbazis", "version": "1.1resigned1", "description": "Remove adf.ly from filmbazis.com .", "content_scripts": [{"matches": ["http://www.filmbazis.org/*"], "js": ["filmbazis.js"]}], "browser_specific_settings": {"gecko": {"id": "{5705168f-6c5a-4848-9beb-5c57e220dbde}"}}}

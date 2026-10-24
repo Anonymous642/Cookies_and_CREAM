@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Foreground", "version": "0.1.4", "description": "Allows you to track the current active tab's URL in Foreground. See https://foreground.computer", "icons": {"48": "icon48.png", "128": "icon128.png"}, "permissions": ["tabs"], "background": {"service_worker": "worker.js"}}

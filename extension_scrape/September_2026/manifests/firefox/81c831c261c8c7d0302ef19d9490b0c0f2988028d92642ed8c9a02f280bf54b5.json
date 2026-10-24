@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Lunar Date Viewer", "version": "1.0", "description": "Displays the current Vietnamese lunar date using a pre-defined, hardcoded dataset.", "action": {"default_popup": "popup.html", "default_icon": "lunar_date_viewer.png"}, "icons": {"128": "lunar_date_viewer.png"}, "browser_specific_settings": {"gecko": {"id": "manuelawallaceihy667@hotmail.com"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RWF to PGK Converter", "version": "1.0", "description": "Convert Rwandan Franc (RWF) to Papua New Guinean Kina (PGK).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert RWF to PGK"}, "browser_specific_settings": {"gecko": {"id": "{e9967112-7f72-4d89-850d-a8fc0f3b7fe9}"}}}

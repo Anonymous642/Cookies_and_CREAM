@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "sgd", "version": "0.0.8resigned1", "content_scripts": [{"matches": ["*://*.soundgasm.net/u/*"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{a2fa07ea-6e94-41dd-9ddd-63e6c49ede7f}"}}}

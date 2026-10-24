@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "CAT Exam Memes", "version": "1.1.1", "description": "A Chrome extension to display CAT exam memes.", "action": {"default_popup": "popup.html", "default_icon": {"128": "meme.png"}}, "browser_specific_settings": {"gecko": {"id": "contact@iquanta.in", "strict_min_version": "109.0"}}, "icons": {"128": "meme.png"}, "permissions": ["activeTab"]}

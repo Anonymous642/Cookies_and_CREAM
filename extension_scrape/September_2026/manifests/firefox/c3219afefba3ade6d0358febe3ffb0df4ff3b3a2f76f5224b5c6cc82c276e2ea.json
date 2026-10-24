@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Full Width Wikipedia", "version": "1.1", "description": "Remove the new Wikipedia style to use the previous/historical full sized version.", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.wikipedia.org/*"], "js": ["js/fullsizewiki.js"]}]}

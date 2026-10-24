@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BetterBestBuy", "version": "2.2.2", "description": "Hides 'open box' and refurbished items", "icons": {"16": "favicon.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "tabs"], "page_action": {"show_matches": ["*://*.bestbuy.ca/*"], "default_icon": {"16": "favicon.png"}, "default_title": "Better Best Buy"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dependabot Command Helper", "version": "0.3.4", "content_scripts": [{"matches": ["https://github.com/*"], "js": ["clickable-commands.js"]}], "browser_specific_settings": {"gecko": {"id": "{37e6df79-c719-4bec-bdef-5668b15e9bb4}"}}}

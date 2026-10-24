@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Timestamp Date Converter", "description": "Timestamp & Date Converter, by Gumreal @iFerox", "version": "1.0.0", "action": {"default_popup": "time_utility.html", "default_icon": "time_utility.png"}, "permissions": ["storage"]}

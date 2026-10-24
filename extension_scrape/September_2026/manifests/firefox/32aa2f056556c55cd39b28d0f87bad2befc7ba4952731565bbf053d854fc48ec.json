@@ -1,0 +1,1 @@
+{"manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "dictionary@testing.prod", "data_collection_permissions": {"required": ["none"]}}}, "version": "2.0", "name": "release dictionary", "author": "LexaDev", "description": "test dictionary installs auto-tests", "dictionaries": {"de-AT": "/dictionaries/de-AT.dic"}}

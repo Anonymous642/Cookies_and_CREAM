@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Daily Task Manager", "description": "Manage and track your daily tasks easily.", "version": "1.0", "permissions": [], "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{4c505546-c4a9-4958-bc69-ed2fc443b13c}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GTACars Search", "version": "1.0", "description": "Adds a 'Search on GTACars' context menu item for highlighted text.", "icons": {"48": "icon48.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{64c4c4e2-baaf-4b36-b71c-5ec05632dd6d}"}}}

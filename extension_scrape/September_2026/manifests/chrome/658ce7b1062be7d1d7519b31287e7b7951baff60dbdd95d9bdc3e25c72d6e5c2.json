@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cartola Imagens Oficiais 2026", "version": "3.3", "description": "Substitui as imagens gen\u00e9ricas por fotos oficias dos clubes.", "icons": {"128": "images/icon_128.png"}, "content_scripts": [{"js": ["scripts/cartola_imgs.js"], "matches": ["https://cartola.globo.com/*"]}]}

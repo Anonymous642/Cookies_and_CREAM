@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Keyword Counter (Simple)", "version": "1.0.0", "description": "Count how many times a keyword appears on the current page.", "action": {"default_title": "Keyword Counter", "default_popup": "popup.html"}, "permissions": ["activeTab", "scripting"], "icons": {"128": "icon128.png"}}

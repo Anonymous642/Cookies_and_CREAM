@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Task Tracker", "version": "1.0.0", "description": "A fun way to complete tasks and unlock new themes with points earned!", "action": {"default_popup": "index.html", "default_icon": {"48": "images/to-do-list.png"}}, "icons": {"48": "images/to-do-list.png"}}

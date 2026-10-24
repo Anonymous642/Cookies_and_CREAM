@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Tab Closer", "version": "1.0", "description": "Close the current tab instantly with a single click.", "permissions": ["tabs"], "browser_action": {"default_popup": "popup.html", "default_title": "Close Tab"}, "browser_specific_settings": {"gecko": {"id": "{527a55df-47a2-4412-9962-e4ef433b6052}"}}}

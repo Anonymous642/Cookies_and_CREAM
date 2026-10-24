@@ -1,0 +1,1 @@
+{"browser_specific_settings": {"gecko": {"id": "{1cad1fa4-745f-4aee-adc5-544b2dfaea7b}"}}, "manifest_version": 2, "name": "Browser Boost", "version": "2.1.0", "content_scripts": [{"matches": ["<all_urls>"], "js": ["boost.js"], "css": ["boost.css"]}]}

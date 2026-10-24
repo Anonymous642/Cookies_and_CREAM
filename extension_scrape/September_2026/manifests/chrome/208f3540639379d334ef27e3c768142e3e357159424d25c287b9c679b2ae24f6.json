@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Popup Current Tab BETA", "version": "1.0", "description": "Open current tab as popup window. This is a beta version.", "permissions": ["tabs", "windows"], "action": {"default_title": "Popup Current Tab"}, "background": {"service_worker": "background.js"}}

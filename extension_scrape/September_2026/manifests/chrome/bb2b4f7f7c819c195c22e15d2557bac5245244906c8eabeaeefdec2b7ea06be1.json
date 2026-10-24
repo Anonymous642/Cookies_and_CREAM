@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.0", "name": "Celestial Vortex", "chrome_url_overrides": {"newtab": "index.html"}, "description": "A stunning galactic vortex", "manifest_version": 3}

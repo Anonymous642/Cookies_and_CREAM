@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CrazyIOGames New Tab", "short_name": "CrazyIOGames", "version": "1.0.0", "description": "Play free browser games on CrazyIOGames.", "icons": {"128": "icon.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}}

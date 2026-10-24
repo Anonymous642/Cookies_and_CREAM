@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Jesus Says", "version": "1.0", "action": {"default_popup": "popup.html", "default_icon": "jesus.png"}, "background": {"service_worker": "background.js"}, "host_permissions": ["https://bible-api.com/"]}

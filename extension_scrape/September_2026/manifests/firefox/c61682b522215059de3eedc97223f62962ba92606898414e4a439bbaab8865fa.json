@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Cookie Crusher", "version": "1.0", "description": "Cookie Crusher: Manage and delete cookies", "action": {"default_popup": "popup.html", "default_icon": "cookie_crusher.png"}, "icons": {"128": "cookie_crusher.png"}, "browser_specific_settings": {"gecko": {"id": "ernellflp692079@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

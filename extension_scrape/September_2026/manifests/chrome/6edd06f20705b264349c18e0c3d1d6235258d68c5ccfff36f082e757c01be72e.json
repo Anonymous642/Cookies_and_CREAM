@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Kill News Feed - LinkedIn", "version": "1.0", "description": "Saves you time by getting rid of LinkedIn news feed.", "content_scripts": [{"matches": ["*://www.linkedin.com/*"], "js": ["kill.js"]}], "permissions": [], "manifest_version": 3}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PixelBuddy", "version": "1.1", "description": "Sends info on Youtube/Netflix/Amazon videos to PixelBuddy.", "icons": {"48": "icon-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/watch*", "*://*.netflix.com/watch/*", "*://*.primevideo.com/detail/*"], "js": ["main.js"]}]}

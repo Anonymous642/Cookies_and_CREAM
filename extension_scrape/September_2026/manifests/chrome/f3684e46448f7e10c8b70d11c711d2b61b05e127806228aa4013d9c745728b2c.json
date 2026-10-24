@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gerador de Hash e Criptografia", "version": "1.0", "description": "Gerador de Hash e Criptografia", "action": {"default_popup": "popup.html", "default_icon": "encryption.png"}, "icons": {"48": "encryption.png"}}

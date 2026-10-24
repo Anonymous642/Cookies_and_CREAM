@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "USD to XOF Converter", "version": "1.0", "description": "Convert USD to XOF directly in the popup.", "permissions": ["https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{2779c769-8172-4511-94df-6417bbe4e456}"}}}

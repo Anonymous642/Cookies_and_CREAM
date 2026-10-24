@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Date Outfit Suggester", "version": "1.0", "description": "Suggests random black-and-white themed outfits for a stylish date night.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "shawndukesdki805@hotmail.com"}}}

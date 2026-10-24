@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "\u6bcf\u65e5\u65e9\u62a5 DailyNews", "description": "\u6bcf\u592960\u79d2\uff0c\u83b7\u77e5\u5929\u4e0b\u4e8b\u3002", "version": "1.2", "action": {"default_icon": "icon.png", "default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SkyscraperCity Image Thread Remover", "version": "1.0", "description": "Removes the 'Images in this thread' div from SkyscraperCity forum threads", "content_scripts": [{"matches": ["*://*.skyscrapercity.com/*"], "js": ["content.js"]}], "permissions": [], "browser_specific_settings": {"gecko": {"id": "{16d91865-7cb3-430d-aa9e-27efc86a5866}"}}}

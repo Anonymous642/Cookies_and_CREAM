@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Soundcloud Download Current Track", "version": "1.3", "description": "Simple Link to the external Downloader", "content_scripts": [{"matches": ["*://*.soundcloud.com/*", "*://klickaud.net/*", "*://*.klickaud.co/*"], "js": ["script.js"], "css": ["style.css"]}], "applications": {"gecko": {"strict_min_version": "57.0a1"}}}

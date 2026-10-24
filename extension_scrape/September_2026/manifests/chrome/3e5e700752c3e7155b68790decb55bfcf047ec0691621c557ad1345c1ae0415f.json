@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Duo Drive", "description": "Your own pair partner for learning", "version": "1.0", "manifest_version": 3, "action": {"default_title": "Duo Drive", "default_popup": "index.html"}, "icons": {"16": "icon16.jpeg", "32": "icon32.jpeg", "48": "icon48.jpeg", "128": "icon128.jpeg"}}

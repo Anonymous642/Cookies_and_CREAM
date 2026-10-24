@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Video Duration Filter", "version": "1.0", "description": "A Firefox extension to filter YouTube videos by duration.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{1b0c9d25-d427-4193-b894-3b63b1825a00}"}}}

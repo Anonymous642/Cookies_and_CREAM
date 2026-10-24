@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Show Hidden Elements", "version": "1.0", "description": "Toggle the visibility of hidden elements on a webpage", "action": {"default_popup": "popup.html"}, "permissions": ["activeTab", "scripting"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

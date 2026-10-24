@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Random Conversation Starters", "version": "1.0", "description": "Generate random conversation topics to spark fun chats with friends.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "branfordh8031986daxwr@hotmail.com"}}, "permissions": []}

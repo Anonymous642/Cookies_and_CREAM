@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Page Load Time", "version": "1.0.0", "description": "Shows page load timing for the currently active tab.", "action": {"default_title": "Page Load Time", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}, "permissions": ["activeTab", "scripting"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Missile Defence Game", "description": "Play the Missile Defence Game, defend the town from the missiles!", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "index.html", "default_icon": "Missile.png"}}

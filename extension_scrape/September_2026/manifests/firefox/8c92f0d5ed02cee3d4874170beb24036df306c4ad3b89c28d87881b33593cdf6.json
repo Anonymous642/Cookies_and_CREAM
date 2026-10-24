@@ -1,0 +1,1 @@
+{"description": "Erlaubt openStat-Anwendungen nur in privaten Fenstern.", "manifest_version": 3, "name": "openStat", "version": "1.0.4", "content_scripts": [{"matches": ["<all_urls>"], "js": ["openStat.js"]}], "background": {"scripts": ["bgOpenStat.js"]}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{b7d72a1e-5a8e-4003-96c2-c7e9310782ae}"}}}

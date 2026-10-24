@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab Killer", "version": "2.0.0", "description": "Close tabs with context menu options", "permissions": ["tabs", "contextMenus"], "background": {"service_worker": "tab-killer.js"}, "action": {"default_title": "Tab Killer"}}

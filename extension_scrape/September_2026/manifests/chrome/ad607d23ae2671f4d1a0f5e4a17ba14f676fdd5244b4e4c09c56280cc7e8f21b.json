@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Oscilloscope", "version": "1.0.0", "manifest_version": 3, "description": "Analysis", "permissions": ["tabCapture"], "action": {"default_icon": "./icon2.png"}, "background": {"service_worker": "./js/background.js"}, "icons": {"128": "./icon.png"}}

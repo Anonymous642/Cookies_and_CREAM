@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "QuickAnalyzer Pro", "version": "1.1", "description": "Contador de palabras profesional con an\u00e1lisis de tiempo de lectura.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

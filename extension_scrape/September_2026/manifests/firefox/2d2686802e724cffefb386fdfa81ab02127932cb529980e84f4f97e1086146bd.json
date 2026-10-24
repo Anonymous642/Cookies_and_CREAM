@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Inspector", "version": "1.5", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "icons": {"16": "search.svg", "48": "search.svg", "128": "search.svg"}, "browser_specific_settings": {"gecko": {"id": "{a93f362b-4f36-49a6-850b-867aaa420434}"}}}

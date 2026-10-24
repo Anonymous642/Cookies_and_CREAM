@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Fuzzy Square", "version": "1.4", "manifest_version": 2, "description": "A 9x9 Cradle Board Game on Fuzzy Logic", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "app": {"launch": {"local_path": "taichicard.html"}}, "permission": ["http://www.taichicard.co"]}

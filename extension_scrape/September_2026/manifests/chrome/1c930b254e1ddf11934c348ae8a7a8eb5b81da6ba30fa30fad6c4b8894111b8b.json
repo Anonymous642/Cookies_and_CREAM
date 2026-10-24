@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Snow Dice Roller", "version": "1.0.0", "description": "Roll a random dice (1\u20136) in a clean, snow-white popup.", "icons": {"128": "icon-128.png"}, "action": {"default_title": "Snow Dice Roller", "default_popup": "popup.html", "default_icon": {"128": "icon-128.png"}}}

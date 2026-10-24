@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Chrome no Cascade", "description": "Prevents Chrome from cascading new windows.", "version": "1.0", "icons": {"16": "chrome-cascade.png"}, "permissions": ["windows"], "background": {"service_worker": "background.js"}, "action": {"default_icon": "chrome-cascade.png"}}

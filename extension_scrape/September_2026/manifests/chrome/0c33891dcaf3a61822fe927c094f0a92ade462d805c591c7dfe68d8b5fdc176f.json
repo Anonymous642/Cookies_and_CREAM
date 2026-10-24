@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "RankReveal", "description": "Descubre tus oportunidades de optimizaci\u00f3n para buscadores", "version": "1.0", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "index.html", "default_icon": "rank-reveal.png"}}

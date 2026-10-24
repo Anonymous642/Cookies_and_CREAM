@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Police Blue Random Password", "version": "1.0.0", "description": "Generate random passwords instantly (offline) with a police-blue interface.", "action": {"default_title": "Random Password", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

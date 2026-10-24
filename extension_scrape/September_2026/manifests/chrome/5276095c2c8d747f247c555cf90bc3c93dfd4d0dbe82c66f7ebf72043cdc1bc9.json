@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Screenshot Extension", "description": "Capture a screenshot of the visible webpage area.", "version": "1.0", "manifest_version": 3, "permissions": ["activeTab", "downloads"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "background": {"service_worker": "background.js"}}

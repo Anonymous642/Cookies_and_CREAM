@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "hitomiViewerEZController", "version": "1.0", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.hitomi.la/reader/*"], "js": ["hitomiViewerEZController.js"]}], "browser_specific_settings": {"gecko": {"id": "{9fd1b63b-5fe3-470c-9912-056cdb680a36}"}}}

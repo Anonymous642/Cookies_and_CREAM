@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "UUID converter", "version": "1.0.0", "description": "converter for uuid and short ids", "manifest_version": 3, "author": "Henrique Panham", "action": {"default_popup": "index.html", "default_title": "Id converter", "default_icon": "128.png"}}

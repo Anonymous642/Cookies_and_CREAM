@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DSL.sk-DarkMode", "version": "1.0", "applications": {"gecko": {"id": "podpora@tpsoft.org"}}, "description": "Dark Mode for DSL.sk", "icons": {"48": "images/logo-48.png", "96": "images/logo-96.png"}, "content_scripts": [{"matches": ["*://*.dsl.sk/*"], "js": ["js/jquery-3.4.1.min.js", "js/main.js"]}]}

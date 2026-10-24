@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "NCT New Tab", "version": "1.2", "manifest_version": 3, "description": "Replaces each new tab with an NCT picture and quote.", "icons": {"128": "img/smalljaemin.png"}, "chrome_url_overrides": {"newtab": "page.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Eye Rest Reminder", "version": "1.0", "description": "Nh\u1eafc b\u1ea1n nh\u1eafm m\u1eaft ngh\u1ec9 10 gi\u00e2y m\u1ed7i 20 ph\u00fat.", "permissions": ["notifications"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{3325f7a0-2e6f-47c9-8da6-7213b72d2f4b}"}}}

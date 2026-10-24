@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Reopen Closed Tab", "version": "1.0.1", "description": "Reopen the most recently closed tab with one click.", "action": {"default_title": "Reopen Closed Tab", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}, "permissions": ["sessions"]}

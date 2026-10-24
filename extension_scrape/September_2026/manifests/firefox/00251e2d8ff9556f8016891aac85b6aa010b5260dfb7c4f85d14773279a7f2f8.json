@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AoPS Topic Collection Auto-Adder", "version": "1.0", "description": "Automatically add problem links from open tabs to AoPS collections", "permissions": ["tabs", "https://artofproblemsolving.com/*"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{a599a291-524c-4c1a-a6bc-0532fbe5150d}"}}}

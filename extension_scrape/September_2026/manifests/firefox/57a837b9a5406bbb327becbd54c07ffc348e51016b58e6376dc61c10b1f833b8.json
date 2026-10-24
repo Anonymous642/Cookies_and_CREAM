@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Random Quote Popup", "version": "1.0", "description": "Display a random inspirational quote in the popup.", "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{6f3c8008-f887-4aa0-a1e7-ae54e69ef6d5}"}}}

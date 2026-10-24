@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "importICS", "version": "0.5", "description": "Eases the import of ics files in google calendar. Still in developoment", "applications": {"gecko": {"strict_min_version": "50.0"}}, "permissions": ["activeTab", "tabs", "storage", "downloads"], "options_ui": {"page": "options.html", "browser_style": true}, "background": {"scripts": ["background.js"]}}

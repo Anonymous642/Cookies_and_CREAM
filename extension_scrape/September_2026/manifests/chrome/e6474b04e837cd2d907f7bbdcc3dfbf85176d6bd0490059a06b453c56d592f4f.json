@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ChronosText", "version": "1.1", "description": "Adiciona um atalho para texto salvos.", "permissions": ["storage"], "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["main.js", "input-controller.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LiquidGlass Reading List", "version": "1.0", "description": "A beautiful reading list with liquid glass UI and smooth animations", "icons": {"128": "icon.png"}, "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage", "tabs"]}

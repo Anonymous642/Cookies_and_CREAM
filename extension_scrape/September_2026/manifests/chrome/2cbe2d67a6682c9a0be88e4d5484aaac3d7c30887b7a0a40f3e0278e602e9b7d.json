@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Number to Words Converter", "description": "Convert numbers into written words instantly in a clean, modern popup.", "version": "1.0.0", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon_128.png"}}, "icons": {"128": "icon_128.png"}, "permissions": []}

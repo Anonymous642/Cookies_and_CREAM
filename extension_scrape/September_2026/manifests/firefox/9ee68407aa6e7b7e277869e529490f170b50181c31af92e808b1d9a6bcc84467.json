@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Web Mood Tracker", "version": "1.0", "description": "Record your emotions while browsing.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{ad313859-cdc9-48ce-ba5b-e0cbba34adc2}"}}}

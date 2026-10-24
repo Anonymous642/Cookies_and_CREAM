@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Singify", "version": "1.0", "description": "Quick access to Singify - AI Music & Song Generator.", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png", "512": "icon.png"}, "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

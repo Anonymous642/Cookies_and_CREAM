@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Free Bitcoin", "manifest_version": 2, "short_name": "Free Bitcoin", "description": "Free informtion about Bitcoin", "version": "1", "icons": {"128": "icon.jpg"}, "app": {"launch": {"web_url": "http://bitcoin.hekoru.lol"}}}

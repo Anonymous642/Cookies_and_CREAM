@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Maghrib Countdown", "author": "Naeemudheen p", "homepage_url": "https://github.com/naeemudheenp", "version": "1.0", "description": "Shows the remaining time for Maghrib prayer based on location.", "permissions": ["geolocation"], "action": {"default_popup": "index.html"}}

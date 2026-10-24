@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hatebu Comments Sorted by Stars", "version": "1.0.0", "description": "Sort Hatena Bookmark comments by its stars in descending order.", "content_scripts": [{"matches": ["https://b.hatena.ne.jp/entry/s/*"], "js": ["main.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Be Links", "version": "1.0.0", "description": "Tus enlaces favoritos en un solo lugar", "manifest_version": 3, "author": "Begroupec S.A.S", "permissions": ["scripting", "storage", "tabs"], "host_permissions": ["file:///*"], "action": {"default_popup": "index.html"}, "icons": {"128": "/assets/128.png"}}

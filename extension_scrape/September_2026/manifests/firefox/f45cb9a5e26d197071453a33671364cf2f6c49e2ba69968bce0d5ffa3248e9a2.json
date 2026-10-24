@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Passworder", "version": "1.0", "description": "Generate strong passwords with custom length", "permissions": ["clipboardWrite"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{348b328c-d9ce-4173-8a22-5e055c2e2a78}"}}}

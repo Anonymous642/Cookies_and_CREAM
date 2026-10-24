@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Custom Startpage", "version": "1.4", "description": "A custom start page for Firefox and Chrome", "chrome_url_overrides": {"newtab": "startpage.html"}, "browser_specific_settings": {"gecko": {"id": "startpage@yourdomain.com", "strict_min_version": "109.0"}}, "permissions": [], "icons": {"48": "icon.png"}}

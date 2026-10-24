@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Just Bitcoin Price", "version": "0.0.1", "icons": {"128": "btc.png"}, "action": {"default_popup": "popup.html"}, "permissions": ["https://criptoya.com/api/lemoncash/btc/ars/0.1", "https://criptoya.com/api/lemoncash/usdt/ars/0.1"]}

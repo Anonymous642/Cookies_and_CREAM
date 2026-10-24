@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Private URLs", "version": "0.1.1resigned1", "author": "Jon Dufresne", "description": "Clean and rewrite URLs to their final destination", "background": {"scripts": ["privateurls.js"]}, "permissions": ["<all_urls>", "webRequest", "webRequestBlocking"], "browser_specific_settings": {"gecko": {"id": "{9522af3c-d965-4740-b39d-25b6246f4ccb}"}}}

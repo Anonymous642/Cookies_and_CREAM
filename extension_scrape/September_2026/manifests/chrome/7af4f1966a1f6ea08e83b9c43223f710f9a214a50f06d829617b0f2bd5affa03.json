@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Recoil Rush", "version": "2.2", "description": "1# Offline Game", "icons": {"48": "logo.png", "128": "logo.png"}, "action": {"default_popup": "index.html", "default_icon": {"48": "logo.png"}}, "permissions": []}

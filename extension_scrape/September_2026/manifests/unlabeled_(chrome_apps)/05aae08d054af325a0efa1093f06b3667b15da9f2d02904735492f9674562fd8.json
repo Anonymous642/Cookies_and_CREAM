@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Pop", "short_name": "Pop", "description": "Don't Get Popped", "version": "1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://dowcwow.wix.com/my-games#!pop/c9h7"], "launch": {"web_url": "http://dowcwow.wix.com/my-games#!pop/c9h7"}}}

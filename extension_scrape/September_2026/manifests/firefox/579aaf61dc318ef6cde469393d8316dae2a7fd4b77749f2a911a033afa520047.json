@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HQQuilt Theme", "version": "1.0", "description": "Trang tab m\u1edbi mang phong c\u00e1ch HQQuilt \u2013 L\u00e1 phong m\u00f9a thu r\u1ef1c r\u1ee1.", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{e2063f2b-0e27-4b87-b746-ab13a12fa0b1}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Webcam Capture to PDF", "version": "1.2.1", "description": "Capture multiple webcam images and convert them into a PDF.", "permissions": ["storage", "downloads"], "action": {"default_title": "Webcam Capture to PDF", "default_popup": "popup.html"}}

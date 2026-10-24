@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SalesforceExport", "manifest_version": 3, "version": "2.0.0", "permissions": ["webRequest"], "host_permissions": ["https://*.force.com/*"], "background": {"service_worker": "script.js"}, "content_scripts": [{"matches": ["https://*.force.com/*"], "all_frames": true, "js": ["content.js"]}]}

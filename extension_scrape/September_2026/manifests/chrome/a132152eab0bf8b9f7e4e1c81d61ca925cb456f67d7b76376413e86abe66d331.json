@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Timestamped Comments", "version": "1.0", "description": "Display timestamped comments on the video timeline.", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"]}], "host_permissions": ["*://www.youtube.com/*"]}

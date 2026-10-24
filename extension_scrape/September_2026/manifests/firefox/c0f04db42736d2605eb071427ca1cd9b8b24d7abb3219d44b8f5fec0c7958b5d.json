@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Pomodoro Timer", "version": "1.0", "description": "A simple Pomodoro timer to boost productivity.", "permissions": ["storage"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "pomodoro-timer@example.com", "strict_min_version": "109.0"}}}

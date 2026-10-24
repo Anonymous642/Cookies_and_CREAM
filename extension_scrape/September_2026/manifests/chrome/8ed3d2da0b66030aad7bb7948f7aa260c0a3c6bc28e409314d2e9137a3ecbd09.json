@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "New Tab Minigames", "version": "1.0.2", "description": "Pick a minigame whenever you open a new browser tab.", "chrome_url_overrides": {"newtab": "newtab.html"}}

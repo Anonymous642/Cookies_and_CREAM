@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Related-B-Gone", "version": "1.0", "description": "Removes related videos and chats from youtube via CSS", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["relatedBgone.js"]}], "browser_specific_settings": {"gecko": {"id": "{d470e083-33f5-4bae-8ec5-9e93a1d1736d}"}}}

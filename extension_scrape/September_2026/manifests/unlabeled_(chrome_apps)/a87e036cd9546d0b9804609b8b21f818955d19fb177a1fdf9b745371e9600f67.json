@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Holidays in Trouble", "description": "Holidays in Trouble", "version": "1.4", "app": {"launch": {"web_url": "https://db.tt/w0nAaD88/"}}, "icons": {"128": "icon128.png"}}

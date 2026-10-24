@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "mustat-check", "version": "1.3resigned1", "permissions": ["activeTab", "contextMenus", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{9afad954-59a0-4c99-b6a1-2e4b05cd3b5c}"}}}

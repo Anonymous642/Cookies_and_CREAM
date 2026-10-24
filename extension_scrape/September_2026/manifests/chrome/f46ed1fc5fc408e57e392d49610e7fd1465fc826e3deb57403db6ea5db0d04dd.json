@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AI Lyric Checker", "version": "1.0.1", "description": "An AI Lyric Checker for Spotify", "icons": {"128": "AI-Lyrics-Checker.png"}, "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["https://open.spotify.com/*"], "js": ["checkLyrics.js", "content.js"]}]}

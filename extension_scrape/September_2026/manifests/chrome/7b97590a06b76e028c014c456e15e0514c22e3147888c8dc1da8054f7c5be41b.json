@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab Manager", "version": "1.0", "description": "Manage and filter tabs with group support", "permissions": ["tabs", "tabGroups"], "host_permissions": ["<all_urls>"], "action": {"default_popup": "popup.html", "default_icon": {"50": "icon.png"}}}

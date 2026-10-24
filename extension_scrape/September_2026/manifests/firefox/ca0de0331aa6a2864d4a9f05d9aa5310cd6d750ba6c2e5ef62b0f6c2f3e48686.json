@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "But not for me", "version": "1.0", "description": "Forces Tumblr to the Following tab, removing the For You tab", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.tumblr.com/*"], "js": ["but-not-for-me.js"]}], "browser_specific_settings": {"gecko": {"id": "{dcf8a0fe-5ef2-4578-af37-4d6d0c5d61b7}"}}}

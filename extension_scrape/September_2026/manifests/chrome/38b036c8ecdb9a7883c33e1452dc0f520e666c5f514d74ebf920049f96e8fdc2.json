@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Ball-Drop-Inator", "description": "Drop balls == win points!", "version": "1.1", "manifest_version": 3, "permissions": [], "action": {"default_popup": "index.html", "default_icon": "/assets/icon.PNG"}}

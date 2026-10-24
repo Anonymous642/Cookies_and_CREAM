@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Open Shortcut", "version": "1.1", "description": "A simple Firefox extension to open Shortcut.", "permissions": ["activeTab"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html", "default_title": "Click to open Shortcut"}, "browser_specific_settings": {"gecko": {"id": "{919c8338-a3dc-4e14-83cb-7c9632925379}"}}}

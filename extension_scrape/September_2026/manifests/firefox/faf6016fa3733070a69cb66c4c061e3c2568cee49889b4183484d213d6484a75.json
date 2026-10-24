@@ -1,0 +1,1 @@
+{"author": "LDprg", "browser_specific_settings": {"gecko": {"id": "{bc31b98b-69a1-4cac-bcde-94286456903c}"}}, "content_scripts": [{"js": ["mcTools.js"], "matches": ["*://www.monsieur-cuisine.com/*/create-recipe*"]}], "description": "Makes the MC website more useful", "manifest_version": 2, "name": "MC Tools", "version": "1.3"}

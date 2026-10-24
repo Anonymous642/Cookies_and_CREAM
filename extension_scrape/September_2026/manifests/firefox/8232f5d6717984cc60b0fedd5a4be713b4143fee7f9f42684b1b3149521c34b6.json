@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Page Load Timer", "version": "1.0", "description": "Measure and display page load time.", "permissions": ["tabs", "activeTab"], "browser_action": {"default_title": "Page Load Timer", "default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{3f7ea1b2-9d27-4fbd-82c1-a6535b7213da}"}}}

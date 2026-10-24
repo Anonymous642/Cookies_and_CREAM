@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Wikidom", "version": "0.1.0", "description": "Random Wikipedia articles with favorites.", "action": {"default_title": "Wikidom", "default_popup": "popup.html"}, "permissions": ["storage"], "host_permissions": ["https://*.wikipedia.org/*"], "minimum_chrome_version": "114"}

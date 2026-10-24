@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ClownFinder for /r/CFB & /r/NFL", "version": "0.2", "description": "Find clowns on the internet", "content_scripts": [{"matches": ["*://*.reddit.com/r/CFB/*", "*://*.reddit.com/r/nfl/*"], "js": ["content.js"], "run_at": "document_idle"}]}

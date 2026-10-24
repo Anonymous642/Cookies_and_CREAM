@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "WarriorTrading Copy To Clipboard", "version": "1.0", "description": "Copies text of clicked element only if tab title matches target name.", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}, "action": {"default_title": "Enable Click Copy"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "BunnyPop", "manifest_version": 2, "description": "Touch! Drag! Aim, HOP! If you love bunnies & eggs you'll love playing BunnyPop!", "version": "1.1", "icons": {"16": "chrome-icon16.png", "128": "chrome-icon.png"}, "app": {"background": {"scripts": ["background.js"]}}}

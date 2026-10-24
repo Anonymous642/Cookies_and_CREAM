@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "F The Advisory", "version": "1.0.0", "description": "Automatically handles advisory warnings on YouTube Music", "permissions": ["activeTab"], "host_permissions": ["https://music.youtube.com/*"], "content_scripts": [{"matches": ["https://music.youtube.com/*"], "js": ["main.js"]}]}

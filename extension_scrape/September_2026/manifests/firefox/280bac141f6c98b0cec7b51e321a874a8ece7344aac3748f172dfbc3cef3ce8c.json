@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MNT to MWK Converter", "version": "1.0", "description": "Convert Mongolian Tugrik (MNT) to Malawian Kwacha (MWK).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert MNT to MWK"}, "browser_specific_settings": {"gecko": {"id": "{e985dde2-bb5a-4acc-b406-a7287508e641}"}}}

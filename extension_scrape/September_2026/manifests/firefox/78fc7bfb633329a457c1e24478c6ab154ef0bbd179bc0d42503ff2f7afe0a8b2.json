@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bookmark Sidebar", "version": "1.3", "description": "A simple bookmark sidebar for Firefox.", "permissions": ["bookmarks", "sidebar"], "sidebar_action": {"default_title": "Bookmark Sidebar", "default_panel": "sidebar.html"}, "background": {"scripts": ["sidebar.js"]}, "browser_specific_settings": {"gecko": {"id": "bookmark-sidebar@example.com"}}}

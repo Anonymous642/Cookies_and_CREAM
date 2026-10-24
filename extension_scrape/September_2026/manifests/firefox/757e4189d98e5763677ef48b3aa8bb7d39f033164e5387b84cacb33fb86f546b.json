@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Drift Boss Unblocked", "version": "2.0", "description": "Play Drift Boss Unblocked game for free right in your web-browser!", "browser_action": {"default_icon": "drift-boss-unblocked.png"}, "background": {"scripts": ["background.js"], "type": "module"}, "browser_specific_settings": {"gecko": {"id": "{302e817a-5e89-4087-b65b-aef73d5f697e}"}}}

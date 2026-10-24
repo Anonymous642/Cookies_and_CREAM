@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "xkcd x2", "version": "1.1", "description": "Adds a link to the double-size image version to xkcd pages.", "browser_specific_settings": {"gecko": {"id": "{cd9afd04-a7d3-46b6-a8bd-714165d837a8}", "strict_min_version": "58.0"}}, "icons": {"48": "icons/xkcd_x2_48.png"}, "content_scripts": [{"matches": ["*://*.xkcd.com/*"], "js": ["x2Button.js"]}]}

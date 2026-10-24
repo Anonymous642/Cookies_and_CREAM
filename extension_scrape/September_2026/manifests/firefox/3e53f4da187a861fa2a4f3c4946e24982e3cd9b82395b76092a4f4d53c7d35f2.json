@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Dark Mode", "version": "1.0", "description": "T\u1ef1 \u0111\u1ed9ng b\u1eadt dark mode cho m\u1ecdi trang.", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "auto-dark-mode@yourdomain.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Aggie Prof Helper", "version": "0.2.1", "description": "Speed Up Professor Selection", "permissions": ["scripting", "activeTab", "webNavigation"], "host_permissions": ["https://tamu.collegescheduler.com/*"], "background": {"service_worker": "src/background.js"}, "manifest_version": 3}

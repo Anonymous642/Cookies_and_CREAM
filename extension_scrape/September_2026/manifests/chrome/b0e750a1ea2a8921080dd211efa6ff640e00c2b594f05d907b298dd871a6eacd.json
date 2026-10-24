@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GV List Saver", "version": "3.0", "description": "Save and manage your favorite URLs easily across devices.", "permissions": ["storage", "tabs"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

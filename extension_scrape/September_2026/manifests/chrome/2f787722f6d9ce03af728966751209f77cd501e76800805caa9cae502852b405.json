@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LINE | Campaign Inspector", "version": "1.4.1", "description": "Extracts ad setup data from Ad Manager into structured previews.", "author": "T.P. (Glint)", "permissions": ["activeTab", "scripting", "storage"], "action": {"default_popup": "popup.html"}}

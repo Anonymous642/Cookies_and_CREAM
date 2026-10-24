@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SIIIR Fix", "description": "Fixes minor annoyances in SIIIR. For now it adds a column to the primar and gimnazial tabs.", "version": "1.0.1", "manifest_version": 3, "background": {"service_worker": "background.js"}, "permissions": ["scripting", "tabs"], "host_permissions": ["https://siiir.edu.ro/*"]}

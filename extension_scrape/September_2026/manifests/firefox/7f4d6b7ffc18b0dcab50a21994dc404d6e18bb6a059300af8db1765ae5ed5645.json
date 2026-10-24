@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "URL Auto Opener", "version": "1.0", "description": "Automatically open multiple URLs in new tabs with one click.", "permissions": ["tabs"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{0e6ff4af-fcd2-47f1-91b2-f64703ddeccb}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HNRead", "version": "1.1.1", "description": "Adds a button to mark a thread as read on HN", "icons": {"48": "hacker-news.png"}, "content_scripts": [{"matches": ["*://news.ycombinator.com/*"], "js": ["hnread.js"], "css": ["hnread.css"]}]}

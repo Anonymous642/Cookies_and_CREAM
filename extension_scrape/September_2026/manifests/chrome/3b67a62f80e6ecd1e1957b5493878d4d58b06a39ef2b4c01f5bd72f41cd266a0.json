@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hide Cards for Poker Now", "description": "Prevent others from seeing at your cards in real life. Hover to peek.", "version": "1.0", "content_scripts": [{"matches": ["https://www.pokernow.club/*"], "js": ["content.js"], "css": ["styles.css"]}], "icons": {"128": "icon.png"}}

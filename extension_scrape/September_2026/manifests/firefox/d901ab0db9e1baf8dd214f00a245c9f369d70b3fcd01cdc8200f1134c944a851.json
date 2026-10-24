@@ -1,0 +1,1 @@
+{"name": "JustQR EXtension", "description": "Simply create a QR code of your text or your URL \ud83e\udd70", "version": "0.0.1", "manifest_version": 2, "page_action": {"default_popup": "popup.html", "default_icon": "x.png"}, "browser_specific_settings": {"gecko": {"id": "{d1b3e7fc-8b27-40bd-9818-fdc22502d3af}"}}}

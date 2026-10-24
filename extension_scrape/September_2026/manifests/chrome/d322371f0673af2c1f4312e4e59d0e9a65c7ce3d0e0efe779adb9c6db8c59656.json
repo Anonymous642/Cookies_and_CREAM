@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Today Outfit Picker", "description": "Get quick outfit ideas based on mood or weather.", "version": "1.0", "action": {"default_popup": "popup.html", "default_title": "Outfit Suggestions"}, "icons": {"128": "icon128.png"}}

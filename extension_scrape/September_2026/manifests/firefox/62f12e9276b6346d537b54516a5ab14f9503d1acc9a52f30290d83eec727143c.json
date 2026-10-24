@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DA Chat Features", "version": "1.1resigned1", "description": "Adds features to the DeviantART chatrooms.", "icons": {"48": "chat.png"}, "content_scripts": [{"matches": ["*://chat.deviantart.com/chat/*"], "js": ["da-chat.js"]}], "browser_specific_settings": {"gecko": {"id": "{6de1652b-d4d4-44af-b4ed-efe8a2bedf65}"}}}

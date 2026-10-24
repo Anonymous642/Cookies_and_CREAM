@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Screen Recorder", "version": "1.0", "description": "Record your screen and save it as a video file.", "permissions": ["activeTab", "storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{2d27a20c-c178-4200-b947-dea5df292d9a}"}}}

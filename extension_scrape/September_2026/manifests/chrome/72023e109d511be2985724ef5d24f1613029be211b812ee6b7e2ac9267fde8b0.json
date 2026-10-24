@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Meta Ai Token Trading", "version": "1.0", "description": "Lightweight extension with powerful AI tools to boost your token trading.", "action": {"default_title": "Open Meta Ai Token Trading"}, "background": {"service_worker": "background.js"}, "icons": {"128": "icon128.png"}}

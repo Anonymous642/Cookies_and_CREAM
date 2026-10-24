@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Session Saver Deluxe", "version": "1.0", "description": "Save & restore browsing sessions.", "action": {"default_popup": "popup.html", "default_icon": "session_saver_deluxe.png"}, "icons": {"128": "session_saver_deluxe.png"}, "permissions": ["storage", "tabs"]}

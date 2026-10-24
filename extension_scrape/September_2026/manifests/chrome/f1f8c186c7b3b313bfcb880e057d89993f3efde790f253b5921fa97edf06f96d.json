@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Frequ\u00eancia R\u00e1pida - SmartEdu S\u00e3o Bento PB", "version": "1.4", "permissions": ["activeTab", "scripting", "storage"], "action": {"default_popup": "popup.html"}, "host_permissions": ["https://saobento.smartedu.foxter.tech/*"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "browser_specific_settings": {"gecko": {"id": "chess-pices-in-lichess@al4r0.com"}}, "name": "Chess Pices for Lichess", "version": "1.0", "description": "Use Chess Pices in Lichess", "icons": {"48": "./icons/48.png", "96": "./icons/96.png"}, "content_scripts": [{"matches": ["*://lichess.org/*"], "js": ["./style.js"], "run_at": "document_idle"}]}

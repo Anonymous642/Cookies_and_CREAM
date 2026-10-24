@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WSOP Free Chips Links", "version": "1.0", "description": "Get the latest WSOP free chips links instantly.", "permissions": ["activeTab"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{de56bf51-cbc4-42d7-b6ce-a813f92843ef}"}}}

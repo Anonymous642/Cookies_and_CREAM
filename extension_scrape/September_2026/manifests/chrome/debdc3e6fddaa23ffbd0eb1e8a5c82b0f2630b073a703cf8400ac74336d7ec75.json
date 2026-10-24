@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Kyu nhi ho rhi padhai?", "version": "1.0", "description": "Plays an audio file when the extension icon is clicked", "permissions": [], "action": {"default_title": "Kyu nhi ho rhi padhai?", "default_popup": "popup.html", "default_icon": "/icons/icon4.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Stuff modal remover", "version": "1.0", "description": "Remove modals", "content_scripts": [{"js": ["scripts/content.js"], "matches": ["https://www.stuff.co.nz/quizzes", "https://www.stuff.co.nz/quizzes/*"]}]}

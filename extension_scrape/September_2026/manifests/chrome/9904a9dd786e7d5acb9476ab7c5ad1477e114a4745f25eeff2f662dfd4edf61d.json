@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Fotos Bonitas de Crevillent en Nueva Pesta\u00f1a", "version": "1.0.3", "description": "Muestra una foto aleatoria de Crevillent como fondo al abrir una nueva pesta\u00f1a, con el nombre del autor.", "chrome_url_overrides": {"newtab": "index.html"}}

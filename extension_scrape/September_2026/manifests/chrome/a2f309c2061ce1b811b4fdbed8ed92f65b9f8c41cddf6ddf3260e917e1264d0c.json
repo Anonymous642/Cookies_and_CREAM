@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Star Citizen Button Text/Url Replace", "version": "1.1", "description": "Replaces text and Url for two buttons on the Star Citizen website.", "permissions": [], "content_scripts": [{"matches": ["https://robertsspaceindustries.com/*"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CaptionMaster Lite", "version": "1.0", "description": "A lightweight tool for basic caption editing.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["activeTab", "storage"], "browser_specific_settings": {"gecko": {"id": "{1746b6c6-c887-4455-861c-7c065f2a64d3}"}}}

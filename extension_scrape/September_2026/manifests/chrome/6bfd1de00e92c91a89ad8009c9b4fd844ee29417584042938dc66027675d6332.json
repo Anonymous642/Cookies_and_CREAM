@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Apmold cookies extension", "version": "3.4.7", "description": "extension which demonstrates how to Block/allow cookies.", "permissions": ["privacy"], "browser_action": {"default_icon": "download_128x128.jpg", "default_popup": "popup.html"}, "manifest_version": 3}

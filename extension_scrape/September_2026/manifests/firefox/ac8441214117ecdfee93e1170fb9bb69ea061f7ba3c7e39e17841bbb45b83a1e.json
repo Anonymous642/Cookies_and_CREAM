@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Custom New Tab Quotes", "version": "1.0", "description": "Show a motivational quote on every new tab.", "permissions": [], "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{15599399-03b0-429c-9211-e0651803b40e}"}}}

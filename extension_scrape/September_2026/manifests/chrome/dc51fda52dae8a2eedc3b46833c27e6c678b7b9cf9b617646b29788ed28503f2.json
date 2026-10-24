@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "short_name": "maga-seller-ml", "name": "Maga Seller ML", "version": "0.4", "manifest_version": 3, "permissions": ["storage"], "icons": {"48": "icon.png"}, "content_scripts": [{"js": ["content.js"], "matches": ["http://*.mercadolivre.com.br/*", "https://*.mercadolivre.com.br/*"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Malleus", "short_name": "Malleus", "description": "Malleus", "version": "1.0.0.1", "icons": {"16": "assets/images/hammer_16.png", "128": "assets/images/hammer_128.png"}, "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["storage", "webview"]}

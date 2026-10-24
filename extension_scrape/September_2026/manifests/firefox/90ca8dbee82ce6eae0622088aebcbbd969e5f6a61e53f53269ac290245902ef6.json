@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Tab Count Logger", "version": "1.0", "description": "Sends the browser tab count to an InfluxDB instance", "permissions": ["storage", "alarms"], "background": {"scripts": ["background.js"]}, "options_page": "options.html", "browser_specific_settings": {"gecko": {"id": "bae877446edfeda422d9aab7b5e4644199fb49b5@example.com"}}}

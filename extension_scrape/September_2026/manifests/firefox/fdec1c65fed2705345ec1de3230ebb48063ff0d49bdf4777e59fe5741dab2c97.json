@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Letterboxd FA", "version": "1.0", "description": "Adds Farsi Support to Letterboxd", "icons": {"48": "icons/letterboxd-48.png"}, "content_scripts": [{"matches": ["*://letterboxd.com/*"], "js": ["jquery-3.4.1.min.js", "main.js"], "css": ["main.css"]}]}

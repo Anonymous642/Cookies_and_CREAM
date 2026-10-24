@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CleanGO", "version": "1.4.0", "description": "Better Vision of AnimeGO.", "browser_specific_settings": {"gecko": {"data_collection_permissions": {"required": ["none"]}, "id": "{8c1bdb2a-2a91-4094-ab3a-50df1c44f286}"}}, "content_scripts": [{"matches": ["*://animego.ngo/*"], "js": ["content.js"], "run_at": "document_end"}]}

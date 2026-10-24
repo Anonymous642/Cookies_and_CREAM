@@ -1,0 +1,1 @@
+{"name": "Twitter Image Fixer", "description": "A small browser add-on that fixes Twitter's weird image behavior.", "manifest_version": 2, "version": "1.0", "icons": {"48": "icon.svg", "96": "icon.svg"}, "permissions": ["webRequest", "webRequestBlocking", "*://pbs.twimg.com/media/*", "*://twitter.com/*"], "background": {"scripts": ["background.js"]}}

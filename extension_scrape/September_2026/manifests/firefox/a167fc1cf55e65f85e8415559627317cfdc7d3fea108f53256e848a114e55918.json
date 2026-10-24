@@ -1,0 +1,1 @@
+{"name": "turtles new tab", "description": "it is a simple new tab screen (may not work on all browsers)", "version": "1.0", "incognito": "not_allowed", "chrome_url_overrides": {"newtab": "newtab.html"}, "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{cd26646c-b1f4-493f-aa79-d970120d515c}"}}}

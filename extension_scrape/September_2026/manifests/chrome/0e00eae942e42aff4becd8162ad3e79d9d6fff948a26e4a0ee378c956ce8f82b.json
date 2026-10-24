@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Retro Tab Copier", "version": "1.0.0", "description": "Copy the current tab title and URL in plain text, Markdown, or HTML format.", "action": {"default_title": "Retro Tab Copier", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}, "permissions": ["activeTab"]}

@@ -1,0 +1,1 @@
+{"action": {"default_icon": "URL LinkMapper.png", "default_popup": "popup.html"}, "description": "URL LinkMapper allows you to compare old and new URLs and identify the best matching new URLs.", "manifest_version": 3, "name": " URL LinkMapper", "update_url": "https://clients2.google.com/service/update2/crx", "version": "1.4"}

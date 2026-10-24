@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "JEE Main College Predictor", "version": "1.0.1", "description": "Predicts the colleges you can get into based on your JEE Main score.", "icons": {"128": "icons128.png"}, "action": {"default_popup": "popup.html", "default_icon": "icons128.png"}, "browser_specific_settings": {"gecko": {"id": "info@coachingdaddy.com", "strict_min_version": "109.0"}}}

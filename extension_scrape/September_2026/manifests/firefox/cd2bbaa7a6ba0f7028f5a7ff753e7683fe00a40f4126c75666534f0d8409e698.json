@@ -1,0 +1,1 @@
+{"name": "Kinopoisk To RuTracker", "version": "2.1", "manifest_version": 2, "icons": {"48": "/icon/extensionLogo.png"}, "content_scripts": [{"matches": ["https://www.kinopoisk.ru/*"], "js": ["main.js"]}], "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{68a8b9ea-2ce2-4c11-8da7-76d25dacfcc8}"}}}

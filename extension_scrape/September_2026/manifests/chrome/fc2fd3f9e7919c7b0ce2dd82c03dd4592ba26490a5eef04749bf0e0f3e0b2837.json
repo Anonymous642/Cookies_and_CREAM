@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Romantic Periodic Table", "version": "1.0.0", "description": "A romantic-themed periodic table in your popup with search and quick copy.", "action": {"default_title": "Periodic Table", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

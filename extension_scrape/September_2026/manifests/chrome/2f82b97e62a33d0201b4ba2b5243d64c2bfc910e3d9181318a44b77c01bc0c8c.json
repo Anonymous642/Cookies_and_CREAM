@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Get This Extension", "description": "Let's See How Many Users We Can Get!", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

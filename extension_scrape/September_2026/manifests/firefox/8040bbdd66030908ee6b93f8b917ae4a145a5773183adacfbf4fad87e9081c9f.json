@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "url-clickifier", "version": "20250811", "description": "Make previously un-clickable text URLs clickable.", "icons": {"64": "link.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{1938c7ac-7269-4a0c-9c41-17647c7f088d}"}}}

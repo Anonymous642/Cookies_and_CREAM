@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Daily Kanji", "version": "1.0", "description": "Display a new Kanji character every day in a popup.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{d4aeb1be-1e48-49d8-9cb6-e504c4897feb}"}}}

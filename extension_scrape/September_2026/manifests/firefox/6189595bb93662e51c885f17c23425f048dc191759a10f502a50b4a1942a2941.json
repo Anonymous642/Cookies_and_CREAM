@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "HTML Sanitizer", "version": "1.0.0", "description": "HTML Sanitizer: Cleans HTML locally.", "action": {"default_popup": "popup.html", "default_icon": "html_sanitizer.png"}, "icons": {"128": "html_sanitizer.png"}, "browser_specific_settings": {"gecko": {"id": "appointJloDh@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

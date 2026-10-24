@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "eco-mon", "version": "1.3resigned1", "content_scripts": [{"matches": ["<all_urls>"], "js": ["index.js"]}], "background": {"scripts": ["input.js"]}, "permissions": ["tabs", "theme"], "browser_specific_settings": {"gecko": {"id": "{1953750d-c148-4d74-ac31-5a076719e5a5}"}}}

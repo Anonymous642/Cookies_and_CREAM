@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "WK", "description": "WK.AR es un servicio gratuito que te permite acortar tus URL largas y compartir enlaces de forma sencilla.", "version": "1.0", "permissions": ["clipboardWrite", "tabs"], "action": {"default_popup": "popup/popup.html"}, "icons": {"32": "assets/icon32.png"}}

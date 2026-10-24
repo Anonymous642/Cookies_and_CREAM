@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ultimate PDF Toolkit Pro", "version": "3.0", "description": "Comprehensive offline PDF tools featuring full-page dashboard and ZIP interleaving.", "background": {"service_worker": "background.js"}, "action": {}, "permissions": ["downloads", "activeTab", "scripting"]}

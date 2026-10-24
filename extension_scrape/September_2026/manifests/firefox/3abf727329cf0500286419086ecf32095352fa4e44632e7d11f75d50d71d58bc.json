@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "T\u00e1bla", "version": "1.2", "content_scripts": [{"matches": ["*://*.e-kreta.hu/*"], "css": ["style.css"], "js": ["content.js"]}], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{c9fab67b-73b1-42bc-8875-408c57495aca}"}}}

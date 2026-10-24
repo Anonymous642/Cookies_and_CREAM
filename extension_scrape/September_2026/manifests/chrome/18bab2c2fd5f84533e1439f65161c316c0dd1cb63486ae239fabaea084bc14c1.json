@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "QR Link Share", "version": "1.0", "description": "QR Link Share: Generate QR for current URL.", "action": {"default_popup": "popup.html", "default_icon": "qr_link_share.png"}, "icons": {"128": "qr_link_share.png"}}

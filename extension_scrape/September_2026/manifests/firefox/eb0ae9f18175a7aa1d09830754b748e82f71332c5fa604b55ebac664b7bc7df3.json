@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Translator", "version": "1.0", "description": "Translate selected text quickly using Google Translate.", "permissions": ["activeTab", "contextMenus"], "background": {"scripts": ["background.js"], "persistent": false}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{f9c9bdad-e096-46df-9e30-1684d5f7a75b}"}}}

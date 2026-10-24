@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Time in India", "description": "Show the current time in India", "version": "1.0", "action": {"default_popup": "time.html", "default_icon": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "The Questioner", "version": "1.0", "description": "Promotes critical thinking by generating questions about selected text.", "permissions": ["contextMenus", "activeTab", "storage", "scripting"], "background": {"service_worker": "background.js"}, "options_page": "options.html"}

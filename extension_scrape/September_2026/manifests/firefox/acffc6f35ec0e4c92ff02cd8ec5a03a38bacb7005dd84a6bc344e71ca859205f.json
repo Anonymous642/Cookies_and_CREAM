@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Roblox+", "description": "Extends the features available on roblox.com", "default_locale": "en", "version": "1", "content_scripts": [{"matches": ["*://*.roblox.com/*"], "js": ["content.js"], "css": ["badges-preview.css"], "runAt": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{0a3ee209-ab68-4b84-a9ef-eb0ee686dd8d}"}}}

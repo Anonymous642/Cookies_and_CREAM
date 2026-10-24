@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FocusBubble", "version": "1.0", "description": "A minimal extension to help you stay focused by displaying gentle reminders.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{0d4d6ede-740c-4ede-87ef-6c7db6dd87df}"}}}

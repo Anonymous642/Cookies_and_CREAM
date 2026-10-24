@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Funny Personality Quiz", "version": "1.0.0", "description": "A playful and funny personality quiz extension with simple results and zero complex permissions.", "action": {"default_popup": "popup.html", "default_title": "Funny Personality Quiz"}, "icons": {"128": "icon128.png"}}

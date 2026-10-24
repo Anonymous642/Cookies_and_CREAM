@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Dragon Name Generator", "description": "Generate a Dragon Name", "version": "1.0", "manifest_version": 3, "homepage_url": "https://dragonnamegenerator.dev", "action": {"default_popup": "index.html", "default_icon": "dragon_name_extension.png"}}

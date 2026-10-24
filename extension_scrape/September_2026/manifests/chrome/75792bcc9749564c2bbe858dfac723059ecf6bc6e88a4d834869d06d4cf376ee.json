@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "0.0.0.1", "name": "Wesele z klas\u0105 (dodatek)", "description": "Usprawnij przegl\u0105danie ofert na stronie weselezklasa.pl", "content_scripts": [{"js": ["style.js", "custom_options.js", "improvements.js", "main.js"], "matches": ["https://*.weselezklasa.pl/*"]}]}

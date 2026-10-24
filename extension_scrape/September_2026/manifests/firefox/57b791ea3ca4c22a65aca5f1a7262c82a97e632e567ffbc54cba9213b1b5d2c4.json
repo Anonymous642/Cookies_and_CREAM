@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hide DISHA", "version": "1.1resigned1", "description": "Hides 'Ask DISHA' on IRCTC Indian Railways Website", "content_scripts": [{"matches": ["*://www.irctc.co.in/nget/*"], "js": ["app.js"]}], "browser_specific_settings": {"gecko": {"id": "{4332859e-fde6-4e69-a21b-81b021400f27}"}}}

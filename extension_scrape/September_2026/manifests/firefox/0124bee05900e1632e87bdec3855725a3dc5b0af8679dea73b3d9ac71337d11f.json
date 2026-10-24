@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "US-TabLimiter", "version": "0.1", "description": "Set a maximum number of open tabs and keep your browsing under control. Prevent tab overload and boost focus with TabLimiter", "background": {"scripts": ["tablimit.js"]}, "browser_specific_settings": {"gecko": {"id": "{0e208334-6ab2-4315-a9af-2a19afb0cbcb}"}}}

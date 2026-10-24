@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Zoom Success Tab Closer", "version": "1.1", "description": "Automatically closes any Zoom tab that ends in '#success' after 10 seconds.", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{223b201b-a30c-4e7d-911d-74115e0111b8}"}}}

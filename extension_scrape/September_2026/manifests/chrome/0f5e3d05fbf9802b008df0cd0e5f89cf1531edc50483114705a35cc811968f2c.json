@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Energy Clicker", "version": "1.0", "description": "Opens the best clicker game to exist in a new tab!", "action": {}, "background": {"service_worker": "background.js"}}

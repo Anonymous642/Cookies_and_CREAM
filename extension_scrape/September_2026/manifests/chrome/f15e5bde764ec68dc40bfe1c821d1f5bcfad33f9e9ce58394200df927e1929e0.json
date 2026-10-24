@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Task", "description": "Task: Listes intelligentes avec dates d'\u00e9ch\u00e9ance, projets et balises", "version": "1.6", "action": {"default_popup": "index.html", "default_title": "Task"}, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "permissions": ["storage"]}

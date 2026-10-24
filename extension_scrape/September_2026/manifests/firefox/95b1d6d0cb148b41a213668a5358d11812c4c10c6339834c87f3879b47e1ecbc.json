@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Daily Puzzle Tab", "version": "1.0", "description": "Play a daily Sudoku or Crossword puzzle every time you open a new tab.", "chrome_url_overrides": {"newtab": "puzzle.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{c8632643-60fa-4e74-b964-6ba497b55032}"}}}

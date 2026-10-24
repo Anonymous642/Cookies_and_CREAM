@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LetMePaste", "version": "1.0", "description": "Blocks websites from listening to paste events", "background": {"service_worker": "background.js", "type": "module"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "icons": {"128": "icon.png"}}

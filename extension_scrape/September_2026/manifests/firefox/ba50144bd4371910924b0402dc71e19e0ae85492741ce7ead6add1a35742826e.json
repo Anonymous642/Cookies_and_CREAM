@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "GlobalSpeak", "version": "1.0", "description": "GlobalSpeak: Translate any webpage.", "action": {"default_popup": "popup.html", "default_icon": "globalspeak.png"}, "icons": {"128": "globalspeak.png"}, "browser_specific_settings": {"gecko": {"id": "twanettaa37601@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

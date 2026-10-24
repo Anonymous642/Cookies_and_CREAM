@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Image Alt Viewer", "version": "1.0", "description": "Show ALT text on hover over images.", "icons": {"48": "icon.png"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{6a6ec89c-3036-440d-891e-47965a39d5b8}"}}}

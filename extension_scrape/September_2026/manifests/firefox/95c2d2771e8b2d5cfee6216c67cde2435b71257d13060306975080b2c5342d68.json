@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pivotal Improvements", "version": "1.0.5resigned1", "content_scripts": [{"matches": ["*://*.pivotaltracker.com/n/projects/*"], "js": ["project.js"], "css": ["project.css"]}], "browser_specific_settings": {"gecko": {"id": "{62c254be-cee3-4f4a-9c39-c738e3a63bfa}"}}}

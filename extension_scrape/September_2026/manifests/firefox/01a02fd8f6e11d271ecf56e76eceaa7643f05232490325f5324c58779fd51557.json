@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Digitalstadt Darmstadt", "description": "Digitalize the web.", "version": "1.4resigned1", "icons": {"48": "icons/logo_48px.png", "96": "icons/logo_96px.png"}, "permissions": ["<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{3652f835-c618-4158-9084-2b8cf8ce7028}"}}}

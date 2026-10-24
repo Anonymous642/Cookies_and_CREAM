@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TabDeck", "version": "1.0", "description": "Reemplaza la nueva pesta\u00f1a con un mazo visual de tus sitios abiertos", "permissions": ["tabs"], "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "tabdeck@extension", "strict_min_version": "89.0", "data_collection_permissions": {"required": ["none"]}}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Disappointed Focus Helper", "version": "1.0", "permissions": ["idle"], "background": {"service_worker": "background.js"}, "icons": {"48": "./icons/disappointed.png"}}

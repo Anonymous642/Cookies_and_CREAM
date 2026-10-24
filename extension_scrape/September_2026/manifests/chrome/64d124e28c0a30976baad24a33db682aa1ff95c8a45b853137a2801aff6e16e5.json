@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Auto BlankPage", "version": "1.0.0.94", "version_name": "0.0.0.94", "description": "__MSG_extDescription__", "icons": {"128": "/icon/icon_128.png"}, "default_locale": "en", "background": {"service_worker": "serviceWorker.js"}, "permissions": ["tabs"]}

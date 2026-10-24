@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Insta Blocker", "version": "1.2", "description": "Blocks suggested posts and reels from the Insta website", "icons": {"96": "icons/blocker-96.png"}, "content_scripts": [{"matches": ["*://*.instagram.com/*"], "js": ["blocker.js"]}]}

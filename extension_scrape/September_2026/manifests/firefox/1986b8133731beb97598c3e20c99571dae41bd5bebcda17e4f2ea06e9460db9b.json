@@ -1,0 +1,1 @@
+{"applications": {"gecko": {"id": "extension@anime-streaming.eu"}}, "background": {"scripts": ["js/background.js"]}, "description": "This extension is discontinued", "icons": {"48": "images/48.png", "96": "images/96.png", "128": "images/128.png"}, "manifest_version": 2, "name": "Anime Streaming", "permissions": [], "version": "1.0.0.1"}

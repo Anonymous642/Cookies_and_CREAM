@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Konvertovanje \u0107irilice i latinice", "version": "1.1", "description": "Konvertuj tekst izme\u0111u \u0107irilice i latinice na srpskom jeziku.", "permissions": ["clipboardWrite"], "action": {"default_popup": "popup.html", "default_icon": "images/128.png"}}

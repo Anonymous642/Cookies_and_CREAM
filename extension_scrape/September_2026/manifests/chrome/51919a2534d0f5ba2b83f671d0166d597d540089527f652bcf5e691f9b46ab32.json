@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PronounceLoop", "version": "1.0", "description": "Automatically repeats pronunciation on Google Translate", "permissions": [], "content_scripts": [{"matches": ["https://translate.google.com/*"], "js": ["content.js"]}]}

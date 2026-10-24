@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HSTS Checker", "version": "1.0", "description": "Notifies the user if the current webpage includes an HTTP Strict Transport Security (HSTS) header.", "permissions": ["tabs", "webRequest", "webNavigation"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "hsts_checker_extension@gmail.com"}}}

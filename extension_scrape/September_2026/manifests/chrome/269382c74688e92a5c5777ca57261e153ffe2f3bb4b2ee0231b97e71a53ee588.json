@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "X One-Click Deleter", "version": "1.0", "description": "Adds a one-click delete/un-retweet button to your posts.", "permissions": ["activeTab", "scripting"], "content_scripts": [{"matches": ["*://*.x.com/*", "*://*.twitter.com/*"], "js": ["content.js"], "css": ["styles.css"]}]}

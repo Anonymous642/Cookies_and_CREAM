@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Random Password Generator", "version": "1.0", "description": "Generate random passwords with various options.", "icons": {"128": "icon2.png"}, "action": {"default_popup": "popup.html"}, "permissions": ["clipboardWrite"]}

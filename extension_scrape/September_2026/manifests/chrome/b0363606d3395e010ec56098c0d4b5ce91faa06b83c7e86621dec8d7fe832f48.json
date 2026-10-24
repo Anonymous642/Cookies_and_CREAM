@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Word-Chain-Inator", "description": "Word chain game using web sockets hosted on render.com", "version": "1.1", "manifest_version": 3, "permissions": [], "action": {"default_popup": "index.html", "default_icon": "imgs/icon.PNG"}, "host_permissions": ["https://word-chain-game-yxws.onrender.com/*"]}

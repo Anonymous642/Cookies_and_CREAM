@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Make Resume (CV)", "manifest_version": 2, "short_name": "Make Resume (CV)", "description": "Tips for make your resume", "version": "1", "icons": {"128": "icon.png"}, "app": {"launch": {"web_url": "http://cv-online.hekoru.lol"}}}

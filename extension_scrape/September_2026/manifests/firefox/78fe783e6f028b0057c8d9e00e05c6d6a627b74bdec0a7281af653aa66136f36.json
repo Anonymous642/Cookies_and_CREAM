@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ikariam Scaler", "version": "1.0", "description": ".", "content_scripts": [{"matches": ["*://*.ikariam.gameforge.com/*"], "include_globs": ["*://*.ikariam.gameforge.com/*view=*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{af5c49de-84d7-4cc6-9cbd-2919f7ae2985}"}}}

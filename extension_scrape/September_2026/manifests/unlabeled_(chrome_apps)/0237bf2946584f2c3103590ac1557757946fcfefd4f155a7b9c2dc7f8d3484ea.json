@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Randomly London", "description": "Randomly London brings you the best of London pictures, videos, facts, trivia, secrets & information", "version": "1.1", "icons": {"128": "randomlylondon.png"}, "app": {"launch": {"web_url": "http://randomlylondon.com/"}}}

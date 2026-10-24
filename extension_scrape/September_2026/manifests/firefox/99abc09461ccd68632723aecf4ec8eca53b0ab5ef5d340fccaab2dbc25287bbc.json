@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Dark Mode", "version": "1.0", "description": "Add-on toggles dark mode on any webpage.", "permissions": ["tabs", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_action": {"default_title": "Toggle Dark Mode"}, "browser_specific_settings": {"gecko": {"id": "{dcbb6bd7-6c34-4708-b7b0-acf60f950631}"}}}

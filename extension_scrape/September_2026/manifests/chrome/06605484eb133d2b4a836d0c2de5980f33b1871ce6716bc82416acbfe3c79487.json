@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "The One Thing - to do list and notes extension", "version": "1.0", "description": "Focus on the one thing that really matters. No distractions.", "permissions": ["storage"], "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

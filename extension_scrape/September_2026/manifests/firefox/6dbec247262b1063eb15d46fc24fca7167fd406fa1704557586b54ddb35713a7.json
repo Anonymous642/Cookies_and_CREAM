@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reddit URL Cleaner", "version": "1.0", "description": "Removes '?tl=xx' from Reddit URLs.", "permissions": ["webRequest", "webRequestBlocking", "tabs", "*://*.reddit.com/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{d19e6956-7be5-45a6-a205-661655cfd3bf}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WmTools", "description": "All Developer Friendly tools like Mass Ping, Pinterest Shadow Ban Checker, Spintax, Word Counter are at your fingertips.", "version": "1.5", "manifest_version": 3, "action": {"default_popup": "index.html", "default_icon": "icon.png"}}

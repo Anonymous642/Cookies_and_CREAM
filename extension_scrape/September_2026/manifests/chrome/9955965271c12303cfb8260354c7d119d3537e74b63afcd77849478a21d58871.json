@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Text Count Simple", "version": "1.0.0", "description": "Count characters and words instantly in a clean simple popup.", "action": {"default_title": "Text Count Simple", "default_popup": "popup.html"}, "icons": {"128": "icon-128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Delta Script Library Organizer", "version": "1.2", "description": "Save, organize, and copy your scripts easily.", "permissions": ["storage"], "action": {"default_popup": "popup.html"}}

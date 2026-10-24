@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ancient Daily Luck", "version": "1.0.0", "description": "Check a simple, scroll-style daily luck message for today. For entertainment only.", "action": {"default_title": "View today's luck", "default_popup": "popup.html"}, "icons": {"128": "icon-128.png"}}

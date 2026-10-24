@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "searchgiggle-search", "version": "0.1", "author": "VAL-U-PRO", "description": "Perform a search on searchgiggle.com based on the highlighted text", "icons": {"48": "icons/border-48.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}}

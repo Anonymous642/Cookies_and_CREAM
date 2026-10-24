@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Kariyer.net Ba\u015fvurulan \u0130lanlar\u0131 Gizle", "version": "1.0", "description": "Ba\u015fvurulan ilanlar\u0131 gizler.", "content_scripts": [{"matches": ["https://www.kariyer.net/*"], "js": ["hide-applied.js"]}]}

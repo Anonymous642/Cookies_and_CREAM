@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Browser Feed Reader", "version": "1.0", "description": "Browser Feed Reader: Read RSS feeds in your browser.", "action": {"default_popup": "popup.html", "default_icon": "browser_feed_reader.png"}, "icons": {"128": "browser_feed_reader.png"}}

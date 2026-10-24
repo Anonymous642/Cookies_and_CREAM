@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Next Pre\u00e7os", "version": "1.0.2", "description": "Consulte os pre\u00e7os de milhas do dia e simule sua cota\u00e7\u00e3o.", "action": {"default_popup": "index.html"}, "permissions": ["storage"], "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}

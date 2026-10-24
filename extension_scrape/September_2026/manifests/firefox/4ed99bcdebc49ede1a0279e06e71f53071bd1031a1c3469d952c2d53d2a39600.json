@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83d\udccb Smart Student To-Do", "version": "1.0", "description": "Organize daily and group tasks with a clean and friendly interface for students.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "girshicametw6m@hotmail.com"}}}

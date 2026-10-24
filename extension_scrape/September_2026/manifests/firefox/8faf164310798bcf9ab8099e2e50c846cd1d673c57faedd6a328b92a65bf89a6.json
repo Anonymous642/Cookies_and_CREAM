@@ -1,0 +1,1 @@
+{"description": "Create Secure Passwords", "manifest_version": 2, "name": "Craftions Password Generator", "version": "1.0", "author": "Ben Siebert", "browser_action": {"browser_style": true, "default_popup": "popup.html", "default_icon": {"16": "icons/craftions_16.png", "32": "icons/craftions_32.png"}}}

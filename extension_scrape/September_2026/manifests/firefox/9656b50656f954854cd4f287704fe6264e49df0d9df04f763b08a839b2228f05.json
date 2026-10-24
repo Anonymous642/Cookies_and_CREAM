@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WikiGachaAuto", "version": "1.1.1", "description": "Automate WikiGachaAuto.", "browser_specific_settings": {"gecko": {"id": "eu@martinho.pt", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"matches": ["*://wikigacha.com/*"], "js": ["index.js"]}]}

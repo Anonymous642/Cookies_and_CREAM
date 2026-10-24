@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.0.2", "name": "Daily Reads", "description": "Get a list of useful technology related articles, blog post to stay up to date", "action": {"default_popup": "index.html", "default_icon": "icon.png"}}

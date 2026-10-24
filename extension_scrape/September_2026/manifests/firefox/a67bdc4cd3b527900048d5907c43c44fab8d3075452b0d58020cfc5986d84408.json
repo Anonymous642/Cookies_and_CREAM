@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tracker Blocker", "version": "1.0", "description": "Blocks hidden tracking scripts on web pages.", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{29c83d33-7a50-41c7-872b-2fd45fb9945d}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Firesock", "version": "1.0", "description": "A Firefox Extension to prevent browser fingerprinting", "content_scripts": [{"matches": ["<all_urls>"], "js": ["sandbox.js"]}], "web_accessible_resources": ["disguise.js"], "browser_specific_settings": {"gecko": {"id": "{97512d99-f6f2-4b86-9cb7-7a44757343cc}"}}}

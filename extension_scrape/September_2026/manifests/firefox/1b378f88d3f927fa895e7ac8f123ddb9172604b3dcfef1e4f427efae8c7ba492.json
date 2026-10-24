@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BeatTimer", "version": "1.0", "description": "A rhythmic timer using drum ticks instead of beeps.", "action": {"default_popup": "popup.html"}, "permissions": ["alarms"], "browser_specific_settings": {"gecko": {"id": "beattimer@example.com", "data_collection_permissions": {"required": ["none"], "optional": []}}}}

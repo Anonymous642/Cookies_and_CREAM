@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Quran Kareem", "description": "Simplest Lightest Quran app out there with offline", "version": "1.1", "icons": {"128": "128.png"}, "app": {"urls": ["http://thatbook.eu/1/"], "launch": {"web_url": "http://thatbook.eu/1/"}}, "permissions": ["unlimitedStorage", "notifications"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Fake Korean Name Generator", "version": "1.0", "description": "Fake Korean Name Generator: Generate Korean names", "action": {"default_popup": "popup.html", "default_icon": "fake_korean_name_generator.png"}, "icons": {"128": "fake_korean_name_generator.png"}}

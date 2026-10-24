@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Password Strength Checker", "version": "1.0", "description": "Check the strength of your password in a popup.", "permissions": [], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{d35f1c97-b9b5-4dae-aae5-36e510c4ad14}"}}}

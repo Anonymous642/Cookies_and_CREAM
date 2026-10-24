@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "URL Bar Analyzer", "description": "Shows the URL with extracted query parameters", "version": "1.1.0", "action": {"default_popup": "popup.html", "default_icon": "ext-icon.png"}, "permissions": ["activeTab"]}

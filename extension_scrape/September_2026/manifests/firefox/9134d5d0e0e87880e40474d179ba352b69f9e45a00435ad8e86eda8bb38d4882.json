@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Friendly URL Checker", "version": "1.0", "description": "Alerts the user if they navigate to a page with a non-friendly URL.", "permissions": ["tabs", "webNavigation"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "friendly_url_checker_extension@gmail.com"}}}

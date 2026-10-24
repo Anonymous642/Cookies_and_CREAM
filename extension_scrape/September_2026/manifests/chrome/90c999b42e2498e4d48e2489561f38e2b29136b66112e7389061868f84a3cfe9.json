@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Fanout Inspector", "description": "DevTools panel to inspect network requests (for fanout analysis).", "version": "0.1", "manifest_version": 3, "devtools_page": "devtools.html"}

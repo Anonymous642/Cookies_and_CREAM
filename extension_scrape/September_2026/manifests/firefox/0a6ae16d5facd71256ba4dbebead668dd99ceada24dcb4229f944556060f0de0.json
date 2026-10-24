@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TetrioInput", "version": "1.0", "description": "A utility for enhancing mobile gameplay in Tetr.io with custom input keys.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{158f5086-2bf6-457c-9c51-fe88d2df65ae}"}}}

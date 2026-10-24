@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cozy Outing Picker", "version": "1.0.0", "description": "A cute and simple extension to help you decide where to hang out today!", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

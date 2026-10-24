@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Minimal New Tab Gallery", "version": "1.0", "description": "Replaces the new tab page with a random beautiful image.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{380ba24e-7305-44ef-a35d-6dffbd65fbf3}"}}}

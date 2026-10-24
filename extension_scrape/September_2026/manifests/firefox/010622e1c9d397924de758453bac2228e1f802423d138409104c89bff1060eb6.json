@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Dashboard", "version": "0.0.3resigned1", "description": "Displays useful info to keep focus", "author": "Oscar Najera", "homepage_url": "https://gitlab.com/Titan-C/tab-dashboard", "chrome_url_overrides": {"newtab": "public/index.html"}, "browser_specific_settings": {"gecko": {"id": "{b9950bb4-3ff0-4ec3-81f6-dc1737cf4177}"}}}

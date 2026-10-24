@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "A till AU", "version": "1.1", "description": "\u00d6vers\u00e4tter alla A->AU.", "content_scripts": [{"matches": ["*://*/*"], "js": ["script.js"], "run_at": "document_end"}]}

@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Ping Tool", "description": "Ping tool is used to send packet and check response from other host on the internat", "version": "1.0.0.0", "manifest_version": 2, "app": {"urls": ["http://www.adminkit.net/ping.aspx"], "launch": {"web_url": "http://www.adminkit.net/ping.aspx"}}, "icons": {"128": "icon_128.png"}}

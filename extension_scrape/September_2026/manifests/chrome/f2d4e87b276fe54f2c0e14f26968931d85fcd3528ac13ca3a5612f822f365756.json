@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "NDN-Play Devtools", "version": "1.0.2", "description": "Debugging tools for NDN web applications.", "devtools_page": "devtools.html", "manifest_version": 3, "permissions": ["debugger"], "icons": {"256": "logo.png"}}

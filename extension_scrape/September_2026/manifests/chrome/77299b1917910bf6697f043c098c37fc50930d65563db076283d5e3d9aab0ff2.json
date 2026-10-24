@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "QA Master AI", "version": "3.0", "description": "An AI-powered gamified chatbot to test your QA skills using A.I", "permissions": ["storage"], "action": {"default_popup": "popup.html"}}

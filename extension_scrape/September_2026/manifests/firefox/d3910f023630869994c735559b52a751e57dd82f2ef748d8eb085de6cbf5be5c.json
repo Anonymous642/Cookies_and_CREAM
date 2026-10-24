@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "X Redirect", "version": "1.2.1", "description": "Replaces all Twitter/X links with ones to xcancel.", "icons": {"48": "icons/logo_48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["x-redirect.js"]}], "browser_specific_settings": {"gecko": {"id": "x-redirect@example.com"}}}

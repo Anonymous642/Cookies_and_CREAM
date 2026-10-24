@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Page Buttons", "version": "1.0", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"]}], "browser_specific_settings": {"gecko": {"id": "{52125db8-5b2f-4c4f-b114-831315d2630d}"}}}

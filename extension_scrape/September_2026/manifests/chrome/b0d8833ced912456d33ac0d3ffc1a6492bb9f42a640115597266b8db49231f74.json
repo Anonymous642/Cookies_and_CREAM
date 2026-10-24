@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Alo Song Ng\u1eef", "version": "1.0.0", "description": "H\u1ecdc ngo\u1ea1i ng\u1eef qua ph\u1ee5 \u0111\u1ec1 phim", "action": {"default_popup": "index.html"}, "permissions": ["storage"], "icons": {"192": "icon-192.png", "512": "icon-512.png"}}

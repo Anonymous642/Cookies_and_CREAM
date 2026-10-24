@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Auto Scroller", "version": "1.0", "description": "Auto Scroller: Hands-free page scrolling", "action": {"default_popup": "popup.html", "default_icon": "auto_scroller.png"}, "icons": {"128": "auto_scroller.png"}}

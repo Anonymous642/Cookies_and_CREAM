@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Note Taker", "version": "1.0", "description": "Take quick notes directly in your browser.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{a8296791-0373-4511-b2a1-d3a731ccea5e}"}}}

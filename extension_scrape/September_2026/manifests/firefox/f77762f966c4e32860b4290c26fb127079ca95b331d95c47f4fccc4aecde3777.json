@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MRO to STN Converter", "version": "1.0", "description": "Convert MRO to STN directly from your browser.", "permissions": ["activeTab", "https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{6590f8be-c644-4b38-bb1f-0f099f07c8b2}"}}}

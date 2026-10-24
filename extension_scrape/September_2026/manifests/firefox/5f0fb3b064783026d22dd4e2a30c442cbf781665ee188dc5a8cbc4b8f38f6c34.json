@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Telex Redirecter", "version": "1.0", "description": "Redirects from index.hu to telex.hu when you forget that it is occupied by the goverment since 2020.", "icons": {"48": "icons/telex-48.png", "128": "icons/telex-128.png"}, "content_scripts": [{"matches": ["*://*.index.hu/*"], "js": ["index.js"]}]}

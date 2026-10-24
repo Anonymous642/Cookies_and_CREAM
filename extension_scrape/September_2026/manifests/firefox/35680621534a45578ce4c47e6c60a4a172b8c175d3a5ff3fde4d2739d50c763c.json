@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Anti-UTTP", "version": "1.0.11", "description": "Automatically hides UTTP comments", "action": {"default_icon": {"80": "icons/logo-80.png"}}, "browser_specific_settings": {"gecko": {"id": "uttpblocker@dontcomeafterme.com"}}, "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["app.js"]}]}

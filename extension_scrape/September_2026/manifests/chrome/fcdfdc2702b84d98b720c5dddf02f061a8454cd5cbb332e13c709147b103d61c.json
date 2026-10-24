@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Amazon Ads Conversion Rate Tool", "version": "1.3", "description": "Displays conversion rate or clicks-per-order next to Orders in Amazon Advertising Console.", "permissions": ["scripting", "activeTab"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

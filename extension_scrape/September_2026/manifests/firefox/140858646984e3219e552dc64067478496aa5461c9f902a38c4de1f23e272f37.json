@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CoinStats Banner Remover", "version": "1.1", "description": "Removes premium banners from CoinStats", "browser_specific_settings": {"gecko": {"id": "coinstats-moretefix@tuta.com"}}, "permissions": ["*://coinstats.app/*"], "content_scripts": [{"matches": ["*://coinstats.app/*"], "js": ["content.js"], "run_at": "document_end"}]}

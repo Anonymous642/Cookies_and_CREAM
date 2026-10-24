@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Metabar killer", "version": "1.1resigned1", "description": "Removes the top menu from hackernoon, because it's too big.", "content_scripts": [{"matches": ["*://*.hackernoon.com/*", "*://*.medium.com/*"], "js": ["metabar-killer.js"]}], "browser_specific_settings": {"gecko": {"id": "{33cb9a61-1d06-44b9-9d9c-7afaa41b791a}"}}}

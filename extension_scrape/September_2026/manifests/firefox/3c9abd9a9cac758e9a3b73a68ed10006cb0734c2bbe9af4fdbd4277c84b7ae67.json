@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Night Mode", "version": "1.0", "description": "Dark theme for webpages", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Night Mode"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{7d9ae2f8-caa5-45ee-8ce3-c88b0d4df536}"}}}

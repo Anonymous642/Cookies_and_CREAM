@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Social Media Scheduler", "version": "1.0", "description": "Simple popup to schedule social media posts.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{22852f13-c833-4b84-b8d8-ee469100f75b}"}}}

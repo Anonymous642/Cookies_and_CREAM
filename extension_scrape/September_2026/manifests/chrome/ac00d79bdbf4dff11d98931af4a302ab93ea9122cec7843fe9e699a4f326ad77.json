@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Jira Label Filter", "description": "Filter Github Labels on Jira", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["https://*.atlassian.net/*"], "js": ["script.js"]}]}

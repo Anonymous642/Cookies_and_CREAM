@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Moodle TUM Semester Fix", "version": "1.1", "description": "Finally semester select remembers your choice on Moodle TUM", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["*://*.moodle.tum.de/my/*"], "js": ["remember.js"]}]}

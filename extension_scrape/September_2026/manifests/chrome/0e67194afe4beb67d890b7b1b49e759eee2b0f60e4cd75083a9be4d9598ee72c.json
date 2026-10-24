@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Instagram Reels Blocker", "version": "1.0", "description": "Removes Reels and videos from Instagram to keep you focused. Allows you to only see pictures!", "content_scripts": [{"matches": ["*://*.instagram.com/*"], "js": ["content.js"]}]}

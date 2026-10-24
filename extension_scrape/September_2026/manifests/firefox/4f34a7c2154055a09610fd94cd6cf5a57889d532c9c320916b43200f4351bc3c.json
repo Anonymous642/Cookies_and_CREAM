@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Atikin CodeChronicle", "version": "1.0", "description": "Scroll your repo's evolution like a documentary.", "permissions": ["activeTab", "storage"], "browser_action": {"default_popup": "popup/popup.html", "default_title": "CodeChronicle"}, "browser_specific_settings": {"gecko": {"id": "{03c30608-9a40-42c9-a8f6-6e05926689b6}"}}}

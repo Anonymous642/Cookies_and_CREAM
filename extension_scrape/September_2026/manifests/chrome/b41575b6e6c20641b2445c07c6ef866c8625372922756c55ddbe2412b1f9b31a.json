@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TEF Kat prisberegner", "version": "2.0", "description": "Viser netto eks mva og utpris ink mva automatisk", "content_scripts": [{"matches": ["*://*.tef-kat.com/*"], "js": ["content.js"], "all_frames": true}]}

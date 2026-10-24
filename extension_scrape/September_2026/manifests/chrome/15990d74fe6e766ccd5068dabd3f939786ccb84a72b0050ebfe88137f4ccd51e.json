@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "UUID Generator", "version": "1.0", "description": "Generate UUID", "permissions": ["clipboardWrite"], "action": {"default_popup": "popup.html", "default_icon": {"16": "icons/logo.png", "48": "icons/logo.png", "128": "icons/logo.png"}}}

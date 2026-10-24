@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "WorkCell", "version": "0.2.1", "description": "Create focused workspaces for tasks, goals, resources, breaks, and website blocking.", "action": {"default_popup": "popup.html"}, "background": {"service_worker": "service-worker.js"}, "permissions": ["storage", "tabs", "alarms"]}

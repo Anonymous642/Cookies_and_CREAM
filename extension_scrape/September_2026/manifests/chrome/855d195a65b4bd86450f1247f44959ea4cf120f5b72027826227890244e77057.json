@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "NT-Studio Shifter Pitch", "version": "1.0", "description": "Thay \u0111\u1ed5i pitch \u00e2m thanh YouTube v\u00e0 c\u00e1c trang web tr\u1ef1c ti\u1ebfp", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

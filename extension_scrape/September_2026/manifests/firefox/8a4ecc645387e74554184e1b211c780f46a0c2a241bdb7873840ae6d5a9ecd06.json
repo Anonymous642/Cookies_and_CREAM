@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SmoothMark", "version": "1.0", "author": "Yuri N (Achifaifa)", "description": "Replaces verified checkmarks with smooth brain warnings.", "homepage_url": "https://github.com/achifaifa/smoothmark", "icons": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}, "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["smoothmark.js"]}]}

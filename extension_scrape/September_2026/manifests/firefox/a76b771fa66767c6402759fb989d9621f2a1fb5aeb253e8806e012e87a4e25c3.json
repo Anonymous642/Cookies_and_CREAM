@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "The Mahjong", "version": "1.0", "description": "Discover the Authentic Mahjong in Your Browser!", "action": {"default_popup": "popup.html"}, "icons": {"16": "/assets/icons/16.png", "48": "/assets/icons/48.png", "128": "/assets/icons/128.png"}, "browser_specific_settings": {"gecko": {"id": "55269a9asdaasdsdasew@themahjong.com"}}}

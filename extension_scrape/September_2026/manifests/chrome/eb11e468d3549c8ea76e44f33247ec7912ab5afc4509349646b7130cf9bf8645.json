@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "T-Block", "version": "1.1", "description": "Removes images and videos containing 'trump'", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "icons": {"48": "icon48.png", "128": "icon128.png"}}

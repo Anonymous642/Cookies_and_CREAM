@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Carsales Comment Section", "version": "1.1", "description": "Adds a public comment section to carsales.com.au listings.", "permissions": ["tabs"], "host_permissions": ["*://*.carsales.com.au/*"], "action": {"default_popup": "popup.html", "default_icon": "icon16.png"}}

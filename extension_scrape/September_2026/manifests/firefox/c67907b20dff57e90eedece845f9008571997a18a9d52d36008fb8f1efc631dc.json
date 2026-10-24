@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "User-Select to Auto", "version": "1.0", "description": "Changes user-select to auto on all websites", "permissions": [], "content_scripts": [{"matches": ["<all_urls>"], "js": ["selection.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{6d0b913e-34b7-4682-8097-e1a05e7ad97f}"}}}

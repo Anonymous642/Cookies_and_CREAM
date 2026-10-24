@@ -1,0 +1,1 @@
+{"manifest_version": 2, "applications": {"gecko": {"id": "fuzzy_login_detector@example.com"}}, "name": "Fuzzy_login_detector_extension", "version": "1.1", "description": "Detects suspicious Google/Microsoft login URLs and redirects to a rick-roll.", "permissions": ["tabs", "activeTab", "<all_urls>"], "background": {"scripts": ["background.js"]}}

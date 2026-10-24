@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Oracle Learn Video Skipper", "version": "1.0", "description": "Use arrow keys to skip forward/backward in Oracle Learn videos.", "content_scripts": [{"matches": ["https://mylearn.oracle.com/*"], "js": ["content.js"]}], "permissions": [], "browser_specific_settings": {"gecko": {"id": "thekobu@gmail.com", "strict_min_version": "109.0"}}}

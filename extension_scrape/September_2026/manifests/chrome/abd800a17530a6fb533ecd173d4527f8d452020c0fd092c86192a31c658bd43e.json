@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Click on Maps", "manifest_version": 3, "version": "1.0.1", "content_scripts": [{"matches": ["*://*.google.com/*"], "js": ["./add_link_to_image.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Block Reddit", "version": "1.0", "description": "Blocks access to reddit.com", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"id": "blockreddit-pub@example.com"}}}

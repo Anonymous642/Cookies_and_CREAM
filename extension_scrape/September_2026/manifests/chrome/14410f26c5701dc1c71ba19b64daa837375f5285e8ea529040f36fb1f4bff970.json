@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Save Tabs", "version": "0.3", "description": "Save all open tabs as bookmarks in one click", "permissions": ["tabs", "bookmarks"], "background": {"service_worker": "background.js"}, "action": {"default_title": "Save Tabs", "default_icon": "icon.png"}, "manifest_version": 3}

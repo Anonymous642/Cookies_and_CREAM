@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Streaming Awake", "description": "Turn on/off KeepingYouAwake according to the playback status of music streaming services.", "version": "0.0.2", "background": {"scripts": ["kya.js"], "persistent": true}, "permissions": ["alarms", "tabs", "<all_urls>"]}

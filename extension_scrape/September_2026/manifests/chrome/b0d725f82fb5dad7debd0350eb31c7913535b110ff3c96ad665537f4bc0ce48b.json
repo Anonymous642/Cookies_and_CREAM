@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Never Gonna Tab You Up", "version": "1.4", "description": "1 in 5 chance of getting rickrolled at MAX VOLUME \ud83d\ude08\ud83c\udfb2", "permissions": [], "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}

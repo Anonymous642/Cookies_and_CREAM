@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Lotus Notes Link/URL Generator", "version": "1.2", "manifest_version": 3, "description": "Used for Generating the Notes URLs from NDL", "action": {"default_icon": "dbicon.gif", "default_popup": "lnlinkgenerator.html"}}

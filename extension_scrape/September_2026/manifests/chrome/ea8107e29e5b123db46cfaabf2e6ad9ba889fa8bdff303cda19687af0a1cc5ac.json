@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Kavak Dolarizado", "version": "0.0.4", "manifest_version": 3, "description": "Esta extension sirve para dolarizar todos los precios a d\u00f3lar blue en Kavak.", "content_scripts": [{"matches": ["https://www.kavak.com/ar/*"], "js": ["convert.js"], "run_at": "document_end"}]}

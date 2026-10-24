@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Screen Time Tracker", "version": "1.0", "description": "Track your screen time.", "icons": {"48": "logo.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "logo.png"}}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{3077f398-3a9d-48ee-a08f-2b3968389bb7}"}}}

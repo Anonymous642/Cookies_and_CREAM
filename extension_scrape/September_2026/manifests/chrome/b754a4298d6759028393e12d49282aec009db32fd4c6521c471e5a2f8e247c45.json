@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Typing.com Full Paragraph Collector", "version": "1.0", "description": "Collects all lesson words and reconstructs the paragraph.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

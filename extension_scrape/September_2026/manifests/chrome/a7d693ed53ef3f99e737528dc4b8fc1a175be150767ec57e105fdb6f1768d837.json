@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Image Scraper", "version": "1.0", "description": "Extension pour t\u00e9l\u00e9charger les images d'un site web", "permissions": ["activeTab", "downloads", "scripting"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

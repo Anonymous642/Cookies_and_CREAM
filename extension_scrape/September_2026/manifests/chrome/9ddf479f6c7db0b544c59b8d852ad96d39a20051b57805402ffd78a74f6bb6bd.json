@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mystic Short Name Maker", "version": "1.0.0", "description": "Create cool short names and abbreviations from full phrases in a dreamy purple popup.", "action": {"default_title": "Short Name Maker", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

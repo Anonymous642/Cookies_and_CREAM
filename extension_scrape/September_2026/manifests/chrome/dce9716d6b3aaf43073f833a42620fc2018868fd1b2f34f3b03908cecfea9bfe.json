@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "UTM Link Generator", "version": "1.0", "description": "Generate UTM links with the current URL.", "permissions": ["activeTab"], "action": {"default_popup": "popup.html"}}

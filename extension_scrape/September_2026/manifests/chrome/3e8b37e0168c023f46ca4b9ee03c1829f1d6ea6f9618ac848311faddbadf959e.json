@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Dentsu Sitespeed Toolkit", "version": "1.02", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}, "icons": {"48": "assets/dentsu-sitespeed-toolkit-icon-48x48.png", "128": "assets/dentsu-sitespeed-toolkit-icon-128x128.png"}}

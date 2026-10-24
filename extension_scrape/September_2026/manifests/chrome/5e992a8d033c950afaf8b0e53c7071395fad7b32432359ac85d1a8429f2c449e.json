@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "What To Eat Extensions", "description": "Help you decide what you are gonna eat for next meal !", "version": "1.0", "action": {"default_popup": "what-to-eat.html", "default_icon": "what-to-eat.png"}}

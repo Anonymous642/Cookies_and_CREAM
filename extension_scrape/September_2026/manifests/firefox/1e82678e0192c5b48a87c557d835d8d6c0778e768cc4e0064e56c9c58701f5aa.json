@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Password Generator", "version": "1.0", "description": "Generate random passwords in the format @@@@#### (letters and numbers).", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "kimeyaqhxp573138@hotmail.com"}}, "permissions": ["clipboardWrite"]}

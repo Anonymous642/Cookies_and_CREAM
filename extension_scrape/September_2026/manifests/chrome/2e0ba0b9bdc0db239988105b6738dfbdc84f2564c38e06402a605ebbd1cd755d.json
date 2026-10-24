@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Random Mobile Game Picker", "version": "1.0.0", "description": "Get a random mobile game suggestion whenever you're bored.", "action": {"default_title": "Random Mobile Game", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

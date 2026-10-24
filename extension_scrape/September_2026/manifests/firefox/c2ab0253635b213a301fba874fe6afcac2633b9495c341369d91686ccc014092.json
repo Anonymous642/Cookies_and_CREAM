@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Skiperoo v1.6", "version": "1.6", "description": "Youtube Ads Skipper", "icons": {"48": "icons/skip-it.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["main.js"]}], "permissions": [], "browser_specific_settings": {"gecko": {"id": "{ac0c08df-06f8-48ff-b02d-86b7a23de111}"}}}

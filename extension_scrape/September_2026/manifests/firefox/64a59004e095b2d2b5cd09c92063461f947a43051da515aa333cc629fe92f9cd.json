@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Romantic Getaway Randomizer", "version": "1.0", "description": "Randomly suggests romantic destinations for couples with a dreamy purple interface.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "phantienzmk922@hotmail.com"}}}

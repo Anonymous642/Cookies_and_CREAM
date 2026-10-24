@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Click", "version": "1.1resigned1", "description": "Plays a click sound when you click on a link.", "icons": {"48": "icons/icon-48.png"}, "background": {"scripts": ["click.js"]}, "permissions": ["webNavigation"], "browser_specific_settings": {"gecko": {"id": "{d5752d63-afb5-4bfb-9368-4b3063c29b8a}"}}}

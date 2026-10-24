@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Always Pinned", "version": "0.0.3", "browser_specific_settings": {"gecko": {"id": "{274e217d-2a1c-4bdf-84fd-2a02c1b64a5f}", "strict_min_version": "54.0"}}, "description": "Make sure certain websites are opened & pinned on start.", "background": {"scripts": ["always-pinned.js"]}, "permissions": ["tabs", "menus", "storage"]}

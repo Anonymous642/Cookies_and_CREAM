@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Wallpaper Downloader", "version": "1.0", "description": "Allows easy downloading of wallpapers on certain sites", "background": {"scripts": ["background.js"]}, "permissions": ["menus", "activeTab", "downloads", "downloads.open", "storage"]}

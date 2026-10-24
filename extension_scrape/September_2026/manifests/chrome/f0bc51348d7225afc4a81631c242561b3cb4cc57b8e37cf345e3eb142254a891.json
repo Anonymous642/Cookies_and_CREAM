@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Extension Manager", "version": "1.0", "description": "A Chrome extension to manage other extensions.", "action": {"default_popup": "popup_window.html"}, "icons": {"48": "icon.png", "128": "icon.png"}, "permissions": ["management"]}

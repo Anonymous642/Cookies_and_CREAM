@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Chrono24", "version": "1.3", "description": "Repair show img in chrono24 email on email.seznam.cz", "icons": {"48": "icons/email48.png", "96": "icons/email96.png"}, "content_scripts": [{"matches": ["*://email.seznam.cz/*"], "js": ["chrono24img.js"]}], "browser_specific_settings": {"gecko": {"id": "{5cee4e70-37a1-4c8b-96fb-737caab870a1}"}}}

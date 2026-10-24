@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TikTok Calculator by IMH", "version": "1.1", "icons": {"48": "icons/favicon.png"}, "permissions": ["<all_urls>", "tabs"], "browser_action": {"default_icon": {"48": "icons/favicon.png"}, "default_title": "TikTok Calculator", "default_popup": "popup/content-script.html", "browser_style": true}}

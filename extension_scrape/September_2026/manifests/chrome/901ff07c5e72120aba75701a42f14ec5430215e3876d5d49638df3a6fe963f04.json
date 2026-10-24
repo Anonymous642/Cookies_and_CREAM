@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Weekly Meal Planner", "description": "Generate a simple meal plan for seven days of the week.", "version": "1.0", "action": {"default_popup": "popup.html", "default_title": "Weekly Meal Plan"}, "icons": {"128": "icon128.png"}}

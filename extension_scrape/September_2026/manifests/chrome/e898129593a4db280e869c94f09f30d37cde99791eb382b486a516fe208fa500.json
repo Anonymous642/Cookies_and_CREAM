@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hide YouTube Shorts", "version": "1.0", "description": "Removes Shorts icons and sections from YouTube.", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "css": ["style.css"]}]}

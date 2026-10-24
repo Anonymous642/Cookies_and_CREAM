@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "3.0", "name": "Remove 'X Blocked Messages' Text", "content_scripts": [{"matches": ["https://discord.com/*"], "js": ["main.js"], "css": ["main.css"]}], "browser_specific_settings": {"gecko": {"id": "{0d57a935-1f13-469d-b6b4-191a597529d9}"}}}

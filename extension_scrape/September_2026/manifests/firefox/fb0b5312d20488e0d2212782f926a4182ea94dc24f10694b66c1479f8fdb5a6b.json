@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Overflow Auto", "version": "1.0", "description": "Annoyed by sites blocking scrolling? This extension sets overflow to auto.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["overflow_auto.js"]}], "browser_specific_settings": {"gecko": {"id": "overflow_auto@example.com"}}}

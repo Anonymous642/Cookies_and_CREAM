@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Time Tracker", "version": "1.0", "description": "A simple addon to track the time spent on different websites.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage", "tabs", "activeTab"], "browser_specific_settings": {"gecko": {"id": "{1db4564d-2c9f-46c8-b791-fe6d8c933a9d}"}}}

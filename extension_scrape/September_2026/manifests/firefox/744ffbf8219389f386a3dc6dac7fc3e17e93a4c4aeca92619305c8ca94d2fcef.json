@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Renamer", "description": "Adds functionality to rename a tab", "version": "1.0", "icons": {"48": "icons/image-48.png"}, "permissions": ["menus", "tabs", "https://*/*", "http://*/*"], "background": {"scripts": ["script.js"]}, "browser_specific_settings": {"gecko": {"id": "{9f3f19ee-1ce8-4e7e-9eb4-b886e3de06c6}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.0", "name": "realistic deer", "chrome_url_overrides": {"newtab": "index.html"}, "description": "realistic deer with nature background", "manifest_version": 3}

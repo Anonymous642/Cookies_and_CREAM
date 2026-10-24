@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Work Week Calendar", "version": "1.4", "description": "Displays the current work week and day.", "action": {"default_popup": "popup.html"}, "background": {"service_worker": "background.js"}, "permissions": ["alarms", "storage"]}

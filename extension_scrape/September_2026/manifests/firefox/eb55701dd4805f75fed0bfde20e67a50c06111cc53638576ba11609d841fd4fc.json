@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "New Tab Workout", "version": "0.2", "description": "Adds daily workouts to your new tab page.", "author": "dnl-dft", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "diefert@outlook.de"}}}

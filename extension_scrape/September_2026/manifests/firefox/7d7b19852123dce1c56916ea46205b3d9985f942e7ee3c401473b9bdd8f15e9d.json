@@ -1,0 +1,1 @@
+{"description": "Display how bumble users have voted your profile.", "manifest_version": 2, "name": "bKit", "version": "2.0.2", "browser_specific_settings": {"gecko": {"id": "bKit@addonauthor.com", "strict_min_version": "79.0"}}, "permissions": ["webRequest", "webRequestBlocking", "https://bumble.com/", "https://*.bumble.com/"], "background": {"scripts": ["background.js"]}}

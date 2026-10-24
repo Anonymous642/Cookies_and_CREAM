@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Calm Down Corner", "version": "1.0", "description": "Suggest calming activities for kids when they are upset.", "permissions": [], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{759280a1-ae0a-4419-87e0-198855a842a0}"}}}

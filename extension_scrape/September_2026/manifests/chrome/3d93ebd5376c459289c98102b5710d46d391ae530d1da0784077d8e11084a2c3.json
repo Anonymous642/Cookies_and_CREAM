@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Deep Focus", "version": "1.0", "description": "Deep Focus: Block distractions easily.", "action": {"default_popup": "popup.html", "default_icon": "deep_focus.png"}, "icons": {"128": "deep_focus.png"}, "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Narratives", "description": "Narratives: Reorder Files in GitHub PRs", "version": "0.0.2", "content_scripts": [{"css": ["narratives.css"], "js": ["scripts/sortable.js", "scripts/narratives.js"], "matches": ["https://github.com/*"]}], "permissions": ["storage"]}

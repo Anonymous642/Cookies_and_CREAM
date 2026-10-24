@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Only Images Dmtr.org", "version": "0.2resigned1", "description": "Removes anything from a webpage except images.", "icons": {"48": "icons/onlyimages.png"}, "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["hidetext.js"]}, "browser_specific_settings": {"gecko": {"id": "{4db32fc3-d058-4543-a924-94cf8fb4a514}"}}}

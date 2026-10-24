@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My Start Page", "version": "1.0", "description": "Custom start page for Firefox", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{b588e9c2-c20c-4147-aabf-9579a6803012}"}}}

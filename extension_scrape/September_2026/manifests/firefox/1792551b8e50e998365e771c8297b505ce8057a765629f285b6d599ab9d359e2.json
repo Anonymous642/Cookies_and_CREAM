@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AddFastlyDebug", "version": "0.1.1", "description": "Add Fastly Debug to all requests", "permissions": ["<all_urls>", "webRequest", "webRequestBlocking"], "icons": {"48": "icons/fastly-debug.png"}, "background": {"scripts": ["fastly-debug.js"]}, "browser_specific_settings": {"gecko": {"id": "{2fe0774c-613e-4a7d-bcae-afb503364f72}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WhatsApp Redirect", "version": "1.0", "description": "Redireciona links do WhatsApp para o WhatsApp Web.", "permissions": ["webRequest", "webRequestBlocking", "*://api.whatsapp.com/*"], "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"id": "whatsapp-redirect@example.com"}}}

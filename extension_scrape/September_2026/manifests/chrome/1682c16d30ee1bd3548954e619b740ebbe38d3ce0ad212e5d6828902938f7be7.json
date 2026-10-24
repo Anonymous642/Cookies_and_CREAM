@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Art Text Generator", "version": "1.0", "description": "T\u1ea1o ch\u1eef ngh\u1ec7 thu\u1eadt (ASCII/Unicode) t\u1eeb t\u00ean nh\u1eadp v\u00e0o.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Movie Suggestion Picker", "description": "Get a quick movie or series suggestion when you cannot decide what to watch.", "version": "1.0", "action": {"default_popup": "popup.html", "default_title": "Movie Suggestion"}, "icons": {"128": "icon128.png"}}

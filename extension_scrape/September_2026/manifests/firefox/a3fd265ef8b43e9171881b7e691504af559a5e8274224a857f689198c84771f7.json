@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Tab Muter", "version": "1.0", "description": "Tab Muter: Mute/unmute active tab.", "action": {"default_popup": "popup.html", "default_icon": "tab_muter.png"}, "icons": {"128": "tab_muter.png"}, "browser_specific_settings": {"gecko": {"id": "sophroniabernardheath9@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

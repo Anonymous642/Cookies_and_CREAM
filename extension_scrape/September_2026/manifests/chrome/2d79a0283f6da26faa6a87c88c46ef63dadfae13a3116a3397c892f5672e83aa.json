@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GoBo Wallet", "version": "1.0", "description": "Extension with a default popup.", "icons": {"16": "icons/16.png", "48": "icons/48.png", "128": "icons/128.png"}, "action": {"default_popup": "./index.html"}, "permissions": []}

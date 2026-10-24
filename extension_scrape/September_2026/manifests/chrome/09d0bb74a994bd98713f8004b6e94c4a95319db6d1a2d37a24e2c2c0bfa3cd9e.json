@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Hyperliquid Names", "description": "Resolve .hl names", "version": "1.3", "manifest_version": 3, "action": {"default_popup": "main.html", "default_icon": "default.png"}}

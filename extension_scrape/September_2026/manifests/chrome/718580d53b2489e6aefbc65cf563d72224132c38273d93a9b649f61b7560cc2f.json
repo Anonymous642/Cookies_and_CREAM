@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Jira Cat", "description": "Easily to log work", "version": "2.0", "manifest_version": 3, "action": {"default_popup": "popup.html", "default_icon": "./img/j.png"}, "icons": {"16": "./img/j.png", "48": "./img/j.png", "128": "./img/j.png"}, "permissions": ["storage"], "host_permissions": ["*://*/*"]}

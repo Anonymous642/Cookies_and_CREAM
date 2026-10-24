@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pixel Thief", "version": "1.878", "description": "\u8cbc\u4e0a\u5716\u7247\u4e26\u5132\u5b58\u6210 PNG \u6216 JPG", "action": {"default_popup": "popup.html", "default_icon": "896.jpg"}, "permissions": ["downloads"]}

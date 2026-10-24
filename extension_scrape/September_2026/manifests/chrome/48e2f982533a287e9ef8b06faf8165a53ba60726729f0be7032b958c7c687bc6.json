@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Life Lesson", "version": "1.0.0", "description": "Display a short, reflective life lesson in a clean, modern popup. For inspiration only.", "action": {"default_title": "Show a life lesson", "default_popup": "popup.html"}, "icons": {"128": "icon-128.png"}}

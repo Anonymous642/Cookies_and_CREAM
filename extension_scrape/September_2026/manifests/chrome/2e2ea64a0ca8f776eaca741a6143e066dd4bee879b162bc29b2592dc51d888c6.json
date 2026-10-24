@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Khan Academy Completionist", "description": "GG, well learned.", "version": "1.0", "action": {"default_icon": "assets/icon.png"}, "content_scripts": [{"matches": ["https://*.khanacademy.org/*"], "css": ["assets/styles.css"], "js": ["content-script.js"]}], "permissions": ["storage"]}

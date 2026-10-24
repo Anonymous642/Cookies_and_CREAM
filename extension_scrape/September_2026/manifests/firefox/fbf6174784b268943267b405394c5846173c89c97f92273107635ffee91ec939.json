@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YT Better Speedslider", "version": "1.1", "description": "Changes the Youtube 'Custom Speed Slider' to accept up to 4x speed", "icons": {"48": "icons/logo-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["main.js"]}]}

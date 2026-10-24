@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pomofocus Launcher", "version": "1.0", "description": "Embed Pomofocus.io as a toolbar app.", "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icons/pomodoro.png"}}, "permissions": [], "icons": {"48": "icons/pomodoro.png"}, "applications": {"gecko": {"id": "pomofocus-launcher@example.com", "strict_min_version": "68.0"}}}

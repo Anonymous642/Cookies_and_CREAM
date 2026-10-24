@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Make a decision", "description": "Make a decision.", "version": "1.8.1", "action": {"default_popup": "popup.html", "default_icon": {"16": "44.png"}}, "icons": {"16": "44.png"}, "permissions": []}

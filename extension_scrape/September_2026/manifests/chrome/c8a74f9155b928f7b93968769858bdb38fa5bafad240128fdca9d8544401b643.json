@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "One-Click Translator", "version": "1.0.1", "description": "Translates selected text or the entire page with a single click and shows the result in an overlay.", "action": {"default_popup": "popup.html"}, "permissions": ["storage", "activeTab", "tabs", "scripting"]}

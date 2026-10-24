@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "RecipeHop", "version": "1.0.0", "description": "Jump straight to the ingredients on recipe pages.", "permissions": ["activeTab", "scripting"], "action": {"default_title": "Jump to ingredients"}, "background": {"service_worker": "service-worker.js"}}

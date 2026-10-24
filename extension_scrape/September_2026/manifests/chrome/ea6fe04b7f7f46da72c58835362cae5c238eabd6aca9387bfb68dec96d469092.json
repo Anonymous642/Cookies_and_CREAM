@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Simple Refresher", "manifest_version": 3, "version": "0.0.1", "permissions": ["activeTab"], "description": "A simple extension to refresh the active tab at a specified interval.", "action": {"default_popup": "popup.html"}, "icons": {"16": "refresh.png", "48": "refresh.png", "128": "refresh.png"}}

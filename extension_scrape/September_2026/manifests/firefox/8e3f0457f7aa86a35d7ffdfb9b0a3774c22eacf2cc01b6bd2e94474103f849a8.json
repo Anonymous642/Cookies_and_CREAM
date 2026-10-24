@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SCSS Blocker", "version": "1.0", "description": "Blocks the display of 'SCSS' on the current website", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{184fa1bb-6d37-4fa1-9044-fd1a73640805}"}}}

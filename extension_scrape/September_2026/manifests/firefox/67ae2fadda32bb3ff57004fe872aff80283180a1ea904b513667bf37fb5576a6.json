@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Surveilfall", "version": "1.0", "browser_specific_settings": {"gecko": {"id": "cjerskine@gmail.com"}}, "description": "Shows the hehedh ban list when viewing a card on Scryfall.", "icons": {"48": "icons/surveil.jpg"}, "content_scripts": [{"matches": ["*://scryfall.com/card/*"], "js": ["Surveilfall.js"]}]}

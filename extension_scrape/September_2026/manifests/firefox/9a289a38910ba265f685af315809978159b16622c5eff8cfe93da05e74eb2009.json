@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Smart Tab Groups Enhanced", "version": "1.0", "description": "Automatically groups tabs opened from an existing tab that isn't pinned.", "background": {"type": "module", "scripts": ["background.js"]}, "permissions": ["sessions", "tabs", "tabGroups"], "browser_specific_settings": {"gecko": {"id": "{0bfc4be2-4e0f-4e98-9731-3f879768eb9f}"}}}

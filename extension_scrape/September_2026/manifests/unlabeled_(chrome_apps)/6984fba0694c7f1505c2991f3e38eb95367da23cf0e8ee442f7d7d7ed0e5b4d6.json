@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ExposicionamientoWeb", "description": "Dise\u00f1o web, desarrollo de aplicaciones y posicionamiento seo.", "version": "1", "manifest_version": 2, "app": {"url": ["http://www.exposicionamientoweb.com/"], "launch": {"web_url": "http://www.exposicionamientoweb.com/"}}, "icons": {"128": "iconoappchrome.png"}}

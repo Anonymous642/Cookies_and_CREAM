@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "srcAddon", "version": "1.1resigned1", "description": "Scroller Addon For Mozilla", "icons": {"48": "fff.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["srcborder.js"], "css": ["style.css"]}], "browser_specific_settings": {"gecko": {"id": "{3407dc1d-bc2f-4e86-8571-cb02cb7acbc2}"}}}

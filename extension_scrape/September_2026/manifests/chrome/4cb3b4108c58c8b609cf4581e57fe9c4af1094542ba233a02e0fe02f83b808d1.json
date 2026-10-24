@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute Trick Riddle Maker", "version": "1.0.0", "description": "Generate cute trick riddles and reveal answers in a simple popup (offline).", "action": {"default_title": "Trick Riddles", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

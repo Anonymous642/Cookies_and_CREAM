@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Student Tab Monitor", "version": "1.0", "description": "Monitors when a new tab is created and sends an alert.", "permissions": ["tabs", "identity", "identity.email"], "host_permissions": ["https://script.google.com/*"], "background": {"service_worker": "background.js"}}

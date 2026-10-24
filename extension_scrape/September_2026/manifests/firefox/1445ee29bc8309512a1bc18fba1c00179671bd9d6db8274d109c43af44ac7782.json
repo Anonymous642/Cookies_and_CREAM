@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "USD to BWP Converter", "version": "1.0", "description": "Convert USD to BWP directly in the popup.", "permissions": ["https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{2de78fb5-3104-40e2-80ff-f20d1effd278}"}}}

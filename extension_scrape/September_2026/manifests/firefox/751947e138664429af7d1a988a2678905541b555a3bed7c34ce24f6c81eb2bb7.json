@@ -1,0 +1,1 @@
+{"name": "Content settingss", "version": "2.2", "description": "Shows the content settings for the current site.", "permissions": ["contentSettings", "tabs"], "browser_action": {"default_icon": "contentSettings.png", "default_popup": "popup.html"}, "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{82bee39d-371e-4a03-9882-33f201d6950a}"}}}

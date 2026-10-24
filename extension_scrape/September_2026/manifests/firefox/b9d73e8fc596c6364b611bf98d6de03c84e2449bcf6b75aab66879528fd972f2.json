@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clean Copy", "version": "1.0", "description": "Prevents websites from adding extra text when copying.", "permissions": ["activeTab", "clipboardWrite", "clipboardRead"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{dd54effd-bd86-4146-9fe4-a5686b687f9e}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab History Context Menu", "version": "1.0", "permissions": ["tabs", "menus", "storage"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{c3c0fc93-abf3-4b8b-8515-8c8b522f9dec}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Open in Reader View", "version": "1.1resigned1", "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{88ccace3-2bd1-4486-aec0-1ea49ea978eb}"}}}

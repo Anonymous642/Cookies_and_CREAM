@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Zerotine", "version": "1.1", "description": "Track your journey towards a life free of nicotine", "chrome_url_overrides": {"newtab": "index.html"}}

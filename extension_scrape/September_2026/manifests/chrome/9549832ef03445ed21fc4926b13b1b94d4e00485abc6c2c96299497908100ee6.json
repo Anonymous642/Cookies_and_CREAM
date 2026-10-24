@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WhatsApp Web Messagebox Resizer", "version": "1.1", "manifest_version": 3, "permissions": [], "host_permissions": [], "action": {"default_icon": "resize.png"}, "content_scripts": [{"js": ["script/resizer.js"], "css": ["css/resizer.css"], "matches": ["https://web.whatsapp.com/*"]}]}

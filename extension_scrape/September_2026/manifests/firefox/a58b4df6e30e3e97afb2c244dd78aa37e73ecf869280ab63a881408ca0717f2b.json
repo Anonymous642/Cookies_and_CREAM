@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AdQuiet: YouTube Ad Blocker", "version": "1.0", "description": "Block and skip YouTube ads automatically.", "permissions": ["webRequest", "webRequestBlocking", "*://*.youtube.com/*"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{2bfffeda-077e-466c-92cd-a3b72bb4d5b1}"}}}

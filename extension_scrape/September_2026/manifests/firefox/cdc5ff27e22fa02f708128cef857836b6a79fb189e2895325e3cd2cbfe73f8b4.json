@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab-Tone", "version": "1.0", "description": "Play a short custom sound when switching tabs.", "background": {"scripts": ["background.js"]}, "permissions": ["tabs"], "web_accessible_resources": ["sounds/click.wav"], "icons": {"48": "icon48.png"}, "browser_specific_settings": {"gecko": {"id": "{2695fbd4-1ddf-4222-abf0-a46a29d6168b}"}}}

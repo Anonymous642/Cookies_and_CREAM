@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ProgressBarNT", "description": "A custom new tab page for Firefox.", "version": "0.4.0", "icons": {"48": "imgs/icon_48.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{4c92236e-ad5d-40e7-a2b8-69716dcca67c}"}}}

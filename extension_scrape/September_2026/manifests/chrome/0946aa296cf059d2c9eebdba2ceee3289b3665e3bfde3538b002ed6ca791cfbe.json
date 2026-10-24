@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Elysia's Oracle", "description": "A tarot reading app", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "index.html", "default_icon": "images/icon_128.png"}, "icons": {"128": "images/icon_128.png"}, "permissions": ["storage"]}

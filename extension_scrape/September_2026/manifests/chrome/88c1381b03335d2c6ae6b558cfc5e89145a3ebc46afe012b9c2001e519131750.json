@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "colaftha", "version": "1.0.1", "description": "noftha\u306b\u300c\u8272\u300d\u3092\u3002", "icons": {"128": "icons/icon128.png"}, "content_scripts": [{"matches": ["https://noftha.com/*"], "js": ["content.js"], "run_at": "document_start"}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "complit", "manifest_version": 3, "version": "0.2.0", "description": "combine and split tabs.", "background": {"service_worker": "service_worker.js"}, "permissions": ["tabs"], "action": {"default_title": "complit!"}, "content_security_policy": {}}

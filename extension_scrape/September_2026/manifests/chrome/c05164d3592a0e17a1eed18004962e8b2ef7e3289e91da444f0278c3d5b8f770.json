@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Camera Follow", "version": "1.0", "description": "Screen follows your mouse like a game camera", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.0", "name": "URL Tracker", "description": "URL Tracker", "action": {"default_popup": "index.html"}, "icons": {"16": "icons8-url-16.png", "32": "icons32.png", "48": "icons8-url-48.png", "128": "icons128.png"}, "author": "Kartik More", "permissions": ["tabs"]}

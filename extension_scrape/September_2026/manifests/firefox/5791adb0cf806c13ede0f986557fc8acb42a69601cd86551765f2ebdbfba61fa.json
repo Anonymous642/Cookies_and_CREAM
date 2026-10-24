@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fast scroll", "version": "1.4", "description": "Hold left alt key to increase scroll speed of element, useful for viewing text heavy sites.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["fast-scroll.js"]}], "browser_specific_settings": {"gecko": {"id": "{816d07c7-0366-4ecc-b72d-db01aa8ea5a9}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Remove_Ads_Outlook", "description": "Remove o an\u00fancio do Outlook.", "version": "1.0", "content_scripts": [{"matches": ["https://outlook.live.com/mail/0/"], "js": ["content.js"]}], "action": {"default_icon": "icon.png"}}

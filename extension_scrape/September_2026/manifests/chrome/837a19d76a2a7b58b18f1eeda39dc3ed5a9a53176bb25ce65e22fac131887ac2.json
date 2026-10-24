@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "stream new tab", "version": "1.1.1", "description": "Replaces default Chrome new tab.", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"32": "waves-32.png", "64": "waves-64.png", "128": "waves-128.png", "512": "waves-512.png"}}

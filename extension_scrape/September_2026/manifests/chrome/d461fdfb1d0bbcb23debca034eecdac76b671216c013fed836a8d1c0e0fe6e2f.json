@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Un-unprecedented", "description": "Removes the word unprecedented from all webpages", "version": "1.0", "manifest_version": 3, "content_scripts": [{"matches": ["<all_urls>"], "permissions": ["activeTab"], "js": ["script.js"]}]}

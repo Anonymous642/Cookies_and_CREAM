@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "FreeRun", "version": "0.0.1", "description": "Free access to Runners World articles", "manifest_version": 3, "author": "Bobby Palmer", "background": {"service_worker": "background.js"}, "action": {}, "permissions": ["activeTab", "scripting"]}

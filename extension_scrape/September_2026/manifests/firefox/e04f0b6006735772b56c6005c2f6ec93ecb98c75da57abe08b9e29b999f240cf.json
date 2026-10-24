@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reading Timer", "version": "1.0", "description": "Track how much time you spend reading on a webpage.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{be05056c-109f-423e-bb81-f98c42517eae}"}}}

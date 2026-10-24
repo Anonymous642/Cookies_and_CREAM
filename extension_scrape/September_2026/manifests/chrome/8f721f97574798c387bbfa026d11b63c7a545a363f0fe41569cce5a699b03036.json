@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Wave", "version": "1.0", "description": "The best browser new tab client. Wave.", "permissions": ["storage"], "chrome_url_overrides": {"newtab": "newtab.html"}, "action": {"default_popup": "popup.html", "default_icon": {"128": "Wave128.png"}}, "icons": {"128": "Wave128.png"}}

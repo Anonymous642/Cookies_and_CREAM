@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dog Quotes", "version": "1.0", "description": "Displays a random dog quote on button click.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{e623a5f4-fea3-463f-9ff9-fe512f03bfad}"}}}

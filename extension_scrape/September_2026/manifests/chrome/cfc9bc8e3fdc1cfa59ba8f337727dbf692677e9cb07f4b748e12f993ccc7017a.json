@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "X Name Checker", "version": "1.0", "description": "Check Twitter/X username change history.", "permissions": [], "host_permissions": ["https://x.com/*", "https://seekx.life/*"], "content_scripts": [{"matches": ["https://x.com/*"], "js": ["content.js"]}], "icons": {"128": "icon.png"}}

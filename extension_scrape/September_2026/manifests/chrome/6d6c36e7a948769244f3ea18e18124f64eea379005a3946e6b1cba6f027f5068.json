@@ -1,0 +1,64 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "name": "TL;DReview – Quick Review Summary for Google Maps",
+  "version": "1.0.1",
+  "description": "Instantly view AI-powered place review summaries on Google Maps: must-try items, pros & cons, and insider tips.",
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
+  "permissions": [
+    "storage",
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://dashboard.tldreview.app/*",
+    "https://u.tldreview.app/*",
+    "https://*.google.com/maps/*",
+    "https://maps.app.goo.gl/*",
+    "https://api2.amplitude.com/*",
+    "https://www.google-analytics.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.google.com/maps/*",
+        "https://maps.app.goo.gl/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_idle",
+      "type": "module"
+    }
+  ],
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": {
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png",
+      "48": "icons/icon-48.png",
+      "128": "icons/icon-128.png"
+    },
+    "default_title": "TL;DReview - 查看地點摘要"
+  },
+  "options_page": "popup/settings.html",
+  "externally_connectable": {
+    "matches": [
+      "https://dashboard.tldreview.app/*",
+      "https://u.tldreview.app/*"
+    ]
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["popup/popup.html", "popup/settings.html"],
+      "matches": ["https://*.google.com/*"]
+    }
+  ]
+}

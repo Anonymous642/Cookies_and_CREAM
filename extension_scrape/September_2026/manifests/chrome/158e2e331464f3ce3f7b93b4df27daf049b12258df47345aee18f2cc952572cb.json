@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Read Flow", "version": "1.0", "permissions": ["activeTab", "scripting", "storage"], "host_permissions": ["*://*/*"], "action": {"default_popup": "popup.html", "default_icon": {"16": "logo16.png", "48": "logo3.png", "128": "logo.png"}}}

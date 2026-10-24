@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "unRAIDrTTV", "version": "0.0.1", "description": "Ensure you are always a full viewer and not just a referrer=raid viewer", "permissions": ["webNavigation"], "background": {"service_worker": "background.js"}, "host_permissions": ["https://*.twitch.tv/*"]}

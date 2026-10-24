@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Random Book Suggestion", "version": "1.0.0", "description": "Shows one random must-read book each time you open the popup.", "action": {"default_title": "Random Book", "default_popup": "popup.html", "default_icon": {"128": "icon-128.png"}}, "icons": {"128": "icon-128.png"}}

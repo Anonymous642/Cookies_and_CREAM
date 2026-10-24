@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Steemoji", "version": "1.1resigned1", "description": "Adds emojis for Steemit MarkDown.", "content_scripts": [{"matches": ["*://*.steemit.com/*"], "js": ["jquery.js", "steemoji.js"]}], "browser_specific_settings": {"gecko": {"id": "{53fe24a4-1185-4686-80c4-936a343bcb30}"}}}

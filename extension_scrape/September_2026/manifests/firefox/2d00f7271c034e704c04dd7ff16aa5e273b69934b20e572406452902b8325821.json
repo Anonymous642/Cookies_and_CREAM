@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Custom New Tab Redirect", "version": "1.0", "description": "Replaces the new tab page with Google.", "chrome_url_overrides": {"newtab": "redirect.html"}, "permissions": [], "host_permissions": ["https://www.google.com/"], "browser_specific_settings": {"gecko": {"id": "{c37c6ece-1979-4e7b-a701-0f69902d6c7c}"}}}

@@ -1,0 +1,1 @@
+{"browser_specific_settings": {"gecko": {"id": "winman@maximilian.eu.org", "strict_min_version": "109.0"}}, "manifest_version": 3, "name": "WinMan", "version": "1.1.0", "description": "The WinMan Window Manager", "icons": {"16": "icon.png"}, "background": {"scripts": ["background.js"]}, "action": {"default_popup": "view/index.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LGBT .Gov Text Fixer", "icons": {"128": "extension-icon.png"}, "version": "1.0", "description": "Replaces specific text on .gov websites", "action": {"default_title": "Why", "default_popup": "popup.html"}, "content_scripts": [{"matches": ["*://*.gov/*"], "js": ["content.js"]}]}

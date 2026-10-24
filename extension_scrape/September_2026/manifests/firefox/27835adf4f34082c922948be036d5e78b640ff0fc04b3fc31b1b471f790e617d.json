@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Malware Lookup Tool", "version": "1.0", "description": "Search for malware-related terms directly in your browser.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{c1cbe43c-c69f-4c8e-8bdd-7eefc8f0892e}"}}}

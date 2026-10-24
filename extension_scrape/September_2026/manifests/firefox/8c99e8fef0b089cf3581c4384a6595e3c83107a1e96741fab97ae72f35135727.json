@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Random Subreddit", "version": "1.1", "icons": {"48": "icons/icon.png"}, "background": {"scripts": ["r.js"]}, "browser_action": {"default_icon": "icons/icon.png"}}

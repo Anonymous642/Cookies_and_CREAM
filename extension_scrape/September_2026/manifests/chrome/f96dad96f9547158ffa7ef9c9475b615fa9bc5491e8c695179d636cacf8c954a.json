@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Align LinkedIn RTL", "version": "1.1", "description": "Align RTL text to the right in LinkedIn comments and posts.", "icons": {"128": "icons/icon128.png"}, "content_scripts": [{"matches": ["https://*.linkedin.com/*"], "js": ["contentScript.js"]}]}

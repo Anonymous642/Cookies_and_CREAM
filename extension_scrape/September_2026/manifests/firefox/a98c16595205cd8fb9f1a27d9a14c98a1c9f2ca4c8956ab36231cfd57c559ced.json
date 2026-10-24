@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PubMed Tools", "version": "1.0", "description": "Quick access and search PubMed.", "icons": {"48": "icon.png"}, "browser_action": {"default_icon": "icon.png", "default_title": "PubMed Tools", "default_popup": "popup.html"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{84d1a109-2522-4c57-ad43-088083baa4b7}"}}}

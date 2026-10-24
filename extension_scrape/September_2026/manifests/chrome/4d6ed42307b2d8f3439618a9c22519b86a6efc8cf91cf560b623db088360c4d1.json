@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HoloTask: To-Do List", "version": "1.0.0", "description": "A beautiful, holographic glassmorphism to-do list to keep your daily tasks organized offline.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon.png"}}, "icons": {"128": "icon.png"}}

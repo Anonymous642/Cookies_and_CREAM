@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Scroll to Top", "version": "1.0", "description": "Cu\u1ed9n nhanh l\u00ean \u0111\u1ea7u trang web", "icons": {"48": "icons/icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icons/icon.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{4dde7289-6d40-4cf4-8217-7823f8d63ad2}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WhatsApp Web Spoilers", "version": "1.1", "description": "Creates spoilers for WhatsApp Web. Press Ctrl-Alt-S to create a spoiler.", "content_scripts": [{"matches": ["*://web.whatsapp.com/*"], "js": ["WAWS.js"]}], "browser_specific_settings": {"gecko": {"id": "waws@shantaram.xyz"}}}

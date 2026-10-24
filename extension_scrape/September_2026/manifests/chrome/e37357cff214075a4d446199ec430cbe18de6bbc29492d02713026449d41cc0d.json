@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "One Rep Max Calculator", "version": "1.1", "description": "Calculate your One Rep Max (1RM) for Bench Press, Squat, and Deadlift using Epley & Brzycki formulas.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icons/icon.png"}}, "icons": {"128": "icons/icon.png"}}

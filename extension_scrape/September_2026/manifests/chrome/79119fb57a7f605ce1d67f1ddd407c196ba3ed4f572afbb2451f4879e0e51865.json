@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Random Meal Picker", "version": "1.0.0", "description": "Randomly pick a meal based on your preferences (diet, cuisine, meal type).", "action": {"default_title": "Random Meal Picker", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Quick Notes", "version": "1.0", "description": "A quick sidebar for taking notes.", "sidebar_action": {"default_title": "Quick Notes", "default_panel": "sidebar.html"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "quick-notes-2025@davie-extensions.dev", "strict_min_version": "109.0"}}}

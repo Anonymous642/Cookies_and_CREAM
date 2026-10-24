@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Tab Tamer", "version": "1.0", "description": "Manage tabs, boost focus.", "action": {"default_popup": "popup.html", "default_icon": "tab_tamer.png"}, "icons": {"128": "tab_tamer.png"}, "browser_specific_settings": {"gecko": {"id": "sharleenetgp505158@hotmail.com"}}}

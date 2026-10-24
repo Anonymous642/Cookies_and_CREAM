@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Maestro BPM", "description": "Acesso ao Maestro BPM.", "manifest_version": 2, "version": "2", "app": {"urls": ["https://www.maestro.inf.br/maestro/"], "launch": {"web_url": "https://www.maestro.inf.br/maestro/"}}, "icons": {"128": "icone.png"}, "permissions": ["unlimitedStorage", "notifications"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ambient Mode Fix for YouTube Shorts", "version": "1.0", "description": "Fixes the broken YouTube Shorts Ambient-Mode Switch", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "css": ["style.css"], "js": ["script.js"]}]}

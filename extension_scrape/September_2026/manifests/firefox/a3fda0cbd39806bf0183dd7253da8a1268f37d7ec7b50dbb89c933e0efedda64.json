@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "URL-Shortner", "version": "1.0", "description": "Shorten URLs using Bitly API", "permissions": ["activeTab", "storage"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{4532e840-c551-4359-9232-c5af2d081a72}"}}}

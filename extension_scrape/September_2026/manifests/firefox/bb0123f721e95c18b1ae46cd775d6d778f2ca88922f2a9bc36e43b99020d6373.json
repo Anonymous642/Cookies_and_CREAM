@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Notes Manager", "version": "1.0", "description": "Manage and organize your notes.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icons/icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{4fa40a46-9a0a-460e-93b3-95e410559986}"}}}

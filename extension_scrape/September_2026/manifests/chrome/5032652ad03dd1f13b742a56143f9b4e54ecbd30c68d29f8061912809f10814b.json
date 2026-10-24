@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SNSHero.com", "version": "1.0", "manifest_version": 3, "description": "AI Web Card Game - SNSHero.com", "background": {"service_worker": "sw.js"}, "action": {}, "icons": {"16": "16.png", "128": "128.png"}}

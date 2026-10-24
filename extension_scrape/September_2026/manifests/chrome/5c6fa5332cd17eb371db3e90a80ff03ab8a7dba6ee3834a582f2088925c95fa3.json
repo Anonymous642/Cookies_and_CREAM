@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Privacy Proxy Extension", "version": "1.2.1", "host_permissions": ["https://chatgpt.com/*", "https://*.ngrok-free.dev/*"], "content_scripts": [{"matches": ["https://chatgpt.com/*"], "js": ["content.js"], "run_at": "document_end"}]}

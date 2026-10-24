@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Copy URL to Clipboard", "version": "1.0", "description": "Copy the URL of the current webpage to the clipboard.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icons/icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{4105a723-2465-4821-9cf5-f16694bedc52}"}}}

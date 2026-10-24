@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "RhinoMobileExpo", "version": "1.0.0", "description": "RhinoMobileExpo as a Chrome Extension", "action": {"default_popup": "index.html", "default_title": "Open RhinoMobileExpo"}, "permissions": []}

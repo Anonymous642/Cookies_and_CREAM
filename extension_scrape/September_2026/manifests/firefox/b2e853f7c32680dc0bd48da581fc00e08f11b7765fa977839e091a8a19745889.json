@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Note History Viewer", "version": "1.0", "description": "View previous versions of your notes.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{bb6e31a5-be4e-4cfb-a31a-f7c0e522f257}"}}}

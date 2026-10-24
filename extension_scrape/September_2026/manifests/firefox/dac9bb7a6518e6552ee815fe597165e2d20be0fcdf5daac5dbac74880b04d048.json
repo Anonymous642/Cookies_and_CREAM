@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Water Usage Tip", "version": "1.0", "description": "Shows a daily water-saving tip on each new tab.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{523f6a81-c723-4847-8446-ab565e077e72}"}}}

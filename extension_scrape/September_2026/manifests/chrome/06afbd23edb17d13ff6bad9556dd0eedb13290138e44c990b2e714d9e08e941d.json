@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DevLinks - Nueva Pesta\u00f1a", "version": "1.0", "description": "Colecci\u00f3n de enlaces \u00fatiles para desarrolladores en cada nueva pesta\u00f1a", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["storage"]}

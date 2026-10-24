@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "title-getter", "version": "2.2.5", "description": "123123", "permissions": ["activeTab", "webNavigation"], "host_permissions": ["ws://localhost:8080/*"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "action": {"default_title": "Get Page Title"}, "update_url": "https://clients2.google.com/service/update2/crx"}

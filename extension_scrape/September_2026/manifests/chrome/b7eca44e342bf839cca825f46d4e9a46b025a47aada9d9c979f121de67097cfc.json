@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HackerGprat", "description": "Custom New Tab For Being Highly Productive.", "version": "0.1", "incognito": "split", "chrome_url_overrides": {"newtab": "new-tab.html"}, "permissions": ["storage", "contextMenus"], "options_page": "options.html"}

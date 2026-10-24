@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "isekai", "version": "3.3", "icons": {"128": "icons/isekai.png"}, "permissions": ["tabs", "storage", "cookies", "contextualIdentities"], "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icons/isekai.png"}, "browser_specific_settings": {"gecko": {"id": "{e3d373c0-65d9-4bbf-91ab-178df6dc4ea4}"}}}

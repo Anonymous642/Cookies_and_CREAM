@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "RAM Monitor (for Chrome)", "version": "1.0.0", "description": "Shows system RAM usage while using Chrome (total, available, used).", "action": {"default_title": "RAM Monitor", "default_popup": "popup.html"}, "permissions": ["system.memory"], "icons": {"128": "icon128.png"}}

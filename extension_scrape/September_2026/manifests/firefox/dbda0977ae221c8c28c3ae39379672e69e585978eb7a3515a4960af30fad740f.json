@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ylis_speaker", "version": "0.0.1", "description": "Reads new posts out loud.", "icons": {"48": "icons/ylis_speaker_icon.png"}, "content_scripts": [{"matches": ["*://*.ylilauta.org/*"], "js": ["ylis_speaker.js"]}]}

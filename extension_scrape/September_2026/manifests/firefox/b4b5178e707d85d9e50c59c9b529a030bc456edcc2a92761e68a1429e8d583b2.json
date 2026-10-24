@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "The SnackOS", "description": "Use all of the Snack OS links and extensions with just 2 clicks.", "version": "1.0.0", "icons": {"128": "icon_128.png"}, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{6cde5c32-5534-44f2-99c2-a693abd93384}"}}}

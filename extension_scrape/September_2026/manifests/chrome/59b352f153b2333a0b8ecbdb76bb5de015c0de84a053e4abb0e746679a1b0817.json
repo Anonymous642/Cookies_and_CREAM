@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Carrier Shield", "version": "0.1.0", "description": "Check a carrier for fraud signals before you book.", "action": {"default_popup": "popup.html"}, "permissions": ["storage", "downloads"], "host_permissions": ["https://jkhhoraksbsgeqrrqtuo.supabase.co/*"]}

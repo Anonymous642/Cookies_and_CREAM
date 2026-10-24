@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Full Screen Sci-hub", "version": "1.0.3", "description": "Makes Sci-hub full screen", "icons": {"48": "icons/fssh-48.png", "96": "icons/fssh-96.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["fssh.js"]}]}

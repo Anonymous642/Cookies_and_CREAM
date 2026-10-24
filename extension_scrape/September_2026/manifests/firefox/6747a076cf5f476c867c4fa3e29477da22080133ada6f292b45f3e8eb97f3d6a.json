@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ffCK Iframes", "description": "Removes the first iframe from the page. Forked from the firefox ffckoverlay extension.", "version": "1.0.0", "homepage_url": "https://github.com/mrwm/ffckiframes", "icons": {"48": "icons/ext-48.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "menus"]}

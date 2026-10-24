@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pageify", "description": "Pageify extension", "version": "1.0.0", "browser_action": {"default_popup": "setkey.html"}, "applications": {"gecko": {"id": "pageify@pageify.be"}}, "permissions": ["activeTab", "tabs", "storage"]}

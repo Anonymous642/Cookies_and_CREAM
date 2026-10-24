@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LIC Calculator Lite", "version": "1.0", "description": "Lightweight LIC calculator for low-memory systems", "permissions": ["storage"], "browser_action": {"default_title": "LIC Calculator", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"strict_min_version": "82.0", "id": "{20dd4d10-6e7b-42e3-b15e-5f9b295ee100}"}}}

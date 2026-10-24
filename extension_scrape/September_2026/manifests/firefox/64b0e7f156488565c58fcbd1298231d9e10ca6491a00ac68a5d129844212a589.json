@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quote Generator", "version": "1.0", "description": "Displays a random quote about hard work or passive income.", "browser_action": {"default_popup": "popup.html", "default_icon": "icons/icon.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{7f215410-fa6b-49b2-ba6b-c21d908bfd85}"}}}

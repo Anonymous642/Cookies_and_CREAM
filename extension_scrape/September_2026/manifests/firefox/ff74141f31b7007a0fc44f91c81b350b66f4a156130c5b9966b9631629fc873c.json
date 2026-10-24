@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clean Timeline", "version": "1.4.1", "description": "Cleans your timeline", "icons": {"96": "icons/96x96.png"}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{57bd900a-e4cb-4767-8938-fe1d7070ed56}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Radiant Peaks", "description": "A breathtaking mountain landscape", "manifest_version": 3, "version": "1.0", "chrome_url_overrides": {"newtab": "index.html"}}

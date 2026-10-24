@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "kka", "version": "1.2resigned1", "description": "kka user_name print", "icons": {}, "content_scripts": [{"matches": ["*://support.ashisuto.co.jp/*vender*"], "js": ["jquery.js", "kka.js"]}], "browser_specific_settings": {"gecko": {"id": "{02a4da71-d993-491e-8919-0a64ff2401ab}"}}}

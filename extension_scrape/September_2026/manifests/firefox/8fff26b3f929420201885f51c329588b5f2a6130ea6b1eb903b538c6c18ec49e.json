@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Theme Tweaker", "version": "1.0", "description": "Theme Tweaker: Customize site themes", "action": {"default_popup": "popup.html", "default_icon": "theme_tweaker.png"}, "icons": {"128": "theme_tweaker.png"}, "browser_specific_settings": {"gecko": {"id": "ferrassfarmerh24881@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

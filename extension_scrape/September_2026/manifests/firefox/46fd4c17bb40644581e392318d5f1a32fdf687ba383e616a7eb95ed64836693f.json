@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Shark's New Tab", "version": "1.0", "description": "A personalized new tab with greeting, quick links, and a notepad", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "sharknewtab@example.com", "strict_min_version": "109.0", "data_collection_permissions": {"required": ["none"]}}}}

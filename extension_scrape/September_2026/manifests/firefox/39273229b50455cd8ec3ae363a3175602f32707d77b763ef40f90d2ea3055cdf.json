@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sticky Navigation", "version": "1.0", "description": "Keep important buttons pinned to the screen.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_title": "Sticky Navigation", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{d94de43e-acbe-4700-8d05-b4fcdeadef1b}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "PrivOrNot", "version": "2.0", "description": "Hides listings on Idealista (ES/PT/IT) that aren't from private owners", "manifest_version": 3, "content_scripts": [{"matches": ["https://*.idealista.com/*", "https://*.idealista.pt/*"], "js": ["content.js"]}]}

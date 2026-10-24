@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "EVI RP", "version": "0.1", "permissions": ["activeTab", "scripting"], "description": "simple custom extension for EVI discord user", "content_scripts": [{"matches": ["*://discord.com/*"], "js": ["eviquotes.js"], "world": "MAIN"}], "browser_specific_settings": {"gecko": {"id": "evi@charaverk.notexist", "strict_min_version": "58.0"}}}

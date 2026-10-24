@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Listen to Page", "version": "1.0", "description": "Listen to Page: Read articles aloud", "action": {"default_popup": "popup.html", "default_icon": "listen_to_page.png"}, "icons": {"128": "listen_to_page.png"}, "browser_specific_settings": {"gecko": {"id": "thytructont282022@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

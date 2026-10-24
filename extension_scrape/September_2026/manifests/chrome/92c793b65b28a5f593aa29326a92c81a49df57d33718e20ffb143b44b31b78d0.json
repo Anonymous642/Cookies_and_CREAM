@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Startup Name Spark", "version": "1.0.0", "description": "Generate simple startup company name ideas instantly.", "icons": {"128": "icon128.png"}, "action": {"default_title": "Startup Name Spark", "default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}}

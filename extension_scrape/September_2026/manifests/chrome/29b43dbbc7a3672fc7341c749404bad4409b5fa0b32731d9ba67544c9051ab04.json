@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cosmic", "version": "1.0", "description": "Replaces the new tab page with an animated starry sky and allows the user to have a saved to-do list.", "chrome_url_overrides": {"newtab": "index.html"}}

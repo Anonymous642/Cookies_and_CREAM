@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Scrollable Comments", "version": "1.0", "description": "Make YouTube's comment section scrollable.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{79dddf1c-0aa1-4e45-935c-5675e000b79f}"}}}

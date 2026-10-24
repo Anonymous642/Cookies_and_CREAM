@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Instagram Bio Generator", "version": "1.0", "description": "Generate personalized Instagram bios for boys and girls based on user input.", "permissions": [], "action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}}

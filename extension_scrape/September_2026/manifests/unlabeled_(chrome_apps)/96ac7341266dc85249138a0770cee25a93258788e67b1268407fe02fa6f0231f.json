@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Sudoku", "version": "1.0.1", "manifest_version": 2, "minimum_chrome_version": "20", "offline_enabled": true, "app": {"launch": {"local_path": "sudoku.html"}}, "icons": {"16": "icon_16.png", "128": "icon.png"}}

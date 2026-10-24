@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"urls": ["http://tracktoact.com/p1/t1/"], "launch": {"web_url": "http://tracktoact.com/p1/t1/"}}, "name": "TrackToAct VisiLeads", "description": "Lead Acquisition Accelerated", "manifest_version": 2, "version": "1.2", "icons": {"128": "icon_128.png"}}

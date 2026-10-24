@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "gorl", "version": "1.1resigned1", "description": "gorl.", "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["gorl.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{978d4c22-0665-4c86-a521-b92484454f44}"}}}

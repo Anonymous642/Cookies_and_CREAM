@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Kuy Studio CS by Fajri", "version": "1.1", "description": "Auto CS Dashboard Tools", "content_scripts": [{"matches": ["https://app.kuystudio.id/*", "http://app.kuystudio.id/*"], "js": ["content_cs.js"]}], "browser_specific_settings": {"gecko": {"id": "kuy-studio-cs1@fajri.dev", "data_collection_permissions": {"required": ["none"]}}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Namu Ask", "description": "\ub098\ubb34\uc704\ud0a4 \ubb38\uc11c \uae30\ubc18 \uc9c8\ub2f5 AI \uc5b4\ud50c\ub9ac\ucf00\uc774\uc158", "version": "1.0", "action": {"default_popup": "popup.html"}, "permissions": ["activeTab"], "host_permissions": ["https://api.instruct.kr/*"]}

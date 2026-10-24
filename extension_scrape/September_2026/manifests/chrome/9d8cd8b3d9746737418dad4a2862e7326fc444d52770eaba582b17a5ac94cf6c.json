@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Butler's New Tab", "version": "1.0.40", "description": "A cooler New Tab", "chrome_url_overrides": {"newtab": "main/main.html"}, "icons": {"16": "icon/icon.png", "32": "icon/icon.png", "48": "icon/icon.png", "64": "icon/icon.png", "128": "icon/icon.png"}}

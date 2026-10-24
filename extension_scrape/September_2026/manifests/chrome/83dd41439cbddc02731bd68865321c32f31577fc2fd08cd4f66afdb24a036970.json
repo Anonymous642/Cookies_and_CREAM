@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "video quality checker", "version": "1.0.1", "description": "Sets video quality automatically to the highest res avaliable", "manifest_version": 3, "author": "Giovanni S", "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["popup.js"]}]}

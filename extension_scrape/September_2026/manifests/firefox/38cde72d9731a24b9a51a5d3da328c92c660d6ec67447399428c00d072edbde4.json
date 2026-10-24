@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ycombinator keyboard navigation", "version": "3", "description": "Navigate ycombinator with your keyboard", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://*.ycombinator.com/*"], "js": ["keyboard-watcher.js"]}], "browser_specific_settings": {"gecko": {"id": "{8baac415-d606-422e-89a6-2122747c54dc}"}}}

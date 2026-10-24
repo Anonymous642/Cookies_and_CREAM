@@ -1,0 +1,1 @@
+{"description": "The background image showcases a serene lake with clear blue water under a bright sky.", "manifest_version": 2, "chrome_url_overrides": {"newtab": "index.html"}, "name": "Lake Background", "version": "1.0", "browser_specific_settings": {"gecko": {"id": "{8809552a-e235-4113-9388-02f9da909cb0}"}}}

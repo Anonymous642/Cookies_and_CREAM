@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Cyberlink Browser Guard", "version": "1.0", "manifest_version": 3, "background": {"service_worker": "background.js"}, "icons": {"16": "ICONASLIM.png", "48": "ICONASLIM.png"}, "permissions": ["tabs", "webNavigation"], "web_accessible_resources": [{"resources": ["warning.html"], "matches": ["<all_urls>"]}]}

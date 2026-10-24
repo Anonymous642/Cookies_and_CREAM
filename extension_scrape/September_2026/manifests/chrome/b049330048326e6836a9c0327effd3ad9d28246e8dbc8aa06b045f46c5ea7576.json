@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Content to Google Doc", "version": "1.0", "description": "Extracts all content from a webpage and copies it to the clipboard.", "permissions": ["activeTab", "scripting", "clipboardWrite"], "action": {"default_popup": "popup.html"}}

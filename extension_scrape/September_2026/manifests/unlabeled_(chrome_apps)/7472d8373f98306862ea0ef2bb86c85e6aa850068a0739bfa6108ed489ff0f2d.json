@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Don't Get Kitty Wet", "description": "armed with a trusty umbrella, prevent kitty from getting wet", "version": "0.0.0.1", "manifest_version": 2, "app": {"launch": {"local_path": "main.html"}}, "icons": {"16": "icon_16.png", "128": "icon_128.png"}}

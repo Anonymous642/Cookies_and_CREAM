@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Recodeft", "version": "1.0.1", "author": "Faysal Tanim", "description": "A simple, privacy-focused screen and audio recorder.", "permissions": ["desktopCapture"], "action": {"default_popup": "popup.html"}}

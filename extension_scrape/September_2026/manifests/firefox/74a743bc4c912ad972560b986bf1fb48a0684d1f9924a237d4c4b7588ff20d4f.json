@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Positioner", "version": "1.0", "description": "Places new tabs near their opener or at the beginning of the tab bar if opened normally.", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{ee6368f1-6f86-4252-8f6c-a2f9b913504a}"}}}

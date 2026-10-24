@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ClearView Reader", "version": "1.7", "description": "A minimalist, professional reader tool for distraction-free browsing.", "permissions": ["activeTab", "scripting", "storage"], "host_permissions": ["https://api.gumroad.com/*"], "action": {"default_popup": "popup.html"}}

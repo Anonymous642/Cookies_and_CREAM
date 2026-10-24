@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No Didomi", "version": "1.0", "description": "Test", "content_scripts": [{"matches": ["*://www.marmiton.org/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{1c5c0f7e-ca4c-4071-aba4-e314174fdf05}"}}}

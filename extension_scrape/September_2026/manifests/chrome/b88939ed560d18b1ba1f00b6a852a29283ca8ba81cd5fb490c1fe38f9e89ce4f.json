@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Eye-Controlled Web Component Highlighter", "version": "2.0", "description": "Control page highlighting with eye movement using WebGazer.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["webgazer.js", "content.js"], "css": ["styles.css"]}]}

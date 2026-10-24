@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "EPA 608 Practice Test", "version": "3.1.3", "description": "EPA 608 Core Practice Test & Study Guide.", "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "background": {"service_worker": "background.js"}, "action": {"default_title": "Start EPA Practice Test"}}

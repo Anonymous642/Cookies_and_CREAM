@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NSFWRedditBlocker", "version": "1.0", "description": "Redirects to https://reddit.com if a NSFW post or subreddit is detected", "icons": {"48": "shield-48.png"}, "content_scripts": [{"matches": ["*://*.reddit.com/r/*"], "js": ["jquery-3.5.1.min.js", "blocker.js"]}]}

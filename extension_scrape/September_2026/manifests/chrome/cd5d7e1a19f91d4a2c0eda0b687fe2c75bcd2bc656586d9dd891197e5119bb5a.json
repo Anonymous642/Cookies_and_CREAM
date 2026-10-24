@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Hosanna DevTools", "version": "1.6.0", "manifest_version": 3, "description": "DevTools for Hosanna UI (Roku framework)", "devtools_page": "devtools.html", "host_permissions": ["*://localhost/*"], "icons": {"16": "logo.jpg", "48": "logo.jpg", "128": "logo.jpg"}}

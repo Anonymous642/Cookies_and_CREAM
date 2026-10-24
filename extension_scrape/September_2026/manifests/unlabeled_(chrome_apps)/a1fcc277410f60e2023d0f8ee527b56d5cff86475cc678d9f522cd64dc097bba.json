@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Lua Shell", "version": "2012.11.20.14", "manifest_version": 2, "description": "Lua Shell for Chrome on Windows", "icons": {"16": "icons/lua-16x16.png", "128": "icons/lua-128x128.png"}, "app": {"launch": {"local_path": "main.html"}}, "plugins": [{"path": "nplua52.dll"}]}

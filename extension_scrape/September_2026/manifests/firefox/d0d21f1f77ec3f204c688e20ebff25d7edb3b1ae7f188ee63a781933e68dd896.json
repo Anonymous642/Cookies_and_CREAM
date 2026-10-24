@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Notify w3 link", "version": "1.1resigned1", "description": "Highlight all w3 links in stack overflow answers", "content_scripts": [{"matches": ["*://*.stackoverflow.com/*"], "js": ["src/swap.js"]}], "browser_specific_settings": {"gecko": {"id": "{8dd52d75-e95e-4c99-9c76-f4674a262dd8}"}}}

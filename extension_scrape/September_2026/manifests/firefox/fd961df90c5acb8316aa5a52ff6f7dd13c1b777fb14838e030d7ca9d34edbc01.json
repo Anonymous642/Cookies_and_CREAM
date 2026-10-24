@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "ROT13 Encryptor", "version": "1.0", "description": "ROT13 Encryptor: Simple text scrambler.", "action": {"default_popup": "popup.html", "default_icon": "rot13_encryptor.png"}, "icons": {"128": "rot13_encryptor.png"}, "browser_specific_settings": {"gecko": {"id": "milburna347193@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Serenity Falls New Tab", "version": "1.0.0", "description": "a breathtaking landscape where nature and art meet in perfect harmony.", "icons": {"128": "284469.png"}, "permissions": ["geolocation"], "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{2001ce99-fd3d-4c7d-b5a7-b43c22e4b95f}"}}}

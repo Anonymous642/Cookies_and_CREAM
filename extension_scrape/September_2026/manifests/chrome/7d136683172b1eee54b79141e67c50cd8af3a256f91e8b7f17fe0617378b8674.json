@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HTML to LLM JSON", "version": "1.0", "description": "Extracts clean JSON from HTML for LLMs.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

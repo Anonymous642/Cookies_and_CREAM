@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Decode URLs", "version": "2.0", "action": {"default_icon": {"16": "icon19.png", "48": "icon38.png"}, "default_popup": "Popup.html"}, "permissions": ["tabs"], "content_security_policy": {"extension_pages": "script-src 'self'; object-src 'self'"}}

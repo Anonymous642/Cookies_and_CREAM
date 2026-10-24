@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Notedn.com", "description": "Write down your notes and create you task lists", "version": "1.1", "manifest_version": 2, "app": {"urls": ["http://notedn.com/"], "launch": {"web_url": "http://notedn.com/"}}, "icons": {"128": "icon_128.png"}, "permissions": []}

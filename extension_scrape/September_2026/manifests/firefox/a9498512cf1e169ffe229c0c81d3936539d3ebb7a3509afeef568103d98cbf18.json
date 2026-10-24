@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "koohii-vocab-plus", "version": "1.0.1", "content_scripts": [{"matches": ["https://developer.mozilla.org/*", "https://kanji.koohii.com/review*"], "js": ["koohii-vocab-plus.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{dcc58ce9-df1d-48bd-af05-0f1effbdc203}"}}}

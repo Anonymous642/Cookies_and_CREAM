@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UGX to SLL Converter", "version": "1.0", "description": "Convert UGX to SLL directly from your browser.", "permissions": ["activeTab", "https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{9396f1ac-6b42-4115-b52a-b56fa1000dda}"}}}

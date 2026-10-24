@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Universal Longshot Pro", "version": "2.0", "description": "Capture any page into a long screenshot without DOM conflicts or black screens.", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html"}}

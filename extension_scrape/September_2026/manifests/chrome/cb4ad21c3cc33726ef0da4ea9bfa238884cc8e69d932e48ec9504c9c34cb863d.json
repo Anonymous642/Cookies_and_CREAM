@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Switch to Last Active Tab", "version": "1.0", "permissions": ["tabs", "contextMenus"], "background": {"service_worker": "background.js"}, "action": {"default_title": "Switch to Last Tab"}}

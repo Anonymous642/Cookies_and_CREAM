@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Network Protocols", "version": "1.0", "description": "Look up Networking Protocols with Vendor color-coding.", "browser_action": {"default_title": "Network Protocols", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{43b2240e-2f61-49dc-8693-a890a5daaefa}"}}}

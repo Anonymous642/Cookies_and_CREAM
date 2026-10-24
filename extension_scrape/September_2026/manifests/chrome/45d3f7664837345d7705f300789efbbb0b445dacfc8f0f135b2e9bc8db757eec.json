@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "IP Lookup Tool", "version": "1.0", "description": "Look up public IP address information with ip.sb API.", "icons": {"128": "icon.png"}, "action": {"default_popup": "popup.html", "default_title": "IP Lookup"}, "host_permissions": ["https://api.ipify.org/*", "https://api.ip.sb/*"]}

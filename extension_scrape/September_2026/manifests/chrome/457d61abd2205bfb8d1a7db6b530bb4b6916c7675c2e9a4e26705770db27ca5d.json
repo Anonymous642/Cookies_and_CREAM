@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Upcoming San Francisco Concerts", "version": "1.0.0", "description": "This is an extension to look up concerts coming to San Francisco", "manifest_version": 3, "author": "Rugved D", "action": {"default_popup": "index.html", "default_title": "Upcoming San Francisco Concerts"}}

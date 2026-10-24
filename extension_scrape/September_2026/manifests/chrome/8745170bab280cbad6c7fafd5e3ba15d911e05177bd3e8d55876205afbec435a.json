@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Morphs.io chrome extension", "manifest_version": 3, "background": {"service_worker": "background.js"}, "content_scripts": [{"matches": ["https://www.google.com/search*morphic:*"], "js": ["content.js"]}], "externally_connectable": {"matches": ["https://morphs.io/*"]}, "version": "1.0.0"}

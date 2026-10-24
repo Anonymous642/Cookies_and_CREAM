@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pix 2 Per", "version": "1.1", "description": "Converts pixel values to percentages.", "action": {"default_popup": "popup.html", "default_icon": {"16": "pix2per.png", "48": "pix2per.png", "128": "pix2per.png"}}, "browser_specific_settings": {"gecko": {"id": "kmr22live@gmail.com"}}}

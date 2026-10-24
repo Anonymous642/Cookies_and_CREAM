@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Timer Bellen & Offertes", "version": "1.2", "description": "Mijn eerste Chrome extensie.", "action": {"default_popup": "popup.html", "default_icon": "icon128.png"}, "background": {"service_worker": "background.js"}, "permissions": ["storage"], "icons": {"128": "icon128.png"}}

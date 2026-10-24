@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Share with The Listing App", "version": "1.0", "description": "Share content directly to The Listing App", "permissions": ["contextMenus", "tabs"], "background": {"service_worker": "background.js"}, "icons": {"16": "logo-16.png", "48": "logo-48.png", "128": "logo-128.png"}}

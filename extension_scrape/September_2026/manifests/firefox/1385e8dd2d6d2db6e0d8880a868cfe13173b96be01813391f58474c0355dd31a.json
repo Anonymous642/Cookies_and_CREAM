@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dynamic Zenless Zone Zero Background", "version": "1.0", "description": "Change new tab wallpaper with random video with Google search bar.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{d6c390a7-fcc9-450f-b06d-074383955ed3}"}}}

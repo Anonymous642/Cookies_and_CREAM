@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CL Local Serv", "description": "Management Report Datalog", "version": "0.1.1", "manifest_version": 3, "icons": {"16": "cl_logo_16.png", "128": "cl_logo_128.png"}, "action": {"default_popup": "popup.html"}, "host_permissions": ["http://clprofessional.com/"]}

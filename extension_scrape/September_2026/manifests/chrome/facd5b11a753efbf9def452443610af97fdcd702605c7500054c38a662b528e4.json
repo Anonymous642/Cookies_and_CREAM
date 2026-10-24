@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "UFD Raiding", "version": "1.0.0.1", "version_name": "1.0.0.1", "icons": {"128": "public/icon128.png"}, "permissions": ["clipboardWrite", "sidePanel"], "background": {"service_worker": "service-worker-loader.js", "type": "module"}, "side_panel": {"default_path": "src/sidepanel.html"}}

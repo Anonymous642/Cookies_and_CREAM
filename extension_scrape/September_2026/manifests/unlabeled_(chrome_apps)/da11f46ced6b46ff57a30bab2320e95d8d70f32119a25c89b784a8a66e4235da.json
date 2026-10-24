@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ChronoSave", "description": "Project, task and time management, human resource and time recording, customizable automatic report", "version": "1.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"launch": {"web_url": "https://www.chronosave.com"}}}

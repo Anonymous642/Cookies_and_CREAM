@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Poker Arena", "version": "1.1", "icons": {"128": "icon128.png"}, "app": {"urls": ["http://minigames.mail.ru/newpoker"], "launch": {"web_url": "http://minigames.mail.ru/newpoker"}}, "permissions": ["notifications"], "manifest_version": 2}

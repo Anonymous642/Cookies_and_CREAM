@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PEC Plus", "version": "1.0.2", "permissions": ["tabs", "scripting"], "host_permissions": ["*://*/*"], "background": {"service_worker": "background.js"}, "content_scripts": [{"matches": ["*://*/lista-atendimento/atendimento/*/soap"], "js": ["content.js"]}]}

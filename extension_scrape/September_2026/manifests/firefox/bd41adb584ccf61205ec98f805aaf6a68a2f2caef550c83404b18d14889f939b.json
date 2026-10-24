@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YT Open in Muted Tab Pro v1", "version": "1.0", "description": "Presents a right-click menu option to open a link in a new muted tab.", "background": {"scripts": ["background.js"]}, "permissions": ["menus"], "browser_specific_settings": {"gecko": {"id": "{1ebb0c10-ffb1-4482-bf49-82a6acb3aadb}"}}}

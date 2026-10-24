@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sudoku Puzzle", "description": "Play a clean Sudoku puzzle in your browser popup with six difficulty levels, notes, hints, mistakes tracking, and bilingual UI.", "version": "1.0.0", "action": {"default_title": "Sudoku Puzzle", "default_popup": "popup.html"}}

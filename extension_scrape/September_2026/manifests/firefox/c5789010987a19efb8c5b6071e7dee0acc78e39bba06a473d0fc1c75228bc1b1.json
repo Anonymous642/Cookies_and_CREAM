@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UniBiLogoFixer", "version": "1.0", "description": "Because the new logo is boring. This addon will replace it with a random Pride flag", "content_scripts": [{"matches": ["*://*.uni-bielefeld.de/*"], "js": ["UniBiLogoFixer.js"]}]}

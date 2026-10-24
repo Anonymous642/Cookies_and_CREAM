@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clock", "version": "0.2resigned1", "description": "Clock, Quote and image", "permissions": ["<all_urls>"], "browser_action": {"browser_style": true, "default_title": "Clock", "default_popup": "clock.html"}, "browser_specific_settings": {"gecko": {"id": "{78f9a7a3-e7f2-4cc2-a433-4cbeee58900a}"}}}

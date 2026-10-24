@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Gravity Balls", "description": "Fun game of matching colored balls to get the best score. ", "version": "2.1.3", "manifest_version": 2, "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "icon_16.png", "128": "icon_128.png"}}

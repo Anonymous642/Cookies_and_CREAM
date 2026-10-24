@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Copy Code inside Tutorial - CodeConverter", "version": "1.0", "permissions": ["activeTab", "scripting", "offscreen", "windows"], "host_permissions": ["<all_urls>"], "background": {"service_worker": "scripts/background.js"}, "action": {"default_icon": "icon.png"}}

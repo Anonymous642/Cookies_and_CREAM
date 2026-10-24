@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Rename Connections To Friends", "version": "1.0.2", "description": "Simply just changes any connections back to friends.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["https://www.roblox.com/*"], "js": ["content.js"]}]}

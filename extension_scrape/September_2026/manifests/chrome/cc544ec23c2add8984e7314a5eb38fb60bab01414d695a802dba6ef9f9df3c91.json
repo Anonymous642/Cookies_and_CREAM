@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute Random Cat", "description": "Displays a random cute cat image each time you open the popup.", "version": "1.0.0", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "90s Glory Dial Up Simulator", "version": "1.0", "description": "Simulate slow image loading on web pages", "permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["styles.css"]}], "browser_specific_settings": {"gecko": {"id": "{f8f21316-5356-4c3b-bd51-3fa47e171e01}"}}}

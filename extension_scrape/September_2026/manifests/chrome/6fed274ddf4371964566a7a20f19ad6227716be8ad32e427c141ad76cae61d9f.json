@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MathGenius - Formula Reference", "version": "1.0.0", "description": "Instantly display random essential mathematical formulas to boost your memory and learning.", "action": {"default_popup": "popup.html", "default_title": "Get a Math Formula"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Task Manager with Due Dates", "version": "1.0", "description": "Create and manage a list of tasks with due dates.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icons/icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{df0f1b5a-bc33-4e48-bade-bad260b44125}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Open New Tab on Startup", "version": "1.0", "description": "Opens a New Tab every time Firefox opens.", "permissions": ["storage"], "background": {"scripts": ["background.js"], "persistent": true}, "browser_specific_settings": {"gecko": {"id": "open-new-tab-startup@l1up.com", "data_collection_permissions": {"required": ["none"]}}}}

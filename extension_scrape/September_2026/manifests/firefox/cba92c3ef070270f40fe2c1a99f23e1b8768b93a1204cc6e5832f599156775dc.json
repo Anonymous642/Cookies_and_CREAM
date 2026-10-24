@@ -1,0 +1,1 @@
+{"description": "Removes query params from tiktok or instagram reel urls.", "manifest_version": 2, "name": "noQuery", "version": "2.1", "permissions": ["webRequest", "webRequestBlocking", "*://*.tiktok.com/*", "*://*.instagram.com/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{752eefa2-6f0e-4b4f-abdb-1c54a22fc931}"}}}

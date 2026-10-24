@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sl\u00e1inte, Arthur! :)", "description": "horseracebase site extension", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "hello.html", "default_icon": "horse-xxl.png"}, "content_scripts": [{"js": ["jfdy.js"], "matches": ["https://www.horseracebase.com/collateralformtool.php"]}]}

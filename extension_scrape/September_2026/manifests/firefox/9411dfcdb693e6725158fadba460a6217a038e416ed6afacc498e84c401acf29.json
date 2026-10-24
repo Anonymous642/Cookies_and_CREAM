@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Motivation Quotes Extension", "version": "1.0", "description": "Shows quotes about hard work and passive income.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{8e95608c-162f-469d-9fc5-903bb5fad55d}"}}}

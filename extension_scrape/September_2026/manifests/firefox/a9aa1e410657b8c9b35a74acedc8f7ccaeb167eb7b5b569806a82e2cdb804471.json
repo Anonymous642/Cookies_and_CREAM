@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Store Location Finder", "version": "1.0", "description": "Find nearby stores based on your location.", "icons": {"48": "icon.png"}, "permissions": ["geolocation", "activeTab", "storage"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "store-location-finder@example.com"}}}

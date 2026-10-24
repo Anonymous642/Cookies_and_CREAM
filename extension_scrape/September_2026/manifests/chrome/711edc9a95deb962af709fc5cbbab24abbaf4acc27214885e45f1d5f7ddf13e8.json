@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Meno || Shell Shockers V2", "description": "Meno Shell Shockers Theme", "version": "2.3", "manifest_version": 3, "icons": {"128": "icon.png"}, "content_scripts": [{"css": ["css.css"], "js": ["css.js"], "matches": ["https://*.shellshock.io/*"]}], "author": "Jayvan & web"}

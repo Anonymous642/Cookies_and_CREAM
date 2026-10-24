@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83d\udcd8 Weekly Timetable", "version": "1.0", "description": "Create and save a 5x7 study timetable.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "durakmoasishpk@hotmail.com"}}}

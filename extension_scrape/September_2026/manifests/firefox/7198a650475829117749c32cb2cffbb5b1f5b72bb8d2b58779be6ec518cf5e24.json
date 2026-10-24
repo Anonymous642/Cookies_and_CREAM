@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.0", "name": "Leads Tracker", "browser_action": {"default_popup": "index.html", "default_icon": "icon_leads_tracker.png"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{3c190572-6ba8-4209-a0d4-2c47744d2fa3}"}}}

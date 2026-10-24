@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Timetable Maker", "description": "Create, save, and view your weekly timetable.", "version": "1.0.0", "action": {"default_title": "Timetable Maker", "default_popup": "popup.html"}, "icons": {"128": "icon.png"}, "permissions": ["storage"]}

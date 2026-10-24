@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Random Password", "description": "A simple random password generator.", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "popup.html"}, "web_accessible_resources": [{"resources": ["*.tff"], "matches": ["<all_urls>"]}]}

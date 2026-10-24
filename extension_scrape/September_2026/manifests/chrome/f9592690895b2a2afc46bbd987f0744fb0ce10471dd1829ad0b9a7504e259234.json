@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "FF14 Daily War", "description": "FF14 \uc77c\uc77c\uc804\uc7a5 \ud31d\uc5c5", "version": "2.0", "action": {"default_popup": "popup.html", "default_title": "warwarwar"}, "icons": {}}

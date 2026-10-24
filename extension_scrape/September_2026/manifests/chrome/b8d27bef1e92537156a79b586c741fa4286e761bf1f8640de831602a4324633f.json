@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Compound Interest Calculator", "description": "Just a simple compound interest Calculator. Just add amount year and interest percentage and calculate :)", "version": "1.0", "action": {"default_popup": "popup.html", "default_icon": "logo.png"}, "icons": {"128": "logo.png"}}

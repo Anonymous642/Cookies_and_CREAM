@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Amazon Assistant", "version": "1.0", "description": "Quick access to Amazon deals, orders, and tracking.", "icons": {"48": "icon.png"}, "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{1a81e9ff-bfcd-4f7c-b632-b59d826147fd}"}}}

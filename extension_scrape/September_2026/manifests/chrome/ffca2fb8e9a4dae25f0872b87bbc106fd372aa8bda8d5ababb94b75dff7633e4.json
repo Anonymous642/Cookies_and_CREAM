@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CoinPanel", "version": "1.1", "description": "Real-Time Crypto Dashboard", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}, "background": {"service_worker": "background.js"}, "permissions": ["storage"]}

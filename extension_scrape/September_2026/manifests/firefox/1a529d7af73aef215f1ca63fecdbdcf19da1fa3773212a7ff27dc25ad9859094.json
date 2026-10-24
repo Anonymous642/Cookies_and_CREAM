@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LinkedIn Cleaner", "version": "0.0", "description": "Removes suggestions", "icons": {"48": "icons/linkedin.png"}, "content_scripts": [{"matches": ["*://*.linkedin.com/*"], "js": ["linkedin.js"]}], "browser_specific_settings": {"gecko": {"id": "{e1030c03-76f6-4424-ab97-1cc60f2f5733}"}}}

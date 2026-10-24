@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Slasher", "version": "1.1resigned1", "description": "Modify Selected path to relative OS", "icons": {"48": "icons/slasher.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["slasher.js"]}, "browser_specific_settings": {"gecko": {"id": "{bb670bdf-584a-4a91-863b-7340cdead3e8}"}}}

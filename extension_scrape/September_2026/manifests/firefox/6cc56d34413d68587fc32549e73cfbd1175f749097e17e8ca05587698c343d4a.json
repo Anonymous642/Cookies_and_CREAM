@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Nahi-da Ad Skip Automation", "version": "1.0", "description": "Automatically skip ads.", "icons": {"48": "icons/48.png", "64": "icons/64.png", "96": "icons/96.png", "128": "icons/128.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["script.js"]}], "applications": {"gecko": {"id": "adskip@nahi-da.com"}}}

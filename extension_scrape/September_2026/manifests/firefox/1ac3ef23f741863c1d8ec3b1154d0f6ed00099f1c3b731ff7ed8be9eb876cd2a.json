@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ldom Replacer", "version": "1.0", "description": "Replace [ldom] with a custom domain on the campaign page.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{9cdd5e9f-be9a-4ff1-9e37-e60db7effffa}"}}}

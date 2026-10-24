@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mosasaurus Deep", "version": "1.0", "description": "An interactive mosasaurus ocean scene that replaces your new tab page.", "chrome_url_overrides": {"newtab": "index.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SMWS Destillerienamen Ersetzer", "version": "1.73", "description": "Ersetzt SMWS-Destillerienummern durch Klarnamen im Shop.", "content_scripts": [{"matches": ["*://*.smws.eu/*", "*://*.smws.com/*"], "js": ["replace.js"]}], "browser_specific_settings": {"gecko": {"id": "{6ce7aa95-13f5-455a-b779-b0c16ace2750}"}}}

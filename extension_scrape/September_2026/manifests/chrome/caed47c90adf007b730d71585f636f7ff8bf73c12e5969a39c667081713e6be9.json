@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Instant Quotes", "version": "1.0.2", "manifest_version": 3, "action": {"default_popup": "popup.html", "default_icon": "logo.png"}, "description": "Instant Quotes could be short, impactful statements that encapsulate wisdom, motivation, or insight into life principles.", "icons": {"128": "logo.png"}}

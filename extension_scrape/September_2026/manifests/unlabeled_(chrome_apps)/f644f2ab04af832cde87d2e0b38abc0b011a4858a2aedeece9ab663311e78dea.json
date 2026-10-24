@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "RocketRoute", "version": "4.1", "description": "Flight Planning and Flight Plan Filing", "icons": {"128": "rricon.png"}, "app": {"urls": ["https://fly.rocketroute.com/"], "launch": {"web_url": "https://fly.rocketroute.com/"}}, "permissions": ["unlimitedStorage", "notifications"]}

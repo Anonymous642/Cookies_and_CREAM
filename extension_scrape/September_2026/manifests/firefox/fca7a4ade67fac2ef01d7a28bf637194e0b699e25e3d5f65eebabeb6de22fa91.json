@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Crash Roblox", "version": "1.0", "description": "Crashs the site.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.roblox.com/*"], "js": ["crasher.js"]}], "browser_specific_settings": {"gecko": {"id": "{a3f41a2f-9d88-4fc8-954c-a5ed2cd462a9}"}}}

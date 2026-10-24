@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Putobilizador", "version": "1.0", "description": "A\u00f1ade variaciones de la palabra \"puto\" al texto de tu navegador", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["puto.js"]}]}

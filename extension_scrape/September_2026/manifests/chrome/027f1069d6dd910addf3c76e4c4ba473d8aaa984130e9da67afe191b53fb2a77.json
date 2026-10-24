@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ClipboardPaste - copy all urls to clipboard", "version": "1.4.1", "permissions": ["tabs", "clipboardWrite"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html", "default_icon": "logo.png"}, "icons": {"48": "logo.png"}}

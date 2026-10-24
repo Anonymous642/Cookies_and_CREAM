@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "king33g.org", "version": "1.0", "description": "Extension for king33g.org", "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "king33g.org@extension", "strict_min_version": "140.0", "data_collection_permissions": {"required": ["none"]}}}}

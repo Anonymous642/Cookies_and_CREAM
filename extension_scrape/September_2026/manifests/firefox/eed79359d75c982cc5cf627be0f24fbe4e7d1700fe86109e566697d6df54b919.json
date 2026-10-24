@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Bosanski Rje\u010dnik (Bosnian Dictionary)", "version": "1.0", "description": "Spell-checking dictionary for Bosnian language.", "author": "Mirza Sulji\u0107", "browser_specific_settings": {"gecko": {"id": "mirza.suljic.ba@gmail.com"}}, "dictionaries": {"bs": "bs-BA.dic"}}

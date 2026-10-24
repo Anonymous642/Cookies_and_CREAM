@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Coin Flip", "version": "1.0", "description": "Simulates a coin flip, displaying 'Heads' or 'Tails' with an animation or emoji.", "action": {"default_popup": "popup.html", "default_icon": "coin_flip.png"}, "icons": {"128": "coin_flip.png"}, "browser_specific_settings": {"gecko": {"id": "aanitacalabresedvbg385@hotmail.com"}}}

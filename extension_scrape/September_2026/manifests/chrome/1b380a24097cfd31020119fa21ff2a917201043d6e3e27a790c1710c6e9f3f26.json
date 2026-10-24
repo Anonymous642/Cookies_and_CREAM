@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "For Voldie - Job Catcher", "version": "1.0", "description": "One-click save jobs to the Job Tracker.", "action": {"default_popup": "popup.html"}, "permissions": ["activeTab", "scripting"], "host_permissions": ["https://voldie-backend.onrender.com/*", "http://localhost:3000/*"]}

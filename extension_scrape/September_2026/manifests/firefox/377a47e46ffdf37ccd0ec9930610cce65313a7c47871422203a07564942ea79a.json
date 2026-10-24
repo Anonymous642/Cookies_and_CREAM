@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "__MSG_extensionName__", "description": "__MSG_extensionDescription__", "version": "1.0", "icons": {"32": "icons/logo_32.png", "64": "icons/logo_64.png"}, "chrome_url_overrides": {"newtab": "tabs.html"}, "browser_specific_settings": {"gecko": {"strict_min_version": "112.0", "id": "{93876bc7-f2fe-4472-aa2b-4d82c8e4d368}"}}}

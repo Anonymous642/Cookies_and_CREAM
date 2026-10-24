@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Rate My Professors x Courses@SLU Injector", "version": "1.0", "permissions": ["scripting"], "host_permissions": ["https://courses.slu.edu/*"], "content_scripts": [{"matches": ["https://courses.slu.edu/*"], "js": ["inject.js"]}]}

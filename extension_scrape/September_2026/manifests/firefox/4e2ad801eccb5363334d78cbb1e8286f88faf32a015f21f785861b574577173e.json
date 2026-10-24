@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Roundless", "version": "1.0", "description": "Remove all round borders from every website.", "content_scripts": [{"matches": ["<all_urls>"], "css": ["roundless.css"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{1fc9ad97-411c-4748-9d11-bafd48a9de53}"}}}

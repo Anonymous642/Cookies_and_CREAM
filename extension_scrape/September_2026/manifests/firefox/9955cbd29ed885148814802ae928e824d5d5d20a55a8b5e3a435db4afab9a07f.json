@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Concentrate: don't let the internet rule you", "version": "1.0", "description": "Internet is distracting", "icons": {"512": "brain.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "t29otis480zx@gmail.com"}}}

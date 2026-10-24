@@ -1,0 +1,1 @@
+{"name": "Search in Jisho", "version": "1.0", "manifest_version": 2, "permissions": ["contextMenus", "tabs"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "background": {"scripts": ["menu.js"]}, "icons": {"16": "128.png"}, "browser_specific_settings": {"gecko": {"id": "{272080e5-cc10-4100-94da-8ffdc50f1353}"}}}

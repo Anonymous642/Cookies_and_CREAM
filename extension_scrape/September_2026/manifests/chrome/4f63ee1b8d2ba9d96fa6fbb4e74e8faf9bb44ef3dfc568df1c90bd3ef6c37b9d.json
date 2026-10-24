@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Lows Adventures Unblocked", "version": "1.0", "description": "Monitor your progress and utilize game tools straight from your browser.", "icons": {"48": "icon.png", "128": "icon.png"}, "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Filmweb Filtr Gatunk\u00f3w", "version": "0.10", "description": "Ukrywaj niechciane gatunki film\u00f3w w wynikach wyszukiwania na Filmweb.pl.", "icons": {"128": "icon128.png"}, "content_scripts": [{"matches": ["*://*.filmweb.pl/*"], "js": ["content.js"], "css": ["styles.css"]}]}

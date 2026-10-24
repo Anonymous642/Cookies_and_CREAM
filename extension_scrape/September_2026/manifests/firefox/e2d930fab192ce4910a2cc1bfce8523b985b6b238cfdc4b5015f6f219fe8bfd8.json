@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "TinyGIFPlayer", "version": "1.0", "description": "GIF player with timeline.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "tinygifplayer@example.com", "data_collection_permissions": {"required": ["none"]}}}}

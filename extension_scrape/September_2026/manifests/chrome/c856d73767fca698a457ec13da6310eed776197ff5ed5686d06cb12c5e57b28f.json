@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "2Panel", "version": "3.0", "manifest_version": 3, "action": {"default_icon": "icon.png"}, "background": {"service_worker": "background.js"}, "permissions": ["scripting", "activeTab"], "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}

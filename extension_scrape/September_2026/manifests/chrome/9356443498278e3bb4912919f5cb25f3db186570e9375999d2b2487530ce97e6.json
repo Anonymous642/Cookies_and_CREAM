@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Game Deals", "description": "Find the best deals on games", "version": "1.0.0", "action": {"default_popup": "index.html"}, "icons": {"32": "icon.png"}}

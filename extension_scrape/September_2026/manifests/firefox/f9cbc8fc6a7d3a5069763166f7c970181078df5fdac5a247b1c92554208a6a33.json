@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Stress Level Checker", "version": "1.0", "description": "Self-assess your stress level daily in a new tab.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["storage"], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{a3e3e1a3-11f1-42ba-a8e7-8dca1a3f5475}"}}}

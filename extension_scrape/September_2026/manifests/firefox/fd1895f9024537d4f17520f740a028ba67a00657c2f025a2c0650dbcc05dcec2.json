@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Trivia Quiz on New Tab", "version": "1.0", "description": "Displays a random trivia quiz each time you open a new tab.", "icons": {"48": "icon.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "trivia-quiz-on-new-tab@example.com"}}}

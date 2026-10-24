@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "eBay Search", "version": "1.0", "permissions": ["activeTab", "contextMenus"], "background": {"service_worker": "background.js"}, "description": "Search eBay with the 80 character limit in mind, to the last full word.", "icons": {"16": "icon.png"}}

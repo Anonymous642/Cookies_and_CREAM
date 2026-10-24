@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Surcouche calculatrice champs", "version": "1.1", "description": "Calcul arithm\u00e9tique s\u00e9curis\u00e9 dans un champ de saisie. Encadrer la saisie par '**'. Saisir **12+13** retourne 25.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["math.js", "content.js"]}]}

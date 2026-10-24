@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "OfficeFlex", "version": "1.2", "description": "Smart Office Converter Extension", "action": {"default_popup": "popup.html", "default_title": "OfficeFlex Converter"}, "permissions": [], "host_permissions": ["http://localhost:5000/*", "https://*.loca.lt/*"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AI-Powered Viral Hook Generator Pro", "version": "1.3", "description": "Generate high-converting viral hooks for LinkedIn and X (Twitter) using advanced AI models.", "permissions": ["storage"], "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.0", "name": "CopyToClip For Stackoverflow", "content_scripts": [{"matches": ["*://*.stackoverflow.com/*"], "js": ["copyToClip.js"]}], "browser_action": {"default_icon": {"19": "copy-19.png", "38": "copy-38.png"}}, "browser_specific_settings": {"gecko": {"id": "{fa81e875-4a84-4219-93f4-5ac5848fdf75}"}}}

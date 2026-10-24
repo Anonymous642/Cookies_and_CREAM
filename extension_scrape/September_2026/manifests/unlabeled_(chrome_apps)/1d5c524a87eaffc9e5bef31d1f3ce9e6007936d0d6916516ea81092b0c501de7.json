@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MolView", "manifest_version": 2, "version": "2.4", "description": "MolView is an Open-Source, intuitive web-application to make science and education more awesome!", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "app": {"launch": {"web_url": "http://molview.org/"}}}

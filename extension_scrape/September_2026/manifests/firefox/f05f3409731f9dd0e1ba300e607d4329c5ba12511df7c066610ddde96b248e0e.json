@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Whoogle Search Helper", "version": "1.0", "description": "Aide \u00e0 l'ajout du moteur de recherche Whoogle dans Firefox.", "icons": {"48": "icon48.png", "96": "icon96.png"}, "action": {"default_title": "Ajouter Whoogle \u00e0 Firefox", "default_popup": "help.html"}, "browser_specific_settings": {"gecko": {"id": "whoogle-firefox-helper@local"}}}

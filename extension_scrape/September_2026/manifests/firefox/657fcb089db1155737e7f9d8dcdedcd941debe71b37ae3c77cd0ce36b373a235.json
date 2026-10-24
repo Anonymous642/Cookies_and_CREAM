@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Right Click Composer", "version": "1.0", "description": "Generate an image from selected text using Stable Diffusion AI.", "permissions": ["contextMenus"], "background": {"scripts": ["background.js"], "persistent": false}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{22569f52-439e-492b-b080-f6fb8c628d0c}"}}}

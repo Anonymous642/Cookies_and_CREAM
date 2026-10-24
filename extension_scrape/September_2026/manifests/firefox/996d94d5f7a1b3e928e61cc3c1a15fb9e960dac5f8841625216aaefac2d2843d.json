@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Personal Bookmark Dashboard", "version": "1.0", "description": "Stylish custom dashboard for bookmarks.", "permissions": ["bookmarks"], "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{13eb726e-2910-46da-b553-244688226fd9}"}}}

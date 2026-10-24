@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Youtube Bouncer", "version": "1.0", "description": "Only allows specified accounts to be shown", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["block_yt.js"]}], "browser_specific_settings": {"gecko": {"id": "your.extension12696980123@example.com"}}}

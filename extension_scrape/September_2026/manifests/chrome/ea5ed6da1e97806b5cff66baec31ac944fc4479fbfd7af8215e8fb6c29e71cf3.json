@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Profilemate - Instagram Marketing Tool", "description": "NO.1 Instagram Marketing Tool Chrome Extension Online", "version": "1.0.1", "icons": {"128": "icon.png"}, "action": {"default_icon": "icon.png", "default_popup": "popup.html"}}

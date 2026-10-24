@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DeXify Twitter", "version": "1.0", "description": "Restores Twitter's bird-themed branding.", "icons": {"48": "icons/deXify-48.png"}, "content_scripts": [{"js": ["deXify.js"], "matches": ["*://twitter.com/*"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{b22cce29-424f-4a52-a431-784208bb398b}"}}}

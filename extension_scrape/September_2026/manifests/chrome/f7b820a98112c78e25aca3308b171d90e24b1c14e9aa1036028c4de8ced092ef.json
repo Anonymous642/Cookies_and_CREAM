@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HostHopper", "description": "HostHopper lets you easily switch between environments. Quickly hop between dev, staging, and prod!", "version": "1.0.0", "action": {"default_popup": "index.html", "default_icon": "icon.png"}, "permissions": ["activeTab", "storage"]}

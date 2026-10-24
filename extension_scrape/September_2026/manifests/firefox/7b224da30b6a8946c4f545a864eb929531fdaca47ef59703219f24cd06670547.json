@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SOS to MGA Converter", "version": "1.0", "description": "Convert Somali Shilling (SOS) to Malagasy Ariary (MGA).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert SOS to MGA"}, "browser_specific_settings": {"gecko": {"id": "{4bc92a43-20ca-4cb0-85bf-3fcab1be9a8b}"}}}

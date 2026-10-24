@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TST Promote Recent Tab", "version": "0.2.0", "description": "Recently clicked or opened tabs and their tree will be promoted to the top", "permissions": ["tabs", "storage"], "browser_specific_settings": {"gecko": {"id": "{6be924ee-c176-411b-a64b-81077e211368}"}}, "background": {"scripts": ["background.js"]}}

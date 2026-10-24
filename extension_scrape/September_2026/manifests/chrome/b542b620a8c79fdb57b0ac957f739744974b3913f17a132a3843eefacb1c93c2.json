@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CLO Analysis Tool PRO", "version": "2.5", "description": "Full-page Academic Quality Assurance Tool with Excel sync and PDF reporting.", "permissions": ["storage"], "action": {"default_title": "Open CLO Tool"}, "background": {"service_worker": "background.js"}}

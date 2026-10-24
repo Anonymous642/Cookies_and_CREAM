@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Go With Phone", "description": "This extension creates a qrcode for the current url.", "version": "1.1resigned1", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab", "tabs"], "browser_specific_settings": {"gecko": {"id": "{b1616cdd-b54f-43d7-85a2-e3e33c11e899}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Myopia Report", "version": "1.9", "permissions": ["downloads", "storage"], "content_scripts": [{"matches": ["https://*/app/MyopiaControl/*"], "js": ["content.js", "html2canvas.min.js", "config.js"], "css": ["styles.css"]}], "background": {"service_worker": "background.js"}}

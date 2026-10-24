@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Skribbl Qol", "version": "2.0", "description": "Adds a bunch of Qualities of life to skribbl", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://skribbl.io/*", "https://skribbl.io/"], "js": ["index.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{85754f63-23d5-4c5f-a408-50d8134fcb44}"}}}

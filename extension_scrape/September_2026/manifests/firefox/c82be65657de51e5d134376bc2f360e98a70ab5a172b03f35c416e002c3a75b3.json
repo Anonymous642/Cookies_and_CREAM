@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dark Kleinanzeigen", "version": "1.0", "description": "Macht kleinanzeigen.de dunkel.", "browser_specific_settings": {"gecko": {"id": "dark-kleinanzeigen@example.com", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"matches": ["*://*.kleinanzeigen.de/*"], "css": ["dark.css"]}]}

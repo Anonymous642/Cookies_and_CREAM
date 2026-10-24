@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Motivations-Zitat", "version": "1.0", "description": "Erhalte ein Zitat und einen Affiliate-Link, wenn du den Browser \u00f6ffnest!", "permissions": ["notifications", "storage"], "background": {"scripts": ["background.js"], "service_worker": "background.js"}, "browser_specific_settings": {"gecko": {"id": "{8953c6fd-cf65-4b2d-83d9-7739ae15c5f5}"}}}

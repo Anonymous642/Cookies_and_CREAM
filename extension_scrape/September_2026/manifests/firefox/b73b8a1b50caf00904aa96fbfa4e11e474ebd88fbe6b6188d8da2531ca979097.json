@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Timer", "version": "1.0", "description": "Set a timer to auto-close tabs after a defined time.", "permissions": ["tabs"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{6e394002-0264-4575-943d-dfc1765d8f05}"}}}

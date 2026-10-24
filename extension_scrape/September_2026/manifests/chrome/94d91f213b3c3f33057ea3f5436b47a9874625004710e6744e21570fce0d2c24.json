@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "hot cat pics", "description": "a extension to show hot cat pics when u are bored.", "version": "1.0", "manifest_version": 3, "background": {"service_worker": "service-worker.js"}, "action": {"default_title": "cute-cato"}, "side_panel": {"default_path": "main.html"}, "permissions": ["sidePanel"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DigikabuWeb", "version": "2.0", "description": "Des verbesseres Design des Digikabu.", "permissions": [], "host_permissions": ["*://digikabu.de/*"], "content_scripts": [{"matches": ["*://digikabu.de/*"], "js": ["content.js"], "css": ["bea.css"], "run_at": "document_end"}]}

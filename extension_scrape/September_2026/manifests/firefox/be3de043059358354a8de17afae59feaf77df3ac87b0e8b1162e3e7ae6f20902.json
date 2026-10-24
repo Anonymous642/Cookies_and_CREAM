@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MZN to RWF Converter", "version": "1.0", "description": "Convert Mozambican Metical (MZN) to Rwandan Franc (RWF).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert MZN to RWF"}, "browser_specific_settings": {"gecko": {"id": "{3887ab60-d462-41df-a69a-6576929284f5}"}}}

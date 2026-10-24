@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Get your quote", "version": "1.0.0", "description": "get a random quote from your favourite random famous person", "manifest_version": 3, "author": "Sampurna Chapagain", "action": {"default_popup": "index.html", "default_title": "Get your quote"}, "icons": {"128": "logo.png"}}

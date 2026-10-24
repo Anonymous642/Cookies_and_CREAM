@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Rickroll Roulette", "version": "1.0", "description": "Chance aleatoria de cair num rickroll", "permissions": ["webNavigation"], "host_permissions": ["<all_urls>"], "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Vivo Video Src", "version": "1.2.3", "description": "Adds a Button to copy the source of the Vivo video to the clipboard", "icons": {"128": "icons/icon128.png", "512": "icons/icon512.png"}, "content_scripts": [{"matches": ["*://*.vivo.sx/*"], "js": ["url.js"]}]}

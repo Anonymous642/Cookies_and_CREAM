@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "nhacaiuk88ph", "version": "1.0", "description": "Firefox extension \u2013 AMO compliant", "browser_specific_settings": {"gecko": {"id": "nhacaiuk88ph@amo", "data_collection_permissions": {"required": ["none"], "optional": []}}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Block GlobalProtect Welcome Page", "description": "Auto-closes the repeated GPWelcome.html tab", "version": "1.0", "icons": {"128": "icon.png"}, "permissions": ["tabs"], "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "tpb-x", "version": "1.1resigned1", "description": "Remove TPB ads and highlight new movie titles", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*.thepiratebay.org/*", "*://*.uj3wazyk5u4hnvtk.onion/*"], "js": ["tpb-x.js"]}], "browser_specific_settings": {"gecko": {"id": "{3f71d61a-02a9-40bc-93c6-45485a883078}"}}}

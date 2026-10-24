@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Weather Activity Suggester", "version": "1.0.0", "description": "Select the weather and get a perfect activity suggestion for your day!", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

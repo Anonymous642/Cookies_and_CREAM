@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "password toggler anywhere", "version": "1.0", "description": "Toggle show/hide password fields on any webpage", "icons": {"64": "icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

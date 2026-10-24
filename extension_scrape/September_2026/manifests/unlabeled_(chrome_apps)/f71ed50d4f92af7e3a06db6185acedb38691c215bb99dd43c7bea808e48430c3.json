@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Stupid Ball Game", "description": "Push all balls outside the box ASAP to win the game. Good Luck & Have Fun", "version": "3.14", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "sbg_16.png", "128": "sbg_128.png"}}

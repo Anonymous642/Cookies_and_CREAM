@@ -1,0 +1,1 @@
+{"name": "UUID Generator", "description": "Tools yang akan menggenerate UUID yang siap kamu pakai", "version": "0.0.1", "manifest_version": 3, "action": {"default_popup": "index.html"}, "icons": {"128": "./SystemUiconsCode.svg"}, "browser_specific_settings": {"gecko": {"strict_min_version": "91.1.0", "id": "{87a68768-ccb0-4748-98b3-4163cf470400}"}}}

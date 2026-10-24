@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Open Mediumurr", "version": "1.0", "description": "Opens the current tab's URL in a new tab with a modified URL.", "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icons/medium.png", "96": "icons/medium.png"}, "browser_specific_settings": {"gecko": {"id": "medium-context-2@hyperlycloud.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "\u3064\u3044\u3063\u305f\u30fc\u691c\u7d22\u304f\u3093", "version": "1.2.5", "description": "Search selected text on Twitter from the context menu.", "permissions": ["contextMenus"], "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Note Taker", "version": "1.0", "description": "Take and save notes", "permissions": ["activeTab", "storage"], "browser_action": {"default_popup": "popup.html", "default_title": "Note Taker"}, "browser_specific_settings": {"gecko": {"id": "{63eca773-f34d-4477-8671-d6f964362f0f}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Short Controls", "version": "1.0.2", "description": "Adds controls to shorts so that you can pick a point on the video.", "permissions": ["tabs", "activeTab"], "content_scripts": [{"matches": ["https://*.youtube.com/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{db83f0fb-9b5a-4fb3-a8fe-8c9afcc8a2a3}"}}}

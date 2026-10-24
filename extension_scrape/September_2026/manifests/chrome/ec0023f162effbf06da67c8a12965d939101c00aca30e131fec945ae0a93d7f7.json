@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Lunar Date Today", "version": "1.0.0", "description": "Instantly see today's lunar date (Vietnamese lunisolar) in a compact popup. Works offline.", "action": {"default_title": "Lunar Date Today", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

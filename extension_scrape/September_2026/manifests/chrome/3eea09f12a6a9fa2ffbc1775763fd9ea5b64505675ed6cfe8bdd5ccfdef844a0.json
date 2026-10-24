@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "0.2", "name": "pkill", "description": "manifest desc", "permissions": ["tabs"], "background": {"service_worker": "./background.js"}, "icons": {"128": "/assets/img/pwa-192x192.png"}, "action": {"default_popup": "/documents/popup/dist/index.html", "default_title": "pkill"}}

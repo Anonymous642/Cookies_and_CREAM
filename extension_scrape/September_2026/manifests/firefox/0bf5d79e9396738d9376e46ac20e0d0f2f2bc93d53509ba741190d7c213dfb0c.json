@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.1resigned1", "name": "Goolag", "description": "Google's real logo based on their fascist ideology", "content_scripts": [{"matches": ["https://www.google.com/*"], "js": ["content.js"]}], "web_accessible_resources": ["*/google-goolag.png"], "browser_specific_settings": {"gecko": {"id": "{a5df87cd-284a-4f48-992d-696b28b0af59}"}}}

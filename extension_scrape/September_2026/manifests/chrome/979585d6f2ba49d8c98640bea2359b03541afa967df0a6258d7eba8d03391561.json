@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Daily Doer", "description": "Repeat daily tasks", "version": "1.0", "manifest_version": 3, "chrome_url_overrides": {"newtab": "newtab/index.html"}, "icons": {"128": "assets/icon128.png"}, "permissions": ["storage"]}

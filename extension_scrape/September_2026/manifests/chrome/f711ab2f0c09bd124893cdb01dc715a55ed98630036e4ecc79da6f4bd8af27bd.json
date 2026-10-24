@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Prompt Quick", "version": "1.0.1", "description": "\ud559\uc5c5 \ubc0f \ube44\uc988\ub2c8\uc2a4\ub97c \uc704\ud55c \ucd5c\uc801\uc758 AI \ud504\ub86c\ud504\ud2b8 \uc0dd\uc131\uae30", "action": {"default_popup": "popup.html"}, "permissions": ["clipboardWrite"]}

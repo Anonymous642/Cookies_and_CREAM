@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Kim Autoplay", "version": "0.2.1resigned1", "description": "Auto-advance videos", "content_scripts": [{"run_at": "document_end", "js": ["content.js"], "matches": ["http://kimcartoon.me/Cartoon/*/*", "http://kissanime.ru/Anime/*/*"]}], "browser_specific_settings": {"gecko": {"id": "{10f83993-5d3e-490d-bb60-13d2fe94e7b7}"}}}

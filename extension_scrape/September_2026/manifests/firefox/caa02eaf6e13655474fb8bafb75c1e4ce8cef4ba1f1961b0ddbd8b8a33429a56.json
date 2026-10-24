@@ -1,0 +1,1 @@
+{"name": "AmazonProtector", "version": "1.0", "content_scripts": [{"matches": ["<all_urls>"], "js": ["main.js"]}], "icons": {"16": "icon16.png", "48": "icon48.png"}, "browser_action": {"default_icon": "icon16.png", "default_title": "JSamazonaddressmasker"}, "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{693f5101-62d1-4906-a989-a7c2af451076}"}}}

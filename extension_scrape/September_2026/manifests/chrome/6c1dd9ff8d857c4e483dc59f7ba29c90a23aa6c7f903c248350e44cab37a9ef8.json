@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Countdown to Rasta Run 2", "short_name": "RR2-CD", "description": "Countdown to Rasta Run 2", "version": "1.2", "minimum_chrome_version": "88", "icons": {"128": "css/res/icon.png"}, "chrome_url_overrides": {"newtab": "RastaRun2Countdown.html"}}

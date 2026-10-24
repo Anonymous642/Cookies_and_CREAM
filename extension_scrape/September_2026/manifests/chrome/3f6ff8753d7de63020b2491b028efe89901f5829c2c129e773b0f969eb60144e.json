@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Lucky Card Draw", "description": "Draw a random playing card instantly from the browser popup.", "version": "1.0", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

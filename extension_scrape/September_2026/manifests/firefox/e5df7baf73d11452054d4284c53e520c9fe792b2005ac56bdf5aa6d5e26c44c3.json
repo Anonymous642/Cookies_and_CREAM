@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Sounds", "version": "1.0", "description": "Red\u0103 sunete c\u00e2nd deschizi sau \u00eenchizi taburi.", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "web_accessible_resources": ["window-new.wav", "window-close.wav"], "browser_specific_settings": {"gecko": {"id": "{a7e865ac-8856-4bdc-9a5f-3a884c651267}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Name Fortune (Fun)", "version": "1.0.0", "description": "A modern popup that generates fun name fortunes and playful scores.", "action": {"default_title": "Name Fortune", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

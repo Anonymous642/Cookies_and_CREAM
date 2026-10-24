@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SST to NPT Timezone Converter", "version": "1.0", "description": "Convert time from Samoa Standard Time (SST) to Nepal Time (NPT).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert SST to NPT"}, "browser_specific_settings": {"gecko": {"id": "{c167d211-5b37-4233-ad62-bf54f6ed3d65}"}}}

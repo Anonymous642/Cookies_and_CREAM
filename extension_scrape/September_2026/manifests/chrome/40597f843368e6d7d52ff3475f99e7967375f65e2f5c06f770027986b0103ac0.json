@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PDF Signer & Annotator", "version": "1.0", "description": "Sign and annotate PDF files in your browser.", "icons": {"128": "icon.png"}, "permissions": ["activeTab", "storage"], "background": {"service_worker": "background.js"}, "action": {"default_title": "Open PDF Editor"}}

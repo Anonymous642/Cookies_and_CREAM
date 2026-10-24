@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "\ud83c\udf83 Artistic Name Generator", "version": "1.0", "description": "Create spooky, stylish, and cool nicknames with special characters!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TTWebView devtools", "version": "0.0.1", "minimum_chrome_version": "88.0", "description": "TTWebView devtools for developer", "devtools_page": "adptor.html", "author": "zhanghao.m", "icons": {"128": "logo.png"}, "manifest_version": 3}

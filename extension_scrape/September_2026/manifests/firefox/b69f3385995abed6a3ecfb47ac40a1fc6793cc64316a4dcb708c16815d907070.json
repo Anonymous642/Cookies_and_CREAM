@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83c\udfae Gamer Username Generator", "version": "1.0", "description": "Generate random gamer usernames with emoji flair!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "alyanxtitret0e@hotmail.com"}}}

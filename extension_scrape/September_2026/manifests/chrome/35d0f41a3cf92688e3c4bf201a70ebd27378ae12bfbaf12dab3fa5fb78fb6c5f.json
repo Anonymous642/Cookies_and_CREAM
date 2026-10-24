@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "APA Citation Generator", "version": "2.0", "description": "Generate APA citations from URLs", "action": {"default_popup": "popup.html", "default_icon": {"16": "images/icon.jpg"}}}

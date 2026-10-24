@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hello World Addon", "version": "1.0", "description": "A very simple Firefox extension.", "background": {"scripts": ["background.js"]}, "browser_action": {"default_title": "Say Hello"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{41cb4f34-5db2-4e79-98e6-9042da4e9be0}"}}}

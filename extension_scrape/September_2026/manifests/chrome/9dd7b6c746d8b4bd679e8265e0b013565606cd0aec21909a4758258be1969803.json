@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Spine HRMS Stats", "description": "Helps calculate average attendance duration", "version": "1", "manifest_version": 3, "host_permissions": ["https://hr.carwale.com/spinehrms/Atten/*"], "content_scripts": [{"matches": ["https://hr.carwale.com/spinehrms/Atten/*"], "js": ["myscript.js"]}]}

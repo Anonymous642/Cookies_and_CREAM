@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83c\udf3f Leafy Countdown Timer", "version": "1.0", "description": "Set a minute countdown with a nature-inspired mini clock UI.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "dawnarhymasc64@hotmail.com"}}}

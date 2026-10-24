@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "The Value of Being True to Yourself", "version": "1.0", "description": "Inspiring quotes about the power of authenticity and self-honesty.", "icons": {"128": "images/yous-logo.png"}, "action": {"default_popup": "index.html", "default_icon": "images/yous-logo.png"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Memrise to Flip Exporter", "version": "1.0", "action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}, "content_scripts": [{"matches": ["*://community-courses.memrise.com/community/course/*"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GG Translate Additional Features", "manifest_version": 3, "version": "1.0.0", "description": "Auto remove old image when drag new, quick paste image button.", "content_scripts": [{"matches": ["https://translate.google.com/*"], "js": ["./scripts/gg_trans.js"]}]}

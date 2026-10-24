@@ -1,0 +1,1 @@
+{"name": "URLx Link Shortener", "description": "URLx Link Shortener is a free tool that allows you to shorten any link.", "version": "1.1", "manifest_version": 2, "action": {"default_popup": "x.html", "default_icon": "redirect.png"}, "browser_specific_settings": {"gecko": {"id": "{8ba4fca6-91bc-4b8a-92f0-0417719d560d}"}}}

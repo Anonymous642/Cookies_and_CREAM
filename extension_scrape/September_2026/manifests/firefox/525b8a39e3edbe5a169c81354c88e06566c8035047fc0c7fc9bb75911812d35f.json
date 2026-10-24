@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "no-youtube-ai", "version": "1.0", "description": "Removes the AI summary section from Youtube video pages.", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["remove-ai.js"]}], "browser_specific_settings": {"gecko": {"data_collection_permissions": {"required": ["websiteContent"]}, "id": "{9eacc0bb-de70-4dee-8eaa-d5fa9b49395c}"}}}

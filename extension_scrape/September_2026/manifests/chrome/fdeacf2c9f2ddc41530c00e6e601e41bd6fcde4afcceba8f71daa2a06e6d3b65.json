@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Unix Timestamp Converter", "version": "1.0", "description": "Converts Unix timestamps to local time.", "icons": {"128": "./logo.png"}, "action": {"default_popup": "popup.html", "default_title": "Unix Timestamp Converter"}}

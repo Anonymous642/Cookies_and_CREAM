@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "4Anime iFrame Remover", "version": "1.0.0", "description": "Removes all iframes from the 4Anime website, improving page performance and security", "content_scripts": [{"matches": ["https://4anime.to/*"], "js": ["app.js"]}], "browser_specific_settings": {"gecko": {"id": "{513a1497-fcc5-40a4-b32e-8c7fe34e636b}"}}}

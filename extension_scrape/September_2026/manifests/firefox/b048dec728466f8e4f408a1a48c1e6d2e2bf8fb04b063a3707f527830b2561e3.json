@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MEPCO Bill Checker", "version": "1.0", "description": "Quick access to check your MEPCO bill.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icons/icon-48.png"}}, "icons": {"48": "icons/icon-48.png"}, "browser_specific_settings": {"gecko": {"id": "{2a44e4f3-0cfa-4495-8042-70f2de6ae43b}"}}}

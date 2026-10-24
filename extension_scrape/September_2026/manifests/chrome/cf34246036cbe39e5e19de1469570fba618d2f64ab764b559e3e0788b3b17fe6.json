@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GWA Calculator", "version": "1.0", "description": "Quickly calculate your General Weighted Average (GWA) from your browser.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": []}

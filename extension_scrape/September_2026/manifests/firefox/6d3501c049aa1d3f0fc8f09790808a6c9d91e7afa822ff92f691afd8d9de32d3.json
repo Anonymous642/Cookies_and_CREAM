@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bosh Lock Password", "version": "1.0", "description": "Guide to change fingerprint lock password for Bosh.", "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "bosh_lock_password@addon.dev"}}}

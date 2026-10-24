@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "stealify", "version": "1.0", "description": "Makes IMDB urls redirect to vidfast.pro", "content_scripts": [{"matches": ["*://*.imdb.com/*"], "js": ["stealify.js"]}], "browser_specific_settings": {"gecko": {"id": "{d645e519-8763-4e98-8582-12e39891c06e}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Heading Tag Checker", "version": "1.0", "description": "Checks H1\u2013H6 tags for text and closing tag", "action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}, "permissions": ["scripting", "activeTab"]}

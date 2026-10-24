@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Lenguaje Inclusivo Para Todes", "version": "1.0", "manifest_version": 3, "description": "Esta extensi\u00f3n reemplaza el lenguaje sexista en las p\u00e1ginas web.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content_script.js"]}]}

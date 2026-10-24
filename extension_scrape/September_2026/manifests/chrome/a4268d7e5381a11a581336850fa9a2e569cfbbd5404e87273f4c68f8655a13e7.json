@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "What Should I Eat Tonight?", "description": "Quick dinner menu suggestions when you can't decide what to eat.", "version": "1.0", "action": {"default_popup": "popup.html", "default_title": "Dinner Menu Ideas"}, "icons": {"128": "icon128.png"}}

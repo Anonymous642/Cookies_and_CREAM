@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Neon Reading Time", "version": "1.0.0", "description": "Estimate reading time for selected text or the current page.", "action": {"default_title": "Neon Reading Time", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}, "permissions": ["activeTab", "scripting"]}

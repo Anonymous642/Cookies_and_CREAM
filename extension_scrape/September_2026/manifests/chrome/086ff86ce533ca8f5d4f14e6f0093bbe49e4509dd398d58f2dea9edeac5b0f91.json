@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Substack Stats Calculator", "version": "1.0", "description": "Calculate total views from your Substack traffic stats page", "permissions": ["activeTab", "scripting"], "host_permissions": ["https://*.substack.com/*"], "action": {"default_popup": "popup.html"}}

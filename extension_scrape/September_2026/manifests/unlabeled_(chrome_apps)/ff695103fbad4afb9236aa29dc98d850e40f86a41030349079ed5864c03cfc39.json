@@ -1,0 +1,1 @@
+{"app": {"launch": {"web_url": "http://gamelandvn.com?utm_source=chromeapp"}, "urls": ["http://gamelandvn.com"]}, "description": "Read gaming news in gamelandvn.com", "icons": {"128": "icon_128.png"}, "manifest_version": 2, "name": "GameLandVN", "update_url": "http://clients2.google.com/service/update2/crx", "version": "1.0"}

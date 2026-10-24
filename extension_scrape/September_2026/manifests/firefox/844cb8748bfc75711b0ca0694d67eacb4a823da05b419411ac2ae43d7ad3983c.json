@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MoodMixer", "version": "1.0", "description": "Select an emoji to open a playlist URL mapped to that emotion. User can map emojis to URLs and open in new tab or small overlay window.", "permissions": [], "browser_action": {"default_title": "MoodMixer", "default_popup": "popup.html"}, "applications": {"gecko": {"id": "moodmixer@example.com"}}}

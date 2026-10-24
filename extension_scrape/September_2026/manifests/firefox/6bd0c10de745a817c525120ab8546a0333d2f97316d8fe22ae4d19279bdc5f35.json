@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Apple Music Lyrics Fullscreen", "version": "1.0", "description": "Force Apple Music lyrics modal to use fullscreen on vertical monitors.", "content_scripts": [{"matches": ["https://music.apple.com/*"], "js": ["content.js"], "css": ["content.css"]}], "browser_specific_settings": {"gecko": {"id": "{a0ef0822-239c-431f-a8b1-1d3bb1df18d3}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Filefew Exact Target Compressor", "version": "1.0.0", "description": "Compress PDF files locally in your browser. 100% private WebAssembly engine.", "action": {"default_popup": "popup.html", "default_title": "Filefew Exact Target Compressor"}, "permissions": ["storage"]}

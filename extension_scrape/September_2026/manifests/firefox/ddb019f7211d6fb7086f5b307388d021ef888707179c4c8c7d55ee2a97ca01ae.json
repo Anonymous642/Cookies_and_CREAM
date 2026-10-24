@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Alinear Texto", "version": "1.2", "description": "Borra los saltos de linea en el traductor de google.", "icons": {"48": "Icons/48.png"}, "content_scripts": [{"matches": ["*://translate.google.com/*", "*://translate.google.com.ar/*"], "js": ["cambia_texto.js"]}]}

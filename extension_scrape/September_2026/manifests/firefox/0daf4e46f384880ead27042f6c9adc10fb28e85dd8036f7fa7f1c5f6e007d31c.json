@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Emoji", "description": "Collection of more than 1000 emojis. Just select, copy and paste.", "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "version": "1.0", "browser_action": {"default_popup": "index.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{d85addec-0494-4198-888c-5b073c36a24c}"}}}

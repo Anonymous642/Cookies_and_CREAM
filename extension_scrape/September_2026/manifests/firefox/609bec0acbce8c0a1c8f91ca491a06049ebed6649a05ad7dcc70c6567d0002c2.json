@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\u2728 Zodiac Nickname Generator", "version": "1.0", "description": "Enter your zodiac sign and get a sparkly random nickname!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "calladar5160@outlook.com"}}}

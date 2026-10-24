@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1", "name": "bicycle", "chrome_url_overrides": {"newtab": "index.html"}, "description": "is a single or double human-powered vehicle", "manifest_version": 3}

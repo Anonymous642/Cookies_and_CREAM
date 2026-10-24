@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Spoty-Copy | Copy Arist n Song on Web Spotify", "version": "1.0", "permissions": ["clipboardWrite"], "content_scripts": [{"matches": ["*://*.spotify.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "spoty.copy@eucaly.me", "data_collection_permissions": {"required": ["none"], "optional": []}}}}

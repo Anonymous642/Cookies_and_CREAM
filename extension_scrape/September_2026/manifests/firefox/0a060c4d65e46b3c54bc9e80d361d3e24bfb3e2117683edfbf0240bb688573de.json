@@ -1,0 +1,1 @@
+{"description": "Hide all sponsored ads from Facebook.", "manifest_version": 2, "name": "Stop FB Ads", "version": "1.1resigned1", "homepage_url": "https://mahinjm.me", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["hideads.js"]}], "browser_specific_settings": {"gecko": {"id": "{39f35c11-6aad-414a-a80a-67a091b6c5de}"}}}

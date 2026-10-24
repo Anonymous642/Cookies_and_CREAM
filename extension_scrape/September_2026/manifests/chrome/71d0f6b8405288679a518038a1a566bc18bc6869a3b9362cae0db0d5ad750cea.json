@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Calculadora LB", "description": "Calculadora estilo iPhone by Lion Business Tecnologia", "version": "1.0.0", "icons": {"16": "logo.png", "32": "logo.png", "48": "logo.png", "128": "logo.png"}, "action": {"default_title": "Calculadora LB", "default_popup": "popup.html"}}

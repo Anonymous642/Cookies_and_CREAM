@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "24 h analog watch", "version": "1.0.6", "description": "simple analog clock with one hand", "manifest_version": 3, "author": "Gergely Korinek", "action": {"default_popup": "index.html", "default_title": "24 h analog clock"}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

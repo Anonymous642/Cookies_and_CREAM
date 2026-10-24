@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PaneCrash", "version": "1.0", "icons": {"128": "icon.png"}, "action": {"default_title": "Open Sandbox", "default_icon": {"128": "icon.png"}}, "background": {"service_worker": "background.js"}}

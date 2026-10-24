@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Chess Rating Highlighter", "version": "1.0", "description": "Colorizes players according to their rating", "content_scripts": [{"matches": ["https://www.chess.com/*"], "js": ["content.js"]}]}

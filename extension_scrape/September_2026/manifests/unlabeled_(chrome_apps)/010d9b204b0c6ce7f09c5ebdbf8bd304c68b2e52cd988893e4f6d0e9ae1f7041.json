@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ktra", "description": "The Lightweight Task Tracker.", "version": "0.0.2", "app": {"background": {"scripts": ["js/background.js"]}}, "permissions": ["webview"], "icons": {"48": "image/icon_48.png", "128": "image/icon_128_transparent.png"}, "offline_enabled": true}

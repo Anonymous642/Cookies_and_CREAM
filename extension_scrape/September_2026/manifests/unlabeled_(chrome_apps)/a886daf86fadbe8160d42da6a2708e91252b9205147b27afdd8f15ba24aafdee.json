@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Pyramid Solitaire", "description": "Pyramid solitaire", "version": "1.2.0.0", "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://www.solitaire-pyramid.com/"], "launch": {"web_url": "https://www.solitaire-pyramid.com/"}}, "content_security_policy": {}, "manifest_version": 3}

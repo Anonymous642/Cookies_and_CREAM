@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Imgur via DuckDuckGo Proxy", "version": "1.0", "browser_specific_settings": {"gecko": {"id": "imgur-duckduckgo-proxy@octowin.uk", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_start"}]}

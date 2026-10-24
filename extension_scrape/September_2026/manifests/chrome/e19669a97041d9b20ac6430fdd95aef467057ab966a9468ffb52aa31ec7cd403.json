@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Random Emoji Generator", "description": "Generate a random emoji instantly from a fun popup.", "version": "1.0", "icons": {"128": "icon128.png"}, "action": {"default_popup": "popup.html"}}

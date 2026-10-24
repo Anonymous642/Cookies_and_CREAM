@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Note Sharer", "version": "1.0", "description": "Create, save, and share quick notes directly from your browser.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{aa0a3084-a997-4a6d-be27-682bde8e3f47}"}}}

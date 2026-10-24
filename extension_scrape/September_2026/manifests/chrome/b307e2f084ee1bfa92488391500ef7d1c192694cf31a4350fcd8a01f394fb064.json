@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Select Downloader", "version": "1.0", "description": "Right-click selected text to download links with custom naming.", "permissions": ["contextMenus", "activeTab", "scripting", "downloads"], "background": {"service_worker": "background.js"}}

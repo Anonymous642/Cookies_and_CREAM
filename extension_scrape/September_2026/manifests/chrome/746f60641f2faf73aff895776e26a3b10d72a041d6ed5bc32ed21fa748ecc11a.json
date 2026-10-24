@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "New chromebook tab", "version": "1.1.0", "description": "A minimal new tab page with a clock and tasks.", "permissions": ["storage"], "chrome_url_overrides": {"newtab": "newtab.html"}}

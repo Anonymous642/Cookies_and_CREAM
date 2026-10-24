@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Vehicle Wrap ROI Calculator", "version": "1.0", "description": "Estimate your return on investment from vehicle wraps.", "action": {"default_popup": "roi.html"}, "permissions": []}

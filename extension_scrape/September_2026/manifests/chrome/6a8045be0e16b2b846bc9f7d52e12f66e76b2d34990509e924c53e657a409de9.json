@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Rule Engine Extension Beta Version", "version": "2.4", "description": "", "permissions": ["activeTab", "scripting"], "icons": {"128": "images/icon.png"}, "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Extensify BE", "author": " Akash Kumar Singh", "version": "1.0", "description": "A cool browser extension that let's you manage your daily task with soothing background and inspiring quotes", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{9651d08f-0512-493f-ad25-5533de81d675}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Advice Generator", "description": "Get a fresh piece of advice whenever you need it!", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "index.html", "default_icon": "/icons/icon-dice.png"}, "host_permissions": ["https://api.adviceslip.com/*"]}

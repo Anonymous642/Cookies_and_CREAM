@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BackgrSerene Sunrise", "version": "1.0", "description": "Start your day with a tranquil sunrise right on your screen.", "icons": {"128": "images.png"}, "permissions": ["geolocation"], "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{145babe3-0ff3-4f17-8094-53203236a1d9}"}}}

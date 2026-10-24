@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute Favicon Preview", "version": "1.0.0", "description": "Preview a website favicon in multiple sizes. Paste a URL and copy favicon links.", "action": {"default_title": "Favicon Preview", "default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

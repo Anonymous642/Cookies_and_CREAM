@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Copy Title & URL", "version": "1.0.0", "description": "Copy the current page title and URL in one click.", "action": {"default_title": "Copy Title & URL", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}, "permissions": ["activeTab"]}

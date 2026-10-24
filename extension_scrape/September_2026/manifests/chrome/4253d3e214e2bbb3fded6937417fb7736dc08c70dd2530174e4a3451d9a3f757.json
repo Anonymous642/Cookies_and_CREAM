@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Card Craft", "version": "1.3", "description": "Create Afro-inspired holiday cards", "action": {"default_popup": "index.html"}, "permissions": []}

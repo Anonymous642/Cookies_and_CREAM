@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bambara/Bamanankan", "description": "Bambara spell-checker", "author": "Jean-Jacques M\u00e9ric", "homepage_url": "http://cormand.huma-num.fr", "version": "2.6", "browser_specific_settings": {"gecko": {"id": "bm-ML@dictionaries.addons.mozilla.org", "strict_min_version": "42.0"}}, "dictionaries": {"bm-ML": "dictionaries/bm-ML.dic"}}

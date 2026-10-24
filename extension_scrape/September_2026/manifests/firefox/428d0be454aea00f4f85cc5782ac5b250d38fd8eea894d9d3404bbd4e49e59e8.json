@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Age Analysis", "version": "1.0", "description": "Generate an age analysis, year by year, with breakdowns of days, weeks, hours, minutes, and seconds.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{118f73ef-5d93-4df8-9d29-58d24d09d931}"}}}

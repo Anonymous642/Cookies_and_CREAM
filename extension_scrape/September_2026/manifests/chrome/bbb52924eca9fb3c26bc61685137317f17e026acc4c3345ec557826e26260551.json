@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Nar0n SEO", "version": "1.1.0", "description": "This is an extension to analytics SEO", "permissions": ["activeTab", "scripting"], "manifest_version": 3, "author": "Natan S Cardoso", "action": {"default_popup": "index.html", "default_title": "Nar0n SEO"}}

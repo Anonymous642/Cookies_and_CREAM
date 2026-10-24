@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "View DNS Records", "version": "1.0", "description": "View DNS records for the website you are accessing.", "permissions": ["dns"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "view-dns-records-extension@yourdomain.com"}}}

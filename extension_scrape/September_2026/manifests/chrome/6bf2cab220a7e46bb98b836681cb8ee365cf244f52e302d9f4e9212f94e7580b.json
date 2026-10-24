@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Share This", "description": "Share the current page to social media or copy it as a Markdown snippet.", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "index.html", "default_icon": "icon.png"}, "permissions": ["activeTab", "scripting"]}

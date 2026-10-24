@@ -1,0 +1,1 @@
+{"description": "Adds checkboxes next to each post on https://hckrnews.com/, copies selected checkboxes to clipboard.", "manifest_version": 2, "author": "Petr Kubelka", "name": "Hckrnews links", "version": "1.0.0", "homepage_url": "https://github.com/ksonny4/hn-posts-copy", "content_scripts": [{"matches": ["*://*.hckrnews.com/"], "js": ["hckrnews.js"]}]}

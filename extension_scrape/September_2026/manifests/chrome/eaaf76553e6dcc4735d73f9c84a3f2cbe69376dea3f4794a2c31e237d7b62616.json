@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LetsHang! - Chat App", "description": "Message with others through your favorite browser!", "version": "1.2.8", "action": {"default_popup": "index.html", "default_icon": "letsHangIcon.png"}, "permissions": ["storage"]}

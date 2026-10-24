@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "NewSplash", "version": "0.3.0", "description": "Displays a beautiful photo on every new tab.", "icons": {}, "chrome_url_overrides": {"newtab": "new_tab.html"}, "host_permissions": ["https://api.unsplash.com/"], "permissions": ["storage"]}

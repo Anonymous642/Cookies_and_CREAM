@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83c\udf80 Daily Slogan Booster", "version": "1.0", "description": "Start each day with a cute, empowering slogan!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "wenigcnamanyhb@hotmail.com"}}}

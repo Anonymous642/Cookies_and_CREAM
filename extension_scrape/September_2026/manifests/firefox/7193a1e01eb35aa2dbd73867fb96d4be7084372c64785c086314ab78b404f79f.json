@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FixCryptoHackCookies", "version": "0.2", "description": "Set `Expires/Max-Age` to now() + 1month instead of session cookie for cryptohack.org", "permissions": ["tabs", "cookies", "*://cryptohack.org/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{a5c36536-24bd-46f0-ad6a-d61105047d7d}"}}}

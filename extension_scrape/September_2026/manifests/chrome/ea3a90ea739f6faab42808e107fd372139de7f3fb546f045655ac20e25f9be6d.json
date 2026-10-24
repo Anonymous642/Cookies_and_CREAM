@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Business Central Gutter Remover", "version": "1.0", "description": "Removes left and right gutters from Business Central only on page 59111.", "content_scripts": [{"matches": ["*://*.businesscentral.dynamics.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

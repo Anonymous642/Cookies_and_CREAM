@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Visual Tab Switcher", "version": "1.0", "description": "Switch tabs using thumbnail previews.", "permissions": ["tabs", "activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{702bc463-8291-43e8-9cce-441f25f8d690}"}}}

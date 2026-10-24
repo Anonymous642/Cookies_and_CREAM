@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Iframe Popup Extension", "description": "Opens a popup that embeds external content in an iframe", "version": "1.2", "manifest_version": 3, "action": {"default_popup": "popup.html"}, "permissions": [], "content_security_policy": {"extension_pages": "script-src 'self'; object-src 'self'; frame-src *;"}}

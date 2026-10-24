@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "WordStat | Word Counter", "version": "1.0", "description": "An easy-to-use word counter tool! made by Bamboo Extensions", "permissions": ["clipboardRead"], "action": {"default_popup": "popup.html", "default_icon": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}}

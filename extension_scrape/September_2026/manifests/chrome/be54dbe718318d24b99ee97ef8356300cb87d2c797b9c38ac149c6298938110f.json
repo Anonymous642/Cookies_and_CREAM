@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Release Battlefield", "version": "1.13.0", "description": "Test extension for release automation", "action": {"default_popup": "popup.html"}, "permissions": [], "content_security_policy": {"extension_pages": "script-src 'self'; object-src 'self'"}}

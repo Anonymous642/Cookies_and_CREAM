@@ -1,0 +1,1 @@
+{"description": "Notice to help you wash your hands during covid 19.", "icons": {"512": "icons/icon.png"}, "version": "2.0", "manifest_version": 2, "name": "Covid-19 Advices", "permissions": ["alarms", "notifications"], "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"strict_min_version": "59.0a2", "id": "{7efeab22-64f3-48ea-8127-0fdef5b82e6a}"}}}

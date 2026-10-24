@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Image Dimension Outliner", "version": "1.0", "description": "Outlines images with oversized dimensions on the current webpage.", "permissions": ["tabs", "webNavigation"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "your-random-gecko-id@gmail.com"}}}

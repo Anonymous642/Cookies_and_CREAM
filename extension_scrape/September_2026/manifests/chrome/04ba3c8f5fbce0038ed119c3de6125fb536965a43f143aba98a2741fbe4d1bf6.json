@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Load NTU Libproxy", "manifest_version": 3, "version": "1.4", "description": "Turns Paywalled journal articles into NTU Libproxy.", "permissions": ["tabs"], "action": {"default_icon": {"16": "logo.png"}, "default_title": "Click Me"}, "background": {"service_worker": "background.js"}}

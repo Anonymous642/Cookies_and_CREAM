@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Redirect2RawPDF", "version": "1.2", "description": "Redirect to raw pdf files.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["Redirect2RawPDF.js"]}], "browser_specific_settings": {"gecko": {"id": "{06c17b8a-f53b-4e69-97c3-8b6af09a6c87}"}}}

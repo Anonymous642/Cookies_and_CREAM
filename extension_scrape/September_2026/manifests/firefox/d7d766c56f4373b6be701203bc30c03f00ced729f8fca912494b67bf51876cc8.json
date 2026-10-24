@@ -1,0 +1,1 @@
+{"name": "Hide Hrib\u2019s Subscription Prompt", "version": "0.9", "description": "Automatically hides the subscription prompt on tyzden.sk for a cleaner reading experience", "content_scripts": [{"js": ["jquery.min.js", "hide.js"], "matches": ["*://www.tyzden.sk/*"]}], "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{8fa272f0-7e66-410b-a4e9-6e499da58c70}"}}}

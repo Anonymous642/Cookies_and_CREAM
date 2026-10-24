@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bulk Link Opener", "version": "1.0", "description": "M\u1edf nhi\u1ec1u link c\u00f9ng l\u00fac", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon.png"}}}

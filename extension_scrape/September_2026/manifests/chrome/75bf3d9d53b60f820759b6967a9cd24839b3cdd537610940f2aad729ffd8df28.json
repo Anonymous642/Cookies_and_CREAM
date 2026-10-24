@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Mixpanel Events Logger", "version": "1.0", "description": "Intercept Mixpanel events", "manifest_version": 3, "devtools_page": "devtools.html"}

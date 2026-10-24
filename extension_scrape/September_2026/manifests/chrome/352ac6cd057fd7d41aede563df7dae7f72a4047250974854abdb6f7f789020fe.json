@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "EasyRetro To Excel Converter", "description": "Download your EasyRetro board as a spreadsheet", "version": "0.0.3", "icons": {"16": "icon.png", "48": "icon48.png", "128": "icon128.png"}, "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

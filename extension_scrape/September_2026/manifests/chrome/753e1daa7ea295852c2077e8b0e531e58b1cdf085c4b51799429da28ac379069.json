@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Wim Hof Breathing Guide", "version": "1.0", "description": "Guide for Wim Hof breathing technique", "action": {"default_popup": "index.html"}, "permissions": [], "icons": {"48": "icon48.png", "128": "icon128.png"}}

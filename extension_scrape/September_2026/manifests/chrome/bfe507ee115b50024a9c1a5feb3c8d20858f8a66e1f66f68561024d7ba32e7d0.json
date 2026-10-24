@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Link Blocker for Docs", "version": "1.0", "permissions": ["storage"], "content_scripts": [{"matches": ["https://docs.google.com/document/*"], "js": ["content.js"], "run_at": "document_idle"}]}

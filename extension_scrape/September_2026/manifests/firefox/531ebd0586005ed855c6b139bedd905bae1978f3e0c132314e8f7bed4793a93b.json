@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Scroll", "version": "1.0", "description": "Automatically scrolls the page at a selected speed.", "permissions": ["activeTab"], "browser_action": {"default_icon": {"48": "icon.png"}, "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{8795909e-b8b2-46f7-a29f-8bbfd72a81de}"}}}

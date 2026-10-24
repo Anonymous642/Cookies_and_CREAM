@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Click Counter Game", "version": "1.0", "description": "A simple click counter game in a Firefox add-on!", "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}, "applications": {"gecko": {"id": "clickgame@example.com"}}, "permissions": []}

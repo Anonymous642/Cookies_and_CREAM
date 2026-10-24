@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple Coin Flip", "version": "1.0.0", "description": "Tung \u0111\u1ed3ng xu ng\u1eabu nhi\u00ean ngay trong popup.", "action": {"default_popup": "popup.html", "default_title": "Simple Coin Flip", "default_icon": {"128": "icon128.png"}}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab Backlog", "version": "1.0", "description": "Count your open tabs and estimate total reading time.", "permissions": ["tabs"], "action": {"default_popup": "popup.html", "default_title": "Tab Backlog"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Secret Book", "description": "Quick launch secret book", "version": "1.1resigned1", "icons": {"128": "icon_128.png"}, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{a41eb74b-0fcd-476a-b8e1-faa087c2f15c}"}}}

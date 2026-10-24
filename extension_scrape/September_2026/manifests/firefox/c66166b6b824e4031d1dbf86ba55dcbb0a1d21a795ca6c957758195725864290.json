@@ -1,0 +1,1 @@
+{"manifest_version": 3, "version": "1.4", "name": "Leader", "action": {"default_popup": "index.html", "default_icon": "maomao.webp"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "leader@bad.com"}}}

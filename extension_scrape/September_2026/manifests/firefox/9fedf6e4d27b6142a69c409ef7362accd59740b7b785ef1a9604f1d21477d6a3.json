@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "MOD Linker", "version": "1.0", "permissions": ["tabs"], "host_permissions": ["http://localhost:7878/"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "mod-linker@mod.local", "data_collection_permissions": {"required": ["locationInfo"], "optional": ["technicalAndInteraction"]}}}}

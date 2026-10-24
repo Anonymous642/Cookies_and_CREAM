@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Kolossus SaaS", "version": "2.3", "description": "Ferramenta para limpar cache, cookies e atualizar o ambiente com um clique.", "permissions": ["browsingData", "cookies", "tabs", "activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_icon": "ICO.png"}}

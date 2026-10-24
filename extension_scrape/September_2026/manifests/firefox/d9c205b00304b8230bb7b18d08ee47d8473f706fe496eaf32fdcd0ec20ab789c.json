@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "fb pleasant theme", "version": "7.0", "description": "changes the appearance of facebook to a more friendly theme.", "icons": {"48": "fb_dark.svg", "96": "fb_dark.svg"}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "css": ["z.css"]}]}

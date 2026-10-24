@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Quick Youtube Search", "description": "Type 'yt' space a keyword to search on youtube.", "version": "0.0.1", "manifest_version": 3, "background": {"service_worker": "search.js"}, "omnibox": {"keyword": "yt"}, "action": {"default_icon": "icon.png", "default_popup": "popup.html"}}

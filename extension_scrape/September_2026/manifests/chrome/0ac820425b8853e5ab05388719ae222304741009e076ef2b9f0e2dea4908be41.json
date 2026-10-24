@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Price Tracker Alert", "version": "1.0", "description": "Track product URLs with desired prices and view stored price history in the popup.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}, "icons": {"128": "icon128.png"}, "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "(WE)DOIT App", "version": "0.0.2", "description": "task management app", "manifest_version": 3, "author": "peet3r", "action": {"default_popup": "index.html", "default_title": "WE DO IT App"}}

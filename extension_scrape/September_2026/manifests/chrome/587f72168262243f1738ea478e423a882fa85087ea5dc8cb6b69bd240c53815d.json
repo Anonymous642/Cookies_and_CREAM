@@ -1,0 +1,1 @@
+{"content_scripts": [{"js": ["main.js"], "matches": ["*://www.temu.com/*"], "run_at": "document_start"}], "host_permissions": ["*://www.temu.com/*"], "icons": {"128": "128.png"}, "manifest_version": 3, "default_locale": "en", "description": "__MSG_description__", "name": "__MSG_name__", "update_url": "https://clients2.google.com/service/update2/crx", "version": "1.0.0"}

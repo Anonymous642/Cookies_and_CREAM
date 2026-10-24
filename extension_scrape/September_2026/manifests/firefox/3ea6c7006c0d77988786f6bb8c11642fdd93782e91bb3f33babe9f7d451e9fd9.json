@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Translator (EN\u2194VI)", "version": "1.0", "description": "Translate selected text between English and Vietnamese instantly.", "icons": {"48": "icon.png"}, "permissions": ["contextMenus", "activeTab", "storage", "tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "quick-translator@hqaddon"}}}

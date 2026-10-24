@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "XDR to MRO Converter", "version": "1.0", "description": "Convert XDR to MRO directly from your browser.", "permissions": ["activeTab", "https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{9a135e4e-5915-4f43-b495-5ac4b21aa08d}"}}}

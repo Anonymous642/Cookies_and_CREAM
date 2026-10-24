@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FollowDex", "version": "1.0", "author": "X\u00e9fir Destiny", "homepage_url": "https://mangadex.org", "description": "Color in red your followed mangas on MangaDex", "permissions": ["*://*.mangadex.org/*"], "icons": {"48": "mangadex.png"}, "content_scripts": [{"matches": ["*://*.mangadex.org/*"], "js": ["followdex.js"]}]}

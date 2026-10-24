@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Fashion Style Picker", "version": "1.0", "description": "Randomly select a fashion style from a curated list.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "adrianne0spencerukj552@hotmail.com"}}}

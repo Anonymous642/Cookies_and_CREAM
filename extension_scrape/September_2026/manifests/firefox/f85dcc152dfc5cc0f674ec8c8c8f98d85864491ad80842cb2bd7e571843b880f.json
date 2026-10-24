@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Tab Sorter by Domain", "version": "1.0", "permissions": ["tabs"], "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "my-cool-sorter-by-domain@extension.local", "data_collection_permissions": {"required": ["none"]}}}}

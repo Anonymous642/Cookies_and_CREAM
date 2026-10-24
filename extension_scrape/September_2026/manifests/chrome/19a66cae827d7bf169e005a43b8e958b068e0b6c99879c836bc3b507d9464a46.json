@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "EPIC Score", "version": "1.0", "permissions": ["activeTab"], "action": {"default_popup": "popup.html", "default_icon": {"16": "epic-score-16.png", "48": "epic-score-48.png", "128": "epic-score-128.png"}}}

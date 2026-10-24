@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Stoic Week", "description": "A calm new tab with one Stoic practice for the week.", "version": "0.1.0", "icons": {"128": "Sigma.png"}, "permissions": ["storage", "clipboardWrite"], "chrome_url_overrides": {"newtab": "src/newtab/index.html"}}

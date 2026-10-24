@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Demon Slayer New Tab", "version": "1.0", "description": "Step into the world of Demon Slayer with this immersive new tab theme.", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"128": "icons/icon128.png"}, "browser_specific_settings": {"gecko": {"id": "{3c7468d5-be57-469d-bba1-98f7553072a7}"}}}

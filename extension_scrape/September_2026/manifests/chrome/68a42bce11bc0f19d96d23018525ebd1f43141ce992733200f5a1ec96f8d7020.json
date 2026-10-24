@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Duplicate Tab Blocker", "description": "Prevents tabs with the same url from opening", "version": "0.0.0.1", "manifest_version": 3, "permissions": ["tabs", "activeTab"], "background": {"service_worker": "serviceworker.js"}, "action": {}}

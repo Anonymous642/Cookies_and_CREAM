@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "N\u00b0 semaine", "version": "1.2", "description": "N\u00b0 de semaine", "icons": {"32": "icons/weekNum32.png", "48": "icons/weekNum.png"}, "browser_action": {"default_icon": "icons/weekNum.png", "default_title": "N\u00b0 de semaine", "default_popup": "popup/weekNum.html"}, "browser_specific_settings": {"gecko": {"id": "weeknum@dblv.com"}}}

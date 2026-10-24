@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reaxys Opener", "version": "1.0", "description": "\u00d6ffnet markierte Texte in Reaxys", "permissions": ["contextMenus", "tabs", "activeTab"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{76fb581d-3636-45ea-8506-cd33fb99b173}"}}}

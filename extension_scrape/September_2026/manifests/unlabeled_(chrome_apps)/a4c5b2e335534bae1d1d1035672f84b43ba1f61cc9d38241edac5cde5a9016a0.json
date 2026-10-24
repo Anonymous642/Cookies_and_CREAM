@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Dino Diving", "description": "When a dino pops up, click or tap on the little chappy to make him dive.", "version": "0.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "dino-diving16.png", "128": "dino-diving128.png"}, "sandbox": {"pages": ["index.html"]}}

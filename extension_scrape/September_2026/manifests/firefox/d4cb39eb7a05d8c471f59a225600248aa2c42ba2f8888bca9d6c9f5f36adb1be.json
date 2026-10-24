@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "0.1.0", "name": "PDFizer", "browser_action": {"default_popup": "main.html"}, "permissions": ["activeTab", "tabs", "<all_urls>"], "browser_specific_settings": {"gecko": {"id": "{2e5c488a-267b-4157-b038-75ac5138927f}"}}}

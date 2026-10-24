@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HLTV Forum Sidebar Remover", "version": "1.0", "description": "Sidebar Remover extension cleans up your browsing experience by removing the forum sidebar", "content_scripts": [{"matches": ["*://*.hltv.org/*"], "js": ["remove-forum.js"]}], "browser_specific_settings": {"gecko": {"id": "{de7dd550-f5a4-4296-8d9a-c5a93583ed54}"}}}

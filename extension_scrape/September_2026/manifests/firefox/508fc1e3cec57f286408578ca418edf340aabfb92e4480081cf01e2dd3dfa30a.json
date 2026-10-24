@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dhikr.xyz", "version": "2.1", "description": "A small companion of your daily Dhikr.", "browser_action": {"default_icon": "images/dhikr_gray.png"}, "icons": {"16": "images/dhikr_gray.png", "48": "images/dhikr_gray.png", "128": "images/dhikr_gray.png"}, "chrome_url_overrides": {"newtab": "index.html"}}

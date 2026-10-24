@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Music Remote Controller", "version": "1.1", "manifest_version": 2, "app": {"background": {"scripts": ["main.js"]}}, "minimum_chrome_version": "29", "icons": {"128": "128.png"}, "permissions": ["storage", "webview"]}

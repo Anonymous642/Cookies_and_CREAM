@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FuriHover", "version": "1.0", "description": "Hides furigana until the associated word is moused over.", "icons": {"48": "icons/hover-48.png", "96": "icons/hover-96.png"}, "content_scripts": [{"matches": ["<all_urls>"], "css": ["style.css"]}], "browser_specific_settings": {"gecko": {"id": "{cdf43b4a-31d3-4a9d-825f-40394e062ae2}"}}}

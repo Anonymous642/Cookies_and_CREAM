@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Time Zone Converter Plus", "version": "1.0", "description": "Convert time between different time zones and more", "permissions": ["storage"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{e73e8681-5a1d-4037-8ed3-650e067b6bf0}"}}}

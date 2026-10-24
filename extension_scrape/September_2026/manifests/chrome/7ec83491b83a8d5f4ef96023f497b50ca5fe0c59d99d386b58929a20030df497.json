@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Zubizi Toolkit", "version": "1.0.1", "description": "Zubizi Toolkit Chrome Extension", "action": {"default_popup": "index.html", "default_icon": "zubizi.png"}, "icons": {"16": "zubizi.png", "48": "zubizi.png", "128": "zubizi.png"}, "permissions": []}

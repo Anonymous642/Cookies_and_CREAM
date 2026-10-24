@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Daily Motivation", "version": "1.0", "description": "Shows a motivational quote each day.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{8e2d0ca6-a47d-475c-a614-67136213c631}"}}}

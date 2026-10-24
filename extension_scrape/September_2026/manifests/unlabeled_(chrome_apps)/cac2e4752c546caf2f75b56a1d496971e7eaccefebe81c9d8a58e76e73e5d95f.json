@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ChromeAmp", "description": "Winamp as Chrome app", "version": "0.2", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "Winamp-16.png", "128": "Winamp-128.png", "256": "Winamp-256.png"}, "short_name": "chromeamp", "offline_enabled": true}

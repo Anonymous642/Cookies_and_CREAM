@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Highlighter", "version": "1.0", "description": "Highlight Matching Keywords", "permissions": ["activeTab", "storage"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["styles.css"]}]}

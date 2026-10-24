@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute Random Dice", "version": "1.0", "description": "X\u00fac x\u1eafc ng\u1eabu nhi\u00ean v\u1edbi giao di\u1ec7n \u0111\u00e1ng y\u00eau.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ululu", "version": "1.0", "description": "Change name of Countries to Ululu", "icons": {"48": "icons/border-48.png"}, "permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["replacer.js"]}], "browser_specific_settings": {"gecko": {"id": "{a18bb5b0-0b3f-4ea7-bf5d-da5f38bab273}"}}}

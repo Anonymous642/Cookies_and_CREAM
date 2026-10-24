@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cool Name Generator", "version": "1.0", "description": "Cool Name Generator: Cool nickname generator", "action": {"default_popup": "popup.html", "default_icon": "cool_name_generator.png"}, "icons": {"128": "cool_name_generator.png"}}

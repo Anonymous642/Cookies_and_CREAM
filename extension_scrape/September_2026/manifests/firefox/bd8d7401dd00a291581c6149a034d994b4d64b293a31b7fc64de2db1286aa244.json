@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Screen Clock", "version": "1.0", "description": "A clock shows week day, time and date.", "content_scripts": [{"matches": ["*://*.mozilla.org/*"], "html": ["index.html"], "css": ["styles.css"]}], "browser_specific_settings": {"gecko": {"id": "{ca985d2a-f191-4652-a9bd-66119a1e7910}"}}}

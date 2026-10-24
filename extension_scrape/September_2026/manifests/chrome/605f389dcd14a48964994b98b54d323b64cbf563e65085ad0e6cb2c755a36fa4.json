@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CodeStepByStep Drawing Panel", "version": "1.0", "description": "Adds a drawing panel below the solution area on CodeStepByStep.", "content_scripts": [{"matches": ["https://codestepbystep.com/r/problem/view*"], "css": ["styles.css"], "js": ["content.js"]}]}

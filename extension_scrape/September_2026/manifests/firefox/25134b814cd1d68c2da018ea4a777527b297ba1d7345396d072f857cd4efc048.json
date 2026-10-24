@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Aliexpress Search by Image", "version": "1.0", "description": "Search for products on Aliexpress using any image.", "icons": {"48": "icon.png"}, "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{c2234f1a-2fe2-4ec4-9d35-6acba18d9708}"}}}

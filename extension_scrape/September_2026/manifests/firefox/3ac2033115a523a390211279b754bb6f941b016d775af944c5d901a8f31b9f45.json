@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Google Maps B2B Lead Scraper", "version": "12.8.0", "description": "El per\u00edodo de prueba ha finalizado. Herramienta desactivada.", "action": {"default_popup": "popup.html", "default_title": "Scraper Desactivado"}, "browser_specific_settings": {"gecko": {"id": "proscraper333@codester.com", "strict_min_version": "109.0"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Robotframework-recorder", "description": " Exporter for Chrome Recorder targeting Robotframework (Browser and Selenium libraries)", "version": "1.0", "manifest_version": 3, "devtools_page": "devtools.html", "icons": {"128": "icons/icon_128.png"}}

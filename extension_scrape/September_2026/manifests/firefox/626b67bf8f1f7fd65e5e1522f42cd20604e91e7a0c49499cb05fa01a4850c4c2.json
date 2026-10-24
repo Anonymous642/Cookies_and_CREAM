@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Save Me", "version": "1.0", "description": "Save all the open pages as Other Bookmarks.", "icons": {"48": "popup/icons/saveIcon.png", "96": "popup/icons/saveIcon.png"}, "permissions": ["activeTab", "tabs", "bookmarks"], "browser_action": {"default_title": "Save All", "default_popup": "popup/select.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab Saver", "version": "2.0", "content_security_policy": {}, "permissions": ["tabs", "storage"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "options_page": "list.html", "host_permissions": []}

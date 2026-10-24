@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SpecsPlain", "description": "Spec Explainer Using Google's PaLM AI.", "version": "1.0.0", "manifest_version": 3, "content_scripts": [{"run_at": "document_idle", "js": ["after.js"], "matches": ["https://tc39.es/ecma262/*", "https://tc39.es/ecma262/*"]}]}

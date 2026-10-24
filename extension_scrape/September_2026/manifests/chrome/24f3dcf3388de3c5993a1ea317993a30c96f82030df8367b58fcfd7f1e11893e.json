@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Personal Dashboard", "version": "0.0.1", "description": "It is a personal Browser Dashboard with the functionality of current weather, time, favourite links and crypto price tracker. ", "action": {"default_icon": "icon.png"}, "chrome_url_overrides": {"newtab": "index.html"}}

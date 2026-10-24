@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Todo List", "version": "1.0", "description": "Simple todo list", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{773196e5-2536-4452-a673-3cf00b8ca304}"}}}

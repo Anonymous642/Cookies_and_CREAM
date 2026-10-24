@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Instagram-View", "version": "1.3", "description": "Instagram View.", "content_scripts": [{"matches": ["*://*.instagram.com/*"], "js": ["main.js"]}], "applications": {"gecko": {"id": "cordelialoo@yahoo.com"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "CleanGuessr", "version": "1.0", "description": "Removes all the dumb junk from GeoGuessr.", "browser_specific_settings": {"gecko": {"id": "cleanguessr@example.com", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"matches": ["*://www.geoguessr.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

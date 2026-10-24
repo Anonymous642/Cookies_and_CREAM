@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PEN to DKK Converter", "version": "1.0", "description": "Convert Peruvian Sol (PEN) to Danish Krone (DKK).", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/"], "browser_specific_settings": {"gecko": {"id": "{a92c9a59-8547-42af-bc01-079ec4687322}"}}}

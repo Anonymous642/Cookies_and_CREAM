@@ -1,0 +1,1 @@
+{"dictionaries": {"en-US": "dictionaries/en_US.dic"}, "version": "2026.9.1", "applications": {"gecko": {"id": "@unitedstatesenglishdictionary"}}, "name": "English United States Dictionary", "description": "en-US dictionary based on https://github.com/marcoagpinto/aoo-mozilla-en-dict", "author": "Jorg K, Marco Pinto", "manifest_version": 2}

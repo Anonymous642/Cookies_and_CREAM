@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Quick Thesaurus", "version": "1.6", "description": "Quick way to get a list of synonyms or antonyms", "manifest_version": 3, "author": "John Lazaroo", "action": {"default_popup": "index.html", "default_title": "Quick Thesaurus", "default_icon": "images/thesaurus-icon-128-v2.png"}}

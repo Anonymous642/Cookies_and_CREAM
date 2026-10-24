@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tender Link", "description": "Injects link to Tender.art on some fxhash pages", "version": "1.0", "action": {"default_icon": "icon.png"}, "content_scripts": [{"matches": ["https://*.fxhash.xyz/*"], "js": ["js/content_script.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MerchCopyPaste", "version": "1.4b", "developer": {"name": "Juergen Arno Weiss", "url": "http://merchcp.hypemedia.de"}, "content_scripts": [{"matches": ["https://merch.amazon.com/dashboard"]}], "permissions": ["activeTab", "contextMenus"], "background": {"scripts": ["merchcp.js"]}}

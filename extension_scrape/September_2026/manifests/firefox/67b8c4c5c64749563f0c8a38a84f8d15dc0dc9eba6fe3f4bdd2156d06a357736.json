@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Backlink Checker", "version": "1.0", "description": "Check backlinks pointing to the current site.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{37b9e17b-28c2-46a4-9a7c-33632c22ba9e}"}}}

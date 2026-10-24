@@ -1,0 +1,1 @@
+{"version": "1.1", "manifest_version": 3, "name": "Minecraft Wiki redirect", "description": "Redirects URLs from 'minecraft.fandom.com/' to 'minecraft.wiki/'", "permissions": ["webNavigation"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "tristan.goel@gmail.com"}}}

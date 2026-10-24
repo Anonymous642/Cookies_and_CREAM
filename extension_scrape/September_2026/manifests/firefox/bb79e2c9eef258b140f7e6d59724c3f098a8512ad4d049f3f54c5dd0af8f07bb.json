@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Tab Renamer", "version": "1.0", "description": "Tab Renamer: Rename current tab title.", "action": {"default_popup": "popup.html", "default_icon": "tab_renamer.png"}, "icons": {"128": "tab_renamer.png"}, "browser_specific_settings": {"gecko": {"id": "avankitadanteharry6@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

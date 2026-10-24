@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Jellyfin to Letterboxd", "version": "1.0", "description": "Adds a button that searches for the movie on Letterboxd", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{c6bad9a7-4b02-4379-a74e-0f57d8f8497a}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CoronaReplace", "version": "1.2", "description": "Replaces 'corona' and related terms with other c-words.", "icons": {"48": "icon/corona-icon.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["corona-replace.js"]}]}

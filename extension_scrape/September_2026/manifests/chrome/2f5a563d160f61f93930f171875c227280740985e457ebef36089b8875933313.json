@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mini Calculator (Simple)", "version": "1.0.0", "description": "A simple mini calculator in the popup (offline).", "action": {"default_title": "Mini Calculator", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Phishing Site Checker", "version": "1.0", "description": "Warns if you're visiting a known phishing site.", "background": {"scripts": ["background.js"]}, "permissions": ["webNavigation", "notifications", "<all_urls>"], "icons": {"48": "icons/icon.png"}, "applications": {"gecko": {"id": "phishing-checker@example.com"}}}

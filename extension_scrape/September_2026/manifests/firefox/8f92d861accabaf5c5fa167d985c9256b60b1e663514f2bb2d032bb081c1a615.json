@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Warrior of the Frozen Peak", "version": "1.0", "description": "A mystical world of grandeur and icy wilderness.", "icons": {"128": "icon128.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_action": {"default_popup": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{eef98ce3-19fd-4ec3-859f-62cfde0f384c}"}}}

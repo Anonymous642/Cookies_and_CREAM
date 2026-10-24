@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "quiettitles", "version": "1.1", "description": "Removes notification numbers from tab titles", "background": {"scripts": ["bg_quiettitles.js"]}, "permissions": ["tabs", "scripting", "<all_urls>"], "browser_specific_settings": {"gecko": {"id": "{901fb8ba-dbac-4f8e-b03c-11dc868e56dc}"}}}

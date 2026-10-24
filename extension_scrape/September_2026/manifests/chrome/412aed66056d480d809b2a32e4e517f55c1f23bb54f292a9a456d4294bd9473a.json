@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ToDoLi", "description": "Extension that keeps track of user's tasks and commitments", "version": "2.0", "action": {"default_popup": "todoli.html", "default_icon": {"128": "./assets/icon1.png"}}}

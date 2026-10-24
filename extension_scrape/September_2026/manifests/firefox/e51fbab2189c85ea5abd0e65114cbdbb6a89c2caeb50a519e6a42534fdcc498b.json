@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Shona Spellcheck Dictionary (Zimbabwe)", "version": "0.2.0", "description": "Morphology-aware ChiShona spellchecker: 214,000+ word forms. Free & open source. github.com/stanleymateta-tech/Project-Nyaradzai", "browser_specific_settings": {"gecko": {"id": "shona-sn-zw@project-nyaradzai.org"}}, "dictionaries": {"sn-ZW": "dictionaries/sn-ZW.dic"}}

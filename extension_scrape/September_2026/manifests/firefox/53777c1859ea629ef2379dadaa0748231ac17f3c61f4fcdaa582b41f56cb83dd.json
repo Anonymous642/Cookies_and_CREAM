@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CodeSandbox Helper", "version": "1.0", "description": "Quick access to CodeSandbox!", "icons": {"48": "icon.png"}, "browser_action": {"default_icon": "icon.png", "default_title": "CodeSandbox Helper", "default_popup": "popup.html"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{a7cfddef-a0e3-49e7-a5fa-37eb52ee8e6b}"}}}

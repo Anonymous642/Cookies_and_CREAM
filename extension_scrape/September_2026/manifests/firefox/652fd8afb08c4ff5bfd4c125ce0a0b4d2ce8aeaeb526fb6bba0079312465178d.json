@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Lucky Number Game", "version": "1.0", "description": "Generate a random array of numbers and find the lucky one with a surprise gift! Game show style.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "c9larissabrittainywmo971@hotmail.com"}}}

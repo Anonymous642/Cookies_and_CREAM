@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Color Craft", "description": "Make choosing colors on Chrome easy and fun!", "version": "1.0", "action": {"default_popup": "index.html"}, "icons": {"512": "icon.png"}}

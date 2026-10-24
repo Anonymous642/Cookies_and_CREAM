@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Daily Affirmation", "version": "1.0", "description": "Show a positive affirmation each day on the new tab page.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{b593b3e6-12b0-4e4a-bee9-14da636d41c4}"}}}

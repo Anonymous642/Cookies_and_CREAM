@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "pingen.com", "description": "Versende Dokumente direkt vom Computer per Briefpost in die ganze Welt. Schnell und kosteng\u00fcnstig.", "version": "1.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://app.pingen.com/"], "launch": {"web_url": "https://app.pingen.com/"}}}

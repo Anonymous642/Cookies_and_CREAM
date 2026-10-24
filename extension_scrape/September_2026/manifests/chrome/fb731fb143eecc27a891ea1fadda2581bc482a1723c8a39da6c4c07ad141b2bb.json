@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Strong Password Generator", "version": "1.0", "description": "Generates strong passwords locally using cryptographically secure randomness.", "action": {"default_popup": "popup.html", "default_icon": "icon16.png"}, "permissions": ["clipboardWrite", "storage"]}

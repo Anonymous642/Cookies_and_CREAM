@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SpONgEGnaR sPeAK", "version": "0.4resigned1", "description": "TuRNs sTUfF InTo SpONgEGnaR sPeAK", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{26ccffed-0eca-41ef-9a08-a93e61e88755}"}}}

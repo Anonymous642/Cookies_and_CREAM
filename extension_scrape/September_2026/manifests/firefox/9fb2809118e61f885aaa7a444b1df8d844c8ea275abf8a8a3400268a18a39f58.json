@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "USD to CLP Converter", "version": "1.0", "description": "Quickly convert USD to Chilean Peso (CLP).", "browser_action": {"default_popup": "popup.html", "default_title": "USD to CLP Converter"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{fee95050-eeb2-432e-b09b-3b5b56b48233}"}}}

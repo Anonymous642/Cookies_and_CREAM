@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MedeLink Reciprocal Liker", "version": "1.0.6", "description": "Automatically likes Substack posts from the Medelink list that aren't already liked,", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "icons": {"48": "icon48.png"}}

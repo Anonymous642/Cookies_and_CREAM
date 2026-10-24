@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "BPM Launcher", "version": "2014.10.15", "permissions": ["storage", "http://*/*", "https://*/*"], "icons": {"48": "images/rocket_48x48.png", "128": "images/rocket_128x128.png"}, "app": {"background": {"scripts": ["main.js"]}}}

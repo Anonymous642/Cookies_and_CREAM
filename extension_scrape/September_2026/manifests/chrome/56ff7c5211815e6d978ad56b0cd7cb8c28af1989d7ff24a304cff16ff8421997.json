@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Modern Ajou SSO Theme", "version": "1.5", "description": "Apply modern Ajou SSO login page theme.", "manifest_version": 3, "icons": {"48": "assets/icon48.png", "128": "assets/icon128.png"}, "content_scripts": [{"matches": ["*://sso.ajou.ac.kr/*"], "js": ["content.js"]}]}

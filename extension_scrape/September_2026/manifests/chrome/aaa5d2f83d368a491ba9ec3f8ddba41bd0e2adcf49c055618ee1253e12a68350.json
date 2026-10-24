@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "B\u00f3i Vui - Fun Fortune", "version": "1.0.0", "description": "A playful fortune picker for fun, with gentle messages. Works offline.", "action": {"default_title": "B\u00f3i Vui", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

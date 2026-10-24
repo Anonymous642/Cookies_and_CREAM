@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "OSTicket Archiver", "version": "1.0.9", "description": "Hides OSTicket tickets from the panel until there's new activity.", "content_scripts": [{"matches": ["*://*/scp/*"], "js": ["content.js"]}], "permissions": ["activeTab", "storage"], "browser_specific_settings": {"gecko": {"id": "{0c84113a-183b-4830-85de-54dbe9d5f0f2}"}}}

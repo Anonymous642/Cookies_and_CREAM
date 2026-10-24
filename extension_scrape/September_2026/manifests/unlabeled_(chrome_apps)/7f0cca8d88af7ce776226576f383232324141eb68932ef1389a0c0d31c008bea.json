@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "minicritupdates", "permissions": ["webRequest"], "file_handlers": {"text": {"types": ["text/*"]}}, "version": "1.0", "manifest_version": 2, "description": "minicritupdates 2014", "icons": {"128": "icon.png"}, "app": {"background": {"scripts": ["main.js"]}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Merge Request Hook", "version": "1.0.0", "description": "Finds & clicks the merge request button when sensing M + R keystrokes", "manifest_version": 3, "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"]}], "icons": {"48": "48.png", "128": "128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CO-STAR", "version": "1.0", "description": "A tool that help you build prompt more effictive follow the 'CO-STAR' principle", "icons": {"128": "icons/icon.png"}, "action": {"default_popup": "popup.html", "default_icon": "icons/icon.png"}, "permissions": ["clipboardWrite", "storage"]}

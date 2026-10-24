@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "WCN Poniewierka Fix", "version": "1.0", "description": "Flips coin images on wcn.onebid.pl to show the reverse side.", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}, "action": {"default_title": "Flip Images"}}

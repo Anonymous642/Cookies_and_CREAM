@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Random Content Ideas", "version": "1.0.0", "description": "Instant random TikTok video ideas and content topics for creators. Works offline.", "action": {"default_title": "Content Ideas", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

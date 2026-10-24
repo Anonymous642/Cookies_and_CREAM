@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NoDoom", "version": "0.2", "description": "Tells you to stop doom scrolling on reddit.", "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["alert.js"]}], "browser_specific_settings": {"gecko": {"id": "{c43d83fa-42b8-40eb-b444-bb9687c36df3}"}}}

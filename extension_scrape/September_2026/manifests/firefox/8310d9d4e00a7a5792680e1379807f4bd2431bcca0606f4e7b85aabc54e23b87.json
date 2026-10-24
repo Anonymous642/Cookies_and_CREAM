@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "KHR to PYG Converter", "version": "1.0", "description": "Convert Cambodian Riel (KHR) to Paraguayan Guarani (PYG).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "KHR to PYG Converter"}, "browser_specific_settings": {"gecko": {"id": "{c71752b6-ba55-489a-b168-1e6c7f84972a}"}}}

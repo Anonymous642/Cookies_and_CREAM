@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Word of the Day", "version": "1.0", "description": "Learn a new English word every day with its definition and usage.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{85b15b51-293d-40d3-ac90-f8258f76e887}"}}}

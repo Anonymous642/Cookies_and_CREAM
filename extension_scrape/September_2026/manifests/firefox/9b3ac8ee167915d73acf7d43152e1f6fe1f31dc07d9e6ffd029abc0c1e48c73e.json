@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "__MSG_extensionName__", "version": "1.0", "description": "__MSG_extensionDescription__", "permissions": ["storage"], "sidebar_action": {"default_panel": "sidebar.html", "default_icon": {"128": "icons/icon-128.png"}, "default_title": "Note-Taking Sidebar"}, "browser_specific_settings": {"gecko": {"id": "{b3d0f1e9-3a1c-3b0a-9e6f-5c3d02bcf5cd}"}}}

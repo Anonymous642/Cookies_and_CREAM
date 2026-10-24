@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Planner Auto Board View", "version": "1.0", "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://planner.cloud.microsoft/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "AlwaysSwitchTo@boardViewIn.planner"}}}

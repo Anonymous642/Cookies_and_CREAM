@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube UI Fix", "version": "1.0", "description": "Automatically fix Youtube UI.", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "css": ["styles.css"], "run_at": "document_start"}], "applications": {"gecko": {"id": "youtube-css-tweaker@example.com"}}}

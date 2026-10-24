@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GEX Activision", "version": "1.0", "permissions": ["cookies", "webNavigation"], "host_permissions": ["https://*.tradingview.com/*", "https://spxgex.com/*"], "background": {"service_worker": "sw.js"}}

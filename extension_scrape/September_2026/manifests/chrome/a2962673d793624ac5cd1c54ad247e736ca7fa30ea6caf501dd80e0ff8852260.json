@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Betterware Audios", "version": "1.0.5", "description": "Control de velocidad para notas de voz en Salesforce Messaging.", "content_scripts": [{"matches": ["https://*.lightning.force.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

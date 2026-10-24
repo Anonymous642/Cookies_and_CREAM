@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Page Screenshot Saver", "version": "1.0", "description": "Take a screenshot of the entire page.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{2c2f44f4-c5f1-47ad-9c48-2d0b686ebee4}"}}}

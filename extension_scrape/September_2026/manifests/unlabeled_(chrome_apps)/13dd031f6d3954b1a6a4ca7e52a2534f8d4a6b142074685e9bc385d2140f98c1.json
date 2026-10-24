@@ -1,0 +1,1 @@
+{"name": "Myrdesign", "description": "Myrdesign - Soporte Web", "app": {"urls": ["http://www.myrdesign.cl/"], "launch": {"web_url": "http://www.myrdesign.mx/soporte/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.2", "icons": {"24": "icon_24.png", "128": "icon_128.png"}}

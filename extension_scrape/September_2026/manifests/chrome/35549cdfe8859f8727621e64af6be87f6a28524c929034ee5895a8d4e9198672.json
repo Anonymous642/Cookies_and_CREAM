@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Roo", "version": "1.0.4", "description": "Shorten URLs the smart way.", "host_permissions": ["<all_urls>"], "action": {"default_popup": "index.html", "default_icon": "images/icon.png"}, "permissions": ["storage"], "icons": {"128": "images/icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Snippets by Tech Titans", "version": "1.0", "description": "Help you stay informed about Business and Tech.", "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"128": "logo.png"}, "web_accessible_resources": [{"resources": ["texts.txt"], "matches": ["<all_urls>"]}]}

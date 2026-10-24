@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Fantasy Name Generator", "version": "1.0", "description": "Fantasy Name Generator: Fantasy styled names", "action": {"default_popup": "popup.html", "default_icon": "fantasy_name_generator.png"}, "icons": {"128": "fantasy_name_generator.png"}}

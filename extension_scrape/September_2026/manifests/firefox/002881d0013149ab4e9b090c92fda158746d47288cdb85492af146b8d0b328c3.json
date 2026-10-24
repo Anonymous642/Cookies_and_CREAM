@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OverBuffer", "version": "0.2resigned1", "description": "Aloows you to quickly lookup a BNET tag on overbuff.", "icons": {"48": "icons/icon.png"}, "permissions": ["menus", "activeTab"], "background": {"scripts": ["overbuffer.js"]}, "browser_specific_settings": {"gecko": {"id": "{b5cf8b7c-6b94-43d2-93cc-514700c81dab}"}}}

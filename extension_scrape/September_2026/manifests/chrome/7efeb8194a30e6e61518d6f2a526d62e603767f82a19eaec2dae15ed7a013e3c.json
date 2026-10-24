@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "WrapSearch", "version": "1.0", "description": "Adds a custom right-click option to search selected text with a custom URL.", "permissions": ["contextMenus", "storage", "activeTab"], "background": {"service_worker": "background.js"}, "options_page": "options.html"}

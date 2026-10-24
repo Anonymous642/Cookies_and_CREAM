@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FoodNetwork Ads Skipper", "description": "This extension skip ads in FoodNetwork", "version": "1.0", "content_scripts": [{"matches": ["*://watch.foodnetwork.com/*"], "js": ["script.js"]}], "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{804d4ef4-a249-45fd-a273-65517d708b8b}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Article Digest", "version": "1.0", "description": "Summarise the current page into a short, medium, or key-points digest.", "action": {"default_popup": "popup.html"}, "permissions": ["tabs"]}

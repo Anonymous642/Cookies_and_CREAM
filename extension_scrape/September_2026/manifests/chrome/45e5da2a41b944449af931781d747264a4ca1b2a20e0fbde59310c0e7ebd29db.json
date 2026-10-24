@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ConnectSphere Meetings", "description": "Host or join ConnectSphere video meetings from your browser.", "version": "1.0.1", "icons": {"128": "icon-128.png"}, "action": {"default_title": "ConnectSphere Meetings", "default_popup": "popup.html", "default_icon": {"128": "icon-128.png"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.0", "name": "Neon Rush", "chrome_url_overrides": {"newtab": "index.html"}, "description": "Vibrant neon streaks of light cutting through the darkness.", "manifest_version": 3}

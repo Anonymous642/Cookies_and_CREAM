@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "No YouTube Shorts for me", "version": "1.0", "description": "Automatically closes YouTube Shorts tabs.", "permissions": ["tabs"], "host_permission": ["*://*.youtube.com/*"], "background": {"scripts": ["background.js"], "persistent": true}, "browser_specific_settings": {"gecko": {"id": "no-shorts@example.com"}}}

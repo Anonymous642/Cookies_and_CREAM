@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Substack Distractions Hider", "version": "1.0", "description": "Hides the notifications tab on Substack", "content_scripts": [{"matches": ["*://*.substack.com/*"], "css": ["styles.css"], "js": ["content.js"]}]}

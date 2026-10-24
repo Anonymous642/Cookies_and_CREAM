@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "modal cnfans", "version": "1.0", "description": "Extension to delete risk modal on cnfans product", "content_scripts": [{"matches": ["https://cnfans.com/*"], "js": ["content.js"]}]}

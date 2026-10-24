@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Nicer Box Score", "version": "0.2.3", "description": "Makes NBA.com box scores pretty.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.nba.com/game/*/box-score*"], "js": ["nba box score.js"], "css": ["box score.css"]}]}

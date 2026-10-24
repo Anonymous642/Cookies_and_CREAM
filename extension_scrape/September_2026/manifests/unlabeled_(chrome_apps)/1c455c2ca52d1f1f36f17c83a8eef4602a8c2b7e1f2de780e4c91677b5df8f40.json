@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Eyo EmployeeApp", "description": "Mobile-first Intranet for Non-Desk Workers", "version": "1.0", "manifest_version": 2, "homepage_url": "http://eyo.net", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "app": {"urls": ["http://eyo.net/"], "launch": {"web_url": "http://eyo.net/"}}}

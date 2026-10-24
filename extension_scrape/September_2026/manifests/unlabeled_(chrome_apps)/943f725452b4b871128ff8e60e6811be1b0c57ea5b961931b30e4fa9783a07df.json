@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "AshleyNikolIciceSkating.com", "description": "San Diego ice skating lessons for all ages.", "version": "1.0", "app": {"urls": ["http://www.ashleynikoliciceskating.com/"], "launch": {"web_url": "http://www.ashleynikoliciceskating.com/"}}, "icons": {"128": "icon_128.png"}}

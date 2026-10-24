@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Motivation Quotes", "version": "1.0.0", "description": "See an inspiring quote each day. Copy or cycle for another.", "action": {"default_title": "Daily Motivation Quotes", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}, "permissions": ["storage"]}

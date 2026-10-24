@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ActiveHL", "version": "1.1resigned1", "description": "Put the active tab in red.", "permissions": ["theme", "tabs"], "background": {"scripts": ["styling.js"]}, "browser_specific_settings": {"gecko": {"id": "{303c5042-26c7-4eb9-92f4-58e9e1eb260c}"}}}

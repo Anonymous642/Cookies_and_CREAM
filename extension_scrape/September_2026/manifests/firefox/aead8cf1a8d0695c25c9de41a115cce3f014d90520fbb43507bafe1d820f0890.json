@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Quick Clipboard", "version": "1.0.1", "description": "Paste text, download as .txt, and sync to your MERN server", "permissions": ["clipboardRead", "clipboardWrite", "storage"], "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "quick-clipboard@cthulhu.dev"}}}

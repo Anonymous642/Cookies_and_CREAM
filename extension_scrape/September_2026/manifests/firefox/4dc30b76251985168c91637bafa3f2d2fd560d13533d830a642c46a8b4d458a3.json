@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bing Direct Video URL", "version": "2.1", "description": "Forces Bing to open video URLs directly.", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.bing.com/videos/*"], "js": ["force-url.js"]}], "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{fb55493c-200f-4c47-b9bf-72246aea9bde}"}}}

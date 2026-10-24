@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Wayback Search", "version": "1.0", "description": "Search on the Wayback Machine", "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icons/icon.png"}, "browser_specific_settings": {"gecko": {"id": "{ea5ad6ec-8263-4cdc-9ba0-3fdcab8f7468}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bullet List Cleaner", "version": "1.1.0", "description": "Clean messy bullet lists instantly. Remove duplicates, empty lines, and normalize bullets in one click.", "action": {"default_popup": "popup.html", "default_title": "Bullet List Cleaner"}}

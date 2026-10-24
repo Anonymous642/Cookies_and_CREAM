@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VK Plus-mark\u00f6r", "version": "1.4resigned1", "description": "Markerar VK:s Plus-artiklar med bakgrundsf\u00e4rg och ikon.", "content_scripts": [{"matches": ["*://*.vk.se/*"], "js": ["nonplus.js"]}], "web_accessible_resources": ["plus.svg"], "browser_specific_settings": {"gecko": {"id": "{a3b80662-1844-489c-84d9-46000cc68205}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Lugia", "version": "1.0", "description": "So yknow when you wanna download an image on Pinterest? Well now you can! \ud83e\udd40", "icons": {"48": "icons/lugia.png"}, "content_scripts": [{"matches": ["*://*.pinterest.com/*"], "js": ["lugia.js"]}], "browser_specific_settings": {"gecko": {"id": "@lugia"}}}

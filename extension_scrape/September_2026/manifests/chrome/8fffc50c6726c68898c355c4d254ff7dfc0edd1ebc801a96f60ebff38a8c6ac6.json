@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Side-by-Side Text Comparer", "description": "Compare and edit two text blocks with counts, precise highlights, and quick clear actions.", "version": "0.1.0", "action": {"default_title": "Text Comparer", "default_popup": "popup.html"}, "permissions": ["storage"]}

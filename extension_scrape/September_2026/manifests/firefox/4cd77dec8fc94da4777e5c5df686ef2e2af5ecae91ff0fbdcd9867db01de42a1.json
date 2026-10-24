@@ -1,0 +1,1 @@
+{"description": "first theme", "manifest_version": 2, "name": "dyl-first-theme", "permissions": ["theme"], "background": {"scripts": ["theme.js"]}, "version": "1.1resigned1", "applications": {"gecko": {}}, "browser_specific_settings": {"gecko": {"id": "{ec691610-c32b-4626-8390-b62d3f2c21d5}"}}}

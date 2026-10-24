@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Fantasy Name Generator", "version": "1.0", "description": "Generate beautiful foreign names in anime, ancient, and idol styles instantly.", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

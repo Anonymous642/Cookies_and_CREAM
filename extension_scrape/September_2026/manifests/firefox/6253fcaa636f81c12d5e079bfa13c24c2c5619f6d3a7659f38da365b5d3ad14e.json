@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Elevator", "version": "4.2.0", "description": "Elevator music", "permissions": ["webRequest", "webRequestBlocking", "webNavigation"], "background": {"scripts": ["background.js"]}, "icons": {"128": "128.png"}, "browser_specific_settings": {"gecko": {"id": "{ca51b723-f07a-44d2-9b66-4e84bacd3f82}"}}}

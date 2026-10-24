@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Host Switcher", "version": "1.1", "description": "Switch the host of the current tab's URL.", "permissions": ["tabs", "activeTab", "storage"], "action": {"default_popup": "popup.html"}, "icons": {"16": "logo16.png", "32": "logo32.png", "48": "logo48.png", "128": "logo128.png"}}

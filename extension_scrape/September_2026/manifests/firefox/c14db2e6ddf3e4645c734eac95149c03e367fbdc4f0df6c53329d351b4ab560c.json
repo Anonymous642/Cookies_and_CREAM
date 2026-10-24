@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VS Code Web", "version": "1.0", "description": "An extension to open a GitHub repo in VS Code Web", "permissions": ["activeTab"], "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{35b26d2b-df11-4243-84ea-daef3ee00901}"}}}

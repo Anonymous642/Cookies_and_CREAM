@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Borative", "version": "2026.701.1400.0", "description": "Open Borative Workspace OS from Chrome.", "action": {"default_title": "Borative", "default_popup": "popup.html", "default_icon": {"128": "icons/icon-128.png"}}, "icons": {"128": "icons/icon-128.png"}}

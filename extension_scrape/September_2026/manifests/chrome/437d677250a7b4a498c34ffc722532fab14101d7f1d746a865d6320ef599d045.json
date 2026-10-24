@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "roGrabber", "description": "Allows you to view the original asset page of a Roblox clothing item.", "version": "0.0.1", "manifest_version": 3, "background": {"service_worker": "background.js"}, "action": {}, "permissions": ["activeTab"]}

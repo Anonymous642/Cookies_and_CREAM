@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Volume Box", "version": "1.1.0", "description": "Adds a volume percent input to YouTube's player controls.", "permissions": [], "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["content.js"], "css": ["styles.css"], "run_at": "document_idle"}]}

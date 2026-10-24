@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BOB to EUR Converter", "version": "1.0", "description": "Convert Bolivian Boliviano (BOB) to Euro (EUR) instantly.", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/*"], "browser_specific_settings": {"gecko": {"id": "{87b0f8eb-805c-449f-b58f-9cf6fa51f53e}"}}}

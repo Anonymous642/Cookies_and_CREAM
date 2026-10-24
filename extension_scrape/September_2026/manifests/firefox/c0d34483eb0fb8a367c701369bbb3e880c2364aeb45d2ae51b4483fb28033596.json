@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Simple Calendar", "version": "1.0", "description": "A lightweight calendar addon for Firefox.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{21d5ed0a-36f9-4fa0-9b05-42be74c9aac1}"}}}

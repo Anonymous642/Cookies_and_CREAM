@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "USD to COP Converter", "version": "1.0", "description": "Convert USD to Colombian Peso (COP) quickly and easily.", "browser_action": {"default_popup": "popup.html", "default_title": "USD to COP Converter"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{f71ce134-d56d-4785-bddc-889343984c6f}"}}}

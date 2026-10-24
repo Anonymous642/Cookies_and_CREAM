@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HLTV Forum Cleaner", "version": "1.0", "description": "Simplify your browsing experience on HLTV.org by removing the forums section entirely", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://*.hltv.org/*"], "js": ["nohltvforum.js"]}], "browser_specific_settings": {"gecko": {"id": "{a34c659f-d43c-45de-9f50-2c0554a3d291}"}}}

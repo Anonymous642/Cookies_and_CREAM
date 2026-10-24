@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83c\udf49 FruitTime Randomizer", "version": "1.0", "description": "Random current time by region with fruity freshness!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "gakulbusuk@hotmail.com"}}}

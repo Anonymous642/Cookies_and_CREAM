@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "rajbhx Smile Redirect", "version": "1.0", "description": "Redirects javistaraq.blogspot.com requests to rajbhx.amazon.com", "content_scripts": [{"matches": ["*://www.javistaraq.blogspot.com /*"], "js": ["smile.js"]}]}

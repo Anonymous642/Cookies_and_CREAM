@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Quran Search", "description": "Ultimate Quran Search By AskQuran.com", "version": "1.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"background": {"scripts": ["main.js"]}}, "permissions": ["app.window", "webview"]}

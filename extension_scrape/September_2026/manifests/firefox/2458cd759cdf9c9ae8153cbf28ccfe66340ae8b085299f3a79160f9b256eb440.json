@@ -1,0 +1,1 @@
+{"content_scripts": [{"matches": ["<all_urls>"], "js": ["content-script.js"]}], "name": "AFaS", "version": "20250313", "manifest_version": 2, "description": "Auto Fill (the search field with the value taken from the URL #hash) and Submit", "browser_specific_settings": {"gecko": {"id": "{343cb5f6-3ea8-47be-80d6-0671e0190a76}"}}}

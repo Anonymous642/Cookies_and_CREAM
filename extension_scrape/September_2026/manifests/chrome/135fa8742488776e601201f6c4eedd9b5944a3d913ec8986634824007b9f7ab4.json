@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "No Google Auto-Translate", "version": "3.0", "description": "Prevent Chrome from automatically translating websites (like Reddit or Wikipedia.)", "permissions": ["tabs"], "host_permissions": ["*://*.translate.goog/*"], "background": {"service_worker": "background.js"}}

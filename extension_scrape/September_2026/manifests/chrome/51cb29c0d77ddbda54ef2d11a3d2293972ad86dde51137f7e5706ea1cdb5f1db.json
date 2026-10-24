@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Knack Audit Tool", "version": "1.0", "description": "Scans Knack applications for broken references in custom JavaScript.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}, "icons": {"48": "assets/icon48.png", "128": "assets/icon128.png"}}

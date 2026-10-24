@@ -1,0 +1,1 @@
+{"name": "No More NAVER Search", "description": "PLEASE STOP USING NAVER", "version": "1.0.1", "manifest_version": 2, "browser_action": {"default_popup": "index.html", "default_icon": "48.png"}, "icons": {"16": "16.png", "48": "48.png", "128": "128.png"}, "permissions": ["webRequest", "*://search.naver.com/*", "webRequestBlocking"], "background": {"scripts": ["background.js"]}}

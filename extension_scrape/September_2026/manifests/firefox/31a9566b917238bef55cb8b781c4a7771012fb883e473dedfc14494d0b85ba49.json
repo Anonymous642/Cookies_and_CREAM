@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Plex review remover", "version": "1.5", "description": "Removes the review section from the Plex movie detail page", "icons": {"64": "icons/plex-64.png"}, "content_scripts": [{"all_frames": true, "matches": ["<all_urls>"], "js": ["plex-review-remover.js"]}], "browser_specific_settings": {"gecko": {"id": "{c821de55-20a5-48fb-a714-32fa5b3fdf32}"}}}

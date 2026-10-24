@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Today\u2019s Celebrity Birthdays", "version": "1.0", "description": "Automatically display famous people born today.", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

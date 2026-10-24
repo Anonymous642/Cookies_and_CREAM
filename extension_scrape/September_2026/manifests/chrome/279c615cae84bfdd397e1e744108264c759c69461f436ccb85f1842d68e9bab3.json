@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gh Pulse Cutter", "version": "1.0", "description": "Remove elements from the Pulse page on GitHub.", "permissions": ["scripting", "activeTab", "storage"], "action": {"default_title": "Gh Pulse Cutter", "default_popup": "popup.html", "default_icon": "icon.png"}}

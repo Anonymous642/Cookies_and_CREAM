@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Kaltura Hide Reactions", "version": "1.0", "description": "Hides the floating emoji reactions on the Kaltura video streaming platform.", "host_permissions": ["https://*.kaltura.com/*"], "content_scripts": [{"matches": ["https://*.kaltura.com/*"], "js": ["content.js"]}]}

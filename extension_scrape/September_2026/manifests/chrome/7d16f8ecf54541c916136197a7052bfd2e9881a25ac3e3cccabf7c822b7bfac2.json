@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple Compound Interest", "version": "1.0.0", "description": "Calculate compound interest quickly in a simple popup.", "action": {"default_title": "Simple Compound Interest", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Wave Timetable", "version": "1.0.0", "description": "Create and manage a weekly timetable in a wavy-themed popup.", "action": {"default_title": "Wave Timetable", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

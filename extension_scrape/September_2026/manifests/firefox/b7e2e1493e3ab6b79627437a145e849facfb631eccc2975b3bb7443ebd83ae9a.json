@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "youtube_rewatch", "version": "1.0", "description": "Counts youtube rewatches in a day.", "icons": {"48": "icons/rewatch.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/watch*"], "js": ["rewatch_check.js"]}], "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{da9759fb-bff5-40cf-8bc6-ea87f622bb90}"}}}

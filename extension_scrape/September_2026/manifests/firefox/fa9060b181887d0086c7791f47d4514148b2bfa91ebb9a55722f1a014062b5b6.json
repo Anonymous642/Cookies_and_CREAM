@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Netflix-skip", "version": "1.0", "description": "A super simple Netflix intro autoskip that just works. (I can't believe a working version of this does not already exist for FireFox)", "icons": {"48": "./assets/icon.png"}, "content_scripts": [{"matches": ["*://*.netflix.com/*"], "js": ["index.js"]}]}

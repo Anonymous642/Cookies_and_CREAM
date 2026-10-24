@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ChatGPT RTL", "version": "1.4", "author": "Roy Damari", "description": "Helps users to use ChatGPT in RTL languages", "permissions": [], "content_scripts": [{"matches": ["https://chatgpt.com/*"], "css": ["style.css"], "js": ["scripts.js"]}], "icons": {"128": "icon128.png"}}

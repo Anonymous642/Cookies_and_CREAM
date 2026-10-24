@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GPT Run-code", "description": "Easily preview your code in ChatGPT", "version": "1.1", "manifest_version": 3, "icons": {"16": "16.png", "48": "48.png", "128": "128.png"}, "content_scripts": [{"matches": ["https://chatgpt.com/*"], "js": ["content-script.js"]}]}

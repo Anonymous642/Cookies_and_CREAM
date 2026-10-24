@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Markdown Pad", "version": "1.0", "description": "Write and preview notes in Markdown format.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{c45da219-ad4b-44bf-858a-01a6426a9090}"}}}

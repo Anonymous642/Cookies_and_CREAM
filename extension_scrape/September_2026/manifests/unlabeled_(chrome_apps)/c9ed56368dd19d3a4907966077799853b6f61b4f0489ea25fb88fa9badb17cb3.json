@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Terry Brival", "description": "The official app of Terry Brival.", "version": "0.0.0.5", "manifest_version": 2, "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.terrybrival.com/#Welcome.F"], "launch": {"web_url": "http://www.terrybrival.com/#Welcome.F "}}}

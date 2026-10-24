@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Euro to HUF Converter", "version": "1.0", "description": "A simple converter for Euro to HUF.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{f572b4c3-6dac-47e2-97cd-c52318a04276}"}}}

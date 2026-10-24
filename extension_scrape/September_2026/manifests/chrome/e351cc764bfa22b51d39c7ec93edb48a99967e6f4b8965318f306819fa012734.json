@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Must Have Theme", "version": "1.1.0", "description": "A premium, glassmorphism-inspired Chrome New Tab experience.", "chrome_url_overrides": {"newtab": "newtab/index.html"}, "permissions": ["storage"], "host_permissions": ["https://peapix.com/*"], "icons": {"128": "assets/icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Pagkaki.gr ", "description": "Movies, Gaming. Entertainment is simple and it is here, pagkaki.gr.", "version": "2.0.0.0", "manifest_version": 2, "icons": {"128": "pagkakiicon.png"}, "app": {"urls": ["http://www.pagkaki.gr/"], "launch": {"web_url": "http://www.pagkaki.gr/"}}}

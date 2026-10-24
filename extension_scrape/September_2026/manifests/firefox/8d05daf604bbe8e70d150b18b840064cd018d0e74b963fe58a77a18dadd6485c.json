@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "BookTab", "version": "1.1.2", "description": "A new tab page that displays your bookmarks with a filter bar.", "permissions": ["bookmarks", "storage"], "chrome_url_overrides": {"newtab": "newtab/newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{154801e0-3941-4d5d-ba85-c592d087aa13}"}}, "icons": {"96": "icons/icon.png"}}

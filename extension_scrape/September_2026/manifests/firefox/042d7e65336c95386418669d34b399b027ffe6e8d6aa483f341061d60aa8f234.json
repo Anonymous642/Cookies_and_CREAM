@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UA Changer", "version": "1.0", "description": "Quickly and easily switch between popular user-agent strings.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{a8e37745-b940-4b29-9078-d8c51b6e67e0}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "__MSG_extName__", "description": "__MSG_extDescription__", "version": "1.0", "default_locale": "en", "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus", "tabs"], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{7e2ecc3d-7425-465e-8226-00cdbbe52d2a}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "youtubeFix", "version": "1.2resigned1", "description": "Fixes the youtube full screen scroll bar bug", "content_scripts": [{"matches": ["*://www.youtube.com/watch?v=*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{fffdc15b-12b2-4f4d-b637-48aedec7e3e5}"}}}

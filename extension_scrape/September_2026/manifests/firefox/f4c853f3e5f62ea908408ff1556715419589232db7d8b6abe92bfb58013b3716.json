@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Emoji & Charms", "version": "1.0", "description": "Quickly insert emojis & symbols.", "action": {"default_popup": "popup.html", "default_icon": "emoji_&_charms.png"}, "icons": {"128": "emoji_&_charms.png"}, "browser_specific_settings": {"gecko": {"id": "jeanahqkp360040@hotmail.com"}}}

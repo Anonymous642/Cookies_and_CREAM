@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Todo List", "version": "1.0", "description": "Simple popup todo list with checkboxes, priorities, and due dates.", "permissions": ["storage"], "action": {"default_popup": "popup.html"}}

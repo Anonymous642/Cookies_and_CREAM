@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Funny Random Password Generator", "version": "1.0.0", "description": "Generate random passwords instantly with a playful and simple popup interface.", "action": {"default_title": "Random Password Generator", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DarkSelect", "version": "2", "description": "Invert colors in selected regions of any webpage.", "action": {"default_popup": "popup.html"}, "permissions": ["scripting", "activeTab"], "host_permissions": ["<all_urls>"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "K-Style Random Password Generator", "version": "1.0.0", "description": "Generate secure random passwords quickly with a clean Korean-style UI. No tracking, no ads.", "action": {"default_title": "Password Generator", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

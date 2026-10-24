@@ -1,0 +1,1 @@
+{"description": "Removing youtube ending cards", "manifest_version": 2, "name": "Youtube ending cards removal", "version": "1.0", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["borderify.js"]}]}

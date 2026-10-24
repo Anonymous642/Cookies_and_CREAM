@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MarseyHieroglyphics", "version": "1.2.3", "description": "Makes it easier to use the Marsey Alphabet", "icons": {"48": "icons/Mjau.png"}, "content_scripts": [{"matches": ["*://*.rdrama.net/*"], "js": ["project.js"]}], "browser_specific_settings": {"gecko": {"id": "{fac515f9-dcc0-40a7-91a8-cad1102719eb}"}}}

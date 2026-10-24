@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple Metronome", "description": "Make practicing easier!", "version": "1.1", "action": {"default_popup": "metronome.d1c11b6a.html"}, "icons": {"48": "icon-48.86d6dfb9.png", "128": "icon-128.d34f1bab.png"}}

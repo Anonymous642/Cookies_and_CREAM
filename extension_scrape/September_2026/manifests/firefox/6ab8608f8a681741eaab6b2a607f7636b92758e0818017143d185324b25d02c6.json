@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tag-Based Notes", "version": "1.0", "description": "Create and manage notes with tags for easy organization.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{3bce3613-d97a-4576-97db-7e0ef53b28a7}"}}}

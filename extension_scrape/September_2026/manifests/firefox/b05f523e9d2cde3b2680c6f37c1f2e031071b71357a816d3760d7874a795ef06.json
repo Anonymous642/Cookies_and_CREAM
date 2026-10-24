@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "__MSG_extensionName__", "version": "1.0", "description": "__MSG_extensionDescription__", "icons": {"128": "icons/icon128.png"}, "browser_specific_settings": {"gecko": {"id": "{b3f2d3c1-a3e2-1f5b-a5d2-c1f1d3e2b1a5}"}}, "permissions": ["storage"], "action": {"default_popup": "popup/popup.html", "default_icon": {"128": "icons/icon128.png"}}}

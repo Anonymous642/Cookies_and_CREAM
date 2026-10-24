@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "World Clock Panel", "version": "1.0.0", "description": "Click the extension icon to view clocks for five different time zones.", "action": {"default_popup": "popup.html", "default_title": "World Clock Panel"}, "permissions": []}

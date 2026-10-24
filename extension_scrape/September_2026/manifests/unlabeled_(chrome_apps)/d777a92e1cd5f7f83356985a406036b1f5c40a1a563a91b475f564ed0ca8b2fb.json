@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Potoooooooo", "description": "Chrome extension for changing the word potato to potoooooooo.", "version": "1.0", "manifest_version": 2, "app": {"background": {"scripts": ["jquery.min.js", "content.js"]}}, "icons": {"16": "potato16.PNG", "128": "potato128.PNG"}}

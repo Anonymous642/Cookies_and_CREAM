@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Knickerblocker", "version": "1.0", "permissions": ["storage"], "content_scripts": [{"matches": ["https://knickerblogger.net/*"], "js": ["jquery-3.7.1.min.js", "content_script.js"]}], "options_page": "options.html", "icons": {"48": "icon.png"}}

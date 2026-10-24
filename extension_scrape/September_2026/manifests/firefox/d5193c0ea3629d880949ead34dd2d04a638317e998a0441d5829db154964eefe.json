@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Bell", "version": "1.0", "description": "Plays a small different 'ding' sound each time a new tab is opened.", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{910ee9d8-025c-4c23-bf23-1bc3a95da718}"}}}

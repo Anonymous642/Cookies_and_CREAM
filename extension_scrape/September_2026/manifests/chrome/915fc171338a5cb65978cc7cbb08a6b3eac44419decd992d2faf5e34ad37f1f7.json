@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Remoteless", "version": "1.0.0", "description": "Enjoy remote team", "manifest_version": 3, "author": "Dylan Teixeira", "action": {"default_popup": "index.html", "default_title": "Remoteless"}, "icons": {"128": "assets/imgs/icon.png"}, "permissions": ["storage", "activeTab", "scripting"]}

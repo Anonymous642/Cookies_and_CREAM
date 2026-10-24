@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Google Opener", "version": "1.0", "description": "Opens Google", "background": {"scripts": ["background.js"]}, "browser_action": {"default_title": "Open Google"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{6e8562aa-497e-4f29-b0c1-09b44183181d}"}}}

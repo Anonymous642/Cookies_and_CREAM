@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mokum Dark Green Mode", "version": "1.0", "description": "Changes mokum.place to dark background with green text", "permissions": ["*://*.mokum.place/*"], "content_scripts": [{"matches": ["*://*.mokum.place/*"], "css": ["style.css"]}], "browser_specific_settings": {"gecko": {"id": "{01752fbb-9208-4a4e-9e8e-6cdfdaf68180}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mrush Tools", "version": "1.2resigned1", "description": "Adds a counter for mrush.", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["http://mrush.pl/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{e89ca7fa-c0af-44b3-9ee6-caf75ee59775}"}}}

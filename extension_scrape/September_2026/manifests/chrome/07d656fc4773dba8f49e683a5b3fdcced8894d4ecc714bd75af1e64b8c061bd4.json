@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Happy Wheels and More", "version": "4", "description": "Quick links to Totaljerkface.com, Happy Wheels, Divine Intervention, and About/Ask a Question Pages.", "icons": {"128": "icon1.png"}, "action": {"default_icon": "icon2.png", "default_popup": "popup.html"}}

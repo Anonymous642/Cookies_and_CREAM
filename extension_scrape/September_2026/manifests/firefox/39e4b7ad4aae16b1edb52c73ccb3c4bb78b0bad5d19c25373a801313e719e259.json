@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "prayertimesriyadh", "version": "1.0", "description": "Check Prayer Times Riyadh Daily", "icons": {"48": "icons/48.png"}, "applications": {"gecko": {"strict_min_version": "58.0", "id": "prayertimesriyadh-firefox@robwu.nl"}}, "action": {"default_popup": "popup.html", "default_title": "prayertimesriyadh"}}

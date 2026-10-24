@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Filmora: AI Video Editor, Maker for Chrome", "version": "1.0.2", "description": "Advanced video editing tools for your browser.", "action": {"default_icon": "icon.png", "default_title": "Filmora: AI Video Editor, Maker for Chrome"}, "background": {"service_worker": "background.js"}}

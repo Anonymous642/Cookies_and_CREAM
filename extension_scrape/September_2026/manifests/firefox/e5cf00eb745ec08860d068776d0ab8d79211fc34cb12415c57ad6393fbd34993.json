@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Raid Flag Remover", "version": "4", "description": "Automatically removes the raid flag on Twitch, ensuring you are counted as a regular viewer when joining a raided channel", "content_scripts": [{"matches": ["*://www.twitch.tv/*"], "js": ["TRAV.js"]}], "browser_specific_settings": {"gecko": {"id": "{feae016c-121a-41e5-ae76-3894d9b02c93}"}}}

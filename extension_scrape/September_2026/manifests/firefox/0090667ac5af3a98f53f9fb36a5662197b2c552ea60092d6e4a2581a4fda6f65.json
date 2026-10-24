@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Screw The Stats", "version": "1.0", "description": "Removes The Statistics From ficbook.net", "content_scripts": [{"matches": ["*://*.ficbook.net/*"], "js": ["hide.js"]}], "browser_specific_settings": {"gecko": {"id": "{ea33e34b-e831-4e22-a626-d5996abf2487}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Blocker", "version": "1.1.75", "description": "Redirects access to YouTube to 3blue1brown.", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"], "persistent": true}, "browser_specific_settings": {"gecko": {"id": "{78b14c38-cb7a-4d01-9fc8-cd7faa82947b}"}}}

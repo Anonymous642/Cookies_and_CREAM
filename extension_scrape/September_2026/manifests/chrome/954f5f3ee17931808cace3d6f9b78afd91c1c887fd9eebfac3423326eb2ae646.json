@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "EQ", "version": "1.1", "description": "4-band equalizer for tab audio.", "permissions": ["activeTab", "offscreen", "storage", "tabCapture"], "action": {"default_popup": "popup.html", "default_title": "EQ"}, "background": {"service_worker": "background.js"}}

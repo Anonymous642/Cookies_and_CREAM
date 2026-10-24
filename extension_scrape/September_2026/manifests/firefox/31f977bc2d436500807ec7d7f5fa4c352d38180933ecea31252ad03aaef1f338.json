@@ -1,0 +1,1 @@
+{"name": "Reddit Signature Revival", "version": "0.1", "description": "Adds signatures to all comments on Reddit, bringing back the nostalgic feel of the good old days", "manifest_version": 2, "content_scripts": [{"js": ["content.js"], "matches": ["https://*.reddit.com/*"]}], "browser_specific_settings": {"gecko": {"id": "{6f786693-8f32-461e-b1db-3ec32a2bc5aa}"}}}

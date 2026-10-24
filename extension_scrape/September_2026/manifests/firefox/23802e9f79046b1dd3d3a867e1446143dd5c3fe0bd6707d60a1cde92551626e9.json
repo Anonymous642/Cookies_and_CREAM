@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ladin (Val Badia)", "version": "1.1", "author": "Samuel Frontull", "description": "Spell-checking dictionary for Ladin (Val Badia).", "dictionaries": {"lld-valbadia": "dictionaries/lld-valbadia.dic"}, "browser_specific_settings": {"gecko": {"id": "lld-valbadia@dictionaries.addons.mozilla.org"}}}

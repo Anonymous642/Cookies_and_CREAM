@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dice Roll Simulator", "version": "1.0", "description": "Rolls dice when clicked!", "action": {"default_popup": "popup.html", "default_icon": {"16": "p3.png", "48": "p3.png", "128": "p3.png"}}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{59df620a-ce2c-47e0-b1e9-c3c3990152d5}"}}}

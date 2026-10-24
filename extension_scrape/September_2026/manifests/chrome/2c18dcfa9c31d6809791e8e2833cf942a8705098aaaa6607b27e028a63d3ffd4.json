@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "IPL Live Score Extension", "version": "2.0.0", "description": "This extension will show you the live score of IPL matches.", "manifest_version": 3, "author": "Abhilash Jain", "action": {"default_popup": "index.html", "default_title": "IPL Live Score Extension", "default_icon": "logo.png"}}

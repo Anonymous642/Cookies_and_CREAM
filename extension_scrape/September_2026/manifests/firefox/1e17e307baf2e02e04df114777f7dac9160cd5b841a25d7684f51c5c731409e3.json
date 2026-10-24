@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Cookie Viewer", "version": "1.0", "description": "View cookies for the current tab", "icons": {"64": "icon.png"}, "permissions": ["cookies", "tabs", "<all_urls>"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{8043f4d4-e34d-4fe0-b1ea-f99ebc4d6f18}"}}}

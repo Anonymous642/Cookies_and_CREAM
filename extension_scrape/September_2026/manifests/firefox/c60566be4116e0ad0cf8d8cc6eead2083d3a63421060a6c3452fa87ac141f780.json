@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Custom Input Navigator", "version": "1.0", "description": "Cycle through text inputs using the ` key.", "permissions": [], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "focus-input-extension-by-bibhab.dev@gmail.com", "strict_min_version": "109.0"}}}

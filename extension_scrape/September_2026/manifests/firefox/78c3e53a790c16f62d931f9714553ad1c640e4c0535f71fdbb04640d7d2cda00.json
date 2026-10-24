@@ -1,0 +1,1 @@
+{"name": "Sapphire Browser Helper", "description": "Supports the use of Sapphire Point of Sale", "version": "1.0.0", "manifest_version": 2, "background": {"scripts": ["background.js"]}, "icons": {"16": "images/icons/gem_16.png", "48": "images/icons/gem_48.png", "128": "images/icons/gem_128.png"}, "permissions": ["tabs", "*://*/*"]}

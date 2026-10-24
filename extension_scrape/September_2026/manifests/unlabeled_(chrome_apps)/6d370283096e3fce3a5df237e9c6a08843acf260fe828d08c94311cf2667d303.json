@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_appName__", "description": "__MSG_appDesc__", "default_locale": "en", "version": "6.2.31", "manifest_version": 2, "short_name": "All-in-One Smart Work App", "app": {"launch": {"web_url": "https://www.workdo.co/"}}, "icons": {"24": "photo_24.png", "128": "photo_128.png"}}

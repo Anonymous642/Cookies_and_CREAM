@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Highlight Internal Links", "version": "1.2.1", "description": "Highlights internal links on any webpage.", "permissions": ["scripting", "activeTab"], "action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png"}}, "background": {"service_worker": "background.js"}}

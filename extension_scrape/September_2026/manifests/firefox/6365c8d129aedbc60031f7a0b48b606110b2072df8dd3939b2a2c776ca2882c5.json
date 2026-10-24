@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "autoClick", "version": "3.1", "description": "Adds a red border to all webpages matching mozilla.org.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["autoClick.js"]}], "browser_specific_settings": {"gecko": {"id": "autoClick3@example.com"}}}

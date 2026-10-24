@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "TweakTown Web App", "description": "Tech content trusted by users in North America and around the world", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.tweaktown.com/"], "launch": {"web_url": "http://www.tweaktown.com/"}}}

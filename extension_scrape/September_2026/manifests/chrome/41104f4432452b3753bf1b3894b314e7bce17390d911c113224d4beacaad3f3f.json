@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Dark Reader", "version": "1.0", "description": "Changes the background color of all webpages to black.", "permissions": [], "content_scripts": [{"matches": ["<all_urls>"], "css": ["dark.css"], "run_at": "document_start"}], "action": {"default_icon": {"16": "icon.png"}}}

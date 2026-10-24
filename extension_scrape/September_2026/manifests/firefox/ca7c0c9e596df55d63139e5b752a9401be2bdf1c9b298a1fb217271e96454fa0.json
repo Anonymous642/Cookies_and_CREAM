@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Days Without Overflow", "version": "1.0.1", "description": "Counts how many days have you survived without StackOverflow.", "browser_action": {"default_icon": {"64": "img/stack_overflow_icon.png"}, "default_title": "Days Without Overflow", "default_popup": "html/popup.html", "browser_style": true}, "permissions": ["history"]}

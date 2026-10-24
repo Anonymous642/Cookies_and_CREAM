@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Binary Clock", "version": "1.0.0", "description": "Binary Clock: Show binary time.", "action": {"default_popup": "popup.html", "default_icon": "binary_clock.png"}, "icons": {"128": "binary_clock.png"}, "browser_specific_settings": {"gecko": {"id": "guineveresamsonedward8564@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

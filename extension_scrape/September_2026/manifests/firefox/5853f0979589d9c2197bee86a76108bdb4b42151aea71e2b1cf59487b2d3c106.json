@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "HaloOglasi sortiranje po datumu", "version": "1.0", "description": "Dodatak koji sortira oglase po datumu ignorisuci placene oglase (Premium/Top).", "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "@halooglasi-sorter"}}, "content_scripts": [{"matches": ["*://*.halooglasi.com/nekretnine/*"], "js": ["content.js"]}]}

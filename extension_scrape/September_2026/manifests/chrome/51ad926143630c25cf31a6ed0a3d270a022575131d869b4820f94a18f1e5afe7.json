@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Claude UI Modifier", "version": "1.0", "description": "Modifies Claude's UI with custom fonts and colors", "permissions": ["activeTab", "scripting"], "content_scripts": [{"matches": ["https://claude.ai/*"], "css": ["styles.css"], "js": ["contentScript.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Google Title Changer", "version": "1.0", "description": "Changes Google's title", "content_scripts": [{"matches": ["*://www.google.com/*"], "js": ["title-changer.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{db2c9777-dfec-42ef-871b-9bf192087bb4}"}}}

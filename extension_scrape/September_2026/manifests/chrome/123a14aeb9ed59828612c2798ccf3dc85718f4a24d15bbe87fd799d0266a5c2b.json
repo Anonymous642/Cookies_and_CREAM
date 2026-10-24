@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Markdown Previewer", "version": "1.0.0", "description": "Write Markdown and instantly preview it in a clean, modern popup.", "action": {"default_title": "Markdown Previewer", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}, "permissions": ["storage"]}

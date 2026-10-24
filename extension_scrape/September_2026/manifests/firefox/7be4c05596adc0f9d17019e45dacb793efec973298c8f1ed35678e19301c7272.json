@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Web History Viewer", "version": "1.0", "description": "View your recent browsing history with website favicons.", "permissions": ["history", "activeTab", "webRequest"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{f74ec528-2c5e-4f2e-ac3d-cf3a2c38dd7b}"}}}

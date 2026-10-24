@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Disable All Add-ons", "version": "1.0", "description": "Disable all other add-ons in Firefox.", "permissions": ["management"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "addon-id@example.com"}}}

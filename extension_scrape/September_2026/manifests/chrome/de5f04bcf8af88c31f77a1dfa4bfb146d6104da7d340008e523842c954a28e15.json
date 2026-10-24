@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Timestamp \u2194 DateTime Converter", "version": "1.0.0", "description": "Convert Unix timestamps and human-readable date/time locally.", "action": {"default_title": "Timestamp Converter", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

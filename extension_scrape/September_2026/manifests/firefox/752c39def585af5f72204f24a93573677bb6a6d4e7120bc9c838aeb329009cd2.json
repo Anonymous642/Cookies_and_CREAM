@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Zoom on Hover", "version": "1.0", "description": "Automatically zoom in text when hovering.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_title": "Auto Zoom on Hover", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{97ac8226-5f6e-4758-9f09-a69f3d588d60}"}}}

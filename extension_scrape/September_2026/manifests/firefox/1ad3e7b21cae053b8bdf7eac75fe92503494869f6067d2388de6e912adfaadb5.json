@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Close Facebook", "version": "1.0.0", "description": "Closes Facebook tabs after 5 seconds.", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "closeFacebook_1.0@keeling.me"}}}

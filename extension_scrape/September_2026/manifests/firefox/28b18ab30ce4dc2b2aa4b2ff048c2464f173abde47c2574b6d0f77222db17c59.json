@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Dark Mode Switcher", "version": "1.0", "description": "Automatically switches between dark and light themes based on time of day.", "permissions": ["theme"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{7d5cb963-dee9-42b7-86a9-6b99d2723fca}"}}}

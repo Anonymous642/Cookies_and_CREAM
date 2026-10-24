@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quiet Auto-Update Notifier", "version": "1.0", "description": "Notify updates quietly without disrupting browsing.", "permissions": ["notifications", "management"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{e058d94b-8443-4d1a-bc60-c45fd09cfd4f}"}}}

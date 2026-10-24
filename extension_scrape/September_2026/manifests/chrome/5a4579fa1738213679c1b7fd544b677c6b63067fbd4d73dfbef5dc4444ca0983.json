@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Maze Master Local", "version": "1.0", "description": "Infinite Maze Game with Local Leaderboards", "action": {"default_popup": "popup.html", "default_title": "Play Maze Master"}, "permissions": ["storage"]}

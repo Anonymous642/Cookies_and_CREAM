@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Highlight to Search", "version": "1.0", "description": "Search selected text.", "action": {"default_popup": "popup.html", "default_icon": "highlight_to_search.png"}, "icons": {"128": "highlight_to_search.png"}, "browser_specific_settings": {"gecko": {"id": "kcristophercintroniwbz656@hotmail.com"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "QuickLink", "version": "1.0", "description": "QuickLink: Shorten URLs instantly.", "action": {"default_popup": "popup.html", "default_icon": "quicklink.png"}, "icons": {"128": "quicklink.png"}, "browser_specific_settings": {"gecko": {"id": "troiprinem228652@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

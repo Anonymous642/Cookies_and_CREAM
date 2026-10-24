@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "myrabbits", "version": "1.0", "manifest_version": 2, "description": "Gaming Community since 2001", "icons": {"128": "myr.png"}, "app": {"urls": ["http://www.myrabbits.de/"], "launch": {"web_url": "http://www.myrabbits.de"}}}

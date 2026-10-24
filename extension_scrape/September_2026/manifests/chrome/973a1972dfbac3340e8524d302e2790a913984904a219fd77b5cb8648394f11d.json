@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Textify", "description": "Extract text from images within seconds.", "version": "1.0.0", "manifest_version": 3, "action": {"default_popup": "./public/index.html", "default_icon": "./public/logo.png"}, "icons": {"128": "./public/logo.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remote Control", "version": "1.1.1", "description": "Provides default behavior for media players", "icons": {}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["remote_control.js"]}], "browser_specific_settings": {"gecko": {"id": "{992ffd41-bae2-480e-9a78-9a4e5f86a6bb}"}}}

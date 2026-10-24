@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Imprimir By TKS", "version": "1.0", "description": "Detecta pedido EC e gera etiqueta com ID da loja salvo.", "permissions": ["activeTab", "scripting", "storage"], "action": {"default_popup": "popup.html"}, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}

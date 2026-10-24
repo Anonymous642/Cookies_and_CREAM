@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gregorian To Jalali Web Extension", "version": "0.2.0", "icons": {"48": "./assets/icon/icon-48px.png", "192": "./assets/icon/icon-192px.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["./index.js"]}], "browser_specific_settings": {"gecko": {"id": "{49516612-ff3a-47ab-afdf-4880724b5375}"}}}

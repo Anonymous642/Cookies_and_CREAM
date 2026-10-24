@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Chrome Inspector Sync", "version": "0.0.1", "description": "Syncs Chrome DevTools' information with the Chrome Inspector. Currently just $0", "devtools_page": "devtools.html", "icons": {"128": "icons/128.png"}}

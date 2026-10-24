@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "8 Ball Pool App", "version": "1.4", "description": "Un divertido juego de billar en 8 Ball Pool", "icons": {"128": "icons/icon.png"}, "permissions": [], "background": {"service_worker": "background.js"}, "action": {"default_icon": {"128": "icon.png"}}}

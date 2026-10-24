@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Extrator de T\u00edtulos H2 e H3", "version": "1.0", "description": "Extrai todos os t\u00edtulos H2 e H3 da p\u00e1gina atual e exporta para CSV ou copia para a \u00e1rea de transfer\u00eancia.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

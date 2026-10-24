@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Todoist Linkifier", "version": "1.0", "description": "Highlights links in Todoist Web", "icons": {"48": "icons/linkifier-48.png"}, "content_scripts": [{"matches": ["*://todoist.com/*"], "css": ["linkify.css"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VueJS Highlighter", "version": "1.0", "description": "Highlights instances of 'VueJS' on the current website", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{8b5d5af1-40d4-432f-8fcc-37c947d1c79c}"}}}

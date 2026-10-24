@@ -1,0 +1,1 @@
+{"name": "testExtension", "version": "4", "manifest_version": 2, "description": "Firefox Extensions for Store Publishing", "background": {"scripts": ["background.js"]}, "permissions": ["tabs", "notifications"], "browser_specific_settings": {"gecko": {"id": "{ccd36f70-e2ba-46f7-920a-baabee364bc4}"}}}

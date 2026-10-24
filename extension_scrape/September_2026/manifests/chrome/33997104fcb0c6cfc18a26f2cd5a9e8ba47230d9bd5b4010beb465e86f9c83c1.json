@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "\ud83c\udf41 Autumn Strong Password Generator", "version": "1.0", "description": "Generate strong passwords with customizable length, numbers, and special characters.", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

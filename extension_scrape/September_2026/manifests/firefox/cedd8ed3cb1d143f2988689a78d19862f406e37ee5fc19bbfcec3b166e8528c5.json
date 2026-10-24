@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Two-Factor Authenticator", "version": "1.0", "description": "Generate time-based 2FA codes in-browser.", "permissions": ["storage", "tabs"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{fb6cb8c7-d402-47cf-857d-d1709fa1f0de}"}}}

@@ -1,0 +1,1 @@
+{"description": "Deletes Shorts from YouTube", "manifest_version": 3, "name": "Shorts Deleter", "version": "1.0", "permissions": ["activeTab", "scripting"], "browser_specific_settings": {"gecko": {"id": "shortsdeleter@example.com", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["main.js"]}]}

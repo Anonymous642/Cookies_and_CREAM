@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clickjacking Tester", "version": "1.0", "description": "Test websites for clickjacking vulnerabilities.", "permissions": ["tabs", "activeTab", "<all_urls>"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{095efc63-26a2-44ff-82c8-34a018328825}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "App_4", "version": "1.0", "description": "\u1ee8ng d\u1ee5ng s\u1ed1 4 v\u1edbi n\u1ed9i dung m\u1eabu", "background": {"scripts": ["background.js"]}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{c756240c-2467-4ce6-97dd-e7fd7d99d674}"}}}

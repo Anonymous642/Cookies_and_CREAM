@@ -1,0 +1,1 @@
+{"description": "A medieval harbor town with radiant sunset.", "manifest_version": 2, "chrome_url_overrides": {"newtab": "index.html"}, "name": "Medieval Sunset Haven", "version": "1.0", "browser_specific_settings": {"gecko": {"id": "{c2ebb55d-75fa-40a3-b023-ff850de7fd8e}"}}}

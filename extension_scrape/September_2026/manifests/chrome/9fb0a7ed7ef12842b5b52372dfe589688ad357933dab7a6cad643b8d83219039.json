@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Strong Password Generator - Secure & Offline", "version": "1.0", "description": "Instantly generate highly secure, random passwords offline. No data collected. 100% privacy safe.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}}

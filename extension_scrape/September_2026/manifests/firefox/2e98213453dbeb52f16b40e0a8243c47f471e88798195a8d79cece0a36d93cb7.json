@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fast Image Download", "version": "1.0", "description": "Downloads images fast", "content_scripts": [{"matches": ["<all_urls>"], "js": ["fast.js"], "run_at": "document_start"}]}

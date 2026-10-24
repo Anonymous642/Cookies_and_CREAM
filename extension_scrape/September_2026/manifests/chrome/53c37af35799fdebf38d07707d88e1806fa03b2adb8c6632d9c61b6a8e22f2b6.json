@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Week to Month Converter", "version": "31.01.2001", "description": "Converts week number and year to month and month number based on input.", "action": {"default_popup": "popup.html"}, "permissions": [""], "icons": {"48": "icon.png"}}

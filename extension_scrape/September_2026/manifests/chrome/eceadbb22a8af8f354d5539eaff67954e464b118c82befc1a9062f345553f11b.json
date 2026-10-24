@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Access Token Extractor by FBTOOL.PRO", "version": "1.6", "manifest_version": 3, "description": "Get Access Token for control your Ads", "action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab", "cookies", "scripting"], "host_permissions": ["*://*.facebook.com/*"]}

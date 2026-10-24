@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Baby Pink Clock & Date", "version": "1.0.0", "description": "Shows the current time and today\u2019s date in a cute baby pink popup.", "action": {"default_title": "Baby Pink Clock", "default_popup": "popup.html"}}

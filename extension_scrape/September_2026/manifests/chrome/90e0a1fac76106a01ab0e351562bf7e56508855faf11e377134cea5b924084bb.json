@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Plugin RP2M THE STORE", "description": "S\u00e9lectionner et cliquer pour retrouver vos r\u00e9f\u00e9rences sur votre compte RP2M THE STORE", "version": "1.6", "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}, "manifest_version": 3}

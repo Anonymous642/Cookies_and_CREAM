@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Random Chess Tile Now", "version": "1.01", "description": "Gives you a random tile on chess.com or on the extension. That's it.", "action": {"default_popup": "popup.html"}, "permissions": ["tabs", "scripting", "activeTab"], "icons": {"128": "./images/icon.png"}}

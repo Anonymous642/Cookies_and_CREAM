@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Random Inspiration Tab", "version": "1.0", "description": "Show a random creative prompt each time you open a new tab.", "icons": {"48": "icons/icon48.svg", "128": "icons/icon128.svg"}, "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{07be8daa-aa39-47d8-9894-71cb0badfed1}"}}}

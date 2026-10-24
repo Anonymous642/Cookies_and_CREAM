@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Eevee Night Sky", "version": "1.0.0", "description": "Featuring the beloved Eevee gazing into a peaceful, starlit blue sky.", "icons": {"128": "188987.png"}, "permissions": ["geolocation"], "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{3039fa94-1af2-414d-b699-b09ca164d378}"}}}

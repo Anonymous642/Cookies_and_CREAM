@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Always underline links", "description": "This addon forces links to always be underlined.", "version": "1.0.0", "icons": {"128": "images/icon.png"}, "content_scripts": [{"matches": ["*://*/*"], "css": ["main.css"]}], "browser_specific_settings": {"gecko": {"id": "always-underline-links@amo-menkuri.com", "strict_max_version": "120.*"}}}

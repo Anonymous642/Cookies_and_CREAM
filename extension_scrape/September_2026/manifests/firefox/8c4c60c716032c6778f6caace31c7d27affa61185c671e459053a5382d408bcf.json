@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MVR to IDR Converter", "version": "1.0", "description": "Convert Maldivian Rufiyaa (MVR) to Indonesian Rupiah (IDR) instantly.", "browser_action": {"default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{2c804f0e-8307-4e2a-baae-348a85efed15}"}}}

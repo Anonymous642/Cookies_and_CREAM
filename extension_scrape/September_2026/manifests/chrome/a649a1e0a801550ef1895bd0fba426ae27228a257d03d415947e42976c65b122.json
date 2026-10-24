@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Erkmenhost Server Speed & SEO Analyzer", "version": "2.0.3", "description": "Analyze Server Speed (TTFB), IP Location and SEO.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}}

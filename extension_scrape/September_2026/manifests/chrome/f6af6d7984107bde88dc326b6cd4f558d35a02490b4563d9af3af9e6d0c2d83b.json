@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Modem Interface", "version": "1.0", "description": "Provides access to your modem's interface.", "permissions": [], "host_permissions": ["http://192.168.1.1/*"], "action": {"default_popup": "index.html", "default_icon": "icon.png"}}

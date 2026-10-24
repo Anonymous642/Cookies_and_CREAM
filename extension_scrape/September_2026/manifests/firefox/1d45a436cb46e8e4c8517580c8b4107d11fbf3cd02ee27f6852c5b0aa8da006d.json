@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Longs", "version": "1.0", "description": "Removes shorts suggestions displayed when visiting youtube.", "icons": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["scripts/longs.js"]}], "browser_specific_settings": {"gecko": {"id": "a.elrahman.azzam@gmail.com"}}}

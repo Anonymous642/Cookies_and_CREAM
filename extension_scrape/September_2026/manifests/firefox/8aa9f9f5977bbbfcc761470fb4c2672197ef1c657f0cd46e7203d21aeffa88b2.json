@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Image Blur on Hover", "version": "1.0", "description": "Temporarily blur images on hover to avoid distractions", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{d29a3af2-4c5d-4ba6-b07f-d27077611621}"}}}

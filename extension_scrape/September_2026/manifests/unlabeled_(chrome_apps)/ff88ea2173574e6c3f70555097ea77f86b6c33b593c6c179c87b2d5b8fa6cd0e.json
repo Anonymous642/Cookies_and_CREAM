@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Boogr Doc", "description": "Boogr Doc Demo", "version": "0.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "boogr_16.png", "128": "boogr_128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YearDoneNow", "version": "1.1", "action": {"default_popup": "popup.html", "default_icon": {"16": "calendar.png", "48": "calendar.png", "128": "calendar.png"}}, "icons": {"16": "calendar.png", "48": "calendar.png", "128": "calendar.png"}}

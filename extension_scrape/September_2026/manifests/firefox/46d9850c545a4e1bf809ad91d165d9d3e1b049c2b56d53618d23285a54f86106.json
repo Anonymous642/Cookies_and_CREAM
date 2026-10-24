@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ScrollToTop", "version": "1.0", "description": "Adds a button to scroll to the page's top", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["main.js"]}]}

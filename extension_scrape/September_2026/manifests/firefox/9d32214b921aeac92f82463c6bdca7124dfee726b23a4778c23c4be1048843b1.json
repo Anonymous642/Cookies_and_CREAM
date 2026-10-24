@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Web Archive Save", "version": "1.0", "description": "Save pages offline.", "action": {"default_popup": "popup.html", "default_icon": "web_archive_save.png"}, "icons": {"128": "web_archive_save.png"}, "browser_specific_settings": {"gecko": {"id": "warzelkbuh683584@hotmail.com"}}}

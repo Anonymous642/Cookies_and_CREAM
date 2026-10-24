@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MDBList Search browser", "version": "1.0", "description": "Right-click to search MDBList for movies on browser.", "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "mdblist-search-firefox@yourdomain.com", "strict_min_version": "91.0"}}}

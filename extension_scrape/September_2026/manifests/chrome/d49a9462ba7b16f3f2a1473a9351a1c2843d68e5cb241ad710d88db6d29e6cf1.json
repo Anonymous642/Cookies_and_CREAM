@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute Break Reminder", "description": "Nh\u1eafc b\u1ea1n ngh\u1ec9 ng\u01a1i sau m\u1ed7i 25 ph\u00fat l\u00e0m vi\u1ec7c \ud83d\udc96", "version": "1.0.0", "icons": {"128": "icon128.png"}, "action": {"default_popup": "popup.html"}, "permissions": ["alarms", "notifications"]}

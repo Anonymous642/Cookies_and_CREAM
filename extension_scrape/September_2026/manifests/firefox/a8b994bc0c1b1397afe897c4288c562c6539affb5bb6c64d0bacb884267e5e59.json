@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Creatio Helper", "version": "1.6", "description": "Adds helpful buttons to Creatio page", "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://creatio.earthlink.iq/Nui/ViewModule.aspx*"], "js": ["content.js"], "css": ["styles.css"]}], "browser_specific_settings": {"gecko": {"id": "{2538d64a-7bf1-4273-b3c3-d32e86cd466b}"}}}

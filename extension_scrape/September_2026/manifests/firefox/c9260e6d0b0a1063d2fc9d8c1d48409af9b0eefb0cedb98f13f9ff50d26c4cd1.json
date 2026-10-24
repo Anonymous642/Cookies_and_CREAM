@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "dimar", "version": "1.0", "description": "Refreshes DIM automatically every few minutes", "content_scripts": [{"matches": ["*://app.destinyitemmanager.com/*"], "js": ["dimar.js"]}], "browser_specific_settings": {"gecko": {"id": "{439b86ab-2f4c-4eeb-93c3-1be8949203fa}"}}}

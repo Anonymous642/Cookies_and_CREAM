@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NG+GD", "version": "1.0.1", "description": "Adds Geometry Dash functionality to the Newgrounds Audio Portal.", "icons": {"128": "ngplusgdlogo128.png"}, "permissions": ["*://gdbrowser.com/api/*", "clipboardWrite"], "content_scripts": [{"matches": ["*://www.newgrounds.com/audio/listen/*"], "js": ["NGplusGD.js"]}]}

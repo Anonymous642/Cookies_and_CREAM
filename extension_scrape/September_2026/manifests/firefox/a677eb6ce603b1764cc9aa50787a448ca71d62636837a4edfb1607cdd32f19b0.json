@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Hacker News Dark Mode", "version": "1.0", "description": "Applies a dark theme to Hacker News.", "browser_specific_settings": {"gecko": {"id": "hn-dark-mode@temporary.id", "strict_min_version": "90.0"}}, "content_scripts": [{"matches": ["https://news.ycombinator.com/*"], "css": ["darkmode.css"]}]}

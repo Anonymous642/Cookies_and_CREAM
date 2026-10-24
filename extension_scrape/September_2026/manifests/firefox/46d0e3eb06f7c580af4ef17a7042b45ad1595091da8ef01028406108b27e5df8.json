@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Auto-Saver", "version": "1.0", "description": "Automatically saves and restores open tabs.", "permissions": ["tabs", "storage"], "background": {"scripts": ["background.js"], "persistent": true}, "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{1a7c88dc-f7c1-43c0-8f2a-e88125e2ad20}"}}}

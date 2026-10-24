@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clip to GitHub", "version": "1.0.5", "description": "Upload clipboard contents to GitHub", "permissions": ["storage", "clipboardRead"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "clip_to_gh.valentin@gosu.se"}}}

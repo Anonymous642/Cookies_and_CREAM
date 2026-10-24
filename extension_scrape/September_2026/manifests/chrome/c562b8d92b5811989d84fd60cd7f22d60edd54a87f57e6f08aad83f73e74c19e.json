@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tarotap", "version": "2.0", "description": "Yes or No Tarot - draw from the full 78-card deck with upright & reversed readings. By tarotap.com", "action": {"default_popup": "popup.html"}, "permissions": [], "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

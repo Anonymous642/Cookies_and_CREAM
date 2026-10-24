@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Kindness is a Gift", "version": "1.0", "description": "A collection of quotes celebrating kindness as a daily gift.", "icons": {"128": "images/kind-logo.png"}, "action": {"default_popup": "index.html", "default_icon": "images/kind-logo.png"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.0.2", "name": "Chest Clicker", "description": "Click on twitch chests and streamlabs chests for you :D", "browser_action": {"default_icon": "icone.png"}, "icons": {"96": "icone_96.png"}, "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["points.js"]}], "permissions": ["activeTab"]}

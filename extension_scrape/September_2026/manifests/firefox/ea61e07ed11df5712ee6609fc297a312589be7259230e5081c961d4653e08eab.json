@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "URL Shortener", "version": "1.0", "description": "Shorten the current tab's URL quickly with one click.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{2ab1ee2e-d98d-4e5f-ada9-57c40e676783}"}}}

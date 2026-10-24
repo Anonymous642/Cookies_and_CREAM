@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Links", "version": "1.0", "description": "Add and manage quick links with a clickable button.", "permissions": ["storage"], "action": {"default_popup": "popup.html"}}

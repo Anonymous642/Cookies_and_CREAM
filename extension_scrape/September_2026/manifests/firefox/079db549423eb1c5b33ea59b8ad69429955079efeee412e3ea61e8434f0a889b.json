@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pause on Scroll", "version": "1.0", "description": "Automatically pauses videos when you scroll the page.", "permissions": ["activeTab"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{d05cbdcd-3c29-4bb6-89b2-f4fee7d4bcec}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RTL Fixer", "version": "1.0", "description": "Fix RTL text alignment on specific websites.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{a6bd9f8b-e205-44ee-b591-5afef7b5ba87}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "B-Day Wish Pop", "version": "1.0.0", "description": "Instantly generate heartfelt, funny, or professional birthday wishes for anyone in your life.", "action": {"default_popup": "popup.html", "default_title": "Generate Birthday Wish"}, "icons": {"128": "icon128.png"}}

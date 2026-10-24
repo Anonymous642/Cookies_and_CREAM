@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dynamic Wallpaper Tab", "version": "1.0", "description": "Change new tab wallpaper daily.", "permissions": ["tabs"], "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{077b4e65-a3e1-4a29-8d97-c7102979ffab}"}}}

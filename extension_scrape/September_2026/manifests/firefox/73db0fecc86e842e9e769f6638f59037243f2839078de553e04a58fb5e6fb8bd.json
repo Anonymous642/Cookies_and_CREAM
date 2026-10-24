@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "XKCD Alt Text Display", "version": "2.0", "description": "Displays the alt text below the XKCD comic.", "icons": {"48": "icons/icon_48.png", "96": "icons/icon_96.png"}, "content_scripts": [{"matches": ["*://*.xkcd.com/*"], "js": ["xkcdAltTextDisplay.js"]}], "browser_specific_settings": {"gecko": {"id": "{9413b005-3c1d-4cf9-927f-628546db16b3}"}}}

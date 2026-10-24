@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sydney Prayer Times", "version": "1.0", "description": "Live, everyday Islamic prayer times for Sydney, Australia.", "action": {"default_popup": "popup.html", "default_title": "Sydney Prayer Times"}, "icons": {"128": "icon.png"}}

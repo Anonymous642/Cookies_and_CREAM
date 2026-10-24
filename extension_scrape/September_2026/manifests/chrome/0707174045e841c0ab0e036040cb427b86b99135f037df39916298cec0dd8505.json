@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "EduTiles", "version": "1.2.0", "description": "Launch EduTiles phonics learning app", "permissions": [], "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

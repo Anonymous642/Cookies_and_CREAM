@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FJD to UZS Converter", "version": "1.0", "description": "Convert Fijian Dollar (FJD) to Uzbekistani Som (UZS).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert FJD to UZS"}, "browser_specific_settings": {"gecko": {"id": "{d8c52827-d8ac-4c8a-9012-cbba15563fc0}"}}}

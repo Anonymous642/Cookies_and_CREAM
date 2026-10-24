@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.0", "name": "backpack", "chrome_url_overrides": {"newtab": "index.html"}, "description": "is a type of fabric bag with two straps over the shoulder", "manifest_version": 3}

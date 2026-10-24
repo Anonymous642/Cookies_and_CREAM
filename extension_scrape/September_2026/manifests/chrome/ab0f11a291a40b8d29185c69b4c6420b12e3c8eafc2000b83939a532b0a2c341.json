@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LB Finder", "description": "Find figures on page", "version": "1", "icons": {"128": "128.png"}, "content_scripts": [{"matches": ["https://opensea.io/collection/littlebignft*"], "js": ["jquery 3.6.0.js", "content.js"], "css": ["LB.css"]}]}

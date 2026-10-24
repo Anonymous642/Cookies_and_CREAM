@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GTA San Andreas Cheat Codes", "version": "1.0.0", "description": "Quick GTA San Andreas cheat codes with full download option.", "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ASCII Artist", "description": "Create ASCII art right in your browser!", "app": {"launch": {"local_path": "main.html"}}, "icons": {"16": "icons/icon_16.png", "128": "icons/icon_128.png"}, "offline_enabled": true, "version": "0.9.4", "minimum_chrome_version": "18"}

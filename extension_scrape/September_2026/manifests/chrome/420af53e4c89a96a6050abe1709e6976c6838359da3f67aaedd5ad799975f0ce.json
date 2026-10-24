@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Github buttons for own pr's and code reviews", "description": "Github buttons for own pr's and code reviews", "version": "0.3", "permissions": ["scripting"], "content_scripts": [{"matches": ["https://github.com/*/*"], "js": ["content.js"], "run_at": "document_end"}]}

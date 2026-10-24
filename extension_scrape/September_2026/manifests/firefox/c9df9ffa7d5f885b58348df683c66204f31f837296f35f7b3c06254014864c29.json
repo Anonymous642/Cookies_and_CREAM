@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Bowser", "version": "1.0", "description": "logs selected word snad", "permissions": ["activeTab", "menus", "contextMenus", "storage"], "background": {"scripts": ["bowser1.js"]}, "browser_specific_settings": {"gecko": {"id": "Bowser@Malir.ekv1", "name": "BowserMalir", "data_collection_permissions": {"required": ["none"]}}}}

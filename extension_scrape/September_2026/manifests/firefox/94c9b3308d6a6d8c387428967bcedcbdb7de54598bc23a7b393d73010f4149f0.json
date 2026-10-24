@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Shop Name Suggester", "version": "1.0", "description": "Suggests creative names for online shops selling household products like scissors, knives, and pots.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "x4melvamcvaymyvz21@hotmail.com"}}}

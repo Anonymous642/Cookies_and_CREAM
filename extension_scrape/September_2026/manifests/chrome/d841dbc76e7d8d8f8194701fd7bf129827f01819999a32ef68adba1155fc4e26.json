@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Meet Auto Start Recording", "version": "1.0", "permissions": [], "content_scripts": [{"matches": ["*://meet.google.com/*"], "js": ["content.js"], "run_at": "document_end"}], "background": {"service_worker": "background.js"}, "action": {}}

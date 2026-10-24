@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Premed Tracker (Skool HTML Renderer)", "version": "1.0", "description": "Automatically render escaped HTML like <iframe> in Skool.", "content_scripts": [{"matches": ["https://*.skool.com/*"], "js": ["content.js"]}], "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CZK to ILS Converter", "version": "1.0", "description": "Convert Czech Koruna (CZK) to Israeli Shekel (ILS).", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/"], "browser_specific_settings": {"gecko": {"id": "{0f376eeb-5dd6-4790-a84f-83e933561cdf}"}}}

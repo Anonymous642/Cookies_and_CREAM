@@ -1,0 +1,1 @@
+{"description": "rtl confluence for supporting persian texts", "manifest_version": 2, "name": "cartl", "version": "1.0", "homepage_url": "https://github.com/arshiamids/cartel", "icons": {"48": "icons/octi.png"}, "content_scripts": [{"matches": ["*://sys.pouyarasaneh.com/*"], "js": ["test.js"]}]}

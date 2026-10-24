@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Camera Wifi Guide", "version": "1.0", "description": "Step-by-step guide to install WiFi camera at home.", "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "camera_wifi_guide@addon.dev"}}}

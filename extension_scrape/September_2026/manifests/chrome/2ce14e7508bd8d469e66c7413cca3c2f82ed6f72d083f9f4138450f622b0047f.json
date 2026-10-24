@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mood Place Picker", "version": "1.0.0", "description": "Pick a place to go based on your mood in a clean popup.", "action": {"default_title": "Mood Place Picker", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

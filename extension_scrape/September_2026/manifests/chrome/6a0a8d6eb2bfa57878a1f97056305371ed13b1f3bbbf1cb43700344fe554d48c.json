@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Baby Name Generator", "version": "1.0", "description": "A simple offline baby name generator.", "offline_enabled": true, "icons": {"128": "icons/128.png"}, "action": {"default_icon": "icons/128.png", "default_popup": "popup.html"}, "permissions": []}

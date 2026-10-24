@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ITC Tab cycle randomiser", "version": "1.0", "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html"}, "icons": {"16": "itc.png", "32": "itc.png", "48": "itc.png", "128": "itc.png"}}

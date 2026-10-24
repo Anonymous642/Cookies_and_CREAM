@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Highlight Important Buttons", "version": "1.0", "description": "Make critical action buttons glow.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Highlight Important Buttons"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{7b30e1a2-9e2d-481b-8260-22d147da97b0}"}}}

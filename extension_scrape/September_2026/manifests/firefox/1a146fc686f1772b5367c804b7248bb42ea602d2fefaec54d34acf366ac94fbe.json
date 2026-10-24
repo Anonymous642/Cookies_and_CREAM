@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Custom New Tab", "version": "1.0", "description": "Change the new tab page in Firefox.", "permissions": ["tabs"], "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{b0a821b4-40d4-4932-9222-32357dff3712}"}}}

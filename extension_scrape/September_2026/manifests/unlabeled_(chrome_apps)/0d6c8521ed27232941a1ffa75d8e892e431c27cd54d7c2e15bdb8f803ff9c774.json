@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "J2launch", "description": "Award winning primary school software - Empowering learning through technology.", "version": "1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"launch": {"web_url": "https://www.j2e.com?idp=google"}}}

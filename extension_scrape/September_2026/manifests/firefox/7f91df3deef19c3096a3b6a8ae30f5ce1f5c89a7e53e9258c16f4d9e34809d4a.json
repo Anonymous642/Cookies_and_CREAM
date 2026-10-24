@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Baby XSS", "description": "XSS made easy by Xanco", "version": "1.0", "default_locale": "en", "background": {"scripts": ["background.js"]}, "permissions": ["menus", "activeTab", "clipboardRead", "clipboardWrite"], "browser_specific_settings": {"gecko": {"id": "{fb2669e3-e4c5-4f57-9e4f-157653be0c33}"}}}

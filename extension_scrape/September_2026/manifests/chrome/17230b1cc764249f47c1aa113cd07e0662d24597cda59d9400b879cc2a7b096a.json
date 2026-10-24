@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pop-up as Tab", "version": "3.2.1", "permissions": ["tabs", "storage"], "action": {"default_popup": "popup.html"}, "background": {"service_worker": "background.js"}, "options_page": "options.html", "icons": {}}

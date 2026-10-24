@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NoJS on I2P", "version": "1.0.1.1", "description": "Disables JavaScript on .i2p domains", "permissions": ["webRequest", "webRequestBlocking", "*://*.i2p/*", "storage"], "background": {"scripts": ["background.js"]}, "options_ui": {"page": "options.html"}, "browser_specific_settings": {"gecko": {"id": "{6b33049f-ac94-4523-a177-0fd002b680ae}"}}}

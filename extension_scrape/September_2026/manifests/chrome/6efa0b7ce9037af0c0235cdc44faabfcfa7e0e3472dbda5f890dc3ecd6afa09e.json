@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute Space Scrubber", "version": "1.0.0", "description": "Adorably removes extra spaces from your text! (\uff89\u25d5\u30ee\u25d5)\uff89*:\uff65\uff9f\u2727", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}, "icons": {"128": "icon128.png"}}

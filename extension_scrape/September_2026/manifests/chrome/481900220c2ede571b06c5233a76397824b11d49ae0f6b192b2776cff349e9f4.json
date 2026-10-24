@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Timezone Buddy", "version": "1.0", "description": "", "background": {"service_worker": "background.js"}, "action": {"default_popup": "index.html", "default_icon": {"16": "icons/icon.png"}}, "permissions": ["storage"], "host_permissions": [], "icons": {"16": "icons/icon.png"}}

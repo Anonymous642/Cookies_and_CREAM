@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Rails API Docs Opener", "version": "1.0.1", "description": "Select a Rails version and open its API documentation.", "host_permissions": ["https://rubygems.org/*"], "action": {"default_popup": "popup.html"}, "background": {"service_worker": "background.js"}}

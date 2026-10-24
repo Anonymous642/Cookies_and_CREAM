@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Scroll to Bottom", "version": "1.0", "description": "Cu\u1ed9n xu\u1ed1ng cu\u1ed1i trang web", "icons": {"48": "icons/icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icons/icon.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{7760715a-ebf4-4c87-89c4-d96421a7668f}"}}}

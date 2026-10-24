@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ripple tweaks", "version": "1.2.2resigned1", "description": "Eggplants", "icons": {"128": "favicon.png"}, "content_scripts": [{"css": ["styles.css"], "js": ["content.js"], "matches": ["https://ripple.moe/u/*", "http://ripple.moe/u/*"]}], "browser_specific_settings": {"gecko": {"id": "{025cbc18-271f-4da9-83cf-45452f3f7271}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "img-enlarger", "version": "1.0", "description": "Image enlarger for my-class", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "css": ["img-enlarger.css"]}]}

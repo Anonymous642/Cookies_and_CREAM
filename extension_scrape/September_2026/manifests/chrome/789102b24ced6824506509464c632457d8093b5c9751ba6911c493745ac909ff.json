@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GDocs Favmoji", "version": "0.2", "description": "Automatically changes the favicon of Google docs to first emoji in the doc title.", "content_scripts": [{"matches": ["https://docs.google.com/*"], "js": ["content.js"]}]}

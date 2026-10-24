@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "I don't want security", "version": "1.0.1", "declarative_net_request": {"rule_resources": [{"id": "TouchEnNx_rules", "path": "TouchEnNx_rules.json", "enabled": true}]}, "permissions": ["declarativeNetRequest"], "host_permissions": ["<all_urls>"]}

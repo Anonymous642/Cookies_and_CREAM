@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Text Summarizer", "version": "1.0", "description": "Summarizes full page text into digestible charts.", "permissions": ["activeTab", "scripting", "storage"], "action": {"default_title": "Summarize Page"}, "background": {"service_worker": "background.js"}}

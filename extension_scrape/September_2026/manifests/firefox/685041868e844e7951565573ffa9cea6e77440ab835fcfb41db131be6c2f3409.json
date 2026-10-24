@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "TrueAim adblock", "version": "1.0.3", "description": "Manually remove ads from certain websites.", "icons": {}, "browser_specific_settings": {"gecko": {"id": "trueaim@janipen.uk", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"matches": ["*://magma.com/d/*"], "js": ["magma.js"]}]}

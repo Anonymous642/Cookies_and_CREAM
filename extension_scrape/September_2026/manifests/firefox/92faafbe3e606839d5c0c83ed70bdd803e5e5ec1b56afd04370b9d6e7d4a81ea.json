@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RegEx Patterns", "version": "1.0", "permissions": ["activeTab", "storage"], "sidebar_action": {"default_panel": "sidebar.html"}, "web_accessible_resources": ["patterns.json", "sidebar.js", "sidebar.css"], "browser_specific_settings": {"gecko": {"id": "{fd23d609-462e-4fab-b82a-6626ca87e3da}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Horror Movie News", "version": "1.0", "description": "Displays daily horror movie news and releases.", "action": {"default_popup": "popup.html"}, "permissions": []}

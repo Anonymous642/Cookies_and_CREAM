@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "\u7f8e\u80a1\u91cf\u5316\u7ec8\u7aef", "version": "28.1", "action": {"default_popup": "popup.html"}, "host_permissions": ["https://api.stock-market-index.com/*", "https://finnhub.io/*"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Smart Domain Name Generator", "version": "1.0.0", "description": "Generate creative domain name ideas instantly from a keyword.", "action": {"default_popup": "popup.html", "default_title": "Domain Name Generator"}, "icons": {"128": "icon128.png"}}

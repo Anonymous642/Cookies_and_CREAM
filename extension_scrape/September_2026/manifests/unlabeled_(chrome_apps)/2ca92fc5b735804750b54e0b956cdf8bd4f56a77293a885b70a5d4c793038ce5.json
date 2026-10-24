@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Gates of Camelot", "description": "Free MMO from SnakeHead Games", "version": "1.2", "app": {"urls": ["http://www.gatesofcamelot.com/"], "launch": {"web_url": "http://www.gatesofcamelot.com/"}}, "icons": {"128": "icon_128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

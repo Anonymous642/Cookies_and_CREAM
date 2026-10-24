@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Copy Decoded URL", "version": "1.0", "description": "Right-click a link to copy a fully decoded, human-readable URL.", "permissions": ["contextMenus", "clipboardWrite"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{e535b2ac-3ba9-4049-a963-c42fc826c96b}"}}}

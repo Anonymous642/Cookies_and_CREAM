@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Star Shoot Music", "version": "1.0", "description": "B\u1eafn sao theo nh\u1ea1c n\u1ec1n trong kh\u00f4ng gian v\u0169 tr\u1ee5.", "permissions": ["activeTab"], "browser_action": {"default_popup": "index.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{27ec0345-ec93-4807-a125-ecd021ccf0f9}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute Font Boost", "version": "1.0.1", "description": "Make text easier to read by increasing font size on the current tab.", "action": {"default_title": "Cute Font Boost", "default_popup": "popup.html"}, "permissions": ["activeTab", "scripting"], "icons": {"128": "icon128.png"}}

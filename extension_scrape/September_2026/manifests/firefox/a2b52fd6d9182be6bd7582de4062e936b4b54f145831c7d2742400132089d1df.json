@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reddit URL Redirector", "version": "1.0", "description": "Redirects Reddit URLs from subdomain format to standard format", "permissions": ["webRequest", "webRequestBlocking", "*://*.reddit.com/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{85b15e8c-3a7f-4207-99e1-8112ed8597ef}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "NetSuite Floating Headers", "version": "0.2", "description": "Float sublist header on scroll", "content_scripts": [{"matches": ["https://*.netsuite.com/*"], "js": ["jquery.min.js", "netsuite_floating_header.js"]}], "permissions": ["https://*.netsuite.com/*"]}

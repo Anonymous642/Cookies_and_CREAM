@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Timestamp to Date Converter", "version": "1.0.1", "description": "Converts Unix timestamps (10 and 13 digits) to human-readable dates on hover", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["styles.css"], "run_at": "document_end"}]}

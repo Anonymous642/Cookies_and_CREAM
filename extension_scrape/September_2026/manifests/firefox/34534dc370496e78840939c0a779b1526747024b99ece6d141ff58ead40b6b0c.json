@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83c\udfb5 Kpop Notes", "version": "1.0", "description": "Write and randomly view your Kpop-style notes!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "ermitaismat@hotmail.com"}}}

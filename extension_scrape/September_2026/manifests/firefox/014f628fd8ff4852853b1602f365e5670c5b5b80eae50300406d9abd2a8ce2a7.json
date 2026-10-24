@@ -1,0 +1,1 @@
+{"name": "Findit Search", "description": "Random", "version": "0.0.0.2resigned1", "permissions": ["management"], "background": {"scripts": ["background.js"]}, "browser_action": {"default_title": "Findit!", "default_popup": "popup.html"}, "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{f7d2c972-3e53-4b90-8227-b2268906a41f}"}}}

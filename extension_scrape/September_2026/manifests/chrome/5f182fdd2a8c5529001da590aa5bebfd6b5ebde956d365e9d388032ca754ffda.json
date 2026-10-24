@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Save your eyes", "description": "Ciemny motyw dla platformy zdalnego nauczania", "version": "1.0", "manifest_version": 3, "permissions": ["declarativeContent"], "content_scripts": [{"matches": ["https://platforma2.polsl.pl/rau2/*"], "js": ["dark.js"], "css": ["dark.css"]}]}

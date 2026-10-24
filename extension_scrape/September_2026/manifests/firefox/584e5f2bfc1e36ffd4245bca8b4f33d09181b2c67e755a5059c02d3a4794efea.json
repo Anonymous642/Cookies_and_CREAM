@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Go Lab", "version": "1.1", "description": "Adds direct link to Go Lab to OGS.", "icons": {"48": "icons/icon.svg"}, "content_scripts": [{"matches": ["*://*.online-go.com/*"], "js": ["golab.js"]}], "browser_specific_settings": {"gecko": {"id": "{54dbbb08-0693-4ee3-9b11-7ac03d6a575e}"}}}

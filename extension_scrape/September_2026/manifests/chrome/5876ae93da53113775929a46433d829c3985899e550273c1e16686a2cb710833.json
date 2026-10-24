@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute IG Username Generator", "version": "1.0.0", "description": "Generate cute Instagram username ideas in a simple popup.", "action": {"default_title": "IG Username Generator", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

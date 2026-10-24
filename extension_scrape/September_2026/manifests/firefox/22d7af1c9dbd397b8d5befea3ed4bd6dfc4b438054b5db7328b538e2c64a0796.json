@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MGA to ZMW Converter", "version": "1.0", "description": "Convert Malagasy Ariary (MGA) to Zambian Kwacha (ZMW).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert MGA to ZMW"}, "browser_specific_settings": {"gecko": {"id": "{47e156b0-b5da-4a68-8267-100e6e51ffb6}"}}}

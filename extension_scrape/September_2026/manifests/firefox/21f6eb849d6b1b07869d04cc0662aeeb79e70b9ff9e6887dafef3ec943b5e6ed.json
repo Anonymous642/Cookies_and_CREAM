@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "e621.net shortcuts", "version": "1.3", "description": "Go to next post and prev post.", "content_scripts": [{"matches": ["*://e621.net/*", "*://e926.net/*"], "js": ["ext.js"]}], "browser_specific_settings": {"gecko": {"id": "{a584d42e-b69a-413a-af9f-41784be24a37}"}}}

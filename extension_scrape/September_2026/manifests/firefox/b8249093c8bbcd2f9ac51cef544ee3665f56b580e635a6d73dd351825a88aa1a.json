@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "QC Checklist Reflector", "version": "1.0", "description": "Automatically reflect PA checklist values into QC section.", "permissions": [], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "AFlogicQ@ygmail..com"}}}

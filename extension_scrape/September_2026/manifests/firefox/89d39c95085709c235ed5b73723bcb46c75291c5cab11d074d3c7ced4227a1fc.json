@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Better Thingiverse Download", "version": "1.0", "description": "Fixes the 'Download All Files' button to actually download a zip of all available files.", "content_scripts": [{"matches": ["*://*.thingiverse.com/thing:*"], "js": ["resources/main.js"], "run_at": "document_idle"}], "icons": {"48": "resources/48.png"}}

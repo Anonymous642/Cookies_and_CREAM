@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "mobilenet.cz", "description": "Internetov\u00fd magaz\u00edn o mobiln\u00edch telefonech a jin\u00e9 mobiln\u00ed elektronice", "version": "0.2.1", "manifest_version": 2, "app": {"urls": ["http://mobilenet.cz/"], "launch": {"web_url": "http://mobilenet.cz/clanky"}}, "icons": {"128": "icon_128.png"}}

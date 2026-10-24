@@ -1,0 +1,1 @@
+{"name": "Tracks Courier", "description": "Track your Couriers from one place", "manifest_version": 2, "version": "0.0.1", "browser_action": {"default_icon": "logo.png", "default_popup": "popup.html", "default_title": "Tracks Courier"}, "icons": {"128": "logo.png"}, "browser_specific_settings": {"gecko": {"id": "{687606b1-f3dd-41fd-be50-4119206ade75}"}}}

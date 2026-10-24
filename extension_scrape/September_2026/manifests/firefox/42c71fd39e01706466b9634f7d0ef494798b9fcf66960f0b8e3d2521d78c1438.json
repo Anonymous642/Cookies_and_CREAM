@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Note Tab", "version": "1.0", "description": "Take quick notes whenever you open a new tab.", "permissions": ["storage"], "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{e4a9ed94-9da8-49aa-b9de-e78b547326cd}"}}}

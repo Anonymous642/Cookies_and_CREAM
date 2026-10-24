@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Name Replacer", "version": "1.0", "description": "Replaces name text.", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{e57b3b0e-6d92-4933-add0-124c9f91c665}"}}}

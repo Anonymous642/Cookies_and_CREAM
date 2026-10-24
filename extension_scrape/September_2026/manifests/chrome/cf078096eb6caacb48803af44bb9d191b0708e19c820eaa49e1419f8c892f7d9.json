@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Paid Promotions Remover", "version": "1.0", "description": "Removes annoying \"Includes paid promotion\" banner that takes up 1/3 of video thumbnails", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "css": ["style.css"]}]}

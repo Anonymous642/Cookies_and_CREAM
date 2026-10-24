@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TGR Emoji Extension", "description": "Base Level Extension", "version": "1.2", "manifest_version": 3, "content_scripts": [{"matches": ["https://forums.tetongravity.com/*"], "all_frames": true, "js": ["content_script.js"], "run_at": "document_end"}]}

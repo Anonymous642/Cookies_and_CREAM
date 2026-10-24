@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Dress Text", "description": "A simple extension that dresses up your text! Featuring lots of modes (and more to come!)", "version": "1.5", "manifest_version": 3, "action": {"default_popup": "pop.html", "default_icon": {"48": "t48.png", "128": "t128.png"}}, "icons": {"48": "t48.png", "128": "t128.png"}}

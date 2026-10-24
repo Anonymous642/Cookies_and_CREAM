@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Font Style Previewer", "version": "1.0", "description": "Preview different font styles on any webpage.", "icons": {"48": "icon.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{00bb3946-4d80-48d6-a62e-b4da2a033669}"}}}

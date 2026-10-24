@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sidebar Color Changer", "version": "1.0.0", "description": "Changes the color of the Casapeur sidebar.", "content_scripts": [{"matches": ["https://casaphq.com/*", "https://*.casaphq.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

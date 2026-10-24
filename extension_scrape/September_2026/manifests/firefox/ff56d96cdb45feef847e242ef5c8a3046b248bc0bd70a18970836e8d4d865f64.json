@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "T\u00ednh s\u1ed1 Fibonacci", "version": "1.0", "description": "Addon \u0111\u1ec3 t\u00ednh s\u1ed1 Fibonacci th\u1ee9 n.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{a5a3a0c2-eb44-4c89-90f0-770632be711d}"}}}

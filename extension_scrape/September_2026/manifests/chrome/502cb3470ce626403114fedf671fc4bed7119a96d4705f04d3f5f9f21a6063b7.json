@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Element Save Image As", "version": "1.0", "description": "Right-click any image (AVIF, WebP, etc.) to save it as a JPEG or PNG.", "permissions": ["contextMenus", "downloads", "offscreen"], "host_permissions": ["<all_urls>"], "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "One Click History", "version": "16.6.25", "description": "Delete your browsing history with one click (cookies preserved).", "permissions": ["browsingData"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}}

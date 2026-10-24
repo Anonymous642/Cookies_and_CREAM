@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "T\u00ednh t\u1ed5ng c\u00e1c s\u1ed1", "version": "1.0", "description": "Addon t\u00ednh t\u1ed5ng c\u00e1c s\u1ed1 trong m\u1ed9t d\u00e3y s\u1ed1.", "icons": {"48": "icon.png"}, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{7f933653-d86b-4c59-89b0-b56403c9523e}"}}}

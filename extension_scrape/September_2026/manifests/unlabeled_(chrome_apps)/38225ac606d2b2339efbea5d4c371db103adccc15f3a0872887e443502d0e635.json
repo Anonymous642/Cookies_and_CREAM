@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "quiz:bit", "description": "", "version": "0.6", "manifest_version": 2, "app": {"background": {"scripts": ["js/background.js"]}}, "icons": {"128": "img/icon-128.png"}, "permissions": ["serial", "storage", "unlimitedStorage", "notifications", {"fileSystem": ["write"]}]}

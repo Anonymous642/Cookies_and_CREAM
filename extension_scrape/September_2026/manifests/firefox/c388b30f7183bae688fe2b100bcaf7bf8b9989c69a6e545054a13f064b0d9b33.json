@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Blog Comment Highlighter", "version": "1.0", "description": "Highlights all comments on blogs for easier reading.", "icons": {"48": "icon.png"}, "permissions": ["activeTab", "storage"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "blog-comment-highlighter@example.com"}}}

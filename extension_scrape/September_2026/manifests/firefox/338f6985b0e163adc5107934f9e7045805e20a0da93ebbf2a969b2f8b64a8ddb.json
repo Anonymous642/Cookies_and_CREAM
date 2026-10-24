@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SauceNAO Fetcher", "version": "2resigned1", "description": "Get's SauceNAO's results for an image.", "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{384ac858-9a3a-4be5-980e-0dec1ace9be4}"}}}

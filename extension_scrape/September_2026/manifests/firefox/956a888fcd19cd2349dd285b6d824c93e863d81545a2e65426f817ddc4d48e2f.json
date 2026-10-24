@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AI Art Generator Tab", "version": "1.0", "description": "Generate AI art from prompt every time you open a new tab.", "permissions": ["storage"], "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{61f4e7f8-93e9-4c22-8e7f-712499d0e078}"}}}

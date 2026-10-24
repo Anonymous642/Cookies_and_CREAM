@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Screenshot Annotator", "version": "1.0", "description": "Capture and annotate screenshots of the visible area of a webpage.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{b30320a4-39dd-46ff-a1aa-83be6535e52b}"}}}

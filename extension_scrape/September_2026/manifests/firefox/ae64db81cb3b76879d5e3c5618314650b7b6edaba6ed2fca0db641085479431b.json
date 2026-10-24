@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SMS Orange FREE", "description": "\u015awietny dodatek pozwalaj\u0105cy ci na darmowe wysy\u0142anie SMS-\u00f3w przez internet w sieci Orange", "version": "1.4resigned1", "browser_action": {"default_icon": "128.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{4f9e77ec-11fe-4a7e-b6ef-3846624f43e7}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "VideoTik", "version": "0.0.1", "description": "\u00d6BA video sayfalar\u0131nda otomatik video oynatma ve ge\u00e7i\u015f yapma.", "content_scripts": [{"matches": ["https://oba.gov.tr/egitim/oynatma/*"], "js": ["content.js"]}], "icons": {"128": "icon128.png"}}

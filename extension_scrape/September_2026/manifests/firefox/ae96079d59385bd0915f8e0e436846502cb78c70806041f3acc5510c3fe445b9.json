@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Copy Tab Link", "description": "Adds an entry to a tab's context menu to copy the tab's URL to the clipboard.", "version": "0.1.0", "background": {"scripts": ["background.js"]}, "permissions": ["menus", "activeTab", "clipboardWrite"], "browser_specific_settings": {"gecko": {"id": "{61a35a51-ba4e-4062-b4a0-3ccb57648b1d}"}}}

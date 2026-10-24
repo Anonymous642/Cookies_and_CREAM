@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Vibe Replacer", "version": "1.0", "description": "Replaces 'vibe' with 'minimal effort slop'", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_idle"}], "permissions": []}

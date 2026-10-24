@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SpeedClick Youtube", "version": "1.0", "description": "Altere a velocidade do video para speed/slow em apenas 1 clique, para 0.5x ou 1.3x", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Email Lookup Assistant", "version": "0.2.0", "description": "", "icons": {"64": "mail.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus", "tabs", "<all_urls>"], "browser_specific_settings": {"gecko": {"id": "{f4f374c8-32ae-4313-870f-1e48f8888389}"}}}

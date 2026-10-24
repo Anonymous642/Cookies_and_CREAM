@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Guided Meditation Shortcut", "version": "1.0", "description": "Quick access to guided meditation videos from the toolbar.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{e0fc933a-9270-495b-ae13-9a63013d92f8}"}}}

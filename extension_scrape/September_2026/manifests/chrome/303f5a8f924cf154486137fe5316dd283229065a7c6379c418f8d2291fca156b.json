@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tiny Decision Maker", "version": "1.0.0", "description": "Can't decide? Enter your options and let this tiny tool randomly pick one for you instantly.", "action": {"default_popup": "popup.html", "default_title": "Make a Decision"}, "icons": {"128": "icon128.png"}}

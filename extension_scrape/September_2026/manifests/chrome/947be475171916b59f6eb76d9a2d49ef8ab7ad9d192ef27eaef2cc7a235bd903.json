@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SAT Solver", "version": "1.1.0", "description": "Solve CNF SAT instances locally in Chrome using a production-style CDCL solver.", "permissions": ["storage"], "action": {"default_title": "SAT Solver", "default_popup": "popup.html"}}

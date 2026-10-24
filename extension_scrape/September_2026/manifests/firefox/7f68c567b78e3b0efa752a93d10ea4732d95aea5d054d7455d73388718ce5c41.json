@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reverse Raid", "version": "0.1", "description": "When getting involed in a raid on twitch.tv, this puts you back to the original streamer you were watching after 1 minute", "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["RaidReverser.js"]}]}

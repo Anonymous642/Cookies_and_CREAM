@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Wuxia Name Generator", "version": "1.0", "description": "Generate random Japanese, Korean, or Chinese names inspired by wuxia themes.", "permissions": [], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "k8derrickisaacmgzk82@hotmail.com"}}}

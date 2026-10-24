@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "KooraTimeFormatter", "version": "1.1resigned1", "description": "FixesKooraTime", "content_scripts": [{"matches": ["*://*.kooora.com/*"], "js": ["Format.js"]}], "browser_specific_settings": {"gecko": {"id": "{ac05de28-301e-4810-b902-a9d6caff0699}"}}}

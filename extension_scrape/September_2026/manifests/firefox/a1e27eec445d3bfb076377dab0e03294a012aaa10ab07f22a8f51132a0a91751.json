@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Custom newtab browser", "version": "1.0", "description": "Custom newtab for your browser", "icons": {"128": "icon128.png"}, "permissions": ["storage", "geolocation"], "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{bf9c8f36-192d-49f0-a1a8-fc9d9fab4ee6}"}}}

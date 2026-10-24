@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "De-Markdownify", "version": "1.0", "description": "Markdown to Plain Text Converter", "action": {"default_popup": "popup.html"}, "icons": {"128": "De-Markdowinify128.png", "512": "De-Markdowinify512.png"}}

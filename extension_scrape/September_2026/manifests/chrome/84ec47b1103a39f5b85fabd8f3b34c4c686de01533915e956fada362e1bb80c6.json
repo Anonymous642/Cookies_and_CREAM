@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Valyuta kurslari", "version": "0.0.1", "description": "valyuta kurslari", "manifest_version": 3, "author": "Shukrullo Turgunov", "action": {"default_popup": "index.html", "default_title": "Valyuta kurslari", "default_icon": {"16": "favicon16x16.png", "32": "favicon32x32.png"}}}

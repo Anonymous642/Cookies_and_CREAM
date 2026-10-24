@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ChatGPT to HTML", "version": "1.1", "content_scripts": [{"matches": ["*://*.chatgpt.com/*"], "js": ["content.js"]}], "icons": {"16": "htmlcopy.png", "48": "htmlcopy.png", "128": "htmlcopy.png"}, "browser_specific_settings": {"gecko": {"id": "{0b45fc33-038c-4c7d-888b-ad19454967d7}"}}}

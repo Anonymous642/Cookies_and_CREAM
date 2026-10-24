@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Poodle", "description": "Sat\u0131l\u0131k Toy, Teacup, Minyat\u00fcr Poodle fiyatlar\u0131 ile yavru ilanlar\u0131n\u0131 inceleyin. G\u00fcvenilir ilanlarla yeni dostunuzu kolayca bulun.", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "poodle.html", "default_icon": "poodle.png"}}

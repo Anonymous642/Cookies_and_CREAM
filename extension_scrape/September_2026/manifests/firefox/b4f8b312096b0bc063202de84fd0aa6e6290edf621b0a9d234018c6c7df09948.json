@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "JSON Beautifier", "version": "1.0", "description": "Format and beautify JSON easily", "permissions": ["activeTab", "clipboardWrite"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{1cf021f9-9455-4db9-aacb-b1a363523d9b}"}}}

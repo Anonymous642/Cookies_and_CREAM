@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Snipe Explorer", "version": "0.0.2", "description": "Eagle-eye exploration for SRA experiments", "content_scripts": [{"matches": ["*://*.ncbi.nlm.nih.gov/*"], "js": ["contentScript.js"], "css": ["styles.css"], "run_at": "document_end"}]}

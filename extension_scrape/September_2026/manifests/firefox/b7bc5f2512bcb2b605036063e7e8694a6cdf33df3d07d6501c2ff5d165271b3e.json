@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quote of the Day Tab", "version": "1.0", "description": "Display an inspirational quote every time you open a new tab.", "chrome_url_overrides": {"newtab": "quote.html"}, "permissions": [], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{109047fa-75ee-4f4a-a1b9-c3fe6e7b6572}"}}}

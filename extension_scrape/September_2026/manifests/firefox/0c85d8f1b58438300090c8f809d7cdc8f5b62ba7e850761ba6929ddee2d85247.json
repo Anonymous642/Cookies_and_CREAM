@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Close Other Windows", "version": "0.2resigned1", "description": "Adds a button to close all tabs in other windows which are not pinned", "icons": {"32": "x32.png"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "x32.png"}, "browser_specific_settings": {"gecko": {"id": "{fab4ea0f-e0d3-4bb4-9515-aea14d709f69}"}}}

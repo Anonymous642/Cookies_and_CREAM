@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Meow - Random Cat", "version": "1.0.0", "description": "Instantly brighten your day with a random, cute cat picture presented in a retro polaroid frame.", "action": {"default_popup": "popup.html", "default_title": "Get a Cat Picture"}, "icons": {"128": "icon128.png"}}

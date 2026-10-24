@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Notes Saver", "version": "1.0", "description": "Ghi ch\u00fa nhanh v\u00e0 l\u01b0u tr\u1eef ngay tr\u00ean tr\u00ecnh duy\u1ec7t.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_title": "Notes Saver"}, "browser_specific_settings": {"gecko": {"id": "{ffe14fdb-1071-45b7-bfab-6cdfd724ebf1}"}}}

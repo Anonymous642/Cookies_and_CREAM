@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HTML File Viewer", "version": "1.0", "description": "Displays the HTML file of the current web page.", "browser_action": {"default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{5fbc68cb-56d5-4b59-a869-bb8ea6f59d71}"}}}

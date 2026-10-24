@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "RainbowNote", "version": "30.1", "description": "Notes with rainbow colors.", "icons": {"32": "rn32.png"}, "action": {"default_icon": "rn32.png", "default_title": "RainbowNote"}, "background": {"service_worker": "background.js"}}

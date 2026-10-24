@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.5", "name": "Leads tracker", "description": "Add sales leads from urls and via unput, remove them when you no longer require them.", "action": {"default_popup": "index.html", "default_icon": "icon.png"}, "permissions": ["tabs"]}

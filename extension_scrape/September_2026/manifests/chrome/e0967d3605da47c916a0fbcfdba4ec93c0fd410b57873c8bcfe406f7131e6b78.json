@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Only On Stake", "version": "1.1", "description": "Filters Only On Stake games automatically", "author": "CrazyOne", "content_scripts": [{"matches": ["*://stake.us/*"], "js": ["crazyone.js"], "run_at": "document_idle"}]}

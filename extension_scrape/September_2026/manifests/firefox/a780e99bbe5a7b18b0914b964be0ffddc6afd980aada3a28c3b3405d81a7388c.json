@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Start Playing Not D&D", "version": "1.0", "description": "Removes all D&D 5e games from Start Playing", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://startplaying.games/*"], "js": ["sp_not_dnd.js"]}], "browser_specific_settings": {"gecko": {"id": "{187c446e-5312-4918-a3c4-4175c14607e9}"}}}

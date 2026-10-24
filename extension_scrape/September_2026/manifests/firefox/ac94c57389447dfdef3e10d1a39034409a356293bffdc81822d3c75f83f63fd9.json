@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Vat Calculator VATXpress", "description": "VAT Calculator Toolbox.", "version": "1.6", "browser_specific_settings": {"gecko": {"id": "vatxpress@masext.eu", "strict_min_version": "91.0"}}, "action": {"default_icon": {"128": "img/icon-128.png"}, "default_popup": "popup.html"}, "icons": {"128": "img/icon-128.png"}}

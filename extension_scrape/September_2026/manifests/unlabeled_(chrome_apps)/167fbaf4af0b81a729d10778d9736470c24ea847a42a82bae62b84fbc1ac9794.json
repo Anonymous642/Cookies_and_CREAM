@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "__MSG_appName__", "version": "1.0.0", "icons": {"128": "128.png"}, "description": "__MSG_appDesc__", "default_locale": "zh_CN", "update_url": "http://clients2.google.com/service/update2/crx", "app": {"launch": {"container": "tab", "web_url": "http://g7.huoyunren.com/"}, "web_content": {"enabled": true, "origin": "http://g7.huoyunren.com/"}}}

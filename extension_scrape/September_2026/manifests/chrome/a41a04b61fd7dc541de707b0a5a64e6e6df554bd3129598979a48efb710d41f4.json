@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "D365 Old Settings", "version": "1.1", "description": "Redirect to old settings page on D365 CRM Dynamics websites.", "permissions": ["activeTab", "tabs"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}}

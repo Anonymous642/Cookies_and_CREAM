@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Sad Love Song Suggester", "version": "1.0", "description": "Suggests a melancholic love song with a sad ending, presented in a chill, moody interface.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "sadlovemusic@domain.com"}}}

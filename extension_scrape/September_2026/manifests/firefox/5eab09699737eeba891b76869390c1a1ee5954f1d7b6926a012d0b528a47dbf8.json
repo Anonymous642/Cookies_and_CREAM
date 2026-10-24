@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Cleartext", "description": "Displays text in a clear way", "version": "1.2.1", "icons": {"48": "icons/image-48.png"}, "permissions": ["menus", "activeTab"], "background": {"scripts": ["script.js"]}, "browser_specific_settings": {"gecko": {"id": "{674384ff-8e5e-4834-9aff-9723190c68b8}"}}}

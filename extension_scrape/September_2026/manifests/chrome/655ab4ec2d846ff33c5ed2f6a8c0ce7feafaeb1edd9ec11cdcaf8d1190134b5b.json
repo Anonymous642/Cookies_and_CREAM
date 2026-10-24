@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CPU & GPU Bottleneck Calculator", "version": "1.0.0", "description": "Calculate CPU-GPU bottlenecks directly from your browser", "permissions": [], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Select to Search", "description": "Search selected text with any search engine", "browser_specific_settings": {"gecko": {"id": "selecttosearch@crossbowffs.com"}}, "version": "1.0", "permissions": ["search", "contextMenus"], "background": {"scripts": ["background.js"]}}

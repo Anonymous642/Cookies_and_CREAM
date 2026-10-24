@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Focus Reader", "version": "1.0", "description": "Focus Reader: Clean, distraction-free reading", "action": {"default_popup": "popup.html", "default_icon": "focus_reader.png"}, "icons": {"128": "focus_reader.png"}, "browser_specific_settings": {"gecko": {"id": "melvinp105240@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "0.0.3", "name": "Turbomarks", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "background": {"scripts": ["scripts/background.js"]}, "icons": {"128": "icon.png"}, "permissions": ["storage"], "omnibox": {"keyword": ";"}, "browser_specific_settings": {"gecko": {"id": "{94a2a2ea-0496-4121-a0f4-b4b869f96398}"}}}

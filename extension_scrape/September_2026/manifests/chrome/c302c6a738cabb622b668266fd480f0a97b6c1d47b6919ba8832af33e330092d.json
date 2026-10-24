@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "T/A Filtrs SS.COM", "version": "1.0.0", "description": "Adds CSDD Technical Inspection filtering to SS.com car listings.", "icons": {"128": "bannerss.png"}, "content_scripts": [{"matches": ["*://*.ss.com/*", "*://*.ss.lv/*"], "js": ["content.js"], "css": ["style.css"]}]}

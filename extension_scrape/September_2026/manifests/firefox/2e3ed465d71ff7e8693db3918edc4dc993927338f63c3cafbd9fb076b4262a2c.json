@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RESTClient", "version": "1.0", "description": "A simple REST API testing client.", "permissions": ["<all_urls>"], "browser_action": {"default_popup": "popup.html", "default_title": "RESTClient"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{12ff8508-6814-4aac-9236-e90eccc85b8d}"}}}

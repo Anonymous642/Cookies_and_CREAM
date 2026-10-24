@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Radios Online", "short_name": "Radios Online", "version": "1.5", "manifest_version": 2, "description": "Ouvir as melhores Radios Online Gr\u00e1tis!", "icons": {"16": "favicon.ico", "128": "icon.png"}, "app": {"launch": {"local_path": "go.html"}}}

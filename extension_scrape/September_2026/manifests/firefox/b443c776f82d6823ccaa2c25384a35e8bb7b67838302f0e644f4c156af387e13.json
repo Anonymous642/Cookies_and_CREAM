@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DnD Name Generator", "version": "1.0", "description": "A tool to generate DnD names.", "icons": {"48": "icon.png", "128": "icon.png"}, "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{de7fdda6-25ce-46f8-b39e-26b212ec88de}"}}}

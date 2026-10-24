@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Tab Locker", "version": "1.0", "description": "Lock the current tab with a password.", "permissions": ["activeTab"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html", "default_title": "Lock This Tab"}, "browser_specific_settings": {"gecko": {"id": "{7145a8b4-73b1-4a2d-a5a6-a952ab54e019}"}}}

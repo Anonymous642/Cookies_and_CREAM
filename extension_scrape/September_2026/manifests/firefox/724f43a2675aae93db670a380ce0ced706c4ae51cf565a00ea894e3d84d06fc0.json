@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Picture-in-Picture Mode Fix", "version": "1.1", "description": "Fixes picture-in-picture mode for Firefox", "icons": {"48": "icon.png"}, "content_scripts": [{"run_at": "document_start", "matches": ["*://*.youtube.com/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{42b0ac48-1766-4493-8e5e-6ba471d77c11}"}}}

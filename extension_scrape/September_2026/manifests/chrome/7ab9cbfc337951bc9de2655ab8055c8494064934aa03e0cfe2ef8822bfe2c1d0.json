@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Risk/Reward Ratio Calculator", "description": "Calculate leverage or volume based on total loss, entry, and stop-loss.", "version": "1.1", "manifest_version": 3, "action": {"default_popup": "rr.html", "default_icon": "rr.png"}, "author": "theforceht", "permissions": ["storage"]}

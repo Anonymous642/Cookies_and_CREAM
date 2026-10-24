@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sahibinden G\u00f6rsel \u0130ndirici", "description": "\u0130landaki t\u00fcm g\u00f6rselleri kaliteli bir \u015fekilde indirin.", "version": "1.0", "content_scripts": [{"js": ["index.js"], "matches": ["https://sahibinden.com/*", "https://www.sahibinden.com/*"]}]}

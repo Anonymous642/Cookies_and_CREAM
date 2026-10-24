@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "City Night", "version": "1.0", "description": "Bring a touch of calm and mystery to your browsing experience.", "icons": {"128": "icon.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}, "action": {"default_popup": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{1b162a79-df1c-4158-a624-f73eb5ac3e13}"}}}

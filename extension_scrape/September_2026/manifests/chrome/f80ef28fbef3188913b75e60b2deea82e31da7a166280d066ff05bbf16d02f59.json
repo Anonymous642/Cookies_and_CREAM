@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "\u53f3\u30af\u30ea\u30c3\u30af\u3067Amazon\u691c\u7d22 - \u7d20\u65e9\u304f\u4fa1\u683c\u30c1\u30a7\u30c3\u30af", "description": "", "version": "1.0", "background": {"service_worker": "src/background.js"}, "permissions": ["contextMenus"]}

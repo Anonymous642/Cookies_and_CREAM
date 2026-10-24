@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Custom NTP", "version": "1.0", "description": "A customizable new tab page with weather information", "permissions": ["storage", "bookmarks", "history", "tabs"], "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "custom-ntp@chaython.dev", "strict_min_version": "58.0"}}}

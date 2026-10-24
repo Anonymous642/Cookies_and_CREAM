@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ShortFuse", "version": "3.7", "description": "Automatically goes to the next Short.", "permissions": [], "content_scripts": [{"matches": ["*://youtube.com/*", "*://*.youtube.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

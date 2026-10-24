@@ -1,0 +1,1 @@
+{"name": "RSS Blog GedeLumbung.Com", "manifest_version": 2, "version": "1.1resigned1", "description": "Hanya Catatan Kecil Seorang Mahasiswa Sontoloyo", "browser_action": {"default_title": "RSS Blog GedeLumbung.Com", "default_popup": "popup.html"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{c8ff01f0-6f03-40a8-b5e2-a4d178d9e919}"}}}

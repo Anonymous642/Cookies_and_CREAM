@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "JSON Formatter", "description": "Chrome extension to format JSON", "version": "1.1.1", "manifest_version": 3, "permissions": ["contextMenus"], "icons": {"128": "icon128.png"}, "background": {"service_worker": "background.js"}, "action": {}}

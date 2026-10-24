@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dynamic HonKai Impact 3rd Background", "version": "1.0", "description": "Change new tab wallpaper with random video with Google search bar.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{0691c98b-27cd-453e-95d5-a9d7727dc800}"}}}

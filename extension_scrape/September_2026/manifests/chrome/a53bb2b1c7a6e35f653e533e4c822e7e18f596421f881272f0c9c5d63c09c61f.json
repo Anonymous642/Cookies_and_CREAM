@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Snow Day Enhancer", "version": "1.0", "description": "Enhances snow-day.net", "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["https://snow-day.net/*"], "js": ["content.js"], "css": ["style.css"]}]}

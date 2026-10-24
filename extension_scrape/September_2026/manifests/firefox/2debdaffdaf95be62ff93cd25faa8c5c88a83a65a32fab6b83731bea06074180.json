@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Asura-QOL", "version": "1.2", "description": "Removes AsuraScans' ADs and brings back arrow key navigation", "icons": {"48": "icons/misc-icon.png"}, "content_scripts": [{"matches": ["*://asuracomic.net/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{82b0fa8a-1506-4870-9001-d6eed40fede7}"}}}

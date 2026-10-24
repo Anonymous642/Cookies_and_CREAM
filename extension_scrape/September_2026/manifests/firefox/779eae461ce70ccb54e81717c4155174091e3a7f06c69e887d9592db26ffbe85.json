@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Copy", "version": "1.0", "permissions": ["tabs", "clipboardWrite"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_action": {"default_title": "Copy Tab URLs"}, "browser_specific_settings": {"gecko": {"id": "{80a9ea37-a3b5-4b78-945c-12e409975cb2}"}}}

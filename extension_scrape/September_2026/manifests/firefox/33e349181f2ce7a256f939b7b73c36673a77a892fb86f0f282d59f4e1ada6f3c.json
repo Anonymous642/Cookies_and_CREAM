@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "chatgpt_offline_scroll", "version": "1.0", "icons": {"60": "icons/chatgpt_scroll_60x60.png"}, "content_scripts": [{"matches": ["file:///*"], "css": ["scroller.css"], "all_frames": true}], "browser_specific_settings": {"gecko": {"id": "{15945614-90f1-4a42-acbf-0e144791ddb2}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MSF Church Search", "version": "1.0", "description": "Quickly search and jump to Marvel Church guides.", "permissions": ["tabs"], "action": {"default_popup": "popup.html"}}

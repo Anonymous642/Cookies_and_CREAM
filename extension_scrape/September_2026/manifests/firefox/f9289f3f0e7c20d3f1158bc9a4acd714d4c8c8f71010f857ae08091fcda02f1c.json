@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MaterialHub Reborn", "description": "Simple web greeter page with a clock and other features", "version": "0.0.2resigned1", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["webRequest", "webRequestBlocking", "*://*/*"], "browser_specific_settings": {"gecko": {"id": "{b1a07f83-cce9-4d31-a694-651d78d85a0a}"}}}

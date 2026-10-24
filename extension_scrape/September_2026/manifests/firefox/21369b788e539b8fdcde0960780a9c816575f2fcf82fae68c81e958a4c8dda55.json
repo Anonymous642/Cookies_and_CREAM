@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Blasebuddy", "version": "1.2", "description": "Adds useful features to Blaseball", "icons": {"48": "icons/buddy-48.png"}, "content_scripts": [{"matches": ["*://*.blaseball.com/*"], "js": ["apibuddy.js", "blasebuddy.js"], "css": ["buddyStyle.css"]}]}

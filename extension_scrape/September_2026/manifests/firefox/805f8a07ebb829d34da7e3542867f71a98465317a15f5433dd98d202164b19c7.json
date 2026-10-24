@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Stupid Search", "description": "Search the web with Stupid Search", "version": "1.1.3resigned1", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab", "https://ajax.google.com/"], "browser_specific_settings": {"gecko": {"id": "{d170bf9a-67ba-4858-9e81-0904f2c43119}"}}}

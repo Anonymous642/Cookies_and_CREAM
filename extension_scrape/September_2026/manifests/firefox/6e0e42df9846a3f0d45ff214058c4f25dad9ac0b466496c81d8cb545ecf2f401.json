@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WhatsApp Number Opener", "version": "1.0", "description": "Right-click on a selected phone number to open WhatsApp Web", "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{c70a09e5-11a1-4143-838a-5c68909b9152}"}}}

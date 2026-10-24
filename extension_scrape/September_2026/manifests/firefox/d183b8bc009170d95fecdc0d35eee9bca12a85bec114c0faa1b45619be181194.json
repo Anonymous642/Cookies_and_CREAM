@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Role Tracker", "version": "1.0.0", "description": "Tracks roles on Wolvesville.", "browser_specific_settings": {"gecko": {"id": "roletracker@example.com", "strict_min_version": "109.0", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"matches": ["*://*.wolvesville.com/*"], "js": ["content.js"], "css": ["style.css"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GT Clean View", "version": "1.0.0", "description": "Provides a more clean interface for Galactic Tycoons by hiding selected game-related graphics.", "content_scripts": [{"matches": ["https://g2.galactictycoons.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

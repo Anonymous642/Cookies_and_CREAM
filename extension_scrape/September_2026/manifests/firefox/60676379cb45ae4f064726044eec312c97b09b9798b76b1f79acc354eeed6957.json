@@ -1,0 +1,1 @@
+{"description": "__MSG_extensionDescription__", "icons": {"64": "icons/icon.png"}, "version": "2.0", "manifest_version": 2, "name": "__MSG_extensionName__", "permissions": ["alarms", "notifications"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"strict_min_version": "91.1.0", "id": "{4282c066-2760-416b-913b-26de51df3bb2}"}}}

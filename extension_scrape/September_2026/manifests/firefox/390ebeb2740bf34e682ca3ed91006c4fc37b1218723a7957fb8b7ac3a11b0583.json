@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DattoTargetRemover", "version": "1.0", "description": "Removes new tab from Datto login page", "content_scripts": [{"matches": ["https://auth.datto.com/account-selection"], "js": ["DattoTargetRemover.js"]}], "browser_specific_settings": {"gecko": {"id": "{0e5e7ca2-b94c-43ec-bcee-3626d90f1cc0}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Facturas Gmail a Drive", "version": "1.0.0", "description": "Agrega un bot\u00f3n en Gmail para guardar facturas en Drive.", "content_scripts": [{"matches": ["https://mail.google.com/mail/*", "https://mail.google.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

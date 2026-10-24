@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Extension Toggle", "version": "1.0", "description": "One-click control for all extensions", "manifest_version": 3, "permissions": ["management"], "action": {"default_icon": "icon.png", "default_title": "Toggle Extensions"}, "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hide Div By Keyword", "description": "\u1ea8n c\u00e1c th\u1ebb div ch\u1ee9a t\u1eeb kh\u00f3a 'ignore' sau khi trang load xong", "version": "1.0.0", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

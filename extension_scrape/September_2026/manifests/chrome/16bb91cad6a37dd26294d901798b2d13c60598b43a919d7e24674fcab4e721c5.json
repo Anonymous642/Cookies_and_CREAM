@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Translate", "version": "1.1.0", "manifest_version": 3, "description": "Translates English to Chinese. Simply.", "icons": {"16": "icon-16x.png", "32": "icon-32x.png", "48": "icon-48x.png", "128": "icon-128x.png"}, "action": {"default_popup": "index.html", "default_title": "Clicker"}}

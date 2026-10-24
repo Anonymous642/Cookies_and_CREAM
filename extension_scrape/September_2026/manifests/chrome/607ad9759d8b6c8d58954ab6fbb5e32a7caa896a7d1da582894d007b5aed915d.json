@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Copilot Input Resizer", "version": "1.0", "description": "Allows resizing of the Copilot chat input box for better usability.", "permissions": [], "content_scripts": [{"matches": ["https://m365.cloud.microsoft/chat/*"], "js": ["content.js"]}], "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Website Time Tracker", "version": "1.0", "description": "Tracks time spent on user-selected sites.", "permissions": ["tabs", "storage"], "background": {"service_worker": "background.js"}, "options_page": "options.html", "action": {"default_popup": "popup.html"}}

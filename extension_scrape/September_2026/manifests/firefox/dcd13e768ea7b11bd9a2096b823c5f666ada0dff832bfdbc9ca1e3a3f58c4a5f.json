@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Force Translation Button", "version": "1.6", "permissions": ["webNavigation", "activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content-script.js"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{b8e28dda-be0d-4961-b84c-7e837e1c943d}"}}}

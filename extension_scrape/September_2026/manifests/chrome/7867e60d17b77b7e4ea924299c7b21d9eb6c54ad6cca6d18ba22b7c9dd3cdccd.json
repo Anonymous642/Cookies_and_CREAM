@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LeadSnipe - Email Extractor", "version": "1.0", "description": "Extract business & personal emails from any webpage. Perfect for cold email marketing by Sahinur", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

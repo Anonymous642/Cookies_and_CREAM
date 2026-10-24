@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Trqeem", "description": "Simple App that connects to trqeem website.", "version": "0.0.5", "manifest_version": 2, "icons": {"128": "trqeem-128.png"}, "kiosk_enabled": true, "permissions": ["webview", "fullscreen", "power"], "app": {"background": {"scripts": ["main.js"]}}}

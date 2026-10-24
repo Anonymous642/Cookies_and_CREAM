@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Restaurant Games", "description": "Restaurant Games", "version": "0.96", "manifest_version": 2, "app": {"urls": ["http://restaurantgames.net/"], "launch": {"web_url": "http://restaurantgames.net/"}}, "icons": {"128": "restaurantgames-128x128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

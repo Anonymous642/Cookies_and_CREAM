@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "D\u00e9placer vers la TV", "version": "1.0", "browser_specific_settings": {"gecko": {"id": "firefoxtv@local", "data_collection_permissions": {"required": ["none"]}}}, "description": "D\u00e9place la fen\u00eatre du navigateur entre le PC et la TV.", "permissions": ["nativeMessaging", "menus"], "background": {"scripts": ["background.js"]}}

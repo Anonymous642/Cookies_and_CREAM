@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MLB TV Improved UI", "version": "1.0", "description": "Improves the UI of the MLB TV web player", "icons": {"48": "icons/mlbtv-uim-48.png", "96": "icons/mlbtv-uim-96.png"}, "content_scripts": [{"matches": ["*://*.mlb.com/tv*"], "js": ["mlb-tv-improved-ui.js"]}]}

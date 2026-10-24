@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Node.js Highlighter", "version": "1.0", "description": "Highlights instances of 'Node.js' on the current website", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{141709d3-9eda-4684-a1ab-22128fa6afff}"}}}

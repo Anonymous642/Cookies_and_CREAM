@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "\u4f4e\u7aef\u5f71\u89c6", "version": "1.0", "description": "\u89e3\u51b3\u5982\u4e0b\u95ee\u9898\uff1a1.\u9884\u89c8\u56fe\u4e0d\u663e\u793a\u95ee\u9898", "icons": {"16": "favicon-32x32.png", "48": "favicon-32x32.png"}, "content_scripts": [{"matches": ["https://ddrk.me/*"], "js": ["ddrk.js"]}]}

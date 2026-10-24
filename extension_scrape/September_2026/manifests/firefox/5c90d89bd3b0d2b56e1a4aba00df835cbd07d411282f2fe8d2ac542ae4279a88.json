@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ISK to MGA Converter", "version": "1.0", "description": "Convert Icelandic Krona (ISK) to Malagasy Ariary (MGA).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert ISK to MGA"}, "browser_specific_settings": {"gecko": {"id": "{335780f3-1e3a-4749-b1e1-cf2085c9d490}"}}}

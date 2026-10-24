@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Random Phone Number Generator", "version": "1.2", "description": "Effortlessly Generate Fake Random Phone Numbers for Any Purpose!", "action": {"default_icon": "logo.png", "default_popup": "popup.html"}, "icons": {"128": "logo.png"}, "manifest_version": 3}

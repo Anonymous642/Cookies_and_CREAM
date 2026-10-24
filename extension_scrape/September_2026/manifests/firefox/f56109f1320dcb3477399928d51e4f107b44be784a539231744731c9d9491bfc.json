@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Outlook Calendar button", "version": "1.0", "description": "Outlook Calendar", "background": {"scripts": ["button.js"]}, "browser_action": {"default_icon": {"48": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{d4e0ac1c-ec74-4e56-8f93-881e35ed4bef}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CSVSamurai", "version": "3.0", "description": "Upload a CSV file, split it into multiple sub-lists, and download them.", "permissions": [], "action": {"default_popup": "popup.html"}}

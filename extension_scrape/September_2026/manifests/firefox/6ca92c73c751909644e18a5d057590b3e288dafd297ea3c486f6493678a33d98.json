@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Kids Safe Tab", "version": "1.0", "description": "Display kid-friendly content on new tab.", "permissions": ["storage"], "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{27982bd4-7498-4498-9497-b0e0bf4ed3e6}"}}}

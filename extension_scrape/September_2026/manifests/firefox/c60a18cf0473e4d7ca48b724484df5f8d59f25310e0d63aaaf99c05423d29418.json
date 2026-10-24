@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Web Paint Tool", "version": "1.0", "description": "Draw shapes, write text, and erase directly on web pages.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["activeTab", "storage"], "browser_specific_settings": {"gecko": {"id": "{48f45853-f260-40ad-8972-680619754935}"}}}

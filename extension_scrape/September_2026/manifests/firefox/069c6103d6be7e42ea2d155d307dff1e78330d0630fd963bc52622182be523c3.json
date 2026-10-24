@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MP4 Stream Blocker", "version": "1.0", "description": "Blocks all .mp4 streams on webpages.", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{25eedef1-9783-4096-ae61-925e87ccc0e6}"}}}

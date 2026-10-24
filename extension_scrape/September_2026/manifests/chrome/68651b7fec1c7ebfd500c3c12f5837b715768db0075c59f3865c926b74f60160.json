@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Prison Movement and Boss Fight Invites", "version": "2.0", "permissions": ["activeTab", "scripting", "storage"], "action": {"default_popup": "popup.html"}, "background": {"service_worker": "background.js"}}

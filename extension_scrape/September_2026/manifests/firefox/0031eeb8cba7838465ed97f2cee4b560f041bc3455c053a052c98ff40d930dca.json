@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Temperature Converter", "version": "1.0", "description": "Converts temperatures between Celsius, Fahrenheit, and Kelvin.", "browser_action": {"default_popup": "popup.html", "default_title": "Temperature Converter"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "temperature-converter@example.com"}}}

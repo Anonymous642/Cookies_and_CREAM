@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Hashtag Suggestor", "version": "1.0", "description": "Generate relevant hashtags for your YouTube videos.", "permissions": ["activeTab"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}}

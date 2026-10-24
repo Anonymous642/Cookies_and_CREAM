@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My Addon", "version": "1.1resigned1", "description": "Description here.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://fuscdrmsmc316-fa-ext.us.oracle.com/*"], "js": ["borderify.js"]}], "browser_specific_settings": {"gecko": {"id": "{5f26faf2-69f6-4940-8416-fb9c0bfedde6}"}}}

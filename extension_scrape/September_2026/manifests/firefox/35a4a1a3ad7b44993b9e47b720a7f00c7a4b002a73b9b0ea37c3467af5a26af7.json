@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Like slapper", "description": "Slap animation on youtube like (or dislike) click.", "version": "1.1", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content_script.js"]}]}

@@ -1,0 +1,1 @@
+{"applications": {"gecko": {"id": "extension@classified-media.com"}}, "background": {"scripts": ["scripts/background.js"]}, "default_locale": "fr", "description": "__MSG_appDesc__", "icons": {"48": "images/ic48.png", "96": "images/ic96.png", "128": "images/ic128.png"}, "manifest_version": 2, "name": "__MSG_appName__", "permissions": [], "version": "1.0.0.5"}

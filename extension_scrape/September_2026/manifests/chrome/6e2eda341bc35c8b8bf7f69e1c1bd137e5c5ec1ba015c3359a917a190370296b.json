@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TTVClippy", "description": "TTVClippy makes it easy to download any clip from Twitch.", "version": "1.1.0", "manifest_version": 3, "permissions": ["tabs"], "background": {"service_worker": "dist/background.js"}, "content_scripts": [{"matches": ["https://*.twitch.tv/*"], "js": ["dist/content_script.js"]}]}

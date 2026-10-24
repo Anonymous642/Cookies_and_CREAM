@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Imgur Grid View", "version": "0.2resigned1", "description": "Automatically switches to grid view when an Imgur album or gallery is opened.", "icons": {"48": "icon_48.png"}, "content_scripts": [{"matches": ["*://*.imgur.com/a/*"], "js": ["imgurgrid.js"]}], "browser_specific_settings": {"gecko": {"id": "{628dc8d8-257b-44a3-8c2e-5321bddcc743}"}}}

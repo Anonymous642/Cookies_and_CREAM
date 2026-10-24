@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Copy Azure Devops card ID", "version": "1.0.1resigned1", "description": "Copies the id for the hovered card in Azure Devops Boards.", "content_scripts": [{"js": ["copy-id.js"], "matches": ["*://*.visualstudio.com/*", "*://dev.azure.com/*"]}], "browser_specific_settings": {"gecko": {"id": "{a5f26081-ba02-43cd-aced-a3609b6983e1}"}}}

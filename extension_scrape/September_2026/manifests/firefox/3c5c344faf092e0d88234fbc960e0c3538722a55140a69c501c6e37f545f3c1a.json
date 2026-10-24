@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "USD to DJF Converter", "version": "1.0", "description": "Converts USD to DJF", "browser_specific_settings": {"gecko": {"id": "usd-to-djf@example.com"}}}

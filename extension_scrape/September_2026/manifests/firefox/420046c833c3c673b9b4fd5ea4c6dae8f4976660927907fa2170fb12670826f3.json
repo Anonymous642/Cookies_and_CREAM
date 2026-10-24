@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "JudoTV Adblocker", "version": "1.0", "description": "An extension that hides ad banners from the JudoTV video player", "permissions": [], "content_scripts": [{"matches": ["*://*.judotv.com/*"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "judotv-adblocker@planetcapybara.de"}}}

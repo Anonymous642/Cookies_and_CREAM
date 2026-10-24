@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tiktok Snappy Scroller", "version": "1.0", "description": "Improve tiktok scrolling by adding snapping scroll", "icons": {"64": "icons/scroll.png"}, "content_scripts": [{"matches": ["*://*.tiktok.com/*"], "css": ["main.css"]}], "browser_specific_settings": {"gecko": {"id": "{c96ec2f4-7931-4fbd-a667-3a096bafe7b5}"}}}

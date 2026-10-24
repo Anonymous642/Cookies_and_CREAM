@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab-to-Tone Notifier", "version": "1.0", "description": "Play a sound when a background tab starts making noise.", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{04ccf360-7aa7-4535-aeb6-924864abbf76}"}}}

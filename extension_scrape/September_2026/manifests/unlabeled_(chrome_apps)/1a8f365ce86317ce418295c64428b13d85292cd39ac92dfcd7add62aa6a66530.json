@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ZoomFoot Send Photo", "short_name": "ZoomFoot Send Photo", "description": "", "version": "1.0.1", "minimum_chrome_version": "42", "icons": {"16": "assets/icon_16.png", "128": "assets/icon_128.png"}, "app": {"background": {"scripts": ["./background.js"]}}}

@@ -1,0 +1,17 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+	"manifest_version": 3,
+	"name": "TL;DW",
+	"version": "1.0",
+	"description": "Embed and access https://tldw.tube/ directly from a popup.",
+	"action": {
+		"default_popup": "popup.html",
+		"default_icon": {
+			"16": "icon.png",
+			"48": "icon.png",
+			"128": "icon.png"
+		}
+	},
+	"permissions": []
+}

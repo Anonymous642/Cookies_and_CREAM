@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "tq - TechQuiza Learning ASL", "version": "1.2", "manifest_version": 3, "description": "Learning ASL", "action": {"default_icon": "asl-logo-128-128.png", "default_title": "quick ASL", "default_popup": "main-quiz.html"}, "permissions": ["storage"]}

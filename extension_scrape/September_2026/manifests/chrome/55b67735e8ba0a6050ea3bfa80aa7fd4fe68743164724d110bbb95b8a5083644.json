@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Markdown to XMind", "version": "1.0", "description": "Convert markdown text from the clipboard into an indented format suitable for XMind.", "action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["clipboardRead", "clipboardWrite"]}

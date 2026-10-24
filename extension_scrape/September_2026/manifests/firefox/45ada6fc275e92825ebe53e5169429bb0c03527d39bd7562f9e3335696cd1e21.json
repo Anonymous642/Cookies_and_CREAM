@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "remove user agent", "version": "1", "description": "remove user agent string", "background": {"scripts": ["background.js"]}, "permissions": ["webRequest", "webRequestBlocking", "storage", "<all_urls>"], "browser_specific_settings": {"gecko": {"id": "{b98ead34-167f-4ca0-8847-4133d6d87efa}"}}}

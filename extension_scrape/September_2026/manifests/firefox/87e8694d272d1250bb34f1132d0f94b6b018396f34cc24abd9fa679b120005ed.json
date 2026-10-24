@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My Simple Addon", "version": "1.0", "description": "This is a simple addon just for testing.", "homepage_url": "https://www.defencewing.com", "browser_action": {"default_title": "Hello", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{9b6e30ca-c871-4482-8c89-2c57b3cd439c}"}}}

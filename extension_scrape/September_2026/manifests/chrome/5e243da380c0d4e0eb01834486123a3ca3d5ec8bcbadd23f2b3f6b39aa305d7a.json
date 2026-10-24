@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Simple Note", "description": "Simple notes for instant notes", "version": "0.0.1", "manifest_version": 3, "action": {"default_popup": "index.html"}, "icons": {"128": "icon.png"}}

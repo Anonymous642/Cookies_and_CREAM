@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FJD to BGN Converter", "version": "1.0", "description": "A simple FJD to BGN currency converter.", "permissions": ["https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{7f057d8f-1076-4c64-8147-404c9dedfd18}"}}}

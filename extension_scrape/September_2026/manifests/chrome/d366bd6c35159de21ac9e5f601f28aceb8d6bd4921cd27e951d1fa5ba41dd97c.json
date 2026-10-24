@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Validador de RUT Chileno", "version": "3.0", "description": "Calcula o valida el d\u00edgito verificador de un RUT chileno.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": []}

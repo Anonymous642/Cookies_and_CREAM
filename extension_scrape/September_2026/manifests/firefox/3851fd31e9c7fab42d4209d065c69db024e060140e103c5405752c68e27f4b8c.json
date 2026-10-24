@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BWP to LAK Converter", "version": "1.0", "description": "Convert Botswana Pula (BWP) to Laotian Kip (LAK).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert BWP to LAK"}, "browser_specific_settings": {"gecko": {"id": "{ec5ae742-a8e5-4140-98d4-a7c0be43b894}"}}}

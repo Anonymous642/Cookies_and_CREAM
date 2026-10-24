@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ghiseul autofill", "manifest_version": 3, "version": "1.0", "description": "Completeaza formularul pentru plata certificat inmatriculare", "content_scripts": [{"matches": ["https://www.ghiseul.ro/*"], "js": ["content.js"], "run_at": "document_idle"}]}

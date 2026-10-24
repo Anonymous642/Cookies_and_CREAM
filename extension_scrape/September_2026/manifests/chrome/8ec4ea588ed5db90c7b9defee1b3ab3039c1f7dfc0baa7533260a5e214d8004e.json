@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Go to Social Blade", "version": "1.8.0", "description": "Go to Social Blade", "permissions": ["contextMenus", "tabs"], "background": {"service_worker": "background.js"}, "action": {"default_title": "Go to Social Blade"}, "icons": {"128": "icon.png"}, "manifest_version": 3}

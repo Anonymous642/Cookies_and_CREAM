@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "book-tabs", "version": "1.3", "applications": {"gecko": {"strict_min_version": "54.0"}}, "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["<all_urls>", "bookmarks"], "description": "Replaces new tab page with a custom page which shows your bookmarks", "icons": {"48": "border-48.png"}}

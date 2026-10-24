@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Voice-to-Note Recorder", "version": "1.0", "description": "Record voice and convert to text notes.", "permissions": ["storage", "tabs", "microphone"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{6e5ffc7a-8c57-4f0a-9ab6-d4e73e2e0561}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Short Remover Extension", "version": "1.0.0", "browser_action": {"default_popup": "index.html"}, "content_scripts": [{"js": ["src/youtube.js"], "matches": ["*://*.youtube.com/*"]}], "browser_specific_settings": {"gecko": {"id": "youtube-shorts-remover@yourdomain.com", "strict_min_version": "58.0"}}}

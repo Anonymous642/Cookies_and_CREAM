@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "dfeed", "description": "Add feeds to dfeed.", "version": "0.1", "permissions": ["activeTab", "contextMenus", "https://dfeed.net/"], "icons": {"512": "icon.png"}, "browser_action": {"default_icon": "icon.png"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{a76fd010-fd0c-4487-b739-859a40cf3ae6}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Link Scanner", "version": "1.3.0", "description": "Scan webpage for links and organize them into a checklist, then open the selected links or save to bookmarks", "permissions": ["activeTab", "bookmarks", "scripting"], "action": {"default_popup": "index.html"}}

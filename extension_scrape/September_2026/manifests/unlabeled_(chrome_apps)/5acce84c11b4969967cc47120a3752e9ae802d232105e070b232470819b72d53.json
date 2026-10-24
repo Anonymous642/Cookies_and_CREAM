@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "iVocab: GRE, TOEFL and SAT", "description": "Test and Challenge yourself for GRE, TOEFL, SAT and English Vocabulary. Now with unlimited free quizzes.", "manifest_version": 2, "version": "2.1", "app": {"launch": {"web_url": "http://www.edmantra.com"}}, "icons": {"16": "icon_16.png", "128": "icon.png"}}

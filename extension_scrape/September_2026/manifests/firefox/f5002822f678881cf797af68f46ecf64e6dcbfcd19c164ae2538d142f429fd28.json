@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Explorer", "version": "3.1", "background": {"scripts": ["js/background.js"]}, "description": "New tab page showing tabs as a file explorer", "permissions": ["tabs", "topSites", "search", "storage"], "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{aedf5a6d-88bb-4b4c-b08c-885ed722dade}"}}}

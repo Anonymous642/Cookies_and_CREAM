@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Swipemark", "description": "Swipe through your bookmarks like Tinder!", "version": "1.0", "permissions": ["bookmarks", "storage"], "host_permissions": ["<all_urls>"], "action": {"default_popup": "index.html"}, "icons": {"128": "icon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Random Quote", "version": "1.0", "description": "Displays random quotes in a popup", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Random Quote"}, "browser_specific_settings": {"gecko": {"id": "{dae1287a-2337-4a37-a0bd-b86c43a4e684}"}}}

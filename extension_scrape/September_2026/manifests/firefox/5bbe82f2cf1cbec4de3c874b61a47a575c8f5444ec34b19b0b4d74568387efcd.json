@@ -1,0 +1,1 @@
+{"description": "Fypii - Moteur de solutions et d'annonces web", "manifest_version": 2, "name": "Fypii", "version": "1.2", "homepage_url": "https://fypii.com", "icons": {"48": "fypii-48.png", "96": "fypii-96.png"}, "browser_action": {"default_icon": "fypii-48.png"}, "protocol_handlers": [{"protocol": "irc", "name": "Fypii web extension", "uriTemplate": "https://fypii.com"}]}

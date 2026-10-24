@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "extension", "version": "357.123.1", "description": "available on many platforms, apps, web, via an extension.", "browser_action": {"default_icon": "icon.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{74ab27b5-11ac-4016-ae1b-4d2b8c3a19ee}"}}}

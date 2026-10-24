@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Jojo Alphabet", "version": "1.0", "description": "Alphabet in JoJo way", "icons": {"48": "icons/jotaro.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["jojo.js"]}]}

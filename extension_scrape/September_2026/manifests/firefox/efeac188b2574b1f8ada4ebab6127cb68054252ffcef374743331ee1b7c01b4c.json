@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Popup Puzzle", "version": "1.0", "description": "Gi\u1ea3i c\u00e2u \u0111\u1ed1 mini m\u1ed7i khi m\u1edf ti\u1ec7n \u00edch.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{a0261369-89a5-4173-95a0-3939834b4640}"}}}

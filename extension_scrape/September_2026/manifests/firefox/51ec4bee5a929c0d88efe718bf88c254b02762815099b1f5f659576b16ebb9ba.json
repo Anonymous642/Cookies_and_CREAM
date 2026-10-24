@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Quick Note \ud83d\udcdd", "version": "1.0", "description": "Quickly jot down your important things!", "action": {"default_popup": "popup.html"}, "permissions": ["activeTab", "storage"], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "quicknote@shubham.com", "strict_min_version": "109.0"}}}

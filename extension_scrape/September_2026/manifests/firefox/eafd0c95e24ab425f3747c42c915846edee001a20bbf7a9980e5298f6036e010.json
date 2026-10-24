@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Search Highlighted Text", "version": "1.0", "description": "Right-click highlighted text to search it quickly on Google.", "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{e7a7b865-9531-4ade-8734-da9b85293c65}"}}}

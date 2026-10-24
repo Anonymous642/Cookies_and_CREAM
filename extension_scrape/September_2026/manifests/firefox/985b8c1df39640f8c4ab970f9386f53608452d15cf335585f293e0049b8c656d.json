@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OpenRussian Dictionary", "version": "1.0", "description": "Look up Russian words on OpenRussian.org", "icons": {"192": "icon-192x192.png"}, "permissions": ["contextMenus", "activeTab", "tabs"], "background": {"scripts": ["openrussian-dictionary.js"]}, "browser_specific_settings": {"gecko": {"id": "{af56ea34-2cda-485e-880c-dcaa800f03e5}"}}}

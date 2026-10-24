@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Link Transformer", "version": "1.0", "description": "Transforms right-clicked links by removing 'origin' and adding 'authuser=4'.", "permissions": ["contextMenus", "activeTab", "tabs"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{7b8f1173-ec24-49b6-be37-e75e275796cf}"}}}

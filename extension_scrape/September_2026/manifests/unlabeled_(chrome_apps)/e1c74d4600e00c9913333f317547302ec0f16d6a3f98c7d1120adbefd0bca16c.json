@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Kids Artajo.de", "description": "Ausfl\u00fcge mit Kindern", "version": "0.0.1", "minimum_chrome_version": "23", "icons": {"16": "assets/artajo.png", "128": "assets/artajo.png"}, "app": {"background": {"scripts": ["background.js"]}}, "sandbox": {"pages": ["kids.html"]}}

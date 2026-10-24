@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HEP Program Filter", "version": "1.3", "description": "Makes modifications to different pages of HEP portal", "icons": {"256": "icon.png"}, "content_scripts": [{"matches": ["https://hep.punjab.gov.pk/*"], "js": ["jquery.js", "code.js"]}], "browser_specific_settings": {"gecko": {"id": "{ddc5a363-df1d-40d1-9255-37a429a535f5}"}}}

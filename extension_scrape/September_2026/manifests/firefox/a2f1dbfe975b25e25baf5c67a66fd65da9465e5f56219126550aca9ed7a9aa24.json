@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VoidlinuxEUtoVoidlinuxORG", "version": "1.1resigned1", "description": "Redirects voidlinux.eu to voidlinux.org", "icons": {"18": "icons/icon18.png", "36": "icons/icon36.png"}, "background": {"scripts": ["redirector.js"]}, "permissions": ["webNavigation"], "browser_specific_settings": {"gecko": {"id": "{615f0334-7f09-4807-a918-c88ac1033c4f}"}}}

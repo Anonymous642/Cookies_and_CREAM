@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "History Shortcut", "version": "1.0", "description": "Quick access to recently visited pages and study-related sites.", "permissions": ["history"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{4472acc6-d6a9-427d-860b-5890c2ad6980}"}}}

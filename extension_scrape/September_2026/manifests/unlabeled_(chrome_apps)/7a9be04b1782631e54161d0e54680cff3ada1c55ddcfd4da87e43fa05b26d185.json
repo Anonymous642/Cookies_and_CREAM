@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "UPMC - Life Changing Medicine", "description": "UPMC (University of Pittsburgh Medical Center), ranked the #1 hospital in Pittsburgh and Pennsylvania by U.S. News.", "version": "0.1", "icons": {"128": "UPMC-small.png"}, "app": {"launch": {"web_url": "http://www.upmc.com"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Thinking Claude", "version": "2.1", "description": "Let Claude think. Makes Claude's thinking process expandable and collapsible.", "content_scripts": [{"matches": ["https://*.claude.ai/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"strict_min_version": "58.0", "id": "{5abeb3e0-18f4-4d61-8dea-61169a63475b}"}}}

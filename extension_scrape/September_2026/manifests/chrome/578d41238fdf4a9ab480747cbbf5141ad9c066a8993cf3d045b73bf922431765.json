@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ChaCypher", "version": "0.1.0", "description": "ChaCypher: Encripta y desencripta textos AES con claves.", "permissions": [], "icons": {"128": "./logo-128.png"}, "action": {"default_popup": "./index.html"}}

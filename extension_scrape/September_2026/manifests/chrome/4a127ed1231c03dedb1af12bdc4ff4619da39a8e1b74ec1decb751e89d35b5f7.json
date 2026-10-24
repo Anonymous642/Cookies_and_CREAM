@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "OnSideSoccer", "version": "1.0", "description": "Displays live soccer games and odds.", "icons": {"16": "favicon.ico", "48": "logo192.png", "128": "logo512.png"}, "action": {"default_popup": "index.html"}}

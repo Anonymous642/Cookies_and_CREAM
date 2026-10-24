@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GitHub PR Manager", "version": "1.0", "description": "Manage GitHub Pull Requests efficiently", "permissions": ["storage"], "action": {"default_popup": "index.html", "default_icon": "icon.png"}, "background": {"service_worker": "static/js/background.js"}}

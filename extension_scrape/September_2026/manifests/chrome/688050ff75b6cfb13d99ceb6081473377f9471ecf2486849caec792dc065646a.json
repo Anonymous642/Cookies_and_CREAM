@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Motivation", "version": "1.0", "description": "A simple Chrome extension for daily motivation.", "action": {"default_popup": "index.html", "default_icon": "icon_128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "File Link Extractor", "version": "1.1", "description": "Extract and copy all file links of a chosen type from the current page.", "permissions": ["activeTab", "clipboardWrite", "scripting"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

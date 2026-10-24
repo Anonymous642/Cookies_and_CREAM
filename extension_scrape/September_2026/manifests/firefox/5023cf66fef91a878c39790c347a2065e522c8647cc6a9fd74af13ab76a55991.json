@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CSS Validation Checker", "version": "1.0", "description": "Notifies the user if the current webpage's CSS contains validation errors.", "permissions": ["tabs", "webNavigation"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "css_validation_checker_extension@gmail.com"}}}

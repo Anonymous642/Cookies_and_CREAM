@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "rumbleEmoteKey", "version": "1.0", "description": "opens the emote menu on specified key press", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.rumble.com/*"], "js": ["rumbleEmoteKey.js"]}], "browser_specific_settings": {"gecko": {"id": "{299e723b-d1bf-4224-944d-bf4aaff82f0b}"}}}

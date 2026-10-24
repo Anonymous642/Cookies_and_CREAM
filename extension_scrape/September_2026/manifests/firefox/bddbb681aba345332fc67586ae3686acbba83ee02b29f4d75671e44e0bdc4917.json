@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Image Customized Search", "description": "Image according to format type.", "version": "1.1resigned1", "icons": {"48": "icons/download.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{242f2ece-dbe6-4f77-ad25-d09c0f28fde8}"}}}

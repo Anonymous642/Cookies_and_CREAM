@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "SnapCanvas", "version": "1.0", "description": "SnapCanvas: Capture web pages easily.", "action": {"default_popup": "popup.html", "default_icon": "snapcanvas.png"}, "icons": {"128": "snapcanvas.png"}, "browser_specific_settings": {"gecko": {"id": "dellennish2299@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

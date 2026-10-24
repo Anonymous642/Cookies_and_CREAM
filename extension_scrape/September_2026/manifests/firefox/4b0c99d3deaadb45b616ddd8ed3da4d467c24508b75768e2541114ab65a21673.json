@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "greet-ext", "author": "Deepak Kumar", "version": "1.0", "description": "Greet Ext is a browser extension that greets you with a message according to the time.", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{3230d1e3-764d-4c6c-8cdc-54a4d5a538ee}"}}}

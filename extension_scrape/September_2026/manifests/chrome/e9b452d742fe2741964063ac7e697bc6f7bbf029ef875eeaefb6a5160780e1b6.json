@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "BreakerCalc Pro - Live Break Margin Engine", "version": "1.0.0", "description": "Deterministic spot pricing, fee auditing, and weighted tier allocations for live card breakers.", "action": {"default_popup": "popup.html"}, "permissions": ["storage"]}

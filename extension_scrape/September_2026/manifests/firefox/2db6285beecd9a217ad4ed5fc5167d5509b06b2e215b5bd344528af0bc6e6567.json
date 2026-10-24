@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Privacy Guardian", "version": "1.0", "description": "Block trackers, stay private.", "action": {"default_popup": "popup.html", "default_icon": "privacy_guardian.png"}, "icons": {"128": "privacy_guardian.png"}, "browser_specific_settings": {"gecko": {"id": "rakeshmxxp587892@hotmail.com"}}}

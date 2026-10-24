@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Tab Packer", "version": "1.0", "description": "Store and restore ranges of tabs without crashing Firefox", "permissions": ["tabs", "storage"], "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "tabpacker@example.com"}}}

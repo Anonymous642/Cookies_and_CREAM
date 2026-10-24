@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "USD to HUF Converter", "version": "1.0", "description": "Quickly convert USD to Hungarian Forint (HUF).", "browser_action": {"default_popup": "popup.html", "default_title": "USD to HUF Converter"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{21a248c6-6576-450d-92dd-248b5a0a595e}"}}}

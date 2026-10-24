@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Catholic Readings Helper", "version": "0.1.2", "description": "Extension that adds the common responses in Roman Catholic masses to each reading.", "content_scripts": [{"css": ["styles.css"], "js": ["index.js"], "matches": ["https://bible.usccb.org/bible/readings/*"]}]}

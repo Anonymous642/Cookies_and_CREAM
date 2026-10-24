@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple UUID V4 Generator", "version": "1.0.0", "description": "Generate UUID v4 instantly from your browser with a simple, fast, and clean interface.", "icons": {"48": "public/logo.png"}, "action": {"default_icon": {"48": "public/logo.png"}, "default_popup": "src/popup/index.html"}}

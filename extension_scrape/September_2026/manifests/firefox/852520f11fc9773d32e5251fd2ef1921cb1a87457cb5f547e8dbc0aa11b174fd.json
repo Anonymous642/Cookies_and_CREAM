@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reading Time Estimator", "version": "1.0", "description": "An extension to estimate reading time.", "permissions": [], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{77858372-b46d-40dc-b78a-6ab62997eb11}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Unit Converter", "version": "1.0", "description": "Quick and easy unit conversion for length, weight, temperature, volume, and more", "action": {"default_popup": "popup.html", "default_title": "Unit Converter"}, "icons": {"16": "icon32.png", "48": "icon64.png", "128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"name": "TextReceiver", "version": "1.0", "manifest_version": 2, "permissions": ["tabs", "alarms", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_action": {"default_title": "TextReceiver"}, "browser_specific_settings": {"gecko": {"id": "{6fb4164a-6bb1-45f5-9a1a-357d2167ce53}"}}}

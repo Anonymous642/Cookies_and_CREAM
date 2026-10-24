@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Prompt Card Generator", "description": "\u5feb\u901f\u751f\u6210\u7cbe\u7f8e\u7684\u63d0\u793a\u8bcd\u5361\u7247", "version": "1.0.0", "permissions": ["activeTab"], "action": {"default_title": "Prompt Card Generator", "default_popup": "popup.html"}}

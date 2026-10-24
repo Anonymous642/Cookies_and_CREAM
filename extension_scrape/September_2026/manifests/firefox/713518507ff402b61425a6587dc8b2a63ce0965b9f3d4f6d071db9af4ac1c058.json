@@ -1,0 +1,1 @@
+{"name": "OrderConnect", "version": "1.5.0", "permissions": ["activeTab"], "manifest_version": 3, "description": "OrderConnect - connects Optionstrat and the TWS.", "action": {}, "icons": {"128": "icon.png"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "firefox@optionsheads.com"}}}

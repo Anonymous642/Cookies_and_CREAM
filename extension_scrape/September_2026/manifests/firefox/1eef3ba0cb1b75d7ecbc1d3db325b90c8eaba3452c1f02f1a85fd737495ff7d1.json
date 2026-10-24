@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Scroll to Top Context Menu", "version": "1.0", "description": "Adds Scroll to Top to the right-click menu", "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "scroll-to-top-ahi-pub@example.com", "data_collection_permissions": {"required": ["none"]}}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Insnotificatsions R1909", "version": "1.1", "description": "Warning", "permissions": ["tabs"], "background": {"scripts": ["background.js"], "persistent": false}, "content_scripts": [{"matches": ["https://www.instagram.com/*"], "js": ["content.js"]}]}

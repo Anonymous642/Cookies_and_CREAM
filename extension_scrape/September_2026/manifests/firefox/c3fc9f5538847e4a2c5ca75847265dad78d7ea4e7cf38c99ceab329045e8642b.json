@@ -1,0 +1,1 @@
+{"author": "Dima PM", "name": "Undiscard Nearby Tabs", "version": "0.1", "manifest_version": 3, "description": "Undiscards tabs around selected tab.", "background": {"scripts": ["sw.js"]}, "browser_specific_settings": {"gecko": {"id": "{696dd028-e2b0-4b5e-841c-7f5bd6597a48}"}}}

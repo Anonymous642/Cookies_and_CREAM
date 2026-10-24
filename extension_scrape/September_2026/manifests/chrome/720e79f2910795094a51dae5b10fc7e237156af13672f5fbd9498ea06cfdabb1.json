@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PDF Bulk Downloader", "description": "Bulk download PDF files from the current page with advanced renaming and filtering options.", "version": "1.1", "permissions": ["downloads", "activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

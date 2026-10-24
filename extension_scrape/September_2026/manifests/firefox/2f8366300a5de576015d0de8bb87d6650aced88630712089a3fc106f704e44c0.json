@@ -1,0 +1,1 @@
+{"name": "Der Die Das for Quizlet", "version": "1.1", "manifest_version": 2, "web_accessible_resources": ["artikel.js", "artikel.html"], "content_scripts": [{"matches": ["https://quizlet.com/*"], "js": ["displayWords.js"]}], "permissions": ["https://quizlet.com/*"], "browser_specific_settings": {"gecko": {"id": "{a31dd711-8474-447a-a6c2-51f01b7cbdab}"}}}

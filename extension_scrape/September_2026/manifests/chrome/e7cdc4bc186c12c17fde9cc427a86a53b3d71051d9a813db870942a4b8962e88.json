@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Speed Controller", "version": "1.0", "description": "Adds custom speed buttons to YouTube videos automatically.", "icons": {"128": "icon128.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["content.js"], "run_at": "document_end"}]}

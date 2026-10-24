@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab Flow", "version": "1.1", "description": "Troca automaticamente entre URLs de uma lista.", "permissions": ["storage", "activeTab"], "action": {"default_popup": "popup.html", "default_icon": "icons/icon128.png"}, "background": {"service_worker": "background.js"}}

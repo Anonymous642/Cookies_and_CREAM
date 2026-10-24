@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NoShorts", "version": "2.0", "description": "NoShorts reverts YouTube Shorts to the standard YouTube video format.", "icons": {"48": "icons/main.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["noshorts.js"]}], "browser_specific_settings": {"gecko": {"id": "{11e8f2a5-ff36-4e5d-a3ea-cc5a31b014f8}"}}}

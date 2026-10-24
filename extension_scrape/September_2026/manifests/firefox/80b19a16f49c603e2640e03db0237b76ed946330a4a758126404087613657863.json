@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HKD to SGD Converter", "version": "1.0", "description": "Convert Hong Kong Dollar to Singapore Dollar.", "permissions": ["activeTab", "https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{01dc1490-2155-4547-b917-c90cb6c00f80}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Asana Expander", "version": "1.0", "description": "Expands all Asana Subtasks", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://app.asana.com/*"], "js": ["expander.js"]}], "browser_specific_settings": {"gecko": {"id": "{d627eaec-d990-4a39-be00-dae8d1a48d63}"}}}

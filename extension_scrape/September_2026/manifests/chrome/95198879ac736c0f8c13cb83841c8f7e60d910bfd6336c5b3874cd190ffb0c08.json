@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Cribbage Practice", "description": "An Extension that helps you practice scoring cribbage hands", "version": "1.0", "manifest_version": 3, "background": {"service_worker": "background.js"}, "permissions": ["storage"], "action": {}, "icons": {"16": "crib_icon.png", "128": "crib_icon.png"}}

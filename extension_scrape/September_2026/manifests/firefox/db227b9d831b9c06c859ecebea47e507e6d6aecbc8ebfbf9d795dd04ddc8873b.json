@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Random blurry photo", "description": "Opens a random blurry image and the user can view it.", "version": "1.0", "icons": {"32": "icons/logo_32.png", "64": "icons/logo_64.png"}, "chrome_url_overrides": {"newtab": "tabs.html"}, "applications": {"gecko": {"strict_min_version": "59.0a2", "id": "{e4976039-8785-46f6-ac7e-e2be953fe695}"}}}

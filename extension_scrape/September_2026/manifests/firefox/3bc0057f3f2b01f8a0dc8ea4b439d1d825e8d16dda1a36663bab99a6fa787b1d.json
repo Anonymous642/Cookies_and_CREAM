@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "productify", "version": "1.1resigned1", "description": "mozilla products for developers.", "browser_action": {"default_title": "mozilla", "default_icon": "icons/box.png", "default_popup": "mozilla.html"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{475d1324-50f6-43fa-acf2-14c7da6f87fe}"}}}

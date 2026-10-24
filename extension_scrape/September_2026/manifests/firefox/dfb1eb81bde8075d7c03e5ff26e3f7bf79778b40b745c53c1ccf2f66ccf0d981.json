@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Character Count Checker", "version": "1.0", "description": "Calculate the character count of the selected text on a webpage.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icons/icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{d5e3f687-5f80-4bdf-a0a1-00bfd290f000}"}}}

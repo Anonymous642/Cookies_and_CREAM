@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Aurora Winter Escape", "version": "1.0", "description": "A stunning display of the northern lights", "permissions": ["geolocation"], "chrome_url_overrides": {"newtab": "index.html"}}

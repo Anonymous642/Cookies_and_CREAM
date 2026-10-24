@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LAK to PEN Converter", "version": "1.0", "description": "Convert Lao Kip (LAK) to Peruvian Sol (PEN).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert LAK to PEN"}, "browser_specific_settings": {"gecko": {"id": "{4f9e1bd6-d556-4044-940b-23d3afd278b2}"}}}

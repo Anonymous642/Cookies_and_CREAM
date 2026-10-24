@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YT-Rec-Remover", "version": "0.1", "description": "Removes Youtube recommendations.", "icons": {"48": "recrem-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["yt-rec-remover.js"]}], "browser_specific_settings": {"gecko": {"id": "@yt-rec-remover", "data_collection_permissions": {"required": ["none"]}}}}

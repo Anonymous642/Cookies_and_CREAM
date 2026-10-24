@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83c\udf41 Pomodoro Leaf Clock", "version": "1.0", "description": "A mini Pomodoro timer that reminds you every 25 minutes.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "permissions": ["notifications"], "browser_specific_settings": {"gecko": {"id": "maanivsellea66@hotmail.com"}}}

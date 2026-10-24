@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YT Shorts To Regular Vids", "version": "1.0", "description": "YouTube Shorts turn into regular videos.", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{ebd8c429-d403-4e16-81df-eae194ecccf7}"}}}

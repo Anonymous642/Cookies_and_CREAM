@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Yudiz Placement Test Checker", "version": "1.0", "content_scripts": [{"matches": ["http://placement.yudiz.com/*"], "js": ["js/content.js"]}], "icons": {"16": "/image/icon.png", "32": "/image/icon.png", "48": "/image/icon.png", "128": "/image/icon.png"}}

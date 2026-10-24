@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Snoop", "version": "0.0.3resigned1", "description": "Peek into redditor's post history", "content_scripts": [{"matches": ["*://*.reddit.com/r/*/comments/*"], "js": ["snoop.js"]}], "icons": {"48": "icons/snoop-48.png", "96": "icons/snoop-96.png"}, "browser_specific_settings": {"gecko": {"id": "{62f916aa-77b3-4dde-9899-7a87f389ac7a}"}}}

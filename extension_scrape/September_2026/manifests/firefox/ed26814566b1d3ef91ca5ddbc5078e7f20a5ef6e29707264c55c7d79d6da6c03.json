@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Exporter", "version": "1.0", "description": "Export and import browser tabs with titles.", "icons": {"48": "icon.png"}, "permissions": ["tabs", "storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{a58d5eb0-302f-43d4-817b-c40db55fd584}"}}}

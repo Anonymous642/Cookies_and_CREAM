@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Healthy LinkedIn", "version": "1.0", "description": "Masque le fil d'actualit\u00e9 LinkedIn pour rester heureux.", "content_scripts": [{"matches": ["https://*.linkedin.com/*"], "css": ["styles.css"], "run_at": "document_start"}]}

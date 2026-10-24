@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Refresh Fidely Portfolio", "version": "1.2.0", "description": "Refreshes open items in portfolio every minute.", "content_scripts": [{"matches": ["https://digital.fidelity.com/ftgw/digital/*"], "js": ["refresh-fidelity.js"]}], "browser_specific_settings": {"gecko": {"id": "{8ab70d26-a7c0-49e3-9ecd-907d624956af}"}}}

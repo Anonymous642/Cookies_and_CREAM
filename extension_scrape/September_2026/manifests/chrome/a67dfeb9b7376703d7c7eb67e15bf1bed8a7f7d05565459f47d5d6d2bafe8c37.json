@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "rainwaveForChrome", "description": "Play and use Rainwave.cc with this extension", "version": "1.0", "manifest_version": 3, "permissions": ["offscreen"], "action": {"default_popup": "index.html", "default_icon": "icon.png"}, "background": {"service_worker": "setOffscreen.js"}}

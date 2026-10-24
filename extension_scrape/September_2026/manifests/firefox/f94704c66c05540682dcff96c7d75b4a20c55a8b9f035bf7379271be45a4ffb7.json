@@ -1,0 +1,1 @@
+{"name": "Figma RTL", "description": "Alibaba Figma RTL content", "version": "0.4.0", "manifest_version": 2, "content_scripts": [{"run_at": "document_start", "matches": ["https://www.figma.com/*"], "all_frames": true, "js": ["index.js"]}], "permissions": ["clipboardRead", "clipboardWrite"], "icons": {"16": "images/16.png", "48": "images/48.png", "128": "images/128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Random GIF Generator", "version": "1.0", "description": "Generate a random GIF with a click!", "permissions": ["activeTab", "storage", "https://api.giphy.com/*"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{f28a409f-ec5a-4524-b766-d030b44c470d}"}}}

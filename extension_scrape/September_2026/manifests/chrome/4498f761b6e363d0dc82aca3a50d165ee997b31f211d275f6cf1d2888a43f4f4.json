@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.0", "name": "TurboReader", "description": "Become a faster reader with TurboReader", "action": {}, "icons": {"48": "icons/icon-48.png"}, "background": {"service_worker": "background.js"}, "permissions": ["activeTab", "scripting"]}

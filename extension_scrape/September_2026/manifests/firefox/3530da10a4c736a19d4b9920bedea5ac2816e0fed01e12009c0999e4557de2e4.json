@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Daily Time Limiter", "version": "1.0", "description": "Limits daily time spent on YouTube website", "permissions": ["storage"], "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{451d6d2a-1d2d-4e8a-8c45-9c27621cd6da}"}}}

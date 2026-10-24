@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitch Featured Video Remover", "version": "0.3.1resigned1", "content_scripts": [{"matches": ["https://www.twitch.tv/*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{53394b3d-ee6a-4d5c-8bbe-a62633544758}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Linkedin ad hunter", "description": "Blocking ads in linkedin for free.", "version": "0.0.1", "author": "LightCodes LLC", "browser_action": {"default_title": "Linkedin ad hunter"}, "permissions": ["tabs", "webNavigation", "https://www.linkedin.com/"], "background": {"scripts": ["extension.js"]}}

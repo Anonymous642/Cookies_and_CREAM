@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pok\u00e9Blet", "version": "0.2.0", "description": "Interface gr\u00e1fica para melhorar a sua experi\u00eancia dentro do universo pok\u00e9mon no Habblet", "content_scripts": [{"matches": ["*://*.habblet.city/*"], "js": ["content.js"], "run_at": "document_start", "world": "MAIN"}]}

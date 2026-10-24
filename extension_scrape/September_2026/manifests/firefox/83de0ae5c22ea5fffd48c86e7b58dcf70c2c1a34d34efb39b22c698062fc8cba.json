@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Undo Tabs", "version": "3.0", "description": "Quickly restore recently closed tabs with a modern design", "permissions": ["tabs", "sessions"], "browser_action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png"}}, "icons": {"16": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{b9ce06ae-260a-4fbb-b213-c6d550ea31e4}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Night Shade", "version": "1.0.1", "description": "Night Shade: Force dark mode everywhere", "action": {"default_popup": "popup.html", "default_icon": "night_shade.png"}, "icons": {"128": "night_shade.png"}, "permissions": ["storage", "scripting", "activeTab", "tabs"]}

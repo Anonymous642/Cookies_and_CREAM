@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Age Calculator", "version": "1.0.0", "description": "Easily calculate your exact age by entering your date of birth.", "action": {"default_popup": "popup.html", "default_title": "Age Calculator"}, "icons": {"48": "icon.png", "128": "icon.png"}}

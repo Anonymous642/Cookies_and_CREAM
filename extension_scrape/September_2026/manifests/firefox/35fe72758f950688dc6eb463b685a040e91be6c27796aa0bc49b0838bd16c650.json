@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GIF Downloader", "version": "1.0", "description": "Download GIF images from any webpage.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{d0489053-1a32-463a-9be8-e87fc4811c9a}"}}}

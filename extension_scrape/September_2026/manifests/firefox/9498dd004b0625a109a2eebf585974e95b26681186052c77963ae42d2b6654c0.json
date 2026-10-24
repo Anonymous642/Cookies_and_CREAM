@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Facebook", "version": "1.0", "description": "Adds a red border to all webpages matching mozilla.org.", "icons": {"48": "noads.png"}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["facebookads.js"]}], "browser_specific_settings": {"gecko": {"id": "{493dedfe-6cd8-4626-9a36-ebc02d01dd57}"}}}

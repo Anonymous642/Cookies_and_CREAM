@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Streamulti", "version": "1.0.0", "description": "Converts multiple twitch.tv tabs into a single multistre.am tab", "permissions": ["tabs", "tabHide"], "background": {"scripts": ["button.js"]}, "browser_action": {"browser_style": true, "default_icon": {"48": "/GlitchIcon_Purple_32px.png"}, "default_title": "TwitchMulti - Collapse tabs"}}

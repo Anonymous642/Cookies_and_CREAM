@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Coin ATH to CPI Inflation Value", "version": "1.0", "host_permissions": ["https://api.muratserdar.com/*", "https://data.bls.gov/*"], "action": {"default_popup": "popup.html", "default_icon": "icon128.png"}, "icons": {"128": "icon128.png", "256": "icon256.png"}}

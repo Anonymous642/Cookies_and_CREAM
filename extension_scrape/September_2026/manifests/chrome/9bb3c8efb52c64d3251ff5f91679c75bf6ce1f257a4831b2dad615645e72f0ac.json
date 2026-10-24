@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Text Styler (ASCII/Unicode)", "version": "1.0.0", "description": "Convert your name into stylish ASCII/Unicode text with one click.", "action": {"default_title": "Text Styler", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

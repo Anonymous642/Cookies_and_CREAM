@@ -1,0 +1,1 @@
+{"content_scripts": [{"matches": ["*://*.youtube.com/*", "*://*.youtu.be/*"], "js": ["wadsworth.js"]}], "manifest_version": 2, "name": "Wadsworth", "version": "0.2resigned1", "description": "Skips the first 1/3rd of a Youtube.com video.", "icons": {"512": "icons/chevron-right.svg"}, "browser_specific_settings": {"gecko": {"id": "{439b5b23-02ca-4c76-a113-520c91bdaab1}"}}}

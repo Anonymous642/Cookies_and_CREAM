@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cadeaux WarbleLoopLab", "version": "1.9.0", "description": "Ajoute rapidement un produit \u00e0 une liste de cadeaux familiale.", "permissions": ["activeTab", "storage", "scripting"], "action": {"default_popup": "popup.html", "default_title": "Ajouter aux cadeaux"}}

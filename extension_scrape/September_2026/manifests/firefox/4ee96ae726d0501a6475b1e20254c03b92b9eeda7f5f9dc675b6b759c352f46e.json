@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quran Verse Reminder", "version": "1.0", "description": "Get inspired by random Quranic verses.", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html", "default_title": "Quran Verse Reminder"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{cab816b6-613e-4064-8ea9-691e60997405}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "FreeCaption", "description": "Free live closed captioning system for communicating with the deaf and hearing impaired", "version": "1.0.3", "manifest_version": 2, "icons": {"128": "128.png"}, "app": {"urls": ["https://convert-to-app.com/"], "launch": {"web_url": "https://convert-to-app.com/"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hello Thunderbird Add-on", "version": "1.0", "description": "Add-on m\u1eabu cho Thunderbird.", "applications": {"gecko": {"id": "addon1234abcd@yourdomain.dev", "strict_min_version": "91.0"}}, "background": {"scripts": ["background.js"]}, "permissions": ["messagesRead", "accountsRead", "addressBooks"]}

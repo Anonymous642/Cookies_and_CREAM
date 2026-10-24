@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.4", "name": "deactivate_moodle_forcedownload", "content_scripts": [{"matches": ["https://moodle.u-paris.fr/*", "https://centralesupelec.edunao.com/*", "https://webeep.polimi.it/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{b345b63a-ced9-48ea-a963-39aad80cdc51}"}}}

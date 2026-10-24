@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"urls": ["http://tomrchambers.com/RYSS_TCCC.html"], "launch": {"web_url": "http://tomrchambers.com/RYSS_TCCC.html"}}, "name": "RYSS TECH IDEAS", "description": "Curriculum planning ideas for Technology Applications (Grades 7 and 8)", "manifest_version": 2, "version": "1.1", "icons": {"128": "icon_128.png"}}

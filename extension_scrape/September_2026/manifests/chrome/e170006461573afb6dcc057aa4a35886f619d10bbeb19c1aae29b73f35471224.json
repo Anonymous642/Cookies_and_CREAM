@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.2", "name": "Crimson Bloom", "chrome_url_overrides": {"newtab": "index.html"}, "description": "A blooming rose garden", "manifest_version": 3}

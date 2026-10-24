@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TextKeeper", "version": "1.2", "description": "A simple note taker with dark mode.", "permissions": ["tabs"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_action": {"default_title": "TextKeeper"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{7eca6ed9-1977-484c-8b8d-1b4ac14a7999}"}}}

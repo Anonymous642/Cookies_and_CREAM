@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "X Bookmarks Exporter", "version": "1.0.0", "description": "Export your saved X/Twitter bookmarks to a CSV file with a single click.", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "service-worker.js"}, "action": {"default_title": "Export X Bookmarks"}}

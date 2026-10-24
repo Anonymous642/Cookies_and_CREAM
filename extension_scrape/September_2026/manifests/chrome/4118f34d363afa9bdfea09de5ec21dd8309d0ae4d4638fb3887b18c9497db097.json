@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "OneFactor", "version": "1.1.1", "description": "Your OneFactor TOTP Generator", "action": {"default_popup": "index.html"}, "permissions": ["storage", "clipboardRead"], "options_page": "settings.html", "author": "Simon Mair"}

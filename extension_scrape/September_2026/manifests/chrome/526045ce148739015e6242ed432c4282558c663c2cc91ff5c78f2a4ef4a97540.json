@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Service Nowheres", "version": "1.0", "description": "Savior of shitty service now", "action": {"default_popup": "popup.html", "default_icon": {"16": "images/snow_16.png", "48": "images/snow_48.png", "128": "images/snow_128.png"}}}

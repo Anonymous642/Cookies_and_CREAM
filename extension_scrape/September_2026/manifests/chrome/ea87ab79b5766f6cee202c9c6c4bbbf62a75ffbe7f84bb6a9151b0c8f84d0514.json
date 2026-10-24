@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Minimalist New Tab", "description": "New Tab Page with Custom Website Cards", "version": "1.0", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["storage"], "icons": {"16": "logo.png", "32": "logo.png", "48": "logo.png", "128": "logo.png"}}

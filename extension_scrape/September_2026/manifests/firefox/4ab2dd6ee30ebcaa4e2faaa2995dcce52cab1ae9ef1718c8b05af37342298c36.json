@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Math Me Not", "version": "1.1", "icons": {"64": "ico.svg"}, "permissions": ["storage", "tabs"], "browser_action": {"default_popup": "urllist.html", "default_title": "Math Me Not Settings"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{8c1c12ef-21be-4a98-9c9f-f278448a64b9}"}}}

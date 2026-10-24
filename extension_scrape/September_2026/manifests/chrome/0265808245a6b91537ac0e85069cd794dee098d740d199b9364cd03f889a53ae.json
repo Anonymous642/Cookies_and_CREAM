@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ynspir - Estimateur de Travaux", "version": "1.0", "description": "Estime le co\u00fbt des travaux de r\u00e9novation selon Ynspir.", "content_scripts": [{"matches": ["*://*.leboncoin.fr/ad/*", "*://*.leboncoin.fr/ventes_immobilieres/*"], "js": ["content.js"], "css": ["style.css"]}]}

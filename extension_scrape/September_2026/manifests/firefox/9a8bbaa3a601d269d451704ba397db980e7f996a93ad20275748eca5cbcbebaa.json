@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RemoveYoutubeMixes", "version": "1.6", "author": "Niv", "description": "Remove the YouTube Mixes items from youtube homepage", "icons": {"48": "icons/yt-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["removeYTmixes.js"]}]}

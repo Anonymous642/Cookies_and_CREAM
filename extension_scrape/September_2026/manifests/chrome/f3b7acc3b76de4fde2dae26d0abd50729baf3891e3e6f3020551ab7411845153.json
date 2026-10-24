@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Chrome Version Checker", "version": "1.0.4", "description": "Checks if Chrome is up to date and opens the update page if not.", "permissions": ["tabs", "notifications"], "background": {"service_worker": "background.js"}, "action": {"default_title": "Check Chrome Version"}}

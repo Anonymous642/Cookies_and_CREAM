@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "New Tab Quote", "version": "1.0", "description": "Display a random motivational quote every time you open a new tab.", "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "new-tab-quote@example.com", "strict_min_version": "109.0"}}}

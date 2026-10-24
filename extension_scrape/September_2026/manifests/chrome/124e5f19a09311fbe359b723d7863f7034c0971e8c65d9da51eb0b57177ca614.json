@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mickey Mouse", "version": "1.5", "description": "Mickey Mouse start page", "icons": {"48": "./img/logo.png"}, "chrome_url_overrides": {"newtab": "./src/main.html"}, "permissions": []}

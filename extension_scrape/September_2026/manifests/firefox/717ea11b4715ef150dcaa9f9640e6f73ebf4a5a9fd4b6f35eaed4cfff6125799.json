@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Spot the Difference Game", "version": "1.0", "description": "Find differences between cartoon scenes.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "index.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{9fa71853-7f6b-489c-9bbc-65a266e5f528}"}}}

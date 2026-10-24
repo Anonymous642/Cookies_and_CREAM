@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute Mini Dictionary", "version": "1.0.0", "description": "A cute mini dictionary that returns meanings from a built-in JSON object. No API, no permissions.", "action": {"default_title": "Cute Mini Dictionary", "default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}}

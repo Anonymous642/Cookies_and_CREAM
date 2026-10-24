@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Readuce", "version": "1.0", "description": "Opens Wikipedia pages in the Readuce AI powered wiki.", "permissions": ["declarativeNetRequestWithHostAccess"], "host_permissions": ["https://en.wikipedia.org/*"], "background": {"service_worker": "background.js"}}

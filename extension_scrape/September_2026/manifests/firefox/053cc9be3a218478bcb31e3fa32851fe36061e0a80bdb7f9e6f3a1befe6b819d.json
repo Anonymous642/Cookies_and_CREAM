@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Real-Time Image Mirror", "version": "1.0", "description": "Mirror images horizontally on hover for quick symmetry check.", "permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{ea21b47f-0e22-4fa8-84c8-877098f456fa}"}}}

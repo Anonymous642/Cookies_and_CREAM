@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Jira Show All Assignees", "version": "1.4", "description": "Shows all assignees in Jira board filter instead of hiding behind +N", "icons": {"128": "icon_128.png"}, "content_scripts": [{"matches": ["*://*.atlassian.net/jira/*"], "js": ["content.js"], "run_at": "document_idle"}]}

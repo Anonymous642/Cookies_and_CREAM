@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sudoku Game", "version": "2.0", "description": "A simple Sudoku game as a Chrome extension", "action": {"default_popup": "popup.html"}}

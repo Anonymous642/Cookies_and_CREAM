@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Focus Ambient", "version": "1.0", "description": "Ph\u00e1t \u00e2m thanh th\u01b0 gi\u00e3n gi\u00fap t\u1eadp trung l\u00e0m vi\u1ec7c.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{c9d42c4c-0a81-4bf3-aa22-97153551f890}"}}}

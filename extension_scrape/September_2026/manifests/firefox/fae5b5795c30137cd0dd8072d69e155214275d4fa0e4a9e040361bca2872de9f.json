@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Stranger Chat Ideas", "version": "1.0", "description": "Get random conversation starters to help you connect with strangers easily.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "christopherhhsh670290@hotmail.com"}}, "permissions": []}

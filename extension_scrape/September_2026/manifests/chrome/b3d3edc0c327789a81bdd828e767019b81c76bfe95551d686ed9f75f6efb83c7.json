@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "3D Toaster", "version": "2.0", "description": "3D Toaster", "icons": {"48": "icon.png"}, "action": {"default_icon": "icon.png", "default_title": "3D Toaster", "default_popup": "index.html"}}

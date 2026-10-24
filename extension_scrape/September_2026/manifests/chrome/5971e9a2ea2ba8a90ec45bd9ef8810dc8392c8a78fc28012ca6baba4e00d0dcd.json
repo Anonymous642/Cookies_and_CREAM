@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AI Cost Tracker", "version": "1.0.0", "description": "Track your AI service costs and subscriptions", "permissions": ["storage"], "action": {"default_popup": "popup.html", "default_title": "AI Cost Tracker"}}

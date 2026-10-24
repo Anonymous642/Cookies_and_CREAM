@@ -1,0 +1,1 @@
+{"name": "Lista de precio DEMO", "description": "Lista de precios, catalogo y stock.", "version": "1.1resigned1", "icons": {"96": "logo.png"}, "browser_action": {"default_icon": "logo.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["tabs"], "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{4c5b8aff-9234-48d9-9447-acc40eafd0e1}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NoMix", "version": "1.2", "description": "Right-click on a link to copy it/open in new tab with text processing.", "permissions": ["menus", "clipboardWrite"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{e29dcde9-396e-422b-81df-5db82c5d6369}"}}}

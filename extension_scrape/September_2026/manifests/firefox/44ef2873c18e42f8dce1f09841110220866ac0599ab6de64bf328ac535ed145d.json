@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83c\udf42 Password Strength Checker", "version": "1.0", "description": "Check how strong your password is with one click!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "salickbaftie@hotmail.com"}}}

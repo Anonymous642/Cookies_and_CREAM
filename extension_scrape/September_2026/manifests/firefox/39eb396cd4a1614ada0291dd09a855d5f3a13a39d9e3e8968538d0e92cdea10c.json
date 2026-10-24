@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Open Image in New Tab Nsh", "version": "1.0", "description": "Adds a right-click option to quickly open images in a new tab for easy viewing", "permissions": ["contextMenus"], "background": {"scripts": ["main.js"]}, "browser_specific_settings": {"gecko": {"id": "{6e03c8bb-3c71-4149-9a3e-626cd4a66707}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "NCLEX Assistant", "version": "0.1", "manifest_version": 3, "description": "Simulate NCLEX scores", "content_scripts": [{"matches": ["*://wsr.pearsonvue.com/*"], "js": ["content.js"], "run_at": "document_end"}], "icons": {"16": "logo.png", "48": "logo.png", "128": "logo.png", "512": "logo.png"}}

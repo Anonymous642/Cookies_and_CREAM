@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Current Time Popup", "version": "1.0", "description": "View the current time instantly in the popup.", "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{f69812e5-5bff-4330-ae35-f461422ff481}"}}}

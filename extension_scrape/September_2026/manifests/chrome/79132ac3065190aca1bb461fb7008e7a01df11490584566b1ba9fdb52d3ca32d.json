@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Typing Challenge", "description": "A cute pixel-art typing challenge game to improve your typing speed and accuracy!", "version": "3.0", "action": {"default_popup": "popup.html"}, "icons": {"128": "GameIcon (1).png"}}

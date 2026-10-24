@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Copy LinkedIn Job", "version": "2.0", "permissions": ["scripting", "clipboardWrite", "activeTab"], "background": {"service_worker": "content.js"}, "action": {"default_icon": {"16": "icon.png"}}, "content_scripts": [{"matches": ["https://www.linkedin.com/*"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Snake Game", "version": "1.5", "description": "A classic Snake game as a Firefox extension", "browser_specific_settings": {"gecko": {"id": "snake-game@example.com"}}, "browser_action": {"default_title": "Snake Game", "default_popup": "popup.html"}, "permissions": ["storage"]}

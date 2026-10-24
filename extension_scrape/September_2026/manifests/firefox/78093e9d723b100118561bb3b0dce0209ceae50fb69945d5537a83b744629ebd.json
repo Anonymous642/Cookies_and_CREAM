@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clipboard Cleaner", "version": "1.2", "description": "Clears copied Twitter share links of the s and t tracking parameters.", "browser_specific_settings": {"gecko": {"id": "dummy_id_not_for_publishing@example.com"}}, "permissions": ["clipboardRead", "clipboardWrite"], "background": {"scripts": ["background.js"], "persistent": true}}

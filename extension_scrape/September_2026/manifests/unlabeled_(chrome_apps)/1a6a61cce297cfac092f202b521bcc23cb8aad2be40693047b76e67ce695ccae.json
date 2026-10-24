@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "app": {"launch": {"web_url": "http://games.hashcube.com/new_sudoku/?ref=chrome"}, "urls": ["http://games.hashcube.com/new_sudoku/?ref=chrome"]}, "icons": {"128": "sudokuquest_icon.png"}, "name": "SudokuQuest", "version": "1.0", "manifest_version": 2}

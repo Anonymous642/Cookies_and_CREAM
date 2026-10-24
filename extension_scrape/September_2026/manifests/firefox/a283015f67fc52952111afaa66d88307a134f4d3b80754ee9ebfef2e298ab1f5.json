@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Netacad for you", "version": "1.2resigned1", "description": "Change soso", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.netacad.com/*"], "js": ["borderify.js"]}], "browser_specific_settings": {"gecko": {"id": "{b0effd5c-5779-4520-b607-f4e86087bdd6}"}}}

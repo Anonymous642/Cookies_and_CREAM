@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bangla Banan Dictionary", "description": "Bangla Banan Dictionary", "homepage_url": "https://www.banglabanan.com", "version": "1.0.0", "browser_specific_settings": {"gecko": {"id": "bangla_banan_dictionary@banglabanan.com"}}, "dictionaries": {"bn-BD": "dictionaries/bn-BD.dic"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WatchNow", "version": "1.0", "description": "Watch videos directly without downloading. Enjoy subtitles support.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{a04f86dd-533e-47d4-aa3a-5ef936b799cb}"}}}

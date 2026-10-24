@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ladin (Gherd\u00ebina)", "version": "1.1", "author": "Samuel Frontull", "description": "Spell-checking dictionary for Ladin (Gherd\u00ebina).", "dictionaries": {"lld-gherd": "dictionaries/lld_GH.dic"}, "browser_specific_settings": {"gecko": {"id": "lld_gherd@dictionaries.addons.mozilla.org"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Injectinataur", "version": "1.0", "manifest_version": 3, "permissions": ["scripting", "activeTab", "storage"], "host_permissions": ["https://*/*", "http://*/*"], "action": {"default_title": "Injector", "default_popup": "popup.html"}}

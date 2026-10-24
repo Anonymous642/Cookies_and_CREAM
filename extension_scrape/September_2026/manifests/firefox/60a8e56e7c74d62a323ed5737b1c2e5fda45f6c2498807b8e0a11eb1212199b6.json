@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Scotts Color Scrollbars", "version": "1.0", "description": "Set scrollbar colors", "browser_specific_settings": {"gecko": {"id": "scottsapps4sale@gmail.com_2"}}, "content_scripts": [{"matches": ["*://*/*"], "js": ["scotts-scrollbar.js"], "css": ["my.css"]}]}

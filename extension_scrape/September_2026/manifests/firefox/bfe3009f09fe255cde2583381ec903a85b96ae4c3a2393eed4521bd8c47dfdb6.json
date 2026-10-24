@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ignore Elon Trump", "version": "1.0", "description": "", "content_scripts": [{"matches": ["*://*.watson.ch/*"], "js": ["background.js"]}], "browser_specific_settings": {"gecko": {"id": "{881a5dd5-29ef-42f7-a08c-53e6846b7302}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GBG CVS Extract", "version": "0.3", "description": "Extract CVS data from matches from gbg pages", "icons": {"32": "images/icon.png", "128": "images/icon-128.png"}, "content_scripts": [{"js": ["scripts/content.js"], "matches": ["https://www.gbgfotboll.se/rs/spelprogram*"]}]}

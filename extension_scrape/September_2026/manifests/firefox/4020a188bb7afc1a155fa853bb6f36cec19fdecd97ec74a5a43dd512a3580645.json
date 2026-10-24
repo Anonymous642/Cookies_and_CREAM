@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Goldtoken Enhancements", "version": "0.6", "description": "Enhancements to the Goldtoken.com user interface", "content_scripts": [{"matches": ["*://*.goldtoken.com/*"], "js": ["js/jquery-3.4.1.min.js", "js/grabble.js", "js/xiphias.js"]}]}

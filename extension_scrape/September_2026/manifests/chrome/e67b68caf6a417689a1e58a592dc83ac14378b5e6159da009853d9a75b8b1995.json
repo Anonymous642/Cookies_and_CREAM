@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Notion Id Linker for GitHub", "version": "1.2", "description": "Convert Notion's unique IDs to Notion links", "permissions": ["storage"], "content_scripts": [{"matches": ["https://github.com/*"], "js": ["content.js"]}], "action": {"default_popup": "popup.html"}}

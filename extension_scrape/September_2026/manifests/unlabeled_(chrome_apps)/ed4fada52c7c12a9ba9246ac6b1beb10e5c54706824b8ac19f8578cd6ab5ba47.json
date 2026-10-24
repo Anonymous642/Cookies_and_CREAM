@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Social Trivia", "description": "The social trivia", "version": "4", "icons": {"128": "128.png"}, "app": {"launch": {"web_url": "http://applications.frenys.com/socialtriviafb/?ref=chrome"}}, "permissions": ["notifications"], "manifest_version": 2}

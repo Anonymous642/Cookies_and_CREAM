@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Page Screenshot", "version": "1.0", "description": "Capture a screenshot of the current page.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{60ef81b7-e679-47c7-880f-2db5ffc3c4f5}"}}}

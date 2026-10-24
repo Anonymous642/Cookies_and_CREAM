@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GST Loader Remover", "version": "1.0", "description": "Automatically removes the loader overlay when it appears in GST Portal.", "permissions": [], "content_scripts": [{"matches": ["https://*.gst.gov.in/*"], "js": ["content.js"], "run_at": "document_idle"}]}

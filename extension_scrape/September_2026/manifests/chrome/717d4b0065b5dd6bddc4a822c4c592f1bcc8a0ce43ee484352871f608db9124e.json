@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Outfit Suggestion Today", "version": "1.0.0", "description": "Luxury black outfit suggestions for today based on style, weather feel, and occasion.", "action": {"default_title": "Outfit Suggestion Today", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

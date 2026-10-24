@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MultiTimer", "description": "Multiple timers at the same time.", "version": "1.4", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "circle-16.png", "128": "circle-128.png"}, "sandbox": {"pages": ["index.html"]}}

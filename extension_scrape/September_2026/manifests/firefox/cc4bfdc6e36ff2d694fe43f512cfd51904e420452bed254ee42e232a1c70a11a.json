@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Tax Calculator Pakistan 2025", "version": "1.0", "description": "Calculate income tax for Pakistan 2025 directly in your browser!", "icons": {"48": "icon.png"}, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{5d14f3ac-ca07-493d-b1d2-cf865afd3e09}"}}}

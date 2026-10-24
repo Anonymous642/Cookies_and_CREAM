@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "NowIs.Org > Calendar", "version": "1.0", "description": "Add events from now-is.org to your google calendar", "options_page": "options.html", "permissions": ["storage"], "content_scripts": [{"matches": ["https://now-is.org/"], "js": ["content.js"]}]}

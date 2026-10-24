@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Guid Generator", "browser_specific_settings": {"gecko": {"id": "{a9fb49ca-c970-4368-abf2-236de3806292}"}}, "version": "1.0", "description": "A simple Guid generator", "permissions": [], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

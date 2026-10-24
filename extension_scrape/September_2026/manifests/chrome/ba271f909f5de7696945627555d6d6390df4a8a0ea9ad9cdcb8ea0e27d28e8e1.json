@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pomodoro", "description": "Pomodoro Clock for studying on Chrome", "version": "1.0", "action": {"default_popup": "pomodoro.html", "default_icon": "pomodoro.png"}}

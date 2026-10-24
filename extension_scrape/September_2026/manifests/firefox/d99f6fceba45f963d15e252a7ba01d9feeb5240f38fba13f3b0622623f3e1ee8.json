@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BYN to KGS Converter", "version": "1.0", "description": "Convert Belarusian Ruble (BYN) to Kyrgyzstani Som (KGS).", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/"], "browser_specific_settings": {"gecko": {"id": "{2c37281d-6ee4-4f31-9de0-56d29cd60fd9}"}}}

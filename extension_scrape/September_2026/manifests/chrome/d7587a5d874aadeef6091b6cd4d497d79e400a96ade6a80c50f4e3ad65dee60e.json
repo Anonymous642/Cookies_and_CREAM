@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AI Studio Scroll Button", "version": "1.0", "description": "Adds a scroll-to-bottom button at the top of the first message in Google AI Studio.", "content_scripts": [{"matches": ["https://aistudio.google.com/*"], "js": ["content.js"], "css": ["styles.css"]}]}

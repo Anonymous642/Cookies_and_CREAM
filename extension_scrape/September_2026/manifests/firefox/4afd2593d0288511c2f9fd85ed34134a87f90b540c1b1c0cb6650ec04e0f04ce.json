@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Read Later Mini", "version": "1.0", "description": "Quickly save articles to read later without an account.", "permissions": ["storage", "tabs"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{74ed51e0-0f82-4353-bc5d-8c4e9b455329}"}}}

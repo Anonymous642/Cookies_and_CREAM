@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Unlock Pixnet", "version": "1.1resigned1", "description": "Anti disabled right click and release contextmenu in Pixnet.net", "icons": {"48": "unlock.png"}, "content_scripts": [{"matches": ["*://*.pixnet.net/blog/*"], "js": ["app.js"]}], "browser_specific_settings": {"gecko": {"id": "{3476d0f8-7088-4dc7-8216-bc32bde50f98}"}}}

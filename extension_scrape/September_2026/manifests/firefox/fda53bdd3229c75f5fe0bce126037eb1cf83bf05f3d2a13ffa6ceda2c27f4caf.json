@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Better <code> blocks", "description": "Improves <code> blocks", "version": "1.0", "content_scripts": [{"matches": ["<all_urls>"], "js": ["script.js"], "run_at": "document_idle"}], "permissions": ["clipboardWrite"], "browser_specific_settings": {"gecko": {"id": "{198ee84a-7463-49a8-85a8-21a1b001e03c}"}}}

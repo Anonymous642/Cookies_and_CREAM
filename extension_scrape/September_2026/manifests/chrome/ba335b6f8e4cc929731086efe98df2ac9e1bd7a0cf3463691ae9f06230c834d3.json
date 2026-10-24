@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ImpactTracker", "version": "1.6", "description": "Record ", "permissions": ["alarms", "notifications", "storage", "background"], "options_ui": {"page": "options.html"}, "icons": {"16": "icon16.png"}, "background": {"service_worker": "background.js", "keep_alive": true}}

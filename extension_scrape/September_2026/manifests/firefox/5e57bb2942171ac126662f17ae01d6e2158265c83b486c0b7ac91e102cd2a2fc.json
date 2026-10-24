@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MediaViewer", "version": "1.0", "description": "View all images and videos on a webpage in an organized gallery view.", "icons": {"48": "icon.png"}, "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "applications": {"gecko": {"id": "mediaviewer@yourdomain.com"}}}

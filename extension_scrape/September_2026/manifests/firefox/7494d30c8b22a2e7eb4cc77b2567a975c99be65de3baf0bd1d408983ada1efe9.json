@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "EUR to USD Converter", "version": "1.0", "description": "Convert Euro (EUR) to US Dollar (USD) instantly.", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/*"], "browser_specific_settings": {"gecko": {"id": "{72164b51-643f-473a-9712-377645aa3c34}"}}}

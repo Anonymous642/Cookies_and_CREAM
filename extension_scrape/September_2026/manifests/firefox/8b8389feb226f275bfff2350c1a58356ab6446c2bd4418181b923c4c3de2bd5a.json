@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HAMROcsit", "version": "1.2", "description": "Allows answer viewing on hamrocsit.com", "permissions": ["activeTab"], "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://hamrocsit.com/*"], "js": ["hamrocsitify.js"]}], "browser_specific_settings": {"gecko": {"id": "{f4835d62-048c-4057-9e49-795b8303b386}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hide Password Visibility", "version": "1.0", "description": "Prevents password visibility toggling by hiding eye icons and enforcing password fields.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{1cf093d4-ea6f-40e9-b240-e61c2773e354}"}}}

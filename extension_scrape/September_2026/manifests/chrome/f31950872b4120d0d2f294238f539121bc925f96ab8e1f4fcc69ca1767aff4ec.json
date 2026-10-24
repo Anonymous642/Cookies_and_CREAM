@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LibDash", "version": "1.1", "description": "An unofficial, lighting-fast study space finder for University of Toronto students.", "action": {"default_popup": "popup.html", "default_icon": {"32": "icon_toolbar.png"}}, "icons": {"128": "icon_store.png"}}

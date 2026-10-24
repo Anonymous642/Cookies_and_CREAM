@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Brightness control", "version": "1.2", "description": "Brightness control for web pages", "permissions": ["storage"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_start", "all_frames": false}]}

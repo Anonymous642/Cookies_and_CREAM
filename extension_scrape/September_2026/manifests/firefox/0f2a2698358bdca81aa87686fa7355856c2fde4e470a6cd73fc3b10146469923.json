@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Vylep\u0161en\u00ed pro wikislovn\u00edk", "version": "1.1", "content_scripts": [{"matches": ["*://*.cs.wiktionary.org/*"], "js": ["content.js"], "run_at": "document_end"}], "permissions": ["storage"], "options_ui": {"page": "options.html", "browser_style": false}}

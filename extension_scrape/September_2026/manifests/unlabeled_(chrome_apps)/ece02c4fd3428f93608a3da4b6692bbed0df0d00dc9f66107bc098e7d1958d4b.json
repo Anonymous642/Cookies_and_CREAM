@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Net Gazete", "description": "1998'den beri internet gazeteniz", "version": "1.0", "manifest_version": 2, "app": {"launch": {"web_url": "http://www.netgazete.com/"}}, "icons": {"128": "128x128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

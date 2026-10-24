@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Block Netflix Keyboard Interactions", "version": "1.0", "description": "Prevents Netflix from interacting with your keyboard.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*.netflix.com/*"], "js": ["block.js"]}], "browser_specific_settings": {"gecko": {"id": "{acab7aa4-56e3-4cc2-99ea-4bf3ccf4d707}"}}}

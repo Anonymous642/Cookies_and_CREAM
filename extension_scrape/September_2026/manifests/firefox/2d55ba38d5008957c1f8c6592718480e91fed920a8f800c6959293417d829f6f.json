@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "No Events on ROBLOX", "version": "1.0.0", "description": "", "content_scripts": [{"matches": ["*://*.roblox.com/*"], "css": ["style.css"]}], "icons": {"16": "icons/icon16.png", "48": "icons/icon48.png", "128": "icons/icon128.png", "256": "icons/icon256.png"}, "browser_specific_settings": {"gecko": {"id": "no-events-in-sidebar@lumi.dev"}}}

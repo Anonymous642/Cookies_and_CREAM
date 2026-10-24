@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "USD to RWF Converter", "version": "1.0", "description": "Convert USD to RWF directly from your browser.", "permissions": ["activeTab", "https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{e942d79c-2952-45db-afb2-43d9f831ff26}"}}}

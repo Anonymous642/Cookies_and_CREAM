@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Draw Diagonal Game", "version": "1.0", "description": "A simple game to draw diagonals based on instructions.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{6bc33445-832f-4461-b5a9-8278da99c51d}"}}}

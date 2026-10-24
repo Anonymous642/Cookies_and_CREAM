@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Conventional Comments Helper", "version": "1.0.1", "description": "Adds Conventional Comment prefixes to comment boxes", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://github.com/*"], "js": ["src/content.js"], "css": ["src/assets/styles.css"]}], "browser_specific_settings": {"gecko": {"id": "revenge-allied-18@icloud.com"}}}

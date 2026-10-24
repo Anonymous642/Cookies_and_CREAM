@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BTN to RWF Converter", "version": "1.0", "description": "Convert Bhutanese Ngultrum (BTN) to Rwandan Franc (RWF).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert BTN to RWF"}, "browser_specific_settings": {"gecko": {"id": "{18840d3e-aa65-4a41-8aa5-5cc33d25b602}"}}}

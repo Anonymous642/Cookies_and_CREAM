@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple Number to Words", "version": "1.0.0", "description": "Convert numbers into words instantly with a simple, local-only interface.", "action": {"default_title": "Number to Words", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

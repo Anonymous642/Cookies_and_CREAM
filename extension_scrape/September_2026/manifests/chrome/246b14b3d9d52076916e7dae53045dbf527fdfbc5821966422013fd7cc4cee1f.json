@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Calendar Assignment Data Enhancement Node", "version": "1.1", "description": "Calendar Assignment Data Enhancement Node (CADEN)", "permissions": ["tabs", "webNavigation"], "background": {"service_worker": "background.js"}, "host_permissions": ["*://www.google.com/*"]}

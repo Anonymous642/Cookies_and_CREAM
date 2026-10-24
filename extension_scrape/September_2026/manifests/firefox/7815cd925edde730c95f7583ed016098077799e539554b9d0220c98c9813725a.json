@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ibuk Libra Text Copier", "version": "1.0", "description": "Pozwala na kopiowanie tekstu z ibuk libra", "icons": {"48": "icons/copy.png"}, "content_scripts": [{"matches": ["*://*/*libra.ibuk.pl/reader*", "*://*.ibuk.pl/reader*"], "js": ["copier.js"]}], "browser_specific_settings": {"gecko": {"id": "{549a798c-57c4-482d-bab8-c076a83a0f4b}"}}}

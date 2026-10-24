@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Weather Info", "version": "1.0", "description": "Hi\u1ec3n th\u1ecb th\u00f4ng tin th\u1eddi ti\u1ebft m\u00f4 ph\u1ecfng \u0111\u01a1n gi\u1ea3n.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{46eac7e0-e237-4206-8df2-dd1e85499312}"}}}

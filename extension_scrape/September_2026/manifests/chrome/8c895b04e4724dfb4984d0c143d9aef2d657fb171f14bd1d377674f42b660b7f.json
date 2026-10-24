@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Lux Clipboard History", "description": "Save and manage your last 3\u20135 copied text entries in a clean and elegant popup interface.", "version": "1.0", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon.png"}}, "icons": {"128": "icon.png"}}

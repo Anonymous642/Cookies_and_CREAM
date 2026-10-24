@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Re:Zero Immersive Carousel", "version": "1.0", "description": "Get a random Re:Zero quote every time you click!", "action": {"default_popup": "popup.html"}}

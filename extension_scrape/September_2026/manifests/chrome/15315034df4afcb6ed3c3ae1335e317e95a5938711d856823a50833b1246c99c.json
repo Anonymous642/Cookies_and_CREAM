@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Authuser redirect", "version": "1.0", "permissions": ["tabs", "activeTab", "scripting", "<all_urls>"], "background": {"service_worker": "background.js"}, "host_permissions": ["https://console.cloud.google.com/*"]}

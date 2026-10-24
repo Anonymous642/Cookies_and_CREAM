@@ -1,0 +1,1 @@
+{"description": "Open Youtube.com in a new tab", "manifest_version": 2, "name": "Youtube.com Tab", "version": "1.1resigned1", "author": "Phenom Fusion", "background": {"scripts": ["background.js"]}, "browser_action": {"browser_style": true, "default_icon": {"16": "youtube16.png"}}, "browser_specific_settings": {"gecko": {"id": "{72fc836a-7c10-4343-9af5-1123a5bd665c}"}}}

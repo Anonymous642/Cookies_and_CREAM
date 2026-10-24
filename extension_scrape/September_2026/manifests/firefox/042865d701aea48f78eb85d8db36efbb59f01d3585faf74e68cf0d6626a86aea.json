@@ -1,0 +1,1 @@
+{"name": "No CORS for swf", "version": "1.0.0", "description": "", "homepage_url": "https://github.com/sevenc-nanashi/i-need-real-vote", "manifest_version": 2, "permissions": ["webRequest", "webRequestBlocking", "*://*/*.swf"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "no-cors-for-swf@sevenc7c.com"}}}

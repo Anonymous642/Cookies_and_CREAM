@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Right-Click Volume Drag", "version": "1.0", "description": "Hold right-click and drag left/right on a YouTube video to set volume.", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

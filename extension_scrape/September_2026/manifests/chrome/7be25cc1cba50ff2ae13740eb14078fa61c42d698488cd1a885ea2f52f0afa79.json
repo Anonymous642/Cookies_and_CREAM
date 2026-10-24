@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Research With GPT", "description": "Adds links to the research with GPT chatbot, to get chatting easily.", "version": "1.0", "permissions": [], "icons": {"160": "icon.png"}, "content_scripts": [{"matches": ["https://arxiv.org/abs/*"], "js": ["inject.js"]}]}

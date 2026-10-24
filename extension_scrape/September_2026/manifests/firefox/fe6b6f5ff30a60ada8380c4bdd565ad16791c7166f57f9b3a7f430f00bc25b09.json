@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Context Menu Tabs", "description": "Manage tabs from the context menu.", "version": "0.1", "browser_specific_settings": {"gecko": {"id": "{3a2b1c0d-4e5f-6a7b-8c9d-0e1f2a3b4c5d}", "data_collection_permissions": {"required": ["none"]}}}, "permissions": ["tabs", "contextMenus"], "background": {"scripts": ["background.js"]}}

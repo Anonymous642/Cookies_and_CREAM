@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "__MSG_appName__", "version": "1.0.0", "description": "__MSG_appDesc__", "default_locale": "en", "homepage_url": "https://2mrw.app", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"192": "icon-192.png", "512": "icon-512.png"}}

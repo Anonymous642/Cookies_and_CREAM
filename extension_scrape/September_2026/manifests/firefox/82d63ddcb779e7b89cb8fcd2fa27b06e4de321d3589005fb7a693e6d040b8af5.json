@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Time Manager", "version": "1.0", "description": "Manage your time effectively with a Pomodoro timer.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{fb9d4dac-81a4-47c9-9c15-393771c469d4}"}}}

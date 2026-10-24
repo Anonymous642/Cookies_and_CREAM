@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "onireader", "version": "1.0", "description": "swift and stylish e-book reader", "action": {"default_title": "open onireader"}, "background": {"service_worker": "background.js"}, "icons": {"96": "/favicon-96x96.png", "192": "/favicon-192x192.png", "512": "/favicon-512x512.png"}}

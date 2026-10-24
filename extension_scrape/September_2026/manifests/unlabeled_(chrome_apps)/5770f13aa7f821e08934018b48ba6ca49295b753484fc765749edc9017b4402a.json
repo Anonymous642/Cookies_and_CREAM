@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Post-SBA Survey 2014", "short_name": "SBASurvey14", "version": "1.0.0.2", "manifest_version": 2, "kiosk_enabled": true, "icons": {"128": "esd128.png"}, "app": {"background": {"scripts": ["background.js"], "persistent": false}}, "permissions": ["webview"]}

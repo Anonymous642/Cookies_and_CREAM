@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Developer Notes", "version": "1.0", "description": "Add notes to web pages.", "action": {"default_popup": "popup.html", "default_icon": "developer_notes.png"}, "icons": {"128": "developer_notes.png"}, "browser_specific_settings": {"gecko": {"id": "a3olacantyvnoe436@hotmail.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SwiftBrowse", "version": "0.2", "action": {"default_popup": "popup/popup.html"}, "icons": {"64": "favicon-64.png", "512": "favicon-512.png"}, "permissions": ["contextMenus", "storage"], "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Nyan Cat New Tab", "version": "1.0.1", "description": "Minimal New Tab with a Nyan Cat animation trigger.", "chrome_url_overrides": {"newtab": "newtab.html"}, "action": {"default_popup": "popup.html"}}

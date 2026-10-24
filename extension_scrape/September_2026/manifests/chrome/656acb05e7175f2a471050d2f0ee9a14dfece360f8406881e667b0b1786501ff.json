@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Up To Date", "version": "1.0", "description": "Answer one question per day!", "permissions": ["storage"], "action": {"default_popup": "uptodate.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}}

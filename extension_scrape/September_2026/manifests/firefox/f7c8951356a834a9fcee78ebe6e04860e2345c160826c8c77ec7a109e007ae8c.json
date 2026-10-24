@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "NULP Schedule Time", "version": "0.0.0.7", "description": "NULP Schedule Time", "browser_specific_settings": {"gecko": {"id": "antonkitsera@gmail.com", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"css": ["style.css"], "js": ["index.js"], "matches": ["https://*.lpnu.ua/*"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "BigInt to Hex Converter", "version": "1.0", "description": "Converts decimal BigInts to hex format for blockchain explorers with one click", "icons": {"128": "icon128.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

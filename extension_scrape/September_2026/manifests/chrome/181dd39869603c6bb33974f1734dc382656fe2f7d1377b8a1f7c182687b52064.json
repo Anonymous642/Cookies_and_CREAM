@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hide Elements from YouTube Shorts", "description": "Hide Elements, buttons, titles and descriptions from Youtube Shorts.", "version": "1.0", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "css": ["styles.css"]}]}

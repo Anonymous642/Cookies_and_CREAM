@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Google Chat Dark Mode Switch", "version": "1.0", "description": "Toggles a dark mode filter on Google Chat.", "permissions": ["activeTab", "scripting", "storage"], "action": {"default_title": "Toggle Dark Mode"}, "background": {"service_worker": "background.js"}}

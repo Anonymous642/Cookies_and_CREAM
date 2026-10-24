@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dark_Mode", "version": "1.0", "description": "Makes the webpage dark.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["darkmode.js"]}]}

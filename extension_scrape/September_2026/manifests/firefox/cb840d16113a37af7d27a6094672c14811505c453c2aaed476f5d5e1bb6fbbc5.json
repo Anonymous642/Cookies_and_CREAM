@@ -1,0 +1,1 @@
+{"browser_specific_settings": {"gecko": {"id": "kushialine@example.com"}}, "manifest_version": 3, "name": "Book Marky", "version": "1.0", "description": "Book Marky Uses the Fire fox API to search through, save and remove bookmarks from the user's bookmark tree.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["bookmarks"]}

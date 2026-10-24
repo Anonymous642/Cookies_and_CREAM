@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Forum Clan Zotac", "manifest_version": 2, "description": "Il Forum del clan + forte di Combat Arms", "version": "1", "icons": {"128": "icon.png"}, "app": {"urls": ["http://zotacforum.forumfree.it/"], "launch": {"web_url": "http://zotacforum.forumfree.it/"}}}

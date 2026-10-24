@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hide Youtube Chrome", "version": "1.0", "description": "Allows you to show and hide the UI on Youtube videos.", "icons": {"48": "icons/noui.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/watch*"], "js": ["noui.js"]}]}

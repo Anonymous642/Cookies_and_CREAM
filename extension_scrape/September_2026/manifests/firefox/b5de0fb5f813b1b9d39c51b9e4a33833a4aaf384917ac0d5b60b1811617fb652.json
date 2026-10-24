@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "changba-dl", "version": "0.3resigned1", "content_scripts": [{"matches": ["http://changba.com/s/*"], "js": ["changba-dl.js"]}], "browser_specific_settings": {"gecko": {"id": "{1026e3c0-ea58-4cf9-94ea-13ce7ceefa65}"}}}

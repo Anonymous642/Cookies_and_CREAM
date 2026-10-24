@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "RoJoin", "version": "1.0.3", "description": "Finds a server with a certain amount of players.", "icons": {"48": "icon48.png"}, "content_scripts": [{"matches": ["*://*.roblox.com/games/*"], "js": ["rojoin.js"]}], "host_permissions": ["*://*.roblox.com/games/*"]}

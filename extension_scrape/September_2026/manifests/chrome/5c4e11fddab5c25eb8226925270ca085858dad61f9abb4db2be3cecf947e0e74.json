@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Playlist Name Suggestions", "version": "1.0.0", "description": "Generate playlist name ideas instantly based on mood and keywords.", "action": {"default_title": "Playlist Names", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

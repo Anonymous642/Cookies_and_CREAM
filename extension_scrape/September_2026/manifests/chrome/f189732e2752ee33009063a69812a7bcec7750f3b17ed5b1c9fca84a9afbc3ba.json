@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Motivational Quotes", "version": "1.0", "description": "Hi\u1ec7n quote \u0111\u1ed9ng l\u1ef1c/ng\u1ea7u/ngh\u0129a ti\u1ebfng Anh m\u1ed7i l\u1ea7n m\u1edf popup.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}}

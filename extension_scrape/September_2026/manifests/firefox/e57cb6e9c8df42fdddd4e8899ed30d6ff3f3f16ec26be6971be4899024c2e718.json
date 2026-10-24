@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "HoverPeek", "version": "1.0", "description": "HoverPeek: Preview links on hover.", "action": {"default_popup": "popup.html", "default_icon": "hoverpeek.png"}, "icons": {"128": "hoverpeek.png"}, "browser_specific_settings": {"gecko": {"id": "robynlinhardt112729@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

@@ -1,0 +1,1 @@
+{"description": "Extention that shows students using 'studentweb' their average grade", "manifest_version": 2, "name": "AutoAverage", "version": "1.1", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.fsweb.no/*"], "js": ["averager.js"]}], "browser_specific_settings": {"gecko": {"id": "{57353f83-b2fd-4821-900c-4df4b9c699d4}"}}}

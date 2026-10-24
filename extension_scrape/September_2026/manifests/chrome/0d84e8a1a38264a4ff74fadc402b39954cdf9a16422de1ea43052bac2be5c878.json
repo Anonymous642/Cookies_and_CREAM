@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Brotherhood Blocker", "version": "1.40", "description": "Blocks all the inappropriate Websites", "permissions": ["storage", "tabs"], "background": {"service_worker": "background.js", "type": "module"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

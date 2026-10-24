@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Cat Quiz Randomizer", "version": "1.0", "description": "Generate random questions for group fun with a cute cat theme!", "action": {"default_popup": "popup.html", "default_icon": "cat-icon.png"}, "icons": {"128": "cat-icon.png"}, "browser_specific_settings": {"gecko": {"id": "granth7122001dftkg@hotmail.com"}}}

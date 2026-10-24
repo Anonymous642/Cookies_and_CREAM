@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Generic TFT Overlay Extension", "description": "Companion extension for Generic TFT Overlay on Overwolf.", "version": "1.0", "content_scripts": [{"matches": ["https://tactics.tools/*"], "js": ["query-interface.js"]}]}

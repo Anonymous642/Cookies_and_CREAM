@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83c\udfb5 Joyful Name Generator", "version": "1.0", "description": "Generate fun foreign names based on anime, historical, and idol themes!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "shanaoszwechpts@hotmail.com"}}}

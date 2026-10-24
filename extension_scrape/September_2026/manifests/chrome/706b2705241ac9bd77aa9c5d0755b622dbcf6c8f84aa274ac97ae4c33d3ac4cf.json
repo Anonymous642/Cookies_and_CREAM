@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GEO Stellar | Agentic Schema Scorer", "version": "1.0.1", "description": "Instantly analyze any website's JSON-LD schema for AI Agent readiness.", "action": {"default_popup": "popup.html"}, "permissions": ["activeTab", "scripting"], "icons": {"128": "icon.png"}}

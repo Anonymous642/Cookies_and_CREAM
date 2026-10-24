@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GitLab MR Helper", "version": "1.2", "description": "Find and show MRs linked from GitLab issues.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://gitlab.com/*/issues/*"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{89ebde02-7d88-4ac8-af0f-f901222bcb17}"}}}

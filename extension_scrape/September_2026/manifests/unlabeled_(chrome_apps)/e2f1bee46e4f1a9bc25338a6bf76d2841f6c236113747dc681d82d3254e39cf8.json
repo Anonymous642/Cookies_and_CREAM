@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "24/7 Checkers", "version": "1.0.0.1", "manifest_version": 2, "icons": {"128": "icon.png"}, "description": "Play checkers all day, every day with 24/7 Checkers!", "app": {"urls": ["http://www.247checkers.com/?chromestore=1"], "launch": {"web_url": "http://www.247checkers.com/?chromestore=1"}}}

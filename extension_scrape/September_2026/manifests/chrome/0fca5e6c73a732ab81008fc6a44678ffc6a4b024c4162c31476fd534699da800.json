@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sentence Case Formatter", "version": "1.0.0", "description": "Uppercase the first letter of each sentence in a clean popup.", "action": {"default_title": "Sentence Case", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

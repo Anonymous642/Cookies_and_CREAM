@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ticker Info Opener", "version": "2.0", "description": "Open ticker information in NASDAQ and Stock Analysis", "permissions": ["contextMenus", "tabs", "activeTab"], "background": {"scripts": ["background.js"], "persistent": false}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{77bac34b-8a88-45f2-a480-e5b2a7855f8e}"}}}

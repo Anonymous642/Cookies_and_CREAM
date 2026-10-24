@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Remember", "version": "0.1", "icons": {"16": "small.png", "48": "medium.png", "128": "large.png"}, "app": {"launch": {"local_path": "operators.html"}}, "permissions": ["unlimitedStorage"]}

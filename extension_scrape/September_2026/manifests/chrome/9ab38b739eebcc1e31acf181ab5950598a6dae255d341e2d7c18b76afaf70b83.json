@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GearChain Web App Launcher", "version": "1.0", "description": "Quickly launches the GearChain.io web app in a new tab.", "icons": {"48": "icon48.png", "128": "icon128.png"}, "action": {"default_title": "Launch GearChain Web App"}, "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "the best anti adhd extension", "version": "1.0", "description": "very cool and useful", "icons": {"128": "joper.png"}, "content_scripts": [{"matches": ["*://wikipedia.org/*"], "html": ["subway_surfers.html"]}], "browser_specific_settings": {"gecko": {"id": "{90b34665-d4f2-406a-b65a-f09d3d8b31dd}"}}}

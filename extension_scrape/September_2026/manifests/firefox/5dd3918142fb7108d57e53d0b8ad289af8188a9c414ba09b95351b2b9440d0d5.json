@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ichi-moe-extension", "description": "Adds a context menu item for quickly looking up the selected text on ichi.moe", "version": "1.0", "background": {"scripts": ["background.js"]}, "permissions": ["menus"], "icons": {"16": "ichi-16.png", "32": "ichi-32.png"}, "browser_specific_settings": {"gecko": {"id": "{14b9402c-379d-4faf-be76-ca1cca14f65f}"}}}

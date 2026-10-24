@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ComicDrop - Comic Panel Generator", "version": "1.0", "description": "Generate and customize comic panel layouts with style.", "action": {"default_popup": "ComicDrop.html", "default_title": "ComicDrop"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"name": "ZipeZip", "version": "2", "short_name": "ZipeZip", "browser_action": {"default_icon": "logo_png.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["tabs"], "manifest_version": 2}

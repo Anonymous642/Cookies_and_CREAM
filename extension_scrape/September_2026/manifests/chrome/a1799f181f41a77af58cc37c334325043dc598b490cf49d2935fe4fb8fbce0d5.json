@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Draft Player Names", "version": "1.0.0", "description": "Adds player names and role controls to the draft interface.", "permissions": ["activeTab", "scripting", "storage"], "action": {"default_title": "Open Player Names"}, "background": {"service_worker": "background.js"}}

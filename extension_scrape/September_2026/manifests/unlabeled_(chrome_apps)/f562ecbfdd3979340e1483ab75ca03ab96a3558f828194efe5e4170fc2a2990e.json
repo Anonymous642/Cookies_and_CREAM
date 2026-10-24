@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "iTaLAM", "description": "Hebrew & Heritage curriculum", "version": "4", "app": {"launch": {"web_url": "https://www.italam.org"}}, "icons": {"16": "icons/16.jpg", "128": "icons/128.jpg"}}

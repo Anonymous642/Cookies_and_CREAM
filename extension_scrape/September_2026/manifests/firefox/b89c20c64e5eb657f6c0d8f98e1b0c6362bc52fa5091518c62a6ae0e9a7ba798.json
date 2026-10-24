@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Random Password Generator", "version": "1.0", "description": "Generates random passwords or passcodes", "icons": {"48": "images/green.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "images/green.png"}}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{ef6d8243-a15f-4d45-ae5e-f23f1d7ebef5}"}}}

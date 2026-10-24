@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mood Tab", "version": "1.0", "description": "Show a mood-based quote or image on new tab.", "permissions": ["storage"], "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{33dcc9ba-51b6-4013-b6d0-255460d8db28}"}}}

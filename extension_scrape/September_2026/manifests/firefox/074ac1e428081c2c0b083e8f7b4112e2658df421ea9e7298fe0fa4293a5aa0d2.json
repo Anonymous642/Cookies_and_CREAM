@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CSS Live Tester", "version": "1.0", "description": "Live test custom CSS on the current page.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{b74d9d7d-7e3d-4bdb-9148-bd9e1ea7e9c5}"}}}

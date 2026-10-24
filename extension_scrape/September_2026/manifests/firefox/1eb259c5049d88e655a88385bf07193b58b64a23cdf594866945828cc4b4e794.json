@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Fun Web Party", "version": "1.0", "description": "A fun add-on with buttons to change background colors and play random sound effects in a game-show style!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "k9gregcruzwqvx56@hotmail.com"}}}

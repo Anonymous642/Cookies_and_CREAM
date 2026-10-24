@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "HarborFlix", "description": "Pay to Watch movies online with HarborFlix, powered by Flix Universe!", "version": "0.1", "manifest_version": 2, "app": {"urls": ["http://harborproductions.wix.com/harborflix"], "launch": {"web_url": "http://harborproductions.wix.com/harborflix"}}, "icons": {"128": "icon.png"}}

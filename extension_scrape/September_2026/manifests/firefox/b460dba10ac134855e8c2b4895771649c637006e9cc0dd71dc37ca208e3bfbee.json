@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Thumbnail Viewer", "version": "1.0", "description": "Preview and switch tabs with thumbnails.", "permissions": ["tabs"], "browser_action": {"default_popup": "popup.html", "default_title": "View Tabs"}, "browser_specific_settings": {"gecko": {"id": "{a2358640-4c6b-4112-813a-2d6d27df4e00}"}}}

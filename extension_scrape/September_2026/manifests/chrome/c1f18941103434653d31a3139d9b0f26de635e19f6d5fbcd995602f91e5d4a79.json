@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pixel Studio", "version": "1.0", "description": "An intuitive pixel art editor for quick and easy pixel art creations.", "action": {"default_popup": "popup.html", "default_icon": "assets/120.png"}, "permissions": ["unlimitedStorage", "storage"]}

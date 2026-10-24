@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AdSkipper", "description": "Automatically skips YouTube ads while supporting creators.", "version": "0.4.3", "content_scripts": [{"matches": ["https://*.youtube.com/*"], "js": ["script.js"]}], "permissions": ["https://*.youtube.com/*"], "browser_specific_settings": {"gecko": {"id": "{1301e1a8-1615-47f9-b2e2-21d313de637f}"}}}

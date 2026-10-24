@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Title Tool Pilot", "version": "1.0", "description": "Generate viral titles instantly", "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "titletoolpilot@extension.com", "data_collection_permissions": {"required": ["none"], "optional": []}}}}

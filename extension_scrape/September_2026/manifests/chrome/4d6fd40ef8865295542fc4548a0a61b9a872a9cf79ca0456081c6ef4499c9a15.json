@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Zodiac Time", "version": "1.0.0", "description": "Display the current traditional zodiac hour (Gi\u1edd Ho\u00e0ng \u0110\u1ea1o) in a classic, clock-inspired popup.", "action": {"default_popup": "popup.html", "default_title": "Zodiac Time"}, "icons": {"128": "icon-128.png"}}

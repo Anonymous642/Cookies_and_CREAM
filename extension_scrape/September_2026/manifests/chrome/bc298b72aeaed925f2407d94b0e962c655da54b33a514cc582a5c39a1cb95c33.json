@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Vue Devtools Toggle", "version": "1.0", "description": "Toggle between Vue Devtools v6 and v7", "permissions": ["management"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

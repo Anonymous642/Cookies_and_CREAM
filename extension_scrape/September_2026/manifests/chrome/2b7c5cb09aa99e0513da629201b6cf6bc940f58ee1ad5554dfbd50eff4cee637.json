@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Responsive Images", "version": "1.0", "description": "Lazy-loads images and optimizes large images for viewport. Performance tool.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

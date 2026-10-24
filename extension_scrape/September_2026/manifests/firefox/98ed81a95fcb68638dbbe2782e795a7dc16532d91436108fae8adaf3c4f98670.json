@@ -1,0 +1,1 @@
+{"description": "The Podcast show notes generator, which uses trello as the source", "manifest_version": 2, "name": "npcomplete-show-notes-generator", "version": "1.1", "homepage_url": "https://github.com/Hixon10/npcomplete-show-notes-generator", "icons": {"48": "icons/np-logo.jpg"}, "content_scripts": [{"matches": ["*://trello.com/*"], "js": ["content_scripts/content.js"]}]}

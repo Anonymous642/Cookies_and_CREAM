@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TargetKiller", "description": "Open all links in current tab, ignoring any HTML target.", "version": "0.9.2resigned1", "content_scripts": [{"matches": ["<all_urls>"], "js": ["contentscript.js"]}], "browser_specific_settings": {"gecko": {"id": "{68673b75-7866-4ca1-bcc3-cfc7f1567127}"}}}

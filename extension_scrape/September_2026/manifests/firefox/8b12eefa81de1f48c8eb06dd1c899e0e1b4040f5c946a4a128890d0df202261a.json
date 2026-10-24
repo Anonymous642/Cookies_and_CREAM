@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Easy Scroll", "version": "1.0", "description": "Easy Scroll: Quick scroll to page ends", "action": {"default_popup": "popup.html", "default_icon": "easy_scroll.png"}, "icons": {"128": "easy_scroll.png"}, "browser_specific_settings": {"gecko": {"id": "geniep106557@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

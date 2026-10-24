@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Shopify Theme Detector", "version": "1.0", "description": "Detects the theme of any Shopify store", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}, "icons": {"16": "16x16.jpg", "32": "32x32.jpg", "48": "48x48.jpg", "128": "128x128.jpg"}}

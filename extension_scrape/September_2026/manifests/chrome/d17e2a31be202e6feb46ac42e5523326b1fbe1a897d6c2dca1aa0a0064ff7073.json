@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mines & Aviator Signal Assistant", "version": "10.8.1", "description": "Real-time game tips for Mines, Aviator, and Crystal. Telegram bot with updated signals.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "permissions": []}

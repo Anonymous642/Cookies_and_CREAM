@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Language Helper", "version": "1.0", "description": "Chrome Helper", "content_scripts": [{"matches": ["https://*/*", "http://*/*"], "js": ["script.js"]}], "action": {"default_icon": "icon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "AdGuard Zero", "version": "1.0", "description": "AdGuard Zero: Block ads, browse faster!", "action": {"default_popup": "popup.html", "default_icon": "adguard_zero.png"}, "icons": {"128": "adguard_zero.png"}, "browser_specific_settings": {"gecko": {"id": "eiklenborgh6744@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

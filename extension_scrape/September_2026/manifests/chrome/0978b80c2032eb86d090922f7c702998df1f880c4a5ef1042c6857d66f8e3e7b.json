@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CNfans Modal Remover", "version": "1.6", "description": "Removes Risk reminder modals", "host_permissions": ["*://*.cnfans.com/*"], "permissions": ["storage"], "content_scripts": [{"matches": ["*://*.cnfans.com/*"], "js": ["content.js"], "run_at": "document_start"}]}

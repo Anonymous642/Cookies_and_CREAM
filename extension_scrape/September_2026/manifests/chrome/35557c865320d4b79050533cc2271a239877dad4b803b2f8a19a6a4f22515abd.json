@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Nouvel onglet personnalis\u00e9", "version": "1.0", "description": "Remplace la page du nouvel onglet par un visuel personnalis\u00e9.", "chrome_url_overrides": {"newtab": "newtab.html"}}

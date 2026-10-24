@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Color Picker", "version": "1.0", "description": "Click to get the color code of an element on the current web page.", "permissions": ["activeTab"], "browser_action": {"default_icon": "icon.png"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{4835b75e-31b4-4df0-8e6c-2c5867a6b184}"}}}

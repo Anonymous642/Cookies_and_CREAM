@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hover Dictionary", "version": "1.0", "description": "Show word definitions on mouse hover.", "permissions": ["activeTab", "https://api.dictionaryapi.dev/*"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{7545c888-0c16-442d-aadf-a80f55c36504}"}}}

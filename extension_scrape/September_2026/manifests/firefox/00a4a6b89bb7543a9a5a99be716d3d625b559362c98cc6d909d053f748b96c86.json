@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Meta Tag Analyzer", "version": "1.0", "description": "Analyze meta tags on the current webpage.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{a78e4d36-1b3d-4d3a-8e56-3c1bf72b9b3b}"}}}

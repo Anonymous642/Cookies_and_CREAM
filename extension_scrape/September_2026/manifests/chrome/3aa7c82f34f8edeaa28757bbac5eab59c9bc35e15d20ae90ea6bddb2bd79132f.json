@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Loveless", "version": "0.0.1", "manifest_version": 3, "description": "Removes like buttons from Substack, Twitter, and Bluesky.", "content_scripts": [{"matches": ["*://substack.com/*", "*://x.com/*", "*://bsky.app/*"], "css": ["style.css"]}]}

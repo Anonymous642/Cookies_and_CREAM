@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Zoom Link Checker", "version": "1.0", "description": "Check if a Zoom link is added to the event on Google Calendar", "host_permissions": ["https://calendar.google.com/*"], "content_scripts": [{"matches": ["https://calendar.google.com/*"], "js": ["content.js"]}]}

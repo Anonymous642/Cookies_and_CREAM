@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Emojis", "version": "1.0", "description": "Adds a quick emoji menu to your browser toolbar to easily copy and use emojis anywhere.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{66bcc022-ec76-446a-b76a-87e5fde0d7bb}"}}}

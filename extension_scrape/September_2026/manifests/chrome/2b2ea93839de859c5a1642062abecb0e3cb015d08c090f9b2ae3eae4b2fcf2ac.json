@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SD Stylizr", "description": "Spruce up your pages with custom CSS.", "version": "2.2", "permissions": ["activeTab", "storage"], "options_page": "options.html", "action": {"default_icon": "icon.png", "default_title": "Stylize!", "default_popup": "popup.html"}, "manifest_version": 3}

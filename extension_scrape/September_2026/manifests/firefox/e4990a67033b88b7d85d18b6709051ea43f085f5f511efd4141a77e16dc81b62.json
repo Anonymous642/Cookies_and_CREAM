@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Miyabi Wallpaper for Firefox", "version": "1.0", "description": "Automatically change wallpaper every time you open a new tab.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "web_accessible_resources": ["background/*"], "browser_specific_settings": {"gecko": {"id": "{70d6e8e2-1f8d-4d4b-9cad-8c6c6c187b88}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reserved Words", "version": "1.0", "description": "Displays a static list of reserved words for various programming languages.", "permissions": ["clipboardWrite"], "browser_action": {"default_popup": "popup.html", "default_title": "Reserved Words"}, "browser_specific_settings": {"gecko": {"id": "{bb9bf305-1b89-471c-ad64-e831d541ebf9}"}}}

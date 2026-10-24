@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitterify", "version": "1.0", "description": "replaces every instance of the letter \"x\" with the word \"twitter\". no exceptions", "content_scripts": [{"matches": ["<all_urls>"], "js": ["twitterify.js"]}], "browser_specific_settings": {"gecko": {"id": "{30520e3b-f7cc-4beb-ad75-de357ef42776}"}}}

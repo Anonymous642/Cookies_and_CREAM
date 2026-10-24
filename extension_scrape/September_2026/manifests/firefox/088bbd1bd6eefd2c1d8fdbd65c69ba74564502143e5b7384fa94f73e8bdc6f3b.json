@@ -1,0 +1,1 @@
+{"description": "A dramatic fantasy artwork in grayscale tones", "manifest_version": 2, "chrome_url_overrides": {"newtab": "index.html"}, "name": "Legendary Confrontation", "version": "1.0", "browser_specific_settings": {"gecko": {"id": "{9a3107bb-5f40-4435-bb98-99db6dbcab6e}"}}}

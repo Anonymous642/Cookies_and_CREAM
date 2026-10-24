@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Darkside", "version": "1.0", "description": "Makes it dark.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["darkside.js"]}], "browser_specific_settings": {"gecko": {"id": "{013c51f9-b61e-41d2-aa11-4dae0c5608f7}"}}}

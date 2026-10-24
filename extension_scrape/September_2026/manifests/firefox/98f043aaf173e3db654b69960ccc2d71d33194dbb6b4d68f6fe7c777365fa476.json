@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Copy Tab Info", "version": "1.0", "description": "Copy tab info (url, title, etc.) to the clipboard.", "permissions": ["activeTab", "contextMenus", "clipboardWrite", "menus"], "background": {"scripts": ["background.js"]}}

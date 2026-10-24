@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "BitLife", "description": "Virtual Life Simulation", "version": "1.132", "manifest_version": 3, "action": {"default_popup": "Bitlife.html", "default_icon": "Icon.png"}}

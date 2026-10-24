@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Google Results in New Tab", "version": "1.1", "description": "Always open Google search results in a new tab.", "content_scripts": [{"matches": ["*://www.google.com/*", "*://*.google.com/*"], "js": ["content.js"]}]}

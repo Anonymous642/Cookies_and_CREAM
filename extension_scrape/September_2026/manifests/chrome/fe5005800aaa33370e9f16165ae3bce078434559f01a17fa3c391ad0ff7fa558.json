@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "QuickArb", "version": "1.0", "description": "An arbitrage calculator designed for quick access and calculations", "action": {"default_popup": "popup.html", "default_icon": "favicon.png"}, "permissions": ["clipboardWrite"]}

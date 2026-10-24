@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "FloatCLI", "version": "1.0.1", "description": "Terminal flotante nativa (siempre por encima) mediante API PiP y Pesta\u00f1as Cl\u00e1sicas para Vibe Coding.", "action": {}, "background": {"service_worker": "background.js"}, "permissions": ["nativeMessaging"]}

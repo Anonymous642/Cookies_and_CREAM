@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Focus on the Google search box", "version": "1.1resigned1", "description": "Focuses on the Google search box. Duh!", "content_scripts": [{"matches": ["*://*.google.com/*"], "js": ["focusOnSearchBox.js"]}], "browser_specific_settings": {"gecko": {"id": "{b362e2ee-e221-4866-a276-b43974e73b86}"}}}

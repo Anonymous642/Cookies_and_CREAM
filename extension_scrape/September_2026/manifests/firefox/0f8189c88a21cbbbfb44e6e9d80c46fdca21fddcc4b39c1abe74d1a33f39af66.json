@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FJD to ISK Converter", "version": "1.0", "description": "Convert Fiji Dollar (FJD) to Icelandic Krona (ISK).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert FJD to ISK"}, "browser_specific_settings": {"gecko": {"id": "{58037f7f-21a6-4ff3-91a6-9607b0882812}"}}}

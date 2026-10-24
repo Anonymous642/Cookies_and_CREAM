@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AnyPage PiP", "version": "0.0.1", "description": "Activate PiP on Star+", "permissions": ["activeTab", "scripting"], "action": {"default_icon": "logo.png"}, "background": {"service_worker": "background.js"}}

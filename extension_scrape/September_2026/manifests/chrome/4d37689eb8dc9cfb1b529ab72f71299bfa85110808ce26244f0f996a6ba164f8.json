@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Top Comment Finder", "version": "1.0", "description": "Opens a new tab with the top comments of the current video you are watching", "permissions": ["activeTab"], "background": {"service_worker": "background.js"}, "action": {"default_icon": "logo.png"}}

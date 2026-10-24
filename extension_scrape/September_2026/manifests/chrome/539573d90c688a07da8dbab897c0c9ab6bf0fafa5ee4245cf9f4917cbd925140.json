@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ReTab", "version": "3.0.0", "description": "Your new tab, reimagined.", "author": "Akshayan", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["topSites"], "icons": {"16": "16.png", "128": "128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Focus Break Reminder", "description": "Get gentle break reminders to reset your focus during work.", "version": "1.0.0", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cat Facts", "description": "Get random cat facts instantly in your broswer.", "version": "1.0.0", "action": {"default_popup": "popup.html"}, "icons": {"128": "assets/icons/catfact_128.png"}}

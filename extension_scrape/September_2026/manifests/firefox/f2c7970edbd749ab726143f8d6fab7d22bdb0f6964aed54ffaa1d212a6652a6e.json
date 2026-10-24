@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Roblox Private Server Auto-Fix", "version": "1.0", "description": "Automatically redirects Roblox /share links to /share-links.", "background": {"scripts": ["background.js"]}, "permissions": ["webRequest", "webRequestBlocking", "*://www.roblox.com/*"], "browser_specific_settings": {"gecko": {"id": "{037bedcf-57ec-459b-b994-becc848eb3ab}"}}}

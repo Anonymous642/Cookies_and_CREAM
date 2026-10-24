@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ChromeNote", "version": "1.1.2", "description": "This extension lets you take notes (and edit your previous ones) when opening a new tab.", "author": "Luc Tiemessen", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"128": "/icons/icon128.png"}, "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "11", "version": "1.0", "description": "11", "icons": {}, "permissions": ["*://*.youtube.com/*"], "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{3c411640-b26b-4d52-811f-e93e236772ca}"}}}

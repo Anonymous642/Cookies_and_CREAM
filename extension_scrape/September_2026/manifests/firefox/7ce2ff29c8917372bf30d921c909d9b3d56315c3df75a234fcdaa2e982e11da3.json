@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Elama Balance", "version": "1.0", "description": "Calculate your total balance through all accounts on the elama.ru website.", "icons": {"48": "elama.png"}, "content_scripts": [{"matches": ["*://*.elama.ru/*"], "js": ["elama.js"]}]}

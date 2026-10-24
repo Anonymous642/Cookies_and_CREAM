@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "IQD to MGA Converter", "version": "1.0", "description": "Convert Iraqi Dinar (IQD) to Malagasy Ariary (MGA).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert IQD to MGA"}, "browser_specific_settings": {"gecko": {"id": "{1e0c0b51-cd73-4330-bd00-cdb5e14c9433}"}}}

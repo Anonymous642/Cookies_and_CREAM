@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sky Mail-Check", "version": "20251026", "icons": {"32": "mail.png"}, "background": {"persistent": true, "page": "background.html"}, "browser_action": {"default_icon": "mail_off.png", "default_title": "Sky Mail-Check", "browser_style": false}, "options_ui": {"page": "options.html"}, "browser_specific_settings": {"gecko": {"id": "mail@skyifx.de"}}}

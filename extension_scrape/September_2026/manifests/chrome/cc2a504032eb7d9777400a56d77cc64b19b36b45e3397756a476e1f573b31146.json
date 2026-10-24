@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HF Hub Gallery View", "version": "0.3", "content_scripts": [{"matches": ["https://huggingface.co/models*"], "js": ["script.js"]}]}

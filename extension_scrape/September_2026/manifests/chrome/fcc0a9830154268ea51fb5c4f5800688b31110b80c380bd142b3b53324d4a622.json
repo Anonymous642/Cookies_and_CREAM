@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Shufflo", "description": "Shuffle your open tabs, perfect for adding randomness to video and media sessions.", "version": "1.2", "manifest_version": 3, "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup/popup.html", "default_icon": "images/icon.png"}}

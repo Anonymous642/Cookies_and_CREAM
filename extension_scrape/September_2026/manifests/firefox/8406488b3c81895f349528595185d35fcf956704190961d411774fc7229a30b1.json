@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Expando", "version": "1.3resigned1", "description": "Expands image and video previews from subreddits, and deletes everything else.", "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["notext.js"]}], "browser_specific_settings": {"gecko": {"id": "{8852a459-e42e-4ea2-9d1e-eb360482ea6a}"}}}

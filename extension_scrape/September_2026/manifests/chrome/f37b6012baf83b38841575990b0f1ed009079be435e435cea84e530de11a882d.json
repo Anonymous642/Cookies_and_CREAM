@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Password Generator", "description": "Need a unique, secure password? Use our online password generator tool to instantly create a secure, random password.", "version": "1.0", "action": {"default_popup": "index.html", "default_icon": "favicon-32x32.png"}}

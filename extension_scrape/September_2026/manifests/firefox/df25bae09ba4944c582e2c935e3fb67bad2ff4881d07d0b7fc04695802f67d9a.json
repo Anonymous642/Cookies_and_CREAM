@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Seacrh on", "description": "Seacrhes the selected text on Amazon CA", "version": "1.1resigned1", "icons": {"48": "icons/logo_48.png", "96": "icons/logo_96.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{7d4db356-44cf-4b86-a6b7-dc692078a585}"}}}

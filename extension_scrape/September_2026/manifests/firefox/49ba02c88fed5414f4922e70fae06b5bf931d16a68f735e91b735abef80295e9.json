@@ -1,0 +1,1 @@
+{"name": "ShopAround", "description": "Save money and move your dollars off Amazon", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "zane@zaneapalooza.com"}}, "content_scripts": [{"js": ["scripts/content.js"], "matches": ["https://*.amazon.com/*"]}]}

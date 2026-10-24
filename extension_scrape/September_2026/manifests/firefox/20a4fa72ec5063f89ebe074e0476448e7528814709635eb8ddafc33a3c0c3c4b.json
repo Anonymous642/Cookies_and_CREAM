@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No More Twitter", "version": "1.2resigned1", "description": "Stop wasting time on Twitter by removing the news feed and tendancies", "icons": {"512": "logo.png"}, "content_scripts": [{"matches": ["*://twitter.com/*"], "js": ["nmt.js"]}], "browser_specific_settings": {"gecko": {"id": "{11351ea4-0fbc-4e5b-8bf5-8c85e1249450}"}}}

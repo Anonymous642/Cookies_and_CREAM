@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Burnout!", "description": "Jump over obstacles, survive, and beat your high score in Burnout!", "version": "1.1.0", "action": {"default_title": "Burnout!", "default_popup": "index.html"}, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}

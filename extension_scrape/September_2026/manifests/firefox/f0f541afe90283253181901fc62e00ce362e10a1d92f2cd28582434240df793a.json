@@ -1,0 +1,75 @@
+{
+  "manifest_version": 3,
+  "name": "TaskLayr",
+  "version": "1.0.1",
+  "description": "Premium workspace overlay for tasks, notes, themes, profiles, and productivity.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "@tasklayr",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
+      }
+    }
+  },
+  "permissions": [
+    "storage"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "icons": {
+    "16": "Icons/Logos/logo-16.png",
+    "32": "Icons/Logos/logo-32.png",
+    "48": "Icons/Logos/logo-48.png",
+    "128": "Icons/Logos/logo-128.png"
+  },
+  "action": {
+    "default_title": "TaskLayr",
+    "default_icon": {
+      "16": "Icons/Logos/logo-16.png",
+      "32": "Icons/Logos/logo-32.png",
+      "48": "Icons/Logos/logo-48.png",
+      "128": "Icons/Logos/logo-128.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "styles.css",
+        "all.min.css",
+        "Icons/Logos/*.png",
+        "css/*",
+        "webfonts/*",
+        "Icons/Avatar_Set/Pulse/*.png",
+        "Icons/Avatar_Set/Vice/*.png",
+        "Icons/Avatar_Set/Cipher/*.png",
+        "Icons/Avatar_Set/Eclipse/*.png",
+        "Icons/Banner_Set/Pulse/*.png",
+        "Icons/Banner_Set/Vice/*.png",
+        "Icons/Banner_Set/Cipher/*.png",
+        "Icons/Banner_Set/Eclipse/*.png",
+        "Icons/Creative_Environments/Nature_Collection/Pulse/*.png",
+        "Icons/Creative_Environments/Nature_Collection/Vice/*.png",
+        "Icons/Creative_Environments/Nature_Collection/Cipher/*.png",
+        "Icons/Creative_Environments/Nature_Collection/Eclipse/*.png"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ]
+}

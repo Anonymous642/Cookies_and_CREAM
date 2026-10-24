@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "cash calculator", "version": "1.0", "description": "just type how much money you have after given round.", "content_scripts": [{"matches": ["*://topper64.co.uk/nk/btd6/rounds/regular"], "js": ["script.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{b3ba6bec-0194-4cc7-9854-dff6be10243e}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sleep Sounds", "version": "1.0", "description": "Ph\u00e1t \u00e2m thanh th\u01b0 gi\u00e3n gi\u00fap d\u1ec5 ng\u1ee7 h\u01a1n.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{04d820ab-426f-4d40-aa39-b61bef67e3ce}"}}}

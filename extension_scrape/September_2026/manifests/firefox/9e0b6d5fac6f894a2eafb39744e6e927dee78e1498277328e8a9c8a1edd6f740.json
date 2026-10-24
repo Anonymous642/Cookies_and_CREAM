@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gemini Scroll to Bottom", "version": "1.0", "description": "Adds a button to scroll to the bottom of the page on Gemini.", "content_scripts": [{"matches": ["*://gemini.google.com/*"], "css": ["index.css"], "js": ["gemini_scroll.js"]}], "browser_specific_settings": {"gecko": {"id": "{6954c47e-8659-4b9e-acaf-927714690741}"}}}

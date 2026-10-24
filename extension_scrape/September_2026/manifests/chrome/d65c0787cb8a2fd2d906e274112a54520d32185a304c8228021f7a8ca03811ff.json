@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "NexusMods No Premium", "version": "1.6.0", "description": "Hides premium advertisements on Nexus Mods", "content_scripts": [{"matches": ["*://www.nexusmods.com/*"], "js": ["nopremium.js"], "run_at": "document_end"}]}

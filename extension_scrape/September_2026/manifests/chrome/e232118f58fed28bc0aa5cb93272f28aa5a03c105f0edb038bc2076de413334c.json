@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ask Unit", "version": "1.0", "description": "Type 'askunit' in the address bar followed by any measurement to convert it instantly.", "omnibox": {"keyword": "askunit"}, "background": {"service_worker": "background.js"}, "icons": {"48": "icon48.png", "128": "icon128.png"}}

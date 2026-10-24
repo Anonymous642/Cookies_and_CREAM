@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "URL Tracker Remover", "version": "1.0.0", "description": "Strip tracking parameters (utm_, fbclid, ...) from the current tab URL and copy the clean link.", "permissions": ["activeTab"], "action": {"default_popup": "popup.html", "default_title": "Clean this URL"}}

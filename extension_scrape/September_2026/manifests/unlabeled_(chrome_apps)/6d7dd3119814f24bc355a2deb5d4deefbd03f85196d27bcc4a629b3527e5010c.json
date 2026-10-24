@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Kids Math", "description": "Simple Math practices for pre school kids", "version": "1.2", "manifest_version": 2, "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "app": {"launch": {"local_path": "index.html"}}}

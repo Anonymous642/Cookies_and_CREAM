@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "2048 Game", "version": "1.1resigned1", "description": "It is a simple game.. 2048 Game", "icons": {"42": "images.png"}, "browser_action": {"default_title": "2048 Game", "default_popup": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{26650131-25b0-4563-a358-9f9096802b45}"}}}

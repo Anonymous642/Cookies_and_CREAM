@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Prompt Manager", "version": "1.0", "description": "Gerencie seus prompts: adicionar, excluir e copiar.", "action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "permissions": ["storage", "clipboardWrite"], "browser_specific_settings": {"gecko": {"id": "prompt-manager@local.test", "strict_min_version": "109.0"}}}

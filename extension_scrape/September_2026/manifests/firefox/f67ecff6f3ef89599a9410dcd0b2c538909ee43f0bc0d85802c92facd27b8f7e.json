@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BDT to NPR Converter", "version": "1.0", "description": "Convert Bangladeshi Taka (BDT) to Nepalese Rupee (NPR) instantly.", "browser_action": {"default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{5523a5db-e68e-408f-b267-a0a5c142419a}"}}}

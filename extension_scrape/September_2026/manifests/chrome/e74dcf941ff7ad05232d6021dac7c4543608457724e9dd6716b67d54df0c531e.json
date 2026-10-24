@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Html code visualizer", "version": "1.1.0", "description": "This extenstion visualizes the html from the page", "manifest_version": 3, "author": "Devashish Priyadarhsi", "action": {"default_popup": "index.html", "default_title": "Html visualizer"}, "permissions": ["activeTab", "scripting"]}

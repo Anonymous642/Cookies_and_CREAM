@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ISK to ZMW Converter", "version": "1.0", "description": "Convert Icelandic Krona (ISK) to Zambian Kwacha (ZMW).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert ISK to ZMW"}, "browser_specific_settings": {"gecko": {"id": "{d8b380ba-5906-48c0-be0d-f57333be6cbe}"}}}

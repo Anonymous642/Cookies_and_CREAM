@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Word Translator Hover", "version": "1.0", "description": "Translate words on hover using a tooltip.", "icons": {"48": "icon.png"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{01f516dd-d5a6-48d1-a3e9-9c81cb01b554}"}}}

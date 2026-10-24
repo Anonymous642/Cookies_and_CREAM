@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Auto-Fill Forms", "version": "1.0", "description": "Auto-Fill Forms: Quickly fill web forms", "action": {"default_popup": "popup.html", "default_icon": "auto-fill_forms.png"}, "icons": {"128": "auto-fill_forms.png"}, "browser_specific_settings": {"gecko": {"id": "uvqrjhnyo35858@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "K-Pop Bio Profile Generator", "version": "1.0.0", "description": "Offline K-pop styled social bio generator. No permissions required.", "action": {"default_title": "K-Pop Bio", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

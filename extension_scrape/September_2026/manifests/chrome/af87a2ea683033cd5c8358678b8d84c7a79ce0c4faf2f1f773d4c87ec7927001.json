@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Numara Toplay\u0131c\u0131", "version": "1.0", "permissions": ["storage", "activeTab", "scripting"], "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["https://www.sahibinden.com/ilan/*"], "js": ["contentScript.js"]}]}

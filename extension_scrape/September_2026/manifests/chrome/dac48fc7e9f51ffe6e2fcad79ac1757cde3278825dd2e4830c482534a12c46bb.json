@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Letterboxd Sort by Rating", "version": "2.0", "description": "Automatically sorts Letterboxd lists and filmographies by rating", "permissions": ["https://letterboxd.com/*"], "content_scripts": [{"matches": ["https://letterboxd.com/*"], "js": ["content.js"]}]}

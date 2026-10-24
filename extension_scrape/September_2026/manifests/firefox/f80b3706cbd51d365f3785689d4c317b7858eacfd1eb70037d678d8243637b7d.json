@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "FocusFilter", "description": "Blocks requests to 'youtube.com'.", "version": "0.1", "permissions": ["declarativeNetRequest"], "declarative_net_request": {"rule_resources": [{"id": "ruleset", "enabled": true, "path": "rules.json"}]}, "browser_specific_settings": {"gecko": {"id": "{111eeefe-c196-48f3-a741-2135e0170955}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hipster", "description": "Change all the pages to sepia", "version": "1.2resigned1", "content_scripts": [{"matches": ["<all_urls>"], "css": ["css/hipster.css"]}], "browser_specific_settings": {"gecko": {"id": "{bc1fcef7-08df-4391-b116-56169b837709}"}}}

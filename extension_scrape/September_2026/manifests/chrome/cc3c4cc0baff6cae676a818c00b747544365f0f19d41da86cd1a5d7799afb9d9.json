@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Floating Mia", "version": "1.0", "description": "A floating Mia that demands pets!", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["style.css"]}], "web_accessible_resources": [{"resources": ["mia.png", "angry4.mp3"], "matches": ["<all_urls>"]}]}

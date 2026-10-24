@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Timer", "version": "2.1", "description": "Timer with minutes and seconds input, pause, restart, and reset features.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["notifications", "storage"], "background": {"service_worker": "background.js"}}

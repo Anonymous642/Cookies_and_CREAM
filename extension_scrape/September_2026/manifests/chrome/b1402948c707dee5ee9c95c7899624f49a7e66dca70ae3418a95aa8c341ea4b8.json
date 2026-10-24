@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AIGen Image Editor", "version": "1.0.1", "description": "Edit any website image with AI! Perfect for product placement, logo removal, background edits, ads, and more\u2014no skills needed!", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["style.css"]}]}

@@ -1,0 +1,1 @@
+{"description": "Removes vet job listings on Indeed.com. Should prevent some rage inducuing scenarios", "manifest_version": 2, "name": "VetEndsNOW", "version": "0.1", "icons": {"48": "1.png"}, "content_scripts": [{"matches": ["*://*.indeed.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{dd49b07e-0c94-402f-ad8a-83aab9b61c96}"}}}

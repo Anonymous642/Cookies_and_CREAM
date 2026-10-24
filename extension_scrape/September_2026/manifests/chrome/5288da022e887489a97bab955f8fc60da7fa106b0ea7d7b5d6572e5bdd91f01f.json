@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Swagger Auto Login", "version": "1.0", "description": "Armazena credenciais e automatiza login no Swagger", "permissions": ["storage", "clipboardWrite"], "action": {"default_popup": "popup.html", "default_title": "Swagger Auto Login"}}

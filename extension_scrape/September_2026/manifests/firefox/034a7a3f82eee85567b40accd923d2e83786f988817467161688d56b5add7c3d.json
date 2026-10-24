@@ -1,0 +1,1 @@
+{"name": "YT NoMix", "version": "0.0.2", "description": "Removes mixes and playlist info from youtube links", "manifest_version": 2, "background": {"scripts": ["background.js"]}, "permissions": ["menus", "tabs"], "browser_specific_settings": {"gecko": {"id": "{0196d307-5b06-4eee-820d-b2e9aa5ce480}"}}}

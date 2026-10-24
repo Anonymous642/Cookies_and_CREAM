@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TOTP Vault", "version": "0.1.0", "description": "Offline, encrypted TOTP authenticator with QR enrollment and backups.", "minimum_chrome_version": "109", "permissions": ["storage"], "action": {"default_popup": "popup.html", "default_title": "TOTP Vault"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pixel Painter Tab", "version": "1.0", "description": "Draw pixel art on each new tab.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "pixelpainttab@example.com"}}}

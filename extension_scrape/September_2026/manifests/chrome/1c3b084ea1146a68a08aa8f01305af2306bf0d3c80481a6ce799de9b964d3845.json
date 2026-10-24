@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Meet Raise Hand Clarifier", "version": "1.0.3", "description": "Replaces Google Meet's confusing hand icon with a clear raise-hand symbol.", "content_scripts": [{"matches": ["https://meet.google.com/*"], "js": ["content.js"], "css": ["content.css"], "run_at": "document_idle"}]}

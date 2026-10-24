@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "eBay Sold Listings Button", "version": "1.0", "description": "Inserts a big button on the right side of the screen that says 'Sold Listings'.", "content_scripts": [{"matches": ["*://*.ebay.com/sch/*"], "js": ["content.js"], "run_at": "document_end"}]}

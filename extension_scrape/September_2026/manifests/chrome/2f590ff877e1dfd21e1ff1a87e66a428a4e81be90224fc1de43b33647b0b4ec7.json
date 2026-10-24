@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Web Maven", "description": "Share bookmarks with your friends and rate/review websites!", "version": "1.1", "manifest_version": 3, "permissions": ["tabs", "<all_urls>"], "action": {"default_popup": "popup.html", "default_icon": "web.png"}}

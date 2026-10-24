@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cron\u00f3metro", "version": "1.1", "description": "Un cron\u00f3metro accesible desde el navegador.", "action": {"default_title": "Abrir Cron\u00f3metro"}, "permissions": ["storage"], "background": {"service_worker": "background.js"}, "icons": {"128": "icon.png"}}

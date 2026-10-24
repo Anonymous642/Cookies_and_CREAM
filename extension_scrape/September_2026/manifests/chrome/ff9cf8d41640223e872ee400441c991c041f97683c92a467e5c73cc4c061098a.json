@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\"Racially Charged\"", "action": {}, "manifest_version": 3, "version": "1.0", "description": "Corrects usages of \"racially charged\".", "content_scripts": [{"matches": ["*://*/*"], "all_frames": true, "js": ["scripts/content.js"], "run_at": "document_end"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83c\udfa4 KPop Numerology", "version": "1.0", "description": "Discover your destiny number with a stylish K-Pop inspired design!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "focuspgrozax1d@hotmail.com"}}}

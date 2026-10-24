@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Scroll Helper", "version": "1.0", "description": "Automatically scroll any page with one click.", "permissions": ["activeTab"], "browser_action": {"default_title": "Toggle Auto Scroll"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{6d55e17b-291c-42df-b6eb-8630342cb859}"}}}

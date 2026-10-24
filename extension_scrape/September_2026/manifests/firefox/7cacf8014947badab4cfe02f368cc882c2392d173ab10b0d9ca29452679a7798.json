@@ -1,0 +1,1 @@
+{"browser_specific_settings": {"gecko": {"id": "nikhilthakur@examonline.com"}}, "manifest_version": 3, "name": "Exam Environment", "version": "1.0", "permissions": ["management", "activeTab"], "background": {"scripts": ["background.js"]}, "action": {"default_popup": "popup.html"}, "host_permissions": ["http://*/*", "https://*/*"]}

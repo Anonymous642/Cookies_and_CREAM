@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Declutter VK", "version": "1.0", "description": "Simplifies the VK interface by hiding all suggested users, pages, and posts", "icons": {"48": "icons/48.jpg"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["clear.js"]}], "browser_specific_settings": {"gecko": {"id": "{27199d0d-7c36-4f44-9a85-adab03254167}"}}}

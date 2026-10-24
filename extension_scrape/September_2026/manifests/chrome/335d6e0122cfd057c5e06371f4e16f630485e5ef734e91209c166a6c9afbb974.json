@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Better Skip Ads Button", "version": "1.0.1", "description": "Skips ads when you click on the extension", "permissions": ["scripting", "activeTab"], "background": {"service_worker": "background.js"}, "action": {"default_icon": {"16": "skip.png", "48": "skip.png", "128": "skip.png"}}}

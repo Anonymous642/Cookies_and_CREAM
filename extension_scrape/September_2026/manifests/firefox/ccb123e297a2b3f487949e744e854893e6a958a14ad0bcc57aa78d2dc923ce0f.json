@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Time Limiter", "version": "1.0.1", "description": "Adds a timer and blocks the website when time runs out.", "icons": {"48": "icons/time-limiter.png"}, "permissions": ["storage"], "content_scripts": [{"matches": ["*://*.x.com/*"], "js": ["time-limiter.js"]}], "browser_specific_settings": {"gecko": {"id": "{8b8c1720-1862-4656-9935-006ea24f2f67}"}}}

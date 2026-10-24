@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Video Volume Control", "version": "1.4", "description": "Adds volume control slider to videos", "permissions": [], "content_scripts": [{"matches": ["https://www.instagram.com/*", "https://instagram.com/*"], "js": ["content.js"]}], "icons": {"48": "icon48.png", "128": "icon128.png"}}

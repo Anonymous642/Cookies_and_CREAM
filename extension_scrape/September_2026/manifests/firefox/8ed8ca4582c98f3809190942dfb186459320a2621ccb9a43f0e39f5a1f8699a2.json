@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mood Tracker Tab", "version": "1.0", "description": "Log your mood each time you open a new tab.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["storage"], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{2d8ae754-6ba1-4db1-b9c7-a6f713ab1e30}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "color generator", "version": "1.0.0", "description": " This is an extension that generates a color palette based on the color selected.", "manifest_version": 3, "author": "Darryl Sanders DBA Paragon Web-Tech", "action": {"default_popup": "index.html", "default_title": "color generator"}}

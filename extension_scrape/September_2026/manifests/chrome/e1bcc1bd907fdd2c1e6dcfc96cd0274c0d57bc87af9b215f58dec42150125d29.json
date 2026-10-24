@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Site Inspector", "version": "1.3", "description": "Shows site information, metadata and all links.", "permissions": ["activeTab", "scripting", "tabs"], "action": {"default_popup": "popup.html"}}

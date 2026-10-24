@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Screenshot plugin", "version": "1.0", "description": "A plugin for taking screenshots", "permissions": ["tabs", "activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{31a6e887-8975-42f0-bf74-3205124ffff5}"}}}

@@ -1,0 +1,1 @@
+{"name": "Skribbl Plus | Save Drawings", "version": "1.0", "description": "Download Skribbl drawings with a single click. The days of janky screenshots is over.", "manifest_version": 2, "icons": {"48": "assets/icon-48.png", "96": "assets/icon-96.png"}, "content_scripts": [{"matches": ["*://skribbl.io/*"], "js": ["skribblio.js"], "css": ["assets/style.css"]}]}

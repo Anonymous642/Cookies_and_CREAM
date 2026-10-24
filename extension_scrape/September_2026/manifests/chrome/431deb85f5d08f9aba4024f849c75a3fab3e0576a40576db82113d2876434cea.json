@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Affirmation", "description": "Press the button to generate a random affirmation phrase", "version": "0.0.2", "icons": {"128": "icon_128.png"}, "action": {"default_icon": "Icon.png", "default_popup": "popup.html"}}

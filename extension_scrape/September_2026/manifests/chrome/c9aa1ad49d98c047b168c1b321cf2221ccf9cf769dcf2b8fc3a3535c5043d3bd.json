@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bagelbot Cart Resolver", "description": "Resolve cart guid's into actual balsam bagel carts", "version": "1.0.0", "content_scripts": [{"matches": ["https://www.toasttab.com/balsam-bagels/v3/*"], "css": [], "js": ["content-script.js"]}]}

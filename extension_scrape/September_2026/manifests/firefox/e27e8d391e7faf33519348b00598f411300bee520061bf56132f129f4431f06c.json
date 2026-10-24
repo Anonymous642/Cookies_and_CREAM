@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83d\udd10 Password Power Pro", "version": "1.1", "description": "Check password strength and generate secure passwords with full control.", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "mileoocaycem76@hotmail.com"}}}

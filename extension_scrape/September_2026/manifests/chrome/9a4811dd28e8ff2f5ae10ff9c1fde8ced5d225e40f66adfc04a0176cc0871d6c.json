@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DesignSpace", "version": "1.4", "description": "Shows random ux law, ui tip and heuristic law every time a new tab is opened", "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"16": "icon.png"}}

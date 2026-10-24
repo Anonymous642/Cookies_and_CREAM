@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "HoverLink", "version": "1.0", "description": "Preview links without opening.", "action": {"default_popup": "popup.html", "default_icon": "hoverlink.png"}, "icons": {"128": "hoverlink.png"}, "browser_specific_settings": {"gecko": {"id": "tonjawcjp303030@hotmail.com"}}}

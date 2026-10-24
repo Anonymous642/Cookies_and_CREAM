@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Vivius Homepage", "version": "1.1", "chrome_url_overrides": {"newtab": "index.html"}, "action": {"default_popup": "popup.html", "default_icon": "icon-128.png"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{2bc73f96-ac47-48c1-922b-679d2f375ddb}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple Tab Session Saver", "description": "Save your current open tabs as a session and restore them anytime.", "version": "1.0", "permissions": ["tabs", "storage"], "action": {"default_popup": "popup.html", "default_icon": {"128": "icon.png"}}, "icons": {"128": "icon.png"}}

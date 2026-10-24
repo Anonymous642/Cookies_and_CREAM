@@ -1,0 +1,1 @@
+{"description": "Whilst: Be Gone!", "manifest_version": 2, "name": "WhilstBeGone", "version": "1.1resigned1", "content_scripts": [{"matches": ["*://*/*"], "js": ["while.js"]}], "browser_specific_settings": {"gecko": {"id": "{2bd79b3b-1b5e-4912-bd97-e6d2a3e95575}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Add to ChatGPT", "version": "1.1.2", "manifest_version": 3, "permissions": ["contextMenus", "tabs", "scripting", "activeTab"], "host_permissions": ["<all_urls>", "https://*/*", "http://*/*"], "background": {"service_worker": "service_worker.js"}}

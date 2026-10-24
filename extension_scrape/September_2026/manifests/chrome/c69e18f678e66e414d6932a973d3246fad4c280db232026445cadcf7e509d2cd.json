@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pius Provisions", "version": "1.0.3", "permissions": [], "action": {"default_popup": "popup.html", "default_icon": "images/icons/favicon.png"}, "icons": {"16": "images/icons/favicon.png", "48": "images/icons/icon48.png", "128": "images/icons/icon128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Crush Chat Suggester", "version": "1.0", "description": "Get random cute conversation topics to talk with your crush!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "staplesh7012005cftob@hotmail.com"}}}

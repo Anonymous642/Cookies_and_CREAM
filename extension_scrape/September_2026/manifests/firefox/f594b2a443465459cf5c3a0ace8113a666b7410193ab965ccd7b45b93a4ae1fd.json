@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "InstagramAudioAlwaysOn", "version": "1.0", "description": "Forces audio to be on by default.", "content_scripts": [{"matches": ["*://*.instagram.com/*"], "js": ["InstagramAudioAlwaysOn.js"]}], "browser_specific_settings": {"gecko": {"id": "{807791a9-069f-4b63-926c-b514a8c9ba92}"}}}

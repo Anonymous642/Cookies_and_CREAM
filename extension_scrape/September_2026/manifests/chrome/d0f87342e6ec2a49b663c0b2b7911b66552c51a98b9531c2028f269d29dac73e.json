@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Pro Focus", "description": "Pro Focus helps to get you focus and avoid distractions.", "version": "2.0", "manifest_version": 3, "action": {"default_popup": "popup.html"}, "icons": {"32": "iconLogo.png", "48": "iconLogo.png", "128": "iconLogo.png"}, "permissions": ["activeTab", "scripting", "storage"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Link Preview Popup", "version": "2.1", "description": "Preview links on the current page after activating the extension.", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}, "action": {"default_title": "Enable Link Preview on This Page"}}

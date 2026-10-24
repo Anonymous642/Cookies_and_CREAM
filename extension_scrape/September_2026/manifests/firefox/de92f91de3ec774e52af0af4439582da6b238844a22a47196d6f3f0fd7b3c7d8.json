@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Word Counter", "version": "1.0", "description": "Count words on the current page.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{0457bb82-ce83-4d74-a7d4-009fbf908b27}"}}}

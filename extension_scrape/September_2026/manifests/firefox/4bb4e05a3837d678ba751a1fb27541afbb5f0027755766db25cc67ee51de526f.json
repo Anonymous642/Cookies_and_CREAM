@@ -1,0 +1,1 @@
+{"browser_specific_settings": {"gecko": {"id": "rehmantel@icloud.com"}}, "manifest_version": 3, "name": "Hide X Sidebar", "version": "1.1", "description": "Hides the entire right sidebar on X.com", "content_scripts": [{"matches": ["https://*.x.com/*", "https://*.twitter.com/*"], "css": ["hide_sidebar.css"]}]}

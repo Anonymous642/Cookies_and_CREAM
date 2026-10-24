@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Moontells", "description": "Moontells is a personal planner which gives daily insights on favourable and unfavourable events of the Moon day.", "version": "1.1", "author": "Andrey Koppel (akoppela)", "icons": {"256": "icon.png"}, "browser_action": {"default_title": "Moontells", "default_popup": "index.html"}}

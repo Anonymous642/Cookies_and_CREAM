@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "action": {"default_popup": "/src/popup.html", "default_title": "readius"}, "description": "Browser extension that sorts Pratt books by distance to patron", "manifest_version": 3, "name": "readius", "permissions": ["activeTab", "scripting"], "version": "2025.11.21"}

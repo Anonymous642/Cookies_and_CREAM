@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ConvertKML", "version": "1.0", "description": "Converter multipolygon/polygon para KML e fazer o download do respectivo arquivo.", "author": "Jo\u00e3o C\u00e2ndido", "permissions": ["downloads"], "action": {"default_popup": "popup.html", "default_title": "Conversor KML"}}

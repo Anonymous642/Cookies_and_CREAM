@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HTTP Header Spy", "version": "1.0", "description": "Shows HTTP headers and site IP for current page", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Time-Planning Hub", "version": "1.0", "description": "Say not to unmet or forgotten tasks with one stop solution.", "action": {"default_popup": "popup.html", "default_icon": {"16": "img/icon16.png", "48": "img/icon48.png", "128": "img/icon128.png"}}, "permissions": []}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "remove-gemini", "version": "0.1", "description": "Remove AI search results when searching with Google", "permissions": ["activeTab", "tabs"], "content_scripts": [{"matches": ["https://www.google.com/search?*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "remove-gemini@senadalagic.com"}}}

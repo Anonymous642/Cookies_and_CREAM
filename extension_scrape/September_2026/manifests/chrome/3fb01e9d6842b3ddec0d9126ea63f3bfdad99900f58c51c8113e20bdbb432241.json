@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tablings Dynamic", "version": "2.1", "description": "Custom new tab page with clock, day tracker, Wikipedia, word of the day, year progress, and weather.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["http://ip-api.com/*", "https://api.open-meteo.com/*"]}

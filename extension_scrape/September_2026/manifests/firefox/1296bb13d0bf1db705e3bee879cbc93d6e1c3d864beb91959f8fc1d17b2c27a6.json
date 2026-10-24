@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "66GG", "version": "1.0.0", "description": "66GG public profile placeholder extension", "icons": {"48": "icon48.png", "96": "icon96.png", "128": "icon128.png"}, "action": {"default_title": "66GG"}, "browser_specific_settings": {"gecko": {"id": "66gg@39group", "strict_min_version": "109.0", "data_collection_permissions": {"required": ["none"]}}}}

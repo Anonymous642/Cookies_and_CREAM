@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NRK sportsborttager", "version": "1.2.5", "description": "Tar bort all sport fra NRK.no", "icons": {"48": "icon48.png"}, "content_scripts": [{"matches": ["*://*.nrk.no/*"], "js": ["remove-sports.js"]}], "browser_specific_settings": {"gecko": {"id": "{110ebbe4-225a-46c4-8daf-053e53aa4b0b}"}}}

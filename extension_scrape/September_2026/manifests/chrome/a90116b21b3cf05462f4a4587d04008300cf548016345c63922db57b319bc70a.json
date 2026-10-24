@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Generador de Claves Seguras", "version": "1.0", "description": "Crea contrase\u00f1as fuertes y seguras al instante para proteger tus cuentas.", "action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}, "permissions": []}

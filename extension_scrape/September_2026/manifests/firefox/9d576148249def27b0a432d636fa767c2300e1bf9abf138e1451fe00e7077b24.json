@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Text Copy", "version": "1.0", "description": "Copy input text to the clipboard for easy pasting.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["clipboardWrite"], "browser_specific_settings": {"gecko": {"id": "{9121f768-e42c-4cf9-b4d3-47959e931aec}"}}}

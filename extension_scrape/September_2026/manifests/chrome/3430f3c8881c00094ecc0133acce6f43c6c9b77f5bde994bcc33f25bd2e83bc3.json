@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "OneClick History Cleaner", "description": "Clear Chrome history for Today, Week or All in one click.", "version": "1.0", "permissions": ["browsingData"], "icons": {"128": "logo.png"}, "action": {"default_popup": "popup.html"}}

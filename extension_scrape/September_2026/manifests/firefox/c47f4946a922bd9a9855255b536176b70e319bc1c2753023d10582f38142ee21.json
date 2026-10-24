@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Private Window Blocker", "version": "1.0", "description": "Automatically closes private windows.", "permissions": ["tabs", "windows"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{ad8f5b53-80d7-427e-b38b-98726eb6102e}"}}}

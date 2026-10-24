@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TWD to THB Converter", "version": "1.0", "description": "Convert TWD to THB directly from your browser.", "permissions": ["activeTab", "https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{23098c41-9113-40c6-b6cf-8740bc950b0c}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Notes", "version": "1.0", "description": "Save and manage quick notes.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{e8461071-a1b8-4360-ac39-83359cf4496b}"}}}

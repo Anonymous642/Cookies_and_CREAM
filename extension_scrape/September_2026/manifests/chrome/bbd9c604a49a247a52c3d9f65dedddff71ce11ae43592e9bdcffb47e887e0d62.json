@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Monkey App De-mirror", "description": "De-mirrors Your Camera in Monkey.app", "version": "1.0", "icons": {"16": "images/icon-16.png", "128": "images/icon-128.png"}, "content_scripts": [{"matches": ["https://www.monkey.app/*"], "js": ["content.js"]}]}

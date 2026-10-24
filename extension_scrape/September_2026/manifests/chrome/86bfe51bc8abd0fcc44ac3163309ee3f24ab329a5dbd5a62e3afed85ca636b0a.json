@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "baseballlover723's New Tab Page", "version": "1.0.3", "description": "A completely blank and dark new tab with a thin pipe as the favicon for tab separation. Optimized for dark theme.", "chrome_url_overrides": {"newtab": "newtab.html"}}

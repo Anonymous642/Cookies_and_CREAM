@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SLMarketplace Keywords", "version": "1.0", "description": "Displays all added keywords on product page", "icons": {"48": "icons/mpkeywords.png"}, "content_scripts": [{"matches": ["*://*.marketplace.secondlife.com/*"], "js": ["keywords.js"]}]}

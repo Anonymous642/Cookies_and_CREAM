@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Text Speichern", "version": "1.0", "browser_specific_settings": {"gecko": {"id": "text-speichern@ersin.local", "data_collection_permissions": {"required": ["none"]}, "strict_min_version": "109.0"}}, "permissions": ["scripting", "activeTab"], "action": {"default_title": "Markierten Text speichern"}, "background": {"scripts": ["background.js"]}}

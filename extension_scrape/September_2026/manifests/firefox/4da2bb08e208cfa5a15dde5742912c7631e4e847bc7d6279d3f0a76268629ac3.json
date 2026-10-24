@@ -1,0 +1,1 @@
+{"browser_specific_settings": {"gecko": {"id": "mail@ampshock.com", "strict_min_version": "65.0"}}, "manifest_version": 2, "name": "hideify", "version": "1.0", "description": "hides all images in all webpages matching *.", "content_scripts": [{"matches": ["*://*/*"], "css": ["hideify.css"]}]}

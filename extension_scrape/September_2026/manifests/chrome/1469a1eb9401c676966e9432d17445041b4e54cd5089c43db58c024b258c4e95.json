@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.0.0", "name": "piki", "action": {"default_popup": "index.html"}, "permissions": ["scripting", "activeTab"], "icons": {"16": "image_17.png", "32": "image_17.png", "48": "image_17.png"}}

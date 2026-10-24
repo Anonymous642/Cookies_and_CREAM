@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Group Manager", "version": "1.0", "description": "Create, name, and manage groups of tabs for better organization.", "permissions": ["tabs", "storage"], "browser_action": {"default_popup": "popup.html", "default_title": "Manage Tab Groups"}, "browser_specific_settings": {"gecko": {"id": "{cbadf94c-6cda-4a13-8e1f-868e3147987e}"}}}

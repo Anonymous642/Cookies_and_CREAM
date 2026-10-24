@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pomocnik Audio Mega", "version": "1.2", "browser_specific_settings": {"gecko": {"id": "audio-helper-mega@mojewtyczki.pl", "strict_min_version": "100.0", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"matches": ["*://mega.nz/*"], "js": ["skrypt.js"], "run_at": "document_idle"}], "permissions": ["*://mega.nz/*"]}

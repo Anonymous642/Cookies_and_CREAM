@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Text Search Opener", "version": "1.0", "description": "Select text and open a new tab with a URL using the selected text.", "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["background.js"]}, "icons": {"40": "icons/icon.png"}, "applications": {"gecko": {"id": "textsearch@example.com"}}}

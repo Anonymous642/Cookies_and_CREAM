@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Email Link Generator", "version": "1.0", "description": "Generate email links with pre-filled recipient, subject, and body", "browser_action": {"default_popup": "popup.html", "default_title": "Email Link Generator"}, "browser_specific_settings": {"gecko": {"id": "{3880ef0e-8a4c-4270-83ed-e8eb127530af}"}}}

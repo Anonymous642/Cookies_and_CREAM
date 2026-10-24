@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bedtime Reminder", "version": "1.0", "description": "Reminds kids it's time to sleep when using the browser too late.", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{efbd65b3-87c4-49a5-b4aa-a55eb12599bc}"}}}

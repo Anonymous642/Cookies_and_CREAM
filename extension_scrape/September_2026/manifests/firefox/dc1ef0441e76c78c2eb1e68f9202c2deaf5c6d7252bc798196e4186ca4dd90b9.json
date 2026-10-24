@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Bookworm Number Counter", "version": "1.0", "description": "An add-on to count numbers in sequence with a bookish, scholarly theme.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "q5briannerosadotqb8810@hotmail.com"}}}

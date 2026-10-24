@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouAgree", "version": "1.0", "description": "Checks domain agreement", "content_scripts": [{"matches": ["https://youagree.org/*"], "js": ["content.js"]}], "action": {"default_popup": "main.html", "default_icon": "youagree_small.png"}, "permissions": ["storage", "activeTab"]}

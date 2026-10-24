@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gmail Notes", "version": "1.0.1", "permissions": ["storage"], "host_permissions": ["*://mail.google.com/*"], "content_scripts": [{"matches": ["*://mail.google.com/*"], "css": ["styles.css"], "js": ["content.js"]}]}

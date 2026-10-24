@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab - Close All", "description": "Add a tab context menu to close all tabs", "version": "1.1resigned1", "default_locale": "en", "applications": {"gecko": {"strict_min_version": "61.0", "id": "{b19bc22e-c148-4816-9c53-340f587c1a06}"}}, "background": {"scripts": ["background.js"]}, "permissions": ["menus", "activeTab", "tabs"]}

@@ -1,0 +1,1 @@
+{"description": "Dom Node Counter", "manifest_version": 2, "name": "oli-node-counter", "version": "1.0", "author": "Kushan Gunasinghe", "homepage_url": "https://addons.mozilla.org/it/firefox/user/kushan4157/", "icons": {"48": "icons/icon-48.png", "64": "icons/icon-64.png", "128": "icons/icon-128.png"}, "permissions": ["<all_urls>"], "devtools_page": "devtools/SidebarPane.html"}

@@ -1,0 +1,1 @@
+{"name": "Cyber Tunnel", "description": "A futuristic and high-tech interface", "manifest_version": 2, "version": "1.0", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{183d5c80-7d4f-413f-aed5-4cf9a9a4eb26}"}}}

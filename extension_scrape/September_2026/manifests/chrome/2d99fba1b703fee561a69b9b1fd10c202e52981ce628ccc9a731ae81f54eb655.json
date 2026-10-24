@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Email Alias Extension", "version": "1.0", "description": "A Chrome extension built with Vue to generate email aliases.", "action": {"default_popup": "index.html", "default_icon": "vite.svg"}, "permissions": ["storage", "clipboardWrite"], "host_permissions": ["https://*/*"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Harmonic Size Converter", "version": "1.0.0", "description": "A clean, harmonious storage size converter for KB/MB/GB (plus B and TB). Works offline with no permissions.", "action": {"default_title": "Size Converter", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

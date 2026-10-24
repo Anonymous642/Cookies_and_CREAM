@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AmazonSponsorRemoval", "version": "1.0", "description": "Makes Sponsored items hidden on amazon.co.uk", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.amazon.co.uk/*"], "js": ["AmazonSponsorRemoval.js"]}]}

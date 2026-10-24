@@ -1,0 +1,1 @@
+{"name": "TickTasksApp", "description": "Organize your life with an app", "version": "1.0.0.2resigned1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"launch": {"web_url": "http://159.65.39.115/integrate/"}}, "browser_specific_settings": {"gecko": {"id": "{d9c957b4-b3c7-4933-b94c-679c81ec355f}"}}}

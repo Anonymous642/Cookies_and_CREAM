@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Praise Finder", "version": "1.0", "description": "Search and display worship song lyrics instantly.", "permissions": ["storage"], "host_permissions": ["https://api.lyrics.ovh/*"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Serkify Merch CSV Auto-Filler", "version": "1.0", "manifest_version": 3, "description": "Automatically upload and fill Merch by Amazon listings using CSV data", "permissions": ["storage"], "content_scripts": [{"matches": ["*://merch.amazon.com/*"], "js": ["papaparse.min.js", "content-script.js"]}]}

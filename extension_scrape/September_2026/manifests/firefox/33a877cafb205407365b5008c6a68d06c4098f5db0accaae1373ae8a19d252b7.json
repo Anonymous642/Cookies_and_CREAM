@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Group Saver", "version": "1.0", "description": "Save and restore groups of tabs easily.", "permissions": ["tabs", "storage"], "browser_action": {"default_popup": "popup.html", "default_title": "Tab Group Saver"}, "browser_specific_settings": {"gecko": {"id": "{fb3e9cd8-5e01-4045-a052-a0bc6fee712f}"}}}

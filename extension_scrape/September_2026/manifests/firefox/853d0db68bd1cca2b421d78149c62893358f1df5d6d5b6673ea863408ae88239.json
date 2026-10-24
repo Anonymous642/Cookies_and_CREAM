@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Fabric Launderer", "version": "1.0", "description": "Search washing temperatures and care instructions by fabric or temperature.", "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "fabric_launderer@example.com"}}}

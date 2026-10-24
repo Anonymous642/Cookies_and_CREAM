@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "trading piew", "version": "1.0", "description": "TradingView Demo Trade Extension", "content_scripts": [{"matches": ["*://*.tradingview.com/*"], "js": ["index.js"]}]}

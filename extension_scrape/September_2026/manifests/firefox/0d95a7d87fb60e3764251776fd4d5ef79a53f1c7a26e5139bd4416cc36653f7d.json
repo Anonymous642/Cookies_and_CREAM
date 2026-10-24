@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Watermark Remover", "version": "1.0", "description": "Select and blur watermarks on images manually.", "permissions": ["activeTab"], "browser_action": {"default_icon": "icon.png", "default_title": "Remove Watermark", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{ef41988e-de8c-4827-985a-e20ba1f67ab9}"}}}

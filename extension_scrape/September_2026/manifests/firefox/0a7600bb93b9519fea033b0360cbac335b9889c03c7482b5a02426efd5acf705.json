@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Eco-Friendly Gift Idea Generator", "version": "1.0", "description": "Get eco-friendly gift suggestions based on interests and occasions.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{d38b7ec9-dad8-4525-95ef-f745365ddea9}"}}}

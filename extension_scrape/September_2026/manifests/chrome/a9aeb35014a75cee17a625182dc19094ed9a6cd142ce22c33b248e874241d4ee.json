@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Auto-Reload Timer", "version": "1.0", "description": "Auto-Reload Timer: Schedule page reloads easily.", "action": {"default_popup": "popup.html", "default_icon": "auto-reload_timer.png"}, "icons": {"128": "auto-reload_timer.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Clean Download Filenames", "version": "1.1", "manifest_version": 3, "permissions": ["downloads"], "background": {"service_worker": "background.js"}, "description": "Automatically removes underscores and formats filenames to Title Case."}

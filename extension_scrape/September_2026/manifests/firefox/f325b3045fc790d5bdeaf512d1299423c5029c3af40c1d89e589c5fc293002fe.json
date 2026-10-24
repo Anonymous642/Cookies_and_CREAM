@@ -1,0 +1,1 @@
+{"name": "Major", "version": "1.1", "description": "Displays mnemonic phrases for numbers", "manifest_version": 2, "icons": {"16": "16x16.png", "48": "48x48.png", "128": "128x128.png"}, "background": {"scripts": ["major.js"]}, "permissions": ["notifications", "contextMenus"], "browser_action": {"default_icon": "16x16.png", "default_popup": "major_popup.html"}}

@@ -1,0 +1,86 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "name": "tl;dv Bulk Transcript Exporter",
+  "short_name": "TldvExporter",
+  "version": "1.5.2",
+  "description": "Export all your tl;dv meeting transcripts to ZIP (Markdown/TXT/JSON). Trial: 1 export \u00d7 5 meetings; unlock unlimited $14.99.",
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_title": "Export tl;dv transcripts",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png"
+    }
+  },
+  "background": {
+    "service_worker": "background/service-worker.js"
+  },
+  "permissions": [
+    "storage",
+    "downloads",
+    "tabs",
+    "scripting",
+    "clipboardRead",
+    "notifications",
+    "webRequest",
+    "cookies"
+  ],
+  "host_permissions": [
+    "https://tldv.io/*",
+    "https://*.tldv.io/*",
+    "https://app.tldv.io/*",
+    "https://pasta.tldv.io/*",
+    "https://gw.tldv.io/*",
+    "https://gaia.tldv.io/*",
+    "https://api.polar.sh/*",
+    "https://buy.polar.sh/*"
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "content/page-hook.js"
+      ],
+      "matches": [
+        "https://tldv.io/*",
+        "https://*.tldv.io/*",
+        "https://app.tldv.io/*",
+        "https://gw.tldv.io/*"
+      ]
+    }
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://tldv.io/*",
+        "https://*.tldv.io/*",
+        "https://app.tldv.io/*"
+      ],
+      "js": [
+        "content/page-hook.js"
+      ],
+      "run_at": "document_start",
+      "world": "MAIN"
+    },
+    {
+      "matches": [
+        "https://tldv.io/*",
+        "https://*.tldv.io/*",
+        "https://app.tldv.io/*"
+      ],
+      "js": [
+        "content/content.js"
+      ],
+      "run_at": "document_start",
+      "world": "ISOLATED"
+    }
+  ]
+}

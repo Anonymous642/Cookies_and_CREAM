@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Oldswf Blob Downloader", "version": "0.1.0", "description": "Download cached oldswf game blobs from the current game page.", "content_scripts": [{"matches": ["https://oldswf.com/game/*"], "js": ["content.js"], "run_at": "document_start", "world": "MAIN"}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "EMOJITCHI", "version": "1.0.1", "description": "Tu mascota emoji en tu navegador", "action": {"default_popup": "index.html", "default_icon": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}, "permissions": ["storage"]}

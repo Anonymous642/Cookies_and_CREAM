@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Red Text Maker", "version": "1.0", "description": "Turns all text on the page red", "permissions": ["activeTab"], "background": {"scripts": ["background.js"]}, "browser_action": {"default_title": "Make Text Red"}, "browser_specific_settings": {"gecko": {"id": "{ac44e426-f00e-4c62-a638-78ff4a5a4631}"}}}

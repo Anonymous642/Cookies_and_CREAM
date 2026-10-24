@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Daily Image Viewer", "version": "1.0", "description": "Displays a new image each day.", "icons": {"48": "icon.png"}, "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{0775b691-f520-4c87-a546-c4de19c4e66d}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Colorizer", "version": "1.0", "description": "Change tab color based on website content.", "permissions": ["tabs", "theme"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{27eef1fe-6994-4d7f-9555-abd661cfa26e}"}}}

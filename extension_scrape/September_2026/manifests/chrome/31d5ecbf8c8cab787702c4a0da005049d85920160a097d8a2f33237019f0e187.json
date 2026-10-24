@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Filter Courses", "version": "1.0", "description": "Remove unwanted courses from the course list. \n Biton6The9Gever", "content_scripts": [{"matches": ["https://sheilta.apps.openu.ac.il/pls/dmyopt2/course_info.courses"], "js": ["content.js"]}], "icons": {"48": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Last Tab", "action": {}, "manifest_version": 3, "version": "0.2", "description": "Activate last used tab when closing one", "permissions": [], "background": {"service_worker": "background.js"}}

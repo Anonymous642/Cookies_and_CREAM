@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Cupialscript", "version": "1.2", "description": "kocham ole\u0144ke", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{76691c45-9a46-460b-ade2-effb2f582c07}"}}}

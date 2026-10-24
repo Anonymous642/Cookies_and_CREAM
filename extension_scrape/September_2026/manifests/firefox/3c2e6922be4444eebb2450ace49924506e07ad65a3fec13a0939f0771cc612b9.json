@@ -1,0 +1,1 @@
+{"name": "deck_copy", "version": "201resigned1", "manifest_version": 2, "icons": {"128": "./icon.png"}, "description": "deck_copy", "content_scripts": [{"matches": ["https://tweetdeck.twitter.com/"], "js": ["index.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{c80b796a-da92-468a-b37b-9a8aed8f3fcd}"}}}

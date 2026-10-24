@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FB scroll lock", "version": "1.3resigned1", "description": "Limits the scroll of facebook page", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["scroll-lock.js"]}], "browser_specific_settings": {"gecko": {"id": "{067388a3-90af-4231-838f-440c97e6b98c}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "\u0110\u1ed3ng h\u1ed3 Th\u1eddi gian Th\u1ef1c", "version": "1.0", "description": "Hi\u1ec3n th\u1ecb th\u1eddi gian hi\u1ec7n t\u1ea1i trong popup.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{e13724ec-823d-463d-8ed5-12886f7a077f}"}}}

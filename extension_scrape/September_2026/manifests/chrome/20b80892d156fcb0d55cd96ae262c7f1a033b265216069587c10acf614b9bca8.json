@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ScrollHero", "version": "1.0", "description": "Adjust Page Down and Page Up to scroll half as far.", "permissions": ["storage"], "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["https://*/*", "http://*/*", "https://*/", "http://*/"], "js": ["scroll.js"]}]}

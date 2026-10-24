@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Random Dice Roller", "version": "1.0.0", "description": "Roll virtual dice with a simple click. Get random numbers from 1 to 6 instantly.", "icons": {"128": "icon.svg"}, "action": {"default_popup": "popup.html", "default_icon": "icon.svg", "default_title": "Random Dice Roller"}}

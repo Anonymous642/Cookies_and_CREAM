@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Finder", "version": "1.3", "description": "Search and navigate through your open tabs by keyword.", "permissions": ["tabs"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{639cae75-379c-403b-b8fe-7474821ca621}"}}}

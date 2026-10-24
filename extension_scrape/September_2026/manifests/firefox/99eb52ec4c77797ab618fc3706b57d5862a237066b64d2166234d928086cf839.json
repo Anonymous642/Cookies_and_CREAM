@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WaveVPN", "version": "1.0", "description": "VPN extension with Canadian proxy server.", "browser_action": {"default_title": "WaveVPN", "default_popup": "popup.html"}, "permissions": ["proxy", "tabs", "storage"], "applications": {"gecko": {"id": "wavevpn@voltworks.xo.je", "strict_min_version": "91.1.0"}}}

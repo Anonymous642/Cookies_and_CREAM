@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tiny Excuse Spinner", "version": "1.0.0", "description": "Generate lighthearted excuse style lines for fun in a stylish popup with no complex permissions.", "action": {"default_popup": "popup.html", "default_title": "Tiny Excuse Spinner"}, "icons": {"128": "icon128.png"}}

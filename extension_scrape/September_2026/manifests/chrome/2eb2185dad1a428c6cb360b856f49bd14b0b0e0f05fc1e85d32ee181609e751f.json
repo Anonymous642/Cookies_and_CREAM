@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "VitaTrack", "version": "1.1", "description": "Track your daily medication/supplement with VitaTrack", "action": {"default_popup": "popup.html"}, "permissions": ["storage"], "icons": {"48": "icons/icon48.png", "128": "icons/icon128.png"}}

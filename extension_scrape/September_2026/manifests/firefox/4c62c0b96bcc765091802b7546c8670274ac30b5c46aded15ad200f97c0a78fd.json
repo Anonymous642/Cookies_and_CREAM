@@ -1,0 +1,1 @@
+{"name": "Kitab\u0131 Pdf \u0130ndir", "version": "1.0", "manifest_version": 2, "icons": {"16": "./img/16.png", "48": "./img/48.png", "128": "./img/128.png"}, "browser_action": {"default_popup": "./popup.html"}, "browser_specific_settings": {"gecko": {"id": "{e4c74809-05d7-44b6-ba8c-a574c2f92985}"}}}

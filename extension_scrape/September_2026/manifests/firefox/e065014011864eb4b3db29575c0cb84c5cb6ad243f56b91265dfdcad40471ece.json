@@ -1,0 +1,1 @@
+{"description": "Bewell Customer extension, this extension will add buttons to the Customer Support application.", "version": "1.0.9", "manifest_version": 2, "name": "Bewell Extension", "icons": {"128": "icon-128.png"}, "content_scripts": [{"matches": ["https://salesiq.zoho.com/*"], "js": ["contentScript.bundle.js"]}]}

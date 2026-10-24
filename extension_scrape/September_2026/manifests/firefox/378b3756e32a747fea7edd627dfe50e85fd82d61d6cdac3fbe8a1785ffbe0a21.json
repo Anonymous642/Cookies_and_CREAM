@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hide_Youtube_Shorts", "version": "1.0", "description": "Hide Youtube Shorts from subscriptions.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["hide_youtube_shorts.js"]}], "browser_specific_settings": {"gecko": {"id": "{2552722a-a341-46fd-b45b-aa04e1c4d701}"}}}

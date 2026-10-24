@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tip Calculator", "version": "1.0.0", "description": "A clean, lightweight tip calculator for quick bill splits \u2014 no extra permissions.", "icons": {"128": "icon.png"}, "action": {"default_title": "Tip Calculator", "default_popup": "popup.html"}}

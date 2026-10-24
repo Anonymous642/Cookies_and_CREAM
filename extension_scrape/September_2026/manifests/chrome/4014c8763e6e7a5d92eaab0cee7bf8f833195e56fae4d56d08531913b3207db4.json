@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "My ToDo List", "version": "1.0.0", "description": "ToDo List Manager", "manifest_version": 3, "author": "Jimmy", "action": {"default_popup": "index.html", "default_title": "My ToDo List"}, "icons": {"16": "assets/logo.png", "48": "assets/logo.png", "128": "assets/logo.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Random Content Idea", "description": "T\u1ea1o \u00fd t\u01b0\u1edfng content ng\u1eabu nhi\u00ean gi\u00fap b\u1ea1n s\u00e1ng t\u1ea1o m\u1ed7i ng\u00e0y \u2728", "version": "1.0.0", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GitHub.dev Switcher", "version": "0.1.0", "description": "Switch the current GitHub page to GitHub.dev.", "permissions": ["tabs"], "background": {"service_worker": "background.js"}, "action": {"default_title": "Open in VS Code Web"}, "icons": {"16": "dev.png", "32": "dev.png"}}

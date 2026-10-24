@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Password-generator", "version": "1.0", "description": "A simple Firefox add-on for generating password", "permissions": ["activeTab"], "browser_action": {"default_popup": "index.html", "default_icon": {"1200": "./pass-G.png"}}, "browser_specific_settings": {"gecko": {"id": "{ea8816b6-cbd4-476a-91f9-9b7eb44236c4}"}}}

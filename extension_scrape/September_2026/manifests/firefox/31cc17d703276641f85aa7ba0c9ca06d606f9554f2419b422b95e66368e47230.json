@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube blind redirect", "version": "1.1", "description": "Youtube Private Redirect, Don't let google monitors redirects", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["https://www.youtube.com/watch*"], "js": ["YT.js"], "run_at": "document_start"}]}

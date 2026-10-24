@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Diagn\u00f3stico do Chessveja", "version": "1.4", "description": "Analise suas partidas do Lichess com IA.", "permissions": ["tabs"], "host_permissions": ["*://lichess.org/*"], "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

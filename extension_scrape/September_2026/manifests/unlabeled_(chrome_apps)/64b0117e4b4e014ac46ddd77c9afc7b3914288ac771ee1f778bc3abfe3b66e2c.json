@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u0412\u0438\u0441\u0435\u043b\u0438\u0446\u0430", "version": "1", "icons": {"128": "128.png"}, "app": {"urls": ["http://minigames.mail.ru/igra_slova_viselica"], "launch": {"web_url": "http://minigames.mail.ru/igra_slova_viselica"}}, "permissions": ["notifications"], "manifest_version": 2}

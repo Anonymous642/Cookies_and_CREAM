@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Removes Dailymail Adblocker Wall", "version": "1", "description": "Removes Dailymail Adblocker Wall and removes scroll lock", "content_scripts": [{"matches": ["http://www.dailymail.co.uk/*", "https://www.dailymail.co.uk/*"], "js": ["jquery-3.3.1.min.js", "background.js"]}]}

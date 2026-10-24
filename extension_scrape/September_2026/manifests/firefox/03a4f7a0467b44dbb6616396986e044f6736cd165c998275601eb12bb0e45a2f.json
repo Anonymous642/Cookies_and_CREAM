@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Web Page Refresher", "version": "1.0", "description": "A simple extension to refresh web pages.", "icons": {"48": "icons/icon.png"}, "browser_action": {"default_icon": "icons/icon.png", "default_popup": "popup.html"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{410de883-6042-434e-a51f-8306ff160556}"}}}

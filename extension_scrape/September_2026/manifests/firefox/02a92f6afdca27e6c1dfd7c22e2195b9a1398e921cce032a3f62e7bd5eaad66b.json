@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Block Site", "version": "1.0", "description": "A simple extension to block specified sites.", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{0938c9ca-5a40-4711-85e8-19d2f57e8726}"}}}

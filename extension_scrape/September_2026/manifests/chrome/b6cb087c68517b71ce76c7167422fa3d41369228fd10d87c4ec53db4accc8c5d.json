@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Swim Converter", "description": "This extension effortlessly converts swim times between long course and both American and European short courses.", "version": "2.11", "manifest_version": 3, "action": {"default_popup": "swimconverter.html", "default_icon": "icon2.png"}}

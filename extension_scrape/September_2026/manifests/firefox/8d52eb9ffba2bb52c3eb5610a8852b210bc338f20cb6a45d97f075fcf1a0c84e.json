@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DarkHunt", "version": "1.1", "author": "Hexandcube", "description": "Darkmode for Product Hunt", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.producthunt.com/*"], "css": ["darkhunt.css"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Digiexam Darkmode", "description": "Adds a darkmode to Digiexam", "version": "1.2", "content_scripts": [{"matches": ["https://app.digiexam.com/*"], "js": ["scripts/content.js"]}], "action": {"default_icon": "images/icon-128.png", "default_popup": "popup.html"}}

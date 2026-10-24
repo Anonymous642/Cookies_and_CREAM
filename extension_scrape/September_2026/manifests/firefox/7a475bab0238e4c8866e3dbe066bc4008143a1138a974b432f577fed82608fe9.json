@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "WhatFont", "version": "1.0", "description": "WhatFont: Identify web page fonts", "action": {"default_popup": "popup.html", "default_icon": "whatfont.png"}, "icons": {"128": "whatfont.png"}, "browser_specific_settings": {"gecko": {"id": "armishiaverduzcot200168@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Frost Focus Reminder", "version": "1.0.0", "description": "A frosty-themed daily focus reminder inside a simple popup.", "action": {"default_title": "Frost Focus Reminder", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Florida Man", "version": "1.0", "description": "Replaces 'Trump' or 'Donald Trump' with 'Florida Man' on webpages.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{b175701a-727b-44da-95f9-924c75f8ef84}"}}}

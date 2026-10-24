@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Task Timer", "version": "1.0", "description": "Track time spent on different tasks", "icons": {"48": "icon.png"}, "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{45972711-fbaf-4cb1-a51a-67c81d3e0287}"}}}

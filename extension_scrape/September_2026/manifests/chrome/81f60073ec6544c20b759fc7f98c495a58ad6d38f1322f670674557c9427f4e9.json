@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "NumCipher - Text to Number", "version": "1.0.0", "description": "Instantly convert your text into numerical codes based on alphabet positions.", "action": {"default_popup": "popup.html", "default_title": "Convert Text"}, "icons": {"128": "icon128.png"}}

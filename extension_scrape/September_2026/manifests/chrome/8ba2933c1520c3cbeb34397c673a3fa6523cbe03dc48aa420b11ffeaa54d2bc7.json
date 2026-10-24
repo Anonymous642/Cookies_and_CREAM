@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Product Scraper V1", "version": "1.0.0", "description": "Extract product data and images to CSV and WebP.", "permissions": ["activeTab", "scripting", "downloads"], "action": {"default_popup": "popup.html"}}

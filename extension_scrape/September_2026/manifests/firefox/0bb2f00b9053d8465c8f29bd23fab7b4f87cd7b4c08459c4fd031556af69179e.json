@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MororX_V1.0", "version": "1.0", "description": "Adds a red border to all webpages matching mozilla.org.", "icons": {"48": "icons/icon_48.png"}, "content_scripts": [{"matches": ["*://*.mozilla.org/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{37fe2103-99a9-4e4d-9c9a-335acf56f228}"}}}

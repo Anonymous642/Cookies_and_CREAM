@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Awake/Asleep Miku", "version": "1.0", "description": "Yet another Miku theme", "permissions": ["alarms", "theme"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"data_collection_permissions": {"required": ["none"]}, "id": "{e92e877d-cfae-47e5-965b-6990a8eaee19}"}}}

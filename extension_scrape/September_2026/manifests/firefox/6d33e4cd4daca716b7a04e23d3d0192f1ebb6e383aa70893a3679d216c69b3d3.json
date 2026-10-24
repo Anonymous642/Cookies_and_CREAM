@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "IA Bridge", "version": "1.0", "description": "Connecte le navigateur \u00e0 VS Code via WebSocket", "browser_specific_settings": {"gecko": {"id": "deesdeee@proton.me", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"matches": ["https://mammouth.ia/*"], "js": ["content.js"]}]}

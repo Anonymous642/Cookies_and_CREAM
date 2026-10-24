@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Beebac", "description": "Beebac est le r\u00e9seau social de l'\u00e9ducation.", "version": "3", "manifest_version": 2, "app": {"urls": ["*://www.beebac.com/", "*://static.beebac.com/"], "launch": {"web_url": "http://www.beebac.com/"}}, "icons": {"48": "icon48.png", "128": "icon128.png"}}

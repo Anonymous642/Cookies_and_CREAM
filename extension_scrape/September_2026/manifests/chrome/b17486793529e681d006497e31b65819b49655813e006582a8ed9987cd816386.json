@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute Name Fortune", "version": "1.0", "description": "Enter your name and get a fun random personality prediction.", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

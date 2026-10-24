@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Extensify BE", "author": "Vinay Salve", "version": "1.0", "description": "A cool browser extension that let's you manage your daily task with soothing background and inspiring quotes", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{2c1cd0c4-4c18-406d-8882-be70f21fa59a}"}}}

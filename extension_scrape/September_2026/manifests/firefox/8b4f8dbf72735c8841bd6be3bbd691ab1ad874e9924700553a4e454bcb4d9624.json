@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bulgarian Cyrillic to Latin Converter", "version": "1.0", "description": "Converts Bulgarian Cyrillic characters to their Latin equivalents.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{1c0ac0be-b905-4a1b-818b-598d9a6c8d13}"}}}

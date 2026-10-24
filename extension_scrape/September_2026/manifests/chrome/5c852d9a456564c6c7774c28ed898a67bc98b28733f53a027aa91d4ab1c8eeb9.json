@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Shopify Product Inspector", "version": "1.1", "permissions": ["scripting", "activeTab"], "host_permissions": ["https://admin.shopify.com/*"], "content_scripts": [{"matches": ["https://admin.shopify.com/store/*/products/*"], "js": ["content.js"]}]}

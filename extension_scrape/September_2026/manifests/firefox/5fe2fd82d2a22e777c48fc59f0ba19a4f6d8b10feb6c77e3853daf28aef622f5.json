@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Generador de Formato", "version": "1.0", "description": "Genera l\u00edneas formateadas para chats", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["clipboardWrite"], "browser_specific_settings": {"gecko": {"id": "{133ae58f-40ca-48f0-b88e-76a4535d38fc}"}}}

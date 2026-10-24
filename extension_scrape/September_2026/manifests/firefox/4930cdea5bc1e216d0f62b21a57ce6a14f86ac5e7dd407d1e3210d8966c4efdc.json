@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OneNoteRedirect", "version": "1.1resigned1", "description": "Redirects links to OneNote desktop client", "content_scripts": [{"matches": ["*://onenotepwa.firebaseapp.com/*"], "js": ["onenote.js"]}], "browser_specific_settings": {"gecko": {"id": "{e7c61986-d31a-4ac5-b131-3d2c2175fda7}"}}}

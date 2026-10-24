@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "yum link", "version": "1.0", "permissions": ["tabs"], "background": {"service_worker": "background.js"}, "host_permissions": ["https://yuml.ink/*"], "action": {"default_icon": {"16": "128.png", "48": "128.png", "128": "128.png"}}}

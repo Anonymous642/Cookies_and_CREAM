@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "max79.green", "version": "1.0", "description": "Mozilla Firefox extension - PASS compliant", "browser_specific_settings": {"gecko": {"id": "max79.green@addons.mozilla.org", "strict_min_version": "91.0", "data_collection_permissions": {"required": ["none"], "optional": []}}}}

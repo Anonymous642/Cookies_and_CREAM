@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TheGuardian", "version": "2.0", "description": "Customize the view of theguardian website", "content_scripts": [{"matches": ["*://*.theguardian.com/*"], "js": ["guardian.js"]}], "browser_specific_settings": {"gecko": {"id": "addon@gibberd.id.au"}, "gecko_android": {"id": "addon@gibberd.id.au"}}}

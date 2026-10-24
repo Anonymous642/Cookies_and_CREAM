@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bliish Unlocked", "version": "2.3", "browser_specific_settings": {"gecko": {"id": "bliish-unlocked@eggdog", "data_collection_permissions": {"required": ["none"]}}}, "permissions": ["storage", "https://raw.githubusercontent.com/*", "https://bliish.com/*"], "content_scripts": [{"matches": ["*://bliish.com/*"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Papaya Meet Scraper", "version": "1.0", "description": "Extracts Google Meet participant names from iframes for Papaya Platform", "content_scripts": [{"matches": ["*://meet.google.com/*"], "all_frames": true, "js": ["content.js"], "run_at": "document_idle"}]}

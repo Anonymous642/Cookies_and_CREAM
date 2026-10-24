@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Dracula new tab page", "version": "1.0.1", "description": "This new tab page for chrome goes hand in hand with the official Dracula Chrome Theme", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Feeling Ducky", "version": "1.0", "chrome_settings_overrides": {"search_provider": {"name": "Feeling Ducky", "search_url": "https://duckduckgo.com/?q=!ducky+{searchTerms}", "favicon_url": "https://duckduckgo.com/assets/icons/meta/DDG-icon_256x256.png"}}}

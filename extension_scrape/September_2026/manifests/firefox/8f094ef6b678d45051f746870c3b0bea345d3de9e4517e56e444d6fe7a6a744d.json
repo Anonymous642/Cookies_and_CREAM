@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "yoink", "description": "Automatically click the bonus channel points button that occasionally appears.", "version": "0.1", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "content_scripts": [{"matches": ["https://www.twitch.tv/*"], "js": ["collect.js"]}]}

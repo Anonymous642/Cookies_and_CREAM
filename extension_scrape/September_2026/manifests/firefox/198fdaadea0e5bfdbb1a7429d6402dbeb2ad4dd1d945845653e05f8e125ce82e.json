@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OC Dark Theme", "version": "1.1resigned1", "description": "Add a dark theme to Openclassrooms.com", "icons": {"48": "icons/logo.png"}, "content_scripts": [{"matches": ["*://*.openclassrooms.com/*"], "js": ["js/script.js"], "css": ["css/styles.css"]}], "browser_specific_settings": {"gecko": {"id": "{daa4908d-623c-44f1-92d2-54c28dc0ecb3}"}}}

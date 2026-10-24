@@ -1,0 +1,1 @@
+{"name": "ChatGPT enter press", "manifest_version": 2, "description": "allow to press enter on chat", "version": "0.4", "content_scripts": [{"matches": ["https://chatgpt.com/*"], "js": ["content-script.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "chatgptq@h43z"}}, "permissions": ["activeTab", "https://chatgpt.com/*"]}

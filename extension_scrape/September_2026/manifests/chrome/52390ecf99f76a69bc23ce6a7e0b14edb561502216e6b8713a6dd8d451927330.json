@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Brain Meme", "description": "But you didn't have to cut me off (like that) -music intensifies-", "version": "1.0", "author": "Lawson C", "action": {"default_icon": "icon.ico", "default_popup": "index.html", "default_css": "css.css", "default_title": "BRAIN"}}

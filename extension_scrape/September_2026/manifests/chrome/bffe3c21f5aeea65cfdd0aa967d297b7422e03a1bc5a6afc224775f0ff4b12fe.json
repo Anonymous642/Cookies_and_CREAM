@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Regra de 3", "version": "1.1", "description": "Fa\u00e7a regra de 3 de uma forma super simples e r\u00e1pida.", "action": {"default_popup": "index.html", "default_icon": {"16": "/images/logo.png", "48": "/images/logo.png", "128": "/images/logo.png"}}}

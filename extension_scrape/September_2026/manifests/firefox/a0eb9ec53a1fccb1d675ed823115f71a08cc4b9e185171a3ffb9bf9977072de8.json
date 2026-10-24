@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CrunchyrollDubDeleter", "version": "1.1", "description": "Deletes dub listings from the simulcastcalander", "icons": {"48": "NoDub.png"}, "content_scripts": [{"matches": ["*://*.crunchyroll.com/simulcastcalendar*"], "js": ["removeDub.js"]}], "browser_specific_settings": {"gecko": {"id": "{bdd8a2b7-3919-422e-a9a4-ce4705831915}"}}}

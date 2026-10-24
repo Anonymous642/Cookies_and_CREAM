@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute Reading Time", "version": "1.0.0", "description": "Estimate reading time for an article by analyzing pasted text or selected content.", "action": {"default_title": "Cute Reading Time", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

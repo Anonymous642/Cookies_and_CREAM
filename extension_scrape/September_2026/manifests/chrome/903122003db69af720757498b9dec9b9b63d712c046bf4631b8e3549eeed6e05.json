@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8 UPPERCASE", "description": "Type Georgian text in Mtavruli (uppercase) script", "version": "1.1", "action": {"default_popup": "popup.html", "default_title": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8 UPPERCASE"}}

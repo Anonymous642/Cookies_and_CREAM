@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Cookie Clearer", "manifest_version": 3, "version": "2.5", "description": "Uses the chrome.cookies API by letting a user delete their cookies via a popup.", "permissions": ["cookies"], "host_permissions": ["<all_urls>"], "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Noble Fixed Text Copy", "version": "1.0.0", "description": "Copy a predefined text instantly from the popup (offline).", "action": {"default_title": "Fixed Text Copy", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

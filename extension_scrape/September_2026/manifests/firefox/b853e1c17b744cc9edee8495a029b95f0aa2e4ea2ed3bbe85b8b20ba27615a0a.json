@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "morseCodeMap", "version": "1.0", "description": "Generates hashed passwords from Morse.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html"}, "content_security_policy": "script-src 'self'; object-src 'self'", "browser_specific_settings": {"gecko": {"id": "{56e10900-ac3e-4915-9e11-804b5b4fad9d}"}}}

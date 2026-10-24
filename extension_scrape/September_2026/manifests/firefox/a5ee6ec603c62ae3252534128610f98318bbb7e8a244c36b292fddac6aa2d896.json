@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Focus Timer", "version": "1.0", "description": "A simple Pomodoro-style timer to boost your productivity.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{fb61c441-7246-4aed-a35d-1e6534390f38}"}}}

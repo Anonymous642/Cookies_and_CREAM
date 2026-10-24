@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "XAF to KHR", "version": "1.0", "description": "Convert Central African CFA francs to Cambodian riels", "browser_specific_settings": {"gecko": {"id": "xaf-to-khr@example.com"}}}

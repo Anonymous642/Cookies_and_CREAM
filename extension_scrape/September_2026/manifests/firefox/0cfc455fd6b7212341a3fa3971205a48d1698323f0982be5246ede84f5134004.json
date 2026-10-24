@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Spooky Game Night Picker", "version": "1.0", "description": "Generate random horror-themed group or solo games for a thrilling evening.", "permissions": [], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "merrill4wrighthcue409@hotmail.com"}}}

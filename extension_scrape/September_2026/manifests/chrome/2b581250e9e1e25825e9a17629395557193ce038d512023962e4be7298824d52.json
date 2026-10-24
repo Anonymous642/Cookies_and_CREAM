@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Spotify copy text", "description": "Allows you to copy text on the Spotify.com website", "version": "1.2", "manifest_version": 3, "action": {"default_icon": {"128": "copy128.png"}}, "content_scripts": [{"matches": ["https://*.spotify.com/*"], "js": ["content.js"]}]}

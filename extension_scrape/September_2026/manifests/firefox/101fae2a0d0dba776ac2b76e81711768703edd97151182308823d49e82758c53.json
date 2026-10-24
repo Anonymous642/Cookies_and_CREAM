@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LNER Time Selector Extension", "version": "1.0", "description": "Modify time options on LNER booking form.", "permissions": ["https://www.lner.co.uk/*"], "content_scripts": [{"matches": ["https://www.lner.co.uk/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{40793f92-8343-4bae-8ecd-a496574f5647}"}}}

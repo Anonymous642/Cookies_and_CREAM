@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Otodom Dates", "version": "1.1", "description": "Wy\u015bwietla dat\u0119 dodania i modyfikacji og\u0142oszenia na otodom.pl", "permissions": [], "content_scripts": [{"matches": ["https://www.otodom.pl/pl/oferta/*"], "js": ["content.js"], "css": ["style.css"]}], "browser_specific_settings": {"gecko": {"id": "wilczynskiwm@gmail.com"}}}

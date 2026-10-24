@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Upwork Payment Verified Filter", "version": "1.2", "description": "Toggle to show/hide jobs without payment verified badge.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{5dc9ba8c-ed28-49de-a4ad-c45b687ae39e}"}}}

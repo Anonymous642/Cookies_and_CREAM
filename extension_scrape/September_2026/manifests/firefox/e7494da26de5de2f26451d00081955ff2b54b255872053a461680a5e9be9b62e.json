@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TwitchPointsAutoclicker", "version": "1.0", "description": "Twitch community points autoclicker", "applications": {"gecko": {"id": "e-streltsov@mail.ru", "strict_min_version": "48.0"}}, "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["twitchPointsClicker.js"]}]}

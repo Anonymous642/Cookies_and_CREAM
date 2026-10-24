@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My Simple Addon", "version": "1.0", "description": "Addon \u0111\u01a1n gi\u1ea3n m\u1edf m\u1ed9t trang web", "background": {"scripts": ["background.js"]}, "browser_action": {"default_title": "M\u1edf trang web"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{274dd745-b989-4d8d-afae-77d2ef8d8613}"}}}

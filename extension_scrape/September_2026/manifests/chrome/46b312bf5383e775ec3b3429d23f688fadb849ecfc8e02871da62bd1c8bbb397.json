@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Wan 2.7 Video Generator", "version": "1.0.0", "description": "Quickly enhance and process any web image using Wan 2.7 AI tools.", "permissions": ["contextMenus"], "background": {"service_worker": "background.js"}, "icons": {"128": "icon.png"}, "homepage_url": "https://wan2-7.io"}

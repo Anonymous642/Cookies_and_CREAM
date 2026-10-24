@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Alty - Partager des pistes d'emploi", "description": "Cette extension permet de partager des pistes/offres \u00e0 Alty", "version": "1.0.2", "manifest_version": 3, "action": {"default_popup": "popup.html", "default_icon": "assets/logo/alty_icon.png"}}

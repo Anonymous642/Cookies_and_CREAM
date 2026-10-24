@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ZenBits - Short Life Lessons", "version": "1.0.0", "description": "Receive short, impactful life lessons and stoic wisdom to guide your day.", "action": {"default_popup": "popup.html", "default_title": "Daily Wisdom"}, "icons": {"128": "icon128.png"}}

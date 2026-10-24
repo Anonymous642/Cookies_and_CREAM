@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DiffGuide Search", "version": "1.0.0", "description": "Quickly search for articles and guides on DiffGuide.com through WordPress or Google site search.", "action": {"default_popup": "popup.html", "default_title": "DiffGuide Search"}, "icons": {"48": "icon.png", "128": "icon.png"}}

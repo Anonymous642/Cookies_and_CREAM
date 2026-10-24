@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "volky-theme", "version": "0.1.0", "description": "Volky", "default_locale": "tr", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["bookmarks", "search"]}

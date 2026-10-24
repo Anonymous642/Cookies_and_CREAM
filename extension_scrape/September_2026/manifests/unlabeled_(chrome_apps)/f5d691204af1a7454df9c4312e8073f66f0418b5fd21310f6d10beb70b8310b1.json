@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SculptGL", "description": "A WebGL digital sculpting app.", "version": "0.9.0.2", "manifest_version": 2, "app": {"urls": [], "launch": {"container": "panel", "height": 768, "width": 1024, "web_url": "http://stephaneginier.com/sculptgl"}}, "icons": {"16": "icon-16.png", "128": "icon-128.png"}}

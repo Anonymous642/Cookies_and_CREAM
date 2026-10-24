@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Marvins Browser Extensions", "description": "Marvins usefully Browser Extensions for YouTube", "version": "3.0.0", "manifest_version": 3, "content_scripts": [{"js": ["youtube.js"], "matches": ["https://www.youtube.com/*"]}]}

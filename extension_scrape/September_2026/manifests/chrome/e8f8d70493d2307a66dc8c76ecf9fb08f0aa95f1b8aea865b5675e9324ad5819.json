@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SRQ's Alarm!!", "version": "1.0", "description": "Set the timer in seconds and I will alert you when that time is due! - Made by SRQ", "action": {"default_popup": "popup.html"}, "background": {"service_worker": "background.js"}, "permissions": ["notifications"]}

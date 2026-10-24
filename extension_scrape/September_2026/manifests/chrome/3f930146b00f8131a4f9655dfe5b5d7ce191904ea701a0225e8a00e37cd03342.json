@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Spinning Cat (OIIA) Button For X", "version": "2", "description": "Adds a spinning cat to the toolbar when creating a post on x.com to easily access spinning cat remixes", "content_scripts": [{"matches": ["https://x.com/*"], "js": ["content.js"]}]}

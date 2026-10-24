@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Case Converter", "version": "1.0", "description": "Input text and convert it to UPPERCASE, lowercase, or Capitalized Case.", "action": {"default_popup": "popup.html", "default_icon": "case_converter.png"}, "icons": {"128": "case_converter.png"}, "browser_specific_settings": {"gecko": {"id": "l0alexshearermmnh268@hotmail.com"}}}

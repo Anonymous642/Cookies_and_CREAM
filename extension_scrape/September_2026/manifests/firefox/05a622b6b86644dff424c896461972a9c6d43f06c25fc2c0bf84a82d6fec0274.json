@@ -1,0 +1,1 @@
+{"version": "1.0.2", "name": "Steam Train at the Station", "chrome_url_overrides": {"newtab": "index.html"}, "description": "The image depicts a classic steam train stationed at a platform in the evening.", "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{a25c4946-1a0f-4a7f-a5d4-731957c91aaa}"}}}

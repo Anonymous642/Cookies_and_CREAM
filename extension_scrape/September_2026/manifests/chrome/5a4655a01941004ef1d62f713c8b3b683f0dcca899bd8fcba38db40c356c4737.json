@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GemKits", "version": "1.0", "description": "A toolkit manager for Gemini that adds extra features.", "action": {"default_popup": "index.html"}, "content_scripts": [{"js": ["content.js"], "matches": ["https://gemini.google.com/app/*"]}]}

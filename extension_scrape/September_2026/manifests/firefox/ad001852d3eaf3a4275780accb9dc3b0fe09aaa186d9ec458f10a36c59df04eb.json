@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hashtag Generator", "version": "1.0", "browser_action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{2e945fc6-745c-46e4-90c1-de20f37dc2d3}"}}}

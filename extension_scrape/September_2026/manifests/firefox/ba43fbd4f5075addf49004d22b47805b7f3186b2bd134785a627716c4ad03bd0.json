@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "JSAddFree", "version": "1.4resigned1", "description": "Supprime les derni\u00e8res pubs de J*pscan.", "content_scripts": [{"matches": ["*://*.japscan.com/*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{8fc4194f-7a74-48d0-a7ad-937f36c50655}"}}}

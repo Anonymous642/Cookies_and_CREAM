@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute Anime Quote Generator", "version": "1.0.0", "description": "Get cute anime-style quote ideas instantly\u2014offline and easy to copy.", "action": {"default_title": "Anime Quotes", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

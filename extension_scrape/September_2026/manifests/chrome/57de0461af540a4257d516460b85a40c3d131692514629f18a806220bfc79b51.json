@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Eevee Night Sky", "version": "1.0.0", "description": "Featuring the beloved Eevee gazing into a peaceful, starlit blue sky.", "icons": {"128": "188987.png"}, "permissions": ["geolocation"], "chrome_url_overrides": {"newtab": "index.html"}}

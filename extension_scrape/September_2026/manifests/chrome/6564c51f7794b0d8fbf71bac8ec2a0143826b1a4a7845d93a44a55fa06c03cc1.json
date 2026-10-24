@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "background": {"service_worker": "js/service-worker.js"}, "default_locale": "en", "icons": {"16": "img/icon-16.png", "48": "img/icon-48.png", "128": "img/icon-128.png"}, "manifest_version": 3, "name": "Call to Selection", "permissions": ["activeTab", "contextMenus", "scripting"], "version": "0.1.0"}

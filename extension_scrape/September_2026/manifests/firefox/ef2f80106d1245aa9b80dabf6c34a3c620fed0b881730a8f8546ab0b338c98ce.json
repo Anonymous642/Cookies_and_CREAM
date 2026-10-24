@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tribuni Scaling", "version": "1.1resigned1", "description": "Fix scaling issues in site 'tribuni.fi' on mobile phones.", "content_scripts": [{"matches": ["*://*.tribuni.fi/*"], "js": ["scaling.js"]}], "browser_specific_settings": {"gecko": {"id": "{a198ced3-7575-4af2-9c43-b963306af49e}"}}}

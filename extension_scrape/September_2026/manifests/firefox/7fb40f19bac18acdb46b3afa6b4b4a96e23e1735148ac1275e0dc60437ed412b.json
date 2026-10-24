@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83c\udf3f Secure Password Generator", "version": "1.0", "description": "Generate secure passwords with custom length and green leaf style UI.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "lepridboviedto@hotmail.com"}}}

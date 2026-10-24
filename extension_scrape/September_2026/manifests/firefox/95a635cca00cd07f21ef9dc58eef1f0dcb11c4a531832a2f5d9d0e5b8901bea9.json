@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "JPY to CNY Converter", "version": "1.0", "description": "Convert Japanese Yen (JPY) to Chinese Yuan (CNY) instantly.", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/*"], "browser_specific_settings": {"gecko": {"id": "{17b49304-8c9b-4fd1-a9d8-323a67352c98}"}}}

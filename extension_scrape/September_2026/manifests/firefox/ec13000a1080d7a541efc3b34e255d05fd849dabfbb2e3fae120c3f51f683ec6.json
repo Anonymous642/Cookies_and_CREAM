@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "save-as-pdf-from-context-menu", "description": "save-as-pdf-from-context-menu", "version": "0.1.0", "background": {"scripts": ["background.js"]}, "permissions": ["menus", "activeTab"], "browser_specific_settings": {"gecko": {"id": "{288f1be7-2499-4380-8ea0-ae14be842577}", "strict_min_version": "81.0"}}}

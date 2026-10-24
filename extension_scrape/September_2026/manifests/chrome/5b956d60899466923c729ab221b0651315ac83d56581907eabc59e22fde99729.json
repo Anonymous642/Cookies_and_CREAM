@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Productive New Tab", "description": "Start your day with Productive New Tab, the Chrome extension that streamlines your workflow.", "version": "1.1", "default_icon": "icon.png", "chrome_url_overrides": {"newtab": "index.html"}}

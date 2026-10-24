@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cybozu Report Shortcut", "description": "Help report faster, easier and effective", "version": "2.1", "icons": {"128": "icon-128.png"}, "content_scripts": [{"matches": ["https://*.cybozu.com/k/692/*"], "js": ["/resources/scripts/jquery.js", "/scripts/content.js"]}]}

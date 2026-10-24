@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Taobao URL Enricher", "version": "2.0", "description": "Auto-adds spm/mi_id params to bare Taobao item URLs", "permissions": ["webRequest", "webRequestBlocking", "storage", "*://*.taobao.com/*"], "background": {"scripts": ["background.js"], "persistent": true}, "browser_specific_settings": {"gecko": {"id": "taobao-enricher@yourdomain.example"}}}

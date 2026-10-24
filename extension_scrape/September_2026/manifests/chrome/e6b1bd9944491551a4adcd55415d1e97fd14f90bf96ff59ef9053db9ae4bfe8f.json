@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Recode", "version": "1.0.1", "icons": {"128": "icon.png"}, "permissions": ["scripting", "storage", "unlimitedStorage", "activeTab", "tabs"], "host_permissions": ["<all_urls>"], "action": {"default_popup": "editor.html"}, "background": {"service_worker": "script.js"}}

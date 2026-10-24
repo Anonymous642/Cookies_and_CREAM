@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MyCard Tools", "version": "1.0", "description": "MyCard\u8cc7\u8a0a\u5feb\u901f\u6309\u9215\uff0c\u96a8\u6642\u638c\u63e1\u6700\u65b0\u8cc7\u8a0a", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["styles.css"]}], "icons": {"128": "mycard.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Close Confirmation", "version": "1.0", "description": "Asks for confirmation before closing a tab.", "background": {"scripts": ["background.js"]}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{361326f9-840d-4d98-8d14-1abeac511352}"}}}

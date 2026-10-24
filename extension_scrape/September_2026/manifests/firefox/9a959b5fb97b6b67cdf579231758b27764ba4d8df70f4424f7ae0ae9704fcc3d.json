@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Kizeo Forms Launcher", "version": "1.0", "description": "Opens Kizeo Forms app from FireFox browser on Android", "browser_specific_settings": {"gecko": {"id": "module_kizeo_deeplink@ngeinfranet.fr", "strict_min_version": "109.0"}}, "permissions": ["tabs", "webNavigation"], "background": {"scripts": ["background.js"]}}

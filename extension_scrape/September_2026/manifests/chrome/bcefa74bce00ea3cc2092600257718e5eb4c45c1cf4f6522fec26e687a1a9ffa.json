@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DNS Checker", "version": "1.0.1", "description": "Check DNS information via IntoDNS", "action": {"default_icon": "icon.png"}, "permissions": ["tabs"], "background": {"service_worker": "background.js"}, "icons": {"48": "icon.png"}}

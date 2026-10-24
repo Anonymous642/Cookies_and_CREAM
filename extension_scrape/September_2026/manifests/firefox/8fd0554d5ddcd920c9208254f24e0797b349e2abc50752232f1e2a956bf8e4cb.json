@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "instaread", "version": "1.1resigned1", "description": "Read your page in a better way", "icons": {"48": "icons/main.png"}, "permissions": ["activeTab", "contextMenus"], "background": {"scripts": ["context.js"]}, "browser_specific_settings": {"gecko": {"id": "{0f69e735-1ffb-4103-9cff-5d2bd5d3ca41}"}}}

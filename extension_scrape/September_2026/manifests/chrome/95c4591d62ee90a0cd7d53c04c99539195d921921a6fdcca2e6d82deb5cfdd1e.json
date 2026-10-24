@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Coin Flip Mini", "description": "A simple coin flip extension that lets users randomly flip a coin from the Chrome toolbar.", "version": "1.0.0", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon.png"}}, "icons": {"128": "icon.png"}}

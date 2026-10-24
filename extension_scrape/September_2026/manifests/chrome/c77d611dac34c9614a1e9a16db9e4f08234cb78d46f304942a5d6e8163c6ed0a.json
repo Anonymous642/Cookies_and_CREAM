@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Window Resizer", "version": "1.0", "description": "\u8c03\u6574 Chrome \u6d4f\u89c8\u5668\u7a97\u53e3\u5927\u5c0f\u7684\u5de5\u5177", "permissions": ["windows"], "action": {"default_popup": "index.html", "default_icon": "logo.png"}, "icons": {"48": "logo.png", "128": "logo.png"}}

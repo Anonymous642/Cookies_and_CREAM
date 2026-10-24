@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Calculadora de Dimens\u00f5es PDF", "version": "1.0", "description": "Calcula as dimens\u00f5es em pixels com base no tamanho em mm e DPI.", "icons": {"48": "icon.png"}, "permissions": [], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "calculadora-dimensoes@wsdney.com"}}}

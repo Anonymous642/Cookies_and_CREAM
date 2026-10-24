@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YT shorts redirector", "description": "Redirects YT shorts pages to watch pages", "version": "1.0", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "all_frames": true, "run_at": "document_start", "js": ["contentScript.js"]}], "browser_specific_settings": {"gecko": {"id": "{05c80ef2-1d56-4b1a-bdfd-eeae72488b1c}"}}}

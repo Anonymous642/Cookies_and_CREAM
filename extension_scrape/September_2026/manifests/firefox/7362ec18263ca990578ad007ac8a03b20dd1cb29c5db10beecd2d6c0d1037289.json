@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Goto Bookmarks", "version": "1.0", "description": "Open your saved bookmarks via the omnibox by typing 'goto <query>'", "permissions": ["tabs", "bookmarks"], "omnibox": {"keyword": "goto"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "goto-bookmarks-prod@example.com"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GFY No Politics", "version": "0.2", "description": "Hides all politics posts from the gfy.com forums.", "homepage_url": "https://adultwebdev.com/", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["https://gfy.com/*"], "js": ["jquery-3.5.1.min.js", "gfy.js"]}]}

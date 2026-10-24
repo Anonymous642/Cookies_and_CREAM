@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CHF to PLN Converter", "version": "1.0", "description": "A simple converter for CHF to PLN.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{d3f7fc09-f59f-4e5b-918b-df24d5042129}"}}}

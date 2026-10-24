@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Blog Name Generator (Simple)", "version": "1.0.0", "description": "Generate simple blog name ideas from a keyword.", "action": {"default_title": "Blog Name Generator", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TabSaver Pro", "version": "1.0", "description": "Saves and restores tab groups for easier management.", "icons": {"48": "icon.png"}, "permissions": ["tabs", "storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{35272537-c68d-46f5-bdd6-34df3ab936f6}"}}}

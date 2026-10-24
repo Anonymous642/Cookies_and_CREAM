@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "purify Amazon URL", "version": "1.5", "description": "Purify bloated url of Amazon and reload tab.", "icons": {"48": "icons/48.png"}, "permissions": ["tabs", "contextMenus"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{6aa476bd-cc28-4b82-8a96-1d3c3a309731}"}}}

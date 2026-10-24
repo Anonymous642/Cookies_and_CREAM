@@ -1,0 +1,1 @@
+{"name": "Simple new tab page", "description": "A simple new tab page", "version": "1.0.3resigned1", "short_name": "simplentp", "manifest_version": 2, "default_locale": "en", "chrome_url_overrides": {"newtab": "pages/newtab.html"}, "permissions": ["bookmarks"], "browser_specific_settings": {"gecko": {"id": "{86426900-c3bb-4957-8e56-428268c5c6a2}"}}}

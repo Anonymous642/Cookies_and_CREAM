@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Search Selector", "version": "1.0", "description": "Right-click to search selected text on Google, Wikipedia, or YouTube.", "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{3e9b7c3b-4e90-46c9-8ed0-efd5db563f8d}"}}}

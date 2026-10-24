@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Dreaming Spanish - Lights Out (unofficial)", "version": "1.0", "description": "Dark mode for Dreaming Spanish.", "icons": {"16": "small.png", "48": "medium.png", "128": "big.png"}, "content_scripts": [{"matches": ["https://*.dreamingspanish.com/*"], "css": ["styles.css"]}]}

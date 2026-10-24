@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83d\udc98 Caption Generator", "version": "1.0", "description": "Get random captions for flirting, moods, friendship, cool quotes, and fun!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "pleaujcelynxee@hotmail.com"}}}

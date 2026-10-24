@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GetSafeKey - Password Generator", "version": "1.1.1", "description": "Generate secure passwords directly in your browser.", "action": {"default_popup": "popup.html"}, "permissions": ["clipboardWrite", "storage"]}

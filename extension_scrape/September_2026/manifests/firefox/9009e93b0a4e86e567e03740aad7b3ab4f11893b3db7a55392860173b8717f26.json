@@ -1,0 +1,1 @@
+{"name": "Cashfree Order Source Decrypter", "description": "Easy Tool to Decrypt Order Sources created by Cashfree", "version": "1.0.2", "manifest_version": 2, "browser_action": {"default_popup": "source.html", "default_icon": "source_logo.png"}, "browser_specific_settings": {"gecko": {"id": "{f36eaac3-868c-46ff-a867-789ff9caf233}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Texas Hold'em Poker", "version": "1.0", "description": "Play Texas Hold'em Poker right in your browser", "action": {"default_popup": "popup.html", "default_title": "Texas Hold'em"}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

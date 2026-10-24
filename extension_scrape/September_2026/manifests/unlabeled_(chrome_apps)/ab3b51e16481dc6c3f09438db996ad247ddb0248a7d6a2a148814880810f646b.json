@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "M Food", "description": "HYUNDAI MNSOFT", "version": "3", "minimum_chrome_version": "24", "icons": {"128": "ico_mfood.png"}, "app": {"background": {"scripts": ["main.js"]}}, "permissions": ["webview"]}

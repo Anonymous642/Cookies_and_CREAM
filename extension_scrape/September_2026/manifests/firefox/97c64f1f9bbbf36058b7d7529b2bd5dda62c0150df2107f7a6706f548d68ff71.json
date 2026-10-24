@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PHP to VND Converter", "version": "1.0", "description": "Convert Philippine Peso (PHP) to Vietnamese Dong (VND).", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/"], "browser_specific_settings": {"gecko": {"id": "{6991afdf-286a-4af9-8ccd-ea2b9edd0def}"}}}

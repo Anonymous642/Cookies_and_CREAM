@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Easy-scanvf", "version": "1.0", "description": "Met \u00e0 jours le mode de lecture \u00e0 'Tout dans une page' automatiquement.", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.scan-vf.net/*"], "js": ["setup.js"]}], "browser_specific_settings": {"gecko": {"id": "easyscanvf@gmail.com"}}}

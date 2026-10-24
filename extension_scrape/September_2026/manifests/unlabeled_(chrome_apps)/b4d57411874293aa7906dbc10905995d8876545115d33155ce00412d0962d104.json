@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "cart2india", "description": "cart2india brings shopping from accross the world, to your Chrome browser.", "version": "1.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://cart2india.com/"], "launch": {"web_url": "http://cart2india.com/"}}}

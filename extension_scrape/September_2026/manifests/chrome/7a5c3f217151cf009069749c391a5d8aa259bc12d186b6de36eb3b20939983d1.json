@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Site: Seo Check in Google", "action": {}, "manifest_version": 3, "version": "1", "icons": {"48": "icon48.png"}, "description": "Get your Site: in google in 1 second, with minimum hassle.", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "My Tools", "version": "1.0.0", "description": "Quick utilities for transportation management.", "browser_specific_settings": {"gecko": {"id": "my-tools-umar@example.com", "data_collection_permissions": {"required": ["none"]}}}, "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

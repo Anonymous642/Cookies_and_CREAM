@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Custom Tab Themes", "version": "1.0", "description": "Set your own background image or pick from a theme library for your new tab.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["storage"], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{a2892f1c-2636-4308-8d76-cab136f6b3c9}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Lido App", "version": "1.0.2", "manifest_version": 3, "icons": {"16": "favicon.png", "128": "favicon_128.png"}, "background": {"service_worker": "script.js"}, "action": {"default_icon": "favicon.png", "default_popup": "../html/lldo.html"}, "permissions": ["alarms"]}

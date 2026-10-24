@@ -1,0 +1,1 @@
+{"homepage_url": "https://github.com/fridtjof/nordic-doc-titles", "manifest_version": 2, "name": "Nordic Doc Titles", "version": "1.0", "description": "Adds titles to documentation on infocenter.nordicsemi.com", "content_scripts": [{"matches": ["*://infocenter.nordicsemi.com/*"], "js": ["nordic_doc_titles.js"]}]}

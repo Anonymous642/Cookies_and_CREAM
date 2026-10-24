@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "remove style tag", "version": "1.0.0", "icons": {"16": "logo/16.png", "48": "logo/48.png", "128": "logo/128.png"}, "description": "remove style tag in editor", "content_scripts": [{"matches": ["https://*.docbase.io/posts/*/edit"], "js": ["content.js"]}]}

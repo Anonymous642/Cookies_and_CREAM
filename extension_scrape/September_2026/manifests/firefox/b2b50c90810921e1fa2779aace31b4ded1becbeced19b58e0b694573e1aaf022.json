@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Synonym Finder", "version": "1.0", "description": "Find synonyms for a given word.", "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "permissions": ["activeTab", "https://api.datamuse.com/"], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{5158fba8-2a9a-4913-8714-b76a4b3d5ef1}"}}}

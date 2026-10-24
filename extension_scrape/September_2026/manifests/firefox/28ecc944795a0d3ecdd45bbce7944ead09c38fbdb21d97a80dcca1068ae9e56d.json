@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hello World", "description": "This is my first Browser extension and you can type in your name and it will say Hi and then your name.", "version": "1.0.2resigned1", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{50d18785-9d59-456b-ae32-74719938c52e}"}}}

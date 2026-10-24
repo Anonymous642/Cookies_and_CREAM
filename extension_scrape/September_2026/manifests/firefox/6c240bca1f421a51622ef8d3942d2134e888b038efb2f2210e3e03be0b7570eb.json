@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Paypal Recurring Payments Dashboard Exporter", "version": "0.1", "description": "Export to CSV paypal data from Recurring Payments Dashboard", "icons": {"48": "icons/paypal-expoter.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/paypal-expoter.png", "default_title": "Export", "default_popup": "popup/popup.html"}}

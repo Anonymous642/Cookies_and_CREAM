@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Erro e Acerto", "description": "Contabilize seus erros e acertos de forma simples e eficiente.", "version": "0.1", "manifest_version": 3, "action": {"default_popup": "index.html"}}

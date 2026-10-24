@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Auto Evaluator Extension", "version": "3.0", "description": "Automatically evaluate professors with one click.", "action": {"default_popup": "popup.html"}, "permissions": ["activeTab", "scripting"]}

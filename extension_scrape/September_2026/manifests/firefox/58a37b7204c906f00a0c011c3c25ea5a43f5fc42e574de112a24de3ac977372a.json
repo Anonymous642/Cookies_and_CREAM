@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Caption Styler", "version": "1.0", "description": "Customize video captions with adjustable text size and color.", "permissions": [], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{31e9a168-ea22-49ce-99e8-3a498b3a0f25}"}}}

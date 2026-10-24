@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "InfoSnag", "version": "1.110", "description": "Extract IP addresses or subjects from a webpage", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}, "icons": {"48": "icons/icon48.png", "128": "icons/icon128.png"}}

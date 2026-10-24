@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Convertisseur de Casse", "version": "1.0.0", "description": "Convertit le texte en majuscules, minuscules ou titre", "permissions": ["clipboardWrite"], "browser_action": {"default_popup": "popup.html", "default_title": "Convertisseur de Casse"}, "browser_specific_settings": {"gecko": {"id": "{75b789ac-b1d2-448e-82ec-0e9a93af37f7}"}}}

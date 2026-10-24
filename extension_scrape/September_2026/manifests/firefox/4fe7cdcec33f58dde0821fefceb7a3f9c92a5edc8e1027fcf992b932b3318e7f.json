@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SeoTool", "version": "6.0", "permissions": ["cookies", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_action": {}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["popup.js"], "run_at": "document_end"}]}

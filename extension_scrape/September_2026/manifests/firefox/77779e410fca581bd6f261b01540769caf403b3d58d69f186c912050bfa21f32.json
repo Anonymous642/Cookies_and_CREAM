@@ -1,0 +1,1 @@
+{"name": "20-20-20 Rule", "description": "A reminder to look away every 20 minutes at an object that is about 20 feet away for a full 20 seconds.", "version": "1.0", "manifest_version": 2, "icons": {"349": "eye.jpg"}, "permissions": ["alarms", "notifications"], "background": {"scripts": ["main.js"]}, "applications": {"gecko": {"strict_min_version": "55.0a2"}}}

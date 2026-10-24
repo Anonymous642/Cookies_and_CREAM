@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "twitter-img-url-changer", "version": "1.0", "description": "Changes GET request for twitter images to request the best image quality possible", "content_scripts": [{"matches": ["https://pbs.twimg.com/media/*name=*"], "js": ["changer.js"]}], "browser_specific_settings": {"gecko": {"id": "{78f22731-fc47-406b-b22c-a4f301bb7324}"}}}

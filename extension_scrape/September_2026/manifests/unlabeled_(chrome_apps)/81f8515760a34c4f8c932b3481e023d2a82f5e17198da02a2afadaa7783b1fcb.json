@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Flashcards for Kids", "version": "1.0.3", "manifest_version": 2, "minimum_chrome_version": "29", "app": {"background": {"scripts": ["main.js"]}}, "icons": {"128": "/images/app_icon.png"}, "offline_enabled": false, "permissions": ["storage", "https://s3-us-west-2.amazonaws.com/*"]}

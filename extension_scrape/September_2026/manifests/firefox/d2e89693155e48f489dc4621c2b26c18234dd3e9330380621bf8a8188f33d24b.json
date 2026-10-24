@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Spamurai", "version": "1.2resigned1", "description": "Blocks static google iframe ads.", "icons": {"48": "icons/ic_48.png", "96": "icons/ic_96.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["spamurai.js"]}], "browser_specific_settings": {"gecko": {"id": "{f961714e-14aa-498f-966b-7bd35c720700}"}}}

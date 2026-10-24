@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "c0micsans43v3r", "version": "1.2resigned1", "description": "Turns everything into Comic Sans", "icons": {"48": "icon-48.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["c0micsans43v3r.js"]}], "browser_specific_settings": {"gecko": {"id": "{903a1a55-2818-4e2b-9589-3b0c2bc96b47}"}}}

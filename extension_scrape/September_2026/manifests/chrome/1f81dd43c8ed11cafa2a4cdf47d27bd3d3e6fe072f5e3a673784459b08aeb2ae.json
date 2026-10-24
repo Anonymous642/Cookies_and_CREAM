@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "RPS GPA Calculator", "version": "2.0", "permissions": ["activeTab", "scripting"], "icons": {"16": "Images/RPS_Seal_16.png", "32": "Images/RPS_Seal_32.png", "48": "Images/RPS_Seal_48.png", "128": "Images/RPS_Seal_128.png"}, "action": {"default_popup": "window.html"}}

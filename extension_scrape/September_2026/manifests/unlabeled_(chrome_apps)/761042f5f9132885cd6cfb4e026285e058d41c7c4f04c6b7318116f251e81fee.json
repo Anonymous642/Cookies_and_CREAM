@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "STLP", "description": "Kentucky\u2019s Student Technology Leadership Program", "version": "0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://stlp.education.ky.gov/"], "launch": {"web_url": "http://stlp.education.ky.gov/"}}}

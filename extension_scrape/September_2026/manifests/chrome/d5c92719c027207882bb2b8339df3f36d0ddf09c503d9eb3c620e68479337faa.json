@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Web Audio Recorder", "version": "1.0", "description": "Record audio from any webpage with video or audio elements", "permissions": ["activeTab", "tabCapture"], "action": {"default_popup": "popup.html", "default_title": "Web Audio Recorder"}}

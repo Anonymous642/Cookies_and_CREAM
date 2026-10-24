@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Image Downloader", "version": "1.0", "description": "Download all page images.", "action": {"default_popup": "popup.html", "default_icon": "image_downloader.png"}, "icons": {"128": "image_downloader.png"}, "browser_specific_settings": {"gecko": {"id": "ingramh8071982wexhe@hotmail.com"}}}

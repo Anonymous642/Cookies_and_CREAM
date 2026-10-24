@@ -1,0 +1,1 @@
+{"name": "Gadget Reviewers", "description": "A simple extension that helps you to find the best gadgets like Tablets, Smart Phone and Laptop by reading their best reviews", "version": "0.0.0.6", "background": {"scripts": ["background.js"], "persistent": false}, "permissions": [], "browser_action": {}, "manifest_version": 2, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sport Car", "description": "A beautiful sport car", "version": "1.0", "chrome_url_overrides": {"newtab": "newpage.html"}, "background": {"service_worker": "background.js"}, "action": {"default_popup": "newpage.html"}}

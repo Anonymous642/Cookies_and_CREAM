@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Weekday Checker", "description": "Alerts when you type a day of the week and date, but they don't appear to match", "version": "0.1.0", "manifest_version": 3, "content_scripts": [{"matches": ["<all_urls>"], "js": ["dist/content.js"]}]}

@@ -1,0 +1,23 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "name": "Steins;Gate Live Wallpaper",
+  "version": "1.0.0",
+  "description": "Steins;Gate New Tab: live wallpaper, most-visited shortcuts, locale clock, and search via your default engine.",
+  "minimum_chrome_version": "96",
+  "icons": {
+    "16": "assets/icons/icon16.png",
+    "48": "assets/icons/icon48.png",
+    "128": "assets/icons/icon128.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "permissions": [
+    "storage",
+    "favicon",
+    "search",
+    "topSites"
+  ]
+}

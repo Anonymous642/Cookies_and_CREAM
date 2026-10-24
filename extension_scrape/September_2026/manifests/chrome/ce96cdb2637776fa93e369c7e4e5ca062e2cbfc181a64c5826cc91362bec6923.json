@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "UKIPO Quick Search", "version": "1.0", "description": "Right-click a UK trademark number to instantly search the UKIPO database.", "permissions": ["contextMenus"], "background": {"service_worker": "background.js"}, "icons": {"128": "icon.png"}}

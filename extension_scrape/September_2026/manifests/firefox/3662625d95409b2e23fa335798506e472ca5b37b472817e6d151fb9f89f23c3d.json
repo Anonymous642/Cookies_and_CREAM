@@ -1,0 +1,1 @@
+{"name": "volta", "description": "Rotate between tabs at a set interval", "version": "1", "manifest_version": 3, "permissions": ["tabs", "menus"], "icons": {"32": "icon.svg", "64": "icon.svg"}, "browser_specific_settings": {"gecko": {"id": "volta@guineu.dev"}}, "background": {"scripts": ["background.js"]}}

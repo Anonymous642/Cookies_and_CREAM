@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MMK to FJD Converter", "version": "1.0", "description": "Convert Myanmar Kyat (MMK) to Fiji Dollar (FJD).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert MMK to FJD"}, "browser_specific_settings": {"gecko": {"id": "{eedc69b5-167e-4446-be62-d43acedc925f}"}}}

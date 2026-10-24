@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Form AutoFill", "version": "1.0", "description": "Form AutoFill: Auto-fill web forms", "action": {"default_popup": "popup.html", "default_icon": "form_autofill.png"}, "icons": {"128": "form_autofill.png"}, "browser_specific_settings": {"gecko": {"id": "tonyaceriaa136587@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

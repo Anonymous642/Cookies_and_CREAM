@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Whatnot Profit & Margin Auditor", "version": "1.0.0", "description": "Deterministic fee calculator, net payout, and sudden-death auction floor tool for Whatnot sellers.", "action": {"default_popup": "popup.html"}, "permissions": ["storage"]}

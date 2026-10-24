@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MARC Viewer X", "version": "1.0", "description": "Displays MARC files in ISO 2709 format as readable text.", "action": {"default_title": "MARC Viewer X"}, "background": {"service_worker": "background.js"}}

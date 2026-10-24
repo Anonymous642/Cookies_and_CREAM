@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Serene Mountain Peaks", "version": "1.0.0", "description": "Immerse yourself in the breathtaking beauty of nature with Serene Mountain Peaks.", "icons": {"128": "images.png"}, "permissions": ["geolocation"], "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{6d0de722-8580-4a97-9327-2d3a14824088}"}}}

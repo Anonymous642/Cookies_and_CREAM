@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "EmojiBoard", "version": "1.0", "description": "Emojis For v3rmillion.net, Credit to VeteranBlue", "icons": {"48": "icons/syntax.png"}, "content_scripts": [{"matches": ["*://v3rmillion.net/newreply.php?tid=*"], "js": ["source.js"]}]}

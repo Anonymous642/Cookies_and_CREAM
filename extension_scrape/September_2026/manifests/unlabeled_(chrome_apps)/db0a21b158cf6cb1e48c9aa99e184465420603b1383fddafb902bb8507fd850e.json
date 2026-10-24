@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Tapebrain", "description": "Thoughts on movie and tv news spiced up with reviews, cool lists and random gibberish", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["HTTP://TAPEBRAIN.COM/"], "launch": {"web_url": "HTTP://TAPEBRAIN.COM/"}}}

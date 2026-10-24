@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Amasin", "version": "0.0.2resigned1", "description": "Amazon ASIN helper", "permissions": ["contextMenus", "clipboardWrite", "activeTab"], "icons": {"48": "icons/amasin_icon_48.png"}, "background": {"scripts": ["amasin_background.js"]}, "browser_specific_settings": {"gecko": {"id": "{b8e257cf-81a4-4636-bfc0-4f11294ce01d}"}}}

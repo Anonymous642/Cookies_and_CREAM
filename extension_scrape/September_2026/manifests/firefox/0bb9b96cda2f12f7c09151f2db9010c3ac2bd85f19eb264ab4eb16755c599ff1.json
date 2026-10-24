@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OF", "version": "2.3.0", "description": "links OF to the opened game page", "permissions": ["storage"], "icons": {"48": "icons/plum.png"}, "content_scripts": [{"matches": ["https://store.steampowered.com/*"], "js": ["of.js"]}], "browser_specific_settings": {"gecko": {"id": "{05c7ee6e-8c9a-42b1-bcb7-9df729478b67}"}}}

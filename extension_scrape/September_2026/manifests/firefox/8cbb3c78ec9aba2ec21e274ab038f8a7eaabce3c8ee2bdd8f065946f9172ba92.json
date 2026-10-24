@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Password Revealer", "version": "1.0", "description": "Show hidden passwords on any webpage.", "browser_action": {"default_icon": "icon.png", "default_title": "Reveal Passwords"}, "permissions": ["activeTab"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{5bdc819b-1e06-4d3e-a58d-720e7811108b}"}}}

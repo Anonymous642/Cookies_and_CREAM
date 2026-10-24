@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Referer Remover", "version": "1.0", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{8bc2d97f-a13b-444a-9b0f-eda5d82e39a9}"}}}

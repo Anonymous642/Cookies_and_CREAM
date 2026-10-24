@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "__MSG_extensionName__", "description": "__MSG_extensionDescription__", "version": "1.2resigned1", "default_locale": "en", "applications": {"gecko": {"strict_min_version": "56.0a1", "id": "{0edef02c-9abd-4d8e-8ca3-4ee8e9b048d1}"}}, "background": {"scripts": ["background.js"]}, "permissions": ["menus"]}

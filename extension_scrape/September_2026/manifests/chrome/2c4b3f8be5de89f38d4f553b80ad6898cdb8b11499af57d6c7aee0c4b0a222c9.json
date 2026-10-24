@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Avios Value Calculator", "version": "1.0.2", "author": "Jake Stebbings", "description": "Calculates price per Avios point on British Airways booking pages", "content_scripts": [{"matches": ["*://*.britishairways.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

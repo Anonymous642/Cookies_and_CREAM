@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Roblify", "version": "1.0", "description": "Restyle Roblox main site.", "icons": {"48": "icmn.png"}, "content_scripts": [{"matches": ["*://*.roblox.com/*"], "js": ["rbstyle.js"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{20d82e5a-64b5-460a-a146-7c216382df4a}"}}}

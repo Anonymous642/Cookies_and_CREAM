@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Copy URL Extension", "version": "1.0", "description": "Copy current tab URL to clipboard", "permissions": ["tabs", "clipboardWrite"], "action": {"default_popup": "popup.html"}}

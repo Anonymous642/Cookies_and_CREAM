@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "GuitarEndeavor", "description": "Learn guitar with free lessons, scale charts and backing tracks.", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://guitarendeavor.com/"], "launch": {"web_url": "http://guitarendeavor.com/"}}}

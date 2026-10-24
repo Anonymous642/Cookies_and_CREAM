@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Generic Font Names Fixer", "version": "1.4", "description": "Fix the incorrect generic font-family name", "content_scripts": [{"matches": ["*://*/*"], "js": ["gfnf.js"]}], "browser_specific_settings": {"gecko": {"id": "{16011679-f749-4af5-8b16-65caf7d855b5}"}}}

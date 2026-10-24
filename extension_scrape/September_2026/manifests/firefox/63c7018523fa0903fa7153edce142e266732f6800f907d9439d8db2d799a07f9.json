@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AnimePahe Romaji Titles", "version": "1.0", "content_scripts": [{"matches": ["https://animepahe.pw/*"], "js": ["content.js"]}], "permissions": ["https://graphql.anilist.co/", "storage"], "browser_specific_settings": {"gecko": {"id": "animepahe-romaji-titles1@example.com", "data_collection_permissions": {"required": ["none"]}}}}

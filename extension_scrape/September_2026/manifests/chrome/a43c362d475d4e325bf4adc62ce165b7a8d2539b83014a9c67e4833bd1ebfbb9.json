@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Power ALM", "version": "2.3", "description": "Adds custom Deploy and Save Work buttons to the PowerApps Solutions page.", "content_scripts": [{"matches": ["https://make.powerapps.com/*"], "js": ["content.js"]}]}

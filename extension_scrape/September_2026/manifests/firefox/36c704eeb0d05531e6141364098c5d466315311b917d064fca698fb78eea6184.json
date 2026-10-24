@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Nova Defense SOC Tool", "description": "Multifunctional SOC Analyst Tool.", "version": "1.1", "icons": {"48": "icons/logo_48.png"}, "permissions": ["clipboardWrite", "contextMenus", "menus"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "stylia420@gmail.com"}}}

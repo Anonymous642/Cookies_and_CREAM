@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "World Guesser - Play Geo Quiz", "version": "1.0", "description": "The best free geography guessing game. Test your knowledge and guess locations around the world!", "action": {"default_popup": "popup.html", "default_title": "Play World Guesser"}}

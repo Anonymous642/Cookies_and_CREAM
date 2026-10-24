@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TabPop", "version": "1.0.2resigned1", "description": "Automatically switch to a tab received from another device.", "permissions": ["contextMenus"], "background": {"scripts": ["build/classes/main/min/kotlin.js", "build/classes/main/min/TabPop.js"]}, "browser_specific_settings": {"gecko": {"id": "{a9216435-4704-4a97-adbc-8bbd1c574a5d}"}}}

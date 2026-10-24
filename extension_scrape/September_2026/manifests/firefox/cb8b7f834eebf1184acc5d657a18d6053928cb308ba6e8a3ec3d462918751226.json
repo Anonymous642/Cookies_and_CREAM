@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Shashank Chrome Extension", "version": "3.1", "description": "Display motivational quotes", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "browser_specific_settings": {"gecko": {"id": "438911f59aeae942ecd567ef876882ac3d2be06d@shashank-addon"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Focus Timer", "version": "1.0", "description": "B\u1ed9 \u0111\u1ebfm ng\u01b0\u1ee3c Pomodoro gi\u00fap b\u1ea1n t\u1eadp trung l\u00e0m vi\u1ec7c.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{f038a2ed-2015-47d8-b661-5e4c8507d633}"}}}

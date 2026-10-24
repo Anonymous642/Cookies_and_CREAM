@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CW Highlighting", "version": "0.1.1", "description": "Highlights things to make CW more readable", "content_scripts": [{"js": ["cwh-content.js"], "matches": ["https://psa.connectwise.com/*", "https://eu.myconnectwise.net/*"], "run_at": "document_idle"}]}

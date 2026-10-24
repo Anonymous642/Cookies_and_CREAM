@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Rockstar Tab Control", "version": "1.0", "description": "Control audio per tab, close tabs, dark/light mode.", "permissions": ["tabs", "scripting", "storage"], "host_permissions": ["<all_urls>"], "action": {"default_popup": "popup.html"}}

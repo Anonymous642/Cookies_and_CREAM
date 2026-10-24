@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Jump Over Da Busses!!!", "description": "Play Jump Over Da Busses!!!", "version": "1.0", "icons": {"16": "img/Bull.png", "48": "img/Bull.png", "128": "img/Bull.png"}, "action": {"default_icon": "img/Bull.png", "default_popup": "popup.html"}}

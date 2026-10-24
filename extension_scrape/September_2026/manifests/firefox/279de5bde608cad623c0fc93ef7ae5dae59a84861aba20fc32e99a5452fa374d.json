@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Prochat", "version": "1.5", "description": "A simple extension designed to let you quickly access prochat.", "browser_specific_settings": {"gecko": {"id": "prochat@extension", "data_collection_permissions": {"required": ["locationInfo", "personallyIdentifyingInfo"]}}}, "action": {"default_popup": "popup.html"}}

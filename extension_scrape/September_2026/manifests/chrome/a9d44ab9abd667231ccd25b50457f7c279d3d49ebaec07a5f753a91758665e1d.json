@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "bitliq", "version": "1.0", "description": "Bitcoin liquidation heat map.", "permissions": ["activeTab"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "host_permissions": ["https://api.coingecko.com/"], "background": {"service_worker": "background.js"}}

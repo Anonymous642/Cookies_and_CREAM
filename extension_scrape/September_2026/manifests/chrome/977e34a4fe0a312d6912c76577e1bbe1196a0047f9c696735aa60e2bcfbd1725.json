@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Aviator Signal Booster", "version": "8.2.1", "description": "Boost your Aviator game with daily signals and predictions. Fast access via Telegram.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Silent Tab Notifier", "version": "1.0", "description": "Notifies and softens audio when a tab unexpectedly starts making noise after silence.", "permissions": ["tabs", "activeTab"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{b890918e-cbc4-4466-b371-896aac91cfb9}"}}}

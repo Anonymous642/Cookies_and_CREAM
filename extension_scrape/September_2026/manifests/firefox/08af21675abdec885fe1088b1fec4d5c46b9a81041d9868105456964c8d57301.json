@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "URL unescape", "version": "0.9", "author": "Saumon", "default_locale": "en", "background": {"scripts": ["background.js"]}, "permissions": ["menus"], "browser_specific_settings": {"gecko": {"id": "{279c9334-bff4-4f4c-a069-76aeb472017c}"}}}

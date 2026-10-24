@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Tab De-Duper", "version": "1.0", "description": "Tab De-Duper: Close duplicate tabs.", "action": {"default_popup": "popup.html", "default_icon": "tab_de-duper.png"}, "icons": {"128": "tab_de-duper.png"}, "browser_specific_settings": {"gecko": {"id": "glorybeebucknerh44328@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

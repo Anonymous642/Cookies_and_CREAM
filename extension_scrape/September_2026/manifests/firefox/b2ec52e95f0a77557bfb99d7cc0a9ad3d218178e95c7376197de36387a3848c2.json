@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VFB Bot", "version": "1.5", "description": "Its a bot.", "content_scripts": [{"matches": ["*://*.valkyriesfall.com/game*"], "js": ["index.js"]}]}

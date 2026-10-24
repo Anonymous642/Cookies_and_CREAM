@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Distractless", "version": "1.1", "description": "Removes suggested videos list", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["https://www.youtube.com/watch*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{4e155031-b6f2-46ca-b69f-d3df6988fb30}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Offline Note Taker", "version": "1.0", "description": "Take and save notes offline.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_title": "Offline Note Taker"}, "browser_specific_settings": {"gecko": {"id": "{da709fff-f4a7-4d40-8a2f-fa31cae74067}"}}}

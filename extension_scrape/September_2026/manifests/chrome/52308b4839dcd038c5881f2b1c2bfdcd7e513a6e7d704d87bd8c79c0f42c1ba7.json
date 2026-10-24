@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple Todo List", "version": "1.0.0", "description": "Create and manage a simple to do list in a clean popup tool.", "action": {"default_title": "Simple Todo List", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

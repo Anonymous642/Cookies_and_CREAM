@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Playlist Name Generator \u2014 Smart Music Vibes", "version": "1.0.0", "description": "Generate creative playlist names based on mood or genre. Offline, stylish, and privacy-safe.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}}

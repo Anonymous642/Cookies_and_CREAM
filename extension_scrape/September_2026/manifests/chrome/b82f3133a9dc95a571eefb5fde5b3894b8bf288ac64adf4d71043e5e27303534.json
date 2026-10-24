@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Amazon Order History Filter", "version": "1.1", "description": "Hides Whole Foods items from the Amazon order history page.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://www.amazon.com/*"], "js": ["src/content.js"]}], "icons": {"48": "icon.png"}}

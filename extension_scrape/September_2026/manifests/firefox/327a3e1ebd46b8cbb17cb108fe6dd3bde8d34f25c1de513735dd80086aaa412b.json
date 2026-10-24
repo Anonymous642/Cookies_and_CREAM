@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Gerenciador de Abas Fixadas", "version": "1.0", "description": "Salva e restaura abas fixadas.", "permissions": ["tabs", "storage"], "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "oto@myextension.com", "data_collection_permissions": {"required": ["none"]}}}}

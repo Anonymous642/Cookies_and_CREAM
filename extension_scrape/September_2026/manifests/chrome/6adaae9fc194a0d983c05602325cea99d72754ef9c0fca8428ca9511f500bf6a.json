@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AliExpress Bundle deals Redirect", "version": "2.0", "description": "Redirects AliExpress Bundle deals to item page automatically", "permissions": ["webNavigation"], "background": {"service_worker": "background.js"}}

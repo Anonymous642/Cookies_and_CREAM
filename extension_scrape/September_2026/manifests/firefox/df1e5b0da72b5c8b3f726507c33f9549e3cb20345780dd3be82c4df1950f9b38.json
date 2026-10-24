@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTMp3 Conversor", "description": "Converte v\u00eddeos para mp3", "version": "1.0", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{02f36ba2-eee7-49be-b86b-b683d644f0b5}"}}}

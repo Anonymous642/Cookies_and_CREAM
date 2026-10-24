@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "What's My IP", "description": "Get your public IP address", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "popup.html", "default_icon": {"64": "logo-64.png", "128": "logo-128.png"}}, "icons": {"64": "logo-64.png", "128": "logo-128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Reddit Hide Stickied", "version": "1.0.0.0", "browser_specific_settings": {"gecko": {"id": "reddithide@stickied.org"}}, "content_scripts": [{"js": ["js/content_script.js"], "matches": ["*://www.reddit.com/*"], "all_frames": true, "run_at": "document_start"}]}

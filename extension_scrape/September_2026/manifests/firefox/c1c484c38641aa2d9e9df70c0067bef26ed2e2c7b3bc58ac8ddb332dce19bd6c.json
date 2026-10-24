@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Popup Blocker Plus", "version": "1.0", "description": "Enhanced popup blocking.", "action": {"default_popup": "popup.html", "default_icon": "popup_blocker_plus.png"}, "icons": {"128": "popup_blocker_plus.png"}, "browser_specific_settings": {"gecko": {"id": "maloneykjgjsh9071982@hotmail.com"}}}

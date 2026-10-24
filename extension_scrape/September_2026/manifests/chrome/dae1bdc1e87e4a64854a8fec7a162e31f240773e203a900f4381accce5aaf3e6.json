@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Base64 URL Encoder/Decoder", "version": "1.0.1", "description": "Encode and decode URLs using Base64.", "action": {"default_popup": "popup.html"}}

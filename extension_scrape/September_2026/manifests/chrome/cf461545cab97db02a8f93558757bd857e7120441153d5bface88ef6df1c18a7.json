@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Password Generator Pro", "version": "1.0", "description": "\u5b89\u5168\u3067\u5f37\u529b\u306a\u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u7c21\u5358\u306b\u751f\u6210\u3057\u307e\u3059\u3002", "action": {"default_popup": "popup.html"}, "permissions": ["clipboardWrite"]}

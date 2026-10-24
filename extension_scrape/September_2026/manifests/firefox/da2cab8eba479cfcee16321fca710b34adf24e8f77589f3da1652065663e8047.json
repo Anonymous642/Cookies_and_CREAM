@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ClearInput", "version": "1.3", "description": "Place a clear input box on all input fields", "icons": {"64": "icons/ClearInput-64.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["jquery-3.2.1.min.js", "ClearInput.js"], "css": ["ClearInput.css"]}], "browser_specific_settings": {"gecko": {"id": "{50580d21-0023-4891-bc1b-d2a1b898449c}"}}}

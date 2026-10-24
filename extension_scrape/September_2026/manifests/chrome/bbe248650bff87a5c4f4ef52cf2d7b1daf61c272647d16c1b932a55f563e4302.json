@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab Rotate and Reload Dourado", "version": "1.0", "description": "Alterna automaticamente entre as abas e atualizar as guias do Chrome.", "permissions": ["tabs", "activeTab", "storage"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html"}}

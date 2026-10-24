@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Thousands Separators", "version": "1.0", "description": "Adds thousands separators to numbers.", "browser_specific_settings": {"gecko": {"id": "@thousands-separators"}, "gecko_android": {"id": "@thousands-separators"}}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["index.js"]}], "host_permissions": ["<all_urls>"]}

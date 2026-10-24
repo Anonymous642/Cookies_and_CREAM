@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "My Fast Unfriender", "version": "1.0", "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "unfriend-tool-2026@nahsor.dev", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"matches": ["https://www.roblox.com/users/*/friends*"], "js": ["content.js"]}]}

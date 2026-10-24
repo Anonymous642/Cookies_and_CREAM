@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Get Backstory", "version": "1.4", "description": "Save, track, and run URLs with Backstory.", "permissions": ["tabs", "storage", "activeTab"], "action": {"default_title": "Get Backstory", "default_popup": "popup.html"}, "icons": {"256": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Skill Tracker - Confidence Dashboard", "version": "1.0.1.1", "icons": {"128": "icons/icon.png"}, "description": "Track your confidence levels across different technical skills.", "permissions": ["storage"], "action": {"default_popup": "popup.html"}}

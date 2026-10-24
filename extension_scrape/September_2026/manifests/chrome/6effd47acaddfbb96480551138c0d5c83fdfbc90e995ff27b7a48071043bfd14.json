@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Empty Color Tab", "description": "An empty New Tab Page with a customizable solid color background using a simple color picker.", "version": "1.0", "permissions": ["storage"], "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"48": "icon48.png", "128": "icon128.png"}}

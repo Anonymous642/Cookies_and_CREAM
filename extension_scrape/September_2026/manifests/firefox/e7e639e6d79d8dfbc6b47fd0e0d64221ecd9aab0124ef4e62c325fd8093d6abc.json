@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HifiShark Search", "version": "1.0.1", "description": "Right-click highlighted text to search HiFiShark.", "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"id": "hifishark-search@ecwh-prod.me"}}, "icons": {"128": "icon.png"}}

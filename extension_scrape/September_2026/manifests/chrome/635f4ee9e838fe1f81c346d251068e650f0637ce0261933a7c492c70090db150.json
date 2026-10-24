@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cook my DutyLeave", "version": "1.1", "description": "Select absent periods and export it in duty leave form format.", "action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png"}}, "permissions": ["activeTab", "scripting"], "host_permissions": ["<all_urls>"]}

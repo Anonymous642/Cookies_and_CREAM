@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Promptify", "description": "Transform ChatGPT prompts with Promptify!", "version": "0.0.1", "icons": {"48": "logo.png", "128": "logo.png"}, "manifest_version": 3, "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["https://chatgpt.com/*"], "js": ["main.js"]}]}

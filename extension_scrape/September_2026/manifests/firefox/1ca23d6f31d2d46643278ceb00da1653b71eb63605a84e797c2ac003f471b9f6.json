@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Yahoo Finance Quote", "version": "1.4", "description": "Yahoo Ticker.", "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icons/48x48.png"}, "browser_specific_settings": {"gecko": {"id": "{122fcbf7-8d47-48e2-8bea-43539140c6f0}"}}}

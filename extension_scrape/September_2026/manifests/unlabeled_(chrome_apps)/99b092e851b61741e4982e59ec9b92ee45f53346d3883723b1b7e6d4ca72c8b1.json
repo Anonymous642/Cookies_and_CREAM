@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WinWeb eMail", "description": "WinWeb eMail - Business Email you can rely on", "version": "1.4", "app": {"urls": ["http://www.winweb.com/winweb-email/"], "launch": {"web_url": "http://www.winweb.com/winweb-email/"}}, "icons": {"16": "ww-16x16.png", "128": "ww-128x128.png"}, "manifest_version": 2}

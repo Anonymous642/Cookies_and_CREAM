@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Convenient File Converter", "description": "If you need to convert files, this is the extension for you.", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "hello.html", "default_icon": "128.png"}, "icons": {"16": "128.png", "32": "128.png", "48": "128.png", "128": "128.png"}}

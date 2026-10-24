@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "extrac1", "version": "1.0", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>", "nativeMessaging"], "browser_specific_settings": {"gecko": {"id": "extractor-hsh@test.local", "strict_min_version": "142.0", "data_collection_permissions": {"required": ["none"], "optional": []}}}, "background": {"scripts": ["background.js"]}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83c\udf38 Morning Motivation", "version": "1.0", "description": "Start your day with a beautiful motivational quote every morning!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "iracicvozzaaoi3@hotmail.com"}}}

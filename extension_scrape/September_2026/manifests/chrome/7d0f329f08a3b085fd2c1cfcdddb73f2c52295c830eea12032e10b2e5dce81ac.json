@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hex Calculator", "version": "1.0.0", "description": "A simple hexadecimal calculator for addition, subtraction, multiplication, and division (with remainder).", "action": {"default_title": "Hex Calculator", "default_popup": "popup.html"}, "icons": {}}

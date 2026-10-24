@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dark Mode Toggle", "version": "1.0", "description": "Toggle dark mode on any website.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{8e0bfb2e-7b20-4690-953b-f756ea2d6957}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Crystal Ball Predictor", "version": "1.0", "description": "Ask the digital crystal ball for answers to your burning questions.", "icons": {"48": "icon.png"}, "permissions": ["activeTab", "storage"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "hjvaughnt8299913@gmail.com"}}}

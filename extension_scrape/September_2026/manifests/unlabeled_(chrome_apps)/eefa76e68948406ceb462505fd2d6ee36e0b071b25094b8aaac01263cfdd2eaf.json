@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"launch": {"web_url": "http://fiddlesalad.com/haml/"}, "urls": ["http://fiddlesalad.com/haml/"]}, "description": "A Reactive Editor for HAML Creations and Experiments", "icons": {"128": "icon.png"}, "manifest_version": 2, "name": "HAML Editor", "version": "1.0.0.0"}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "7cups Message Counter", "version": "1.0", "description": "Counts the number of messages in a 7cups chat", "content_scripts": [{"matches": ["*://*.7cups.com/*"], "js": ["content.js"]}]}

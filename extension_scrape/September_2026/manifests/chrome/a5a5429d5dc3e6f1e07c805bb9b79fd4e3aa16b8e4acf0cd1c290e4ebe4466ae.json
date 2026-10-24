@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sayfa Kaydedici", "description": "Web sayfas\u0131n\u0131 kaydedin ve h\u0131zl\u0131ca eri\u015fin.", "version": "1.0", "permissions": ["storage"], "action": {"default_popup": "popup.html", "default_title": "Sayfa Kaydedici"}}

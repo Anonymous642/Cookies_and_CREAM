@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Blocklister for ppA Academy", "description": "Add blocklist feature for ppA Academy Website.", "version": "1.1.0", "content_scripts": [{"js": ["content.js"], "matches": ["https://www.pressplay.cc/club/index/*"]}]}

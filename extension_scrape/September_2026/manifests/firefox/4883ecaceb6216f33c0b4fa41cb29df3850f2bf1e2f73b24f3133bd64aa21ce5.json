@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Window events experiment", "version": "1.8", "description": "An experiment around events", "browser_specific_settings": {"gecko": {"id": "{5782fd08-fb6c-4782-904f-0b945ef85b54}"}}, "permissions": ["alarms", "history", "storage", "tabs", "webNavigation"], "background": {"scripts": ["background.js"]}, "options_ui": {"page": "history.html"}}

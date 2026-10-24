@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Branch Name Creation", "version": "1.0.0", "description": "Branch Name Creation", "manifest_version": 3, "author": "Jitendra Soni", "action": {"default_popup": "index.html", "default_title": "Branch Name Creation"}}

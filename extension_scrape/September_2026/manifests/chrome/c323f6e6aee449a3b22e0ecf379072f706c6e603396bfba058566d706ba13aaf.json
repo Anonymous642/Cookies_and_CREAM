@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quran Ayat Reminder", "version": "1.0", "description": "Displays a random Quran ayat with translation on new tab", "chrome_url_overrides": {"newtab": "extension.html"}, "icons": {"16": "icon16.svg", "48": "icon48.svg", "128": "icon128.svg"}, "permissions": []}

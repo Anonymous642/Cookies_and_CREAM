@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Deadbird", "description": "A simple app to save notes, really.", "version": "0.0.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["identity", "syncFileSystem"], "icons": {"16": "16x16.png", "128": "128x128.png"}}

@@ -1,0 +1,1 @@
+{"name": "Pximg referer", "version": "0.1.2resigned1", "description": "Pixiv's pximg site referer fixer.", "background": {"scripts": ["background.js"]}, "permissions": ["webRequest", "webRequestBlocking", "*://*.pximg.net/"], "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{bae2fae3-e26b-40a1-9886-1864c9f4fed3}"}}}

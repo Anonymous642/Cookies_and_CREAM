@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Check XSS", "description": "Basic XSS, SQL injection, CRLF etc. payloads", "version": "1.1", "applications": {"gecko": {"id": "@check_xss", "strict_min_version": "60.0"}}, "icons": {"48": "icons/48.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["menus", "activeTab", "clipboardRead", "clipboardWrite"]}

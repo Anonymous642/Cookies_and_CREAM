@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "JavaScript Refresher - TechQuiza JS", "version": "1.4", "manifest_version": 3, "description": "JavaScript Refresher", "action": {"default_icon": "tq.png", "default_title": "TechQuiza", "default_popup": "dice-quiz.html"}, "permissions": ["storage"]}

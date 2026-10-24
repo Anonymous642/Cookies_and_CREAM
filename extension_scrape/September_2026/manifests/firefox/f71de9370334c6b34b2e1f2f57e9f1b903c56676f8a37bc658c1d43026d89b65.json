@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Github Collapse-All Diffs Button", "version": "2.0", "description": "Adds a button to GitHub commit pages to collapse all diffs", "icons": {"48": "icons/collapse_48.png", "96": "icons/collapse_96.png"}, "content_scripts": [{"matches": ["*://*.github.com/*/*/commit/*"], "js": ["collapse-all-diffs-button.js"]}]}

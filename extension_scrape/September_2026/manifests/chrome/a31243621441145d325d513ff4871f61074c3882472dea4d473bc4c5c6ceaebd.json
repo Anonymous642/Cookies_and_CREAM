@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Gebruiksvriendlijk - voor huurcommissie.nl", "description": "Maakt de rekentool van de Huurcommissie gebruiksvriendelijker.", "version": "1.0.1", "manifest_version": 3, "content_scripts": [{"matches": ["https://huurprijscheck.huurcommissie.nl/zelfstandige-woonruimte/*"], "css": ["aanpassingen.css"]}]}

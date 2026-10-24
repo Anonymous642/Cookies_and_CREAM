@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Date Calculator", "version": "1.1.0", "description": "Calculates a date a specified number of days from today or a selected date.", "action": {"default_title": "Date Calculator", "default_popup": "popup.html"}}

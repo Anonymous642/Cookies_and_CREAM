@@ -1,0 +1,1 @@
+{"name": "Visual Hashing", "version": "1.2resigned1", "description": "Changes the background of password entry fields to a four-color visual hash.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["util.js", "visualhash.js"]}], "icons": {"128": "icon.png"}, "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{39feb990-34a3-42ed-9dfc-911f9ac647ff}"}}}

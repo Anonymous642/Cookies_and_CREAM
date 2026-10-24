@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "icons": {"128": "icon.png"}, "name": "Do not translate Reddit", "version": "1.0.0", "description": "", "content_scripts": [{"matches": ["*://www.reddit.com/*", "*://reddit.com/*"], "js": ["main.js"], "run_at": "document_start"}]}

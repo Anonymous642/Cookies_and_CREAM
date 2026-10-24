@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sunset JSON Tools", "version": "1.0.0", "description": "Validate, format, and minify JSON instantly. Sunset-themed UI. Copy result with one click.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "permissions": ["clipboardWrite"]}

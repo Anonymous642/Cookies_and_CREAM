@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HsReplayWheel", "version": "1.0", "description": "Adds a wheel to hsreaply", "icons": {"48": "icon48.png"}, "content_scripts": [{"matches": ["https://hsreplay.net/meta*"], "js": ["roulette.js"], "css": ["roulette.css"]}], "browser_specific_settings": {"gecko": {"id": "{d2c211bf-4f8e-4774-9b35-086689c836bf}"}}}

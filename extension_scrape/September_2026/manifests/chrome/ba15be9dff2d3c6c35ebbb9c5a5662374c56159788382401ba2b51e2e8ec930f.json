@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Channel Name Ideas", "version": "1.0.0", "description": "Generate simple YouTube channel name ideas from user entered keywords in a popup tool.", "action": {"default_title": "YouTube Channel Name Ideas", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

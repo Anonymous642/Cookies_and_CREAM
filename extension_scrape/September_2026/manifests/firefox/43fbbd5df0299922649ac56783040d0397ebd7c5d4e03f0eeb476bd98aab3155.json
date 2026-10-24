@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AutoFill Google Form Date and Time", "version": "1.0", "description": "Autofills date and time fields in a Google Form.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_title": "Fill Date & Time", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{a77deeb9-70ca-44a5-b0f4-f73b41067c79}"}}}

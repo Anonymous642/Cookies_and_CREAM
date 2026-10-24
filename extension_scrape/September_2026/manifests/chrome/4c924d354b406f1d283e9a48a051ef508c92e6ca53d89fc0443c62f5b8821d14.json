@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cilantro Games", "version": "2.8.0", "permissions": ["storage"], "description": "A bunch of fun games made by me!", "action": {"default_popup": "index.html"}, "icons": {"128": "Images/test.png"}}

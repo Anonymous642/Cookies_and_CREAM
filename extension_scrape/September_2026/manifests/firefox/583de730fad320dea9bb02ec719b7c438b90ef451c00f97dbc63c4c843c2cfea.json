@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dark Meeting", "description": "Custom dark theme for Google Meet!", "author": "Tom_The_Geek", "version": "1.0.0", "web_accessible_resources": ["dark.style.css"], "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://meet.google.com/*"], "js": ["inject_theme.js"]}]}

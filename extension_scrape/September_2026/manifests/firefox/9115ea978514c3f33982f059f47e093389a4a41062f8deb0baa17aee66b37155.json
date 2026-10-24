@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Math Mini Game Tab", "version": "1.0", "description": "Solve a simple math puzzle every time you open a new tab!", "chrome_url_overrides": {"newtab": "math.html"}, "permissions": [], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{7d08a918-0e9d-4143-ab50-120f05e070b9}"}}}

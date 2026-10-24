@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FB_IMG_detction", "version": "1.2resigned1", "description": "sofware made py noureddine", "icons": {"64": "icons/sharing-content.png"}, "content_scripts": [{"matches": ["*://joshmacdonald.net/*", "*://m.facebook.com/*"], "js": ["borderify.js"]}], "browser_specific_settings": {"gecko": {"id": "{eaa34941-e524-4638-8158-80ef01d978e3}"}}}

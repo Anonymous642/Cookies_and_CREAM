@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OpLeagueOPGG", "version": "1.0", "description": "Adds a OP.gg link to OpLeague team-preview.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://www.opleague.pro/match/*", "https://www.opleague.pro/team/*"], "js": ["OpLeagueOPGG.js"]}], "browser_specific_settings": {"gecko": {"id": "{2f2a8a69-e5b3-4381-9c71-8041804d60cc}"}}}

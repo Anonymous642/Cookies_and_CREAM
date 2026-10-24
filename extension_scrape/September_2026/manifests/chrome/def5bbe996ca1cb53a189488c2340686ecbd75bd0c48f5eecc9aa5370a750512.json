@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Page Reload Alert", "description": "Shows a notification when an enabled tab reloads.", "version": "1.0", "permissions": ["tabs", "storage", "notifications"], "background": {"service_worker": "background.js"}, "action": {"default_title": "Toggle Reload Alert"}}

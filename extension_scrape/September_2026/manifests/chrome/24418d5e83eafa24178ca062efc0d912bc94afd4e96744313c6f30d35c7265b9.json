@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Kpop Mini Calculator", "version": "1.0", "description": "M\u00e1y t\u00ednh mini c\u1ef1c chu\u1ea9n style Kpop d\u00e0nh cho b\u1ea1n.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon.png"}}, "icons": {"128": "icon.png"}}

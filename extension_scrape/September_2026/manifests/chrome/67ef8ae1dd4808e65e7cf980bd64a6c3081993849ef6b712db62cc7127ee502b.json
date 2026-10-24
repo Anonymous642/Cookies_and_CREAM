@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "content_scripts": [{"js": ["content.js"], "matches": ["https://www.gamevicio.com/*", "https://gamevicio.com/*"]}], "description": "Remove as not\u00edcias do site MotoOnline.com.br da home GameVicio.", "manifest_version": 3, "name": "Adeus MotOnline - GV Cleaner", "permissions": ["activeTab"], "version": "1.0"}

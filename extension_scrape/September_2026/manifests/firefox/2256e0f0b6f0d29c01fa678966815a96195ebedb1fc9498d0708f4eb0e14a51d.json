@@ -1,0 +1,1 @@
+{"name": "Manu Auto Correct", "version": "0.4", "manifest_version": 2, "description": "Bon alors d\u00e9j\u00e0 c'est M. Le Pr\u00e9sident", "icons": {"128": "icons/128.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["js/correct.js"]}], "browser_specific_settings": {"gecko": {"id": "{38a9ef87-88a7-4a24-9838-9f53f87ced95}"}}}

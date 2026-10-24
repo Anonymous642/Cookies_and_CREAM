@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "screensharing", "version": "2.1resigned1", "description": "allows for screensharing.", "icons": {"48": "icons/logo48.png", "64": "icons/logo64.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{c7ff58f5-4e90-4ebd-bd24-532bda8b9698}"}}}

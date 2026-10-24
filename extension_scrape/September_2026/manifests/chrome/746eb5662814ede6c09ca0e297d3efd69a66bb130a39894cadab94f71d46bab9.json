@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SmartTrade", "version": "1.0", "description": "Simplify Your Trading Experience.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*/*"], "js": ["script.js"]}], "manifest_version": 3, "action": {"default_popup": "index.html", "default_icon": "growth.png"}}

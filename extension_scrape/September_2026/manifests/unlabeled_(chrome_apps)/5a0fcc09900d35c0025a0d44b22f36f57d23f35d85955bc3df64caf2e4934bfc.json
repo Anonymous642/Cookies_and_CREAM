@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "FAQ", "short_name": "FAQ", "description": "Add a responsive FAQ section to any site.", "version": "1.1.0.0", "manifest_version": 2, "icons": {"128": "128x128.png"}, "app": {"urls": ["https://www.powr.io/plugins/faq/"], "launch": {"web_url": "https://www.powr.io/plugins/faq/standalone?platform=chrome"}}}

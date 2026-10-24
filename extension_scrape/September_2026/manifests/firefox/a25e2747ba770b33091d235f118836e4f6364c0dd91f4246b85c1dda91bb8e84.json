@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Padlet Web Clipper", "version": "1.0", "description": "Quickly save selected text or links to your Padlet board.", "icons": {"48": "icons/icon-48.png"}, "permissions": ["contextMenus", "storage", "activeTab"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{62a5e2bc-3ac6-4360-aaf4-9b3f00966921}"}}}

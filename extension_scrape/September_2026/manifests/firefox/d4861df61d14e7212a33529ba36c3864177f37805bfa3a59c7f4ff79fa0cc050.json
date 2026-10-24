@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Web Marker", "version": "1.0", "description": "Web Marker: Highlight and add notes", "action": {"default_popup": "popup.html", "default_icon": "web_marker.png"}, "icons": {"128": "web_marker.png"}, "browser_specific_settings": {"gecko": {"id": "montercsp303828@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

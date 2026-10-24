@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "QR Link Builder", "version": "1.0.0", "description": "Generate a QR code from any link in a simple popup interface.", "action": {"default_popup": "popup.html", "default_title": "QR Link Builder"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "New Tab Positioner", "version": "1.1", "description": "Intercepts any new tab and places it to the right of the currently/previously active tab.", "permissions": ["tabs"], "background": {"service_worker": "background.js"}}

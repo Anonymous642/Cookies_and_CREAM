@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Skip 'n Chill", "version": "1.0", "description": "Automatically clicks the 'Skip Intro' and 'Next Episode' button when watching videos.", "content_scripts": [{"matches": ["*://*.netflix.com/*", "*://*.primevideo.com/*", "*://*.hotstar.com/*"], "js": ["content.js"]}]}

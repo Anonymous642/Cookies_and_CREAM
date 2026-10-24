@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pinyin Pop-up", "version": "1.0", "description": "Instantly convert Chinese text to Pinyin with tone marks in a simple pop-up.", "action": {"default_popup": "popup.html", "default_title": "Pinyin Pop-up"}}

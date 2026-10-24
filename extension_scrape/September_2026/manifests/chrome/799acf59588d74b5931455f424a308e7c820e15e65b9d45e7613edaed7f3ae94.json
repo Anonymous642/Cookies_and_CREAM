@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "WCAG Color Contrast Checker", "version": "1.0", "description": "Check color contrast for WCAG compliance", "action": {"default_popup": "popup.html", "default_icon": {"16": "16.png", "48": "128.png", "128": "128.png"}}, "permissions": [], "icons": {"128": "128.png"}}

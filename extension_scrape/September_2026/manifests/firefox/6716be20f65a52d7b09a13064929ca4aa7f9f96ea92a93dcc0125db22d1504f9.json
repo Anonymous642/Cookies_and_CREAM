@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Crosshairify", "version": "1.1resigned1", "description": "Makes a crosshair the deafult cursor. To disable just click 'disable'", "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["crosshair.js"]}], "browser_specific_settings": {"gecko": {"id": "{934d7eea-24fd-4159-8897-7feb155601f8}"}}}

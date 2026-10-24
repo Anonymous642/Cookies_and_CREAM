@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Clicker Game", "version": "1.0", "description": "My clicker game!", "action": {"default_popup": "popup.html"}}

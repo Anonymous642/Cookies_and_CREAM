@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PDF D\u00fczenle Ara\u00e7lar\u0131", "version": "1.0", "description": "PDF ve g\u00f6rsel ara\u00e7lar\u0131n\u0131 h\u0131zl\u0131ca kullan!", "icons": {"128": "icons/icon128.png"}, "action": {"default_popup": "popup.html", "default_icon": "icons/icon128.png"}}

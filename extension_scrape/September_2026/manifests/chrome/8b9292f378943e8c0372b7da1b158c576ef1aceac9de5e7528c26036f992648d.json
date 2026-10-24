@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "IP Address", "version": "1.0", "description": "Display the public IP address.", "manifest_version": 3, "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

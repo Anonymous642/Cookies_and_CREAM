@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "QR Code Generator", "version": "1.0", "description": "Generate QR Codes for any URL", "permissions": ["activeTab"], "action": {"default_popup": "index.html", "default_icon": "favicon.png"}, "icons": {"128": "favicon.png"}}

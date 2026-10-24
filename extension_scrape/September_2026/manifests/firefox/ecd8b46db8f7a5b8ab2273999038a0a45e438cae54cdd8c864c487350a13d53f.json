@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Emoji Highlighter", "version": "1.0", "description": "Automatically adds an emoji after a specific keyword in the text to make writing more fun.", "permissions": ["activeTab", "storage"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{a642d6d2-1419-4710-b0eb-79e6e36a614b}"}}}

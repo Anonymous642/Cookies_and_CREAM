@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Nergeenolix", "version": "1.0", "description": "A simple extension designed to let you quickly access Nergeenolix.", "browser_specific_settings": {"gecko": {"id": "nergeenolix@extension", "data_collection_permissions": {"required": ["locationInfo", "personallyIdentifyingInfo"]}}}, "action": {"default_popup": "popup.html"}}

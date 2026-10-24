@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Clip Log", "version": "1.0", "description": "Clip Log: Access copied text history", "action": {"default_popup": "popup.html", "default_icon": "clip_log.png"}, "icons": {"128": "clip_log.png"}, "browser_specific_settings": {"gecko": {"id": "susienolp667511@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "When2Meet Leaderboard", "version": "1.0", "description": "provides a way to keep track of who has the most availability in when2meet.", "content_scripts": [{"matches": ["*://*.when2meet.com/*"], "js": ["leaderboard.js"]}], "browser_specific_settings": {"gecko": {"id": "{7e3590ec-d32b-4e77-abdb-cfa708f26047}"}}}

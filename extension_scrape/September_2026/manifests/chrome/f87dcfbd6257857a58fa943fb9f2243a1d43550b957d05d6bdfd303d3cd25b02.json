@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Arcane Wallet", "version": "2.0.0", "description": "CrossFi Chain crypto wallet enabling token management.", "manifest_version": 3, "action": {"default_popup": "index.html", "default_title": "Open Wallet"}, "permissions": [], "icons": {"16": "logo.png", "48": "logo.png", "128": "logo.png"}}

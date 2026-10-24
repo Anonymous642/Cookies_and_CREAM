@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "eBay Sold Price Search", "version": "1.0", "description": "Search eBay for sold prices of the selected item.", "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["background.js"], "persistent": false}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{1bf6025d-71fe-454e-9acf-47a10ad40e67}"}}}

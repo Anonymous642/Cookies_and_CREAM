@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Google Meet HS Parameter Remover", "version": "1.0", "description": "Automatically removes the 'hs' parameter from Google Meet URLs", "permissions": ["webRequest", "webRequestBlocking", "*://meet.google.com/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "google-meet-cleaner@github.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Canva Premium Element Remover", "version": "1.0", "description": "An extension to remove premium elements on Canva.", "icons": {"48": "logo-48.png"}, "action": {"default_icon": "logo-48.png"}, "content_scripts": [{"matches": ["https://www.canva.com/*"], "js": ["content.js"]}]}

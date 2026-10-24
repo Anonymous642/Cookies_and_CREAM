@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "\ubb3c \ucc44\uc6b0\uae30 \uac8c\uc784", "version": "1.0", "description": "\ub9c8\uc6b0\uc2a4\ub97c \uafb9 \ub20c\ub7ec \ubb3c\ud1b5\uc744 \ucc44\uc6b0\ub294 \ubbf8\ub2c8 \uac8c\uc784", "action": {"default_popup": "game.html"}}

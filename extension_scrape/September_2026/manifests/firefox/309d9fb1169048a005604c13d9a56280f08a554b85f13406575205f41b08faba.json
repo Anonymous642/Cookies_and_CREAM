@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Orange Baboon", "version": "1.0", "description": "Improves political discourse", "browser_specific_settings": {"gecko": {"id": "orangebaboon@youremail.com", "data_collection_permissions": {"required": ["none"], "default": "none"}}}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

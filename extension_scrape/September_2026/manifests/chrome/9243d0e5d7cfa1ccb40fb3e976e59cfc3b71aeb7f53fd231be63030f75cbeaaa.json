@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simt online mapa", "version": "1.0", "description": "P\u0159id\u00e1 v\u00edce informac\u00ed do online mapy.", "content_scripts": [{"matches": ["https://simt-mhd.net/app/mapa/*"], "js": ["content.js"], "css": ["style.css"]}]}

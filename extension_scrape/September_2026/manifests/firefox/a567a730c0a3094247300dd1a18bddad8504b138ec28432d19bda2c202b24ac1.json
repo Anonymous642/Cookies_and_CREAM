@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ext-cool", "version": "0.2resigned1", "browser_action": {"default_popup": "popup.html"}, "permissions": ["management"], "browser_specific_settings": {"gecko": {"id": "{cd34611e-adda-401c-a41c-e7bd0a5ca630}"}}}

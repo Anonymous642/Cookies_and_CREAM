@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Zodiac Time (Green)", "version": "1.0.0", "description": "Shows the current Zodiac Time (12 Earthly Branch hours) in a green-themed popup.", "action": {"default_title": "Zodiac Time", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

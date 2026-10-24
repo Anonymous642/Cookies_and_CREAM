@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Leafole Panel", "version": "1.0", "description": "Uma nova aba simples com seus servi\u00e7os favoritos", "browser_specific_settings": {"gecko": {"id": "support@leafole.dev", "data_collection_permissions": {"required": ["none"], "optional": []}}}, "chrome_url_overrides": {"newtab": "index.html"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Networth Calculator", "version": "1.0", "description": "A simple net worth calculator extension for Google Chrome.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icons/Networth Calculator.png"}}, "permissions": []}

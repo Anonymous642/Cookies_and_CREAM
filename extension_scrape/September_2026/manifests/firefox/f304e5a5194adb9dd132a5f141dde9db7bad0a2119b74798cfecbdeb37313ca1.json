@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Simple Color Picker", "version": "1.0", "description": "A basic color picker extension for Firefox.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{f5d160e4-92a3-4673-ae2d-b5a59c3001fd}"}}}

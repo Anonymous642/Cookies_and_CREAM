@@ -1,0 +1,1 @@
+{"name": "Molotov", "manifest_version": 2, "version": "1.0.1resigned1", "permissions": ["activeTab"], "content_scripts": [{"run_at": "document_idle", "matches": ["<all_urls>"], "css": ["style.css"]}], "browser_specific_settings": {"gecko": {"id": "{c4bd8a85-4be3-4209-b330-918c405fe019}"}}}

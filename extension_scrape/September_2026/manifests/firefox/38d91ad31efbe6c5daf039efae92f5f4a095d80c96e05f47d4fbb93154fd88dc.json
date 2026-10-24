@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Simple To-Do List", "version": "1.0", "description": "A to-do list with checkboxes for tasks, saved to local storage.", "action": {"default_popup": "popup.html", "default_icon": "simple_to-do_list.png"}, "icons": {"128": "simple_to-do_list.png"}, "browser_specific_settings": {"gecko": {"id": "marcia1whitlowasl407@hotmail.com"}}}

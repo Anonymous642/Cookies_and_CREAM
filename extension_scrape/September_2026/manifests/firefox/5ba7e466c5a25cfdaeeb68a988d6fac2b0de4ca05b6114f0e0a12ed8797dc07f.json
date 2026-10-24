@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Music Compressor", "version": "1.0", "description": "Compress your music files easily!", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["downloads", "storage"], "browser_specific_settings": {"gecko": {"id": "{b9ffbde8-f3b4-4573-a3a4-5b4da92af03d}"}}}

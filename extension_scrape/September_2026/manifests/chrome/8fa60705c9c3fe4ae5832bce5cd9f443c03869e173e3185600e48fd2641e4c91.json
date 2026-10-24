@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Climbing Grade Converter", "version": "1.0.0", "description": "Convert French and Yosemite Decimal climbing grades on any webpage.", "permissions": ["storage", "activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_title": "Climbing Grade Converter"}}

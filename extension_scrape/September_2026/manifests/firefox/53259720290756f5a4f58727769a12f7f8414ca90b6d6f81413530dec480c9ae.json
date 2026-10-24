@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Theme Customizer", "version": "1.0", "description": "Customize the browser theme with a simple background color changer.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["theme"], "browser_specific_settings": {"gecko": {"id": "{5da23d10-f319-4f88-9cd3-1720075e76b5}"}}}

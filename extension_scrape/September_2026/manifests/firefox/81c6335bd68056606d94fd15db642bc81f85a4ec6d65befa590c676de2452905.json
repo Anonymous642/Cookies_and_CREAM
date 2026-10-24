@@ -1,0 +1,1 @@
+{"name": "Free IRC App MOD", "version": "1.1", "app": {"launch": {"url": "http://localhost:8080"}, "origins": ["http://localhost:8080"]}, "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{665f1305-aeed-464c-8c9a-3d4ad6fcb8f6}"}}}

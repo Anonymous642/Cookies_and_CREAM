@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GoogleDocs Dark Canvas", "version": "1.0", "description": "Altera a cor da canvas do GoogleDocs.", "icons": {"48": "docscanvas-48.png"}, "content_scripts": [{"matches": ["*://*.docs.google.com/document/*"], "css": ["googlecanvasdark.css"]}], "browser_specific_settings": {"gecko": {"id": "{24ee99df-9872-4d01-a8ae-11ca4c0fe51f}"}}}

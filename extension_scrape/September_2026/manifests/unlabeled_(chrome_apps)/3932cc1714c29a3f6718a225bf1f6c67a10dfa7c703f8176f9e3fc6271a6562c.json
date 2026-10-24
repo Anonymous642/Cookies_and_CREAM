@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"background": {"scripts": ["background.js"]}}, "name": "wisitor", "description": "wisitor - y\u00f6netim paneli", "version": "1.0.1", "icons": {"16": "icon-16.png", "128": "icon-128.png"}, "permissions": ["webview", "fileSystem", "unlimitedStorage", "storage"]}

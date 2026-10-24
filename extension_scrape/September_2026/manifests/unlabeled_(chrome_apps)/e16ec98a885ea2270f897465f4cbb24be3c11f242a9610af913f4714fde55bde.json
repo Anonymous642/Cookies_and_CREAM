@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Brick Buster", "description": "Brick Buster is a fun game with 8 levels and is a traditional based game. It is also only 59p! ", "version": "1", "manifest_version": 2, "app": {"launch": {"local_path": "main.html"}}, "icons": {"16": "icon_16.png", "128": "icon_128.png"}}

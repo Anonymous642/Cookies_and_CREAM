@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Speed Controller", "version": "1.0", "description": "Control YouTube playback speed", "permissions": ["activeTab", "scripting", "tabs", "storage"], "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"]}], "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TOS auto accept", "version": "1.0", "description": "Automatically accept TOS on signup pages", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["TOSify.js"], "run_at": "document_start"}]}

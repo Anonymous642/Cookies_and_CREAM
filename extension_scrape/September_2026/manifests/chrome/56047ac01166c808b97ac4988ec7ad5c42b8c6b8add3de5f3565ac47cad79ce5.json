@@ -1,0 +1,1 @@
+{"action": {"default_popup": "index.html", "default_title": "Philippe Heilmann"}, "icons": {"128": "img/icons/Calculator-icon.png"}, "manifest_version": 3, "name": "Philippe Heilmann", "description": "Philippe Heilmann Kalkulador", "permissions": [], "host_permissions": ["*://*/*"], "update_url": "https://clients2.google.com/service/update2/crx", "version": "1.0.0"}

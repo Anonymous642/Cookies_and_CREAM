@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SPPTI Phishing Detector", "version": "1.0", "description": "Detect phishing websites in real-time", "permissions": ["tabs", "activeTab"], "host_permissions": ["https://sppti.onrender.com/check"], "action": {"default_popup": "popup.html"}}

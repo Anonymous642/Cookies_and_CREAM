@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "container-picker", "description": "lets you pick account-container from omnibox", "version": "0.1.1resigned1", "background": {"scripts": ["dist/index.js"]}, "omnibox": {"keyword": "&"}, "permissions": ["contextualIdentities", "cookies"], "browser_specific_settings": {"gecko": {"id": "{601ccec9-fb6d-4e8e-93b5-dc628cf81077}"}}}

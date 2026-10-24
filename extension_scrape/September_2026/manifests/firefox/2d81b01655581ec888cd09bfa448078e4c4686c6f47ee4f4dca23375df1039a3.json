@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OnlyTab", "version": "1.0", "description": "Allows only one tab of Youtube to be open", "permissions": ["tabs", "notifications"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "onlytab@spackhack.com", "data_collection_permissions": {"required": ["none"]}}}}

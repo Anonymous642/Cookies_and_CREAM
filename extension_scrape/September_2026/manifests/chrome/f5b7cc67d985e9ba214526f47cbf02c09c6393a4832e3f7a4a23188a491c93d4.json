@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ShopiPrice", "version": "2.0", "description": "Calculates the final price for item resale on Shopify considering all fees and profit margin.", "action": {"default_popup": "index.html", "default_icon": "favicon.png"}, "permissions": []}

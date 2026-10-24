@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Favicon Creator", "short_name": "Favicon", "description": "A simple favicon maker!", "version": "1.1", "icons": {"48": "PixelArt.png"}, "action": {"default_popup": "PixelArt.html"}}

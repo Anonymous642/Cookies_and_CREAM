@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TSST", "version": "1.0.0", "description": "This open-source tool boosts processing efficiency, making it ideal and optimized for browser's data analysis capabilities.", "manifest_version": 3, "author": "Jerome R", "action": {"default_popup": "index.html", "default_title": "TSST"}}

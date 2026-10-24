@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Puzzle Game", "version": "1.0", "description": "Tr\u00f2 ch\u01a1i x\u1ebfp h\u00ecnh \u0111\u01a1n gi\u1ea3n.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{186751cc-d33c-40b1-b761-08d570c65882}"}}}

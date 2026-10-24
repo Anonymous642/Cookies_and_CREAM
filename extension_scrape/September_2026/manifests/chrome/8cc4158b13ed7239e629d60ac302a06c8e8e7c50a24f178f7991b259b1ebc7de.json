@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GitHub Repo Stats", "version": "1.1.0", "description": "A dynamic Chrome Extension to fetch the Github Repo Stats.", "action": {"default_popup": "index.html", "default_title": "Github Repo Stats"}, "icons": {"48": "Images/icon.png"}}

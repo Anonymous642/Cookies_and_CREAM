@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Daily Inspire", "version": "1.0", "description": "Hi\u1ec3n th\u1ecb c\u00e2u n\u00f3i truy\u1ec1n c\u1ea3m h\u1ee9ng m\u1ed7i khi m\u1edf tab m\u1edbi.", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{d4a02a51-dd4f-4ea1-87fd-b9ed4c6ea9ee}"}}}

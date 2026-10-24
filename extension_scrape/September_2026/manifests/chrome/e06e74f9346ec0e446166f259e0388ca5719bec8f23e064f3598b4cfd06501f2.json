@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "9GAG comments on click", "description": "Allows you to enter comment section after you click on title or post instead of related", "version": "6.9", "content_scripts": [{"matches": ["https://9gag.com/*"], "js": ["content-script.js"]}]}

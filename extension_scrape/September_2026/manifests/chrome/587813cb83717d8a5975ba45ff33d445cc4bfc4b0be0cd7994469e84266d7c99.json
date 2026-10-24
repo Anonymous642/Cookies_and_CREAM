@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Asystent Sprzedawcy Vinted/OLX AI", "version": "1.0", "description": "Generator profesjonalnych opis\u00f3w przedmiot\u00f3w w 3 sekundy.", "permissions": ["storage"], "action": {"default_popup": "popup.html"}}

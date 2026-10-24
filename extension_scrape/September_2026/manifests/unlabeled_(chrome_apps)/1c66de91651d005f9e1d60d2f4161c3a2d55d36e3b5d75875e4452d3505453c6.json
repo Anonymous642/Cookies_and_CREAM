@@ -1,0 +1,1 @@
+{"name": "Muzic.co", "description": "Listen to your favorite music without the ads.", "app": {"urls": ["http://www.muzic.co/"], "launch": {"web_url": "http://www.muzic.co/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

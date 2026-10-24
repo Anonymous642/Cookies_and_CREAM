@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "String", "description": "Search your Pocket articles from the location bar.", "version": "1.0.1resigned1", "background": {"scripts": ["background.js"]}, "omnibox": {"keyword": "p"}, "permissions": ["identity", "storage", "https://getpocket.com/"], "browser_specific_settings": {"gecko": {"id": "{e04f5752-002b-48ac-9753-dc579e5df634}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Modify", "version": "1.0", "description": "removes unwanted contents from a website", "icons": {"48": "pen.png"}, "content_scripts": [{"matches": ["*://*.stackoverflow.com/questions/*"], "js": ["modify.js"]}], "browser_specific_settings": {"gecko": {"id": "{4ad50b82-0e3e-42c4-af82-0c98411e3acf}"}}}

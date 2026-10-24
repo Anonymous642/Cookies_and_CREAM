@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Discard Tab", "version": "0.0.1", "description": "Sleep unused tabs to save memory and boost performance", "manifest_version": 3, "background": {"service_worker": "service_worker.js"}, "permissions": ["activeTab", "contextMenus"], "icons": {"128": "icons/128.png"}}

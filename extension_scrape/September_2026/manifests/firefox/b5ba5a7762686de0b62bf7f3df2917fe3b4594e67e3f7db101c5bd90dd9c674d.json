@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\u23f0 Countdown Timer Randomizer", "version": "1.0", "description": "Enter minutes and get a random countdown clock theme in the popup.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "bymannannishvc@hotmail.com"}}}

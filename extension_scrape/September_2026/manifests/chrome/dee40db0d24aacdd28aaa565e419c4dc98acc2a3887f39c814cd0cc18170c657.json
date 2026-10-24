@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Clipboard History", "version": "1.0", "description": "Clipboard History: Access past copied items", "action": {"default_popup": "popup.html", "default_icon": "clipboard_history.png"}, "icons": {"128": "clipboard_history.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GPT 5 Background Everywhere", "version": "1.0", "content_scripts": [{"matches": ["*://chatgpt.com/c/*"], "js": ["content_script.js"]}], "browser_specific_settings": {"gecko": {"id": "{57589e9c-b64e-40fa-826c-15ee0b5bd545}"}}}

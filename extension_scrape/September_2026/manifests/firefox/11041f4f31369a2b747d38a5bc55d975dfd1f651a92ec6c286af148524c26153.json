@@ -1,0 +1,1 @@
+{"chrome_url_overrides": {"newtab": "newtab.html"}, "description": "New Tab Launcher", "icons": {"100": "icons/favicon.png", "128": "icons/Webp.net-resizeimage.png"}, "manifest_version": 2, "name": "New Tab", "permissions": ["tabs", "storage"], "version": "1.0.0", "browser_specific_settings": {"gecko": {"id": "{9d7a4cb3-55cd-4804-bb2a-54b2d029a742}"}}}

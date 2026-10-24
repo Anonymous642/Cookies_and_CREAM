@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Calculadora para WhatsApp Web", "version": "1.1", "description": "Calcule or\u00e7amentos e descontos direto no campo do WhatsApp Web. Digite a conta, coloque = e o resultado aparece na hora!", "content_scripts": [{"matches": ["*://web.whatsapp.com/*"], "js": ["content.js"]}]}

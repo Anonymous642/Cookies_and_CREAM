@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TwittSky", "version": "1.0", "description": "Stop using Twitter and go to a better place, Bluesky", "permissions": ["webNavigation"], "host_permissions": ["*://*.twitter.com/*", "*://*.x.com/*"], "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Comment Reply Starter", "version": "1.0.0", "description": "Generate short social media comment reply ideas in a simple popup with no complex permissions.", "action": {"default_popup": "popup.html", "default_title": "Comment Reply Starter"}, "icons": {"128": "icon128.png"}}

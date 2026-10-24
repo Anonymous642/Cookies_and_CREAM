@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Le Parisien Free", "version": "1.0", "description": "Allows you to read articles reserved for subscribers", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.leparisien.fr/*"], "js": ["leparisienfree.js"]}]}

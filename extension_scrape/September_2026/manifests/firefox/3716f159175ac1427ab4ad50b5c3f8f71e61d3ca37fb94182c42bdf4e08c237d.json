@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Unreal Wiki Fix", "version": "3.0", "description": "Makes the BeyondUnreal Wiki usable again.", "icons": {"48": "paci.png"}, "content_scripts": [{"matches": ["*://*.beyondunreal.com/*"], "js": ["UnrealWikiFix.js"]}], "browser_specific_settings": {"gecko": {"id": "{3df69313-b710-466f-8e92-9f8f97b55b39}"}}}

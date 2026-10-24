@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Reloader", "action": {}, "manifest_version": 3, "version": "0.2", "description": "Reload the page with added query params, so to load with new cache", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}}

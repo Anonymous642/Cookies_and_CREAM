@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No More Connections", "version": "1.0", "description": "Reverts Roblox' Connections back to Friends.", "permissions": ["*://*.roblox.com/*"], "content_scripts": [{"matches": ["*://*.roblox.com/*"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{9b86d297-4244-434b-8a80-b19371d79432}"}}}

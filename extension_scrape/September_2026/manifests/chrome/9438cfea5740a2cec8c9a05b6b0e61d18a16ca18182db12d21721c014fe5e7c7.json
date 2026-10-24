@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MemeyTabs", "version": "1.4.6", "description": "New tab? New meme.", "author": "kinda_raffy", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"16": "images/index/mt_logo_small.png", "128": "images/index/mt_logo.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PushNote", "version": "1.0", "description": "Send messages via Pushover.", "icons": {"48": "icons/pushnote.png"}, "action": {"default_popup": "PushNote.html", "default_icon": "icons/pushnote.png"}, "permissions": ["storage"]}

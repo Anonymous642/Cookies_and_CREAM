@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Magical Item Generator", "description": "Gives you quick ideas for creating magical items on the fly", "version": "0.1", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

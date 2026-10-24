@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Custom Chrome Extension", "description": "Customize your new tabs with todo lists, bookmark cards, and more!", "version": "1.0", "manifest_version": 3, "chrome_url_overrides": {"newtab": "index.html"}, "icons": {}}

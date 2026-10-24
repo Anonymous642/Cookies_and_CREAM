@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UpdatePage", "version": "1.9.3", "description": "auto update page on https://*.royal-club.ua", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.royal-club.ua/*"], "js": ["updater.js"]}], "browser_specific_settings": {"gecko": {"id": "{651bff80-88aa-4384-a8e1-d5761771be38}"}}}

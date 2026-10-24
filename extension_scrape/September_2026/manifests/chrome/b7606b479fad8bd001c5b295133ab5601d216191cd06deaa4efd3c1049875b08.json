@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Phrase Replacer", "description": "Based on xkcd 1288, \"Substitutions\"", "version": "1.2", "manifest_version": 3, "permissions": ["storage", "scripting", "activeTab"], "action": {"default_popup": "popup.html", "default_icon": "shut.png"}}

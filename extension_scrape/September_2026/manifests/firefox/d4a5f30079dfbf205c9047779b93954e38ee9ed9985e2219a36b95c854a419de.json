@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Emoji Picker", "version": "1.0", "description": "Quickly copy emojis to your clipboard from a popup emoji picker.", "action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "emoji-picker@example.com", "strict_min_version": "109.0"}}}

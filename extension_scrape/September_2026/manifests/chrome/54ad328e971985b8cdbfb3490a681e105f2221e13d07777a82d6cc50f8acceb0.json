@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Planner", "version": "1.0", "description": "A persistent daily planner that syncs across devices", "permissions": ["storage"], "action": {"default_popup": "popup.html"}, "purpose": "daily task management and scheduling", "author": {"email": "lucchan2022@gmail.com"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "version": "4.0", "name": "Leads Tracker", "action": {"default_popup": "index.html", "default_icon": "icon.png"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "kadu.a.e.pedro@gmail.com"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clocky McClockface", "version": "1.0", "description": "Adds an always visible clock on all pages", "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["clocky.js"], "css": ["clocky.css"]}], "browser_specific_settings": {"gecko": {"id": "{f4b67af7-5d17-4e62-8547-28763925f0db}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PLN to HUF Converter", "version": "1.0", "description": "A simple converter for PLN to HUF.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{0bfe2ef4-c7d1-49ec-9211-2873eacaa068}"}}}

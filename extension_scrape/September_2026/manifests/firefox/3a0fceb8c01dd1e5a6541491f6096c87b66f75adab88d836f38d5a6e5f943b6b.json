@@ -1,0 +1,1 @@
+{"name": "uwu", "version": "0.5resigned1", "manifest_version": 2, "description": "uwu-owo coworrecteuwur", "icons": {"128": "128.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["js/correct.js"]}], "browser_specific_settings": {"gecko": {"id": "{5ef96801-b7b2-4f95-8d3e-b163676511dc}"}}}

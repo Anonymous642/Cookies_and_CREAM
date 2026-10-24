@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pixel Peeker", "version": "1.0", "description": "Zoom into any image deeply with a single click.", "permissions": ["activeTab", "tabs", "<all_urls>"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{26372dd9-e5c2-4cca-90fe-f7b2ce89be21}"}}}

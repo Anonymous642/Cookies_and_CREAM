@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Vimium WhatsApp Helper", "version": "1.0.0", "description": "Expose chat rows on web.whatsapp.com as buttons so Vimium can hint them.", "content_scripts": [{"matches": ["https://web.whatsapp.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

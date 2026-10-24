@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u5b9a\u5411\u4ee3\u7406\u63d2\u4ef6", "version": "1.0", "manifest_version": 3, "description": "\u53ef\u5feb\u6377\u9009\u62e9\u4ee3\u7406\u8282\u70b9\u7684\u63d2\u4ef6", "permissions": ["proxy", "storage"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Dudes Hanging Out in Art", "description": "Replaces 'Two Men' with 'Dudes Hanging Out' in the titles of artworks on the Met Museum's website", "version": "1.0", "content_scripts": [{"js": ["replaceTwoMen.js"], "matches": ["https://www.metmuseum.org/*"]}]}

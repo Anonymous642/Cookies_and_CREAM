@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Custom 3D New Tab", "description": "A custom new tab page with 3D animation and video.", "version": "1.0.1", "manifest_version": 3, "permissions": ["search"], "chrome_url_overrides": {"newtab": "newtab.html"}}

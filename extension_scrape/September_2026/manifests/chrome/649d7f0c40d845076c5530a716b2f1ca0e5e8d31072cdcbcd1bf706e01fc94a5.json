@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "NASA APOD New Tab", "version": "0.0.1", "description": "Shows NASA's Astronomy Picture of the Day as your new tab background.", "host_permissions": ["https://api.nasa.gov/*"], "chrome_url_overrides": {"newtab": "newtab.html"}}

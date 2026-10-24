@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "2doli.st Bookmarks", "version": "1.5", "description": "Bookmarks support for https://2doli.st", "icons": {"48": "icons/logob48.png", "128": "icons/logob128.png"}, "background": {"scripts": ["main.js"]}, "permissions": ["bookmarks", "tabs"], "browser_specific_settings": {"gecko": {"id": "{ac92ac46-5f06-4734-b4f3-926345ac3750}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GuessTheMovie Cleaner", "version": "1.0", "description": "Hides game number and date to prevent cheating on GuessTheMovie.", "content_scripts": [{"matches": ["https://guessthemovie.name/p/*"], "js": ["content.js"], "run_at": "document_end"}], "icons": {"48": "icon.png"}}

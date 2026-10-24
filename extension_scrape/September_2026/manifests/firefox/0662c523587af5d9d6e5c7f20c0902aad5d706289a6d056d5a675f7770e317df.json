@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hover Zoom for Thumbnails", "version": "1.0", "description": "Ph\u00f3ng to h\u00ecnh \u1ea3nh thumbnail khi di chu\u1ed9t qua.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{e5f2ce11-fe31-4f61-b69e-bf4f6b016503}"}}}

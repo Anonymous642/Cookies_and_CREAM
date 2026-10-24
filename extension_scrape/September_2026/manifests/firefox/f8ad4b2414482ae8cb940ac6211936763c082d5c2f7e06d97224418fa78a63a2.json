@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Aoe2.net Dark Theme", "version": "1.0", "description": "Changes the appearence of aoe2.net to a dark-colored version.", "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "content_scripts": [{"matches": ["*://aoe2.net/*"], "js": ["aoe2netdark.js"], "css": ["css/datatables.css", "css/bootstrap.css", "css/maincss.css"]}]}

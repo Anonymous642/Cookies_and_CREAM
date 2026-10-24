@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LinkLite", "version": "1.0", "description": "Navigate the web faster with custom URL shortcuts", "permissions": ["storage", "tabs", "webNavigation"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ClickTracer", "version": "1.0", "description": "Adds a red border to all webpages vulnerable to click-jacking", "icons": {"96": "icons/ep.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["ClickTracer.js"]}], "browser_specific_settings": {"gecko": {"id": "{07c21354-7404-4ed0-9bbf-1f08c9d8901d}"}}}

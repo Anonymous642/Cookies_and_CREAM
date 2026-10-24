@@ -1,0 +1,1 @@
+{"name": "tab-finder", "version": "0.1.0", "manifest_version": 2, "description": "If you never close your tabs and never knows to find the one you are looking for, this is the thing for you", "background": {"scripts": ["background.js"]}, "permissions": ["tabs"], "omnibox": {"keyword": "find"}}

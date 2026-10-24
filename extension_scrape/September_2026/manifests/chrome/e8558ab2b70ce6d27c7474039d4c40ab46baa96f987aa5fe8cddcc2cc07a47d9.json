@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Life Lesson", "description": "Show a short life lesson to inspire your day.", "version": "1.0", "action": {"default_popup": "popup.html", "default_title": "Life Lesson"}, "icons": {"128": "icon.png"}}

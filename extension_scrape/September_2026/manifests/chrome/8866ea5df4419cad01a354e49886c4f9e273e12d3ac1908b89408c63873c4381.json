@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CaptureFullPage", "version": "2.0", "permissions": ["activeTab", "scripting"], "action": {"default_icon": "icon.png", "default_popup": "popup.html", "default_title": "CaptureFullPage"}, "background": {"service_worker": "background.js"}, "icons": {"128": "icon.png"}}

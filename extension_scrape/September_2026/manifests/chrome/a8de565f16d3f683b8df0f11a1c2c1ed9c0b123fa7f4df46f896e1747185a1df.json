@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Atlassian Forge Dev Tools", "version": "0.4.1", "description": "", "devtools_page": "src/devtools/index.html", "browser_specific_settings": {"gecko": {"id": "atlassian-forge-dev-tools@seibert.group"}}}

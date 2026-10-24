@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Magic Casting Rewriter", "version": "1.0.1", "description": "Recasts common tech and AI terms into a fantasy magic theme on every page you visit.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_idle"}]}

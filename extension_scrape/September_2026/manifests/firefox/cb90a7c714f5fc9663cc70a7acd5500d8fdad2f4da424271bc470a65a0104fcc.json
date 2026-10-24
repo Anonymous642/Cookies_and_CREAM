@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Color Picker", "version": "1.0", "description": "Pick colors from any webpage and view their HEX and RGB values.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{b7266fde-7410-4539-9b0c-a947b59c1335}"}}}

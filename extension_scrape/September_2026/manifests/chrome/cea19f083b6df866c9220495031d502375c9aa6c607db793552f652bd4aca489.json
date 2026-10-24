@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Uta-Net Lyric Getter", "description": "Copies lyrics and song info to the clipboard", "version": "1.0.0", "action": {"default_icon": "music_icon.png"}, "content_scripts": [{"js": ["scripts/script.js"], "css": ["scripts/style.css"], "matches": ["https://www.uta-net.com/song/*"]}]}

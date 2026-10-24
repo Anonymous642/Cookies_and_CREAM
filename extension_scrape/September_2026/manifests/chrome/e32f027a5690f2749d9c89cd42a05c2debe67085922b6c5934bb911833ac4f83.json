@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ShopGenius: Name Generator", "version": "1.0.0", "description": "Instantly generate catchy and unique names for your new online store or e-commerce business.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}, "icons": {"128": "icon128.png"}}

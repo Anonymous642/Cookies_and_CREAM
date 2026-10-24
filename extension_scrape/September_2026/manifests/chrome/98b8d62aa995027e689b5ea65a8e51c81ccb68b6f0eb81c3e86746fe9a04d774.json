@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple VAT Calculator", "version": "1.0.0", "description": "Calculate VAT quickly from a clean and simple popup.", "action": {"default_title": "Simple VAT Calculator", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

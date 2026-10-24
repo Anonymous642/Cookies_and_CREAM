@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "FireDash", "version": "1.1", "description": "A personalized new tab page with widgets and news feeds.", "permissions": ["bookmarks"], "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "firedash@example1.com", "data_collection_permissions": {"required": ["none"]}}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Rayo Dolarizador", "description": "Agrega el valor en USD de los precios", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["https://www.mercadolibre.com.ar/*"], "js": ["content_scripts.js"]}]}

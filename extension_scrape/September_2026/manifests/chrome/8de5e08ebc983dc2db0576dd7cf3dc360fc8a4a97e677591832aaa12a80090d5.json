@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "QuickTabCuts", "version": "1.0", "description": "Quickly access your frequently visited sites.", "action": {"default_popup": "html/popup.html"}, "options_page": "html/options.html", "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RezkaAdBlock", "description": "custom addon", "version": "0.0.1", "icons": {"64": "icons/icon.png"}, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["backgroundScript.js"]}, "browser_specific_settings": {"gecko": {"id": "{6e11e546-776e-4370-a686-25c1cf36f38c}"}}}

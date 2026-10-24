@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tape", "version": "2.2", "manifest_version": 3, "description": "Measurement tools, rulers and grids", "icons": {"128": "tape128.png"}, "action": {"default_icon": "tape19.png", "default_title": "Measure stuff"}, "background": {"service_worker": "background.js"}, "permissions": ["activeTab", "scripting"]}

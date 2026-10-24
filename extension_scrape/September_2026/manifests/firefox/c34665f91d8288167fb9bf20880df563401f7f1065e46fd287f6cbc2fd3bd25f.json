@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clock", "version": "2.0", "description": "Clean and Simple", "author": "Jovan Lanik", "homepage_url": "https://github.com/jovanlanik", "background": {"scripts": ["background.js"]}, "browser_action": {"default_title": "Clock"}, "applications": {"gecko": {"id": "clean@simple.clock", "strict_min_version": "60.0"}}}

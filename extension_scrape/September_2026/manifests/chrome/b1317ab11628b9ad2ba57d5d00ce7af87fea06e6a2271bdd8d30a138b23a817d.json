@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Fun Personality Quiz", "version": "1.0.0", "description": "Take a quick, fun quiz to discover your secret personality vibe!", "action": {"default_popup": "popup.html", "default_title": "Take the Quiz", "default_icon": {"128": "icon128.png"}}, "icons": {"128": "icon128.png"}}

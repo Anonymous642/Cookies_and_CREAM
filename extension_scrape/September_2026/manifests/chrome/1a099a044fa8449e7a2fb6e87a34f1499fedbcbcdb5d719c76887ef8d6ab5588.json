@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Live Cricket Score", "version": "1.0", "description": "Cricket Matches", "manifest_version": 3, "author": "Gyanshu-kumar", "action": {"default_popup": "index.html", "default_icon": "logos.png"}}

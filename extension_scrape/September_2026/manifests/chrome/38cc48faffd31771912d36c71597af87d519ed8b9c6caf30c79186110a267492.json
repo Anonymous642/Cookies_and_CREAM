@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Free Cash Flow on Macrotrends", "version": "2.0", "description": "Adds a Free Cash Flow link to Macrotrends", "icons": {"128": "logo.png"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://www.macrotrends.net/stocks/charts/*"], "js": ["content.js"]}]}

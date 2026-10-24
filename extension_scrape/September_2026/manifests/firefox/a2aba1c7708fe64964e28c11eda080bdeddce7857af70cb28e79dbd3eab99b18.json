@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Save Tab Session", "version": "1.0", "description": "Save your open tabs for later sessions.", "permissions": ["tabs", "storage"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{afb6a058-d7e8-4069-819f-3827214f2ea3}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "\u7f51\u7ad9\u5c4f\u853d\u5668", "version": "1.0", "description": "\u5c4f\u853d\u7279\u5b9a\u7f51\u7ad9\u7684 Chrome \u6269\u5c55", "permissions": ["storage", "webNavigation", "tabs"], "action": {"default_popup": "popup.html"}, "background": {"service_worker": "background.js"}}

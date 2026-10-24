@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hide NipahTV Badge", "version": "1.0", "description": "Hides NipahTV badge in Kick chat", "author": "AnakUn", "icons": {"16": "nipah.png", "48": "nipah.png", "128": "nipah.png"}, "content_scripts": [{"matches": ["https://kick.com/*"], "css": ["style.css"]}]}

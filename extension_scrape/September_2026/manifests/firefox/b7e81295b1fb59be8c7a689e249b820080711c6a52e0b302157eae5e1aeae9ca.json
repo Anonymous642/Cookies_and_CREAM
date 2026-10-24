@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Universal Dark Mode", "version": "0.3.1", "description": "Enables dark mode on any website, reducing eye strain and improving readability in low-light environments.", "content_scripts": [{"css": ["style.css"], "js": ["script.js"], "matches": ["<all_urls>"]}], "browser_specific_settings": {"gecko": {"id": "{890ce512-620c-4c63-aa17-e864747bd8ff}"}}}

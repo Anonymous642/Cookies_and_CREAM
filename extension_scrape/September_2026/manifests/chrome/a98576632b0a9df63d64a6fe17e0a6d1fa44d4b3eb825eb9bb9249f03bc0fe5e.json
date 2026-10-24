@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "FlashGO Send To App", "description": "Adds a right-click action to send downloadable links to FlashGO desktop.", "version": "1.4.0", "permissions": ["contextMenus", "cookies", "activeTab", "nativeMessaging"], "background": {"service_worker": "service_worker.js"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Custom CSS Injector", "version": "1.0", "description": "Inject custom CSS into any webpage via context menu.", "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon48.png", "96": "icon96.png"}, "browser_specific_settings": {"gecko": {"id": "{d7f4f176-c069-4b27-a9bd-fd201a37dd0c}"}}}

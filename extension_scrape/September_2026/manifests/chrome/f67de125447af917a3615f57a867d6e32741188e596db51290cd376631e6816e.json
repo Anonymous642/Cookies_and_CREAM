@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Ucho-ten-mini", "description": "Ucho-ten-mini", "version": "0.0.1", "manifest_version": 3, "author": "baisony", "content_scripts": [{"matches": ["https://bsky.app/*", "https://staging.bsky.app/*"], "css": ["./content_scripts.css"]}], "host_permissions": ["https://bsky.app/*", "https://staging.bsky.app/*"]}

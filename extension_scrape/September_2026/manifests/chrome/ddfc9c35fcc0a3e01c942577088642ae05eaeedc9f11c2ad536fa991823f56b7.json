@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PageJump Click", "version": "6.0.0.4", "version_name": "0.0.0.4", "description": "One-Click Page Scroll.", "icons": {"128": "icon_128.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Arctic RAM Freezer", "version": "1.0.4", "description": "One-click to freeze background tabs and reclaim your memory.", "permissions": [], "action": {"default_icon": "icon.png"}, "background": {"service_worker": "background.js"}, "icons": {"128": "icon.png"}}

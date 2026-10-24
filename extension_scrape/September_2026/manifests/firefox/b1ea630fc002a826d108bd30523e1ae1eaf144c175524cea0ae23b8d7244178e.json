@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Motivate Me", "version": "1.0", "description": "Get a motivational quote every time you click!", "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{7b8cff01-5a5f-4af3-b695-9af74467c78e}"}}}

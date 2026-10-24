@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Compass", "version": "1.5", "description": "Adds 16x speed option to Suite360 video player.", "content_scripts": [{"matches": ["https://*.suite360sel.org/*"], "js": ["content.js"], "run_at": "document_idle", "all_frames": true}]}

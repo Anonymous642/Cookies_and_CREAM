@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "bandcamp stock", "version": "0.72resigned1", "icons": {"32": "bc_stock_32.png", "128": "bc_stock_128.png", "512": "bc_stock_512.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"]}], "web_accessible_resources": ["script.js"], "browser_specific_settings": {"gecko": {"id": "{b254bc12-566b-450e-b032-01dde89cee7c}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cookie Viewer", "author": "mohan chinnappan", "version": "0.0.2", "action": {"default_popup": "popup.html"}, "host_permissions": ["*://*/*"], "permissions": ["cookies", "activeTab"], "icons": {"16": "img/cookies-16x16.png", "32": "img/cookies-32x32.png"}}

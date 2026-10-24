@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "x2coin", "description": "Create crypto coins from any X.com post", "version": "1.0", "icons": {"128": "extension_icon.png"}, "content_scripts": [{"matches": ["https://x2co.in/*", "https://x.com/*", "https://pump.fun/*"], "js": ["content.js"]}]}

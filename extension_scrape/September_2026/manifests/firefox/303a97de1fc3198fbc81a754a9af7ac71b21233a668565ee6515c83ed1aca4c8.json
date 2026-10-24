@@ -1,0 +1,1 @@
+{"author": "DaJay", "background": {"scripts": ["ytl_fix.js"]}, "description": "Removes 'list' and 'index' parameters from YouTube /watch urls", "manifest_version": 2, "name": "YT watch playlist remover", "permissions": ["<all_urls>", "webRequest", "webRequestBlocking"], "version": "1.0"}

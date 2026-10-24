@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MyXtension", "author": "Rohit Biradar", "version": "1.0", "description": "A Browser Extension which lets you manage your day and also inspires you with inspirational quotes", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{807f284c-49bb-4f0f-89a6-917f2b169572}"}}}

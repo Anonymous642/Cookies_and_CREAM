@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HLTV Comment and Forum Hider", "description": "Hides comments and forums on HLTV for a clean, distraction-free browsing experience", "version": "1.0.0", "icons": {"48": "./icons/icon.png"}, "content_scripts": [{"matches": ["*://www.hltv.org/*"], "js": ["content.js"]}]}

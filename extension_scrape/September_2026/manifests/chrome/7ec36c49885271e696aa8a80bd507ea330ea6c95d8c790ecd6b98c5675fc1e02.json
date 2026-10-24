@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TabTrack", "version": "1.0", "description": "Tracks which tabs you spend time on and gives you focus insights.", "permissions": ["tabs", "storage"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html"}}

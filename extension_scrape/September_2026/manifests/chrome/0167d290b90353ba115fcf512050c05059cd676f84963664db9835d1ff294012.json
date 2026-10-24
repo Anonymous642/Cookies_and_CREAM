@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Fullscreen Time Display", "version": "1.0", "description": "Displays the current time when a YouTube video is in fullscreen mode.", "permissions": [], "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"], "css": ["styles.css"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Date Time Picker", "version": "2.6", "description": "Removes Calendar Icon from the fields", "permissions": [], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["style.css"]}]}

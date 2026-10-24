@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DoomScrollBlock", "version": "0.1.0", "description": "Redirects away from YouTube Shorts and Instagram Reels.", "permissions": ["tabs", "webNavigation"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{c6423787-01b7-4549-8286-1dd54aa66fdd}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mini Tab Alarm", "version": "1.0.0", "description": "Set a simple mini alarm timer from a stylish popup.", "action": {"default_title": "Mini Tab Alarm", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "A room between", "version": "1.0", "permissions": ["webNavigation"], "background": {"service_worker": "background.js"}, "web_accessible_resources": [{"resources": ["images/*", "sounds/*"], "matches": ["<all_urls>"]}]}

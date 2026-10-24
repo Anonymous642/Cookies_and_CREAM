@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Asylum Night", "description": "Built for Indie Speed Run 2012. Telepathy and booby-traps!", "version": "0.1.14", "app": {"urls": ["http://asylumnight.lostdecadegames.com/"], "launch": {"web_url": "http://asylumnight.lostdecadegames.com/"}}, "icons": {"128": "icon_128.png"}}

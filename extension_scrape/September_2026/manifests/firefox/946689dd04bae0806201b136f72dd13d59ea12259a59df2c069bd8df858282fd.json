@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "FinOps Loading Screen", "version": "1.0", "description": "Displays a random FinOps tip every time you open a new tab.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "icons": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}, "browser_specific_settings": {"gecko": {"id": "info@thekoifish.com"}}}

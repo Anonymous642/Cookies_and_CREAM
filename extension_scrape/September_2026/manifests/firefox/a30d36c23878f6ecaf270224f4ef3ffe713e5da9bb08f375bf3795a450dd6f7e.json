@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "audioff - audio device selector", "version": "2.1.1", "description": "Select audio output device for each tab.", "icons": {"48": "logo48.png"}, "permissions": ["activeTab", "menus", "scripting"], "background": {"scripts": ["bg.js"]}, "browser_specific_settings": {"gecko": {"id": "{86a7c9dd-049e-493b-b10b-64c94155c652}"}}}

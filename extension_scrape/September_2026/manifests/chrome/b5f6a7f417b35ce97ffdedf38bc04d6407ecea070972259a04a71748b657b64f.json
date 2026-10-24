@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Classic 25-Minute Break Reminder", "description": "A simple classic-style reminder to take a break every 25 minutes.", "version": "1.0", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}, "icons": {"128": "icon128.png"}}

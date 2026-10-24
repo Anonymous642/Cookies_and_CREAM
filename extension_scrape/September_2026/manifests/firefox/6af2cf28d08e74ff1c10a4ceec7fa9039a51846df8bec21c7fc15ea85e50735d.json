@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Weather Forecast", "version": "1.0", "description": "Get the current weather forecast for your location.", "permissions": ["geolocation", "activeTab"], "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{1d632e6e-bd37-44e0-bb8b-a268b37f7741}"}}}

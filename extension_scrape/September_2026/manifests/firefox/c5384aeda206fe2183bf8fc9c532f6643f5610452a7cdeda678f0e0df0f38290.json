@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ToDO.ext", "author": "Abhijeet Choudhary", "version": "1.0.5", "description": "ToDo.ext is an extension with which you can set your main/focus task of the day and also create your own todo.", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{9ed29533-4b49-4de9-bfce-6e484da7161d}"}}}

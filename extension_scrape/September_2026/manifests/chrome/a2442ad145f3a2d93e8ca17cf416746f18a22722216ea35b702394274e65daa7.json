@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "content_scripts": [{"js": ["index.js"], "matches": ["https://*.reddit.com/*"]}], "name": "Reddit Keybinds", "version": "1.1.7"}

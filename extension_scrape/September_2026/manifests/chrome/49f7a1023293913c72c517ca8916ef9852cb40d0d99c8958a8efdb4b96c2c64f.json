@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick JSON Formatter", "version": "1.0", "description": "Format, validate, and minify JSON instantly.", "action": {"default_popup": "popup.html", "default_title": "JSON Formatter"}, "permissions": []}

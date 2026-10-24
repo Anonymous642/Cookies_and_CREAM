@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Project Management Games", "description": "Compare and get a recommendation about PM Games", "version": "0.5", "app": {"urls": ["http://pmgames.tuxfamily.org/"], "launch": {"web_url": "http://pmgames.tuxfamily.org/"}}, "icons": {"128": "128.png"}}

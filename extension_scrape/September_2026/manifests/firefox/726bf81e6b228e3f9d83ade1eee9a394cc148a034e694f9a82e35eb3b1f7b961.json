@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Elon Musk to Grimes's boyfriend", "description": "Text replacement addon that changes \"Elon Musk\" to \"Grimes's boyfriend\"", "version": "1.1resigned1", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{0129970d-e080-4dcb-8be9-83436ae31ea8}"}}}

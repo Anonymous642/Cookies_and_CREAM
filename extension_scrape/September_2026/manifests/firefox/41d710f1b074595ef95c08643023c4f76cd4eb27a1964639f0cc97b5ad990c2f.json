@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "The Butterfly Effect - LiteTab", "description": "//Little things; big differences", "version": "0.1.3", "icons": {"48": "Icons/Logo_48.png", "128": "Icons/Logo_128.png"}, "chrome_url_overrides": {"newtab": "newTab.html"}, "browser_specific_settings": {"gecko": {"id": "{5cb4810c-de4c-418e-a798-27c060b110d9}"}}}

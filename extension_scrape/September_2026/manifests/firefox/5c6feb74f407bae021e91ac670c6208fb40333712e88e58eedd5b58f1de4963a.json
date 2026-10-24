@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TabSweep", "version": "0.3", "description": "Removes all tabs that are not grouped or pinned when you start Firefox.", "icons": {"48": "icons/border-48.png"}, "background": {"scripts": ["closeTabs.js"], "persistent": true}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "tabsweep@owldyn.net"}}}

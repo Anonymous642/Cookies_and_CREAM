@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "one-qlik-less", "version": "2.0", "icons": {"48": "icons/very-legal-icon-48.png", "96": "icons/very-legal-icon-96.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["Content.js"]}], "browser_specific_settings": {"gecko": {"id": "{09bdd5cf-decd-4dde-b204-2a7930220c29}"}}}

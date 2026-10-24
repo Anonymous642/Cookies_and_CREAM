@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "EUR to PGK Converter", "version": "1.0", "description": "Converts EUR to PGK in real-time.", "permissions": ["activeTab", "https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{a7db14c7-c343-4364-87f0-38fe3384807e}"}}}

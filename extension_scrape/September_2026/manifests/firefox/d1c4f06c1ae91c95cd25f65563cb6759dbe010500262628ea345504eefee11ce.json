@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ETB to NPR Converter", "version": "1.0", "description": "Convert Ethiopian Birr (ETB) to Nepalese Rupee (NPR).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert ETB to NPR"}, "browser_specific_settings": {"gecko": {"id": "{4c009a22-2810-45bb-ac79-84b17bc64a06}"}}}

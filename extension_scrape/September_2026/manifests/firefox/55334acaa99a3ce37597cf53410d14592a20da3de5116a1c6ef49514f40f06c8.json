@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Limpa chave de acesso e CNPJ", "version": "1.0", "description": "Remove pontos, tra\u00e7os, barras e espa\u00e7os de textos colados.", "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "sucessocontclaude@gmail.com", "strict_min_version": "109.0", "data_collection_permissions": {"required": ["none"]}}}}

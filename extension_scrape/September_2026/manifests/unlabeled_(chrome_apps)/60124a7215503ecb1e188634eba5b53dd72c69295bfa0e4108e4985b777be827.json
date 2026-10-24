@@ -1,0 +1,1 @@
+{"app": {"launch": {"local_path": "race.html"}}, "description": "\u4e3a\u77f3\u7f62\u5c0f\u5b66\u7684\u5b69\u5b50\u4eec How many can you answer in 60s?", "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "manifest_version": 2, "name": "0+0", "offline_enabled": true, "update_url": "http://clients2.google.com/service/update2/crx", "version": "1.8"}

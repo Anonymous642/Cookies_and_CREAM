@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Batch Butcher", "version": "1.0.0", "description": "An extension to inspect ODATA batched requests", "devtools_page": "./src/index.html", "icons": {"48": "lib/batch-butcher_48.png", "128": "lib/batch-butcher.png"}, "host_permissions": ["https://*/", "http://*/"]}

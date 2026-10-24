@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Spotify Ad Muter News 2025", "version": "7.2", "description": "Automatically mutes the Spotify web player during ads, so you can enjoy your music without interruptions", "content_scripts": [{"matches": ["*://open.spotify.com/*"], "js": ["admute.js"]}], "browser_specific_settings": {"gecko": {"id": "{b36bd0ac-3263-4a0a-8169-80996c984790}"}}}

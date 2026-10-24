@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Lemon", "version": "0.0", "description": "Tells you how many tabs are open!", "icons": {"48": "icons/lemon48.png", "96": "icons/lemon96.png"}, "browser_action": {"default_popup": "lemon.html"}, "browser_specific_settings": {"gecko": {"id": "{1eed43c0-675c-4336-9fe9-20dfcb2dfb0d}"}}}

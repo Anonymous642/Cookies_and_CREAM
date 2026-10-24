@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "XSLT Polyfill", "version": "1.0.24", "description": "Applies an XSLT polyfill to all XML documents.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js", "xslt-polyfill.min.js"], "run_at": "document_start", "all_frames": true, "world": "MAIN"}]}

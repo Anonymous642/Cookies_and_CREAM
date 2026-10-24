@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Faceghost", "version": "1.1", "description": "Remove unsolicited posts from your Facebook timeline", "icons": {"32": "icon-32.png", "64": "icon-64.png"}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["faceghost.js"]}], "browser_specific_settings": {"gecko": {"id": "{e84944d4-bfa6-4df3-b47a-85e3f1e605dc}"}}}

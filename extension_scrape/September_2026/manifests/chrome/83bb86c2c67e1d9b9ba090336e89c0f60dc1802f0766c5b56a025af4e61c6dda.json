@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hy's Ladder", "version": "1.0", "description": "Climb over paywalls using archive.ph", "permissions": ["activeTab"], "action": {"default_title": "Climb the Ladder", "default_icon": "icon128.png"}, "background": {"service_worker": "background.js"}}

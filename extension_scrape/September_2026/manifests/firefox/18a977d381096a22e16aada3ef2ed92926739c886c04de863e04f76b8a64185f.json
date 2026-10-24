@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mobdro", "description": "Stream TV for free with the Mobdro application \u2013 Download the Mobdro.", "version": "2.1.39", "chrome_url_overrides": {"newtab": "newpage.html"}, "browser_action": {"default_icon": "icon.png"}, "permissions": ["tabs"], "background": {"scripts": ["background.js"], "persistent": false}}

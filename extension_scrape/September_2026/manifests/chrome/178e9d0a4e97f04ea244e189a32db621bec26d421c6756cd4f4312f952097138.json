@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Note.com.ly Smart Notepad", "version": "1.2.1", "description": "A professional offline-capable notepad with auto-save, dark mode, and multi-language support.", "action": {"default_popup": "popup.html", "default_title": "Smart Notepad"}, "permissions": ["storage"]}

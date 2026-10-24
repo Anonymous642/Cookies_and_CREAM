@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Blox Fruits Trade Calculator", "description": "Trade calculator for Blox Fruits with price and value management.", "version": "1.0", "action": {"default_popup": "popup.html"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "blox_fruits_trade_calculator@example.com"}}}

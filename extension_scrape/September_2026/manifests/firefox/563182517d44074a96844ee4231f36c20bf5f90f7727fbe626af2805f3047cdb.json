@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reddit Redirector", "version": "1.0", "permissions": ["webRequest", "webRequestBlocking", "*://*.reddit.com/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{2055c6d7-1384-425c-a005-0b239dc8df1a}"}}}

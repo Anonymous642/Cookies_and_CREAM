@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Color Picker - By PK", "version": "1.0", "description": "Captura cores e converte para Pantone, CMYK e RGB.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

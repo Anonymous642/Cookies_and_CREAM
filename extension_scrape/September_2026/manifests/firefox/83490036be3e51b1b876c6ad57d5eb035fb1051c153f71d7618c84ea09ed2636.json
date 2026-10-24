@@ -1,0 +1,1 @@
+{"description": "Simple Youtube player controller", "manifest_version": 2, "name": "Youtube controller", "version": "1.42", "permissions": ["tabs"], "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"]}], "browser_action": {"browser_style": true, "default_popup": "popup/choose_page.html", "default_icon": {"512": "icon/logo.png"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Voces Digital Courseware", "description": "7-day trial available!", "version": "1.2", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "voceslogo-16.png", "128": "voceslogo-128.png"}, "permissions": ["storage", "webview"]}

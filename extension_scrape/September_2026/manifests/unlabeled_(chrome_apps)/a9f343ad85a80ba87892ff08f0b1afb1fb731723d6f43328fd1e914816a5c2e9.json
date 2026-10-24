@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Telenovelas", "description": "Ver novelas online gratis", "manifest_version": 2, "version": "0.1", "app": {"urls": ["http://www.vermitelenovela.com/"], "launch": {"web_url": "http://www.vermitelenovela.com/"}}, "icons": {"16": "icon-16.png", "128": "icon-128.png"}}

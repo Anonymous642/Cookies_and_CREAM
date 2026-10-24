@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Search in Youtube", "version": "1.0", "permissions": ["contextMenus"], "description": "Select any text and right click to search in YouTube", "background": {"service_worker": "background.js"}, "icons": {"16": "yt-icon16.png", "48": "yt-icon48.png", "128": "yt-icon128.png"}}

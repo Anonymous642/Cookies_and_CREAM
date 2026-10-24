@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Check Radio Button", "version": "1.0", "description": "Centang semua radio button 'Sudah' dengan satu klik", "permissions": ["activeTab", "<all_urls>"], "browser_action": {"default_popup": "popup.html", "default_title": "Auto Check Tool"}, "browser_specific_settings": {"gecko": {"id": "{08559691-3942-4230-b1c0-34d7719d4876}"}}}

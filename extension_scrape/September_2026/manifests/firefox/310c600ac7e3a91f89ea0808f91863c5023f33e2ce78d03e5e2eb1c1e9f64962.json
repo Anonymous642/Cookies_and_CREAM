@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "deGoogle", "version": "1.1resigned1", "description": "Replace Google CDN with cdnjs", "permissions": ["webRequest", "webRequestBlocking", "*://ajax.googleapis.com/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{57d6391c-e534-415b-9898-b4ace489a50c}"}}}

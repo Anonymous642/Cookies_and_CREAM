@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Techlog\u7528\u5c65\u6b74\u53d6\u5f97\u30dc\u30bf\u30f3", "version": "1.2", "permissions": ["history", "cookies"], "host_permissions": ["https://techlog-gdcm.onrender.com/*"], "action": {"default_popup": "popup.html"}}

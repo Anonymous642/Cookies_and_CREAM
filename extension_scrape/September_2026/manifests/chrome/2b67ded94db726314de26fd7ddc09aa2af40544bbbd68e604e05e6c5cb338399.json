@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "New Window Position fixer (v3 manifest)", "version": "0.1", "description": "Adjusts windows position when pressing Ctrl+N so it stays in the same place as the previous window", "background": {"service_worker": "background.js", "type": "module"}}

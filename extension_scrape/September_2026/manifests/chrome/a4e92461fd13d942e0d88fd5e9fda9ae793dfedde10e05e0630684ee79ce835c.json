@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Briefly", "version": "1.01", "description": "Summarize text using Javscript TextRank.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}, "permissions": [], "content_security_policy": {"extension_pages": "script-src 'self'; object-src 'self';"}}

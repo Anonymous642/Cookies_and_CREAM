@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Orbital Office Clipper", "version": "1.6", "permissions": ["tabs", "activeTab", "notifications", "contextMenus"], "host_permissions": ["https://orbitaloffice.com/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "hello@orbitaloffice.com"}}, "action": {"default_popup": "popup.html"}}

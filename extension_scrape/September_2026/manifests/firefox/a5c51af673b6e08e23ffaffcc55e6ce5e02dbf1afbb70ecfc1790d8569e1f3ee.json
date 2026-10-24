@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Yahoo Pick Pool Tool", "version": "1.3", "browser_specific_settings": {"gecko": {"id": "footballodds@jasondekarske.com", "strict_min_version": "109.0"}}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://football.fantasysports.yahoo.com/*"], "js": ["content.js"]}], "action": {"default_icon": {"48": "arodface-48.png"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HashaToHitomi", "version": "1.5", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.hasha.in/*", "*://*.harpi.in/*"], "js": ["hashaToHitomi.js"]}], "browser_specific_settings": {"gecko": {"id": "{fe5965a1-eba4-4670-9e7d-4027a4c2ad2c}"}}}

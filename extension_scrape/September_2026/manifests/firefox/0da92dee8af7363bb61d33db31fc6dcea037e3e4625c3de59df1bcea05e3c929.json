@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pop-up Plugin", "version": "1.0", "description": "Affiche un pop-up lorsqu'un lien sp\u00e9cifique est cliqu\u00e9.", "permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{bed88ac5-85ed-4cda-a305-39826caa5b3c}"}}}

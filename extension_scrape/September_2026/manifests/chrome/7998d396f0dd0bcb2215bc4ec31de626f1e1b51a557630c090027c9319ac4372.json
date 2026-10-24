@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SecureGen", "version": "1.2", "description": "A trial password generator with limited attempts.", "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Lytho Environment Banner", "version": "1.0", "description": "Displays environment banner for Lytho domains", "content_scripts": [{"matches": ["*://*.golytho.com/*", "*://*.golytho.us/*", "*://*.lytho.io/*", "*://*.lytho.us/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "lytho_environment_banner_extension@lytho.com"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Color Changer for Chess.com Self Analysis", "version": "1.0", "description": "Change the colors on the report section(chart, summary) and make it easier to see.", "icons": {"48": "icons/chesscomsa-48.png"}, "content_scripts": [{"matches": ["*://*.chess.com/analysis/*"], "js": ["chesscomsa.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RUB to ZAR Converter", "version": "1.0", "description": "Convert Russian Rubles (RUB) to South African Rand (ZAR).", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/"], "browser_specific_settings": {"gecko": {"id": "{e72c2d9c-3862-4f77-a22c-f18fcf190441}"}}}

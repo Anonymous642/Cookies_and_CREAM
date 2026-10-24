@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "URLpaste", "description": "Copy URLs in batch", "version": "0.1", "browser_action": {"default_popup": "popup.html", "default_icon": {}}, "permissions": ["tabs", "clipboardWrite"], "browser_specific_settings": {"gecko": {"id": "{0da60cb7-58cf-481b-825f-1e54c5b38cef}"}}}

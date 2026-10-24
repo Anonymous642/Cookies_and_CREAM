@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Display Div Dimensions", "version": "1.0", "description": "Identifies and displays dimensions of <div> elements on the current webpage.", "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "displaydivdimensions@gmail.com"}}, "background": {"scripts": ["background.js"], "persistent": false}}

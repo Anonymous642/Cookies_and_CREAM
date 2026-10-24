@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reading Goal Tracker", "version": "1.0", "description": "Track children's reading progress.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{242ac96a-ee45-4940-9330-d2a2d7162bd0}"}}}

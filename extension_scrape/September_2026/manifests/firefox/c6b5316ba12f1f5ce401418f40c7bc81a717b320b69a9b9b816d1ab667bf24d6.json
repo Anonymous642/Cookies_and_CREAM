@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "AMD to SHP", "version": "1.0", "description": "Convert AMD to SHP", "browser_specific_settings": {"gecko": {"id": "amd-to-shp@example.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Page Text Analyzer", "description": "Counts words, characters, reading time, and page structure on any webpage.", "version": "1.0.1", "permissions": [], "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

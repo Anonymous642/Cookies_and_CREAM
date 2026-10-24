@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reddit Logo Hider", "version": "1.0", "description": "Hides the Reddit logo and icon from the top left on every Reddit page.", "content_scripts": [{"matches": ["*://www.reddit.com/*"], "css": ["hide-logo.css"]}], "permissions": [], "browser_specific_settings": {"gecko": {"id": "{d09165b8-ee27-482d-80f0-66fd6408ba6d}"}}}

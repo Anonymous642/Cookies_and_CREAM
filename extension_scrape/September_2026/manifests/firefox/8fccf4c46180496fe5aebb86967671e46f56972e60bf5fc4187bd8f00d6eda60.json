@@ -1,0 +1,1 @@
+{"name": "OsuTweaks", "version": "0.1.0", "manifest_version": 2, "content_scripts": [{"matches": ["*://osu.ppy.sh/*"], "js": ["src/script.js"]}], "browser_specific_settings": {"gecko": {"id": "{75b5f1fb-70bf-404b-878e-71f8a9a07877}"}}}

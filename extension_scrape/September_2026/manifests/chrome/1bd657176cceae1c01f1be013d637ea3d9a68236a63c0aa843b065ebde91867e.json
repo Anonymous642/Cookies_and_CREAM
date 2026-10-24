@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "RedditBuddy", "description": "AI assistant for Reddit", "version": "0.0.1", "content_scripts": [{"matches": ["https://www.reddit.com/*"], "run_at": "document_end", "js": ["js/content_script.js"], "css": ["css/content_script.css"]}]}

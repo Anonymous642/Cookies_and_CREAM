@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Guess the Number Game", "version": "1.2", "description": "A fun number guessing game in your Chrome browser!", "action": {"default_popup": "index.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "permissions": []}

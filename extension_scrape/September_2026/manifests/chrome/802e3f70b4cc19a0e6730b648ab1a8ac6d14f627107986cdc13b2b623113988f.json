@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Entrepreneur Inspiration", "version": "1.0", "description": "Zeigt ein zuf\u00e4lliges, inspirierendes Zitat f\u00fcr Unternehmer.", "icons": {"128": "icon.png"}, "action": {"default_popup": "popup.html", "default_icon": {"128": "icon.png"}}}

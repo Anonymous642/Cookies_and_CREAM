@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SERP Preview Tool", "version": "1.0", "description": "Preview how your page appears in search engine results.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{b9bfda60-057f-4e49-9a1f-c36df261aeee}"}}}

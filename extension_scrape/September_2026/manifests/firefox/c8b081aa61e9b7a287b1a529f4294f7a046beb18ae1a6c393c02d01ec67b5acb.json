@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "One-Key Hero", "version": "1.0", "description": "A minimal game using only one key: Space. Press on beat to win.", "browser_action": {"default_title": "One-Key Hero", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "one-key-hero@amo.local", "data_collection_permissions": {"required": ["none"], "optional": []}}}}

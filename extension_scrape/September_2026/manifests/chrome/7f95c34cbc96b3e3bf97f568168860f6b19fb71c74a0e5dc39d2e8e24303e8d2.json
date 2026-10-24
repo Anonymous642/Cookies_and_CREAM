@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Domo Cookie Cleaner", "version": "1.0", "description": "Clears all cookies from .domo.com", "permissions": ["cookies"], "host_permissions": ["https://*.domo.com/", "http://*.domo.com/"], "action": {"default_popup": "index.html"}, "background": {"service_worker": "background.js"}}

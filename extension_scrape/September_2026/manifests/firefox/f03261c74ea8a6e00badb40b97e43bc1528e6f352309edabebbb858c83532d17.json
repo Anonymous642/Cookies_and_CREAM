@@ -1,0 +1,1 @@
+{"description": "Bring a touch of tranquility and natural beauty to your browser", "manifest_version": 2, "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"128": "740909.png"}, "name": "Chamomile Bliss", "version": "1.0", "browser_specific_settings": {"gecko": {"id": "{9530b9d2-fa56-4ef7-a287-c6398a7df806}"}}}

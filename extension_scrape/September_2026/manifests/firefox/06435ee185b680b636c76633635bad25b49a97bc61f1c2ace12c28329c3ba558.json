@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Snapchat UA Changer", "version": "1.0", "description": "Changes the User-Agent for Snapchat", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{8e0cf9cc-9e51-40e8-9d4d-66cec15fedba}"}}}

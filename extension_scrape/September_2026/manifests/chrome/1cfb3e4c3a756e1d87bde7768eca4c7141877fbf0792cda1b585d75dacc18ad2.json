@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "OneT&E", "description": "OneT&E", "version": "1.0.0", "icons": {"128": "img/icon.png"}, "action": {"default_popup": "popup.html"}, "manifest_version": 3, "permissions": []}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CoolUtils Image Converter", "description": "Online Image Converter", "app": {"urls": ["https://www.coolutils.com/Online/Image-Converter/"], "launch": {"web_url": "https://www.coolutils.com/Online/Image-Converter/"}}, "manifest_version": 2, "version": "0.1", "icons": {"128": "image_icon.png"}}

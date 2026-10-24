@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CookieClicker Tab Edition", "version": "1.0", "description": "Phi\u00ean b\u1ea3n mini Cookie Clicker trong popup ti\u1ec7n \u00edch Firefox.", "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{971272b3-fea9-4f0b-8d6d-e3216525db58}"}}}

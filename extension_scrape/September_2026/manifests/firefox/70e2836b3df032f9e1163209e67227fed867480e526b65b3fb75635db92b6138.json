@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Toolbar hour", "version": "1.2", "description": "Displays a hour in the toolbar.", "background": {"scripts": ["background.js"]}, "browser_action": {"default_title": "hour"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{967f4c67-a20a-429b-bc77-3f3ba3c7675f}"}}}

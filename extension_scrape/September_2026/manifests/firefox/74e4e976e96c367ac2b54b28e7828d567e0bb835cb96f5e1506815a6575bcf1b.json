@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "ClickMan", "description": "Automatically click YouTube \"Skip Ads\" Button", "version": "1.0", "action": {"default_icon": "icon.png"}, "content_scripts": [{"matches": ["https://*.youtube.com/*"], "js": ["scripts/content.js"]}], "browser_specific_settings": {"gecko": {"id": "clickman@wikylyu.xyz", "strict_min_version": "109.0"}}}

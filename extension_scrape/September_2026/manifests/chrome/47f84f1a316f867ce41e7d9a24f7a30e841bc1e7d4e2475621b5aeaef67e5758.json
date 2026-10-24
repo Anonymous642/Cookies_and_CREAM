@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Serene Sakura New Tab", "version": "1.0", "description": "Transforms your browser's new tab into a tranquil Japanese garden scene.", "icons": {"128": "cherry-blossom_1f338.png"}, "permissions": ["geolocation"], "chrome_url_overrides": {"newtab": "index.html"}}

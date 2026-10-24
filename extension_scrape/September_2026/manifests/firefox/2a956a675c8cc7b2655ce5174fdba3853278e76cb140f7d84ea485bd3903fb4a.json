@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "My IP", "version": "4.1", "description": "Displays your current IP address with copy and download options.", "action": {"default_popup": "index.html"}, "icons": {"500": "IMG/IP.png"}, "browser_specific_settings": {"gecko": {"id": "{424485ef-8107-4935-956a-f69b2b0e29d5}"}}}

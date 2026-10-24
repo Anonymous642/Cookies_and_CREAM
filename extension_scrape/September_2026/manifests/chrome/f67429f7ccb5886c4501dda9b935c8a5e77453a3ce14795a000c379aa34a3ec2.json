@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AO3 Fic Hider", "version": "1.1", "description": "Adds a hide button to AO3 works and a 'Show Hidden Fics' option to restore them.", "permissions": ["storage"], "content_scripts": [{"matches": ["https://archiveofourown.org/*"], "js": ["content.js"], "run_at": "document_end"}]}

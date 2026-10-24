@@ -1,0 +1,1 @@
+{"name": "BHMPICS", "description": "Free Wallpaper Download, Desktop HD Wallpapers, Download High Definition Wallpapers.", "app": {"urls": ["http://www.bhmpics.com/"], "launch": {"web_url": "http://www.bhmpics.com/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

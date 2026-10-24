@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Hardware Info Price Extension", "version": "1.0", "manifest_version": 3, "description": "Simple Chrome extension that shows the total price in your wishlist if you buy it at seperate stores", "content_scripts": [{"matches": ["https://nl.hardware.info/wensenlijst/*"], "js": ["content.js"]}]}

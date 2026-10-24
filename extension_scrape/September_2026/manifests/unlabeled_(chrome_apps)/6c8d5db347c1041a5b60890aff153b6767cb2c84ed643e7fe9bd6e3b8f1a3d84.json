@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "My Songpod", "manifest_version": 2, "description": "One stop destination for music lovers.A website which lets you listen and download all types of song", "version": "1.0", "icons": {"16": "chrome-icon16.png", "128": "chrome-icon.png"}, "app": {"background": {"scripts": ["background.js"]}}}

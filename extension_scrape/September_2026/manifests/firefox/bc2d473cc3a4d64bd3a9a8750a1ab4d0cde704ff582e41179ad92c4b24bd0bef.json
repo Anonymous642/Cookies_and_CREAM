@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Tab Hibernator", "version": "1.0", "description": "Save memory, hibernate tabs.", "action": {"default_popup": "popup.html", "default_icon": "tab_hibernator.png"}, "icons": {"128": "tab_hibernator.png"}, "browser_specific_settings": {"gecko": {"id": "goberfhyh623778@hotmail.com"}}}

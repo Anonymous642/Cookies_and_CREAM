@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Google Meet Participant Shuffler", "version": "3.1", "manifest_version": 3, "permissions": ["activeTab", "scripting"], "action": {}, "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Group Game Ideas", "description": "Get random fun group game ideas instantly.", "version": "1.0", "action": {"default_popup": "popup.html", "default_title": "Group Games"}, "icons": {"128": "icon.png"}}

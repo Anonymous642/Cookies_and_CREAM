@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Random Pet Name", "version": "1.0.0", "description": "Show a random pet animal name with a clean, modern popup design.", "action": {"default_popup": "popup.html", "default_title": "Random Pet Name"}, "icons": {"128": "icon-128.png"}}

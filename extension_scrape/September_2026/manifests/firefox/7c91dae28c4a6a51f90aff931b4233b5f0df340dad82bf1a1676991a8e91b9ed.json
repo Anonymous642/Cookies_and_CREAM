@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Refresher Lite", "version": "1.0", "description": "Auto-refresh the current tab at custom time intervals.", "permissions": ["tabs"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{1f988549-7394-4c59-90e5-939b82324701}"}}}

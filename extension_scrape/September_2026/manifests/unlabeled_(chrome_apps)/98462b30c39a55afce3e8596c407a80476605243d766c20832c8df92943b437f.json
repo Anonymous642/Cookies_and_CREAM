@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "LearningApps.org", "description": "", "version": "1", "icons": {"128": "128.png"}, "app": {"urls": ["http://learningapps.org/"], "launch": {"web_url": "http://learningapps.org/"}}, "manifest_version": 2}

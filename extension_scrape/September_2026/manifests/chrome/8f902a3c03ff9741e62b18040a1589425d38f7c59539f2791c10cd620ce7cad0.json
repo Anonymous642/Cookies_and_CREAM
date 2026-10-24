@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bulk Instagram Username Checker Tool", "version": "1.1", "description": "Check Instagram username availability By Encorejeune", "action": {"default_popup": "popup.html"}, "permissions": ["clipboardWrite", "storage"], "host_permissions": ["https://www.instagram.com/*"]}

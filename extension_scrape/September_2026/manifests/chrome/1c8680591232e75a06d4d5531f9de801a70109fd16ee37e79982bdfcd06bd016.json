@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1", "name": "Deer", "chrome_url_overrides": {"newtab": "index.html"}, "description": "Deer are a family of even-toed ungulates that ruminate.", "manifest_version": 3}

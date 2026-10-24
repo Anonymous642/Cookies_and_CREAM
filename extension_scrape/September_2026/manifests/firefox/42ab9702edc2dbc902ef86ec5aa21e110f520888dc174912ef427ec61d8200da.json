@@ -1,0 +1,1 @@
+{"name": "t.co unmangler", "version": "0.1.4resigned1", "manifest_version": 2, "description": "Rewrite t.co twitter links with their full-URL counterparts", "content_scripts": [{"matches": ["https://twitter.com/*", "https://*.twitter.com/*"], "js": ["tco-unmangler.js"], "all_frames": true}], "browser_specific_settings": {"gecko": {"id": "{f5643018-a5d7-48bf-b2f6-c10b51e0b013}"}}}

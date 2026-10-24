@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Baibao Box", "description": "\u767e\u5b9d\u888b\uff0c\u5f00\u53d1\u5c0f\u5de5\u5177\u96c6\u5408\uff1ajson\u683c\u5f0f\u5316", "version": "1.1", "manifest_version": 3, "icons": {"16": "img/icon_16.png", "128": "img/icon_128.png"}, "action": {"default_popup": "popup.html"}}

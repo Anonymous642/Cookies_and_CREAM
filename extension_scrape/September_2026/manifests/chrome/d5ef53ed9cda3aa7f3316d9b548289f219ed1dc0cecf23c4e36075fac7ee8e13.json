@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gmail Cleaner AI", "description": "Nettoyage intelligent Gmail avec IA", "version": "1.0", "action": {"default_popup": "popup.html"}, "permissions": ["storage"], "host_permissions": ["https://email-cleaner-108504551030.europe-west1.run.app/*"]}

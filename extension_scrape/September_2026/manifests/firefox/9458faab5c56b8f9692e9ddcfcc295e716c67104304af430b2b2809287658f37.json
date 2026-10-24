@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Bedtime Joke Teller", "version": "1.0", "description": "A fun add-on that picks a random kid-friendly joke for bedtime storytelling!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "aisha7barnhillzsl604@hotmail.com"}}}

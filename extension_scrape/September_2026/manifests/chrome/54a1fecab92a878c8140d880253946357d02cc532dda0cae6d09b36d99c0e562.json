@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "K-Pop Daily Goals", "version": "1.0.0", "description": "Random daily goals with a K-pop inspired vibe (offline, no permissions).", "action": {"default_title": "K-Pop Daily Goals", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

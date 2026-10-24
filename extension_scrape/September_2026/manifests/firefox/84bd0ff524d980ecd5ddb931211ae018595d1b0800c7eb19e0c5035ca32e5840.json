@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Plastic-Free Reminder", "version": "1.0", "description": "Displays a daily reminder to reduce single-use plastic usage.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{e9329b95-eed1-4d2c-bb1c-2c976ea5050c}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Arrayan Transaction Search", "version": "1.0", "action": {"default_popup": "popup.html", "default_title": "Search Transaction"}, "host_permissions": ["https://cloud.resilientdb.com/*"], "content_security_policy": {"extension_pages": "script-src 'self'; object-src 'self'"}}

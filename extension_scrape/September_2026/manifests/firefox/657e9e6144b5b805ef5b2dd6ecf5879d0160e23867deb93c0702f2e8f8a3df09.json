@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tartarus Startpage", "version": "1.0", "description": "Custom new tab page", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{c0b79841-d1ea-48f1-9c93-f9677bb6291a}"}}}

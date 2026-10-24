@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WallhavenDL", "version": "1.0.1", "description": "Adds a download button for Wallhaven wallpapers.", "icons": {"48": "icons/download-48.png"}, "permissions": ["downloads"], "content_scripts": [{"matches": ["*://wallhaven.cc/w/*"], "js": ["whdl-cs.js"]}], "background": {"scripts": ["whdl-bg.js"]}}

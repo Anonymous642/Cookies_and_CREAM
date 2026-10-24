@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Content Plagiarism Checker", "version": "1.0", "description": "Check for duplicated content by searching selected text.", "permissions": ["activeTab", "contextMenus"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{37c4267b-c8e6-4964-86ff-3532aa7f06a4}"}}}

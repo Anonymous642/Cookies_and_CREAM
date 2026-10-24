@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Nightly Dashboard", "version": "1.0.0", "description": "Better than ever, your personalization is key to us!", "chrome_settings_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "lrtstudioofficial@gmail.com", "strict_min_version": "109.0"}}}

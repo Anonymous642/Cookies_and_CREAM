@@ -1,0 +1,1 @@
+{"name": "Search Selection", "description": "Search for selected word in popular search Engines", "version": "1.1resigned1", "manifest_version": 2, "permissions": ["contextMenus"], "background": {"scripts": ["bg.js"]}, "browser_specific_settings": {"gecko": {"id": "{0aebe630-7577-437e-b33e-e898e2da3174}"}}}

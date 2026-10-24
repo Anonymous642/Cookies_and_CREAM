@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search Memories", "version": "1.1.0", "description": "Shows your search queries from years past", "permissions": ["history"], "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"32": "icon.png", "64": "icon@2x.png"}, "browser_specific_settings": {"gecko": {"id": "{d8648d66-a1fc-4153-9423-9b0a766cc12c}"}}}

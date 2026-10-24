@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Inner Calm", "version": "1.1", "description": "Enhance your browsing experience with Inner Calm, designed for yoga enthusiasts, mindfulness seekers, and lovers of serene beauty. ", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"48": "/icon.png"}}

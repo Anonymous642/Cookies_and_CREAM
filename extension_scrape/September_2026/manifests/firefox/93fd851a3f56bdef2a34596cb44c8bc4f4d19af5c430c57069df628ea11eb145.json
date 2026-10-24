@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Customizable Start Page", "version": "1.0", "description": "Design a personalized homepage with widgets and shortcuts.", "permissions": ["storage"], "chrome_url_overrides": {"newtab": "index.html"}, "action": {"default_icon": {"128": "icons/icon-128.png"}}, "browser_specific_settings": {"gecko": {"id": "{b6e5a9c1-8d6e-4d7e-9f3c-6b8f93dfd9cd}"}}}

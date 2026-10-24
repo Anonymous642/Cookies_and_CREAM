@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "To-Do List", "version": "1.0", "description": "A simple to-do list extension.", "permissions": ["storage"], "icons": {"16": "images/TodoListLogoSmall.png", "48": "images/ToDoListLogoMed.png", "128": "images/ToDoListLogoLarge.png"}, "action": {"default_popup": "popup.html"}}

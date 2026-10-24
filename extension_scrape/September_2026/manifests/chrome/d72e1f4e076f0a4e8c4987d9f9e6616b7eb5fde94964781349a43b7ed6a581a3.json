@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "description": "Delete history using regular expressions", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "manifest_version": 3, "name": "Delete History", "action": {"default_popup": "popup.html"}, "permissions": ["history"], "version": "0.1.1"}

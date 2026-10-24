@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PerplexSearch", "version": "1.0.0", "description": "Search selected text directly in Perplexity", "permissions": ["contextMenus"], "background": {"service_worker": "background.js"}, "icons": {"128": "icon.png"}}

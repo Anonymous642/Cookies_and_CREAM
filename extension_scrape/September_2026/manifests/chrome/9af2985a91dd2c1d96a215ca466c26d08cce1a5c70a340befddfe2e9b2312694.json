@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Nyaa To Clipboard", "version": "1.0", "manifest_version": 3, "description": "Copy all magnet link from visible torrents to the clipboard", "action": {"default_title": "Nyaa To Clipboard", "default_popup": "popup.html"}, "permissions": ["scripting", "activeTab"]}

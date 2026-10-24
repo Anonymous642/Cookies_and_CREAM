@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "JSON Explorer DevTools", "version": "0.13.1", "description": "Advanced JSON exploration tool for DevTools with multiple view modes", "permissions": ["devtools"], "devtools_page": "devtools.html"}

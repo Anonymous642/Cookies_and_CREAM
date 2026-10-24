@@ -1,0 +1,1 @@
+{"manifest_version": 3, "version": "0.0.0", "name": "your-tab", "description": "Make the new tab - your tab.", "author": "Joseph Gerald", "chrome_url_overrides": {"newtab": "chrome_url_overrides/newtab.html"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "extensions-yourtab@jooo.tech", "strict_min_version": "58.0"}}}

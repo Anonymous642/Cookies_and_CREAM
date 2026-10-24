@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Embroidery Proof Maker", "description": "Local embroidery preview, markup, and approval PDF export.", "version": "0.1.0", "action": {"default_title": "Embroidery Proof Maker"}, "background": {"service_worker": "background.js"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pappers Search Extension", "version": "1.0", "description": "Search for companies on Pappers from any website", "icons": {"48": "icon.png"}, "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{be57479d-6a9c-4765-b6b4-675d3fee0255}"}}}

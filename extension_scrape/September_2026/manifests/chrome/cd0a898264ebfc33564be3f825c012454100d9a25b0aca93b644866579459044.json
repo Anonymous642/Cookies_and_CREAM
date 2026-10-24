@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Direct WA Message Sender", "version": "1.1", "description": "3 clicks to generate direct WhatsApp message link on computer.", "action": {"default_popup": "popup.html", "default_icon": "waicon.png"}, "icons": {"16": "waicon.png", "48": "waicon.png", "128": "waicon.png"}}

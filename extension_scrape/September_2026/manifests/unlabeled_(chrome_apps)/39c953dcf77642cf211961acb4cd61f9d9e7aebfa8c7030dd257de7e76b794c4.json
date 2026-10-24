@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MP3 Player", "description": "This application useful to play local audio files. select your audio files folder by clicking on Select button", "version": "0.2.1", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "images/player-16.png", "128": "images/player-128.png"}}

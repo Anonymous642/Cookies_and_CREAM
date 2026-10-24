@@ -1,0 +1,1 @@
+{"name": "arturogoga", "description": "Lo mejor de la tecnolog\u00eda (PCs, Smartphones, Tablets), en Espa\u00f1ol", "app": {"urls": ["http://www.arturogoga.com/"], "launch": {"web_url": "http://www.arturogoga.com/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

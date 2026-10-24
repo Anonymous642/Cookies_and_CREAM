@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mission Astro Filter", "version": "1.0.0", "description": "Find and highlight Shaadi.com profiles meeting a minimum Astro score.", "permissions": ["activeTab", "scripting"], "action": {"default_title": "Mission Astro Filter", "default_popup": "popup.html"}}

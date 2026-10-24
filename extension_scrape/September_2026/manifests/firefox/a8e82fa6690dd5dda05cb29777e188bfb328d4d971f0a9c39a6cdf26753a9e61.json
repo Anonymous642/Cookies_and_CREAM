@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "big rat", "version": "1.0.0", "description": "replace every image on a website with a really cool big rat", "icons": {"48": "icons/bigrat.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["bigrat.js"]}], "browser_specific_settings": {"gecko": {"id": "{0d170162-ae25-4b9c-9b82-e856f7b721ac}"}}}

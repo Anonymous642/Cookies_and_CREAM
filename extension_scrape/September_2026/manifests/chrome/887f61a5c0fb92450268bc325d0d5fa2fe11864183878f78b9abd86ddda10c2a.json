@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GitHub Hide Whitespace", "version": "0.0.1", "background": {"service_worker": "service-worker-loader.js", "type": "module"}, "permissions": ["activeTab"], "host_permissions": ["https://github.com/**/files"]}

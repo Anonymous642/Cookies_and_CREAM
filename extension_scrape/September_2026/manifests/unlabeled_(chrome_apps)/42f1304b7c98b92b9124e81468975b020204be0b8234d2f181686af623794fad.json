@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Deutsche Bands", "description": "Tudo sobre bandas alem\u00e3s", "version": "3.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "permissions": ["notifications"], "app": {"urls": ["http://dbands.com.br/"], "launch": {"web_url": "http://dbands.com.br/"}}, "short_name": "Deutsche Bands"}

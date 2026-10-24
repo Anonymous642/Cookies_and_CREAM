@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute Baby Password Generator", "description": "T\u1ea1o m\u1eadt kh\u1ea9u ng\u1eabu nhi\u00ean theo phong c\u00e1ch cute baby", "version": "1.0.0", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}}

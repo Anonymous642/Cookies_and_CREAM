@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GitHub Prevent Thumbs Down Click", "version": "1.0", "description": "This extension prevents you from accidentally pressing Thumbs Down.", "host_permissions": ["https://github.com/*"], "content_scripts": [{"matches": ["https://github.com/*"], "css": ["content.css"]}]}

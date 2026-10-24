@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "eBay Extension", "version": "1.0", "description": "Quick access to eBay search and deals.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{dc88f992-c9c4-4f3c-907a-61b8f6388a3c}"}}}

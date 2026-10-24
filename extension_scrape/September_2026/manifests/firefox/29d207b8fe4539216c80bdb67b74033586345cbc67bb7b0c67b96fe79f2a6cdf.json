@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Roblox DevTools", "version": "1.0.1", "description": "Useful tools for Roblox developers", "content_scripts": [{"matches": ["*://create.roblox.com/*"], "js": ["scripts/content/exact-price.js"]}], "browser_specific_settings": {"gecko": {"id": "roblox-dev-tools@ikingninja.github.io"}}}

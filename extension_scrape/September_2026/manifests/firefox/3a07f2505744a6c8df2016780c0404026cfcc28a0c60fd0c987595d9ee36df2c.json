@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Free Real Estate", "description": "It's a free house Jim", "version": "1.6resigned1", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{c659e24c-257a-486f-99f4-fef72e9caf86}"}}}

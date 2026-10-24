@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Culligan Water Filter", "description": "This is the description", "version": "0.1", "icons": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["./emojiMap.js", "./substitute.js"]}]}

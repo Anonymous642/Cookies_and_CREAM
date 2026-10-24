@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Whichward", "version": "1.2resigned1", "description": "Finds the ward associated with an address on Zillow.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.zillow.com/*"], "js": ["whichward.js"]}], "browser_specific_settings": {"gecko": {"id": "{1c1444d1-3118-480a-b64e-a3c9fd92e85b}"}}}

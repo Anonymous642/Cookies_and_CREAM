@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "QR Code Generator", "version": "1.0.0", "description": "Getting qr code of current page", "manifest_version": 3, "author": "Royce Malikov", "action": {"default_popup": "index.html", "default_title": "QR Code Generator"}, "permissions": ["tabs"]}

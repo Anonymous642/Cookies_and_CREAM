@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "AppLenz", "description": "Decentralize Your Browsing Experience", "version": "1.0.6", "manifest_version": 3, "icons": {"512": "android-chrome-512x512.png"}, "chrome_url_overrides": {"newtab": "./index.html"}}

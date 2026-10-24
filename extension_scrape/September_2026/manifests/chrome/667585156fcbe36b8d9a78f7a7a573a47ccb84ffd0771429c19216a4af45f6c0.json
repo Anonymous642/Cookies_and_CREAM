@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Wani Kani Toggle", "version": "2.0.0", "description": "Toggle on G press", "icons": {"128": "images/icon-128.png"}, "content_scripts": [{"js": ["content.js"], "matches": ["https://*.wanikani.com/*"]}]}

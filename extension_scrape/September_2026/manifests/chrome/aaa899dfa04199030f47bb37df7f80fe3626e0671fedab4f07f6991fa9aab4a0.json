@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cliptic AI", "description": "Generate Shorts from online videos", "version": "1.0", "permissions": ["activeTab"], "action": {"default_popup": "popup.html", "default_icon": "logo-cliptic.png"}, "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Change_top_bar_style", "version": "1.0", "description": "Change top bar style", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["changeTopBarStyle.js"]}], "icons": {"16": "icon.svg", "24": "icon.svg", "48": "icon.svg", "96": "icon.svg"}, "browser_specific_settings": {"gecko": {"id": "{6101d90e-a799-46d5-99b3-287eed9cc57b}"}}}

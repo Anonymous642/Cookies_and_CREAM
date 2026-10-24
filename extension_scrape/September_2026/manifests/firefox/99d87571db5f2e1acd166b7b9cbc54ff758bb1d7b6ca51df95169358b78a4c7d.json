@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Vim", "version": "0.0.0", "description": "Minimal Vim emulation.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["vim.js"]}], "browser_specific_settings": {"gecko": {"id": "{36fe1405-b4f0-4b81-b351-3175547f7db5}"}}}

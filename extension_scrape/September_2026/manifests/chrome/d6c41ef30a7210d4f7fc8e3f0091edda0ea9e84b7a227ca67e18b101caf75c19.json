@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Desert Mirage", "description": "Transform your browser into a gateway to a mesmerizing desert fantasy", "manifest_version": 3, "version": "1.1", "chrome_url_overrides": {"newtab": "index.html"}}

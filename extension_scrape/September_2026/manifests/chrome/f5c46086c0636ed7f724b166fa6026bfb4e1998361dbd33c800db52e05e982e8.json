@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ancient Domain Forge", "version": "1.0.0", "description": "Generate domain names in a retro-dark ancient terminal style. Minimal permissions.", "action": {"default_title": "Ancient Domain Forge", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

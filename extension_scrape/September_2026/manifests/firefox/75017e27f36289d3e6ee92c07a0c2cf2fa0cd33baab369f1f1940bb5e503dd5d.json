@@ -1,0 +1,1 @@
+{"name": "rohitnaeusearch", "version": "1.1resigned1", "manifest_version": 2, "description": "Provides multiple search options", "permissions": ["contextMenus"], "background": {"scripts": ["rohiee.xml"]}, "browser_specific_settings": {"gecko": {"id": "{69f5363f-ffa9-49d2-b6f1-a3a74ee33ff7}"}}}

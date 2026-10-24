@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Image Resolution Viewer", "version": "1.0", "description": "Show image resolution on right-click.", "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["background.js"]}, "icons": {"16": "icon16.png", "48": "icon48.png", "96": "icon96.png"}, "browser_specific_settings": {"gecko": {"id": "imageresolution@example.com"}}}

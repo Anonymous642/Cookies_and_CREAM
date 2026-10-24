@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "JSS Inspector", "version": "0.3", "permissions": ["scripting"], "host_permissions": ["<all_urls>"], "background": {"service_worker": "service-worker.js"}, "icons": {"16": "assets/icon16.png", "48": "assets/icon48.png", "128": "assets/icon128.png"}, "devtools_page": "devtools.html"}

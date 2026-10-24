@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Parkour Pandemonium", "version": "1.0.3", "description": "A JavaScript canvas version of the 8-bit platformer.", "action": {"default_popup": "popup.html"}}

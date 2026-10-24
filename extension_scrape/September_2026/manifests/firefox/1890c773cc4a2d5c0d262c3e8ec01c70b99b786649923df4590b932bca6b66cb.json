@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Page Jotter", "version": "1.0", "description": "Quick notes on any webpage.", "action": {"default_popup": "popup.html", "default_icon": "page_jotter.png"}, "icons": {"128": "page_jotter.png"}, "browser_specific_settings": {"gecko": {"id": "kristiemqsp539577@hotmail.com"}}}

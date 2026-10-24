@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "URL-Lister", "description": "Makes a list of URLs", "version": "1.5", "icons": {"128": "images/128.png"}, "background": {"service_worker": "background.js"}, "permissions": ["activeTab", "contextMenus", "downloads", "offscreen", "storage"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "\uac24\uc9c8 \ub3c4\uc6b0\ubbf8E", "version": "1.10", "description": "\uac24\uc9c8\ub3c4\uc6b0\ubbf8", "permissions": [], "host_permissions": ["https://gall.dcinside.com/*"], "content_scripts": [{"matches": ["https://gall.dcinside.com/*"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FuckCsdnAntiCopy", "version": "1.1", "content_scripts": [{"matches": ["https://blog.csdn.net/*", "https://*.blog.csdn.net/*"], "js": ["hack.js"]}]}

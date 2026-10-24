@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mr Check", "version": "1.2", "description": "Automatically checks the squash and delete branch boxes on new GitLab merge requests", "icons": {"48": "icon-48.png", "96": "icon-96.png"}, "content_scripts": [{"matches": ["*://gitlab.podium.com/*/merge_requests/new*", "*://gitlab.podium.com/*/merge_requests/*/edit"], "js": ["mr-check.js"]}]}

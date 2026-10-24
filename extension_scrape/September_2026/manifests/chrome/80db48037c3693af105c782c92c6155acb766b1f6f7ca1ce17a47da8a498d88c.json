@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sniper Attack 2 - ExGamez", "version": "1.0", "description": "Play Sniper Attack 2 for free on ExGamez. Experience the best 3D sniper action!", "icons": {"48": "icon48.png", "128": "icon128.png"}, "action": {"default_popup": "popup.html"}, "permissions": []}

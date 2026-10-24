@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u041f\u043e\u043a\u0435\u0440 \u043d\u0430 \u043a\u043e\u0441\u0442\u044f\u0445", "version": "2.1", "icons": {"128": "128.png"}, "app": {"urls": ["http://minigames.mail.ru/dice"], "launch": {"web_url": "http://minigames.mail.ru/dice"}}, "permissions": ["notifications"], "manifest_version": 2}

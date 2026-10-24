@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Faceit Demo Renamer", "version": "1.0", "description": "Automatically rename Faceit CS2 demo downloads using match info", "permissions": ["downloads"], "host_permissions": ["https://api.faceit.com/*"], "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Congress Name Formatter", "version": "1.0", "description": "Adds party/state/district labels after member names.", "permissions": ["clipboardRead", "clipboardWrite"], "action": {"default_popup": "popup.html"}}

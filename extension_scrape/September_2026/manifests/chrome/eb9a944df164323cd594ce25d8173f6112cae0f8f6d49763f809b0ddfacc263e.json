@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Horarios ffyl", "version": "1.0.0", "description": "Mejora la visualizaci\u00f3n de los horarios escolares.", "icons": {"128": "logo.png"}, "content_scripts": [{"matches": ["https://servicios-galileo.filos.unam.mx/horarios/ordinarios/*"], "js": ["main.js"]}]}

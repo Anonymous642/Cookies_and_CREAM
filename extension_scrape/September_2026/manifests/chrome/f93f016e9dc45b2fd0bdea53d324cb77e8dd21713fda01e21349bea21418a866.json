@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "URL Transformer", "version": "1.0", "description": "URL Transformer: Shorten or expand URLs quickly.", "action": {"default_popup": "popup.html", "default_icon": "url_transformer.png"}, "icons": {"128": "url_transformer.png"}}

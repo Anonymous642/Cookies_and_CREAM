@@ -1,0 +1,1 @@
+{"name": "Laurot Converter", "version": "0.4resigned1", "manifest_version": 2, "description": "Laurot Marrant \u00e7a sonne quand m\u00eame mieux...", "icons": {"48": "48.png", "128": "128.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["js/laurot-converter.js"]}], "browser_specific_settings": {"gecko": {"id": "{be93dcd2-3812-4d09-8147-aaecf0a41269}"}}}

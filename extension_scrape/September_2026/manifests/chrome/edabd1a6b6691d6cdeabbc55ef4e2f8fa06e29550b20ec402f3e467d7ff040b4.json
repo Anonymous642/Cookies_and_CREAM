@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Dir Switch", "version": "1.0", "description": "Toggle text direction (LTR/RTL) on any webpage or selected element.", "action": {"default_popup": "popup.html", "default_icon": "icon.png", "default_title": "Toggle Direction"}, "permissions": ["activeTab", "scripting"]}

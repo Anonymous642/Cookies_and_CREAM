@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Default View Fix", "version": "1.1", "description": "Automatically sets Youtube to the default view", "author": "Henry McCombs", "permissions": ["tabs"], "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{1473f2c0-5930-4568-8974-277a530d5a8f}"}}}

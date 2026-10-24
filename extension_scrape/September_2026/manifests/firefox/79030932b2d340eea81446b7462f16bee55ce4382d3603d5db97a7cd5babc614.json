@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Social Status Randomizer", "version": "1.0", "description": "Suggest random TikTok, flirty, and cool captions for quick social posting.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "jtrenamcintyrepwxc343@hotmail.com"}}}

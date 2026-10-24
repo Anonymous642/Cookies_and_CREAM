@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Slideshow+", "description": "Creates Interesting Videos from Your Photos", "version": "1.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"32": "favicon_32.png", "128": "slideshowplus_128.png"}, "permissions": ["http://slideshowplus.com/"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "ReLoad It!", "version": "1.0", "description": "ReLoad It!: Auto-refresh your tabs.", "action": {"default_popup": "popup.html", "default_icon": "reload_it!.png"}, "icons": {"128": "reload_it!.png"}, "browser_specific_settings": {"gecko": {"id": "darlanastennisvp23806@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

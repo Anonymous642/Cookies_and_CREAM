@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HDR_IE Mode Redirect", "version": "1.0", "description": "Redirect specific IP addresses to IE Mode in Edge", "permissions": ["webNavigation"], "background": {"service_worker": "background.js"}, "host_permissions": ["http://10.100.47.63/*", "https://10.100.47.63/*"]}

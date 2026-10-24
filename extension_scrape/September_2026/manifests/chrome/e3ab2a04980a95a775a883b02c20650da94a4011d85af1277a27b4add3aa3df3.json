@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "QR Tab Sync", "version": "1.0", "description": "Instantly share and sync your current tab to mobile devices using a QR code.", "permissions": ["activeTab"], "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Simple Clicker", "version": "1.0", "description": "A simple clicker game.", "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "simple-clicker@example.com", "data_collection_permissions": {"required": ["none"]}}}}

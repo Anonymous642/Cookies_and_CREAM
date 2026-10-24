@@ -1,0 +1,1 @@
+{"description": "Selects a random color for each tab", "manifest_version": 2, "name": "Tab Colors", "version": "2.6", "icons": {"48": "icons/color.png"}, "permissions": ["theme", "tabs", "storage", "downloads"], "background": {"scripts": ["background.js"]}, "options_ui": {"page": "options.html", "open_in_tab": true}}

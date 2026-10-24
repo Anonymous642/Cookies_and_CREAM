@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83d\udc1d Bee Quote Booster", "version": "1.0", "description": "Show a meaningful, cool quote every time you open the popup. Buzz with inspiration!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "shikekfaatzcw2@hotmail.com"}}}

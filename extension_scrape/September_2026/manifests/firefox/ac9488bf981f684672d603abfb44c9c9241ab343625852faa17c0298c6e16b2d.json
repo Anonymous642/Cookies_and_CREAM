@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Window Resizer", "version": "1.0.0", "description": "Window Resizer: Resizes browser window.", "action": {"default_popup": "popup.html", "default_icon": "window_resizer.png"}, "icons": {"128": "window_resizer.png"}, "browser_specific_settings": {"gecko": {"id": "brittledmIcR@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

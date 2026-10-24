@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "yt-declutter", "version": "1.1resigned1", "description": "Removes annoying recommendations from YT landing page", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["yt-declutter.js"]}], "browser_specific_settings": {"gecko": {"id": "{9bceaa6a-23d6-4553-8936-ef462f4a25d6}"}}}

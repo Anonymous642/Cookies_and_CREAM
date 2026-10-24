@@ -1,0 +1,1 @@
+{"background": {"scripts": ["background.js"]}, "description": "Automatically close tabs that haven't been accessed in over 3 hours.", "manifest_version": 2, "name": "Auto Tab Close", "permissions": ["tabs"], "version": "1.1.2resigned1", "browser_specific_settings": {"gecko": {"id": "{50d14c69-face-4bb2-bcf3-d9f33e5e8e39}"}}}

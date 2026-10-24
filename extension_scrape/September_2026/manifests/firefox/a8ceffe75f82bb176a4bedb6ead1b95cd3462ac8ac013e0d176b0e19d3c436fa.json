@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "text npr to full version", "version": "1.2.2resigned1", "description": "Utilities on lite news pages", "content_scripts": [{"matches": ["*://text.npr.org/*"], "js": ["js/lite.js"], "css": ["css/style.css"]}], "browser_specific_settings": {"gecko": {"id": "{9445c49c-281e-4339-8091-8e566b05468c}"}}}

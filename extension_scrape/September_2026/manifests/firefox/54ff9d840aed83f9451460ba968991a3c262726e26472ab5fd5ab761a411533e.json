@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "SearchTab", "version": "0.4.3", "description": "Replaces the default new tab with a custom one.", "permissions": ["tabs"], "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"48": "icon-main.png"}, "browser_specific_settings": {"gecko": {"id": "{a0d01b13-4907-43ae-baf3-f4390e1d2a59}", "strict_min_version": "58.0"}}}

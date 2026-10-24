@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Kitten Chaos", "version": "1.0", "description": "Adds a random cat gif background to every website you visit", "icons": {"48": "n128-2.jpeg", "128": "n128.jpeg"}, "host_permissions": ["<all_urls>"], "content_scripts": [{"js": ["content.js"], "matches": ["<all_urls>"]}]}

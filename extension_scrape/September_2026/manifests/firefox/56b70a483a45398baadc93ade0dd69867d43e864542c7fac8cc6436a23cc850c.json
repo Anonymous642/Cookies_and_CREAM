@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Speedo", "version": "1.0.2", "description": "Press \"]\" to toggle between 1x and 2x video speed.", "icons": {"64": "icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["speedo.js"]}], "browser_specific_settings": {"gecko": {"id": "{37725d52-e051-4069-9353-94b7f4fe4ee7}"}}}

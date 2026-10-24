@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Whatsapp Fix Extension", "author": "Mar\u00e7al J\u00fanior", "description": "Chrome extension that fix whatsapp sidebar by putting a button and hide the chats", "version": "1.2", "manifest_version": 3, "content_scripts": [{"matches": ["https://web.whatsapp.com/*"], "js": ["content.js"]}]}

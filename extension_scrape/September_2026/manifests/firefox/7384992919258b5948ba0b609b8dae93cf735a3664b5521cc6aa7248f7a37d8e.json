@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab IQ Quiz", "version": "1.0", "description": "Hi\u1ec3n th\u1ecb c\u00e2u \u0111\u1ed1 IQ ho\u1eb7c mini game m\u1ed7i khi m\u1edf tab m\u1edbi.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "tab-iq-quiz@example.com"}}}

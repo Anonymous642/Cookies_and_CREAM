@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Break reminder", "version": "1.0", "manifest_version": 3, "description": "Reminds you to take a break from computer work", "permissions": ["notifications"], "icons": {"16": "cup3.png", "48": "cup3.png", "128": "cup3.png"}, "action": {"default_icon": "cup3.png", "default_popup": "main.html"}}

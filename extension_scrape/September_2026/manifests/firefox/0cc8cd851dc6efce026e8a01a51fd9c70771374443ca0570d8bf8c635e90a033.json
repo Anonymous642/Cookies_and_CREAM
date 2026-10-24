@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Adult Content Blocker", "version": "1.0", "description": "Blocks all sites including adult content.", "icons": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["adult_content_blocker.js"]}], "browser_specific_settings": {"gecko": {"id": "{05d70dff-d0fc-4c83-a13c-533221666fae}"}}}

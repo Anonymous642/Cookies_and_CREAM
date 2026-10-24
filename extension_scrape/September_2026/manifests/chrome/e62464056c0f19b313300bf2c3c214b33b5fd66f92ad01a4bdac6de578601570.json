@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DOTS IPF + Wilks Calculator", "description": "Fast IPF and Wilks score calculator with saved history.", "version": "1.0.0", "action": {"default_title": "DOTS IPF + Wilks", "default_popup": "popup.html"}, "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "browser_specific_settings": {"gecko": {"id": "teberramzi@gmail.com"}}, "name": "Extension_de_Remplissage", "version": "2024.7.30", "description": "Une extension pour remplir automatiquement les formulaires", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "index.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MIA Dark Mode", "description": "Toggle dark mode for Marxist Internet Archive", "version": "1.0", "manifest_version": 3, "action": {"default_icon": "marx.png"}, "background": {"service_worker": "background.js"}, "permissions": ["activeTab", "scripting"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Full Width Git Hub", "description": "Adds full page width to git hub", "version": "2.3resigned1", "browser_action": {"default_icon": "icon.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["tabs", "https://github.com/*"], "browser_specific_settings": {"gecko": {"id": "{80e5aa69-3992-487c-becb-78cee58a4e6a}"}}}

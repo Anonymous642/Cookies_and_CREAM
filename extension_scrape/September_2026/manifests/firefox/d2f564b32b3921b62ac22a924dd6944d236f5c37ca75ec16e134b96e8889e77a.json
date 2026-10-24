@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "WebTime Logger", "version": "1.0", "description": "Track time spent on websites.", "action": {"default_popup": "popup.html", "default_icon": "webtime_logger.png"}, "icons": {"128": "webtime_logger.png"}, "browser_specific_settings": {"gecko": {"id": "caryirmp585603@hotmail.com"}}}

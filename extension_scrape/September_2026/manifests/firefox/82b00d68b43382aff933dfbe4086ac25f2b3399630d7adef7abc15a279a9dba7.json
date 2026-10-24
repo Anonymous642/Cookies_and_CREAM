@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "2D Obstacle Game", "version": "1.0", "description": "A simple 2D obstacle game running on Mozilla Firefox", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "index.html", "default_title": "Play Obstacle Game"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{d360fa8f-6196-464d-a044-98d084ad4f5c}"}}}

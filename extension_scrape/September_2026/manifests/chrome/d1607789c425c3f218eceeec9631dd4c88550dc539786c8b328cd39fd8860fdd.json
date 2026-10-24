@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WAO History URL", "version": "1.5.0", "description": "Our extension allows you to easily review and access your top 10 browsing history entries in just one click.", "permissions": ["history"], "action": {"default_popup": "typedUrls.html", "default_icon": "clock.png"}, "manifest_version": 3}

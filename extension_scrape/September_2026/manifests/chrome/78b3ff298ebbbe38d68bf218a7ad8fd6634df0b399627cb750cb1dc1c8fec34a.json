@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "AdLift SEO Analyzer", "description": "Description of your extension", "version": "3.2", "manifest_version": 3, "action": {"default_popup": "index.html"}, "permissions": ["activeTab", "scripting"], "icons": {"16": "192img.png"}}

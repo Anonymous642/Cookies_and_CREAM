@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BadSubs", "version": "0.1.0", "description": "Auto hides post from selected subreddits", "content_scripts": [{"matches": ["*://old.reddit.com/r/all*", "*://old.reddit.com/r/popular*"], "js": ["script.js"], "css": ["style.css"], "run_at": "document_end"}]}

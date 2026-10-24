@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cancellation Policy Helper", "version": "1.0.3", "description": "Shows clear cancellation status", "content_scripts": [{"matches": ["https://bo.nuitee.com/nuiteepro/booking.jsp*"], "js": ["content.js"], "css": ["styles.css"]}]}

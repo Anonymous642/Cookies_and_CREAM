@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DP auto, votre pi\u00e8ce auto en un clic", "version": "1.0", "description": "Acc\u00e9der en un clic aux offres de DP auto.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": []}

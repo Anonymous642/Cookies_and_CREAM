@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Enchanted Library", "description": "A magical library illuminated", "manifest_version": 3, "version": "1.0", "chrome_url_overrides": {"newtab": "index.html"}}

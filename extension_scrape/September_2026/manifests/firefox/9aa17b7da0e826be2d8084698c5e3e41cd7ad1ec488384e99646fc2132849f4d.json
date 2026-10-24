@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Scroll to Element", "description": "Adds a context menu item that scrolls to the element under the cursor.", "version": "0.1", "background": {"scripts": ["background.js"]}, "permissions": ["menus", "activeTab"], "browser_specific_settings": {"gecko": {"id": "{9fa5d9f7-a65c-45e3-b5b3-9657dd8bc632}"}}}

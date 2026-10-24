@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Keep Twitter from cropping images", "version": "1.0.0", "description": "A script to keep twitter from cropping images", "permissions": ["https://twitter.com/*"], "background": {"scripts": ["loader.js"]}, "browser_specific_settings": {"gecko": {"id": "feraljavascript@skeletonplanet.com-0006"}}}

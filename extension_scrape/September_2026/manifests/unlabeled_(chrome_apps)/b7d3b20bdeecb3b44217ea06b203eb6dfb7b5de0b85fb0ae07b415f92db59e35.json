@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "melister", "version": "1", "icons": {"24": "melister24.png", "128": "melister128.png"}, "app": {"urls": ["http://www.melister.com/"], "launch": {"web_url": "http://www.melister.com/"}}, "permissions": ["geolocation"], "manifest_version": 2}

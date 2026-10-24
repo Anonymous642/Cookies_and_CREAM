@@ -1,0 +1,1 @@
+{"description": "Gmail toolbar button", "manifest_version": 2, "name": "Gmail button", "version": "1.1resigned1", "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": {"16": "icons/icon16.png", "32": "icons/icon32.png"}}, "browser_specific_settings": {"gecko": {"id": "{8fd38aba-8a79-4a33-bdd0-98e7d7679ecc}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Dinner Roulette", "version": "1.0.0", "description": "Can't decide what to eat? Let this extension pick your dinner instantly!", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

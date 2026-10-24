@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Phone Wars", "description": "WebGL vs iOS vs Android vs Windows!", "version": "6", "manifest_version": 2, "icons": {"128": "icon128.png"}, "app": {"urls": ["http://playir.com/x/phonewars/"], "launch": {"web_url": "http://playir.com/x/phonewars/"}}}

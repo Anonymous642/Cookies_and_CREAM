@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TypeClean \u2013 Smart Text Formatter", "description": "Instantly clean and format text with case conversion, line break removal, and live stats.", "version": "1.0.0", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

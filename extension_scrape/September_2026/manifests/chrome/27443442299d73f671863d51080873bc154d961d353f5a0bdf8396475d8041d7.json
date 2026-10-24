@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sliding Calculator", "version": "1.0.0", "description": "A tiny calculator that slides in from the right side of any web page.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["styles.css"], "run_at": "document_idle"}]}

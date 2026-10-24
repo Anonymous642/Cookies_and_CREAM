@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Digital Hall Pass", "description": "Quickly create digital hall passes", "version": "1.0", "action": {"default_popup": "index.html", "default_width": 700, "default_height": 900}, "host_permissions": ["https://docs.google.com/forms/*"]}

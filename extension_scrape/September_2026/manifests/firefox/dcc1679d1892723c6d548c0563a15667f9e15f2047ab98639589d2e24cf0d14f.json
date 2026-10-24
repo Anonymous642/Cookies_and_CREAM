@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Kode24 minify", "version": "0.0", "description": "Removes the article links from the bottom of kode24 articles.", "content_scripts": [{"matches": ["*://www.kode24.no/*"], "js": ["minify.js"]}], "browser_specific_settings": {"gecko": {"id": "{96016fde-a780-4c2a-b02f-bfbca6983fe6}"}}}

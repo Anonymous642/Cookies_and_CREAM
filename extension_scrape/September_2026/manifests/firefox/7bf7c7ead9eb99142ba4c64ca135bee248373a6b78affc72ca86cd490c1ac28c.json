@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PH", "version": "1.0", "description": "Marks elements on the page based on their performance metrics.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{92bc49fb-e9de-4ca2-aeb2-7ee46068c70b}"}}}

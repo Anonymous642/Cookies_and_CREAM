@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Gran DT", "description": "Gran DT, el juego online que apasiona a millones de argentinos.", "version": "1.1", "manifest_version": 2, "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.grandt.clarin.com/"], "launch": {"web_url": "http://www.grandt.clarin.com/"}}}

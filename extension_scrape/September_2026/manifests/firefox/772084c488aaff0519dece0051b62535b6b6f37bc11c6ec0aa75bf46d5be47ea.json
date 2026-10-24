@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "JWT Authorization Injector", "version": "1.0", "permissions": ["webRequest", "webRequestBlocking", "*://notes.local/*", "*://chat.local/*", "*://api.local/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{3260af05-bd6f-4e64-a4a7-f0b55fe34c93}"}}}

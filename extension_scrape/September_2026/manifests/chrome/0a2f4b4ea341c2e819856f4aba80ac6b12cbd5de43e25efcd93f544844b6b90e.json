@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tip Calculator (Fun)", "version": "1.0.0", "description": "A cheerful tip calculator: enter bill amount, pick a tip %, and instantly see tip + total.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "WiseBite", "version": "1.1", "description": "Know what you Consume.", "permissions": ["activeTab", "storage"], "action": {"default_popup": "index.html"}, "background": {"service_worker": "background.js"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

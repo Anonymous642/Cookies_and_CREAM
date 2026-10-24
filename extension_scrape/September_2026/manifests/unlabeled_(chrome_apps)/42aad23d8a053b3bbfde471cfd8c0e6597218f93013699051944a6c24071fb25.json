@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Skunk", "description": "The funniest, funkiest fart app in the world. Skunk - when nature calls!", "version": "1.0", "app": {"background": {"scripts": ["-chrome-app.js"]}}, "icons": {"16": "-chrome-app-icon-16.png", "128": "-chrome-app-icon-128.png"}, "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Toe Tac Tic", "description": "Play Toe Tac Tic!!!", "version": "1.0", "icons": {"16": "Images/TicTacToeImage16.png", "48": "Images/TicTacToeImage48.png", "128": "Images/TicTacToeImage128.png"}, "action": {"default_icon": "Images/TicTacToeImage16.png", "default_popup": "index.html"}}

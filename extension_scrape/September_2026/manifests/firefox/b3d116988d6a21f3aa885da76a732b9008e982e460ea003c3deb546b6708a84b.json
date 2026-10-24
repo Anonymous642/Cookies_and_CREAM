@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Meme image saver", "version": "1.0", "description": "Presents a right-click menu option to save an image in a designated memes folder.", "background": {"scripts": ["background.js"]}, "icons": {"48": "icons/border-48.png"}, "permissions": ["menus", "storage", "tabs", "activeTab", "downloads", "<all_urls>"]}

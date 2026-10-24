@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Text Snippets Clipboard", "version": "1.0.5", "description": "Manage reusable text snippets with quick copy and delete actions.", "browser_specific_settings": {"gecko": {"id": "text-snippets-clipboard@soshroom.dev"}}, "action": {"default_popup": "popup.html", "default_title": "Text Snippets"}, "permissions": ["storage", "clipboardWrite"]}

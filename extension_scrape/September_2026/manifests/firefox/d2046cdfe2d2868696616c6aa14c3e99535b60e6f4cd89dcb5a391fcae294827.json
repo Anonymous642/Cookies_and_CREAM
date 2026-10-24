@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Google Operators", "version": "1.0.0", "description": "A Firefox add-on to display a list of Google operators with explanations and examples.", "browser_action": {"default_popup": "popup.html", "default_title": "Google Operators"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{6b116062-c451-4bd6-aeb9-49cb1d92a205}"}}}

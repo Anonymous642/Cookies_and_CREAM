@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Capa Helper", "version": "1.0", "description": "Gesti\u00f3n de casos para nuevos en capacitaci\u00f3n - CX One", "action": {"default_popup": "popup.html", "default_icon": "icons/icon128.png"}, "permissions": ["storage"], "icons": {"128": "icons/icon128.png"}}

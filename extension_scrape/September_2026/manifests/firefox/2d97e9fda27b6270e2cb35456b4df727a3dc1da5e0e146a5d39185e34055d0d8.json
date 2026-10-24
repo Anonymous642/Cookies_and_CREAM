@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dynamic Genshin Impact Background", "version": "1.0", "description": "Change new tab wallpaper with random video with Google search bar.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{ac7d2a49-3805-4252-9634-98ef91660b59}"}}}

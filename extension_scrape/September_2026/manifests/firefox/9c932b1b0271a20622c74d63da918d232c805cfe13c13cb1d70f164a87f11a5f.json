@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "T\u00ednh Tu\u1ed5i", "version": "1.0", "description": "Addon t\u00ednh to\u00e1n tu\u1ed5i t\u1eeb n\u0103m sinh.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{b8668107-3a0b-4e29-b7e6-ae648d1f2cfb}"}}}

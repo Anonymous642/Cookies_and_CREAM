@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Restyler", "version": "1.1", "description": "Reverts some YouTube style changes", "icons": {"48": "icons/48px.png", "64": "icons/64px.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "css": ["css/restyler.css"]}], "browser_specific_settings": {"gecko": {"id": "{ef0b78a8-3af3-40a9-831f-d3daab55567d}"}}}

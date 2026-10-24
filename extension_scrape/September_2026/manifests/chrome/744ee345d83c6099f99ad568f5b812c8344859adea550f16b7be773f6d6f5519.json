@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ecommerce YouTube Review Finder", "version": "1.0.0", "description": "Paste an ecommerce product URL and open relevant YouTube review results.", "action": {"default_title": "Review Finder", "default_popup": "popup.html"}, "permissions": ["activeTab", "scripting"]}

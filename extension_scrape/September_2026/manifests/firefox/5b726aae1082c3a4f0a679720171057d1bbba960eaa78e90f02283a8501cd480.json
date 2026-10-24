@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Fun Name Predictor", "version": "1.0", "description": "Enter a name to get a fun, randomly generated personality prediction.", "action": {"default_popup": "popup.html", "default_icon": "fun_name_predictor.png"}, "icons": {"128": "fun_name_predictor.png"}, "browser_specific_settings": {"gecko": {"id": "oabramthiellgji551@hotmail.com"}}}

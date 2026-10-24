@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Shoot in Loop", "description": "Shoot enemies, earn money, customise your plane and fly farther and farther.", "version": "0.60", "manifest_version": 2, "permissions": ["storage"], "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "img/icon-16.png", "128": "img/icon-128.png"}}

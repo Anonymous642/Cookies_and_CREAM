@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "History Purge", "version": "1.0", "description": "History Purge: Clean browsing data", "action": {"default_popup": "popup.html", "default_icon": "history_purge.png"}, "icons": {"128": "history_purge.png"}, "browser_specific_settings": {"gecko": {"id": "corrinahayest11789@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

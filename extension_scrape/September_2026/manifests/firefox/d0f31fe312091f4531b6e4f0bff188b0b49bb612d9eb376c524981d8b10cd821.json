@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Ad Skipping", "version": "1.1", "description": "An extension that allows skipping YouTube ads.", "icons": {"48": "icons/skip-add-48.png"}, "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["skip-add.js"]}], "browser_specific_settings": {"gecko": {"id": "{22ee05ae-526d-463f-853c-5091121c17b2}"}}}

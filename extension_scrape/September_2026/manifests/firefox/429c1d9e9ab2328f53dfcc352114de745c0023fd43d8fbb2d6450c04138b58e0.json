@@ -1,0 +1,1 @@
+{"content_scripts": [{"matches": ["https://www.duolingo.com/*"], "js": ["switchinputmode.js"]}], "name": "Japanese IME switcher", "manifest_version": 2, "version": "1.0", "icons": {"48": "Icons/Icon48.png", "96": "Icons/Icon96.png"}, "browser_specific_settings": {"gecko": {"id": "{28b3e5ea-bbf4-41fa-8bdf-ca42dcb8ec82}"}}}

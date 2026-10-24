@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1", "name": "Beauty scene", "chrome_url_overrides": {"newtab": "index.html"}, "description": "beautiful sunset photo, each sunbeam is starting to disappear behind the beach scene", "manifest_version": 3}

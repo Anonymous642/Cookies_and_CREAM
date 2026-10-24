@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Google Tic-Tac-Toe", "version": "2.0", "description": "Play Google Tic-Tac-Toe game for free right in your web-browser!", "browser_action": {"default_icon": "Google Tic-Tac-Toe-icon.png"}, "background": {"scripts": ["background.js"], "type": "module"}, "browser_specific_settings": {"gecko": {"id": "{80b9a18b-4a66-4d58-832a-30efbe0cd398}"}}}

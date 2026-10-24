@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HotStreak American Odds", "version": "1.0", "content_scripts": [{"js": ["scripts/content.js"], "matches": ["https://app.hotstreak.gg/*"]}]}

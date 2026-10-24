@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RickUnroll", "version": "1.0", "description": "Finds Rickrolls in Hyperlinks", "icons": {"48": "icons/rick.jpg"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["rickunroll.js"]}], "browser_specific_settings": {"gecko": {"id": "{a3bad37f-36fe-4fac-97b6-a974cebeb551}"}}}

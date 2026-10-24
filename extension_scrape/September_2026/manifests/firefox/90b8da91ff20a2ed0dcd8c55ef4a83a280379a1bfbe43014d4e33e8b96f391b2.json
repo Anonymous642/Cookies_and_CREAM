@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Folder", "version": "1.4", "description": "Tab Folder", "icons": {"128": "icons/folder-icon.png"}, "permissions": ["menus", "tabs"], "background": {"scripts": ["background.js"]}, "default_locale": "en", "browser_specific_settings": {"gecko": {"id": "{c181828d-861f-4419-b116-b6a18864e59a}"}}}

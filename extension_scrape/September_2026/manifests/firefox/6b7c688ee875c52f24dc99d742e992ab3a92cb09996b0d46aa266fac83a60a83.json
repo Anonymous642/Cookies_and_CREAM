@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Old Reddit - Lock Comment", "version": "1.0", "description": "Adds the ability for mods to lock comments to old reddit.", "icons": {"48": "icons/lock.svg"}, "content_scripts": [{"matches": ["*://old.reddit.com/*"], "css": ["old_reddit_lock_comment.css"], "js": ["old_reddit_lock_comment.js"], "run_at": "document_end"}]}

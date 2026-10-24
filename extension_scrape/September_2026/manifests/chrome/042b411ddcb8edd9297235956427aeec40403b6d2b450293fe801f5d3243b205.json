@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AWS Policy Expander", "version": "1.0", "description": "Quickly expand all IAM policy details in the AWS Console tables with a single click.", "action": {"default_popup": "popup.html", "default_title": "Expand AWS Policies"}, "permissions": ["activeTab", "scripting"]}

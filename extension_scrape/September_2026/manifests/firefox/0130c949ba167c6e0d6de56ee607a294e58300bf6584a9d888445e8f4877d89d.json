@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "IE6 Download Dialog", "version": "1.0.3", "applications": {"gecko": {"id": "ie6download@retro.com"}}, "permissions": ["downloads", "nativeMessaging"], "background": {"scripts": ["background.js"]}}

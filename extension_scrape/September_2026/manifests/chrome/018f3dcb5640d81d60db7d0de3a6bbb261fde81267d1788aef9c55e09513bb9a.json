@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Learning Standards Counter", "version": "1.0", "description": "Counts and finds the percent of each learning standard", "action": {"default_popup": "popup.html"}, "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}}

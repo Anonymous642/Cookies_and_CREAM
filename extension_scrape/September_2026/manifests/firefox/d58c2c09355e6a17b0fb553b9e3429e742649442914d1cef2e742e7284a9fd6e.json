@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "nikbrk extension 51cds", "version": "1.0", "description": "This is a sample extension for testing submission.", "background": {"scripts": ["background.js"]}, "browser_action": {"default_title": "BugTest"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{210093a5-a77a-484e-bd49-6a06335a3808}"}}}

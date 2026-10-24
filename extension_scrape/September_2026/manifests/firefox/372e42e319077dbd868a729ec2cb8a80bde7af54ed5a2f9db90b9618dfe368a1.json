@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WhatsUp India", "version": "1.1resigned1", "description": "Shows latest News", "permissions": ["<all_urls>"], "browser_action": {"browser_style": true, "default_title": "WhatsUp India", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{310aecae-5953-4115-a9a3-08567c12fff9}"}}}

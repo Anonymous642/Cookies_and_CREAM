@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Create Your Own Chatbot", "description": "Rebot.me is service which allow people to create their own chat bots", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "logo128.jpg"}, "app": {"urls": ["http://rebot.me/"], "launch": {"web_url": "http://rebot.me/"}}}

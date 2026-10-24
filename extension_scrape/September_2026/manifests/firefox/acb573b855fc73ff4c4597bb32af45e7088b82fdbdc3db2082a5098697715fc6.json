@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Spotify Link Opener", "version": "1.0", "description": "Automatically open Spotify links in the desktop app instead of the web player for a seamless listening experience", "content_scripts": [{"matches": ["https://open.spotify.com/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{0b6c1dbb-16d4-411f-8b3d-cdfeab6a9202}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Refresh Addon", "version": "1.0", "description": "Automatically refreshes the page at a set interval.", "permissions": ["tabs", "activeTab", "scripting"], "background": {"scripts": ["background.js"]}, "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{4a1d5576-fe1b-469a-bf28-237d16bc7e5f}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Atikin CodeGalaxy", "version": "1.0", "description": "Visualize your codebase like a galaxy!", "browser_action": {"default_popup": "popup.html"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{03c9b77f-1622-4c01-a0b5-fd280c1833bc}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hexel", "version": "1.0", "description": "Wordle for color hex codes. Guess the hex code of the color shown!", "action": {"default_popup": "popup.html", "default_title": "Hexel"}, "icons": {"16": "icons/icon16.png", "48": "icons/icon48.png", "128": "icons/icon128.png"}}

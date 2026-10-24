@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Find Big Mail", "description": "Solve your Gmail out of space problems", "manifest_version": 2, "version": "1", "app": {"urls": ["*://www.findbigmail.com/"], "launch": {"web_url": "https://www.findbigmail.com/"}}, "icons": {"128": "fbmlogo.png"}, "permissions": []}

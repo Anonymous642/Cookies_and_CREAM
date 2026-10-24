@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Character Tally", "version": "1.0", "description": "Counts the number of letters and digits in any given text.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "znannugentgsoz798@hotmail.com"}}}

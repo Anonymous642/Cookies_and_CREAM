@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "3Tabs", "version": "1.0.3", "description": "Three tabs. That\u2019s it.", "permissions": ["storage"], "action": {"default_popup": "popup.html"}, "background": {"service_worker": "background.js"}}

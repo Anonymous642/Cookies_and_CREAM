@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Navy Phonetic Alphabet Dropdown", "version": "1.0", "description": "Quick dropdown reference chart for Navy Phonetic Alphabet and Numbers.", "action": {"default_popup": "popup.html", "default_title": "Open Phonetic Chart"}, "icons": {"128": "icon128.png"}}

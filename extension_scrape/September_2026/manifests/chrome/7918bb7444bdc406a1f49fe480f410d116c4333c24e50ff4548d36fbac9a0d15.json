@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gemini Chat Width Expander", "version": "1.0", "icons": {"128": "icon128.png"}, "description": "Expands Gemini's input and chat areas to full width for better readability.", "content_scripts": [{"matches": ["https://gemini.google.com/*"], "css": ["style.css"]}]}

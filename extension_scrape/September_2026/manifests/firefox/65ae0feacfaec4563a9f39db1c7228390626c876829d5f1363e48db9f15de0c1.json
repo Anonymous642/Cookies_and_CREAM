@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Ten Game Solver", "description": "Provides solutions to the make ten game", "action": {"default_popup": "index.html"}, "browser_specific_settings": {"gecko": {"id": "ten-game-solver@example.com", "data_collection_permissions": {"required": ["none"]}}}, "version": "1.0"}

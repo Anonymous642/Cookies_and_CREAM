@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Matrix Tab", "version": "1.0.0", "description": "Custom new tab with Matrix-style animated background.", "chrome_url_overrides": {"newtab": "new-tab.html"}, "permissions": [], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{ab613ff8-f246-43db-ac32-ae1165ade3eb}"}}}

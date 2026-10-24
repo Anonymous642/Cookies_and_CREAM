@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reading Time Estimator", "version": "1.0", "description": "Estimate reading time of the current page.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{c4911265-7d58-42ca-883b-081320d21cd5}"}}}

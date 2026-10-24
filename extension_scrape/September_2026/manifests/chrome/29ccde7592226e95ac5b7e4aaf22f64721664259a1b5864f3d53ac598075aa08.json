@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Kpop Meme Text Converter", "version": "1.0.0", "description": "Convert normal text into playful meme-style text with a cute K-pop inspired popup design.", "action": {"default_popup": "popup.html", "default_title": "Kpop Meme Text Converter"}, "icons": {"128": "icon128.png"}}

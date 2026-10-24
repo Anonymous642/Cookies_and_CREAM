@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quiet Tabs Manager", "version": "1.0", "description": "Automatically mute and manage inactive tabs.", "permissions": ["tabs", "storage", "webNavigation"], "background": {"scripts": ["background.js"], "persistent": false}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{265fc58a-c90c-4f91-bc31-1af34256ad08}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sky Domain Generator", "version": "1.0", "description": "Generate short and brandable domain name ideas from your keyword.", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

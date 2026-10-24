@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Chzzk Adblocker", "version": "1.0", "description": "", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "icons": {"512": "icon.png"}, "applications": {"gecko": {"id": "chzzkad-block@icus.dev"}}}

@@ -1,0 +1,1 @@
+{"name": "click on selection with enter", "description": "clicks on selection by pressing enter", "manifest_version": 2, "version": "1.2", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content-script.js"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "clickonselection@h43z"}}, "permissions": ["activeTab"]}

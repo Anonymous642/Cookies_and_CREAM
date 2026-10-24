@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Electrical Engineering Calculator", "version": "1.0.0", "description": "Offline electrical engineering suite. Solar, Motors, Resistors, and more.", "action": {"default_popup": "popup.html", "default_title": "EE Calculator"}, "icons": {"128": "icon.png"}, "permissions": ["storage"]}

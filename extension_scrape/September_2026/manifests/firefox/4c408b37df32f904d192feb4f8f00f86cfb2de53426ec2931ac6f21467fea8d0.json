@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Context Menu: Copy Domain", "description": "Add a context menu option to links to copy URL Domain", "version": "1.0", "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "contextMenus", "clipboardWrite"]}

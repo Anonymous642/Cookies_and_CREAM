@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Convert URL text To Link", "version": "1.0", "description": "Convert url text to link.", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content-script.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{84300efa-2481-49b8-89ee-d83df930bb01}"}}}

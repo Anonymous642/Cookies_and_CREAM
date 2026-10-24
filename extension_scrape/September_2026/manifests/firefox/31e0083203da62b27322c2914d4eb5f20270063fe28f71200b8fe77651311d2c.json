@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Burp-Style HTTP Repeater", "version": "1.0", "description": "Burp-style DevTools HTTP Repeater with live capture, decoder, diff and intruder.", "devtools_page": "devtools.html", "permissions": ["<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{8ec7be8e-ab51-4978-aa39-bf7b9459ec19}"}}}

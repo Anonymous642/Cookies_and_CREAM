@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Glimsera", "version": "1.0", "description": "Glimsera is an authentic Dubai-based hair care and beauty review destination for users.", "action": {"default_popup": "popup.html"}, "icons": {"16": "favicon-16x16.png", "48": "favicon.ico", "128": "glimsera-128.jpg"}}

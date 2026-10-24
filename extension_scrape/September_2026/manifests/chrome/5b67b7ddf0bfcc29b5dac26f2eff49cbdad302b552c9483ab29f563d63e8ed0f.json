@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CaptionLover - Best Social Media Captions", "version": "1.0", "description": "Get the best captions and quotes for your social media from Captionlover.com.", "icons": {"128": "icon.png"}, "action": {"default_icon": "icon.png"}, "background": {"service_worker": "background.js"}}

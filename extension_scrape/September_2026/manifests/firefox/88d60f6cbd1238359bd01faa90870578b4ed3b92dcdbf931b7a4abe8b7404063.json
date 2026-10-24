@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Free Aspect Ratio Calculator (ARcalc)", "version": "0.1.0", "action": {"default_popup": "popup.html"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "support@arcalc.co", "data_collection_permissions": {"required": ["none"], "optional": []}}}}

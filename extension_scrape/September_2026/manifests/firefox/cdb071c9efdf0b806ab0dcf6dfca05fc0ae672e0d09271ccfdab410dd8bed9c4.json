@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Session Saver", "version": "1.0", "description": "Save and restore browsing sessions with ease.", "permissions": ["tabs", "storage"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{9804db4e-680d-4477-9441-7a0b5963e842}"}}}

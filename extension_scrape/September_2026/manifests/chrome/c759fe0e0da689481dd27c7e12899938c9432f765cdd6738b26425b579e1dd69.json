@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.4", "name": "vietnamese tet", "chrome_url_overrides": {"newtab": "index.html"}, "description": "Held on the 1st day of the lunar month throughout Vietnam", "manifest_version": 3}

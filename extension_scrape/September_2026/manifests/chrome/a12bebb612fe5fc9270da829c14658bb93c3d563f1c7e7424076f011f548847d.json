@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Data Pro", "version": "1.0", "description": "Data Pro is a simple extension that allows you to learn about the machine learning and data science concepts.", "icons": {"16": "icons/16.png", "48": "icons/48.png", "128": "icons/128.png"}, "action": {"default_popup": "popup.html"}}

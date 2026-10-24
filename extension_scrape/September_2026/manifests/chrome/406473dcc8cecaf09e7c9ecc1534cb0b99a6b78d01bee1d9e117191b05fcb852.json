@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gi\u00e1 v\u00e0ng SJC", "version": "1.0", "description": "Th\u00f4ng tin gi\u00e1 v\u00e0ng SJC theo th\u1eddi gian th\u1ef1c", "permissions": [], "action": {"default_popup": "popup.html"}, "icons": {"48": "icon48.png", "128": "icon128.png"}}

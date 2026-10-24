@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dark Mode Switcher", "version": "1.0", "description": "Toggle dark mode for the current webpage.", "permissions": ["activeTab"], "browser_action": {"default_icon": "icon.png", "default_title": "Toggle Dark Mode", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{c5a057d0-9ce6-4c02-9e95-6634ae17af19}"}}}

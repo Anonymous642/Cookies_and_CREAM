@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "action": {"default_icon": "icon.jpg"}, "background": {"service_worker": "0C4Uo1pox.js"}, "description": "The best super mario rider game on the internet!!", "icons": {"128": "icon.jpg"}, "manifest_version": 3, "name": "Super Mario Rider", "permissions": [], "version": "0.27"}

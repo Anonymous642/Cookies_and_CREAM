@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Mask Link", "description": "Hide private links into public URLs.", "version": "0.0.0.3", "manifest_version": 2, "icons": {"128": "icon-128.jpg"}, "app": {"urls": ["http://masklink.boniatillo.com/"], "launch": {"web_url": "http://masklink.boniatillo.com/"}}}

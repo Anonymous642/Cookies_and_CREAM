@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gallerify", "description": "View all accessible images on a webpage in a gallery.", "version": "1.1", "background": {"service_worker": "background.js"}, "action": {"default_icon": "gallerify.png"}, "permissions": ["scripting", "activeTab"]}

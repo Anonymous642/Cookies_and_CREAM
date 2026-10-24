@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mojo Launcher [Updated]", "version": "1.0", "description": " MojoLauncher lets you play Minecraft Java Edition with mods on Android.", "icons": {"16": "favicon-32x32.png", "64": "favicon-64x64.png", "128": "favicon-128x128.png"}, "action": {"default_popup": "mojolauncher.html"}}

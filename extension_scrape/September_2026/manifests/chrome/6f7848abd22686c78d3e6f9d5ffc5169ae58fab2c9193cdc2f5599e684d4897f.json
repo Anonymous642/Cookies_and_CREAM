@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Balanz Login Autofill", "version": "0.1.1", "description": "Enables standard password manager autofill on the Balanz login page.", "content_scripts": [{"matches": ["https://clientes.balanz.com/*"], "js": ["content-script.js"], "run_at": "document_start"}]}

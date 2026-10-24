@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GitHub Resolve Conflicts Disabler", "version": "1.0.0", "description": "Disables the Resolve conflicts action on GitHub pull requests to enforce team merge policy.", "content_scripts": [{"matches": ["https://github.com/*"], "js": ["block.js"], "run_at": "document_idle"}]}

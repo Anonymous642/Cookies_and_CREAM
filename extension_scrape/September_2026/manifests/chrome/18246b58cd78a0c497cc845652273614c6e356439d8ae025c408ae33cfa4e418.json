@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple Password Generator", "version": "1.0", "description": "Generate secure random passwords with one click.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon_128.png"}}, "permissions": []}

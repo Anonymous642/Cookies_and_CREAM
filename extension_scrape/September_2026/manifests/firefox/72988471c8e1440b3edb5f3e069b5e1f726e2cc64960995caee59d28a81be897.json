@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TTV Tools", "version": "1.1.0", "description": "An extension that adds some tools to Twitch.tv", "permissions": ["tabs", "https://*.twitch.tv/*", "downloads"], "background": {"scripts": ["src/background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{2d1db285-3fae-4a82-ae29-89be429dcdf8}"}}}

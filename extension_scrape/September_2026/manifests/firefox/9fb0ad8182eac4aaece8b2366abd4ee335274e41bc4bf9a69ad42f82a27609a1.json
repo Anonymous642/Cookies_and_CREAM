@@ -1,0 +1,1 @@
+{"background": {"scripts": ["backgr.js"]}, "browser_action": {"default_icon": "ico-128.png"}, "default_locale": "en", "description": "__MSG_appDesc__", "icons": {"128": "ico-128.png"}, "manifest_version": 2, "name": "__MSG_appName__", "permissions": ["contextMenus", "downloads", "activeTab", "https://ssl.google-analytics.com/ga.js", "tabs"], "version": "1.3"}

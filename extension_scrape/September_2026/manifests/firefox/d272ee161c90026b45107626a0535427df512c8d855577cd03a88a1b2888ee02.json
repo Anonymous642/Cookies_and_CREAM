@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UZS to MNT Converter", "version": "1.0", "description": "Convert Uzbekistani Som (UZS) to Mongolian Tugrik (MNT).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert UZS to MNT"}, "browser_specific_settings": {"gecko": {"id": "{dfb79671-47d1-400c-93bb-f95ee23ae19d}"}}}

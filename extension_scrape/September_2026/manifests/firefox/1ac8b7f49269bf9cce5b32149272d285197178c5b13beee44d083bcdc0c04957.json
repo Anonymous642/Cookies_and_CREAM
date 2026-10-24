@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "New Tab", "version": "1.0", "permissions": ["webNavigation", "browserSettings"], "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_specific_settings": {"gecko": {"strict_min_version": "58.0", "data_collection_permissions": {"required": ["none"]}, "id": "{b5029e5b-101d-4521-9bf9-4b6127bc6b5c}"}}}

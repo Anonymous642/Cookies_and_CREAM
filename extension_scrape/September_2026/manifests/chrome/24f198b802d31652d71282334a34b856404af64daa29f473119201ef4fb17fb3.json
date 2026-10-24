@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ChartsPrintables Quick Charts", "version": "0.1.0", "description": "Fast access to printable conversion charts.", "action": {"default_title": "ChartsPrintables", "default_popup": "popup.html", "default_icon": {"128": "icon.png"}}, "icons": {"128": "icon.png"}}

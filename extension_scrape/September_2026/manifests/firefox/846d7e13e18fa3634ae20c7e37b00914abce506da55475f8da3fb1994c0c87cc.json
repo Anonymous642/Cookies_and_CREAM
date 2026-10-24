@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "twitch_auto_points", "version": "1.0", "description": "Auto receive twitch points.", "icons": {"48": "icons/logo.png"}, "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["receive_points.js"]}], "browser_specific_settings": {"gecko": {"id": "{6a2407c9-f84d-4f0b-b81e-a997063a8d2d}"}}}

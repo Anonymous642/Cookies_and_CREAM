@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Copy Jira ID", "version": "1.1", "description": "Adds a right-click option to copy the Jira ID from a Jira link.", "permissions": ["contextMenus", "scripting", "clipboardWrite", "activeTab"], "background": {"service_worker": "background.js"}, "icons": {"48": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.0", "name": "wide sky", "chrome_url_overrides": {"newtab": "index.html"}, "description": "The sky, a picture of ever-changing things, has fascinated people since centuries ago.", "manifest_version": 3}

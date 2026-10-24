@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Get Backstory", "version": "3.0", "description": "Gets Backstory of the current page.", "permissions": ["tabs"], "browser_action": {"default_title": "Get Backstory"}, "background": {"scripts": ["background.js"]}, "icons": {"256": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "hey@getbackstory.ai"}}}

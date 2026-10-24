@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "VERGE", "description": "Voice Enable Response Generation Engine", "version": "0.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js", "assets/js/recogn.js"]}}, "icons": {"16": "icon.png"}, "permissions": ["audioCapture", "http://wami.csail.mit.edu/*"]}

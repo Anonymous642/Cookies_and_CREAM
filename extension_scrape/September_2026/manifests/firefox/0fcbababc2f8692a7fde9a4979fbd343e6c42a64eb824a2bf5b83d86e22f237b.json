@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Day Counter", "version": "1.0", "description": "Displays elapsed and remaining days of a year.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{d6b8a3ce-d298-41a0-8c5a-c43f405f7dc7}"}}}

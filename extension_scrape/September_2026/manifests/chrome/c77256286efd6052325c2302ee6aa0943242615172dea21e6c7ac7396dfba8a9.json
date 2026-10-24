@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute URL Encoder Decoder", "version": "1.0.0", "description": "A cute and simple tool to encode and decode URLs locally.", "action": {"default_popup": "popup.html", "default_title": "URL Encode / Decode"}, "icons": {"128": "icon128.png"}}

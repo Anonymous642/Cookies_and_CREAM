@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Connectwise Tab Renamer", "version": "4.1", "permissions": [], "action": {"default_popup": "popup.html"}, "background": {"service_worker": "background.js"}, "content_scripts": [{"matches": ["https://eu.myconnectwise.net/*"], "js": ["content.js"]}]}

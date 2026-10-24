@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "JustWatch Search JP", "version": "1.0", "default_locale": "en", "description": "\u9078\u629e\u7bc4\u56f2\u3092JustWatch\u3067\u691c\u7d22", "background": {"scripts": ["background.js"]}, "icons": {"48": "icons/icon48.png"}, "permissions": ["contextMenus", "tabs"], "applications": {"gecko": {"id": "justwatchsearch@addon"}}}

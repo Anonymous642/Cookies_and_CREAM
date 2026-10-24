@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "APEX Shortcuts", "description": "Shortcuts: Ctrl+I (inputs), Ctrl+S (save), Ctrl+D (run). Enter confirms and closes Designer dialogs.", "version": "1.0", "manifest_version": 3, "content_scripts": [{"matches": ["*://*/*apex/*", "*://*/*ords/*"], "js": ["content.js"], "all_frames": true}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "EA - YouTube Redirect", "description": "Open www.youtube.com url on www.you-tube.com domain in a new tab.", "version": "4.2", "manifest_version": 3, "permissions": ["contextMenus"], "background": {"service_worker": "background.js"}, "icons": {"128": "icon/icon128.png"}}

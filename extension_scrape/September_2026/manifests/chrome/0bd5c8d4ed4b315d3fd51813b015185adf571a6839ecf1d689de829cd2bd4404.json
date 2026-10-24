@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "FlySafe - Avoid Boeing Flights", "version": "1.0", "description": "Avoid traveling on Boeing airplanes with this simple chrome extension", "host_permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

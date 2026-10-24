@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "wger Workout Manager", "description": "A free and flexible workout, nutrition and weight manager.", "version": "5", "manifest_version": 2, "app": {"urls": ["*://wger.de/"], "launch": {"web_url": "https://wger.de/dashboard"}}, "icons": {"128": "logo-128.png"}, "offline_enabled": false}

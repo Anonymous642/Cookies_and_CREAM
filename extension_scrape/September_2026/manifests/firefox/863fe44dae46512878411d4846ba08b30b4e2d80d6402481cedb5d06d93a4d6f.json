@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove X-Frame-Options", "version": "1.0", "description": "Removes the X-Frame-Options header from responses", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{2b7270d3-ff4c-42f1-a880-c3d736d95d1a}"}}}

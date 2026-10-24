@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NetflixSpeedControl", "version": "1.0", "description": "Adds speed control for netflix.", "icons": {"48": "icons/logo-48.png", "96": "icons/logo-96.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/logo-96.png", "default_title": "Netflix Speed Control", "default_popup": "popup/popup_NC.html"}}

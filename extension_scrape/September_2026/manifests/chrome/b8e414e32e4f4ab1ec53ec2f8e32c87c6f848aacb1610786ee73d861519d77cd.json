@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MUN Chair Hub", "version": "1.0", "description": "Manage roll call, speakers, motions, and caucuses for your MUN club", "background": {"service_worker": "background.js"}, "action": {}}

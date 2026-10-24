@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fierce Warrior Cat", "version": "1.0", "description": "Bring power and intensity to your browser with the  Warrior Cat", "icons": {"128": "icon-128.png"}, "permissions": ["geolocation"], "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{a2c1fa29-4834-4879-ae06-2ecddc6b90c8}"}}}

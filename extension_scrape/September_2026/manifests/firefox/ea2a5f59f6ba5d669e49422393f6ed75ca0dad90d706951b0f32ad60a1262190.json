@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "KilleuZz Tracker", "version": "0.1", "description": "Stay updated on KilleuZz's latest activities and massacres in real-time!", "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["RaidReverser.js"]}], "browser_specific_settings": {"gecko": {"id": "{2962f1e2-a247-41e1-82e0-7245b9a97796}"}}}

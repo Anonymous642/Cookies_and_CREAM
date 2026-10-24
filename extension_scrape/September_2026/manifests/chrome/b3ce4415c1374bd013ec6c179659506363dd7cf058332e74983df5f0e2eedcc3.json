@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Failbook", "version": "1.2", "description": "A private log for failed projects and the lessons learned.", "icons": {"128": "icon.png"}, "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage", "unlimitedStorage"]}

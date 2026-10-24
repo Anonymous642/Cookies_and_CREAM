@@ -1,0 +1,1 @@
+{"name": "Birfinansci KDV Hesaplay\u0131c\u0131", "version": "1.0", "manifest_version": 2, "browser_action": {"default_popup": "./popup.html"}, "icons": {"128": "./img/128.png"}, "browser_specific_settings": {"gecko": {"id": "{0aad67e3-39e9-4965-bf4f-ce978aa45937}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Storage Manager", "version": "1.0", "description": "View and edit LocalStorage and SessionStorage.", "permissions": ["scripting", "activeTab"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "host_permissions": ["<all_urls>"]}

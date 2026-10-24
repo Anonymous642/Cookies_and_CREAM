@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Random Quote Generator", "version": "1.0", "description": "Get inspired with random quotes.", "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "permissions": ["https://api.quotable.io/*"], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{d4d79b1a-15a3-4bea-a78a-723547291e40}"}}}

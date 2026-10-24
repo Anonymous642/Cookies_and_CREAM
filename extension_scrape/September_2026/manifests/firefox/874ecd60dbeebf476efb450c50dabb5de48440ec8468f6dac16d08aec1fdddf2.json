@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Genderwender", "version": "1.3", "description": "Das beste Mittel im Kampf gegen den Mikrosexismus in der deutschen Sprache.", "icons": {"48": "icons/icon48.png", "96": "icons/icon96.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["src/main.js"]}]}

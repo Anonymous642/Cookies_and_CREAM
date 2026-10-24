@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Markdown to Word", "version": "1.0.0", "description": "Convert Markdown (.md) files into real .docx Word documents.", "action": {"default_popup": "popup.html", "default_title": "Markdown to Word"}}

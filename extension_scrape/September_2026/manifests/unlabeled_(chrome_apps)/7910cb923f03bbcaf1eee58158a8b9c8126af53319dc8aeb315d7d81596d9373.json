@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Balloons", "description": "A fun game of blowing up balloons", "version": "0.1.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "baloons-16.png", "48": "baloons-48.png", "128": "baloons-128.png"}, "permissions": ["http://*/"]}

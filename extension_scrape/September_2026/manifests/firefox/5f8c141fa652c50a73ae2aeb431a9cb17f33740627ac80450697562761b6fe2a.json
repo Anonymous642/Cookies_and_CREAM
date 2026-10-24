@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Name Mixer Extension", "version": "1.0", "description": "Mix and generate unique name combinations easily.", "action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "namemixerextension@example.com"}}}

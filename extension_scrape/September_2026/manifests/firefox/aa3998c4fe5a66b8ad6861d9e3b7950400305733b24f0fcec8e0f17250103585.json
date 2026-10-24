@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove jvc player", "version": "1.0", "description": "Remove jvc spam video player ", "icons": {"48": "icons/logo.png"}, "content_scripts": [{"matches": ["*://*.jeuxvideo.com/*"], "js": ["removePlayer.js"]}], "browser_specific_settings": {"gecko": {"id": "{9d90ffaf-6ec5-4f5f-bac8-aac480a52112}"}}}

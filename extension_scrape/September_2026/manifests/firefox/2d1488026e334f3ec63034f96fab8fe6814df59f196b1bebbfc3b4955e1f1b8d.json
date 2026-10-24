@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Social Media Mute", "version": "1.0", "description": "Mutes audio on social media websites.", "permissions": ["tabs", "webNavigation"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{b207bdea-a527-4064-845b-0a0b24d8a60f}"}}}

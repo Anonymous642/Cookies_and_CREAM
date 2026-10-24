@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CopyTwittThread", "description": "Copy a thread to your clipboard", "version": "1.1.11", "minimum_chrome_version": "88", "icons": {"16": "icon/16.png"}, "permissions": ["activeTab", "scripting", "clipboardWrite"], "action": {}, "background": {"service_worker": "background.js"}}

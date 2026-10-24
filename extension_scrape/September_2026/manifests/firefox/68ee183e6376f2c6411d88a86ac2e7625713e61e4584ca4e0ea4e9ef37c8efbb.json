@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "New window position fixer", "version": "1.0", "description": "Move new windows to the same position as the previous window", "permissions": ["tabs"], "background": {"scripts": ["background.js"], "persistent": true}, "browser_specific_settings": {"gecko": {"id": "{e7ff00fd-7446-4bfe-8444-b34b8560f5df}"}}}

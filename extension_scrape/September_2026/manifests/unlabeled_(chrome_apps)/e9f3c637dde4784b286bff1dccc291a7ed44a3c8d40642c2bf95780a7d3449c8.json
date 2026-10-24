@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://my.connect.com.fj/"], "launch": {"web_url": "http://my.connect.com.fj/"}}, "update_url": "https://clients2.google.com/service/update2/crx", "name": "MyConnect", "icons": {"128": "myconnect_icon.png"}, "manifest_version": 2, "version": "1.0"}

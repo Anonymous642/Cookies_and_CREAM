@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Paiza Copy Btn", "version": "1.0", "manifest_version": 3, "description": "Paiza Copy Btn", "permissions": ["clipboardWrite"], "icons": {}, "content_scripts": [{"matches": ["https://paiza.jp/works/mondai/*"], "js": ["content.js"], "css": ["content.css"]}]}

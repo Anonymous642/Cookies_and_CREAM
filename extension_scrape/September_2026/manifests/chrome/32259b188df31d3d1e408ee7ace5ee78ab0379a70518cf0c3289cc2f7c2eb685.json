@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Fluidoro", "version": "1.0.1", "description": "A new take on pomodoro. Addressing its main problem \u201cDisrupting Focus\u201d.", "action": {"default_popup": "index.html", "default_width": "400", "default_height": "600"}, "permissions": []}

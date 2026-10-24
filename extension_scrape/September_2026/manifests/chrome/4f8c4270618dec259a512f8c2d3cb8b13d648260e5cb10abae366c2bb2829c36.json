@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Clip Sync", "version": "1.0.0", "description": "Save and manage clipboard snippets", "action": {"default_popup": "index.html"}, "permissions": ["storage", "clipboardWrite", "clipboardRead"]}

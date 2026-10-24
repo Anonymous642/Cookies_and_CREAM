@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Minecraft Tab Sounds", "version": "1.0", "browser_specific_settings": {"gecko": {"id": "minecraft-tabsounds@rashqp", "data_collection_permissions": {"required": ["none"]}}}, "description": "Sons ao abrir e fechar abas.", "background": {"page": "background.html"}, "permissions": ["tabs"]}

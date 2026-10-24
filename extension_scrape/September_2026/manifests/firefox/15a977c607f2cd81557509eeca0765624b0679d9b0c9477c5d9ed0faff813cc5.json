@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Steam Price Comparator", "version": "1.0", "description": "Compare Steam game prices between regions from a popup.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["tabs"], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{00b1b36d-a7c9-4c1d-a473-8a56bfafe568}"}}}

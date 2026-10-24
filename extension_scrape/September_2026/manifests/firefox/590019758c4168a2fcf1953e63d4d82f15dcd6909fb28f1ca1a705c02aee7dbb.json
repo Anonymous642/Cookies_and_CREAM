@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No \"More Tweets\"", "description": "Removes the query parameter \"s\" from twitter links so \"More Tweets\" section doesn\u00b4t appear", "version": "0.0.2", "icons": {"64": "icons/icon.png"}, "permissions": ["webRequest", "webRequestBlocking", "https://twitter.com/"], "background": {"scripts": ["index.js"]}}

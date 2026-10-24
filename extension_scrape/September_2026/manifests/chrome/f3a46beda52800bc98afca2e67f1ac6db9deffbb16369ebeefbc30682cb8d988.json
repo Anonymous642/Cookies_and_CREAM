@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "author": "Dima PM", "manifest_version": 3, "name": "Gmail Extra Compact UI", "version": "0.0.2", "description": "Quick attempt to restore Gmail to usable state on desktop.", "content_scripts": [{"matches": ["https://mail.google.com/mail/u/0/"], "css": ["content.css"]}]}

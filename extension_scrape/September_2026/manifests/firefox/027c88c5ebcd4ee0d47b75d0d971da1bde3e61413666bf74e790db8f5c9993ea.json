@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "grep localstorage", "version": "1.0", "description": "Downloads the active tab's local storage as a single txt file", "permissions": ["activeTab", "scripting"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{95be5b6c-23a8-4eb8-8ac4-12e6ea669576}"}}}

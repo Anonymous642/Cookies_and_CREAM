@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "New Tab Art",
+  "version": "1.0.0",
+  "description": "Shows a random piece of art on each new tab, from Google Arts & Culture and the Metropolitan Museum of Art.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "art-new-tab@lpo",
+      "strict_min_version": "121.0",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
+      }
+    }
+  },
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "type": "module"
+  },
+  "permissions": [
+    "storage",
+    "alarms"
+  ],
+  "host_permissions": [
+    "https://collectionapi.metmuseum.org/*",
+    "https://images.metmuseum.org/*",
+    "https://lh3.googleusercontent.com/*",
+    "https://artsandculture.google.com/*"
+  ]
+}

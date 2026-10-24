@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto PDF Zoom", "version": "1.0", "permissions": ["activeTab"], "background": {"scripts": ["background.js"], "persistent": false}, "content_scripts": [{"matches": ["*://*/*.pdf"], "js": ["content.js"]}], "icons": {"48": "icons/icon.png"}, "browser_specific_settings": {"gecko": {"id": "{a66cb676-a42b-4e70-8e5b-b6ce443475d5}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RetailMeNot Coupons", "version": "1.0", "description": "Get the latest coupons and promo codes from RetailMeNot.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{d7248600-3f49-4849-bf8a-ce96c60b1881}"}}}

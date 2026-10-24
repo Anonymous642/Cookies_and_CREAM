@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MotivQuote", "version": "1.0", "description": "Tr\u00edch d\u1eabn t\u1ea1o \u0111\u1ed9ng l\u1ef1c khi m\u1edf tab m\u1edbi.", "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"128": "icon.png"}, "permissions": [], "action": {"default_icon": "icon.png"}}

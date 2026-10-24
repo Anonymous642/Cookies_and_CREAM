@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "DIY Project Planner", "version": "1.0", "description": "Plan and organize your DIY projects with ease.", "icons": {"48": "icon.png"}, "permissions": ["storage", "activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "diy-project-planner@example.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "STEL Order", "description": "Enlace a la aplicaci\u00f3n de STEL Order", "version": "1.1", "icons": {"128": "128.png"}, "app": {"urls": ["http://www.stelorder.com/"], "launch": {"web_url": "http://www.stelorder.com/"}}, "permissions": ["unlimitedStorage", "notifications"]}

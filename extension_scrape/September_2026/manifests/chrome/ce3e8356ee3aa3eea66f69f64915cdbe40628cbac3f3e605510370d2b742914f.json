@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Corner Quotes", "version": "1.0", "description": "Displays a motivational quote in the corner of your screen every time you open a new tab.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["popup.css"]}], "icons": {"48": "icon.png"}}

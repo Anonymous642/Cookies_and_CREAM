@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "English Vocabulary Manager", "version": "1.0", "description": "Search and add English vocabulary using Google Sheets as database.", "permissions": [], "action": {"default_popup": "popup.html"}}

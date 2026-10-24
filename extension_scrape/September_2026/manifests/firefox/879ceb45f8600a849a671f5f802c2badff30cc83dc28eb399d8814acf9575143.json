@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sudoku Solver", "version": "1.0", "description": "Input a Sudoku puzzle to find all possible solutions.", "icons": {"48": "icon.png"}, "permissions": ["activeTab", "storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{e33afd29-2750-41c6-a894-da398b677301}"}}}

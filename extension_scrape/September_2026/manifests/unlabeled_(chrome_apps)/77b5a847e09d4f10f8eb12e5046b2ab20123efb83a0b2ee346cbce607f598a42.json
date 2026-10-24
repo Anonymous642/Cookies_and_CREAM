@@ -1,0 +1,1 @@
+{"app": {"launch": {"local_path": "http://kiallapzolai.webs.com/us/index.htm"}}, "update_url": "https://clients2.google.com/service/update2/crx", "name": "US Citizenship", "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "manifest_version": 2, "version": "1.0.0.0"}

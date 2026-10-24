@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.0.6", "name": "My Link Vault", "icons": {"128": "128.png"}, "action": {"default_popup": "index.html", "default_icon": "128.png"}, "host_permissions": ["http://*/*", "https://*/*"]}

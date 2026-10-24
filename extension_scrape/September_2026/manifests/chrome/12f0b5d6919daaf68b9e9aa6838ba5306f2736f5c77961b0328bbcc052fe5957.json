@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "default_locale": "zh_CN", "name": "__MSG_extensionName__", "version": "1.0.0", "description": "__MSG_extensionDescription__", "content_scripts": [{"matches": ["https://x.com/*", "https://twitter.com/*"], "js": ["xdar-content.js"], "css": ["content.css"], "run_at": "document_idle"}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bulkie", "version": "1.0", "description": "Bulk tools for tabs.", "permissions": ["tabs", "webNavigation"], "action": {"default_popup": "popup.html", "default_icon": {"128": "icons/icon128.png"}}, "background": {"service_worker": "scripts/bulkite.js"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Comment Collector", "version": "1.0", "description": "Gathers and displays all comments from a webpage for easy reading and management", "permissions": ["activeTab", "contextMenus"], "background": {"scripts": ["view.js"]}, "browser_specific_settings": {"gecko": {"id": "{55faa808-b3a5-48bf-8a8b-bc0b80350164}"}}}

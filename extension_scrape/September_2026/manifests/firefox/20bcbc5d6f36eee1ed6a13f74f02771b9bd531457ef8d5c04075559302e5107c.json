@@ -1,0 +1,1 @@
+{"name": "Snow", "description": "Snow on pages", "version": "0.0.1", "manifest_version": 2, "content_scripts": [{"matches": ["<all_urls>"], "js": ["snow.js"], "css": ["snow.css"]}], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{b1ff5460-64b9-4a1d-8570-f6c2e5892bce}"}}}

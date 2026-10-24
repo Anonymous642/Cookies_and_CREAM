@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Kupujem Prodajem Dark Mode", "version": "0.3", "icons": {"128": "icon128.png"}, "description": "Ukljucite nocni rezim na sajtu Kupujem Prodajem.", "content_scripts": [{"css": ["style.css"], "matches": ["https://*.kupujemprodajem.com/*", "https://kupujemprodajem.com/*"]}], "browser_specific_settings": {"gecko": {"id": "kp.darkmode@yngdev.space"}}}

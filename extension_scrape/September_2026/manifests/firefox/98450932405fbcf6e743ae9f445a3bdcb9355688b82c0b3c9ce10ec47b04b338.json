@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Widen Specific Div", "version": "1.0", "description": "A Firefox extension to widen a specific div container on a website.", "content_scripts": [{"matches": ["*://*.hypocampus.fr/read/*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{afce04e6-b23a-4b0f-9668-c258e239bd56}"}}}

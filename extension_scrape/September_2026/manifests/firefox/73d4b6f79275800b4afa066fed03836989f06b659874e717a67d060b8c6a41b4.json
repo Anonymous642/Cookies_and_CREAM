@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Redfix", "version": "0.0.1", "description": "Redirects \"reddit.com/subreddit\" to \"reddit.com/r/subreddit\"", "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["redfix_main.js"]}], "browser_specific_settings": {"gecko": {"id": "{0eeaf6e8-936e-4cb7-b93f-4040a8b619c2}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "My Custom New Tab", "version": "1.1", "description": "\u00d6zel anasayfa", "permissions": ["storage", "unlimitedStorage"], "chrome_url_overrides": {"newtab": "newtab.html"}}

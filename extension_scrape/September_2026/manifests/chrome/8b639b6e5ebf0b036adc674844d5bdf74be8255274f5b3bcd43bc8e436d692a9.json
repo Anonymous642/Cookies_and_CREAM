@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Patience is the Key to Success", "version": "1.0", "description": "A collection of quotes highlighting how patience leads to success.", "icons": {"128": "images/key-logo.png"}, "action": {"default_popup": "index.html", "default_icon": "images/key-logo.png"}, "permissions": []}

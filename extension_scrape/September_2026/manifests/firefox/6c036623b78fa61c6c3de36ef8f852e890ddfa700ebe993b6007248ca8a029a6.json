@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clear Cookies by Domain", "version": "1.0", "description": "Quickly clear cookies for a specific domain.", "permissions": ["cookies", "tabs", "<all_urls>"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{f8f8a5f5-3e0f-4473-a2c6-2bc92edcc023}"}}}

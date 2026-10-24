@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "nexTab", "description": "nexTab is a Chrome new-tab extension to help your daily workflow!", "version": "5.0.1", "permissions": ["storage"], "icons": {"48": "img/logo.png"}, "offline_enabled": true, "chrome_url_overrides": {"newtab": "app/index.html"}}

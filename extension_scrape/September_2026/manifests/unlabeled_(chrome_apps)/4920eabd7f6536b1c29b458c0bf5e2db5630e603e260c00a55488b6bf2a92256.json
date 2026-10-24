@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "PeerChat", "description": "P2P chat client w/ PeerJS", "version": "2.0", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"], "persistant": false}}, "icons": {"128": "PeerChatLogo.png"}}

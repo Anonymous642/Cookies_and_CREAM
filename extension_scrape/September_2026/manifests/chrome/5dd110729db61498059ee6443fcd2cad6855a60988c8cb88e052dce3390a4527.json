@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SEO Uboor Tool", "version": "1.2", "permissions": ["activeTab", "scripting"], "icons": {"16": "SEO.png", "48": "SEO.png", "128": "SEO.png"}, "action": {"default_popup": "popup.html"}}

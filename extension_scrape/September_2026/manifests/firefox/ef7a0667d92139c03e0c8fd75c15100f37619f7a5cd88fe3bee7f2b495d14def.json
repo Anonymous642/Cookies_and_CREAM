@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "XOF to NPR Converter", "version": "1.0", "description": "Convert CFA Franc BCEAO (XOF) to Nepalese Rupee (NPR).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "XOF to NPR Converter"}, "browser_specific_settings": {"gecko": {"id": "{73a3d09e-3891-4495-8333-c2112834b1d4}"}}}

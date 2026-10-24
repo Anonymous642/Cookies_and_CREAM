@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Cosmic Nightfall", "version": "1.0", "description": "Immerse yourself in the serene beauty of the night sky", "permissions": ["geolocation"], "icons": {"128": "1734167.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{85a68269-5e4e-4c1e-9804-d2be8c0ad56e}"}}}

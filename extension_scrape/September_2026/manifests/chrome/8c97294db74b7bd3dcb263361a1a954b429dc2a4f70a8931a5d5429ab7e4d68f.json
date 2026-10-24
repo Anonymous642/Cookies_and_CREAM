@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CryptoPass", "manifest_version": 3, "version": "2.0.0", "description": "Encrypt and decrypt informations", "action": {"default_icon": "images/icon-01.png", "default_popup": "index.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ArtTab", "version": "1.0", "description": "A beautiful artist photo every week on your new tabs.", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": [], "action": {"default_title": "ArtTab", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}}

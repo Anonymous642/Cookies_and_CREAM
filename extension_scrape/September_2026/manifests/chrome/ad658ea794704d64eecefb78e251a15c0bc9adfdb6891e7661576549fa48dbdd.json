@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "NutriCalc", "version": "1.0.0", "description": "Calcule l'IMC, l'IMG et les macronutriments localement.", "permissions": ["storage"], "action": {"default_title": "NutriCalc", "default_popup": "popup.html"}}

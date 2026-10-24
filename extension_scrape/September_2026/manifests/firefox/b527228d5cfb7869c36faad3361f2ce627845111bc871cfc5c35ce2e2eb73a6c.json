@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Image URL Preview", "version": "1.0", "description": "Hover over image URLs in text to see a preview", "browser_specific_settings": {"gecko": {"data_collection_permissions": {"required": ["none"]}, "id": "{99dea8b8-acd2-47ab-a430-dfbc06e6156e}"}}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_idle"}]}

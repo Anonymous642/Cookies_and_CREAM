@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Spotify Auto Zoom", "version": "1.0", "description": "Automatically sets zoom to 90% for Spotify links.", "permissions": ["tabs", "https://open.spotify.com/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{c35f4468-b45f-4c7a-aa70-c81a6ea87000}"}}}

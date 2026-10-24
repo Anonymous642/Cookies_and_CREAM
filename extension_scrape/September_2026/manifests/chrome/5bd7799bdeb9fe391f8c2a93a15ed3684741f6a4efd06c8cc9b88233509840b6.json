@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab Organizer", "version": "1.0.2", "description": "Export all open tabs as HTML or Markdown for easy import into Notion.", "permissions": ["tabs", "tabGroups"], "action": {"default_popup": "popup.html", "default_title": "Export Tabs"}}

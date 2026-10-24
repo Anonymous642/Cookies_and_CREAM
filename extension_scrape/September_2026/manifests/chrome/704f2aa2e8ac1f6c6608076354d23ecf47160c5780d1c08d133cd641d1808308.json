@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.0", "content_scripts": [{"matches": ["https://*.etsy.com/listing/*"], "js": ["redirect.js"]}], "name": "Etsy Redirect", "description": "Redirect Etsy users to shop domains that favor creators", "icons": {"128": "etsy-redirect.png"}}

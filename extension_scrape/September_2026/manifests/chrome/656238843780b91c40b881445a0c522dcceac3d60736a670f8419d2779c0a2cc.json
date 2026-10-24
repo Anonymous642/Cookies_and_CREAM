@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "1099-NEC & 1099-K Limit Guard", "version": "1.0", "description": "Tracks your freelance income against the updated 2026 IRS thresholds: 1099-NEC ($2,000) and 1099-K ($20,000).", "action": {"default_popup": "popup.html"}, "permissions": ["storage"]}

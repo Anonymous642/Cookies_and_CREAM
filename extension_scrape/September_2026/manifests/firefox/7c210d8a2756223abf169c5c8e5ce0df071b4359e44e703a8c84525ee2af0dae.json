@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RefCapturer", "version": "1.0", "description": "Save images to refern.app for art reference with a single click.", "permissions": ["activeTab"], "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{740c7696-d2e5-4005-a8f4-ecf4daa739ed}"}}}

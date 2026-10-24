@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PDF Dark Mode", "version": "1.0", "description": "Applies dark mode to PDF files.", "content_scripts": [{"matches": ["*://*/*.pdf", "file://*/*.pdf"], "js": ["content.js"], "run_at": "document_end"}], "icons": {"48": "icon.png"}}

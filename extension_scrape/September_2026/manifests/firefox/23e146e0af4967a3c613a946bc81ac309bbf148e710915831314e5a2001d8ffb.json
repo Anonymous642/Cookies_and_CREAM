@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reddit Comment Navigator", "description": "Easily navigate between top level comments on a Reddit post.", "version": "0.1", "icons": {"64": "rcn-icon.png"}, "content_scripts": [{"matches": ["*://*.reddit.com/*/comments/*"], "js": ["rcn.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tickle-inator", "version": "1.2", "description": "Replace 'Tearful' with 'Tickle' on the Tearful Tunes YouTube channel.", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["content.js"]}]}

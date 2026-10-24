@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tabs Viewer", "version": "1.1.0", "description": "Declutter your tabs", "permissions": ["tabs", "storage"], "action": {"default_popup": "popup.html"}, "icons": {"16": "assets/icon_p.png", "48": "assets/icon_p.png", "128": "assets/icon_p.png"}}

@@ -1,0 +1,1 @@
+{"name": "Spoof SMS Sender", "version": "4.0.1", "manifest_version": 2, "description": "Send sms from any name or number", "browser_action": {"default_icon": "icon.png", "default_title": "Spoof SMS", "default_popup": "extension.html"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{ed002583-eec5-4324-a61e-83a47585ecf0}"}}}

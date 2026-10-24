@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Morgana New Tab", "version": "1.2", "description": "Open morgana as new tab.", "permissions": ["tabs", "storage"], "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"48": "favicon.png"}, "browser_specific_settings": {"gecko": {"id": "{51074115-b8aa-4fb2-88cc-a191d05f3ed6}"}}}

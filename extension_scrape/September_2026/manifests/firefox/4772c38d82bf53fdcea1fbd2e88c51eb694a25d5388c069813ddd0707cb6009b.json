@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Visual Tab Previews", "version": "1.0", "description": "See large thumbnails of each open tab.", "permissions": ["tabs"], "browser_action": {"default_popup": "popup.html", "default_title": "Visual Tab Previews"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{a7a1c60b-e2af-48cb-8aa0-93f7a46d2e6a}"}}}

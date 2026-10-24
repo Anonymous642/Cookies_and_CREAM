@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quill Video Conferencing Notifier", "version": "0.5", "permissions": ["tabs"], "background": {"service_worker": "background.js"}}

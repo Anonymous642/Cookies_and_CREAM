@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SLT Usage Mater Extend", "version": "2", "content_scripts": [{"matches": ["https://myslt.slt.lk/boardBand/summary"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{ca2c1f7f-21ee-4fc0-b160-d3d0615888a4}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Toxic Comment Revealer", "version": "1.0", "description": "Unhides potentially toxic comments on social media platforms, giving you full access to all discussions without filters", "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{585a492e-81ee-4d9f-b4c6-81d7ce3022a9}"}}}

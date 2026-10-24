@@ -1,0 +1,1 @@
+{"name": "Indian Constitution Preamble", "version": "1.0", "description": "The Preamble to Indian Constitution!", "manifest_version": 2, "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"128": "Emblem_of_India.png"}, "permissions": ["activeTab"]}

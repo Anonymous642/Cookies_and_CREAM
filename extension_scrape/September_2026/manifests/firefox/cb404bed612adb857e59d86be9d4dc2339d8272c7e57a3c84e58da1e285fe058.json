@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Placeholder Extension", "version": "0.0.1", "description": "Creates an AMO listing so you can invite collaborators", "action": {"default_title": "Placeholder"}, "icons": {"48": "icons/icon-48.png"}, "browser_specific_settings": {"gecko": {"id": "2615dd11-0be6-46ae-83fd-b2b8e68f6906@polinc.com"}}}

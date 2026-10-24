@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Link Correction", "version": "0.9", "manifest_version": 3, "content_scripts": [{"matches": ["https://chat.openai.com/*"], "js": ["content.js"], "css": ["style.css"]}], "permissions": ["favicon"], "web_accessible_resources": [{"resources": ["_favicon/*"], "matches": ["<all_urls>"]}]}

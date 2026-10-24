@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Anti-Detect", "version": "1.0", "description": "Remove Selenium traces", "content_scripts": [{"matches": ["<all_urls>"], "js": ["extension.js"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{28b35c09-7ad8-434d-bc61-2de63a890683}"}}}

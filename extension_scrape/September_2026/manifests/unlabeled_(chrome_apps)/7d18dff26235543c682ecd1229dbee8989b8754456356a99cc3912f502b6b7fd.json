@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "wow/chrome", "description": "HD Chrome SearchTop", "version": "0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://wowchrome.com/"], "launch": {"web_url": "http://www.wowchrome.com/"}}}

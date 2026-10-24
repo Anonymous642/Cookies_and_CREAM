@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Inspect Android", "version": "1.0", "manifest_version": 3, "action": {"default_title": "Inspect Android - By Irshad Ali"}, "background": {"service_worker": "background.js"}, "icons": {"16": "images/icon-1.png", "48": "images/icon-2.png", "96": "images/icon-3.png", "128": "images/icon-4.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dress Up Game", "version": "1.0", "description": "Select and display different outfits for a character.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{4ab80c88-d9ff-47be-8c8a-d7583f03efcf}"}}}

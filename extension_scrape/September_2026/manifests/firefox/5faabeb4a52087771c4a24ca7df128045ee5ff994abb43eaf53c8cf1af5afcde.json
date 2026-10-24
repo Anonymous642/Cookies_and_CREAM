@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "HN side-by-side", "version": "1.0.4", "description": "Show Hacker News linked articles and comments side by side.", "content_scripts": [{"matches": ["https://news.ycombinator.com/*"], "js": ["hnsxs.js"]}], "browser_specific_settings": {"gecko": {"id": "hnsxs@shdon.com"}}, "icons": {"48": "icon.png", "96": "icon@2x.png"}}

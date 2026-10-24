@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Recherche Express", "version": "1.0", "description": "Tape un mot-cl\u00e9, choisis une plateforme, et cherche direct !", "action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png"}}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "lesojin972@amirei.com", "strict_min_version": "109.0"}}}

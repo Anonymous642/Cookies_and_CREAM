@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LaTeX to Word - Preserve Formatting", "version": "1.1", "description": "Convert LaTeX documents to Word format with accurate formatting preservation. Create Beautiful Files.", "permissions": [], "action": {"default_popup": "popup.html", "default_icon": {"128": "logo.png"}}}

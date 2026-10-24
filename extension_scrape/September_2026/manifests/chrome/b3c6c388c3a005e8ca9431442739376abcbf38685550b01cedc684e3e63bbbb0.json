@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gmail Date Grouper", "version": "1.6", "description": "Groups Gmail inbox emails by date with collapsible date headers.", "content_scripts": [{"matches": ["https://mail.google.com/*"], "js": ["content.js"], "css": ["styles.css"], "run_at": "document_idle"}]}

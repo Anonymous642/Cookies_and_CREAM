@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HackerMeows", "version": "1.0", "description": "An extension to help you make HackerNews comments far more interesting, insightful, and engaging.", "content_scripts": [{"matches": ["*://news.ycombinator.com/item?id=*"], "js": ["meow.js"]}], "browser_specific_settings": {"gecko": {"id": "{56af78e7-b825-4247-b4be-23af38ebaf91}"}}}

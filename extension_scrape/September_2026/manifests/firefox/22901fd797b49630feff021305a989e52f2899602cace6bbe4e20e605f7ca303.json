@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TWD to THB Converter", "version": "1.0", "description": "Convert New Taiwan Dollar (TWD) to Thai Baht (THB).", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/"], "browser_specific_settings": {"gecko": {"id": "{8f4db553-6ef5-48b9-9d2e-7a23da53ef6f}"}}}

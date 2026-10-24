@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VAIBaprx", "version": "1.0.0", "description": "Switching Fastly Between Proxies", "background": {"scripts": ["prox.js"]}, "browser_action": {"default_icon": {"30": "icons/off.png"}}, "permissions": ["proxy"], "browser_specific_settings": {"gecko": {"strict_min_version": "91.1.0"}}}

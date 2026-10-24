@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pocket Popup Game", "version": "1.0.1", "description": "A tiny mini game you can play inside the popup (no permissions needed).", "action": {"default_title": "Pocket Popup Game", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

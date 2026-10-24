@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Dhi Sutra: Quote New Tab", "version": "1.2", "description": "Displays a new wallpaper with a quote on each new tab.", "chrome_url_overrides": {"newtab": "newtab.html"}, "web_accessible_resources": [{"resources": ["quotes.json", "wallpapers/*.jpg"], "matches": ["<all_urls>"]}]}

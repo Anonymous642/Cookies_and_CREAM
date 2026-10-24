@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MindClusters by Basitism", "version": "2.0", "description": "A cognitive trainer for CSS/PMS aspirants. Features custom puzzle creation and abstract reasoning drills.", "action": {}, "background": {"service_worker": "background.js"}, "permissions": ["storage", "unlimitedStorage"]}

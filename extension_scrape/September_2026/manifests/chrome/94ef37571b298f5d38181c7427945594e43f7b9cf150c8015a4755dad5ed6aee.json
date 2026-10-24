@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Remove Empty Lines", "version": "1.0.1", "description": "Paste text and instantly remove blank lines from any multi-line text.", "action": {"default_title": "Remove Empty Lines", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

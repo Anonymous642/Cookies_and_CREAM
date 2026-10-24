@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YourCities", "version": "1.2", "description": "See weather, time, and more for your favorite cities", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"128": "icon128.png"}}

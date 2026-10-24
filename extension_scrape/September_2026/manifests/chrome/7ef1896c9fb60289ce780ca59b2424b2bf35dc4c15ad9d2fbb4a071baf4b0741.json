@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Painauchocolatify", "version": "1.0", "description": "Remplace toutes les occurrences de Chocolatine par Pain au chocolat", "icons": {"128": "images/128p.png"}, "content_scripts": [{"js": ["scripts/content.js"], "matches": ["<all_urls>"]}]}

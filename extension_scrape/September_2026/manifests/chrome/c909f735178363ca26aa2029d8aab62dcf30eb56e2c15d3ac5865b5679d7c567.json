@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_extName__", "short_name": "Online Calculator", "description": "__MSG_extDesc__", "version": "1.0.1", "manifest_version": 3, "default_locale": "en", "action": {"default_popup": "index.html", "default_icon": "./img/calculator.png"}, "icons": {"128": "./img/calculator.png"}}

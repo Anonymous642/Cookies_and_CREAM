@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Translate URL", "version": "1.0", "description": "Translate pages using Google Translate.", "permissions": ["contextMenus", "tabs", "activeTab"], "background": {"scripts": ["background.js"], "persistent": false}, "icons": {"48": "icons/icon.png"}, "browser_specific_settings": {"gecko": {"id": "{3e1e7c18-6e93-478b-a8e8-e72cb6acfb6e}"}}}

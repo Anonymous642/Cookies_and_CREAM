@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Subtle Improvements for Hacker News", "version": "1.3.0", "description": "Small tweaks for Hacker News without presenting a drastically different interface.", "content_scripts": [{"matches": ["*://news.ycombinator.com/*", "*://news.ycombinator.net/*"], "js": ["dist/content_script.js"], "css": ["dist/hn.css"]}]}

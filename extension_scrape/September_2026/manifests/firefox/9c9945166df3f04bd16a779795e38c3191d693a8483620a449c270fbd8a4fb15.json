@@ -1,0 +1,1 @@
+{"manifest_version": 2, "default_locale": "en", "name": "__MSG_extensionName__", "description": "__MSG_extensionDescription__", "version": "1.1resigned1", "permissions": ["contextMenus", "menus"], "background": {"scripts": ["closeToLeft.js"]}, "browser_specific_settings": {"gecko": {"id": "{272f41e9-549a-4d41-929b-7a50322a579b}"}}}

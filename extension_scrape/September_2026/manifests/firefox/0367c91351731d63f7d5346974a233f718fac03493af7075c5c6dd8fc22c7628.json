@@ -1,0 +1,1 @@
+{"name": "Twitch open chat", "version": "1.1", "description": "Automatically opens a channel's chat on Twitch.tv", "manifest_version": 2, "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["openChat.js"]}]}

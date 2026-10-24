@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "B Companion", "description": "Features taken down due to a Trademark Complain by Brainly. Minor CSS changes only.", "manifest_version": 3, "version": "1.25.05.22", "content_scripts": [{"matches": ["https://brainly.com/*"], "css": ["style.css"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HomeTab Launcher", "version": "1.0.0", "description": "A modern, TV-style new tab page.", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["storage", "favicon"], "icons": {"16": "icon16.png", "32": "icon32.png", "48": "icon48.png", "128": "icon128.png"}}

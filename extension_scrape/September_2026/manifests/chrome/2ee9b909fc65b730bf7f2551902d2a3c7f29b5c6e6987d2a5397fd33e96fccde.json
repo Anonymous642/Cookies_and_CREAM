@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Notion Cover Slimmer", "version": "1.0", "description": "Make your Notion cover image Slimer, which will make your page appear wider.", "content_scripts": [{"matches": ["https://www.notion.so/*"], "css": ["style.css"]}], "manifest_version": 3}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "StoppingCues Beta", "version": "1.0", "description": "Adds a stopwatch to twitter.com", "content_scripts": [{"matches": ["*://*.twitter.com/*", "*://*.facebook.com/*", "*://*.instagram.com/*"], "js": ["timer.js", "randomized_comments.js"], "css": ["timer-styling.css"]}]}

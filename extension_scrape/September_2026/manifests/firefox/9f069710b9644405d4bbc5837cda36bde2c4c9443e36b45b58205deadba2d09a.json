@@ -1,0 +1,1 @@
+{"name": "TextView", "action": {}, "manifest_version": 2, "version": "1.0", "description": "Makes links in plain text one-click to open.", "content_scripts": [{"matches": ["https://*/*.txt", "http://*/*.txt", "http://*/*.xml", "https://*/*.xml"], "css": [], "js": ["content-script.js"]}], "browser_specific_settings": {"gecko": {"id": "{dfd9ed2e-706e-4be7-87e8-685250d3ecab}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Helix Rock Radio", "manifest_version": 3, "version": "0.1", "background": {"service_worker": "worker.js"}, "icons": {"128": "icon_128.png"}, "action": {"default_title": "Helix Rock Radio", "default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["offscreen"]}

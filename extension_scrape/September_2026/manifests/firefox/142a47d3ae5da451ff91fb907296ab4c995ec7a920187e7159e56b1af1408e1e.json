@@ -1,0 +1,1 @@
+{"name": "AdBlocker", "version": "1.0.0", "manifest_version": 3, "permissions": ["webRequest", "webRequestBlocking"], "host_permissions": ["<all_urls>"], "background": {"scripts": ["blocker.js"]}, "browser_specific_settings": {"gecko": {"id": "will@adblocking", "strict_min_version": "109.0"}}}

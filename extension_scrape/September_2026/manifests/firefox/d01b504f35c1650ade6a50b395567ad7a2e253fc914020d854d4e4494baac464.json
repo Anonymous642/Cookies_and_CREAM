@@ -1,0 +1,1 @@
+{"description": "LA Saturate Image", "manifest_version": 2, "name": "LASaturate", "version": "1.1", "icons": {"48": "icons/la_saturate_icon.png"}, "content_scripts": [{"matches": ["file://*/*"], "js": ["lasaturate.js"]}], "browser_specific_settings": {"gecko": {"id": "{11f38abb-9d3b-475d-93d5-0b4f37e41cb8}"}}}

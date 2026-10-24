@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Hitzekin jolastuz", "description": "Jolatu Euskararekin", "version": "2", "app": {"urls": ["*://www.hitzekinjolastuz.net"], "launch": {"web_url": "http://www.hitzekinjolastuz.net/launch/"}}, "icons": {"128": "hitzekin-128.png"}, "manifest_version": 2, "permissions": ["unlimitedStorage", "notifications"]}

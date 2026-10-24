@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SuppSpace", "version": "0.6", "description": "Research supplements on SciSpace", "icons": {"48": "icons/SuppSpace_icon.svg"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icons/SuppSpace_icon.svg"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{6c865475-5167-4582-9e2a-074f8ca4b658}"}}}

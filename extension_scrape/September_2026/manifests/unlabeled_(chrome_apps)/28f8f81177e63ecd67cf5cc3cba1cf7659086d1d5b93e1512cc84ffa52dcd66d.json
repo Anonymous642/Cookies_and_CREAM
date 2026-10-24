@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "VOOV Translate", "description": "English, Georgian Dictionary", "version": "3.3", "app": {"urls": ["http://translate.voov.me/"], "launch": {"web_url": "http://translate.voov.me/"}}, "icons": {"128": "128.png"}, "manifest_version": 2}

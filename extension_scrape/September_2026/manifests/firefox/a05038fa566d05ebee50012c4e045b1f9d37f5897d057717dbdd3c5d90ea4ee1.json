@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CDA.pl Linkacz", "version": "1.0", "description": "Dodaje przycisk, kt\u00f3ry przekierowywuje do pliku MP4 filmu na witrynie CDA.pl.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*.cda.pl/video/*"], "js": ["linkacz.js"]}]}

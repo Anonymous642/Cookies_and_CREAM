@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.1", "name": "Cosmic Horizon", "chrome_url_overrides": {"newtab": "index.html"}, "description": "The beauty of planets and galaxies.", "manifest_version": 3}

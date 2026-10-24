@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Stock Image Searcher", "version": "1.1", "description": "Search free stock image sites for specific terms.", "permissions": [], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

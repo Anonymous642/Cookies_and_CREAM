@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Bookmark Launcher", "version": "1.0.0", "description": "Open frequently used websites quickly from a simple launcher popup.", "action": {"default_title": "Bookmark Launcher", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}, "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"name": "S_Calculator", "description": "Simple Calculator", "version": "0.0.2", "manifest_version": 2, "browser_action": {"default_popup": "index.html", "default_icon": "logo.png"}, "icons": {"64": "logo.png", "128": "logo.png"}, "browser_specific_settings": {"gecko": {"id": "{af3dc72b-9213-4277-9b76-9d7e37ac1b05}"}}}

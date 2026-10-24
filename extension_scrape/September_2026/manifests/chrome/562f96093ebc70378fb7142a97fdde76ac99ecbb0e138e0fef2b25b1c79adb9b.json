@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Simple Extension", "version": "0.0.1", "manifest_version": 3, "description": "This is a simple extension which prints Hello World", "action": {"default_popup": "popup.html", "default_icon": "logo.png"}, "icons": {"128": "logo.png"}}

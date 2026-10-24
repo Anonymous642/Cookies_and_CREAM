@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Language Labeler", "version": "1.0", "description": "Tag vocabulary by topic.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{0101e3f2-9ec6-4eef-83c7-16b3b3244e4c}"}}}

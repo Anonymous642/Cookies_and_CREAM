@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SN Widget Editor Darkmode", "description": "Enables darkmode for ServiceNow widget editor.", "version": "1.0.2", "manifest_version": 3, "content_scripts": [{"matches": ["*://*/sp_config?id=widget_editor*"], "css": ["extension-style.css"]}]}

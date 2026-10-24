@@ -1,0 +1,1 @@
+{"background": {"scripts": ["/assets/js/chordoke.js"]}, "browser_action": {"default_icon": {"128": "assets/images/default.png"}}, "description": "Chords + karaoke, find chords and karaokes...", "icons": {"128": "assets/images/default.png"}, "manifest_version": 2, "minimum_chrome_version": "40", "name": "Chordoke", "version": "1.0"}

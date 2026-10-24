@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Temu Hesaplay\u0131c\u0131", "version": "1.2", "description": "Se\u00e7ilen say\u0131y\u0131 1.6 ile \u00e7arpar", "author": "TemuCredit", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*.temu.com/*"], "js": ["content.js"], "css": ["content.css"]}]}

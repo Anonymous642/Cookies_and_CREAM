@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YTM Discord RPC", "version": "1.0", "permissions": ["tabs"], "content_scripts": [{"matches": ["*://music.youtube.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"data_collection_permissions": {"required": ["none"]}, "id": "{22ada468-2ab7-4b81-a697-500599af8242}"}}}

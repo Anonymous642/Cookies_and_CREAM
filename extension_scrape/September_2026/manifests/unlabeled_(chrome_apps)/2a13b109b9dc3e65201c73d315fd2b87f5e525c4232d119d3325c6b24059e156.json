@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "myChecklist", "description": "Schedule your daily activities", "version": "0.0.2.0", "manifest_version": 2, "icons": {"16": "icon_128.png", "128": "icon_128.png"}, "app": {"launch": {"local_path": "index.html"}}, "offline_enabled": true, "author": "Behnam Azizi", "omnibox": {"keyword": "myChecklist"}}

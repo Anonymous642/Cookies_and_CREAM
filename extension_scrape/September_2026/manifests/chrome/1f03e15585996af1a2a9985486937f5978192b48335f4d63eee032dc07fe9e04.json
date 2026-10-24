@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ClubTabareLugaresDisponibles", "version": "1.0", "description": "Checks for available spots on the Tabare agenda page.", "icons": {"32": "icons/icon.png"}, "content_scripts": [{"matches": ["https://agenda.clubtabare.com.uy/*"], "css": ["styles.css"]}]}

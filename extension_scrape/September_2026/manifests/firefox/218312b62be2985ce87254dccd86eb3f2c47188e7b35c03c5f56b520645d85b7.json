@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Modify Bible.com CSS", "version": "1.1", "description": "To modify the CSS of the Bible.com page to see the Bible text better.", "icons": {"500": "icons/youversion.jpg"}, "content_scripts": [{"matches": ["*://www.bible.com/bible/*"], "js": ["borderify.js"]}], "browser_specific_settings": {"gecko": {"id": "{918b7c9a-83e0-4b7a-bb15-2c2e4a823f4e}"}}}

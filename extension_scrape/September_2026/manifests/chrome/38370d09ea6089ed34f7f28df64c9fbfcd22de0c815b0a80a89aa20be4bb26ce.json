@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "IDLE PIXEL autoplay", "version": "1.1", "description": "Clicks on your account automatically in IDLE PIXEL", "content_scripts": [{"matches": ["https://idle-pixel.com/"], "js": ["content.js"]}], "icons": {"128": "icon.png"}}

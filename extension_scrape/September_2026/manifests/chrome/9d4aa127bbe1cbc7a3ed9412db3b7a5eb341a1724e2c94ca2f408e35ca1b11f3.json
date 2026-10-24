@@ -1,0 +1,33 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "name": "#codeblockshortcuts;",
+  "version": "1.0",
+  "description": "Adds collapsible functionality and easier button access to code blocks on Google AI Studio",
+  "host_permissions": [
+    "https://aistudio.google.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://aistudio.google.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_end"
+    }
+  ],
+  "action": {
+    "default_title": "#codeblockshortcuts;"
+  },
+  "icons": {
+    "16": "16.png",
+    "48": "48.png",
+    "128": "128.png"
+  },
+  "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self';"
+  }
+}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GBF_rooomTool", "version": "2.1", "description": "GBF Auto Copy Room ID", "icons": {"128": "icon/gbf-icon.png"}, "content_scripts": [{"matches": ["*://game.granbluefantasy.jp/*"], "js": ["content-script.js"], "css": ["main.css"]}], "permissions": []}

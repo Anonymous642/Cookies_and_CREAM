@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Frases Aleatorias El Principito", "version": "1.2", "description": "D\u00e9jate inspirar cada d\u00eda con las palabras de El Principito.", "icons": {"128": "icon.png"}, "action": {"default_popup": "popup.html"}, "permissions": []}

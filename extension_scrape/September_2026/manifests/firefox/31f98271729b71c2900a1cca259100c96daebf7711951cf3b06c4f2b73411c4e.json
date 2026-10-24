@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WaterClick", "version": "1.0", "description": "Adds the watery click noise from the OG Steam BPM", "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "waterclick@home-gihub.github.io", "data_collection_permissions": {"required": ["none"]}}}, "background": {"scripts": ["waterclick.js"]}, "permissions": ["webNavigation"]}

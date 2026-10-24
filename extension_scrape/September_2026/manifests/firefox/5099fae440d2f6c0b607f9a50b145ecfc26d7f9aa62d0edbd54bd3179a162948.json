@@ -1,0 +1,1 @@
+{"description": "Provides a redirect to csbc", "manifest_version": 2, "name": "Csbc redirector", "version": "1.0", "icons": {"48": "icons/csbc-48.png"}, "content_scripts": [{"matches": ["*://*.csbc.bih.nic.in/*"], "js": ["script.js"]}]}

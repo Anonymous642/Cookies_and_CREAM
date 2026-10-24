@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Canvas Dark Mode", "version": "1.0", "content_scripts": [{"matches": ["*://*.instructure.com/*"], "css": ["dark.css"]}], "browser_specific_settings": {"gecko": {"data_collection_permissions": {"required": ["none"]}, "id": "{ee9e1128-3cf2-4016-bd9b-b8d3194e000e}"}}}

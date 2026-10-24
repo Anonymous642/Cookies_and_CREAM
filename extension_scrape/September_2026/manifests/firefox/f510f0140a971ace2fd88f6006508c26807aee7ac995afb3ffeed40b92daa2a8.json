@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WorldHelper", "version": "1.0", "description": "cheats for WorldGuessr.", "icons": {"48": "icons/worldHelper-48.png", "96": "icons/worldHelper-96.png"}, "content_scripts": [{"matches": ["*://*.worldguessr.com/*"], "js": ["worldHelper.js"]}], "browser_specific_settings": {"gecko": {"id": "{f2683288-bd5e-4075-8705-3dc5e9bcd6f2}"}}}

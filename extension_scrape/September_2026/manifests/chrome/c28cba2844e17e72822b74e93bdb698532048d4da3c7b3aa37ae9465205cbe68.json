@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Time Entry Timer", "version": "1.0.0", "description": "Adds a Start/Stop Timer button next to a time entry input.", "content_scripts": [{"matches": ["https://issue.inm.pt/*"], "js": ["content.js"], "css": ["styles.css"]}], "icons": {"128": "extension_icon128.png"}}

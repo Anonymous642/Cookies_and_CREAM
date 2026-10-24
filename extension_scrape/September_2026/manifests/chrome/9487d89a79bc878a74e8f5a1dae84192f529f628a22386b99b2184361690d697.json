@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mi P\u00e1gina de Inicio Personalizada", "version": "1.0", "description": "Reemplaza la p\u00e1gina de inicio con una personalizada.", "icons": {"128": "icon.png"}, "chrome_url_overrides": {"newtab": "p.html"}, "permissions": []}

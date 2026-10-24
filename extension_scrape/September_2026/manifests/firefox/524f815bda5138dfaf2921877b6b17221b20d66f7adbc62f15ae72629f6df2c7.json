@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CVE to WST Converter", "version": "1.0", "description": "Convert Cape Verdean Escudo (CVE) to Samoan Tala (WST).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert CVE to WST"}, "browser_specific_settings": {"gecko": {"id": "{dc759fb0-cf2c-47cb-9664-fb98e8f6709e}"}}}

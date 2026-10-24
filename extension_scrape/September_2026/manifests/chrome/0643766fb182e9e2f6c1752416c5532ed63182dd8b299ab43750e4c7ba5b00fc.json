@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SEO Rank Checker", "version": "2.0", "description": "A well built SEO rank checker", "action": {"default_popup": "popup.html"}, "permissions": ["tabs", "storage"], "background": {"service_worker": "background.js"}, "icons": {"128": "icons/icon128.png"}}

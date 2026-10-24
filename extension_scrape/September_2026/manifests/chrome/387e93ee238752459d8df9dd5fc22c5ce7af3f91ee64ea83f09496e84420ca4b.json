@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mathphys Maximizer", "version": "1.3", "description": "Maximizes the homework entry form.", "permissions": [], "content_scripts": [{"matches": ["https://math-physics-learning.web.app/*", "https://math-physics-learning.app/*"], "js": ["content.js"], "run_at": "document_idle"}]}

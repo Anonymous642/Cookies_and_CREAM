@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Local Filesystem2", "description": "Local Filesystem2", "version": "30.6.0.14", "kiosk_enabled": true, "kiosk_only": true, "permissions": [{"fileSystem": ["write"]}, "unlimitedStorage"], "icons": {"128": "icon_128.png"}, "app": {"background": {"scripts": ["background.js"]}}}

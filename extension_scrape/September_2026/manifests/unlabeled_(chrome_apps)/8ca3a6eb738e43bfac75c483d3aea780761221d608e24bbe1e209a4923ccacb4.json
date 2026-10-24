@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"background": {"scripts": ["background.js"]}}, "name": "Molecular Weight Calculation", "description": "calculate molecular weight from chemical formular", "version": "0.2.0", "manifest_version": 2, "offline_enabled": true, "icons": {"16": "16.png", "128": "128.png"}}

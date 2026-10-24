@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "dark-newtab", "version": "0.0.1", "browser_specific_settings": {"gecko": {"id": "dark-newtab@wesleyac.com"}}, "permissions": ["tabs"], "chrome_url_overrides": {"newtab": "newtab.html"}}

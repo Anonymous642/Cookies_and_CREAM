@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Algolint", "description": "For tecies notes and codes, compile code and try algorthms", "version": "0.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "offline_enabled": true, "permissions": ["webview"], "icons": {"128": "icon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Currency", "version": "1.1resigned1", "description": "Shows Updated Currency Values Base as US Dollar", "permissions": ["<all_urls>"], "browser_action": {"browser_style": true, "default_title": "CurrencyRates", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{f31b2f92-31fb-4ca5-bf09-f63425b6da91}"}}}

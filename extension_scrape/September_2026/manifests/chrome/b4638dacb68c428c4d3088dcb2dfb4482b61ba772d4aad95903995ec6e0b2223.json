@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sudoku Solver", "version": "1.0.0", "description": "This is an extension to solve Sudoku", "manifest_version": 3, "author": "Sakshi Verma", "action": {"default_popup": "index.html", "default_title": "Sudoku Solver"}}

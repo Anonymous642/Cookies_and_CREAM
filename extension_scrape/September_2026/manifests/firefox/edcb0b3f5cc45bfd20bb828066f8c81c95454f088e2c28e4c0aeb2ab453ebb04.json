@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hide Ads on X.com", "version": "1.0", "description": "hide ad elements on X.com.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://x.com/*"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{d568dbf6-abe3-4360-8606-3038bdfa2151}"}}}

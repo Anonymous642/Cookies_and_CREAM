@@ -1,0 +1,1 @@
+{"description": "", "manifest_version": 2, "name": "t\u00e9l\u00e9charger youtube mp3", "version": "1.2resigned1", "permissions": ["webRequest", "webRequestBlocking", "https://www.youtube.com/"], "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{1507ae48-b1b4-4791-b33d-d4d61c5b27b5}"}}}

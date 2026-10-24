@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No Nonsense Twitter", "version": "1.0.1", "description": "Adjustments to the appearance and content of Twitter to improve user experience.", "icons": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}, "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["noNonsenseTwitter.js"]}]}

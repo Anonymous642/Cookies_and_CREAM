@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YT-Redirector", "version": "1.0", "permissions": ["tabs"], "background": {"service_worker": "background.js"}, "host_permissions": ["*://*.youtube.com/*"], "icons": {"16": "YT-Redirector-16.png", "48": "YT-Redirector-48.png", "128": "YT-Redirector-16.png"}}

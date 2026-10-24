@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "stugskill", "version": "2.1", "content_scripts": [{"matches": ["https://stug.io/*"], "js": ["game.bundle.js"], "run_at": "document_start"}], "permissions": ["storage"], "icons": {"32": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "stugskill2@github.codex128.com", "data_collection_permissions": {"required": ["websiteContent"]}}}}

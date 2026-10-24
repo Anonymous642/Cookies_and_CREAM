@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Margin Notes", "version": "1.0", "description": "Write notes directly in the page margins.", "permissions": ["activeTab", "storage"], "browser_action": {"default_title": "Add Margin Notes", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{779ef8d5-8b7b-4be6-b708-bbebde27c1f0}"}}}

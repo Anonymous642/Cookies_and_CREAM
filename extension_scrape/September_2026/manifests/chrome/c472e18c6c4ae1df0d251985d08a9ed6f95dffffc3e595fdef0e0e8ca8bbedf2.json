@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ToolKosh", "version": "1.0", "description": "A simple offline Chrome toolkit for PDF merging, image-to-PDF conversion, JPG merging, and JSON formatting", "action": {"default_popup": "popup.html", "default_icon": "toolkosh.png"}}

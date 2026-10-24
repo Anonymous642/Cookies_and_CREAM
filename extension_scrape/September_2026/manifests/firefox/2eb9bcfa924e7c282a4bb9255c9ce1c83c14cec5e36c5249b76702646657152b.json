@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "URL Parser", "version": "1.0", "description": "URL Parser: Break down URL components.", "action": {"default_popup": "popup.html", "default_icon": "url_parser.png"}, "icons": {"128": "url_parser.png"}, "browser_specific_settings": {"gecko": {"id": "nolansarahdrusilla2@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

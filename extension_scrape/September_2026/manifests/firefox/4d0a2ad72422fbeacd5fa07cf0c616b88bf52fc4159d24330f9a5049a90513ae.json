@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Basic New Tab", "version": "0.1", "chrome_url_overrides": {"newtab": "newTab.html"}, "browser_specific_settings": {"gecko": {"id": "{478d3027-25f4-4a95-a0a1-6d7e715af807}"}}}

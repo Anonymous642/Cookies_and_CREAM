@@ -1,0 +1,1 @@
+{"author": "Mario Alejandro Mu\u00f1oz - GiGopen.com", "browser_action": {"default_icon": "gigopen-ext.png", "default_popup": "popup.html"}, "description": "Word Counter and rate calculator Firefox extension - GiGopen.com", "manifest_version": 2, "name": "Word Counter and Rate Calculator", "version": "1.1"}

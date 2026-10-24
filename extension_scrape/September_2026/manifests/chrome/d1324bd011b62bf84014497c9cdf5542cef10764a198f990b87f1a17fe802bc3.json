@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Vidicator", "version": "0.0.0.1", "description": "Add custom progress indicators to your videos.", "action": {"default_popup": "index.html"}, "icons": {"48": "icon.png"}, "permissions": []}

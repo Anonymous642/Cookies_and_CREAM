@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Temperature Converter", "version": "1.0", "description": "Convert temperature units between Celsius, Fahrenheit, Kelvin, Rankine, and R\u00e9aumur.", "action": {"default_popup": "popup.html"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "eBay Tab Fixer", "version": "1.0", "description": "Prevent eBay from opening links in new tabs. Enjoy a smoother browsing experience with all clicks opening in the same tab", "content_scripts": [{"matches": ["*://*.ebay.com/sch/*"], "js": ["nonewtab.js"]}], "browser_specific_settings": {"gecko": {"id": "{d50373ab-0624-47a8-84ef-c5c15ad176b9}"}}}

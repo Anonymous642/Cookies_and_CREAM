@@ -1,0 +1,1 @@
+{"name": "Kjokkenutstyr.net", "description": "Les om alt av utstyr til kjokkenet, og faa tips til ulike former for matlaging", "app": {"urls": ["http://www.kjokkenutstyr.net/"], "launch": {"web_url": "http://www.kjokkenutstyr.net/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

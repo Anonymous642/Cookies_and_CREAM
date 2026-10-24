@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tw1n", "version": "0.1", "manifest_version": 2, "default_locale": "fr", "description": "__MSG_extension_description__", "icons": {"128": "images/icon-128.png"}, "app": {"launch": {"web_url": "http://tw1n.com/"}}, "permissions": []}

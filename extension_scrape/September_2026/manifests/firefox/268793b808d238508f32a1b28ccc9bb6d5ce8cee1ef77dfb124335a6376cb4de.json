@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Dark Speed Dial", "description": "A lightweight dark-themed speed dial new tab extension.", "version": "1.1", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["bookmarks", "storage"], "browser_specific_settings": {"gecko": {"id": "dark-speed-dial@your-name.org"}}}

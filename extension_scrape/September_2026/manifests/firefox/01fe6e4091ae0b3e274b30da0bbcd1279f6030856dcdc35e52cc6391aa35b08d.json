@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YT StopAutoPlaylist", "version": "1.0.1", "description": "Removes list and index from YouTube URL's", "browser_specific_settings": {"gecko": {"id": "agthomas95@yahoo.com"}}, "icons": {"48": "pixil-frame-APL.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["stopAPL.js"]}], "permissions": ["*://*/*"]}

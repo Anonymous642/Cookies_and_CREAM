@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "__MSG_name__", "description": "__MSG_description__", "version": "1.0.1", "default_locale": "en", "icons": {"16": "icons/icon-16@2x.png", "48": "icons/icon-48@2x.png", "64": "icons/icon-64@2x.png", "128": "icons/icon-128@2x.png"}, "chrome_url_overrides": {"newtab": "index.html"}}

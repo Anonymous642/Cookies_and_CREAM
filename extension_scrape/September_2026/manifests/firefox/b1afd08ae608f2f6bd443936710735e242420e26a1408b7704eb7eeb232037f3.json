@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Smooth AutoScroll", "version": "1.0", "description": "Hands-free page scrolling.", "action": {"default_popup": "popup.html", "default_icon": "smooth_autoscroll.png"}, "icons": {"128": "smooth_autoscroll.png"}, "browser_specific_settings": {"gecko": {"id": "charlithabkmp378970@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

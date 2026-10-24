@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab Search", "version": "1.0", "description": "Search and filter open tabs by title or URL", "permissions": ["tabs"], "action": {"default_popup": "popup.html"}}

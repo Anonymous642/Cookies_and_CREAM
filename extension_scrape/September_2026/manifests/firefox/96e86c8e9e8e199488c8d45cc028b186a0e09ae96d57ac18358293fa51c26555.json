@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Mystical Tarot Reader", "version": "1.0", "description": "Get a tarot card reading anytime for mystical guidance.", "icons": {"48": "icon.png"}, "permissions": ["activeTab", "storage"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "mystical-tarot-reader@example.com"}}}

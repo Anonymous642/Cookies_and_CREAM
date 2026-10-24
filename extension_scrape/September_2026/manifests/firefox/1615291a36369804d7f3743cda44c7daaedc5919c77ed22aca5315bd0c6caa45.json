@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VK Go Up+", "version": "1.1resigned1", "description": "Makes Go Up zone smaller", "content_scripts": [{"matches": ["https://vk.com/*"], "css": ["barFix.css"]}], "browser_action": {"default_icon": "logo.png"}, "browser_specific_settings": {"gecko": {"id": "{24e9b60f-0b13-43ce-aa07-ceea8ab747a8}"}}}

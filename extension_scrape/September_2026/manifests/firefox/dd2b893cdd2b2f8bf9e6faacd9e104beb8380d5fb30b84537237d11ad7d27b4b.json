@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Borderify", "version": "1.1resigned1", "description": "Auto play video at popup mode in youtube.", "icons": {}, "content_scripts": [{"matches": ["*://*.youtube.com/embed/*"], "js": ["autoplay.js"]}], "browser_specific_settings": {"gecko": {"id": "{078cd837-5b37-4e82-bd71-881d566ca2ca}"}}}

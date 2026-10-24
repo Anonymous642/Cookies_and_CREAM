@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Siorb: Yerba Mate Runner", "description": "Pom\u00f3\u017c Panu Siorbowi zebra\u0107 listki na kolejne nabicie", "version": "1.0.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://siorb.dobreziele.pl/"], "launch": {"web_url": "http://siorb.dobreziele.pl/"}}}

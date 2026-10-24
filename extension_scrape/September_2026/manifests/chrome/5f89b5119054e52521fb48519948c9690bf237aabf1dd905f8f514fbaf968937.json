@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HLight+", "version": "0.1.1200", "permissions": ["contextMenus", "storage", "activeTab", "scripting"], "icons": {"128": "hlightt.png"}, "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html", "default_icon": "hlightt.png"}}

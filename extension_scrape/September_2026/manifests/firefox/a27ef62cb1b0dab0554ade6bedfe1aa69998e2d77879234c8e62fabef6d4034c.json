@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "USD to CNY Converter", "version": "1.0", "description": "Convert US Dollar (USD) to Chinese Yuan (CNY) instantly.", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/*"], "browser_specific_settings": {"gecko": {"id": "{04112461-9849-46af-9232-7d6fb4f4c862}"}}}

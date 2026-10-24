@@ -1,0 +1,1 @@
+{"name": "__MSG_extensionName__", "version": "0.0.2", "content_scripts": [{"matches": ["<all_urls>"], "run_at": "document_start", "all_frames": true, "js": ["index.js"]}], "permissions": [], "incognito": "spanning", "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{835b4f9d-a391-4b15-ba77-510f8ec194b3}"}}}

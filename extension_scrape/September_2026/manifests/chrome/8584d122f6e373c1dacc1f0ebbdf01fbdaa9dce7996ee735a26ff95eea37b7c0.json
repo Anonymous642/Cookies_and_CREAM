@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "iSPEL Auto Kehadiran Pro", "version": "2.0", "description": "Panel pintar untuk memilih murid tidak hadir dan sebab dengan mudah.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://moeispel.moe.gov.my/sahsiah/kehadiran/tabguru*"], "js": ["content.js"]}]}

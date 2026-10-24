@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Graylog Highlight Messages", "version": "0.4", "content_scripts": [{"matches": ["<all_urls>"], "js": ["highlighter.js"]}], "options_ui": {"page": "popup/menu.html"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "mostlycoolmark@firefoxaddon.com"}}}

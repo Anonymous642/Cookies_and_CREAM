@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hypixel Player Redirect", "version": "1.0", "description": "Redirects Hypixel player profile links to sky.shiiyu.moe (SkyCrypt).", "content_scripts": [{"matches": ["*://*.hypixel.net/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{234b824f-acb8-44b6-ae0a-a589bb385545}"}}}

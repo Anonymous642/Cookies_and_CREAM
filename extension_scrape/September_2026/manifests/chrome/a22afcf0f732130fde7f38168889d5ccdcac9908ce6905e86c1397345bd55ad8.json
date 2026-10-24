@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Roblox Avatar Emotes", "description": "Allows you to use any owned emote in your profile picture.", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "index.html"}, "host_permissions": ["https://*.roblox.com/*"], "permissions": ["tabs"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Copy Tab Title", "version": "1.0", "description": "Copy the current tab's title to clipboard.", "permissions": ["activeTab", "clipboardWrite"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{17e2b4f1-5e52-4495-aff1-f2ee37d49e9f}"}}}

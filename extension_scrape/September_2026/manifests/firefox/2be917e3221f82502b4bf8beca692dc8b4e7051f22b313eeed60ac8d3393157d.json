@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Study Buddy", "version": "1.0", "description": "ADHD-friendly tools for focus, motivation, and organization.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["activeTab", "storage"], "browser_specific_settings": {"gecko": {"id": "{48e73c24-7782-4a91-9d10-916d2dd25132}"}}}

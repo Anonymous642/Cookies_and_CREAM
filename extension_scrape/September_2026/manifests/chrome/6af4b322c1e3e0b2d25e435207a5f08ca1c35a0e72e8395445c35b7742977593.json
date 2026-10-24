@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Auto Refresh", "version": "0.0.1.8", "description": "Automatically refresh selected tabs at a user-defined interval.", "permissions": ["alarms", "storage"], "action": {"default_title": "Auto Refresh", "default_popup": "popup.html"}, "background": {"service_worker": "background.js"}}

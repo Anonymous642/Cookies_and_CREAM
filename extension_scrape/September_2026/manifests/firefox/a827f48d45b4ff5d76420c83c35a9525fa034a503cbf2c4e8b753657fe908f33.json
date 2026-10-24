@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Password Strength Checker", "version": "1.0", "description": "Help create strong but memorable passwords.", "permissions": [], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{04a872c8-9284-47c1-95cd-12c51eb18cb7}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Tab Vault", "version": "1.0", "description": "Tab Vault: Save and restore sessions", "action": {"default_popup": "popup.html", "default_icon": "tab_vault.png"}, "icons": {"128": "tab_vault.png"}, "browser_specific_settings": {"gecko": {"id": "weizhonghlgp525843@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

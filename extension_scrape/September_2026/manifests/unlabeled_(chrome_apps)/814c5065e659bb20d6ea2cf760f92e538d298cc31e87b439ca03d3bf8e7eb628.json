@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CoolUtils EMail Converter", "description": "Online EMail Converter", "app": {"urls": ["https://www.coolutils.com/Online/Mail-Converter/"], "launch": {"web_url": "https://www.coolutils.com/Online/Mail-Converter/"}}, "manifest_version": 2, "version": "0.1", "icons": {"128": "mail_icon.png"}}

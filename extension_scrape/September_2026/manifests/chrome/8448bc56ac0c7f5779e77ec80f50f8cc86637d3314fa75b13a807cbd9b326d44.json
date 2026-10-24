@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "name": "edump", "version": "1.0.3", "manifest_version": 3, "description": "edump viewer chrome extension", "short_name": "edump viewer", "devtools_page": "devtools.html", "permissions": []}

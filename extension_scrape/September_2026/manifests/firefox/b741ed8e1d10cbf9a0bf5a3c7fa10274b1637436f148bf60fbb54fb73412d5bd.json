@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "KeywordDensityChecker", "version": "1.2", "description": "Check keyword density on the current webpage.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{6719394f-863f-454b-99fe-c188491c3188}"}}}

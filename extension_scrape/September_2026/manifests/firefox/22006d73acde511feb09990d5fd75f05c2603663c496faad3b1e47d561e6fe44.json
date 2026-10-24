@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tinder Unblur", "version": "1.0", "description": "Unblur Tinder images of people who liked you.", "permissions": ["https://api.gotinder.com/*"], "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://tinder.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{8423fe7e-4d78-4ba1-a32e-667ad8822ab9}"}}}

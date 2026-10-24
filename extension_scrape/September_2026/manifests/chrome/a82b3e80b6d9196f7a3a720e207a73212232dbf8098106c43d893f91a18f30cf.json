@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Horas-PGD-IBGE", "description": "Totaliza horas para o PGD do IBGE", "version": "1.0", "manifest_version": 3, "content_scripts": [{"js": ["jquery.min.js", "hours.js"], "matches": ["https://*/SDA-SECAF/ui/apuracao/*", "https://*/*/SDA-SECAF/ui/apuracao/*"]}], "host_permissions": ["https://*.ibge.gov.br/*"]}

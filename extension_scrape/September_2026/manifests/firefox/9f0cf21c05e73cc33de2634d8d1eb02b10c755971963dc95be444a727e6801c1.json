@@ -1,0 +1,1 @@
+{"description": "Spot nynorsk articles on nrk.no and draw a red border around.", "manifest_version": 2, "name": "Nynorsk-spotter", "version": "1.6", "homepage_url": "https://github.com/gggmmm/nynorsk-spotter", "icons": {"48": "icons/logo-48.png"}, "content_scripts": [{"matches": ["*://*.nrk.no/*"], "js": ["nynorsk-spotter.js"]}]}

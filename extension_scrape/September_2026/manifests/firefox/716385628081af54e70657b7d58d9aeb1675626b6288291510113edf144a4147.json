@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LazyLens", "version": "1.0", "description": "Blur image background inline using Canvas; select central focus, adjust blur, preview or export.", "permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content_script.js"], "run_at": "document_end"}], "applications": {"gecko": {"id": "lazylens@example.com"}}}

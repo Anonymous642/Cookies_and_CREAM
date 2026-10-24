@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Elemental Bloom Theme", "version": "1.0", "description": "Transforms your browser into a dynamic and mesmerizing experience", "icons": {"128": "images.png"}, "permissions": ["geolocation"], "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{9f3e77fe-93c4-4f13-b08b-4aea49877007}"}}}

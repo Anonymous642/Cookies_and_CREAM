@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "VNPT iAlert", "description": "VNPT iAlert - N\u1ec1n t\u1ea3ng truy\u1ec1n tin v\u00e0 c\u1ea3nh b\u00e1o s\u1ef1 c\u1ed1", "version": "1.0", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["activeTab"]}

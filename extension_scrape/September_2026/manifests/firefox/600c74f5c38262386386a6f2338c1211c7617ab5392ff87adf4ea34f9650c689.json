@@ -1,0 +1,1 @@
+{"name": "Sails Under the Red Moon", "description": "A classic sailing ship gliding through a stormy sea under a dark", "manifest_version": 2, "version": "1.0", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{c1749874-1021-454a-8d78-60c8ae4ae106}"}}}

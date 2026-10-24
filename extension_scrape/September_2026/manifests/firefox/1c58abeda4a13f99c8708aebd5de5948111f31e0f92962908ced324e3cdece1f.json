@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TabDeck", "version": "1.3", "description": "Manage your tab groups and organize them with a sidebar", "permissions": ["storage", "tabs"], "background": {"scripts": ["background.js"], "persistent": false}, "sidebar_action": {"default_panel": "sidebar.html"}, "browser_specific_settings": {"gecko": {"id": "{ee685788-079a-45d6-99ab-a590db84382c}"}}}

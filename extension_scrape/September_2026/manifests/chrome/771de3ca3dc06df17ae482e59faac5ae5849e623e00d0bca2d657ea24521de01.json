@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Date & Time Copy", "version": "1.0.0", "description": "Copy the current date/time quickly in multiple formats.", "action": {"default_title": "Quick Date & Time Copy", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

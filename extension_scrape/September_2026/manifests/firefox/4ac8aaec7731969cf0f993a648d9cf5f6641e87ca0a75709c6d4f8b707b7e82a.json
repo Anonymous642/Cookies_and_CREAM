@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Extra Large Toolbar", "version": "1.0", "description": "Bigger icons and spacing in the Firefox toolbar.", "permissions": ["theme"], "browser_action": {"default_title": "Extra Large Toolbar", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{ce550e75-b1e6-41a9-9256-72b3e4c39f89}"}}}

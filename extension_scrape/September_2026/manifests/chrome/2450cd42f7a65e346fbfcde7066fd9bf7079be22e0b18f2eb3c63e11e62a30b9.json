@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ADHD-Friendly Todo List", "version": "1.1", "description": "A todo list extension designed for people with ADHD", "action": {"default_popup": "popup.html"}, "permissions": ["storage"], "content_security_policy": {"extension_pages": "script-src 'self'; object-src 'self'"}}

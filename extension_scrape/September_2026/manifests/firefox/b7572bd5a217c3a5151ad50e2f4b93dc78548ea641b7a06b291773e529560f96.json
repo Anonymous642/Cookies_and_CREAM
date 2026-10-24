@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Page Translator", "version": "1.0", "description": "D\u1ecbch nhanh trang web hi\u1ec7n t\u1ea1i sang Ti\u1ebfng Vi\u1ec7t.", "permissions": ["tabs"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{e5ac6eb1-8505-415d-ba9d-7d7bde3bbabf}"}}}

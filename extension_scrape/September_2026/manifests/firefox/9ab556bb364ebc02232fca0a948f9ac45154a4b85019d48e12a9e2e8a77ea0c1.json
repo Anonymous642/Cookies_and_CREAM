@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dictionnaire h\u00e9raldique", "version": "1.1", "author": "Honneur-Patrie", "description": "Rechercher facilement la d\u00e9finition d'un terme h\u00e9raldique", "homepage_url": "http://www.blason-armoiries.org/heraldique/", "background": {"scripts": ["background.js"]}, "permissions": ["menus"]}

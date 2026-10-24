@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Google Purple Background", "version": "1.0", "description": "Google sahifasini orqa fonini purple qiladi", "permissions": ["*://www.google.com/*"], "content_scripts": [{"matches": ["*://www.google.com/*"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{a09b970b-7b16-40e2-9e67-0ae7e94d8f3d}"}}}

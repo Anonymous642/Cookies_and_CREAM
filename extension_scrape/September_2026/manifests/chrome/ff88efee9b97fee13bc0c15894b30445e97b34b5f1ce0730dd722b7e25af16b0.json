@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Google Maps Crosshair", "version": "1.0", "description": "Adds a centered crosshair overlay to Google Maps", "content_scripts": [{"matches": ["*://www.google.com/maps/*", "*://maps.google.com/*"], "js": ["content.js"], "css": ["styles.css"]}], "icons": {"48": "icon.png"}}

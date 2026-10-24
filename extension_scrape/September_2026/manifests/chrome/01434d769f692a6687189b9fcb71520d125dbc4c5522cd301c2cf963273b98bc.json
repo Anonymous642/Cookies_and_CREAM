@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Etymology Finder", "version": "1.0", "description": "Search the etymology of a word by selecting it and right-clicking.", "permissions": ["contextMenus"], "background": {"service_worker": "background.js"}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

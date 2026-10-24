@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ToN+", "version": "1.0", "description": "Enhances the ToN tracker with additional features for stats lovers.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{5b208085-b3d7-46a7-8fff-bdada70e7afd}"}}}

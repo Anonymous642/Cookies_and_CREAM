@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My Little Google", "version": "1.0.1", "icons": {}, "content_scripts": [{"matches": ["https://www.google.com/", "https://www.google.com/*"], "js": ["main.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{09c8450f-1226-4dc8-897d-6c8e0c4a36c4}"}}}

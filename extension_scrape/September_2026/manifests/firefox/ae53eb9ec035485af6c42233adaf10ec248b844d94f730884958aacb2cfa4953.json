@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Compass Tasks", "version": "1.6", "description": "Defaults Compass Learning Task count to 500 (max)", "content_scripts": [{"matches": ["https://*.compass.education/Records/User.aspx"], "js": ["content.js"]}], "icons": {"48": "icon.png", "96": "icon.png"}}

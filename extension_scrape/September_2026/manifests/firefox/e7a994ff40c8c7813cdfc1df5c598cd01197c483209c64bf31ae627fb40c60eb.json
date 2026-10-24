@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "2ManyTabs", "description": "Replace default new tab page in Chrome with a useful new tab page.", "version": "0.2", "chrome_url_overrides": {"newtab": "tab.html"}, "icons": {"128": "128.png"}, "permissions": ["bookmarks"], "browser_specific_settings": {"gecko": {"id": "{47c8b571-b102-4dcd-9f0f-8498bdadc724}"}}}

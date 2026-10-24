@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PrismAI Companion", "version": "1.0", "description": "Automates PostHog session recording interactions", "content_scripts": [{"matches": ["*://*.posthog.com/*"], "js": ["content.js"]}], "icons": {"128": "icon.png"}}

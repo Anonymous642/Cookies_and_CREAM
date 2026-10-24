@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Porto - Import your Tweets to Bluesky", "version": "1.1", "description": "Easily import Tweets to Bluesky with few clicks", "action": {"default_icon": "icon.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["tabs", "activeTab"], "icons": {"32": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "porto@bluesky"}}}

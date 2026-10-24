@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "CSS Modifier Extension", "version": "1.0", "description": "Modify specific div styles on a webpage.", "permissions": ["activeTab"], "host_permissions": ["*://*/*"], "content_scripts": [{"matches": ["*://hack.codingblocks.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "css-modifier-extension@example.com"}}}

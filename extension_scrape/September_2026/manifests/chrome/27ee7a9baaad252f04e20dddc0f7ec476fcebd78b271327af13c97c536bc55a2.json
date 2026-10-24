@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Screen Pop Minimal", "version": "0.1.1", "description": "Minimal popup with cookie and WebSocket toggle", "action": {"default_title": "Screen Pop", "default_popup": "popup.html"}, "background": {"service_worker": "background.js"}, "permissions": ["tabs", "windows", "storage"]}

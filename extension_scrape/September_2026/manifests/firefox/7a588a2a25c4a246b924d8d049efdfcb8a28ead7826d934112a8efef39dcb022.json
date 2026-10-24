@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "insert_datos", "version": "1.0", "description": "Uso exclusivo prog", "browser_specific_settings": {"gecko": {"id": "loneyzafiroro@gmail.com"}}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "action": {"default_title": "duplik"}}

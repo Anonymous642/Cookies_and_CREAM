@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Json2TsInterface", "description": "\u5c06 JSON \u6570\u636e\u8f6c\u6362\u6210 TypeScript\u7684Interface", "version": "1.0", "manifest_version": 3, "action": {"default_title": "Json2TsInterface"}, "background": {"service_worker": "background.js"}, "icons": {"128": "j2.png"}}

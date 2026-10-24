@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Kudu VFS Visualizer", "version": "1.1", "manifest_version": 3, "description": "Visualize Kudu VFS directory JSON with sort & filter", "permissions": ["storage"], "content_scripts": [{"matches": ["https://*.azurewebsites.net/vfs/*"], "js": ["content.js"], "css": ["styles.css"], "run_at": "document_end"}]}

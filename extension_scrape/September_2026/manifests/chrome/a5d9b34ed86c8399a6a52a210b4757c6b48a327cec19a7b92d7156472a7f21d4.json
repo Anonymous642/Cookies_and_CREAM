@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u30b5\u30dd\u30fc\u30c8\u8a50\u6b3a\u5bfe\u7b56", "version": "1.6", "manifest_version": 3, "description": "sagitaisaku", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_idle"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TaskFox", "version": "1.0", "description": "A simple task manager extension for Chrome", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{e77db7a9-7849-49cb-8d0a-64ac3644b470}"}}}

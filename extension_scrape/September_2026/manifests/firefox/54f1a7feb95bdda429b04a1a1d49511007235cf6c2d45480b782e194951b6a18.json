@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Czech news concentrate reading", "version": "1.3", "description": "Eliminates distractions when reading news on Czech websites.", "content_scripts": [{"matches": ["*://*.ceskenoviny.cz/*", "*://*.zpravy.aktualne.cz/*", "*://*.novinky.cz/*", "*://*.e15.cz/*"], "js": ["index.js"]}]}

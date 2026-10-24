@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Extensify BE", "author": "Jenish", "version": "1.0", "description": "A sleek browser extension by Jenish that helps you manage daily tasks with inspiring quotes and anime backgrounds.", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{7ca414de-e591-4a9b-bf74-95c78950bad9}"}}}

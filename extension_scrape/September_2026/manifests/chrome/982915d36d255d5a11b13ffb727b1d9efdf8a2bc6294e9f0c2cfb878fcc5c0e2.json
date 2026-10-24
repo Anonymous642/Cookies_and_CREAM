@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Floating Cubes", "description": "A unique scene of floating transparent cubes surrounded", "manifest_version": 3, "version": "1.2", "chrome_url_overrides": {"newtab": "index.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Gizmo (Beta)", "description": "Lightweight Desktop Calculator", "manifest_version": 2, "version": "0.1", "offline_enabled": true, "icons": {"16": "favicon-3.png", "24": "favicon-2.png", "32": "favicon-1.png", "64": "favicon-0.png"}, "app": {"background": {"scripts": ["background.js"]}}}

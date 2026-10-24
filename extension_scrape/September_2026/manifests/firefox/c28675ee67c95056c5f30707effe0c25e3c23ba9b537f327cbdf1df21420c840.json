@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "simple 2048 game", "version": "1.0.0", "description": "Simple 2048 game build with react", "action": {"default_popup": "index.html"}, "icons": {"48": "/icon.jpg", "96": "/icon.jpg"}, "browser_specific_settings": {"gecko": {"id": "{0d00dfd8-06e7-4c10-8509-a7af68f8f4e0}"}}}

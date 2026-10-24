@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Golden Hour Serenity", "version": "1.0.0", "description": "This extension brings the warm glow of the golden hour into your browser stunning landscape", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"128": "icons/icon128.png"}, "browser_specific_settings": {"gecko": {"id": "{ee6c32c4-5ac6-4fae-a68a-7678c5eeeeb1}"}}}

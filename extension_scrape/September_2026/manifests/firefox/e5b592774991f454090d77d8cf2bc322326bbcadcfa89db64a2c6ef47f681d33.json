@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tracfone Redirector", "version": "1.0", "description": "Redirects myportal.tracfone.com to search.brave.com", "permissions": ["webRequest", "webRequestBlocking", "*://myportal.tracfone.com/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{62971c0f-88a8-416a-85fb-916f9a4eb251}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SEO & Content Structure Inspector", "version": "1.2", "description": "Analyze on-page SEO structure and highlight issues with actionable fixes.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_title": "SEO Inspector"}}

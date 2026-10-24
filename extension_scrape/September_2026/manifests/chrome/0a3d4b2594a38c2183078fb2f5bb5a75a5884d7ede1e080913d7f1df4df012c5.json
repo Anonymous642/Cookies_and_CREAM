@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Smack Da Rat!!!", "description": "Smack Da Rat Not Da Rabbit!!!", "version": "1.0", "icons": {"16": "img/Rabbit.png", "48": "img/Rabbit.png", "128": "img/Rabbit.png"}, "action": {"default_icon": "img/Rabbit.png", "default_popup": "popup.html"}}

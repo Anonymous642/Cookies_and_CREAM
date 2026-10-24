@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Adaptive Theme Changer", "version": "1.0", "description": "Automatically changes Firefox theme based on time of day.", "background": {"scripts": ["background.js"]}, "permissions": ["theme"], "anh": {"48": "anh.png"}, "browser_specific_settings": {"gecko": {"id": "{99db5bec-312b-41e9-b91c-e3ae44cc6b2b}"}}}

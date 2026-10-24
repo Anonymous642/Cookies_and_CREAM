@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Limiter", "version": "1.0", "description": "Gi\u1edbi h\u1ea1n s\u1ed1 l\u01b0\u1ee3ng tab \u0111\u01b0\u1ee3c m\u1edf c\u00f9ng l\u00fac.", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{c6ea7b96-a325-4b5c-842c-54628684a109}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Startup Company Name Generator", "version": "1.0.0", "description": "Offline startup company name generator with a professional business style. No permissions required.", "action": {"default_title": "Startup Name", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Google Tab Counter", "version": "1.0", "description": "\u0110\u1ebfm s\u1ed1 l\u1ea7n m\u1edf tab Google.com m\u1ed7i ng\u00e0y.", "permissions": ["tabs", "storage"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "google_tab_counter@example.com"}}}

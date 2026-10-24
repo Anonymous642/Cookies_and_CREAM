@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "K-Pop Name Studio \u2013 Foreign Name Generator", "version": "1.0", "description": "Generate stylish foreign names based on your selected theme.", "icons": {"128": "icon128.png"}, "action": {"default_popup": "popup.html", "default_title": "K-Pop Name Studio"}}

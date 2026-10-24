@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Random Number Generator", "description": "This extension allows the user to generate a random number between a selected range of values", "version": "1.0", "action": {"default_popup": "random_num.html", "default_icon": "dice.png"}, "permissions": ["storage"]}

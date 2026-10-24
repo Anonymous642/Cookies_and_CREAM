@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Minimal New Tab", "version": "1.0", "description": "A minimal new tab page with a simple, clean design.", "icons": {"48": "icon.png"}, "chrome_url_overrides": {"newtab": "popup.html"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{e41ac2f4-1328-4365-a2ef-a779a3a28101}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Pagrrr", "version": "0.1.0", "description": "Goes down one page", "browser_specific_settings": {"gecko": {"id": "media@furby.industries"}}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["scrolly_script.js"]}], "permissions": ["tabs", "activeTab"]}

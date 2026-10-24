@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "twotab", "version": "1.0.2", "license": "MIT", "browser_specific_settings": {"gecko": {"id": "twotab@happens.lol"}}, "start_url": ".", "display": "standalone", "theme_color": "#82aaff", "background_color": "#212121", "chrome_settings_overrides": {"homepage": "index.html"}, "chrome_url_overrides": {"newtab": "index.html"}}

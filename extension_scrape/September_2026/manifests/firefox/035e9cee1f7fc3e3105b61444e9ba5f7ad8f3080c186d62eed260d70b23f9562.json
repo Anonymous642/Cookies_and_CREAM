@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "U.S. Presidents", "version": "1.0", "description": "Look up info about U.S. Presidents and Vice Presidents.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{1b43aa64-4cba-4576-b6de-2df15eac060d}"}}}

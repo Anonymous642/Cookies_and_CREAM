@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dark Mode Invert Colors", "version": "1.0", "description": "A simple Firefox extension to invert colors.", "permissions": ["activeTab"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_action": {}, "browser_specific_settings": {"gecko": {"id": "{1b4b2144-6108-4eeb-a96a-65ae58d6550e}"}}}

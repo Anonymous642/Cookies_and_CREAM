@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Anti-Pitidos Pro", "version": "1.0", "description": "Elimina pitidos y zumbidos de alta frecuencia en v\u00eddeos y directos.", "permissions": ["scripting", "activeTab"], "action": {"default_popup": "popup.html"}}

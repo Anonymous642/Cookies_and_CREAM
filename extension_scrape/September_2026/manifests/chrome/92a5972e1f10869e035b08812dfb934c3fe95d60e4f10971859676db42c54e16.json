@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Random Quote Tab", "version": "1.3", "description": "Displays a random quote every time you open a new tab.", "host_permissions": ["https://qapi.vercel.app/*"], "chrome_url_overrides": {"newtab": "newtab.html"}, "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gallery URL Grabber", "version": "1.0", "description": "Grab all image URLs from a gallery page.", "permissions": ["scripting", "activeTab", "clipboardWrite"], "action": {"default_title": "Grab Gallery Images"}, "background": {"service_worker": "background.js"}}

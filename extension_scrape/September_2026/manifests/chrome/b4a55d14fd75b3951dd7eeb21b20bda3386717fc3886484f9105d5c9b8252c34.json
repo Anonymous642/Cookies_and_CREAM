@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Doubao Image Cleaner", "version": "2.0.1", "description": "Image cleanup extension with popup and standalone window modes.", "permissions": ["downloads"], "action": {"default_title": "Doubao Image Cleaner", "default_popup": "popup.html"}}

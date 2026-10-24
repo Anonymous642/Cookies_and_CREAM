@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hourly Auto Reload", "description": "Reloads the current website every 60 minutes.", "version": "1.0", "permissions": ["tabs"], "host_permissions": ["http://*/*", "https://*/*"], "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["content.js"]}]}

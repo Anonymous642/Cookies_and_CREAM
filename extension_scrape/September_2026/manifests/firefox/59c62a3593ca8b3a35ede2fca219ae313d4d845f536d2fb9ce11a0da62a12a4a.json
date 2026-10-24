@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "serp-video-downloader", "description": "SERP Video Downloader built with WXT for Chrome/Edge/Opera/Firefox", "version": "0.0.1", "browser_action": {"default_title": "SERP Video Downloader", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{2ca3a680-4655-4bfd-af88-bf95f8c5fc9f}"}}}

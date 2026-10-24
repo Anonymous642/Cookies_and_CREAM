@@ -1,0 +1,1 @@
+{"description": "hides youtube like/dislike button", "manifest_version": 2, "name": "hideLikes", "version": "1.0", "homepage_url": "https://github.com/", "icons": {"48": "hideLikes.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/watch*"], "js": ["hideLikes.js"]}], "browser_specific_settings": {"gecko": {"id": "{30b55c9a-a152-45f7-a611-a55ac27fc6d5}"}}}

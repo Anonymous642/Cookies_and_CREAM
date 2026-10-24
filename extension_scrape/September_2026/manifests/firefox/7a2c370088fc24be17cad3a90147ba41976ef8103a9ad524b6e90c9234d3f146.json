@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "I don't like websites", "version": "1.0", "description": "Replaces every single website you visit with nothing", "content_scripts": [{"matches": ["<all_urls>"], "js": ["h.js"]}], "browser_specific_settings": {"gecko": {"id": "{8f9afa10-14c0-4a32-8e21-7e815b1ebfb0}"}}}

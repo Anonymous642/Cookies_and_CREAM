@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Yaver", "version": "1.2.0.0", "description": "Yaver The Taiga Issue Creator \u30c5", "permissions": ["storage", "activeTab"], "action": {"default_popup": "popup/popup.html", "default_icon": {"16": "icons/logo-16.png", "48": "icons/logo-48.png", "128": "icons/logo-128.png"}}}

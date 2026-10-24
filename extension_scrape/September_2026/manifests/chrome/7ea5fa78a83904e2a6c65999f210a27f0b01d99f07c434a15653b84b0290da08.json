@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Panda Note Money Extension", "version": "1.0.0", "description": "An improved UI/UX for managing daily expenses.", "action": {"default_popup": "index.html", "default_icon": "icon48.png"}, "permissions": ["tabs"]}

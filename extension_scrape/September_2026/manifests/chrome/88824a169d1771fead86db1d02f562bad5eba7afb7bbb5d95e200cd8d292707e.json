@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MyDarkPint", "version": "1.0", "description": "Dark Pinterest Theme<3", "icons": {"16": "pint16.png", "48": "pint48.png", "128": "pint128.png"}, "content_scripts": [{"matches": ["*://*.pinterest.com/*", "*://*.pinterest.ru/*"], "css": ["content.css"]}]}

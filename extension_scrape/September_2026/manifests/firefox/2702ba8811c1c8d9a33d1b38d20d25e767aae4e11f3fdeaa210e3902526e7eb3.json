@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Color Scout", "version": "1.1", "browser_action": {"default_title": "Color Scout", "default_popup": "Popup/popup.html"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["color-finder.js"]}], "icons": {"48": "ColorScoutLogo48.png", "96": "ColorScoutLogo96.png"}}

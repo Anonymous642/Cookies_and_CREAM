@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "InfoShield for Twitter/X", "version": "1.0", "description": "Automatically verifies if a post is factually correct. Requires a Gemini API key.", "content_scripts": [{"matches": ["*://*.x.com/*", "*://*.twitter.com/*"], "js": ["content.js"]}]}

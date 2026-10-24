@@ -1,0 +1,1 @@
+{"name": "My Webmarks", "version": "2.0", "description": "Web bookmark for your favorite websites", "permissions": ["tabs"], "background": {"scripts": ["background.js"], "persistent": false}, "icons": {"48": "webmarks_48.png", "96": "webmarks_96.png"}, "browser_action": {"default_title": "Bookamark this page"}, "manifest_version": 2}

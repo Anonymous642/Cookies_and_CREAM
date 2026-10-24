@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Hearth", "version": "0.2.7", "description": "A clean, minimal, and customizable homepage.", "manifest_version": 3, "icons": {"128": "icon128.png"}, "chrome_url_overrides": {"newtab": "build/index.html"}, "content_security_policy": {"extension_pages": "script-src 'self'; object-src 'self'"}}

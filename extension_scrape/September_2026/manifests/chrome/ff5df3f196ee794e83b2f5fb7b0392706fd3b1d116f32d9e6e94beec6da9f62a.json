@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute URL QR", "version": "1.0.0", "description": "Generate a QR code from the current tab URL in a cute popup.", "action": {"default_title": "URL to QR", "default_popup": "popup.html"}, "permissions": ["activeTab"], "icons": {"128": "icon128.png"}}

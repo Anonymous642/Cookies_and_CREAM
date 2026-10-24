@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Password Generator Pro", "version": "1.0", "description": "Password Generator Pro: Strong, unique passwords.", "action": {"default_popup": "popup.html", "default_icon": "password_generator_pro.png"}, "icons": {"128": "password_generator_pro.png"}}

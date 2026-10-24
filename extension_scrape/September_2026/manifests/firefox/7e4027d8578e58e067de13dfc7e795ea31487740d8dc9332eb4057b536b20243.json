@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Custom New Tab", "version": "1.0", "description": "Create a customizable new tab page with widgets.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{70f716e8-4268-413d-85f5-48fc0e2967e3}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dinosaur Game For Firefox", "description": "Play the Chrome Dino game on firefox", "version": "2.0", "browser_action": {"default_icon": "icon.png", "default_popup": "indox.html"}}

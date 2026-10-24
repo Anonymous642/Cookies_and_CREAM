@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NeoTab", "version": "1.0.6", "description": "Neo tab", "browser_specific_settings": {"gecko": {"id": "neotab@firefox"}}, "chrome_url_overrides": {"newtab": "neotab.html"}, "permissions": ["storage", "bookmarks"], "icons": {"48": "images/icon-48.png", "128": "images/icon-128.png"}}

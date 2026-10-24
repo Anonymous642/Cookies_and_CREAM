@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search on Jisho.org", "description": "Looks up a selection on jisho.org", "version": "1.1resigned1", "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus", "activeTab"], "icons": {"96": "icons/jisho-96.png"}, "browser_specific_settings": {"gecko": {"id": "{dd77d265-dbd4-444f-afb6-d53a2b3dfd64}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "USD to Euro Converter", "version": "1.0", "description": "Convert USD to Euro using a fixed exchange rate.", "browser_action": {"default_title": "USD to Euro", "default_popup": "popup.html"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{a9db99af-c7e9-4e37-a284-22139e294ee0}"}}}

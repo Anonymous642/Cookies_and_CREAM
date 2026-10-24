@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Compare Time - UTC", "version": "1.0.2", "description": "Developer tool that displays current UTC date and time for any selected city.", "action": {"default_popup": "index.html"}, "icons": {"16": "images/icon_16.png", "32": "images/icon_32.png", "48": "images/icon_48.png"}}

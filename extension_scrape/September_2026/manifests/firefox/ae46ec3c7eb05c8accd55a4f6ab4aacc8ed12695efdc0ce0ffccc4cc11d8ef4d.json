@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "EXE/MSI - Download Blocker", "version": "1.0.0", "description": "Blockiert Downloads von .exe und .msi Dateien.", "permissions": ["downloads", "notifications"], "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"id": "downloadblocker@ctaas.local", "strict_min_version": "100.0"}}, "icons": {"48": "icon.png"}}

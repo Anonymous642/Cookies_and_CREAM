@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "xkcd enhancer", "version": "1.1resigned1", "description": "Enhances your xkcd browsing experience.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://xkcd.com/*"], "js": ["enhance.js"]}], "browser_specific_settings": {"gecko": {"id": "{ea95b626-0190-4cc0-ac41-c4db50144146}"}}}

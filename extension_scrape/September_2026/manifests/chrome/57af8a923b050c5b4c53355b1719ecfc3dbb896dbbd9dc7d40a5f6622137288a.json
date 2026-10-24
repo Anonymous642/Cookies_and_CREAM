@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Beeline", "description": "Buzz straight to your (Jira) ticket", "version": "1.0.0", "manifest_version": 3, "action": {"default_popup": "beeline.html", "default_icon": "icon.png"}, "permissions": ["storage"]}

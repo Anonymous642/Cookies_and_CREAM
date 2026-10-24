@@ -1,0 +1,1 @@
+{"name": "My Favorite Brunette", "author": "vintageclassics", "version": "0.1", "manifest_version": 2, "description": "Bob Hope, Dorothy Lamour, Peter Lorre", "browser_action": {"default_icon": "mfb.png", "default_title": "Watch the great Bob Hope, Dorothy Lamour, Peter Lorre classic", "default_popup": "extension.html"}, "icons": {"128": "mfb.png"}}

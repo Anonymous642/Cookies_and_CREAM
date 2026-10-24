@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Focus Reboot", "description": "A Chrome extension that helps users reset their focus by providing a moment of boredom.", "version": "0.1", "manifest_version": 3, "action": {"default_icon": "icon.png"}, "background": {"service_worker": "background.js"}}

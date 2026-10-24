@@ -1,0 +1,1 @@
+{"name": "NoForums", "version": "1.0", "description": "Removes hltv forums from the sidebar.", "manifest_version": 2, "permissions": ["activeTab"], "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "content_scripts": [{"matches": ["https://www.hltv.org/*"], "exclude_matches": ["https://www.hltv.org/forums"], "js": ["content_script.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BDT to LKR Converter", "version": "1.0", "description": "Convert Bangladeshi Taka (BDT) to Sri Lankan Rupee (LKR) instantly.", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/*"], "browser_specific_settings": {"gecko": {"id": "{dcb1b7b3-eb05-4603-816b-7c634119fcae}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Blahound's Blog", "description": "Opens the thoughts of Blahound blog", "version": "1.9", "app": {"launch": {"web_url": "http://blahound.blogspot.ie"}}, "icons": {"128": "icon_128.png"}}

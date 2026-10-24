@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Unblur The Page", "version": "1.2resigned1", "description": "Unblurs the page duh!", "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_action": {"default_icon": {"48": "icon.png"}}, "permissions": ["tabs", "activeTab"], "browser_specific_settings": {"gecko": {"id": "{d7530182-c900-4ebb-8541-21ce1dc7d72d}"}}}

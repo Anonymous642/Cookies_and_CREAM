@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TextareaOpener", "version": "1.0", "description": "Open all textarea to see all text at the page load", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.myb2o.net/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{d40d13f3-d7f2-414b-add2-2e1aecaf02a6}"}}}

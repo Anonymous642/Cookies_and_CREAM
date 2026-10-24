@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Golem Breit-Modus", "version": "1.0", "description": "Zwingt den Artikelinhalt auf Golem.de, die volle Breite des Grids zu nutzen.", "content_scripts": [{"matches": ["https://www.golem.de/*"], "css": ["styles.css"]}], "icons": {"48": "icon48.png"}}

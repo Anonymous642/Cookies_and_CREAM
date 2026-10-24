@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "how to fix the internet", "version": "1.0", "description": "Replaces the text 'security' with 'insecurity'.", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}]}

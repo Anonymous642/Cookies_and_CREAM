@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Nexus Mods Sensible Archive", "description": "Download mods directly from the Nexus Mods Archive", "version": "0.1", "manifest_version": 3, "content_scripts": [{"matches": ["https://www.nexusmods.com/*&category=archived*"], "js": ["app.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ZAR to AED Converter", "version": "1.0", "description": "Convert South African Rand to United Arab Emirates Dirham.", "permissions": ["activeTab", "https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{36806a4e-0f2d-4625-959b-24e6c346194f}"}}}

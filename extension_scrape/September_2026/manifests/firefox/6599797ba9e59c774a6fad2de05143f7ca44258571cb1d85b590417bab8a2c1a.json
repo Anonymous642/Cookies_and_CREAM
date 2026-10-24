@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Focus Reminder Pop-Up", "version": "1.0", "description": "Stay focused with motivational reminders every 30 minutes.", "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "focus-reminder@example.com"}}, "permissions": ["alarms", "notifications"], "icons": {"48": "icon.png"}}

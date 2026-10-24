@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Cisco Creeps", "version": "1.1", "description": "You can watch Creeps everywhere, but it's better in Cisco.", "icons": {"48": "icons/icon48.jpg"}, "content_scripts": [{"matches": ["*://creeps.assistants.epita.fr/*"], "js": ["creeps.js"]}], "browser_specific_settings": {"gecko": {"id": "{de25c984-563e-4769-9291-a3da38e18b86}"}}}

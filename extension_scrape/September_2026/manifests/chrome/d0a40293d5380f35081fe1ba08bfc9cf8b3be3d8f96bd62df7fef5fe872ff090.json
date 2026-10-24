@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PandaEver", "version": "1.0", "permissions": ["scripting", "tabs"], "host_permissions": ["https://*.wallet.cantor8.tech/*", "https://wallet-backend.main.digik.cantor8.tech/*", "https://code.squads.id/*"], "background": {"service_worker": "background.js"}}

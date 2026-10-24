@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pdf Downloader", "description": "This extension parse a page and download any pdf links, giving you the option to name them", "version": "1.0", "browser_action": {"default_icon": "icon.png"}, "background": {"matches": ["<all_urls>"], "scripts": ["background.js"]}, "permissions": ["activeTab", "downloads"]}

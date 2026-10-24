@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sub macro counter (Canada)", "version": "1.0", "description": "Add the macros to all items and final tally", "content_scripts": [{"js": ["scripts/data.js", "scripts/content.js"], "matches": ["https://www.subway.com/en-ca/restaurant/*/customizer/*"]}]}

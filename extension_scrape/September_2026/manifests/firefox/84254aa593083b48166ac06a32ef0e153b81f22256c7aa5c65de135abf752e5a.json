@@ -1,0 +1,1 @@
+{"name": "Codeforces contests", "description": "Extension for cf contest details", "version": "1.0.1", "manifest_version": 3, "action": {"default_popup": "index.html", "default_title": "cf-contests"}, "browser_specific_settings": {"gecko": {"id": "adityapratapsingh33@outlook.com"}}}

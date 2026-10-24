@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "2FA Authenticator", "version": "1.2", "description": "Offline TOTP authenticator. Your secrets never leave your device.", "permissions": ["storage", "clipboardWrite"], "icons": {"128": "icon.png"}, "action": {"default_popup": "popup.html", "default_icon": {"128": "icon.png"}}}

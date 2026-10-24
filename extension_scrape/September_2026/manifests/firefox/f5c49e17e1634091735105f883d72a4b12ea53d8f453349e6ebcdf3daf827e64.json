@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MD Notes Saver", "version": "1.0", "description": "A simple extension to save and retrieve notes.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{5333179a-3fad-467a-bedf-8dcc53984b11}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mentor", "version": "1.0", "description": "\u00d6\u011fretmenler i\u00e7in yapay zeka promptlar\u0131n\u0131 pedagojik kurallara g\u00f6re optimize eder.", "action": {"default_popup": "popup.html"}, "permissions": ["clipboardWrite"]}

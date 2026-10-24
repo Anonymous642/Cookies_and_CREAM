@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Save this image", "version": "1.0", "description": "Save any image you click on", "icons": {"48": "icons/image_on.svg", "96": "icons/image_on.svg"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["save-this-img.js"]}], "browser_specific_settings": {"gecko": {"id": "{eee00140-109b-4003-9fb2-4fa5cf1e7e0d}"}}}

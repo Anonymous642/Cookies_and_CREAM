@@ -1,0 +1,1 @@
+{"name": "CVD AR", "description": "Providing the best updates about Automic Screwing machine and more.", "version": "1.0.1", "icons": {"192": "icon_192.png"}, "browser_action": {"default_popup": "cvdpopup.html", "default_icon": "icon_default.png"}, "manifest_version": 2}

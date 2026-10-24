@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SEO Meta Preview", "description": "View meta title, description, and Google SERP preview (Desktop & Mobile).", "version": "1.0", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

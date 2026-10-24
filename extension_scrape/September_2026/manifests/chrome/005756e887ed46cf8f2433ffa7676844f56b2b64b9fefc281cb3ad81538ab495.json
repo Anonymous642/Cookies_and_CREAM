@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Free Age Calculator", "description": "Free Beautiful age calculator Chrome extension", "version": "1.0", "action": {"default_popup": "popup.html"}, "background": {"service_worker": "background.js"}, "permissions": [], "icons": {"128": "icon.png"}}

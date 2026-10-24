@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "\u7231\u6572\u6728\u9c7c", "version": "2.0", "description": "\u6572\u51fb\u6728\u9c7c\u79ef\u7d2f\u529f\u5fb7", "action": {"default_popup": "popup.html"}, "permissions": ["storage"]}

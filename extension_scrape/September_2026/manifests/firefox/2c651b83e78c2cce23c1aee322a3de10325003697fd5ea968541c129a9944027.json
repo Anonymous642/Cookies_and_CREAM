@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RedifyCross", "version": "1.1", "description": "Magnifies and makes red the X buttons on 2ch.hk", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://2ch.hk/*"], "js": ["redifycross.js"]}], "browser_specific_settings": {"gecko": {"id": "{fe725a0a-2baf-4e17-83fa-c23a436a991e}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reading Motivator", "version": "1.0", "description": "Provides motivational quotes about the importance of reading.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{69f96b2d-46b0-4a97-b2cb-c983e5ae4b4c}"}}}

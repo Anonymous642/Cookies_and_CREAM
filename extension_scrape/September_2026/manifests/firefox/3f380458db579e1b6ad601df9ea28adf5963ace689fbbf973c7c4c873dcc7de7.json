@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83d\udc22 Cute Turtle Copypasta", "version": "1.0", "description": "Generate and copy fixed messages for emails and signatures with turtle style.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "pysznymayita@hotmail.com"}}}

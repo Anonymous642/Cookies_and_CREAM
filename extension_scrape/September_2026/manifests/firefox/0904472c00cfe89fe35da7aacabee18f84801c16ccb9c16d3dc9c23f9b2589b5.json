@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "JuraSearch", "browser_specific_settings": {"gecko": {"id": "jurasearch@starlight"}}, "version": "1.0", "description": "Rechtsklick-Men\u00fc f\u00fcr Suchen in einschl\u00e4gigen juristischen Datenbanken", "permissions": ["menus", "activeTab"], "background": {"scripts": ["background.js"]}}

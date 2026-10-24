@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ancient Game Character Name Generator", "version": "1.0.0", "description": "Offline ancient-style character name generator. No permissions required.", "action": {"default_title": "Character Name", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

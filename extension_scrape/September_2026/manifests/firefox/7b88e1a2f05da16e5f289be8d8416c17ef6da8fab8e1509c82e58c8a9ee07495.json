@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reverse Image Search Master", "description": "__MSG_appDesc__", "version": "0.0.2", "icons": {"128": "icons/icon.png"}, "background": {"scripts": ["background_script.js"]}, "permissions": ["contextMenus"], "default_locale": "en"}

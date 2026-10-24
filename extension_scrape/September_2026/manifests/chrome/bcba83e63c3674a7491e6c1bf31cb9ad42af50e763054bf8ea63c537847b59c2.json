@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Meme Text Maker", "version": "1.0.0", "description": "Turn normal text into playful meme-style text in a clean minimal popup.", "action": {"default_title": "Meme Text Maker", "default_popup": "popup.html"}, "icons": {"128": "icon-128.png"}}

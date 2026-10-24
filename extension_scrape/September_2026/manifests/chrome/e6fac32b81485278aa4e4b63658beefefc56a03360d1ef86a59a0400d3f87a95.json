@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Total Timesheet Pro", "version": "1.1.5", "description": "Automatically adds totals to your iTrent timesheet entry.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["https://ce0827li.webitrent.com/ce0827li_ess/*"], "js": ["content.js"], "run_at": "document_end"}]}

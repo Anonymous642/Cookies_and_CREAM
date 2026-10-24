@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Hubspot CTA debugger", "version": "1.0.1", "description": "Hubspot CTA debugger", "manifest_version": 3, "icons": {"128": "icon.png"}, "action": {"default_title": "Click to show CTA debugger"}, "permissions": ["activeTab", "scripting"], "background": {"service_worker": "content.js"}}

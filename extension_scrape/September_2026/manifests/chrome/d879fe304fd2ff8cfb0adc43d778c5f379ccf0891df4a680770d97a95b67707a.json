@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "description": "The epic world of Middle-earth to your new tab page", "manifest_version": 3, "chrome_url_overrides": {"newtab": "index.html"}, "name": "The Lord Of The Rings Wallpapers", "version": "1.0.0"}

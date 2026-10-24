@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Quick Dictionary", "version": "1.0", "description": "Define words instantly.", "action": {"default_popup": "popup.html", "default_icon": "quick_dictionary.png"}, "icons": {"128": "quick_dictionary.png"}, "browser_specific_settings": {"gecko": {"id": "weirh8081993ccnqk@hotmail.com"}}}

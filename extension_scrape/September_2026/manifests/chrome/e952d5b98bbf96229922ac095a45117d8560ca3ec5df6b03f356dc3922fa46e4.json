@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Monthly Loan Payment Calculator", "version": "1.0", "description": "Calculates the monthly installment amount based on the payment of constant capital and interest (French method).", "action": {"default_popup": "popup.html", "default_icon": {"128": "family-house-facade.png"}}}

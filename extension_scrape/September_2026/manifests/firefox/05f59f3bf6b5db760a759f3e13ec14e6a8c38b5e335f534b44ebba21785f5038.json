@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Flipnote Renderer", "version": "0.8", "description": "Extension made by mtboss124 that loads ntft nbf npf tmb and ppm files as normal html img tags.", "permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{b2a0db36-62df-4612-8abb-df21b9126a66}"}}}

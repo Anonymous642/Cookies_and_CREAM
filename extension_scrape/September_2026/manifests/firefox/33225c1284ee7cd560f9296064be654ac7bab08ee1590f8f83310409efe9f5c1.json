@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Coin to USD Converter", "version": "2.0", "description": "Converts coin balance to USD", "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://rorush.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "coin-to-usd-converter@yourdomain.com"}}}

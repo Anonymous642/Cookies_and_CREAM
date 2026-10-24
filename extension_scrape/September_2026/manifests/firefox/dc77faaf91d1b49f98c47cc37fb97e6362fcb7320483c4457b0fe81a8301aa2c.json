@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Multi-Engine Reverse Image Search", "version": "0.5", "description": "Perform reverse image searches across Google, Bing, Yandex, TinEye, and Karma Decay with a single click", "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus"], "browser_specific_settings": {"gecko": {"id": "{fb8f186e-0ca8-4f80-9249-4fd80c5a0ef4}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "\u83b7\u53d6processon\u539f\u5730\u5740", "version": "1.0", "description": "\u83b7\u53d6processon\u539f\u5730\u5740", "content_scripts": [{"matches": ["*://www.processon.com/view/*"], "js": ["jquery.min.js", "content_script.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Test Extension V2", "version": "1.0", "description": "Prueba de content script en Firefox ESR", "content_scripts": [{"matches": ["https://lidasur.com.uy/cotiza.php*"], "js": ["main.js"], "css": ["estilos.css"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{fc66fa39-0843-48e9-acb5-85aa19cf8c1c}"}}}

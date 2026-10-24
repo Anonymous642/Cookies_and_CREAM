@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Calculadora IGV Per\u00fa", "version": "1.0", "description": "Calculadora de IGV para Per\u00fa con conversi\u00f3n a texto", "action": {"default_popup": "index.html"}, "icons": {"16": "icons/calculator-16.png", "48": "icons/calculator-48.png", "128": "icons/calculator-128.png"}}

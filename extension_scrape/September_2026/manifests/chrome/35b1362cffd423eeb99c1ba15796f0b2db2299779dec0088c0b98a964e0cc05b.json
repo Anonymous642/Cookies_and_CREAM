@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ECCA Teacher Links", "description": "ECCA Teacher Links", "version": "1.7", "author": "Chad Morrison", "action": {"default_icon": "icon 16X16.png", "default_title": "ECCA Teacher Links", "default_popup": "popup.html"}}

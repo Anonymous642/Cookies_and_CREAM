@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Instagram One-Click Unfollow", "version": "1.0", "description": "Removes the confirmation popup when unfollowing on Instagram.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*.instagram.com/*"], "js": ["content.js"], "css": ["styles.css"]}]}

@@ -1,0 +1,1 @@
+{"description": "Hide the feed from facebook when visiting.", "manifest_version": 2, "name": "Hide facebook feed.", "version": "1.1resigned1", "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["remove_feed.js"]}], "browser_specific_settings": {"gecko": {"id": "{a62c1c3f-9e06-4289-96e5-5da69d41cacc}"}}}

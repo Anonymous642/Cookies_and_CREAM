@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ESPN Cookie Finder", "description": "ESPN Cookie Finder", "version": "1.2", "manifest_version": 3, "action": {"default_icon": "espn.png", "default_popup": "popup.html"}, "permissions": ["cookies"], "host_permissions": ["*://*.espn.com/*"]}

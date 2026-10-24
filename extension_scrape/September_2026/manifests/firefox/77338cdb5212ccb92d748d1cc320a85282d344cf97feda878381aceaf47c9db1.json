@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Memory Challenge Tab", "version": "1.0", "description": "Vocabulary challenge on new tab open.", "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"48": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{42615f18-379c-4a62-ae12-265ffb4d90b3}"}}}

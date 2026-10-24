@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Open-Tab-Right", "version": "1.2", "description": "Opens new tabs to the right. Move left when closing a tab.", "background": {"service_worker": "background.js"}}

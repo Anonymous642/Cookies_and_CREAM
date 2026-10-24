@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.0", "name": "Links tracker", "description": "a light extension that saves favourite links and urls in browser's storage", "action": {"default_popup": "index.html", "default_icon": "LS.png"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{95737fa7-d7f3-4cf7-b8b7-5f7ed04523f0}"}}}

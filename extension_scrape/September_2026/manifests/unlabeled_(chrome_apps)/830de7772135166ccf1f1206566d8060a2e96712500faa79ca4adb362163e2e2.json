@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "A-1 Resale", "description": "A-1 Resale | We bring quality merchandise at rock-bottom prices direct to you!", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.A1Resale.com/"], "launch": {"web_url": "http://www.A1Resale.com"}}}

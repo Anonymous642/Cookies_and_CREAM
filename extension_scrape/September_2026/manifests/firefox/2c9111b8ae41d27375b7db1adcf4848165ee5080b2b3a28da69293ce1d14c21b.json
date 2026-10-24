@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "lenght Unit converter", "description": "This extension will convert the lenght from one unit to other ", "version": "1.1resigned1", "browser_action": {"default_icon": "Refresh.png", "default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{17093c1a-07a0-4d18-a476-c8ab4e18b7a7}"}}}

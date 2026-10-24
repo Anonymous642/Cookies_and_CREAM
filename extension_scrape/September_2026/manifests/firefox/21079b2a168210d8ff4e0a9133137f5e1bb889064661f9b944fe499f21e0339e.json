@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mission Capitals", "version": "1.0", "description": "Opens the JetPunk World Capitals quiz at random times.", "permissions": ["alarms", "tabs"], "background": {"scripts": ["background.js"], "persistent": false}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{59549846-e6cd-4914-9bab-f34db2c059f5}"}}}

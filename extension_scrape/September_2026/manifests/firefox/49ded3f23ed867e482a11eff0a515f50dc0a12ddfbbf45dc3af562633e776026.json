@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "888nowin", "version": "1.0", "description": "Basic Firefox extension for Mozilla Add-ons account activation", "browser_specific_settings": {"gecko": {"id": "888nowin@addons.mozilla.org", "data_collection_permissions": {"required": ["none"]}}}, "action": {"default_title": "888nowin"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Scroll Pages", "version": "1.0", "description": "Automatically scrolls the current page slowly.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{662d90a8-221d-4a46-9b48-eababca7b954}"}}}

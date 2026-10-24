@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Anime Name Generator", "version": "1.0.0", "description": "Discover cool, cute, and epic anime character names instantly!", "action": {"default_popup": "popup.html", "default_title": "Get an Anime Name", "default_icon": {"128": "icon128.png"}}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"author": "Ali Osm", "description": "Competitive Programming Contests Schedule", "homepage_url": "https://kontests.net", "incognito": "spanning", "permissions": ["https://www.kontests.net/api/*"], "manifest_version": 2, "name": "KONTESTS", "version": "1.1", "browser_action": {"default_icon": "icons/logo.png", "default_title": "KONTESTS", "default_popup": "kontests.html"}}

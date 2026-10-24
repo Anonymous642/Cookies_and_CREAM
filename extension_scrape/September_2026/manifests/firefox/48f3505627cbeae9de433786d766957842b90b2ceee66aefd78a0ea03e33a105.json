@@ -1,0 +1,1 @@
+{"manifest_version": 3, "version": "1.1", "name": "LinkIt", "action": {"default_popup": "index.html", "default_icon": "logo.png"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "linkit@ishan.com", "data_collection_permissions": {"required": ["none"]}}}}

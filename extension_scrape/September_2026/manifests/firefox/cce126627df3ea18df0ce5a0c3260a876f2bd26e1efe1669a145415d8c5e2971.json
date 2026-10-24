@@ -1,0 +1,1 @@
+{"name": "Empty New Tab", "version": "2resigned1", "manifest_version": 2, "description": "Opens an absolutely empty new tab.", "icons": {"128": "icon.png"}, "chrome_url_overrides": {"newtab": "tab.html"}, "browser_specific_settings": {"gecko": {"id": "{e7e7baaf-17c2-448a-a05e-e749789d7d7a}"}}}

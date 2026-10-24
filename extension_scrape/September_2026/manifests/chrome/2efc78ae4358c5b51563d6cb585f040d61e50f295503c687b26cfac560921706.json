@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Roblox DevEx Converter", "version": "2.0.0", "description": "Calculates Robux to USD using a fixed DevEx rate.", "action": {"default_popup": "popup.html", "default_title": "DevEx Converter", "default_icon": "icon.png"}}

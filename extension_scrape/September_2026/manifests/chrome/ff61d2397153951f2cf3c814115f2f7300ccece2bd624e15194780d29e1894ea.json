@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "WPS\u4fbf\u7b7e\u52a9\u624b", "version": "1.0.0", "background": {"service_worker": "background.js"}, "content_scripts": [{"matches": ["https://note.wps.cn/*"], "js": ["content.js"]}], "permissions": [], "icons": {"128": "icons/logo128.png"}}

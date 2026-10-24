@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Conway's Game of Commits", "version": "1.1resigned1", "description": "Turns commit graphs into Conway's Game of Life", "icons": {"48": "logo.png"}, "content_scripts": [{"matches": ["*://github.com/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{6adaecb0-0198-4a18-b10e-5e8fa6f2daf8}"}}}

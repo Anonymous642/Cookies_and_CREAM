@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mood Tracker", "version": "1.0", "description": "Track your mood and get daily wellness tips.", "permissions": ["storage"], "action": {"default_popup": "popup.html"}}

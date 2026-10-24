@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mini Games on New Tab", "version": "1.0", "description": "Play mini-games on every new tab.", "permissions": ["tabs"], "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{7e1e068d-7881-4ea1-93f4-d505f9764695}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Wordle Daily", "version": "1.0.0", "description": "Guess the 5-letter word in 6 tries. New word every day!", "action": {"default_popup": "popup.html", "default_title": "Wordle Daily"}, "icons": {"16": "icons/icon16.png", "48": "icons/icon48.png", "128": "icons/icon128.png"}}

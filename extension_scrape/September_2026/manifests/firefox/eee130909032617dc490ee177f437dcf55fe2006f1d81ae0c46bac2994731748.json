@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Chore Tracker", "version": "1.0", "description": "Track household chores and reward kids for completing them.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{aa28fb04-bb23-41cc-b45b-283b37b31018}"}}}

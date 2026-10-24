@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Trello Link Opener", "version": "1.0", "description": "Umwandelt Trello-Links, um sie in der Desktop-App zu \u00f6ffnen.", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{c8ec56ea-01cd-4ea5-8e8f-aabbc848b66e}"}}}

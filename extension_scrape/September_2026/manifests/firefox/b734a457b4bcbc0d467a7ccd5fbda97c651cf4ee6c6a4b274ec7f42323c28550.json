@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "restoreSubCount", "description": "restore the subscriber count on old.reddit", "version": "0.0.3", "icons": {"64": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.reddit.com/r/*"], "js": ["content_script.js"]}], "browser_specific_settings": {"gecko": {"id": "{0292d57f-7819-403e-bc43-ebc8f8857f99}"}}}

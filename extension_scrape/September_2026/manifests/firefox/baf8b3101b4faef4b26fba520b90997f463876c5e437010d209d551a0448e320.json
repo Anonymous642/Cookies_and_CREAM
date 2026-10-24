@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Skip Ads", "version": "1.0", "description": "Automatically skips YouTube ads.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["skipads.js"]}], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{f7a5c7db-648e-47c0-bec5-a2e845501d71}"}}}

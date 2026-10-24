@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Chinese Symbols For Love Copy Paste", "description": "get 500+ Unlimited Chinese Symbols for love with copy paste feature", "version": "2", "action": {"default_icon": "CS.png", "default_popup": "popup.html"}, "icons": {"16": "CS.png", "32": "CS.png", "48": "CS.png", "128": "CS.png"}}

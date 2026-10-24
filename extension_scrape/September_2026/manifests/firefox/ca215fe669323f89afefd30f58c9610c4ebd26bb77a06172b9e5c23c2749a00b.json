@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Screenshot Extension", "description": "Captures screenshots of webpages", "version": "1.0", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{8b70d7f0-c1e8-4cc6-979e-3fa47abc3113}"}}}

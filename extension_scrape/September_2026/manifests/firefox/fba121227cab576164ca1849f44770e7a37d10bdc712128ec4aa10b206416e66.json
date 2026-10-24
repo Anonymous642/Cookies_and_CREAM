@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Customizable New Tab Notes", "version": "1.0", "description": "Display a customizable notes widget on the new tab page.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["storage"], "anh": {"48": "icon48.png"}, "browser_specific_settings": {"gecko": {"id": "{5af9ae41-a1a9-4060-b34a-17922e62bf9a}"}}}

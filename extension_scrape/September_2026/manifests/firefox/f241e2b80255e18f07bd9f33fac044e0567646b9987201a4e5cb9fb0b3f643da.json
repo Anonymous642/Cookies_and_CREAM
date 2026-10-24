@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clemail", "version": "1.0", "description": "Helps you keep your emails clear and concise. Reminds you that email is not always the best medium for a message.", "icons": {"48": "icons/icon.svg", "96": "icons/icon.svg"}, "content_scripts": [{"matches": ["*://outlook.office.com/mail/*"], "js": ["outlook-clemail.js"]}]}

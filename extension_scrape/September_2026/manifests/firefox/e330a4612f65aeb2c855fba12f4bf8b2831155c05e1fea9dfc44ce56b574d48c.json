@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "oldReddirect", "version": "1.0", "description": "Redirects reddit.com to old.reddit.com", "permissions": ["webRequest", "webRequestBlocking", "*://*.reddit.com/"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{3fad827d-18cc-4093-b276-4a0a62b4caf2}"}}}

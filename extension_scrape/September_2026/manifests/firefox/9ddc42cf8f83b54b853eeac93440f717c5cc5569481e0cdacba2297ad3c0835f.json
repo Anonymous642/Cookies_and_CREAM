@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Force Zoom Web Client", "version": "1.0", "description": "Automatically redirects Zoom calls to the Web Client", "content_scripts": [{"matches": ["*://*.zoom.us/j/*"], "js": ["zoomlinks.js"]}], "browser_specific_settings": {"gecko": {"id": "zoomlinks@vito.io"}}}

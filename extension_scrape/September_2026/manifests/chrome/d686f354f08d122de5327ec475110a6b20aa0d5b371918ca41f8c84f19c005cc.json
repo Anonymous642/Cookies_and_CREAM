@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Wait & Win", "version": "1.0", "description": "Get points for keeping the tab open and see who can wait the longest!", "permissions": ["storage"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ZWL to MGA Converter", "version": "1.0", "description": "Convert Zimbabwe Dollar (ZWL) to Malagasy Ariary (MGA).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert ZWL to MGA"}, "browser_specific_settings": {"gecko": {"id": "{40c6a1bb-bd17-4ebb-bdca-854d63b4a449}"}}}

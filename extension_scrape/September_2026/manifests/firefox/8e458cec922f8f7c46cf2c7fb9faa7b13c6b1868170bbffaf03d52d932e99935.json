@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "eRFIDO", "version": "1.0", "description": "eRFIDO extension for autofilling passwords using RFID data.", "permissions": ["activeTab", "storage", "nativeMessaging"], "background": {"scripts": ["./background.js"]}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "erfido@erfido.pl"}}}

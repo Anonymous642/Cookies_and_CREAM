@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PlongeoirFemme", "version": "1.0", "description": "Transforme Aabu en PlongeoirFemme sur Zeste de Savoir", "icons": {"48": "icons/plongeoirfemme.png"}, "content_scripts": [{"matches": ["*://*.zestedesavoir.com/*"], "js": ["plfemme.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "VGCdb Pokemon Showdown", "version": "1.0", "description": "Automatically saves replays on Pokemon Showdown and sends them to VGCdb.", "content_scripts": [{"matches": ["https://play.pokemonshowdown.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

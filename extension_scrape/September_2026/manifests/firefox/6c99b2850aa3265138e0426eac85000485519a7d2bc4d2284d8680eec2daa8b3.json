@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Pocket Menu", "version": "1.0.0", "description": "Quickly check if an item exists on SwigMenus", "action": {"default_popup": "popup.html"}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "browser_specific_settings": {"gecko": {"id": "pocketmenu@example.com", "data_collection_permissions": {"required": ["none"]}}}}

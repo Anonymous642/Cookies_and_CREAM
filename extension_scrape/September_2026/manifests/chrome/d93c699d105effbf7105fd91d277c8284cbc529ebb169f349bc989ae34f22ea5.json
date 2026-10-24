@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Universal Reading Mode", "version": "1.0", "description": "Removes clutter, sidebars, and ads to provide a clean reading experience on any article.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_title": "Reading Mode Settings"}}

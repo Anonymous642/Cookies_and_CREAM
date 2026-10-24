@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AI News Pulse", "version": "1.0", "permissions": ["storage", "notifications", "alarms"], "host_permissions": ["https://ai-news-proxy.vercel.app"], "action": {"default_popup": "popup.html"}, "background": {"service_worker": "background.js"}, "icons": {"128": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Search on Perplexity", "version": "0.3", "background": {"service_worker": "background.js"}, "omnibox": {"keyword": "p"}}

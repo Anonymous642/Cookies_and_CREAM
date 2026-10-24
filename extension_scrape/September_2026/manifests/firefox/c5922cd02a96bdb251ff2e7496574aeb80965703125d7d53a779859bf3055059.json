@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "reddit_redirect", "version": "1.0", "description": "Redirects reddit links to old.reddit.com.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["reddit_redirect.js"]}], "browser_specific_settings": {"gecko": {"id": "{a86847f6-ff39-42bf-9469-79a2f2955e24}"}}}

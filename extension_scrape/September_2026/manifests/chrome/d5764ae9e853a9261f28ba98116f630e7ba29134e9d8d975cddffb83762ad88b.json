@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Nadlan Transactions Extension", "version": "1.1", "content_scripts": [{"matches": ["https://nadlan.taxes.gov.il/svinfonadlan2010/InfoNadlanPerutWithMap.aspx*"], "js": ["content_script.js"]}]}

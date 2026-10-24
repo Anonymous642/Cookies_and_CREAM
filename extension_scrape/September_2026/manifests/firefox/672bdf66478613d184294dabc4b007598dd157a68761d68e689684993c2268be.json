@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Unbloat Youtube", "version": "0.1", "description": "Unbloat Youtube", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{f2407a3e-0862-4c4d-81b5-c75208796981}"}}}

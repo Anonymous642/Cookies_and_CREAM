@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "URL QRCode", "version": "1.1.1", "description": "generate current url to QRCode", "icons": {"48": "icons/code48.png"}, "permissions": ["tabs"], "browser_action": {"default_icon": "icons/code32.png", "browser_style": true, "default_popup": "popup/popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Your Extension Name", "version": "1.0", "permissions": ["activeTab", "scripting"], "background": {"scripts": ["background.js"], "persistent": false}, "content_scripts": [{"matches": ["https://pubmed.ncbi.nlm.nih.gov/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{1539324e-91aa-4caf-9186-ce2bcd5db2fb}"}}}

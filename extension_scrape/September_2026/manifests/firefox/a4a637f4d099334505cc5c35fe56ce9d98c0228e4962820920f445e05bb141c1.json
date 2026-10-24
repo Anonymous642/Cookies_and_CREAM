@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Anti-Adblock-Popup", "version": "1.0.1", "description": "Removes the YouTube popup when using an AdBlocker", "icons": {"48": "icons/icon-48.jpg"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["remove.js"]}], "browser_specific_settings": {"gecko": {"id": "{c40fc6f9-0be4-4e93-a980-26617301192f}"}}}

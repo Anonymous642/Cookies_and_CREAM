@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Odoo Debugger", "version": "1.0.0", "description": "Enhance Your Odoo Development Experience", "manifest_version": 3, "author": "SandaruwanB", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "pages/index.html", "default_title": "Odoo debugger"}}

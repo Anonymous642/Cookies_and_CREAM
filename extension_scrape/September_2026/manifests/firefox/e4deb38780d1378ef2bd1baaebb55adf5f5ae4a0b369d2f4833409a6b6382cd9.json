@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "dimar", "version": "1.0", "description": "Refreshes DIM automatically every few minutes", "content_scripts": [{"matches": ["*://app.destinyitemmanager.com/*"], "js": ["dimar.js"]}]}

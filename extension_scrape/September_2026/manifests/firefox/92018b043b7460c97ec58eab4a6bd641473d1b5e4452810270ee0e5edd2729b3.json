@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Page Inverter", "version": "1.0", "description": "Page Inverter: Invert all page colors.", "action": {"default_popup": "popup.html", "default_icon": "page_inverter.png"}, "icons": {"128": "page_inverter.png"}, "browser_specific_settings": {"gecko": {"id": "orabellejoycesaffira5@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

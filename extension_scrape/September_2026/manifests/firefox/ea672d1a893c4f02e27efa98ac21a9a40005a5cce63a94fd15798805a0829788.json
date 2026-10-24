@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MXP6 Cleaner", "version": "1.0", "description": "Cancella automaticamente i file MXP6 vecchi, mantenendo solo l'ultimo scaricato.", "permissions": ["downloads"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{743e1f97-36ee-45aa-93cd-fe88ccb261b4}"}}}

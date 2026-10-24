@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bid Calculator for Amazon SP", "version": "1.0", "description": "Calculate maximum bids for different Amazon SP bidding strategies and placements", "action": {"default_popup": "popup.html"}, "permissions": ["storage"]}

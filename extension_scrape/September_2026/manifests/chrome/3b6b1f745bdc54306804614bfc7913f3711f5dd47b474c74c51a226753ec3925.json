@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Modern Self-Introduction Generator", "version": "1.0", "description": "Generate clean and modern self-intro sentences instantly.", "action": {"default_popup": "popup.html", "default_icon": {"128": "self_intro_icon.png"}}, "icons": {"128": "self_intro_icon.png"}, "permissions": []}

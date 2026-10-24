@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "GemTab", "version": "1.0", "description": "Sets the browser tab title to the name of the active Gemini chat.", "permissions": [], "host_permissions": ["https://gemini.google.com/*"], "content_scripts": [{"matches": ["https://gemini.google.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "conscioussbot@gmail.com"}}}

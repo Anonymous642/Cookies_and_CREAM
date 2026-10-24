@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Text Actions Pop-up", "version": "1.0", "description": "Zobraz\u00ed pop-up ponuku po ozna\u010den\u00ed textu.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["styles.css"]}], "browser_specific_settings": {"gecko": {"id": "{e8aecc3a-2bc8-4fd0-a85e-4e83e4253e43}"}}}

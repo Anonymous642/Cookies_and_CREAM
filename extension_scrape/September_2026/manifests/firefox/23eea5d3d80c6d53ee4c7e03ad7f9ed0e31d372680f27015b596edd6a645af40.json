@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Shield Browse", "version": "1.0", "description": "Shield Browse: Protect your online privacy.", "action": {"default_popup": "popup.html", "default_icon": "shield_browse.png"}, "icons": {"128": "shield_browse.png"}, "browser_specific_settings": {"gecko": {"id": "jamiceh7515@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

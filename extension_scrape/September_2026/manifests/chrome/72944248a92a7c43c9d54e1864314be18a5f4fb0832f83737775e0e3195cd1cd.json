@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Serene Waterfall Amid Lush Greenery", "version": "1.0", "description": "A gentle cascade flows gracefully over tiered rocks, framed by dense, vibrant foliage.", "icons": {"128": "3159210.png"}, "chrome_url_overrides": {"newtab": "index.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SubSort for YouTube", "version": "0.1.1", "description": "Select, back up, and unsubscribe from multiple YouTube channels safely.", "content_scripts": [{"matches": ["https://www.youtube.com/feed/channels*"], "js": ["content.js"], "css": ["styles.css"], "run_at": "document_idle"}]}

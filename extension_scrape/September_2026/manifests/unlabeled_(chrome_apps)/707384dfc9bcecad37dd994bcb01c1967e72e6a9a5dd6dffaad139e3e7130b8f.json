@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Swap - The New Addictive Game", "short_name": "Swap", "description": "", "version": "1.0.2", "minimum_chrome_version": "38", "icons": {"128": "assets/icon_large.png"}, "app": {"background": {"scripts": ["background.js"]}}}

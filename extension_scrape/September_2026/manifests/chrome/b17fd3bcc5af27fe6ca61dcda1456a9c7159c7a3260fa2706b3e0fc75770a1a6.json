@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Wordle Solver", "manifest_version": 3, "description": "Solves wordle games using a unique and efficient algorithm.", "version": "2.2", "action": {"default_icon": "logo.png"}, "background": {"service_worker": "setup.js"}, "permissions": ["scripting", "activeTab"]}

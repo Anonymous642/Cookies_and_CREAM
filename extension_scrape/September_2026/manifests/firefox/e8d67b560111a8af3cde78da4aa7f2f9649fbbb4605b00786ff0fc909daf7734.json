@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Form Filler", "version": "1.1", "description": "Automatically fills and submits a form on a specific webpage.", "permissions": ["activeTab", "tabs"], "content_scripts": [{"matches": ["https://uygulama.gtb.gov.tr/TBFSorgulama/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{f6239b8a-638b-43cc-919e-2fa8c71878e6}"}}}

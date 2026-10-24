@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "TweetRacon", "description": "Tweet Area Search", "version": "0.1", "app": {"urls": ["http://racon.biz/"], "launch": {"web_url": "http://racon.biz/"}}, "icons": {"128": "icon_128.png"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Webex Calling", "version": "1.0", "description": "", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icons/icon.png", "default_title": "Webex Calling"}, "icons": {"48": "icons/icon.png"}, "browser_specific_settings": {"gecko": {"id": "{3835a42d-7fb9-4937-9bad-31909379770d}"}}}

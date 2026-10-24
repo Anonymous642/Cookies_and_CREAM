@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "News Ninja", "version": "1.2.2", "description": "Quick news overlay game for headline readers", "browser_specific_settings": {"gecko": {"id": "news-ninja@addon", "strict_min_version": "140.0", "data_collection_permissions": {"required": ["none"], "optional": [], "collected": [], "purposes": []}}}, "permissions": [], "content_scripts": []}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tough Password", "version": "1.1.1", "manifest_version": 3, "description": "Password generation and insertion", "icons": {"16": "icon.png", "48": "48.png", "128": "icon.png"}, "host_permissions": ["*://*/*"], "action": {"default_popup": "popup.html"}}

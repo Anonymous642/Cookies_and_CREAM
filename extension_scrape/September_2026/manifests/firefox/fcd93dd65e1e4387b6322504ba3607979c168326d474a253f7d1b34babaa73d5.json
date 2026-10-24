@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "steam-rss-ext", "description": "Adds RSS meta and links to Steam store pages", "version": "0.0.1", "icons": {"64": "steam-rss-ext.png"}, "content_scripts": [{"matches": ["https://store.steampowered.com/app/*"], "js": ["content_script.js"]}], "browser_specific_settings": {"gecko": {"id": "{a503b49e-475c-4da2-b664-c163ec2aabf1}"}}}

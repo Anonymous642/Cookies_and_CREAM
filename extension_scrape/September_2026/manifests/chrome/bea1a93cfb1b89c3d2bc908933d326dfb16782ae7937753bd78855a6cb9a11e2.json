@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Check Elements ID", "version": "1.0", "description": "Verifies if every element on the webpage has an ID and highlights those without IDs.", "permissions": ["scripting", "activeTab"], "background": {"service_worker": "background.js"}, "action": {"default_title": "Check IDs"}}

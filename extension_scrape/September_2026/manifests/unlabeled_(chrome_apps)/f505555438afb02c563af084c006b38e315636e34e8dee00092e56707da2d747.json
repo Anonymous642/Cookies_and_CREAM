@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Flying Poo", "description": "Put the poo in the toilet", "version": "0.1916", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "flyingpoo16.png", "128": "flyingpoo128.png"}}

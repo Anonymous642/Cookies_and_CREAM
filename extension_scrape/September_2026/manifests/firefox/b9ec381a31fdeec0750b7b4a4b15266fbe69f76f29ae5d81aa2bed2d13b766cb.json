@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Text Length", "version": "1.0", "description": "Quickly count characters on any webpage with a single click.", "browser_action": {"default_icon": "icon.png", "default_title": "Count text"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "quick-text-length@example.com"}}}

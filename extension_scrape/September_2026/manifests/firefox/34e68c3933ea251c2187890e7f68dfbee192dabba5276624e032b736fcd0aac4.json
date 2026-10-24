@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Calm Color Themes", "version": "1.0", "description": "Soft color palettes to reduce eye strain.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_popup": "popup.html", "default_title": "Calm Color Themes"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{f0b87e61-e6c7-497c-83dd-d0bd6da8a529}"}}}

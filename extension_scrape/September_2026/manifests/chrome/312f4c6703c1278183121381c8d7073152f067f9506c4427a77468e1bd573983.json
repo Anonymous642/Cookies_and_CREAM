@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pengu Clicker BETA", "version": "1.0", "description": "Click the penguin to earn fish and test your luck in the casino!", "action": {"default_popup": "popup.html", "default_icon": {"16": "pengu.png", "48": "pengu.png", "128": "pengu.png"}}, "permissions": ["storage"]}

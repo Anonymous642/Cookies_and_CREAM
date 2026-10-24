@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "URL Swapper", "version": "1.0", "description": "Easily swap parts of the current URL", "permissions": ["activeTab", "storage"], "browser_specific_settings": {"gecko": {"id": "extension@url-swapper.com"}}, "action": {"default_popup": "popup.html", "default_icon": "icons/icon128.png"}, "icons": {"128": "icons/icon128.png"}}

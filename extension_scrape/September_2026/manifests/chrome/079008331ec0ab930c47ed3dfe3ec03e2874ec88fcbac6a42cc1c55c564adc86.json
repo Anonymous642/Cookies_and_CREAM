@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Grok Right Click Search", "version": "1.0", "description": "Right-click to search selected text with Grok", "permissions": ["contextMenus", "activeTab"], "background": {"service_worker": "background.js"}, "icons": {"48": "icon48.png", "128": "icon128.png"}}

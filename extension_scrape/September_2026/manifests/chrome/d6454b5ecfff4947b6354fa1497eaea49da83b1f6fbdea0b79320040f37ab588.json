@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Google Maps Zoom Sync", "version": "1.0.0", "description": "Google Maps Zoom Sync", "icons": {"128": "128.png"}, "content_scripts": [{"matches": ["https://www.google.com/maps/*", "https://www.google.co.jp/maps/*"], "js": ["content.js"], "run_at": "document_idle"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "HTML Viewer", "version": "1.0.0", "description": "HTML Viewer: Views page source code.", "action": {"default_popup": "popup.html", "default_icon": "html_viewer.png"}, "icons": {"128": "html_viewer.png"}, "browser_specific_settings": {"gecko": {"id": "girlishgH5oO@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

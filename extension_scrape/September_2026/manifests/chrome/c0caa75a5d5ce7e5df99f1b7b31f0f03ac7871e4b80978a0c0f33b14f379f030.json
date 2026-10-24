@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Chrome Tabs Numbers", "version": "1.1", "manifest_version": 3, "description": "Display the number of open tabs in the Chrome browser.", "permissions": ["tabs", "scripting"], "background": {"service_worker": "background.js"}, "host_permissions": ["*://*/*", "<all_urls>"], "icons": {"128": "logos/logo.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "browser_specific_settings": {"gecko": {"id": "{05a88f83-591e-4d09-9e4d-8e6f9b3a7e1a}"}}, "name": "Easy Home Tab", "version": "1.0", "description": "Open the homepage in new tabs.", "permissions": ["browserSettings", "tabs"], "chrome_url_overrides": {"newtab": "black_page.html"}, "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}}

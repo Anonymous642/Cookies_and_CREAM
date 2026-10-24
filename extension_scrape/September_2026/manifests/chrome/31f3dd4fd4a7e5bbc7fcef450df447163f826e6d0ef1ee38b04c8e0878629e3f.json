@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HushHistory", "description": "Clear your browsing history", "version": "1.0", "permissions": ["history"], "action": {"default_popup": "Main.html", "default_icon": "IconL.png"}}

@@ -1,0 +1,1 @@
+{"name": "Appfav MyApps", "version": "0.1", "manifest_version": 2, "description": "Appfav\u30de\u30a4\u30a2\u30d7\u30ea\u3092\u958b\u304d\u307e\u3059", "browser_action": {"default_icon": {"16": "appfavicon16.png", "48": "appfavicon48.png", "128": "appfavicon128.png"}, "default_title": "PopUp", "default_popup": "popup.html"}}

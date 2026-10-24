@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ParallelText", "version": "1.0", "description": "ParallelText compares text, JSON, and SQL with difference highlighting", "action": {"default_popup": "index.html"}, "permissions": ["storage"]}

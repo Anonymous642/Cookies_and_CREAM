@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "nais", "version": "1.0", "description": "", "permissions": ["storage"], "background": {"service_worker": "background/index.js", "type": "module"}, "action": {"default_popup": "pages/popup/index.html"}, "options_ui": {"page": "pages/options/index.html", "open_in_tab": true}}

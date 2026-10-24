@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Translate Rutube Videos", "description": "Translate your rutube videos", "version": "1.2", "manifest_version": 3, "action": {"default_popup": "popup.html"}, "permissions": ["scripting", "activeTab"], "host_permissions": ["*://*/*"], "background": {"service_worker": "background.js"}}

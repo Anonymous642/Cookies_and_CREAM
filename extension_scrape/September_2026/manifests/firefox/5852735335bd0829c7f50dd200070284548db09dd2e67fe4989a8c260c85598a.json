@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Flerify", "version": "1.2", "author": "anonymer Entwickler", "description": "Ersetzt jedes 'Ver' auf Webseiten mit 'Fler'.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "flerify2@anon.local"}}}

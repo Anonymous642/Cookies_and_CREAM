@@ -1,0 +1,1 @@
+{"name": "gvcs", "version": "0.1.2", "manifest_version": 2, "description": "__MSG_appDesc__", "default_locale": "ru", "content_scripts": [{"js": ["gvcs.js"], "matches": ["*://godville.net/news", "*://godvillegame.com/news"]}], "browser_specific_settings": {"gecko": {"id": "{aca7a591-f3e9-483c-93dc-c1a1cdd109fb}"}}}

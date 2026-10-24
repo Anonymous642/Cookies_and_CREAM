@@ -1,0 +1,34 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "name": "TL;DR - AI Summarizer",
+  "version": "1.0",
+  "description": "TL;DR summarizes webpages with AI, saving hours of reading time by providing you with concise summaries.",
+  "permissions": ["activeTab", "storage"],
+  "action": {
+    "default_icon": {
+      "16": "icon_tldr_16.png",
+      "32": "icon_tldr_32.png",
+      "48": "icon_tldr_48.png",
+      "128": "icon_tldr_128.png"
+    },
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["pricing.html"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

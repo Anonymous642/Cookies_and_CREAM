@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "USD to CAD Converter", "version": "1.0", "description": "Convert United States Dollar to Canadian Dollar.", "permissions": ["activeTab", "https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{18afe052-414a-4737-9c9a-600abac372bb}"}}}

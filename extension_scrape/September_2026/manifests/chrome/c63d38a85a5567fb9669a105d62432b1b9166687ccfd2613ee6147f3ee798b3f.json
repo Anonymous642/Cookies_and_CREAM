@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "M\u00e1scara de Dados Sigilosos", "version": "1.2", "description": "M\u00e1scara de Dados Sigilosos", "action": {"default_popup": "popup.html", "default_icon": "ultra-secreto.png"}, "icons": {"48": "ultra-secreto.png"}}

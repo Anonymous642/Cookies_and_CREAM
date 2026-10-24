@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HAZECO Bill Calculator", "version": "1.0.0", "description": "Estimate HAZECO electricity bill from units (illustrative).", "action": {"default_title": "HAZECO Bill Calculator", "default_popup": "popup.html"}}

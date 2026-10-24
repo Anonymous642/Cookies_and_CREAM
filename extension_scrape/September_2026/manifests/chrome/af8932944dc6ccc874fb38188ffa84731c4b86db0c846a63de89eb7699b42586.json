@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bounce Ball Unblocked", "version": "1.2", "description": "Play a fast-paced bouncing ball game directly from your Chrome browser.", "action": {"default_popup": "popup.html"}, "permissions": []}

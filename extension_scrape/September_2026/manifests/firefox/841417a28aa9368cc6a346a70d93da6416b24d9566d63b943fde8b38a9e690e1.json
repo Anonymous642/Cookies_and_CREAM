@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Close Site Tabs", "version": "1.0", "description": "Adds a 'Close site tabs' option to the tab title pop-up menu to close all tabs from the same base domain.", "icons": {"48": "icon.png"}, "permissions": ["tabs", "menus"], "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"id": "close-site-tabs@srinryn.com"}}}

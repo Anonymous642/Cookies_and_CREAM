@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "5chHelper", "version": "1.0", "description": "An extension that enhances your 5ch.net experience with NG features and external content embedding.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{3712ac23-5d58-4196-8ebd-01bbee15d2df}"}}}

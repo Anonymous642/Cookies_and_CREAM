@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily One", "version": "1.0.0", "description": "Every new tab asks: What's the one thing you want to accomplish today?", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["storage"], "icons": {"128": "icon.png"}}

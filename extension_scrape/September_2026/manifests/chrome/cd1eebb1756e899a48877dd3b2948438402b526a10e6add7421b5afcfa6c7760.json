@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Normal Units Converter", "description": "Convert kJ \u2194 cal and lbs \u2194 kg", "version": "1.0", "action": {"default_popup": "ui.html", "default_icon": {"128": "icons/exchange.png"}}, "icons": {"128": "icons/exchange.png"}, "permissions": []}

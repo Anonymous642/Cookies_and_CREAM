@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Chromebook Bell Schedule", "version": "1.0", "description": "Plays bell sounds automatically on a schedule.", "permissions": ["alarms", "offscreen"], "host_permissions": ["https://docs.google.com/*"], "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sharecuts", "version": "1.0.1", "description": "Replace new tabs and normal windows with Sharecuts.", "chrome_url_overrides": {"newtab": "newtab.html"}, "background": {"scripts": ["background.js"]}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{235309b3-8ed4-4c5c-b8fb-e442311d9349}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Scroll to Bottom", "version": "1.0", "description": "Scrolls the current page to the bottom with one click.", "permissions": ["activeTab"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{5642107a-960e-4d95-8f04-88d578116839}"}}}

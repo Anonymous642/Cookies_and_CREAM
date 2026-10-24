@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LightScan", "version": "1.0", "description": "AI tool to scan any webpage and answer your questions based on that webpage", "permissions": ["scripting", "activeTab"], "action": {"default_popup": "popup.html"}, "background": {"service_worker": "background.js"}}

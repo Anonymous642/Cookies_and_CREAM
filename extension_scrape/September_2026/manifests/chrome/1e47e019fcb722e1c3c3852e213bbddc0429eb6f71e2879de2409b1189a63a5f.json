@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "8 Letters 30 Seconds 1 Guess", "version": "1.0", "description": "Guess an eight-letter word in 30 seconds", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": [], "icons": {"128": "icons/icon128.png"}}

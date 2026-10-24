@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Patriot Start Page", "version": "1.0", "description": "Shows a random Bill of Rights excerpt on every new tab and has a private search bar", "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "patriot-startpage@rickydana.org", "strict_min_version": "58.0"}}}

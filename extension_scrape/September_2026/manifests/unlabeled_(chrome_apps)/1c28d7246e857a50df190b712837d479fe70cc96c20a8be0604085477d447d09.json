@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Sight Words", "description": "315 Dolch sight word flashcards with Audio - Free and no ads!", "version": "12.10.7", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": [], "launch": {"web_url": "http://sightwords.dropthetranny.com/dolch/"}}}

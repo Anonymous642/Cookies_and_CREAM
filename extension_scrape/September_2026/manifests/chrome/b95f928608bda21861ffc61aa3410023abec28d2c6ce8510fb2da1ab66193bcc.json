@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Memo App", "description": "A Simple Memo", "version": "2.0", "manifest_version": 3, "action": {"default_popup": "popup.html", "default_icon": {"16": "images/icon16.png", "128": "images/icon128.png"}}, "permissions": ["storage", "downloads"]}

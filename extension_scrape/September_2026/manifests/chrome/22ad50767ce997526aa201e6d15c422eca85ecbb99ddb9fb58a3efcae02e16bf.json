@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gemini AI", "version": "2.1.0", "description": "Powerful AI for coding and math projects.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage"], "content_security_policy": {"extension_pages": "script-src 'self'; object-src 'self'"}}

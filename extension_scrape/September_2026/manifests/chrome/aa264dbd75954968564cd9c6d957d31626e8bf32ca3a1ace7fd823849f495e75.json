@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "RedditNoRightSidebar", "version": "1.0", "description": "Hide reddit's right sidebar.", "icons": {"16": "image.png", "32": "image.png", "48": "image.png", "128": "image.png"}, "content_scripts": [{"js": ["script.js"], "matches": ["https://*.reddit.com/*"]}]}

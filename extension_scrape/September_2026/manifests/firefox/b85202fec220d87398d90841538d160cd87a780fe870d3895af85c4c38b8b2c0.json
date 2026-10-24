@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Coin Flipper", "version": "1.0", "description": "Flip a virtual coin to get Heads or Tails with a fun animation.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "straussbrozio1@outlook.com", "data_collection_permissions": {"required": ["none"]}}}}

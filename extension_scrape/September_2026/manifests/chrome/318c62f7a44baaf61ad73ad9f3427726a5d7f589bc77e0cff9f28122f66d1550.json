@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tricky Enough", "version": "2.0.1", "description": "Tricky Enough is a blog website", "icons": {"128": "logo.png"}, "manifest_version": 3, "action": {"default_popup": "index.html", "default_icon": "logo.png", "default_title": "Digital Dimensions"}, "host_permissions": ["https://www.trickyenough.com/*"]}

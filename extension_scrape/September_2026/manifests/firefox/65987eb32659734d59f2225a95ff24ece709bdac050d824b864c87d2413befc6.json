@@ -1,0 +1,1 @@
+{"name": "Frontier Exploration", "description": "A distant alien outpost", "manifest_version": 2, "version": "1.1", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{4d7d6c1c-96f4-414b-b7d0-835c95902198}"}}}

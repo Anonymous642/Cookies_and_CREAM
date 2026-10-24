@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Football Legends Wallpaper", "version": "1.0", "description": "Step into the world of football legends with Football Legends Wallpaper", "icons": {"128": "893913.png"}, "permissions": ["geolocation"], "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{e7b082d9-eda9-41db-9543-b6522ec2e178}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "XML Validator", "version": "1.0", "description": "Validate and format XML easily", "permissions": ["activeTab", "clipboardWrite"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{147273bb-8216-4ca4-bcaa-417a9ead82e5}"}}}

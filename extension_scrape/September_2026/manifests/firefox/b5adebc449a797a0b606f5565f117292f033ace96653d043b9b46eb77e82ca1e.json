@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "URL Redirector", "version": "1.0", "description": "Redirects specific keywords in the search bar to custom URLs.", "background": {"scripts": ["background.js"]}, "permissions": ["tabs", "storage"], "omnibox": {"keyword": "go"}, "options_page": "options.html", "browser_specific_settings": {"gecko": {"id": "osamaboltx9@gmail.com"}}}

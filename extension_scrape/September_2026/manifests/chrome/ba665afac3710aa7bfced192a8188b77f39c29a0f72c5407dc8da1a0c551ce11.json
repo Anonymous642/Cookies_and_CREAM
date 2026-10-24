@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Easy Notes Maker", "version": "1.0.0", "manifest_version": 3, "icons": {"16": "East.png", "48": "East.png", "128": "East.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["node_modules/@webcomponents/custom-elements/custom-elements.min.js", "content.js", "working.js"]}]}

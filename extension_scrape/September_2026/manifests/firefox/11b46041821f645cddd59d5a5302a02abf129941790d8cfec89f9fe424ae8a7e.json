@@ -1,0 +1,1 @@
+{"name": "Third-party cookies", "version": "2.1", "description": "Sample extension which demonstrates how to access a preference.", "permissions": ["privacy"], "browser_action": {"default_icon": "16.png", "default_popup": "popup.html"}, "manifest_version": 2}

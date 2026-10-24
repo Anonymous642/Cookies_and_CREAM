@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Virtual Currencies Manager", "description": "Manage BTC & ETH balances and see their USD value.", "version": "0.3", "host_permissions": ["https://cex.io/*"], "action": {"default_title": "Open Wallet", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Adfoc Bypass", "version": "1.0", "description": "Automatically bypasses adfoc.us short links and redirects you to the original destination URL instantly", "content_scripts": [{"matches": ["*://files.minecraftforge.net/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{a62d6270-bf8c-4326-9b1d-2be2939e06c0}"}}}

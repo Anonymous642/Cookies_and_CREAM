@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Crafton X-Ray: B2B Intelligence & Tech Stack Extractor", "version": "1.0.0", "description": "Instantly analyze any website's tech stack and uncover contact information.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

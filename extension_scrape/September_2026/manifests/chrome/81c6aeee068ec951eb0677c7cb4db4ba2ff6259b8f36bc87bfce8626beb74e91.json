@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Discord Spoiler Wordle", "version": "1.3.0", "description": "Adds a discord spoiler when copying your wordle results.", "content_scripts": [{"matches": ["https://www.nytimes.com/games/wordle/index.html/*"], "js": ["content.js"]}], "permissions": ["clipboardWrite", "clipboardRead"]}

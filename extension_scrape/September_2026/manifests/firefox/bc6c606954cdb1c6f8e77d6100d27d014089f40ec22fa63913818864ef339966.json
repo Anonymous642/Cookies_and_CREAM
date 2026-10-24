@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Break Reminder", "version": "1.0", "description": "Reminds you each hour to take a break and hydrate!", "permissions": ["notifications", "alarms"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{2380b979-bf40-431d-9fbc-d2704c5e9acd}"}}}

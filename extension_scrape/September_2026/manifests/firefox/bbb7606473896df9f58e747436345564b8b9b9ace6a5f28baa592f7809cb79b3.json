@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DADA Poem Generator", "version": "0.1", "description": "Create a DADA poem.", "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/DADAIcon.png", "default_title": "DADA", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{529874a9-df99-4270-af1e-c49ccd242341}"}}}

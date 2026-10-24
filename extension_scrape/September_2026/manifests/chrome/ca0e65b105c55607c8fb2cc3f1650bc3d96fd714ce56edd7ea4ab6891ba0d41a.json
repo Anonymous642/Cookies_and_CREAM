@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Trading Extenshion", "description": "A Extension that helps you choose a trade amount acording to your account amount", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "trade_calculator.html", "default_icon": "trade.png"}}

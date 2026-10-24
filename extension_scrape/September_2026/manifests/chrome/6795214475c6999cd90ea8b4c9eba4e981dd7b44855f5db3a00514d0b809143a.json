@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cool Outfit Picker", "description": "Get a cool outfit idea for today based on vibe and weather.", "version": "1.0.0", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon-128.png"}}, "icons": {"128": "icon-128.png"}, "permissions": []}

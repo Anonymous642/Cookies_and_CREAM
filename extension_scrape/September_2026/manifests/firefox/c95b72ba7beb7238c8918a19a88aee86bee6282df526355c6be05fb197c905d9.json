@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Screen Ruler", "version": "1.0", "description": "Screen Ruler: Measure screen elements", "action": {"default_popup": "popup.html", "default_icon": "screen_ruler.png"}, "icons": {"128": "screen_ruler.png"}, "browser_specific_settings": {"gecko": {"id": "abbykristolscilla3@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

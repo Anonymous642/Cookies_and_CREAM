@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Keyword Magic PRO", "version": "1.0", "description": "Dashboard profesional de palabras clave para SEO.", "permissions": ["storage"], "host_permissions": ["https://suggestqueries.google.com/*"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

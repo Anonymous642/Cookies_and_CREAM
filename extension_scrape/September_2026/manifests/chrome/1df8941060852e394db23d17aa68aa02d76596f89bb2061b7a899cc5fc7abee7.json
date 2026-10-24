@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "__MSG_extName__", "version": "1.0.1", "description": "__MSG_extNameDesc__", "icons": {"128": "icon.png"}, "content_scripts": [{"run_at": "document_end", "matches": ["*://*.twitch.tv/*"], "js": ["scripts/content.js"], "css": ["styles/content.css"]}], "default_locale": "zh_TW"}

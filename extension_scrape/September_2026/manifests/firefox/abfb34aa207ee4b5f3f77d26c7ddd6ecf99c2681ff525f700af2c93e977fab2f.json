@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Virgool Liker", "version": "4.0", "description": "Lets Like Virgool Post Without Any Limitation", "icons": {"48": "like.png"}, "content_scripts": [{"matches": ["https://virgool.io/*"], "js": ["script.js"]}]}

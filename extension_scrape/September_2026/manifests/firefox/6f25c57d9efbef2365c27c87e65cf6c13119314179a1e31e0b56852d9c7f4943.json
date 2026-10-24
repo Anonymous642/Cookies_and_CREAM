@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Diki.pl MP3 Kopiuj", "version": "1.0.1", "permissions": ["https://www.diki.pl/*"], "description": "  ", "icons": {"48": "icons/logo.png"}, "content_scripts": [{"matches": ["https://www.diki.pl/*"], "js": ["fex.js"]}], "browser_specific_settings": {"gecko": {"id": "{9da3b152-c375-42da-9b7d-59dce9742602}"}}}

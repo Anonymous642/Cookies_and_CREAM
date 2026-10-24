@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Astro Dodge", "version": "3.5", "description": "Dodge meteors and control a rocket with thrusters.", "action": {"default_title": "Play Astro Dodge", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"action": {"default_icon": "16x16.png", "default_popup": "popup.html"}, "description": "This extension converts HEIC files to JPG.", "icons": {"16": "16x16.png", "48": "48x48.png", "128": "128x128.png"}, "manifest_version": 3, "name": "HEIC to JPG Converter", "permissions": [], "update_url": "https://clients2.google.com/service/update2/crx", "version": "1.1"}

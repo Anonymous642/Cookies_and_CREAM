@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Title Search", "version": "1.0", "description": "Quickly search through your open tabs by title or URL.", "permissions": ["tabs"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{240582d7-ab38-4e30-867b-d5ef519f600a}"}}}

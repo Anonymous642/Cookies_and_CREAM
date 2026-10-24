@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Moza+", "version": "0.0.2resigned1", "description": "A tool for mozanaplo", "icons": {"48": "icons/moza.png"}, "content_scripts": [{"matches": ["*://*.mozanaplo.hu/jegy.php*"], "js": ["jquery.js", "m_atlag.js"]}], "browser_specific_settings": {"gecko": {"id": "{1766986e-083b-4191-83b5-ac278eff591b}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MSG-inspectWindow", "version": "0.1.0", "description": "Hi?", "permissions": ["history"], "action": {"default_popup": "dist/popup.html", "default_icon": "images/icon.png"}, "manifest_version": 3, "web_accessible_resources": [{"resources": ["images/*"], "matches": ["<all_urls>"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MD5 & Laravel Bcrypt Hasher", "version": "1.0", "description": "Convert strings to MD5 and Laravel Bcrypt hash", "action": {"default_popup": "popup.html"}, "permissions": []}

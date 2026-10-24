@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "hideai", "version": "1.0", "content_scripts": [{"matches": ["*://*.google.com/*"], "js": ["hideai.js"]}], "browser_specific_settings": {"gecko": {"id": "{0ab302c1-a1d0-4ef9-bdb2-284352b2d634}"}}}

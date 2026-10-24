@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SciHub Downloader", "version": "1.0", "description": "Download papers from SciHub using DOI", "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus"], "icons": {"48": "icon.svg"}, "browser_specific_settings": {"gecko": {"id": "{686960c4-7805-4736-bfdd-c23aed623ec1}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Linky Extension", "short_name": "Linky", "description": "Add new links to Linky.", "version": "2.4", "icons": {"16": "img/icon16.png", "48": "img/icon48.png", "128": "img/icon128.png"}, "browser_action": {"default_icon": "img/icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab", "https://cors.sboulema.nl/"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AutoMute Tabs", "version": "1.0", "description": "Automatically mute all tabs except the active one.", "permissions": ["tabs"], "background": {"scripts": ["background.js"], "persistent": false}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{e168fbdc-bb2a-4460-9982-88c6c1227f22}"}}}

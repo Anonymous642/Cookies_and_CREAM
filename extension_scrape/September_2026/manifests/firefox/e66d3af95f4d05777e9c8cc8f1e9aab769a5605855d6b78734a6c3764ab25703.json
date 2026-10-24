@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MDL to GEL Converter", "version": "1.0", "description": "Converts Moldovan Leu (MDL) to Georgian Lari (GEL).", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/"], "browser_specific_settings": {"gecko": {"id": "{ef15b3fb-31ac-4f22-9e92-d781189b685e}"}}}

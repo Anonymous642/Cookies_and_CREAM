@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GameInfo", "description": "Search how long is the game (HLTB), where to buy it (GGDEALS) and see gameplay on YouTube", "version": "0.0.3", "manifest_version": 3, "permissions": ["contextMenus", "tabs"], "background": {"service_worker": "background.js"}, "icons": {"128": "gamepadIcon.png"}}

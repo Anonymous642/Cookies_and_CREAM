@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Reelblock", "version": "1.0", "description": "Blocks Facebook reels.", "icons": {"48": "icons/x_reels_48x48.png"}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["reelblock.js"]}], "browser_specific_settings": {"gecko": {"id": "@reelblock.philipholy", "data_collection_permissions": {"required": ["none"]}}}}

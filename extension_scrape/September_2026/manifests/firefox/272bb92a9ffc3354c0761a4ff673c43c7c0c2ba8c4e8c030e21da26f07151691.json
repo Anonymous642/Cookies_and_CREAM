@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Ahly Net Password Autofill", "version": "1.1", "description": "Ahly Net Password Autofill", "content_scripts": [{"matches": ["https://alahlynet.com.eg/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "AhlyNetAutoFill2@ashraf.dev", "data_collection_permissions": {"required": ["none"], "optional": []}}}}

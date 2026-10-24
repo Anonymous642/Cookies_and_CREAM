@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Patse it!", "version": "1.0", "description": "Allow paste operation when clipboard is blocked", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "n188.group", "version": "1.0.2", "description": "Addon n188.group", "browser_specific_settings": {"gecko": {"id": "n188.group@addons.mozilla.org", "strict_min_version": "109.0", "data_collection_permissions": {"required": ["none"]}}}, "icons": {"48": "icon.png"}}

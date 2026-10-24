@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Clip Note", "version": "1.00", "description": "a quick simple in browser productivity notepad, for saving time with repetitive tasks.", "action": {"default_popup": "popup.html"}, "permissions": ["storage"], "icons": {"48": "icon.png"}}

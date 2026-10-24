@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reddit Video Components Fetcher", "version": "1.0", "description": "Fetch video URLs from Reddit posts.", "permissions": ["tabs"], "browser_action": {"default_popup": "popup.html", "default_icon": {}}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{4097ddd5-437a-4e77-ad1f-c262c39b04d9}"}}}

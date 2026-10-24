@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hide YouTube Removed Notifications", "version": "1.1", "description": "Automatically hides 'Video verwijderd' boxes on YouTube.", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["content.js"], "run_at": "document_end"}]}

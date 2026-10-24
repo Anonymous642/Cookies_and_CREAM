@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Buscar na China F\u00e1cil", "version": "1.2", "description": "Busque produtos similares na China F\u00e1cil a partir de qualquer imagem", "icons": {"128": "128.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["styles.css"]}]}

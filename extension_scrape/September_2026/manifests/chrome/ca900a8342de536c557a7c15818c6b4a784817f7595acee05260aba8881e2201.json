@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Deutsch\u2013Ungarisch \u00dcbersetzer Popup", "version": "1.2", "description": "Schnelle Deutsch-Ungarisch-\u00dcbersetzung per Textmarkierung auf Webseiten.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["popup.css"]}]}

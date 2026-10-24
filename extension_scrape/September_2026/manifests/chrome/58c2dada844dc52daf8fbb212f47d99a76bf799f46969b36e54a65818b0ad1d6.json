@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Vortex Breath Timer", "version": "1.3", "action": {"default_popup": "popup.html", "default_size": [400, 500]}, "icons": {"128": "icon.png"}, "web_accessible_resources": [{"resources": ["beep.mp3"], "matches": ["<all_urls>"]}], "permissions": ["storage"]}

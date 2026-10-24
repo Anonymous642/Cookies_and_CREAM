@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ntfy", "version": "3.0", "background": {"scripts": ["background.js"]}, "permissions": ["notifications", "storage", "*://*/*"], "browser_action": {"default_icon": "icons/icon.png", "default_popup": "popup.html"}, "icons": {"48": "icons/icon.png"}, "browser_specific_settings": {"gecko": {"id": "{bd164690-d145-43ed-ba0b-8a0b370001ac}"}}}

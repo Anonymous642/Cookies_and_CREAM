@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Multi-Language Dictionary", "version": "1.0", "description": "Translate and look up words in multiple languages.", "permissions": ["storage", "activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Multi-Language Dictionary"}, "browser_specific_settings": {"gecko": {"id": "{f393345a-b8dc-4ac9-88a3-d0b016fe6fe8}"}}}

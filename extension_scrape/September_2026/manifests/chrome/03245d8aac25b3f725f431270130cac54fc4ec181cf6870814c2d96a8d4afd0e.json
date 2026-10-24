@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab Manager", "description": "This extension allows you to manage and close your tabs.", "version": "4.5", "permissions": ["tabs", "tabGroups", "storage"], "action": {"default_title": "Tab Manager", "default_popup": "popup.html"}}

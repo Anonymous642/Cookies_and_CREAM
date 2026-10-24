@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Borderify", "version": "1.0", "description": "Adds a red border to all webpages matching mozilla.org.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.neopets.com/faerieland/employ/*"], "js": ["borderify.js"]}], "browser_specific_settings": {"gecko": {"id": "{3358a34d-2ac0-4953-9dde-36da8d33f78e}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "B\u00cdN", "description": "Searches for word in B\u00cdN", "version": "1.0", "manifest_version": 3, "icons": {"16": "logo/16.png", "48": "logo/48.png", "128": "logo/128.png"}, "permissions": ["contextMenus"], "background": {"service_worker": "service-worker.js"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "F to Fullscreen Google Meet", "description": "Press F key to Fullscreen pinned/active video on Google Meet", "content_scripts": [{"matches": ["https://meet.google.com/*"], "js": ["content.js"], "run_at": "document_idle"}], "icons": {"128": "icon.png"}, "version": "1.0.0"}

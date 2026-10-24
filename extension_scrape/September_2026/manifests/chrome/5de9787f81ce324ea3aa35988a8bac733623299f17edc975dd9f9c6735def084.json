@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Coordinates on Each Lichess Board Square", "version": "1.0", "description": "Show coordinates on each lichess.org chessboard square", "icons": {"128": "lichsquare-icon-128.png"}, "permissions": [], "content_scripts": [{"matches": ["*://lichess.org/*"], "js": ["content.js"]}]}

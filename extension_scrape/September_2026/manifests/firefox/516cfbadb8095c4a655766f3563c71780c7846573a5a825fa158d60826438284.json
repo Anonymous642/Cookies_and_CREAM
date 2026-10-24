@@ -1,0 +1,1 @@
+{"background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "128.png", "default_popup": "index.html"}, "default_locale": "en", "description": "Speed Test", "icons": {"16": "16.png", "32": "32.png", "48": "48.png", "128": "128.png"}, "manifest_version": 2, "name": "Speed Test", "short_name": "Speed Test", "version": "2.6.2"}

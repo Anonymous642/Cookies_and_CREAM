@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Eternal Balance Background", "version": "1.0", "description": "Immerse yourself in the harmonious interplay of light and darkness.", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{2be25d5b-dc67-4634-a356-6efb2fe02e89}"}}}

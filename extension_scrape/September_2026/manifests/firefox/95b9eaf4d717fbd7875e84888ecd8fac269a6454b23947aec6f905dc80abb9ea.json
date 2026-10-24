@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pop-up File Counter", "version": "1.0", "description": "Counts the number of pop-up files on the current web page.", "browser_action": {"default_icon": "icon.png"}, "permissions": ["activeTab"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{cac6178a-959b-475d-8445-282306f7d453}"}}}

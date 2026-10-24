@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AlgoRhythm", "description": "AI-powered choreography and formation mapping for dance teams, theater directors, and K-pop cover groups.", "version": "0.1.1", "action": {"default_title": "AlgoRhythm", "default_popup": "popup.html"}}

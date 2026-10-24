@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "reverse-phone-lookup", "version": "0.1.1resigned1", "description": "", "icons": {"64": "phone.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus", "tabs", "<all_urls>"], "browser_specific_settings": {"gecko": {"id": "{8ea4be6a-3b03-4884-9112-d05385fc3044}"}}}

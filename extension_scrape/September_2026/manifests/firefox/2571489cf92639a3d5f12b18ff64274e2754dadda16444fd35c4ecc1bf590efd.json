@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Islamic Calendar", "version": "1.0", "description": "Display current Hijri and Gregorian dates with calendar", "permissions": [], "browser_action": {"default_popup": "popup.html", "default_title": "Islamic Calendar"}, "browser_specific_settings": {"gecko": {"id": "{782a6b46-5a5d-4f02-9fd1-6e7cfec44cfb}"}}}

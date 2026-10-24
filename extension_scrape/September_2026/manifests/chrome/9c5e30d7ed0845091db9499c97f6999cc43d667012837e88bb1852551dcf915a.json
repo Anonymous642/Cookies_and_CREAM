@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hire Signal", "icons": {"32": "favicon-32x32.png"}, "version": "1.0.3", "action": {"default_popup": "index.html"}, "permissions": ["activeTab", "storage"], "content_scripts": [{"matches": ["*://www.linkedin.com/*"], "js": ["contentScript.js"]}]}

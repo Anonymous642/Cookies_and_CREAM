@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Issue2Clipboard", "version": "0.4resigned1", "description": "Right-click on a JIRA issue to get its key and summary copied to the clipboard", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["issue2clipboard.js"]}], "browser_specific_settings": {"gecko": {"id": "{e0f99fcd-232e-49c5-ba36-ee2bd2d24039}"}}}

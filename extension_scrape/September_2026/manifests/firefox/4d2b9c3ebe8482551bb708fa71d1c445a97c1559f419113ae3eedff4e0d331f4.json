@@ -1,0 +1,1 @@
+{"name": "Flat Color Extension", "manifest_version": 2, "version": "2.1resigned1", "description": "The best colours in one click", "browser_action": {"default_popup": "app.html", "default_icon": "img/icon.png"}, "permissions": ["clipboardWrite"], "browser_specific_settings": {"gecko": {"id": "{ef01d286-06bf-4a57-a5e4-a163c01f23bc}"}}}

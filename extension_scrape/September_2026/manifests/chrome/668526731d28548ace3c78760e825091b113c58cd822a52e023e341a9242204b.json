@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "BlockOut2024", "version": "1.0", "permissions": ["activeTab", "<all_urls>"], "action": {"default_popup": "popup.html"}, "icons": {"16": "icons/watermelon_16.png", "48": "icons/watermelon_64.png", "128": "icons/watermelon_128.png"}}

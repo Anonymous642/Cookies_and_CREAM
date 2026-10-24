@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "T\u00ednh T\u1ed5ng Hi\u1ec7u Hai S\u1ed1 789club", "version": "1.0", "description": "T\u00ednh t\u1ed5ng v\u00e0 hi\u1ec7u c\u1ee7a hai s\u1ed1 c\u00f9ng l\u00fac.", "action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Qwilr", "short_name": "Qwilr", "description": "Documents for the web", "version": "1.0.0", "manifest_version": 2, "icons": {"128": "qwilr_logo.jpg"}, "app": {"urls": ["http://qwilr.com/"], "launch": {"web_url": "http://qwilr.com/"}}}

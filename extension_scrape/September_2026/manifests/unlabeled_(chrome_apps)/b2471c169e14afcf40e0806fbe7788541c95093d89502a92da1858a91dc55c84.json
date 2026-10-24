@@ -1,0 +1,1 @@
+{"app": {"launch": {"web_url": "http://jmemor.free.fr/index.html"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "G\u00e9n\u00e9rateur de JMemor : Flash-cards et Quiz", "name": "JMemor", "permissions": ["unlimitedStorage"], "icons": {"128": "icon_128.png"}, "manifest_version": 2, "version": "2.1.1"}

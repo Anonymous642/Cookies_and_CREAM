@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Conversation Starter", "version": "1.0", "description": "Suggests polite and effective conversation starters for meeting new people.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "donny5carltonmviq826@hotmail.com"}}}

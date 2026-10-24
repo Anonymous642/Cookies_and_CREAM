@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Archiver", "version": "1.5", "description": "Opens the current page as an archived page in a new tab.", "permissions": ["tabs", "storage"], "action": {"default_popup": "popup.html"}, "background": {"service_worker": "background.js"}}

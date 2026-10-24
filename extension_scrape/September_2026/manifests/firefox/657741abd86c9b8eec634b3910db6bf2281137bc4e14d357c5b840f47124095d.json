@@ -1,0 +1,1 @@
+{"name": "TmTask - Time Tracking & Todo", "description": "", "version": "0.3resigned1", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "manifest_version": 2, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{4752a64b-e93b-49a7-ad7c-b4f6b49313ba}"}}}

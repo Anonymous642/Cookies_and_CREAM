@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83d\udc31 MeowFit Cute Outfit Suggestion", "version": "1.0", "description": "Get cute outfit suggestions based on your mood or weather!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "sirgozebeidscx6@hotmail.com"}}}

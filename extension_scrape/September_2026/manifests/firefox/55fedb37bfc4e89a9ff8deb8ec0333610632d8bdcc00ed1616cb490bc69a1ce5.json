@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Leads Tracker", "version": "1.1", "action": {"default_popup": "index.html"}, "browser_specific_settings": {"gecko": {"id": "leads-tracker@denistechug.developer", "data_collection_permissions": {"required": ["none"]}}}, "permissions": ["activeTab"], "icons": {"16": "icon2.png", "48": "icon4.png", "128": "icon3.png"}}

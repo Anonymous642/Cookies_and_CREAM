@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "javascript.info Progress", "version": "1.0", "description": "Keeps Track Of Progress", "permissions": ["storage"], "host_permissions": ["https://javascript.info/*"], "content_scripts": [{"matches": ["https://javascript.info/*"], "js": ["content.js"]}], "icons": {"48": "icon.png"}}

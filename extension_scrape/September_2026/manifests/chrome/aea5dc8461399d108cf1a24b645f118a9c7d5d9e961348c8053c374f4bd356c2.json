@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WebNotes", "description": "This app is used for saving notes for each websites", "version": "1.3.0", "manifest_version": 3, "permissions": ["tabs"], "action": {"default_title": "Web Notes", "default_icon": "icb1.png", "default_popup": "index.html"}, "icons": {"48": "icb1.png"}}

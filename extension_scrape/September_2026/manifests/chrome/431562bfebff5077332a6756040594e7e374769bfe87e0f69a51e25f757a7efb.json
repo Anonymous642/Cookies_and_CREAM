@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u5c4f\u853d\u77e5\u4e4e\u63a8\u8350\u89c6\u9891\u53ca\u5e7f\u544a", "version": "1.1", "manifest_version": 3, "content_scripts": [{"matches": ["https://www.zhihu.com/"], "js": ["index.js"]}]}

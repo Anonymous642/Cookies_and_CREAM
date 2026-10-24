@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Atalhos Omini Desktop", "version": "1.6", "description": "Atalhos de texto para o painel Desktop Matrix", "permissions": ["storage"], "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["*://*.matrixdobrasil.ai/*"], "js": ["content.js"], "run_at": "document_end"}]}

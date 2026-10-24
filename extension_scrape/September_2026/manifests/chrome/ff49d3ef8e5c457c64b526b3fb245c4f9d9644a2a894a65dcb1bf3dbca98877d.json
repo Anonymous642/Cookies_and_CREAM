@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Storyline", "description": "Watch a particular storyline in your favourite tv series.", "version": "0.0.5", "content_scripts": [{"js": ["contentMain.js"], "matches": ["*://netflix.com/*", "*://*.netflix.com/*"], "world": "MAIN"}]}

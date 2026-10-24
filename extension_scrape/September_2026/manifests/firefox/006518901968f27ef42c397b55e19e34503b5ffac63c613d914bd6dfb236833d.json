@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Free Youtube Extention", "version": "1.0", "permissions": ["activeTab", "tabs", "webNavigation"], "background": {"scripts": ["./popup.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{d646d666-91b8-449a-a90d-7fd0aa8c7fc6}"}}}

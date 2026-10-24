@@ -1,0 +1,1 @@
+{"name": "Imgur redirect blocker", "manifest_version": 2, "version": "1.0.0", "permissions": ["webRequest", "webRequestBlocking", "*://i.imgur.com/*"], "background": {"scripts": ["imgur-redirect-blocker.js"]}, "browser_specific_settings": {"gecko": {"id": "{e348a830-912f-4db8-a023-b00658044110}"}}}

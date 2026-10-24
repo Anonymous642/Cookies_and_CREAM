@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Random TikTok Status Generator", "version": "1.0", "description": "Generate random, teen-friendly status ideas for TikTok posts.", "permissions": [], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "hildalopestcz613@hotmail.com"}}}

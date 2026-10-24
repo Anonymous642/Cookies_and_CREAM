@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "tldrx.me", "version": "1.0", "permissions": ["activeTab"], "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{5be06cb7-79cf-479e-9a2d-9742420d8c33}"}}}

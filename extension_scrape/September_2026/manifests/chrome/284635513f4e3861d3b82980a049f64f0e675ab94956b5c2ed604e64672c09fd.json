@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PI Chrome", "version": "8.0", "description": "Open Pocket Informant periodically.", "permissions": ["tabs", "storage"], "action": {"default_popup": "pi-chrome.html"}, "background": {"service_worker": "background.js"}, "icons": {"128": "images/informant-icon-full.jpg"}}

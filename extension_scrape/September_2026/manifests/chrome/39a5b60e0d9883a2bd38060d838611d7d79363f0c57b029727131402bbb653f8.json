@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute Space Cleaner", "version": "1.0.0", "description": "Remove extra spaces and tidy up text instantly in a cute popup tool.", "action": {"default_title": "Cute Space Cleaner", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

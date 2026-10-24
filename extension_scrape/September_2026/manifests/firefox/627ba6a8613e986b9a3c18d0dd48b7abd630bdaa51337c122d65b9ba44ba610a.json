@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fermi to Kilometer Converter", "version": "1.0", "description": "Convert distances from fermis to kilometers.", "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{181e68b8-05ee-40aa-9443-1b5f7ab6ba7b}"}}}

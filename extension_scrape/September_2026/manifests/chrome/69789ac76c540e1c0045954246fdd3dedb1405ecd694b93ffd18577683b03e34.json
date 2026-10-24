@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Fine Start", "version": "0.4.0", "description": "A satisfactory landing page.", "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"128": "icon-128.png"}, "permissions": [], "host_permissions": ["https://start.fine.computer/*"]}

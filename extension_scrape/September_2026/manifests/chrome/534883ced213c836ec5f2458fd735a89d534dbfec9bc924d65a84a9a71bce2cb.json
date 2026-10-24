@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PaletteMiner", "version": "1.0", "action": {"default_popup": "popup.html"}, "permissions": ["activeTab", "storage", "scripting"], "background": {"service_worker": "background.js"}, "icons": {"16": "palette_miner_16.png", "48": "palette_miner_48.png", "128": "palette_miner_128.png"}}

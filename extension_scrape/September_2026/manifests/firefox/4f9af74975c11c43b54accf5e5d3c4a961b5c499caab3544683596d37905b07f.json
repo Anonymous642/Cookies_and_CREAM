@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "JSON valid", "version": "1.1", "icons": {"48": "icons/json.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/json.png", "default_title": "JSON valid", "default_popup": "popup/index.html"}, "browser_specific_settings": {"gecko": {"id": "{0436804c-298b-4ff0-8cb1-def38389e842}"}}}

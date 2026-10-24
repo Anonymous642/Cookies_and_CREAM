@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PI Game", "version": "1.0.1", "description": "Challenge yourself to recall the digits of PI.", "action": {"default_popup": "popup.html"}, "icons": {"16": "assets/icons/pi16.png", "48": "assets/icons/pi48.png", "128": "assets/icons/pi128.png"}}

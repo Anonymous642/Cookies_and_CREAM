@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "bookfinder", "version": "0.2.0", "permissions": ["https://www.barnesandnoble.com/s/*", "https://www.indiebound.org/book/*", "https://bookshop.org/books/*"], "content_scripts": [{"matches": ["*://www.amazon.com/*", "*://smile.amazon.com/*"], "js": ["bookfinder.js"]}]}

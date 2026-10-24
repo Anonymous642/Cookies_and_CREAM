@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sus Search", "version": "1.0", "description": "Adds 'sus' to random Google search results.", "content_scripts": [{"matches": ["https://www.google.com/search*"], "js": ["content.js"]}]}

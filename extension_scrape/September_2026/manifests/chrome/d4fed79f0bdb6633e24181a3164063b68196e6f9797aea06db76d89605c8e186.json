@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Mentio", "description": "AI-powered social listening tool for B2B SaaS brands to boost outreach and find high-intent leads", "version": "1.0", "manifest_version": 3, "icons": {"128": "icon128.png"}, "action": {"default_icon": "icon128.png"}, "background": {"service_worker": "background.js"}}

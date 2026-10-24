@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mood Caption Mixer", "version": "1.0.0", "description": "Generate funny short captions based on your current mood with a clean popup and no complex permissions.", "action": {"default_popup": "popup.html", "default_title": "Mood Caption Mixer"}, "icons": {"128": "icon128.png"}}

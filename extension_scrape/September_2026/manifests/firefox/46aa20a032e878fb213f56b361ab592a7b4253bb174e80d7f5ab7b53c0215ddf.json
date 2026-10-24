@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83c\udf1f Mini Quiz Challenge", "version": "1.0", "description": "Answer a random quiz in the popup. Green if correct, red if wrong.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "keslorawal91@hotmail.com"}}}

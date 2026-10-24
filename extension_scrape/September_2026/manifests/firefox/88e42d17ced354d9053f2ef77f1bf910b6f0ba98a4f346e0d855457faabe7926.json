@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Watch Later", "version": "2.0", "description": "Right-click to send a page or link to an n8n webhook.", "permissions": ["contextMenus", "tabs", "activeTab"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "watch-later@leonardwb.com"}}}

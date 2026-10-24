@@ -1,0 +1,1 @@
+{"name": "IblockU", "version": "1.0", "description": "A simple adblocker", "icons": {"48": "Icon.png"}, "permissions": ["webRequest", "webRequestBlocking", "http://*/", "https://*/"], "background": {"scripts": ["blocked_domains.js", "background.js"]}, "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{d119718d-9d10-4513-a907-9268c34e550e}"}}}

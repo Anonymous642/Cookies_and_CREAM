@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ice-mage-runner", "manifest_version": 2, "description": "Fun platform style game fun for the whole family.", "version": "5", "icons": {"16": "icons/Logo_16x16.png", "128": "icons/Logo_128x128.png"}, "permissions": ["storage"], "app": {"background": {"scripts": ["background.js"], "persistent": true}}}

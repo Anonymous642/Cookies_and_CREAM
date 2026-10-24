@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HTML Ref", "version": "1.0", "description": "A sidebar with an HTML element reference", "permissions": ["activeTab"], "sidebar_action": {"default_title": "HTML Ref", "default_panel": "sidebar.html"}, "browser_specific_settings": {"gecko": {"id": "html_ref@example.com", "data_collection_permissions": {"required": ["none"], "optional": []}}}}

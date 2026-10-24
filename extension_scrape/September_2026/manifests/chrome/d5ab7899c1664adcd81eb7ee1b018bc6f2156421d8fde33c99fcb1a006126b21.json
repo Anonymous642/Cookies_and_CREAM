@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "2.1", "name": "Link Saver", "action": {"default_popup": "index.html", "default_icon": "icon.png"}, "permissions": ["tabs"], "description": "A super easy-to-use link saver!"}

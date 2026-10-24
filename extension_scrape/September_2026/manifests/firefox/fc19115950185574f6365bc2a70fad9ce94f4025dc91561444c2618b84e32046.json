@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Notes", "version": "1.0", "description": "Simple note-taking tool", "permissions": ["activeTab", "storage"], "browser_action": {"default_popup": "popup.html", "default_title": "Quick Notes"}, "browser_specific_settings": {"gecko": {"id": "{19b99a11-f5f4-45eb-82fc-90d8c9acc768}"}}}

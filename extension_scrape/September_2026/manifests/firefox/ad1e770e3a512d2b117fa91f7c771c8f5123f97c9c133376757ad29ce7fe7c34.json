@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "yaoi star smash", "version": "1.0", "description": "yaoi star smash in your toolbar", "browser_specific_settings": {"gecko": {"id": "stargarden@kurshat", "data_collection_permissions": {"required": ["none"], "optional": []}}}, "browser_action": {"default_popup": "popup.html", "default_title": "yaoi star smash"}, "permissions": ["storage"]}

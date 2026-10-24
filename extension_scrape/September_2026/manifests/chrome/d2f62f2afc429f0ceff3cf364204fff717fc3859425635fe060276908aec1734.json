@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Timezone Comparator", "version": "1.0", "description": "Compare timezones to plan meetings and schedules", "action": {"default_popup": "popup.html"}, "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Todo List Extension", "description": "My Chrome Extension for To-Do tasks", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "index.html"}, "permissions": ["storage"], "web_accessible_resources": [{"resources": ["assets/*.svg", "assets/*.mp3"], "matches": ["<all_urls>"]}]}

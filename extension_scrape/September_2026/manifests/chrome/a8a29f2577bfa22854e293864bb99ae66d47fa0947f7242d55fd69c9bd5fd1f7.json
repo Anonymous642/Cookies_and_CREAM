@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "\u8155\u6728\u901a\u4fe1\u30aa\u30fc\u30d0\u30fc\u30ec\u30a4", "version": "1.1", "permissions": ["contextMenus"], "background": {"service_worker": "background.js"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["pattern.js", "content.js"], "css": ["style.css"]}]}

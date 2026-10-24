@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Freemium", "version": "0.1.2resigned1", "description": "Remove premium articles from Medium", "icons": {"48": "icons/48x48.png", "96": "icons/96x96.png"}, "content_scripts": [{"matches": ["*://medium.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{295e2965-eddf-4429-b1e4-c3332f1b9c64}"}}}

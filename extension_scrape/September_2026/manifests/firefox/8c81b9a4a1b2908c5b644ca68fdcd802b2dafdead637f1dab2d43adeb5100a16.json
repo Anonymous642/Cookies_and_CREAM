@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GitHub Forked links extension", "version": "1.0", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://github.com/*"], "js": ["extension.js"]}]}

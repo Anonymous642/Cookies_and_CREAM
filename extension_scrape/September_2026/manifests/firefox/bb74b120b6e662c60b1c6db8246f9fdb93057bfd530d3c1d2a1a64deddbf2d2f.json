@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Motivations-Zitat", "version": "1.0", "description": "Erhalte t\u00e4glich ein motivierendes Zitat!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "motivations-zitat@beispiel.de"}}}

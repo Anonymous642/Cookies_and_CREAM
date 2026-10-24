@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Picnic Planner", "version": "1.0", "description": "Plan your picnic day with a schedule of activities and a list of foods to enjoy.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "picnicplanner@domain.com"}}, "permissions": ["storage"]}

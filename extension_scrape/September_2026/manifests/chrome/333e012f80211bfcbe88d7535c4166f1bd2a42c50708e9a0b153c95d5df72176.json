@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Instapoll Video Lecture Info", "description": "Provides Video Information for Instapoll", "version": "1.0", "manifest_version": 3, "background": {"service_worker": "background.js"}, "permissions": ["storage", "activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

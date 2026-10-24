@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "classicPolish", "version": "0.1.1", "description": "", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["classicPolish.js"]}], "options_ui": {"page": "options.html"}, "browser_specific_settings": {"gecko": {"id": "{74a444e9-9f8c-48d3-a6db-0f286dbbc3d7}"}}}

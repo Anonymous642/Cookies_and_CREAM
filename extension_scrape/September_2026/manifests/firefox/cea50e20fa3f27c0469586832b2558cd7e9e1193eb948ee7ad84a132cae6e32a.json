@@ -1,0 +1,1 @@
+{"browser_specific_settings": {"gecko": {"id": "arxiv-button@local"}}, "manifest_version": 3, "name": "ArxivBibTeX", "version": "1.0", "description": "Adds a button on arXiv pages to copy the BibTeX entry.", "content_scripts": [{"matches": ["*://arxiv.org/abs/*"], "js": ["content.js"]}], "permissions": ["clipboardWrite"]}

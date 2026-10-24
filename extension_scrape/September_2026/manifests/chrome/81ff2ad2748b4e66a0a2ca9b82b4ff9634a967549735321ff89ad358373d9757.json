@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PixelCount: Word & Char Counter", "version": "1.0.0", "description": "A retro 8-bit handheld console style text analyzer. Instantly counts words and characters.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon.png"}}, "icons": {"128": "icon.png"}}

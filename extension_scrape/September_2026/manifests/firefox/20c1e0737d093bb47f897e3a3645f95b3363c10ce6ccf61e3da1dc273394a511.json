@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Daily Quote", "version": "1.0", "description": "Show an inspirational quote on every new tab.", "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{54513aad-e8d6-481a-a869-84b7d97ca82f}"}}}

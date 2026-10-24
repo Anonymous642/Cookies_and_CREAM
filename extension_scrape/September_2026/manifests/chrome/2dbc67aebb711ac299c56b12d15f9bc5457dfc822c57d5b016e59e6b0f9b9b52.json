@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Weeks Left Extension - Dark", "description": "A new-tab visualization of how many Sundays are remaining in your life", "version": "1.0", "manifest_version": 3, "chrome_url_overrides": {"newtab": "newtab.html"}}

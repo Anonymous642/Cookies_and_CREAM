@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Ad Purifier", "version": "1.0", "description": "Ad Purifier: Blocks most common ads", "action": {"default_popup": "popup.html", "default_icon": "ad_purifier.png"}, "icons": {"128": "ad_purifier.png"}, "browser_specific_settings": {"gecko": {"id": "renardpalmera18897@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

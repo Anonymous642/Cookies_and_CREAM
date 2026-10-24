@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Gratitude Gift", "version": "1.0", "description": "Suggest thoughtful gifts for someone who has helped you.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "earogeliozayasedxy236@hotmail.com"}}}

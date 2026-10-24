@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Bed Time Stories", "version": "1.0.0.8", "app": {"background": {"scripts": ["main.js"]}}, "sandbox": {"pages": ["sandbox.html"]}, "permissions": ["http://*/", "storage"], "icons": {"16": "16x16.png", "128": "128x128.png"}}

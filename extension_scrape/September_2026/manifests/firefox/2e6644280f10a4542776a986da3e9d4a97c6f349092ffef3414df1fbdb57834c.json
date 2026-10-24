@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "osm-to-gm", "description": "Open your current OpenStreetMap edit view in Google Maps", "version": "0.0.1", "icons": {"64": "icons/icon.png"}, "content_scripts": [{"matches": ["https://www.openstreetmap.org/edit"], "js": ["content_script.js"]}], "browser_specific_settings": {"gecko": {"id": "{8cd09684-51ab-4ec3-8275-e0a28ba2dc76}"}}}

@@ -1,0 +1,67 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "name": "__MSG_extName__",
+  "version": "5.3",
+  "description": "__MSG_extDescription__",
+  "author": "Shadi Kabajah (tl-dr.store)",
+  "default_locale": "en",
+  "icons": { 
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
+  "action": {
+    "default_icon": { 
+      "38": "icons/icon-38.png",
+      "128": "icons/icon-128.png"
+    },
+    "default_title": "__MSG_extName__"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "contextMenus",
+    "storage",
+    "sidePanel"
+  ],
+  "side_panel": {
+    "default_path": "tldr-panel.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["tldr-content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "host_permissions": [
+    "<all_urls>",
+    "https://script.google.com/*"
+  ],
+  "options_ui": {
+    "page": "tldr-options.html",
+    "open_in_tab": true
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+          "tldr-options.html",
+          "tldr-options.css",
+          "tldr-options.js",
+          "tldr-panel.html",
+          "tldr-panel.css",
+          "tldr-panel.js",
+          "icons/icon-128.png",
+          "icons/icon-128-dark.png",
+          "fonts/*.woff2"
+
+      ],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "background": {
+    "service_worker": "tldr-bg.js"
+  }
+}

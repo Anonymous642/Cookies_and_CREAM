@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mystic Star Catcher", "version": "1.0.0", "description": "A simple mini game in a popup where players catch stars and avoid bombs.", "action": {"default_title": "Mystic Star Catcher", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

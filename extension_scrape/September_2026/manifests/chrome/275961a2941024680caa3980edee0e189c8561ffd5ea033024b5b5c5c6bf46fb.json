@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mini Fun Quiz", "description": "Enjoy a short and fun quiz with 1\u20133 quick questions directly in your Chrome popup.", "version": "1.0.0", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}}

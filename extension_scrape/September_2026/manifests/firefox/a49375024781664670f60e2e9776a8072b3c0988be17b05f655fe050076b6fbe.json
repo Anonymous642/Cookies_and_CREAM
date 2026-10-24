@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Shirt Sizer", "version": "1.0", "description": "Convert shirt sizes for men, women, and children across US, EU, UK, JP, AU, and CN systems.", "permissions": [], "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "shirt_sizer@benes.iwp.edu"}}}

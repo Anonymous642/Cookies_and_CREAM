@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ciuca\u0219 New Tab", "version": "1.0", "description": "Discover the serene beauty of Ciuca\u0219 Peak, Romania", "icons": {"16": "icon-16.png", "48": "icon-48.png", "128": "icon128.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{21b780fe-2860-448f-9d36-37ba9601be68}"}}}

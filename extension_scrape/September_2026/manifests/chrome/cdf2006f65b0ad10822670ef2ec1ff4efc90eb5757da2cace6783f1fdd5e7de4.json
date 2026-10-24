@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "OSINT Navigator", "description": "Select any IP, URL, domain or hash, right-click, and send it to OSINT Navigator for instant analysis.", "version": "1.0", "permissions": ["contextMenus", "activeTab"], "background": {"service_worker": "background.js"}, "icons": {"16": "icon.png"}}

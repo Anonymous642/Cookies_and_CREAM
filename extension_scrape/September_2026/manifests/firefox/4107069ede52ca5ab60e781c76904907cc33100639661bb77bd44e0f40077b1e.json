@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RTL-Deepseek", "version": "1.1", "description": "This plugin rtl chat Deepseek.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://chat.deepseek.com/*"], "js": ["script.js"], "css": ["style.css"]}], "browser_specific_settings": {"gecko": {"id": "{d2824ecb-9fc9-4df0-8636-46e21079340c}"}}}

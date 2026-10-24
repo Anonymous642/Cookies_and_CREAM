@@ -1,0 +1,1 @@
+{"description": "Enhances a local rag", "manifest_version": 2, "name": "Enhance Belfast Telegraph", "version": "1.3", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.belfasttelegraph.co.uk/*"], "js": ["enhance.js"]}]}

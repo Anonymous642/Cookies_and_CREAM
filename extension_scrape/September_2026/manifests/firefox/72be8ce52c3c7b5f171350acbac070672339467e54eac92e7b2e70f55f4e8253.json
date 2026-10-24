@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LinkedIn Overlay Remover", "version": "1.1resigned1", "description": "Removes the overlay that displays over a linkedin profile.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.linkedin.com/*"], "js": ["remover.js"]}], "browser_specific_settings": {"gecko": {"id": "{af6a2f42-7945-487f-95dc-e1d7e0c91ca2}"}}}

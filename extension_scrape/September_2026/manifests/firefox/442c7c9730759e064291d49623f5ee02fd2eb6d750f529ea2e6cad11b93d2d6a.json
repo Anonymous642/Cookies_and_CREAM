@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Tabshi!", "version": "1.0.0", "action": {"default_popup": "index.html"}, "browser_specific_settings": {"gecko": {"id": "tabshi@mariothinks"}}, "permissions": ["tabs"]}

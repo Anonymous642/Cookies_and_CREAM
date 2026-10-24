@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Super Minimalist Web", "icons": {"16": "computer.png"}, "version": "1.0", "description": "Strips away rounded corners, shadows, and custom fonts for a boxy, high-performance look.", "content_scripts": [{"matches": ["<all_urls>"], "css": ["style.css"], "run_at": "document_start"}]}

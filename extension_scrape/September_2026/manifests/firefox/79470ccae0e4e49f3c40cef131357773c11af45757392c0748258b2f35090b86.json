@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "View Source Records", "version": "1.0", "description": "This extension allows viewing the source code of webpages.", "permissions": ["<all_urls>"], "browser_specific_settings": {"gecko": {"id": "yourRecords@gmail.com"}}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

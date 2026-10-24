@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Execute to OSY", "version": "1.5", "permissions": ["contextMenus", "webRequest", "webRequestBlocking", "tabs", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "fktrcttd1hjlbjy@gmail.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DA/PA Checker", "version": "4.0", "description": "Check Domain and Page Authority using Moz API", "action": {"default_popup": "popup.html", "default_title": "Check DA/PA"}, "host_permissions": ["<all_urls>"], "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}

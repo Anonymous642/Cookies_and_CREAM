@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Date Calculator", "description": "Date Calculator.", "version": "1.2", "short_name": "DC", "action": {"default_popup": "popup.html"}, "permissions": ["storage"], "icons": {"16": "images/DC_icon_16.png", "48": "images/DC_icon_48.png", "128": "images/DC_icon_128.png"}}

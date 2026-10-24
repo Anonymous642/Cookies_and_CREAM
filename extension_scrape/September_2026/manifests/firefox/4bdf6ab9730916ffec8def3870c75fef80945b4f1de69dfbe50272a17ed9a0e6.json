@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Frutiger Aero New Tab", "version": "1.0", "description": "The Future We Were Promised!", "chrome_url_overrides": {"newtab": "NewTab.html"}, "browser_specific_settings": {"gecko": {"id": "frutigeraero-newtab@example.com", "data_collection_permissions": {"required": ["none"]}}}}

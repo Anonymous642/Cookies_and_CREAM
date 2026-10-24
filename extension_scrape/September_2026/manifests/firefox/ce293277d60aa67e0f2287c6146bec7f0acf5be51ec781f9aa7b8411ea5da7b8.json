@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fantasy Name Generator", "version": "1.0", "description": "Generate fantasy names for different species like Werewolf, Dragon, and Mermaid.", "action": {"default_popup": "index.html", "default_icon": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{b1be4300-e42f-4adf-9b6e-f340487fb21f}"}}}

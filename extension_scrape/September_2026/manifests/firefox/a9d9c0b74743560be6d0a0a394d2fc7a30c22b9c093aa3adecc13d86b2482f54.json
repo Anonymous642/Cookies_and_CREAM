@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Toki Seme Context Menu", "version": "1.0.3resigned1", "description": "Adds an option to translate selected text with Toki Seme.", "icons": {"48": "icon48.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["index.js"]}, "browser_specific_settings": {"gecko": {"id": "{215d6b21-e2d4-4e31-ab62-1b974c1f448b}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dark Mode Everywhere", "version": "1.0", "description": "Force dark mode on every site.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_title": "Dark Mode Everywhere", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{63d6fc7d-8bbe-4637-a1eb-b9dfda275a2d}"}}}

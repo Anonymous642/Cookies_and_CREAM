@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Dark Bookmarks", "version": "1.0.1", "description": "One-click popup to browse Bookmarks Toolbar with a flat dark UI.", "permissions": ["bookmarks", "tabs"], "action": {"default_title": "Bookmarks", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "dark-bookmarks@lex", "strict_min_version": "109.0"}}}

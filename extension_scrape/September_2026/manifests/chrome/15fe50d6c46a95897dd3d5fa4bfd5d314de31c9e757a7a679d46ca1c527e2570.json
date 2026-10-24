@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SPFL - Simple Patent Family Listing", "version": "9.2", "description": "Launches a PowerApp in its own popup window", "action": {"default_icon": {"128": "images/logo.png"}}, "background": {"service_worker": "background.js"}}

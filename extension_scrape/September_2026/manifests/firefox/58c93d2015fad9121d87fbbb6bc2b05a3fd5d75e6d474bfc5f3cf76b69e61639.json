@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My Privacy-Friendly Extension", "version": "1.0", "browser_action": {"default_popup": "index.html"}, "browser_specific_settings": {"gecko": {"data_collection_permissions": {"required": ["none"]}, "id": "{a55709e2-5dd9-4a1a-b1a4-9bab07a7c8e9}"}}}

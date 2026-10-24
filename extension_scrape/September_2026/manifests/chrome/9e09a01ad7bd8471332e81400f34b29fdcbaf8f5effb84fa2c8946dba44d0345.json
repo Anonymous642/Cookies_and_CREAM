@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Fun Fact", "version": "1.0.0", "description": "Show a fun fact of the day in a simple popup.", "icons": {"128": "icon128.png"}, "action": {"default_title": "Daily Fun Fact", "default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Trello Checklist Report", "version": "1.0", "description": "Adds a button to Trello to view all incomplete checklist items by user.", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["https://trello.com/b/*"], "js": ["content.js"]}]}

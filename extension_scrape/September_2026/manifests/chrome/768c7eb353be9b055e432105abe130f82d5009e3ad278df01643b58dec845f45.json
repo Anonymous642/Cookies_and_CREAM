@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Zoom Per Tab", "version": "1.02", "description": "Zoom one tab without affecting other tabs of the same domain!", "background": {"service_worker": "service_worker.js"}, "manifest_version": 3, "icons": {"128": "icon128.png"}}

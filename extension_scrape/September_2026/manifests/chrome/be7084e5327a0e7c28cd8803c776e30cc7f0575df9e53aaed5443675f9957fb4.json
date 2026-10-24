@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "gift filter", "description": "gift filter", "version": "1.0.0", "manifest_version": 3, "background": {}, "action": {}, "icons": {"32": "frog32.png", "128": "frog128.png"}, "content_scripts": [{"matches": ["https://www.goplayone.com/zh-TW/mine/gift/transaction"], "js": ["content.js"]}]}

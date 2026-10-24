@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MoodleLinks", "version": "1.0", "description": "Opens Moodle links in a new tab", "icons": {"48": "icon-48.png", "96": "icon-96.png"}, "content_scripts": [{"matches": ["https://moodle-app2.let.ethz.ch/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{0a187c0b-fa8b-4141-a115-abd57e5016f8}"}}}

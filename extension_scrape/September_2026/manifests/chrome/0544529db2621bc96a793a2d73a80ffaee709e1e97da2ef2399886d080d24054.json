@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SmartStudy AI - Dashboard", "version": "10.0", "description": "Multi-menu AI Agent planner met live timers en afvinkvakjes.", "content_scripts": [{"matches": ["https://*.smartschool.be/*"], "js": ["content.js"], "css": ["styles.css"], "run_at": "document_end"}]}

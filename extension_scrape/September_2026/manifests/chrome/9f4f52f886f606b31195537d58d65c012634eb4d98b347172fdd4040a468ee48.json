@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Mehres", "description": "a stimming animation toy", "manifest_version": 3, "version": "0.0.1", "icons": {"48": "pics/mehres-boul-st.png", "128": "pics/mehres-boul-st.png"}, "action": {"default_popup": "Popup/Popup.html"}}

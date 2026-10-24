@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Smart Table & Text Exporter to CSV", "version": "1.0.2", "description": "Extract any highlighted web table or unstructured text into clean CSV files instantly.", "action": {"default_popup": "popup.html"}, "permissions": ["activeTab", "scripting", "storage"]}

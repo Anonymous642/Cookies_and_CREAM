@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Timer", "version": "1.0", "description": "A premium, minimalist countdown timer.", "action": {"default_popup": "index.html", "default_title": "Open Timer"}, "background": {"service_worker": "background.js"}, "permissions": ["storage", "alarms", "notifications"]}

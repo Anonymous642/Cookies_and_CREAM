@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "i can't read", "version": "1.0", "description": "can't read? i gotchu.", "action": {"default_popup": "src/popup.html", "default_icon": "icon.png"}, "permissions": ["activeTab", "storage", "scripting"], "background": {"service_worker": "src/background.js"}}

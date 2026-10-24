@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AirQR", "version": "1.0.0", "description": "Instantly turn the current tab URL or any text into a scannable QR code for fast sharing between desktop and mobile.", "permissions": ["activeTab"], "action": {"default_title": "AirQR", "default_popup": "popup.html"}}

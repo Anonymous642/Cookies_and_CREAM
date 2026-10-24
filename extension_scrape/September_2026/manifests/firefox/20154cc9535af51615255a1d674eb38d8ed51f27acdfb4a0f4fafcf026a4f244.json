@@ -1,0 +1,1 @@
+{"name": "It's joever", "description": "", "version": "1.0.0", "manifest_version": 3, "content_scripts": [{"matches": ["<all_urls>"], "js": ["joever.js"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "its_joever@mozilla_extension_docs_suck"}}}

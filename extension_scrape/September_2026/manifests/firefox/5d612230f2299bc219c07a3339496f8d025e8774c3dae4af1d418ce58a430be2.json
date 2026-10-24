@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "JutsuSkipMan", "version": "1.0", "description": "Skips all buttons , such as: skip intro/outro, next season/episode", "icons": {"48": "icons/JutsuSkipManLogo.png"}, "content_scripts": [{"matches": ["*://jut.su/*"], "js": ["skip.js"]}], "browser_specific_settings": {"gecko": {"id": "{84402cc1-23fe-4b57-bb8c-2a4d011382a5}"}}}

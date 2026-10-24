@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "i hate tower defense!!!!!!", "version": "1.0", "description": "censor all tower defence", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "author": "MonkeySaint", "browser_specific_settings": {"gecko": {"id": "{c9ec1268-25f1-4c84-8235-d133a1e3405e}"}}}

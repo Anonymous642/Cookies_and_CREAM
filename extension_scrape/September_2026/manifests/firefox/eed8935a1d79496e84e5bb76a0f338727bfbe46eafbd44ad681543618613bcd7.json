@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Alpaca S.r.l.", "description": "Assistenza Tecnica Alpaca S.r.l.", "version": "1.0.0", "icons": {"128": "icons/icon_128.png"}, "browser_action": {"default_icon": "icons/icon.png", "default_popup": "sidebar/popup.html"}, "permissions": ["activeTab"]}

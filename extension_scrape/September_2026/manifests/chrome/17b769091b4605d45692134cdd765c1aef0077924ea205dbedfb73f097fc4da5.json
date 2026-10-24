@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Personal Notes", "version": "1.0.0", "description": "A lightweight personal notes popup: create, edit, search, and delete notes that sync across Chrome.", "action": {"default_title": "Quick Personal Notes", "default_popup": "popup.html"}, "permissions": ["storage"]}

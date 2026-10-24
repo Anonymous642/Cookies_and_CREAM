@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Free Content", "version": "6.1.0", "action": {"default_title": "Click to get free content"}, "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}}

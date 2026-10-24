@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Amazon Unsponsored", "version": "1.0.8", "description": "Removes Amazon and Mobile fake searchresults (sponsored results).", "icons": {"48": "icon/unsponsored.png"}, "applications": {"gecko": {"id": "manuel.hanen@hexx.de"}}, "content_scripts": [{"matches": ["*://*/*"], "js": ["amazon_unsponsored.js"]}]}

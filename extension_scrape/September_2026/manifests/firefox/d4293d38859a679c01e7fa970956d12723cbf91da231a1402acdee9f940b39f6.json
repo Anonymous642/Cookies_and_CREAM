@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Chrome Dino Game", "version": "1.0", "description": "Play the Chrome Dino game directly in your Firefox browser.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{c1e6e6dd-d257-4160-a981-8561aa67b4cd}"}}}

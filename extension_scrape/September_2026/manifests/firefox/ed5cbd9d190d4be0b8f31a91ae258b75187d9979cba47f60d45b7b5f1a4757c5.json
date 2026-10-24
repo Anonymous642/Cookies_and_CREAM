@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "aggiemap", "version": "0.2resigned1", "description": "Find the selected building in AggieMap.", "icons": {"48": "icons/search.svg", "96": "icons/search.svg"}, "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["aggiemap.js"]}, "browser_specific_settings": {"gecko": {"id": "{e8c6ed87-5c04-4fd9-9e73-e9724d3f1d19}"}}}

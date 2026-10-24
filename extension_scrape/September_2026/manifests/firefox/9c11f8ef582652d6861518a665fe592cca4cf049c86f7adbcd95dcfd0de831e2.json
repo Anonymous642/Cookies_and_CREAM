@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Overwatch AI", "version": "1.0", "permissions": ["tabs", "storage", "<all_urls>", "activeTab"], "background": {"scripts": ["background.js"]}, "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{9824f10c-de38-4a6c-87c9-6c1be70e0bd9}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "remove Taylor From Swift", "version": "0.0.2resigned1", "description": "Append '-Taylor' at each Google Search of word 'Swift'", "content_scripts": [{"matches": ["https://www.google.co.kr/search*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{663c3118-7cf8-4053-9b32-6e14b48fd0cd}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "In Context", "version": "1.0", "description": "Quickly open the current page in ChatGPT or Claude AI to ask questions", "permissions": ["activeTab"], "action": {"default_popup": "popup.html"}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "QR Generator", "description": "The Chrome extention to generate the QR code of the currently tab.", "version": "1.1", "action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Flashcards", "version": "1.1.1", "description": "A flashcard extension to help you learn and memorize new words and much more as you browse.", "icons": {"48": "icon.png"}, "chrome_url_overrides": {"newtab": "./index.html"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{f8715231-6e78-4084-9936-9c802a42c53b}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "JSON/IN Formatter", "version": "1.0.0", "description": "Simple tool to quickly format JSON or concatenate values for SQL/SOQL 'IN' operator used in a WHERE clause.", "icons": {"48": "images/icon-128.png", "128": "images/icon-128.png"}, "action": {"default_popup": "popup.html"}}

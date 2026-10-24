@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TZS to UGX Converter", "version": "1.0", "description": "Convert TZS to UGX directly from your browser.", "permissions": ["activeTab", "https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{3f949ef0-9152-4b47-9ba1-8bd911489ab5}"}}}

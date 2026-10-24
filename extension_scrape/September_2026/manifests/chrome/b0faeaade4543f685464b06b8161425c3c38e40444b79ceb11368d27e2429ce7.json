@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Paper Bat", "version": "1.0", "description": "Find journal ranking, impact factor and field from paper title", "permissions": [], "action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png"}}, "host_permissions": ["https://api.crossref.org/"]}

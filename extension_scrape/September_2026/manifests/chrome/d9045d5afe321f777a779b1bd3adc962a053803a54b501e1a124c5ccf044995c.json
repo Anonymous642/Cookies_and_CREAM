@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pet Feeding Calculator", "version": "1.0", "description": "Calculate precise daily calorie needs for your dog or cat based on breed, age, and activity.", "action": {"default_popup": "popup.html", "default_title": "Calculate Pet Calories"}, "icons": {"128": "icon128.png"}}

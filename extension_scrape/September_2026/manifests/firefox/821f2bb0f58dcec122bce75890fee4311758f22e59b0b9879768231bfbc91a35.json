@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Flappy Bird for Browser", "version": "1.0", "description": "Play Flappy Bird right from your browser popup.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{19ceb51c-835d-4498-8f47-df8ec27a927b}"}}}

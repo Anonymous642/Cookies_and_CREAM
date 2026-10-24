@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cnfans RDG Extension", "version": "1.0", "description": "Cnfans RDG Extension", "icons": {"128": "icons/CnFans_RDG.png"}, "content_scripts": [{"matches": ["*://*.cnfans.com/*"], "js": ["content.js"], "run_at": "document_end"}]}

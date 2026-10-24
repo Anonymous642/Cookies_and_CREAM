@@ -1,0 +1,1 @@
+{"manifest_version": 2, "icons": {"128": "icon.png"}, "name": "DrawSQL Background White", "version": "1.0.0", "description": "Replace drawsql.app background to #FFFFFF", "content_scripts": [{"matches": ["*://drawsql.app/*"], "js": ["background.js"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{a9a5f7ae-bad9-4b24-881a-5dcdd8de4403}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.2", "name": "robot fox", "chrome_url_overrides": {"newtab": "index.html"}, "description": "fantasy style half fox half robot", "manifest_version": 3}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "youtubeSkipAds", "version": "3.0.2", "description": "Skip ads on YouTube", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["youtubeSkipAds.js"]}], "browser_specific_settings": {"gecko": {"id": "me@example.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Emdash Replacer", "version": "1.0", "description": "One click to replace all emdashes with dashes on the current page.", "permissions": ["scripting", "activeTab"], "action": {"default_title": "Replace Emdashes"}, "background": {"service_worker": "background.js"}}

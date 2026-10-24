@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Guess the Object Game", "version": "1.0", "description": "A game where you guess the object based on a blurred image.", "browser_action": {"default_popup": "index.html", "default_title": "Guess the Object Game"}, "browser_specific_settings": {"gecko": {"id": "{e8229d1d-ae55-41bf-98aa-32c329d6102d}"}}}

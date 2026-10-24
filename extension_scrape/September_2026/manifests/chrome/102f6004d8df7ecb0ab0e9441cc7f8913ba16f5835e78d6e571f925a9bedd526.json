@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Quick Moodle", "description": "Complete daily Moodle tasks quickly.", "version": "1.0.2", "manifest_version": 3, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

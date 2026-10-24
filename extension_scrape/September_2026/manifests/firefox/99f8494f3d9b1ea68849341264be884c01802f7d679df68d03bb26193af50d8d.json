@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CamelCamelCamel Tracker", "version": "1.0", "description": "Track Amazon product prices with CamelCamelCamel.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{6cecd55a-0b58-44e2-8f59-9007abdd39ea}"}}}

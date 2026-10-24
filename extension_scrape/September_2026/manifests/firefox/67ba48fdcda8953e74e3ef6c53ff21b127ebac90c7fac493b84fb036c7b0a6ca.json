@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "XSS Payloads", "version": "1.0", "description": "XSS payloads for cybersecurity testing", "permissions": ["clipboardWrite", "storage"], "action": {"default_popup": "popup.html"}, "author": "lil0x1", "browser_specific_settings": {"gecko": {"id": "xss-payloads@lil0x1", "data_collection_permissions": {"required": ["none"], "optional": []}}}}

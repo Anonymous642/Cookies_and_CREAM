@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "CodeHS", "description": "Library of computer science materials for beginners, with a focus on providing help from real people.", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://codehs.com/"], "launch": {"web_url": "http://codehs.com/"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "T\u00ednh T\u1ed5ng Ch\u1eef S\u1ed1 Sunwin", "version": "1.0", "description": "T\u00ednh t\u1ed5ng c\u00e1c ch\u1eef s\u1ed1 c\u1ee7a m\u1ed9t s\u1ed1.", "action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}, "permissions": []}

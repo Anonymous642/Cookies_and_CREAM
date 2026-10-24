@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YYR Tab", "version": "1.0", "description": "Custom new tab page \u2014 tab dashboard", "permissions": ["tabs", "storage", "bookmarks"], "chrome_url_overrides": {"newtab": "newtab.html"}}

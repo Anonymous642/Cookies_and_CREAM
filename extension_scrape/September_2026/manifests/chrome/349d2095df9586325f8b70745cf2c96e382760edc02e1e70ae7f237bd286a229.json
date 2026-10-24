@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "JDS Passport Scanner", "description": "Extension for JDS Passport Scanner Application", "version": "1.4", "manifest_version": 3, "permissions": ["nativeMessaging", "scripting", "activeTab", "storage"], "action": {"default_popup": "popup.html", "default_icon": "ps.png"}}

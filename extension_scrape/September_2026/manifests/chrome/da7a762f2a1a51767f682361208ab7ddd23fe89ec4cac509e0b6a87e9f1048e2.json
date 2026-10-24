@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Nx Tab", "version": "1.0.0", "icons": {"48": "public/logo.png"}, "permissions": [], "host_permissions": ["https://www.bing.com/*"], "chrome_url_overrides": {"newtab": "src/newtab/index.html"}}

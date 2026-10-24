@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "PianoChat", "version": "6", "icons": {"128": "128.png"}, "app": {"urls": ["http://www.pianocrumbs.com/PianoChat"], "launch": {"web_url": "http://www.pianocrumbs.com/PianoChat"}}, "permissions": ["unlimitedStorage", "notifications"], "manifest_version": 2}

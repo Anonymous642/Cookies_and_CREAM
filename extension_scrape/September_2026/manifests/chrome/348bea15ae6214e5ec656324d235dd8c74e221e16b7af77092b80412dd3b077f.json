@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Coffee Recipe", "version": "1.0.0", "description": "Discover a new coffee recipe every day when you open a new tab.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["storage"]}

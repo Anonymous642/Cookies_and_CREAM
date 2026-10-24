@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ArchiveScraper", "manifest_version": 3, "description": "Shop easily online!", "version": "1.0", "action": {"default_popup": "./index.html", "default_icon": "./archivescraper.png"}, "icons": {"128": "./archivescraper.png"}, "host_permissions": ["https://api.ebay.com/*"]}

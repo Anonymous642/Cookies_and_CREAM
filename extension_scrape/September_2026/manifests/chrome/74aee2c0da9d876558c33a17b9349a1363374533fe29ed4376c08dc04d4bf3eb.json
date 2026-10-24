@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GPT Saver by njbots.com", "version": "2.0", "description": "Save current page as MHTML", "permissions": ["pageCapture", "downloads", "activeTab"], "background": {"service_worker": "background.js"}, "action": {"default_title": "Save Page as MHTML"}, "icons": {"128": "icon128.png"}}

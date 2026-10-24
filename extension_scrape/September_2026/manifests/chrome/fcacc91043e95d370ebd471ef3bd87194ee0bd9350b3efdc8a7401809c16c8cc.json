@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bookmark Tab Closer", "description": "Close tabs that are already bookmarked.", "version": "1.0", "permissions": ["tabs", "bookmarks"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html"}}

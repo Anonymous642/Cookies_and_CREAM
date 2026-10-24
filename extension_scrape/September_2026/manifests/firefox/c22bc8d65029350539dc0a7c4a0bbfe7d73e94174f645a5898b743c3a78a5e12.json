@@ -1,0 +1,1 @@
+{"name": "VIK Wiki Keres\u0151 (Kontextus men\u00fc)", "version": "1.1", "description": "Keress a VIK Wiki-n egyenesen a kontextusmen\u00fcb\u0151l", "permissions": ["contextMenus"], "manifest_version": 2, "icons": {"180": "icon.png"}, "background": {"scripts": ["eventPage.js"]}}

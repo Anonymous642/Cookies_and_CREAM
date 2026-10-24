@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "2048 Cupcakes", "version": "1.0.0", "description": "Play 2048 Cupcakes in a focused popup.", "action": {"default_title": "2048 Cupcakes", "default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}}

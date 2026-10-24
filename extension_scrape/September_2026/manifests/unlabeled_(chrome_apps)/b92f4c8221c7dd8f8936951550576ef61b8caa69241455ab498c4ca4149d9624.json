@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\ub3c4\ucd0c\ub3d9\uc18c\uac1c", "description": "My first Chrome App.", "version": "1.0", "app": {"background": {"scripts": ["background.js"]}}, "icons": {}}

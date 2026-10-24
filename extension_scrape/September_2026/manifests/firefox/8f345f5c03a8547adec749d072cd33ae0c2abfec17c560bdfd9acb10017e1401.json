@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "alful", "version": "0.2", "description": "Lauch all Firefox Quantum windows fullscreen", "homepage_url": "https://github.com/McSinyx/alful", "icons": {"48": "icon.svg", "96": "icon.svg"}, "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"strict_min_version": "48.0"}}}

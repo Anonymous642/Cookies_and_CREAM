@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Save Electricity Timer", "version": "1.0", "description": "Reminds you to shut down your computer after a period of inactivity.", "permissions": ["idle", "notifications"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{9e688297-ca21-4985-8cce-b6fa1151552f}"}}}

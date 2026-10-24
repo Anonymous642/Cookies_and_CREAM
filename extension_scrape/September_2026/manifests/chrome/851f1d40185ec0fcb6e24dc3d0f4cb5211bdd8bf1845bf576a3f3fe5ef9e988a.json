@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gerador de Etiquetas Pimaco A4351", "version": "2.1.1", "description": "Converte arquivos ZPL em PDF formatado para etiquetas Pimaco A4351.", "action": {"default_popup": "popup.html", "default_title": "Gerar Etiquetas"}, "permissions": []}

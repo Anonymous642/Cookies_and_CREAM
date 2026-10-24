@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AI Homepage", "version": "2.0", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{b3ecca28-7784-40a1-9b55-f07ed78047ee}"}}}

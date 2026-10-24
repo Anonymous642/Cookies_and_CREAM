@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Console Anti Anti-Debug", "version": "0.1.1", "description": "Prevents anti-debug techniques that target console functions", "content_scripts": [{"matches": ["*://*/*"], "js": ["main.js"], "run_at": "document_start", "all_frames": true}], "browser_specific_settings": {"gecko": {"id": "{95701dec-c74b-4201-9544-ffe7d3386e93}"}}}

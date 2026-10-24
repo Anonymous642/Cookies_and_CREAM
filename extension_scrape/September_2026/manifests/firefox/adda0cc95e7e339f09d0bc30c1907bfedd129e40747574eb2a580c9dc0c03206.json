@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search on Baidu", "version": "0.4resigned1", "description": "A menu option to search selected text on Baidu", "icons": {"128": "icons/baidu-128.png", "512": "icons/baidu-512.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["search.js"]}, "browser_specific_settings": {"gecko": {"id": "{d447b7df-d582-41f7-a83d-336dc61a1b08}"}}}

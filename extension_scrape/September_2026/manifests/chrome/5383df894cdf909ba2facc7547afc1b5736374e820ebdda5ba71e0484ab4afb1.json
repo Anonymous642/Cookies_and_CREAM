@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MB Extension", "version": "0.1", "manifest_version": 3, "author": "Miguel Brandao", "permissions": [], "action": {"default_popup": "index.html"}}

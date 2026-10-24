@@ -1,0 +1,1 @@
+{"description": "Auto Fullscreen for Firefox ", "manifest_version": 2, "name": "My AutoFullscreen", "version": "1.0.0.3resigned1", "background": {"scripts": ["2full.js"]}, "browser_specific_settings": {"gecko": {"id": "{c94b3756-7955-464a-b5fc-39b3bc0bb19f}"}}}

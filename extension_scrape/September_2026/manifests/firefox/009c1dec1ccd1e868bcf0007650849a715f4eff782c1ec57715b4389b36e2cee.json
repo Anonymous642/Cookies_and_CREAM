@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Simple Facebook Blocker", "version": "1.0", "description": "Blocks access to Facebook.", "host_permissions": ["*://www.facebook.com/*"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{ac2a3987-8b39-4cf9-b4ed-13d68ac22c58}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Highlight All Links", "version": "1.0", "description": "T\u00f4 v\u00e0ng t\u1ea5t c\u1ea3 li\u00ean k\u1ebft trong trang web.", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}}

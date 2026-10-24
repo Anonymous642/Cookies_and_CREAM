@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "FlagaTab", "version": "1.0.0", "description": "New Tab New Flag, Flag game trainer", "chrome_url_overrides": {"newtab": "newtab.html"}}

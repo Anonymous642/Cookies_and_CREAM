@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OMS Signing Agent Bridge", "version": "1.0", "browser_specific_settings": {"gecko": {"id": "oms-signing-agent@oms.com.mk", "data_collection_permissions": {"required": ["none"]}}}, "permissions": ["http://localhost:17865/*"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "background": {"scripts": ["background.js"]}}

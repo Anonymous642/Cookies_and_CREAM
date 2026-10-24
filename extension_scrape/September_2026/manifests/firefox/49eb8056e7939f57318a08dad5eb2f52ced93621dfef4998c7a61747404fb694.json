@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "JSXtract", "version": "1.0", "description": "Get data from a web apps JS files using many forms of regex.", "permissions": ["activeTab", "tabs", "scripting"], "host_permissions": ["<all_urls>"], "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "d49c8d0e95cfa26c9a44dfa0804393ce61c6d367@whyisthissuchapain"}}}

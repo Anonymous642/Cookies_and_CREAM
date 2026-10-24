@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Code Snippet Manager", "version": "1.0", "description": "Save and manage your favorite code snippets", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{4c7fc120-1e51-4243-8b95-1c15bdcc170e}"}}}

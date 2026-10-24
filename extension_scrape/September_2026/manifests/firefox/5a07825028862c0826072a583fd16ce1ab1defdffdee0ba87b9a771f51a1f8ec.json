@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ani_gamer_audio_plugin", "version": "2.1", "author": "PUPU", "description": "\u8b93\u52d5\u756b\u760b\u53ef\u4ee5\u8abf\u6574\u97f3\u6548\u589e\u76ca(Gain).", "icons": {"512": "icon.jpg"}, "content_scripts": [{"matches": ["*://ani.gamer.com.tw/*", "*://www.twitch.tv/*"], "js": ["ani_gamer_audio_plugin.js"]}]}

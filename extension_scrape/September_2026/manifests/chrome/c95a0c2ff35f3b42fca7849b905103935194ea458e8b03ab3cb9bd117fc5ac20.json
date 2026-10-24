@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TypeMathScript", "description": "Type your math as a code and run it (base js)", "version": "1.0.0.1", "manifest_version": 3, "action": {"default_popup": "pop.html"}, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "sandbox": {"pages": ["pop.html"]}}

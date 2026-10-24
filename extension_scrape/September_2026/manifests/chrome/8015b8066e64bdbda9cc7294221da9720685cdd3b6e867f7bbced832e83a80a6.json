@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ChatGPT Petit UX Tools", "version": "2.5.4", "description": "Small but effective UX improvements for ChatGPT.", "content_scripts": [{"matches": ["https://chatgpt.com/*"], "js": ["content.js"]}]}

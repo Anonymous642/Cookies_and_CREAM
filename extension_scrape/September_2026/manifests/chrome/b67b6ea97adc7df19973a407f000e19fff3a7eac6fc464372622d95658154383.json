@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pegado Inteligente desde Sheets", "version": "1.1", "description": "Pega los datos copiados de una fila de Google Sheets en el formulario de setup.", "permissions": ["scripting", "activeTab", "clipboardRead"], "action": {"default_popup": "popup.html"}}

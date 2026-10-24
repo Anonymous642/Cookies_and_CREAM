@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\u23f0 Mini Countdown Clock", "version": "1.0", "description": "Set a timer and view a random mini countdown clock in popup.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "espachntsiky@hotmail.com"}}}

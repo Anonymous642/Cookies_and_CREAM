@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "NERM Admin Toggle", "version": "1.0", "permissions": ["activeTab"], "background": {"service_worker": "background.js"}, "action": {"default_title": "NERM Admin Toggle"}, "icons": {"32": "Designer32.png", "96": "Designer96.png", "128": "Designer128.png"}}

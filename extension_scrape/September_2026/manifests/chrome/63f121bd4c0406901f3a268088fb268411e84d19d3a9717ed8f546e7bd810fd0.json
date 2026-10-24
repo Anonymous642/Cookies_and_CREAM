@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "0.0.1", "manifest_version": 3, "name": "Powerful Color Scheme Generator!", "description": "Generate stunning color schemes effortlessly!", "action": {"default_popup": "index.html"}, "icons": {"16": "logo.png", "32": "logo.png", "48": "logo.png", "64": "logo.png", "128": "logo.png", "256": "logo.png"}}

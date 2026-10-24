@@ -1,0 +1,1 @@
+{"description": "Various improvements for TCGPlayer by jagrosh", "manifest_version": 2, "name": "JTCGPlayer", "version": "1.0", "icons": {"48": "icons/logo-48.png", "96": "icons/logo-96.png"}, "content_scripts": [{"matches": ["*://*.tcgplayer.com/*"], "js": ["jtcgplayer.js"]}], "browser_specific_settings": {"gecko": {"id": "jtcgplayer@jagrosh.com"}}}

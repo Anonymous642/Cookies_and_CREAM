@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Price markup detector", "description": "Finds potential price markups", "version": "1.0", "permissions": ["activeTab", "scripting"], "action": {"default_title": "Click to detect markups", "default_popup": "popup.html"}, "icons": {"128": "logo.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "algo_submit", "version": "1.0", "description": "SWEA, \ubc31\uc900 \ucf54\ub4dc \uc790\ub3d9\ubcc0\uacbd", "content_scripts": [{"matches": ["https://www.acmicpc.net/submit/**", "https://swexpertacademy.com/main/solvingProblem/solvingProblem.do"], "js": ["content.js"]}]}

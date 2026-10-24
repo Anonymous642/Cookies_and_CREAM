@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "EksImage", "version": "1.4", "description": "Eksi Sozluk entry ve g\u00f6rselleri ayn\u0131 ekranda!", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["myscript.js"]}]}

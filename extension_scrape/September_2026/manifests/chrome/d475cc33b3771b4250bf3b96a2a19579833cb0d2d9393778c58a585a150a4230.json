@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Genealogy Date Calculator", "version": "1.0", "description": "Calculates a birth date from a death date and exact age found on tombstones.", "permissions": ["activeTab"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

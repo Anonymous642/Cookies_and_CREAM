@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Custom New Tab", "version": "1.0", "description": "A Firefox extension to customize the new tab page.", "permissions": ["tabs"], "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"128": "icons/icon128.png"}, "browser_specific_settings": {"gecko": {"id": "{6a0ea9e1-7c91-47d1-a7dd-d64d396cd841}", "strict_min_version": "58.0"}}}

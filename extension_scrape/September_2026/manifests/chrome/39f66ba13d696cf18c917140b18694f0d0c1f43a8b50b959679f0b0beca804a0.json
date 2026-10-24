@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TimePark", "description": "Administrer og f\u00e5 varsler om parkeringsperioden din.", "version": "1.1", "permissions": ["storage", "notifications", "alarms"], "action": {"default_popup": "popup.html"}, "background": {"service_worker": "background.js"}}

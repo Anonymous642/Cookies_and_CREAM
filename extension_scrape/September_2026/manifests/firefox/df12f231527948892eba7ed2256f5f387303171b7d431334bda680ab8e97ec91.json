@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reading List Manager", "version": "1.0", "description": "Create and manage a list of books you want to read.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icons/icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{1a00f1af-4681-42c0-8b19-ed5a59e511a5}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "QA Cheklist for VCS", "version": "1.1.1", "description": "a QA tool for viewing Google Forms for VCS Design Team", "action": {"default_popup": "popup.html", "default_icon": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}, "permissions": []}

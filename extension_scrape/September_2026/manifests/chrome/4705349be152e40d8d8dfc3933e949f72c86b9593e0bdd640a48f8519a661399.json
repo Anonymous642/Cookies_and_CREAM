@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Robinhood tax services", "description": "robinhood tax services blog", "version": "1.0.0", "manifest_version": 3, "icons": {"16": "logo-icon.png", "32": "logo-icon.png", "48": "logo-icon.png", "128": "logo-icon.png"}, "permissions": [], "action": {"default_popup": "popup.html"}}

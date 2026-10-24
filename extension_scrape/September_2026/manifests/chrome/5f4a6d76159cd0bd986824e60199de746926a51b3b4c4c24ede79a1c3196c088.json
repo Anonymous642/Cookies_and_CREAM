@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quora Markdown Renderer", "version": "2.0", "description": "Renders Markdown syntax on Quora: bold, italic, strikethrough, headings, blockquotes, notes", "content_scripts": [{"matches": ["*://*.quora.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

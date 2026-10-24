@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ip2country", "version": "1.0.0", "description": "Map an IP to a country", "icons": {"48": "icons/logo-48-48.png"}, "permissions": ["webRequest"], "browser_action": {"default_icon": "icons/logo.png", "default_title": "Map an IP to a country", "default_popup": "popup/index.html"}}

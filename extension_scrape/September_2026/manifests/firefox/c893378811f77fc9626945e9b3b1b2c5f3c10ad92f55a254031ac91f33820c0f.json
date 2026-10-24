@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TikTok Video Counter", "version": "1.0", "description": "Counts the number of TikTok videos on a page.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*.tiktok.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{4c476738-f4dd-4c25-ae58-72ba29967cf7}"}}}

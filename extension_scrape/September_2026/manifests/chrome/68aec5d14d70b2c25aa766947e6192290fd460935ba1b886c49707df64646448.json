@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.0", "name": "Lewy Language", "description": "Experience how people wtih Lwye bdoy pcevreie wdros\u2026", "content_scripts": [{"matches": ["*://*.wikipedia.org/*"], "js": ["main.js"], "css": ["style.css"], "run_at": "document_end"}], "icons": {"48": "Logo_W.png"}}

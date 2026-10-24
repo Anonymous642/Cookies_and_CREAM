@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PowerSchool GPA Calculator", "version": "1.0", "description": "Shows cumulative weighted and unweighted GPA on the PowerSchool term grades page.", "content_scripts": [{"matches": ["*://pcpowerschool.stanford.edu/guardian/termgrades.html*"], "js": ["content.js"]}]}

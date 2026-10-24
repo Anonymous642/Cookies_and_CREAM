@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Google Meet Favorites 1759", "version": "1.0.0", "description": "", "content_scripts": [{"js": ["index.js"], "matches": ["https://meet.google.com/landing*"]}]}

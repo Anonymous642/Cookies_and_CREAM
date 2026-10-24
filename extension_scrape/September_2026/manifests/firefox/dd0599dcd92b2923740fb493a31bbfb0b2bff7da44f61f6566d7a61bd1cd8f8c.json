@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Descargar MAB pdf", "version": "1.1resigned1", "permissions": ["activeTab", "contextMenus"], "background": {"scripts": ["substitute.js"]}, "browser_specific_settings": {"gecko": {"id": "{5893802c-2110-415d-ab3d-05bbc9cb3236}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Dashboard", "version": "1.0.0", "description": "A minimal new tab dashboard with clock and greeting.", "permissions": [], "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"128": "icon128.png"}}

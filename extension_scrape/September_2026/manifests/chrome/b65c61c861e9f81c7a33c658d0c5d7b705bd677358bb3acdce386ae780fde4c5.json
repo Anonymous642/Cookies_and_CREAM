@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bass & Volume Booster Pro", "version": "1.0", "description": "A powerful extension to boost your volume and bass.", "permissions": ["activeTab", "scripting", "storage"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

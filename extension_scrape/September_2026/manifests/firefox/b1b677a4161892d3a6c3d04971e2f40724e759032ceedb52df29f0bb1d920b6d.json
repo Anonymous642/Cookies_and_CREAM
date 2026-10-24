@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "QuickType", "version": "1.0", "description": "Adds a popup typing game to the toolbar.", "icons": {"48": "icons/keys48.png", "96": "icons/keys96.png"}, "browser_action": {"default_icon": "icons/keys32.png", "default_title": "QuickType", "default_popup": "popup/popup.html"}}

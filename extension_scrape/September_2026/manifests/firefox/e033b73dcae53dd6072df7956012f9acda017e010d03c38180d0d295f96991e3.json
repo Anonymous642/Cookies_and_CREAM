@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "EcoFriendlyFinder", "version": "1.0", "description": "Suggest eco-friendly products for a greener lifestyle.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{94c292a9-3ad4-45bf-8973-e80666d65e70}"}}}

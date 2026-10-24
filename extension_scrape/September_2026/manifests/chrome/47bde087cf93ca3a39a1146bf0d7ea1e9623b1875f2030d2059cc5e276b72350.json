@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Discard Tab", "version": "1.0.0", "description": "Discard a tab from the tab strip context menu to free up memory.", "minimum_chrome_version": "150", "permissions": ["contextMenus"], "background": {"service_worker": "background.js"}}

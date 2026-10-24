@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Convert To Popup", "version": "1.0", "description": "Converts the current tab or link to a popup window", "browser_action": {"default_icon": "logo.png", "default_title": "Convert 2 Popup"}, "background": {"persistent": false, "scripts": ["background.js"]}, "permissions": ["contextMenus", "activeTab"]}

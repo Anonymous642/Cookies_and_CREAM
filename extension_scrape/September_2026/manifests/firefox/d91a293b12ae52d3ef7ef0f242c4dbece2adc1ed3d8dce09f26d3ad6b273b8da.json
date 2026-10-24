@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ANWhatsApp Features", "version": "0.1", "description": "Displays a random feature of ANWhatsApp", "icons": {"48": "icon48.png", "96": "icon96.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon48.png"}}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{078c09c2-2efb-4617-a7ab-30411f484054}"}}}

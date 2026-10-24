@@ -1,0 +1,1 @@
+{"description": "Add a bookmark to the toolbar", "manifest_version": 2, "name": "Bookmark2Toolbar - 1/2", "version": "1.3.1", "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": {"16": "icons/ico16.png", "32": "icons/ico32.png"}}, "browser_specific_settings": {"gecko": {"id": "86darv@gmail.com"}}, "permissions": ["menus", "activeTab"]}

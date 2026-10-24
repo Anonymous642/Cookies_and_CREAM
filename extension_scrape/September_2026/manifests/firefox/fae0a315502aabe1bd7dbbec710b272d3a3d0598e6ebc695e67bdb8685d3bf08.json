@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SStar free", "version": "1.0.0", "content_scripts": [{"matches": ["<all_urls>"], "js": ["Content.js"]}], "browser_specific_settings": {"gecko": {"id": "{47097f78-03db-4acc-b45e-1217888c3024}"}}}

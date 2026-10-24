@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bookmark to .desktop", "description": "Convert bookmarks to .desktop files", "version": "1.0.2", "manifest_version": 3, "action": {"default_popup": "popup.html", "default_icon": "img/folder.png"}, "permissions": ["bookmarks", "downloads", "storage"]}

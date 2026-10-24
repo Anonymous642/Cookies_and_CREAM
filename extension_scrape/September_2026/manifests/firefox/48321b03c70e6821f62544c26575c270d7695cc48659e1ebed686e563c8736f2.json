@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NoAdFocus", "version": "1.0.1", "description": "Skip the 5 seconds like a time saving super hero.", "icons": {"1024": "icon.png"}, "content_scripts": [{"matches": ["*://adfoc.us/serve*"], "js": ["skip.js"]}]}

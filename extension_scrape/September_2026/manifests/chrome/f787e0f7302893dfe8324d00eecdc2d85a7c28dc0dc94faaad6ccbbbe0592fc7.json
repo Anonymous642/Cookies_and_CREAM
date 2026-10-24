@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ChatGPT Organizer", "description": "Organize your ChatGPT conversations with bookmarks and outlines", "version": "1.1.2", "manifest_version": 3, "permissions": ["storage"], "content_scripts": [{"matches": ["https://chatgpt.com/*"], "js": ["content.js"], "css": ["outline-react.css"]}]}

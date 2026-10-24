@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ai Instagram Email Extractor", "description": "Extract the emails from instagram user profiles instantly.", "version": "1.0.6", "icons": {"128": "icon.png"}, "action": {"default_icon": "icon.png", "default_popup": "popup.html"}}

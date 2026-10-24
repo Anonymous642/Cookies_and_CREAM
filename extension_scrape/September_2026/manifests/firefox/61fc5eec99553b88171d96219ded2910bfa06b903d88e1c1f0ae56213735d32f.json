@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "noAIsearch", "version": "1.0", "description": "Adds \"no AI\" tags to searches.", "icons": {"48": "icons/noAIsearch.png"}, "content_scripts": [{"matches": ["*://*.google.com/*", "*://*.duckduckgo.com/*", "*://*.bing.com/*"], "js": ["noAIsearch.js"]}], "browser_specific_settings": {"gecko": {"id": "{8f8970da-4dc1-4adf-9d59-29e0b112d72c}"}}}

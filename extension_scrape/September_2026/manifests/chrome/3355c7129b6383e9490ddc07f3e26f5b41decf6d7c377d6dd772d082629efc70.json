@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "WhatsApp Link Generator", "version": "1.2", "description": "Generate WhatsApp links with a pre-filled message", "action": {"default_popup": "popup.html", "default_icon": {"16": "icon-16.png", "48": "icon-48.png", "128": "icon-128.png"}}}

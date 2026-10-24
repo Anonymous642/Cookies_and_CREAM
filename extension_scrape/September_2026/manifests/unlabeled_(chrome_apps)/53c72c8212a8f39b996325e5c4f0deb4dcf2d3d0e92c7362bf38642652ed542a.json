@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Zoohbah Redemption", "description": "Help Zoohbah save the universe from sinister forces", "version": "1.0.0.0", "author": "SIMPLEWARES", "minimum_chrome_version": "23", "icons": {"16": "zoohbah16.png", "256": "zoohbah256.png"}, "app": {"background": {"scripts": ["background.js"]}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LinkedIn Bio Builder", "version": "1.0.0", "description": "Create LinkedIn bio lines quickly with a fun, modern popup.", "action": {"default_title": "LinkedIn Bio Builder", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

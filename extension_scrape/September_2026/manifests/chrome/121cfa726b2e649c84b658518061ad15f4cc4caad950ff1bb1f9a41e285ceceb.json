@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Markdown Memo", "version": "1.0.1", "manifest_version": 3, "description": "A simple markdown memo", "icons": {"16": "images/icon-16.png", "128": "images/icon-128.png"}, "side_panel": {"default_path": "index.html"}, "permissions": ["sidePanel", "storage"]}

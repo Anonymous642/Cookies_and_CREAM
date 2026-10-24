@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Multiple Choice Checker", "description": "Addons that will make it easier to check students' multiple choice answers", "version": "0.0.2", "icons": {"128": "icon.png"}, "background": {"scripts": ["background.js"]}, "browser_action": {}, "browser_specific_settings": {"gecko": {"id": "{58e0c117-6fb0-45a2-b3e7-b33f555b9fbb}"}}}

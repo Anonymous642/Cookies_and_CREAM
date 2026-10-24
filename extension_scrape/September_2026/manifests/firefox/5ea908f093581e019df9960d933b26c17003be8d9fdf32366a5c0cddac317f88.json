@@ -1,0 +1,1 @@
+{"manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "ffox@aazone.ru", "data_collection_permissions": {"required": ["none"]}}}, "name": "WR Reseter", "description": "Reset trial on watermarkremover.io", "version": "0.0.1", "icons": {"64": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.watermarkremover.io/*"], "js": ["content_script.js"]}]}

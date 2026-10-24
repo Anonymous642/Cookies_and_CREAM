@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Copy Link Text", "version": "1.0", "description": "Copy link text easily via right-click context menu.", "icons": {"48": "icons/icon.png"}, "permissions": ["contextMenus", "clipboardWrite"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{3038ded1-9fff-4533-b37e-1dd616d15292}"}}}

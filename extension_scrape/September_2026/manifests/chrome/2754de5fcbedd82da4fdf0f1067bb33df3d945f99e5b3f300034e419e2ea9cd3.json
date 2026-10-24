@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Screenshot Tool", "version": "1.0", "description": "Take screenshots of the current tab", "permissions": ["activeTab"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

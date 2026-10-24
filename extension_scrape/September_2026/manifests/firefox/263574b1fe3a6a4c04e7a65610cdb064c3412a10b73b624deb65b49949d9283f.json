@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "gozo Main Focus", "author": "Maitra Khatri", "version": "1.0.2", "description": "Replace new tab screen with your today's Main Focus, Weather and Time.", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{39091766-da66-4c2c-82f0-8a79704e8269}"}}}

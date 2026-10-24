@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pix Sem Taxa", "version": "1.1", "description": "PIX sem TAXAS + link de pagamento.", "icons": {"16": "/icons/h-16.png", "32": "/icons/h-32.png", "48": "/icons/h-48.png", "128": "/icons/h-128.png"}, "action": {"default_popup": "popup.html"}}

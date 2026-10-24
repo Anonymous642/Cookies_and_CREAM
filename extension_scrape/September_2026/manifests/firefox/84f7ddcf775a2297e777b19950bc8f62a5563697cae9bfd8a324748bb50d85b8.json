@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Japscan Dark Theme", "version": "1.0", "author": "Xiral", "description": "Dark theme pour le site Japscan uniquement lors de la lecture", "content_scripts": [{"matches": ["*://www.japscan.to/lecture-en-ligne/*"], "js": ["darktheme.js"]}]}

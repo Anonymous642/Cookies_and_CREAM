@@ -1,0 +1,1 @@
+{"name": "Seum Auto Correct", "version": "0.2resigned1", "manifest_version": 2, "description": "T'as le seum", "icons": {"128": "128.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["js/correct.js"]}], "browser_specific_settings": {"gecko": {"id": "{0e7a5a5b-18e8-4fd5-99d6-51a8cd9c9d02}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gemini Wide UI", "version": "1.0", "description": "Gemini \ud654\uba74 \ud3ed\uc744 \ub113\ud788\uace0 \ud45c \uc2a4\ud06c\ub864\uc744 \ud574\uc81c\ud569\ub2c8\ub2e4.", "content_scripts": [{"matches": ["*://gemini.google.com/*"], "css": ["style.css"]}]}

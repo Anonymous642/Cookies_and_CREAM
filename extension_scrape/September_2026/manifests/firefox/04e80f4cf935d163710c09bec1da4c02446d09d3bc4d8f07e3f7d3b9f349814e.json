@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Spin the Wheel Custom", "version": "1.0", "description": "A customizable spin wheel with modern design", "browser_action": {"default_popup": "popup.html"}, "permissions": ["storage"], "applications": {"gecko": {"id": "spinwheel@example.com"}}}

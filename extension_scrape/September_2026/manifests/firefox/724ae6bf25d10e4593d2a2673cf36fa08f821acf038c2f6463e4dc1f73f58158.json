@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MirrorPeek", "version": "1.0", "description": "Toggle horizontal mirror on images in-page with optional opacity blend.", "permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content_script.js"], "run_at": "document_end"}], "applications": {"gecko": {"id": "mirrorpeek@example.com"}}}

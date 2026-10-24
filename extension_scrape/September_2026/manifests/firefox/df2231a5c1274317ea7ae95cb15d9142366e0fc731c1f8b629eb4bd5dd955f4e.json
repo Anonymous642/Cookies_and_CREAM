@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "KZT to PYG Converter", "version": "1.0", "description": "Convert Kazakhstani Tenge (KZT) to Paraguayan Guarani (PYG).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert KZT to PYG"}, "browser_specific_settings": {"gecko": {"id": "{3e8a1390-79ed-4413-9226-9f505a30e45a}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Zen Mode Tab", "version": "1.0", "description": "New tab with relaxing music, a clock, and peaceful background.", "chrome_url_overrides": {"newtab": "zen.html"}, "permissions": [], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{67f8ef74-0c3a-4eb0-920b-7af4d619349b}"}}}

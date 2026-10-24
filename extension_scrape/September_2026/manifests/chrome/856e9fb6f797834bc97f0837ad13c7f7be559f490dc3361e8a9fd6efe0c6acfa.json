@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quiz Me", "version": "1.0", "description": "Extension that will ask a random question from your chosen topic", "icons": {"128": "icon.png"}, "action": {"default_popup": "quiz-me.html", "default_icon": "icon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Renombrador Autom\u00e1tico de PDFs", "version": "1.0", "default_locale": "es", "description": "__MSG_extDescription__", "permissions": ["downloads"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "applications": {"gecko": {"id": "renombradorpdfs@example.com", "strict_min_version": "109.0"}}}

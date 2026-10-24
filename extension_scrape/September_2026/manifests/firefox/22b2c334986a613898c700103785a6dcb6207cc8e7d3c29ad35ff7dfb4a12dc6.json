@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Color Suggestion Extension", "version": "1.0", "description": "Suggest colors based on selected style.", "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon48.png", "128": "icon128.png"}}, "browser_specific_settings": {"gecko": {"id": "{bc31293c-ea3a-4a7a-8cf7-cf286a43d5a7}"}}}

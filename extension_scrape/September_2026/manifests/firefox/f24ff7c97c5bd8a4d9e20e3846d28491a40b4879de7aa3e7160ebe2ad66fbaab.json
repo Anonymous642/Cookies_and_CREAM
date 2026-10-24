@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Kinopoisk to SS Redirect", "version": "1.0", "description": "Replaces 'kino' with 'ss' in kinopoisk.ru URLs.", "permissions": ["webNavigation", "tabs", "<all_urls>"], "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"id": "ss-redirect@example.com"}}}

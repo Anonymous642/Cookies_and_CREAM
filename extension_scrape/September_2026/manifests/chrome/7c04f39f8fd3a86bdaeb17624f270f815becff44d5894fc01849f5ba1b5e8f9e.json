@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "moomoo.io crash free ", "version": "1.1", "manifest_version": 3, "permissions": [], "background": {"service_worker": "background.js"}, "icons": {"16": "img/16pixels.png", "64": "img/64pixels.png", "128": "img/128pixels.png"}, "action": {"default_popup": "popup.html"}}

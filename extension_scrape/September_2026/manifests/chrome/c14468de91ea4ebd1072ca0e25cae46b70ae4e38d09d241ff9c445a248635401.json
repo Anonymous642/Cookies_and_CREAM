@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pretty PIN Generator", "version": "1.0.0", "description": "Generate random PIN codes instantly in a simple and stylish popup.", "action": {"default_title": "Pretty PIN Generator", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

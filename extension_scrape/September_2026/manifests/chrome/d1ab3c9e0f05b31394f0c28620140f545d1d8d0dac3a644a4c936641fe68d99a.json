@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple Trading View Ad Blocker", "version": "2025.08.30", "permissions": [], "icons": {"128": "icon128.png"}, "content_scripts": [{"matches": ["https://www.tradingview.com/*"], "js": ["./content.js"], "run_at": "document_idle"}]}

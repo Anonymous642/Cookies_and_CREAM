@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Word Count", "version": "1.0", "description": "Displays the number of characters on the current web page.", "browser_action": {"default_icon": "icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content_script.js"]}], "browser_specific_settings": {"gecko": {"id": "{d8f86979-6c2a-46ee-98f8-094a7f01718e}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Remove ZyBook Tutorial Book", "version": "1.0", "description": "Remove annoying Zybook tutorial.", "content_scripts": [{"matches": ["https://learn.zybooks.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "zybooks-cleaner@example.com", "strict_min_version": "109.0"}}}

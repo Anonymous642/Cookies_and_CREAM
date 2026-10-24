@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Paste Tab", "version": "1.0", "description": "Click to open the copied URL in a new tab.", "permissions": ["clipboardRead"], "action": {"default_title": "Open copied URL in new tab", "default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}}

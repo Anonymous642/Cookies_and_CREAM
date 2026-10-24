@@ -1,0 +1,1 @@
+{"name": "Cloud Clipboard", "description": "A Simple Clipboard Storage on the Cloud", "version": "1.0.1", "manifest_version": 3, "browser_specific_settings": {"gecko": {"id": "cloudclipboard@jetthiggins", "data_collection_permissions": {"required": ["authenticationInfo"]}}}, "action": {"default_popup": "index.html"}, "host_permissions": ["https://api.cloudclipboard.app/*"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "chzzk adblock", "version": "1.0", "permissions": ["declarativeNetRequest"], "description": "super light basic adblock on chzzk", "declarative_net_request": {"rule_resources": [{"id": "adblock", "enabled": true, "path": "rules.json"}]}, "browser_specific_settings": {"gecko": {"id": "Hueok@github.com", "strict_min_version": "58.0"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dishuflix Ad & Popup Blocker", "version": "1.0", "description": "Blocks popups, redirects, and ad links on embedded video players like player4u.xyz.", "permissions": ["tabs", "storage", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "dishuflixblocker@example.com"}}}

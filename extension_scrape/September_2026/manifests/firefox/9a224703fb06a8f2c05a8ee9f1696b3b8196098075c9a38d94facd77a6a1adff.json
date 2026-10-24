@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MobaXTermFix", "version": "1.2resigned1", "description": "Fixes links for MobaXTerm", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["changeURL.js"]}], "browser_specific_settings": {"gecko": {"id": "{493cbc3e-a840-4a00-9bdb-ee4ee6073614}"}}}

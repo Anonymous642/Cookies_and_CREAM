@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Smooth UI", "version": "1.3", "description": "Adds modern and smooth animations to YouTube.", "icons": {"48": "icon.png", "128": "icon.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["content.js"], "css": ["styles.css"]}]}

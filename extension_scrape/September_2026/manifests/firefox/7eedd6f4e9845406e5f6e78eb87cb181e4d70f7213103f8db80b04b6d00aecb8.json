@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Color by Keyword", "version": "1.0", "description": "\u0110\u1ed5i m\u00e0u n\u1ec1n tab theo t\u1eeb kh\u00f3a trong ti\u00eau \u0111\u1ec1.", "permissions": ["tabs", "theme"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "tab_color_by_keyword@example.com"}}}

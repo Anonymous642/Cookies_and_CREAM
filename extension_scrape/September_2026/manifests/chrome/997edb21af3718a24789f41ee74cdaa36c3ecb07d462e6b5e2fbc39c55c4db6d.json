@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Timer", "description": "Keep track of your activities", "version": "1.0", "icons": {"16": "timer.png", "48": "timer.png", "128": "timer.png"}, "action": {"default_popup": "popup.html", "default_icon": "timer.png", "default_title": "Timer"}}

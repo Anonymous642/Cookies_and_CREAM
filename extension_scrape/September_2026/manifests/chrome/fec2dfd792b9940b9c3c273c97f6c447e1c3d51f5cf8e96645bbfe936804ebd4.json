@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Warm Reminder Remover", "version": "1.1", "description": "Naprawia adres URL cnfans.com i usuwa element modalny.", "icons": {"128": "image_resized.png"}, "host_permissions": ["*://*.cnfans.com/*"], "content_scripts": [{"matches": ["*://*.cnfans.com/*"], "js": ["script.js"]}]}

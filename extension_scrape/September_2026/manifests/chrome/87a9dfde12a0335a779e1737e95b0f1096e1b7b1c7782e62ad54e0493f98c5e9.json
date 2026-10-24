@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Current Time UTC", "description": "Show the current time in utc", "version": "1.1", "action": {"default_popup": "time.html", "default_icon": "icon.png"}}

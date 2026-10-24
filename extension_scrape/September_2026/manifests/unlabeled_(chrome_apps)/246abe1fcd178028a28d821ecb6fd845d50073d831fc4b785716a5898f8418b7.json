@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"launch": {"web_url": "http://www.medioznawca.com"}}, "description": "medioznawca.com", "icons": {"24": "24.png", "32": "32.png", "48": "48.png", "64": "64.png", "128": "128.png"}, "manifest_version": 2, "name": "medioznawca.com", "version": "0.1"}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CNH tab", "version": "1.1", "description": "CNH on new tab", "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{3e2f3abf-9dc4-4c6b-90d4-a3ba8dd2c9a7}"}}}

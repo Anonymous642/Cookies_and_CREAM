@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Smile Anytime", "version": "1.0", "description": "Helps you to make sure you're always using Amazon Smile :)", "content_scripts": [{"matches": ["*://amazon.com/*", "*://www.amazon.com/*"], "js": ["smile.js"]}]}

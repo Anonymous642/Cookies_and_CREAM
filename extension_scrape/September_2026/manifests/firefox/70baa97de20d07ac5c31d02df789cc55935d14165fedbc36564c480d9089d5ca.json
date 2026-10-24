@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Grok, is this true?", "version": "0.1", "description": "Asks Grok", "permissions": ["tabs", "contextMenus", "https://x.com/*"], "browser_specific_settings": {"gecko": {"id": "grok-is-true@inz-998", "data_collection_permissions": {"required": ["none"]}}}, "background": {"scripts": ["background.js"]}, "icons": {"48": "logo.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SvelteKit Detector", "version": "1.0", "description": "Displays whether SvelteKit is present on the current web page.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content_script.js"]}], "browser_action": {"default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{f315a556-f46c-496b-81ff-575fa9c94a32}"}}}

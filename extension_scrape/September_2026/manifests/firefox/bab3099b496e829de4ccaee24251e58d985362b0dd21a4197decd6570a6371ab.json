@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "KZT to UAH Converter", "version": "1.0", "description": "Convert Kazakhstani Tenge (KZT) to Ukrainian Hryvnia (UAH).", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/"], "browser_specific_settings": {"gecko": {"id": "{b91be63f-1011-40ed-a300-96397c1f4894}"}}}

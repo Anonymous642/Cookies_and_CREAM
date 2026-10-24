@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Image Blur Toggle", "version": "1.0", "description": "Blur all images until hovered to reduce distraction or hide sensitive content.", "permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["blur.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "imageblurtoggle@example.com"}}}

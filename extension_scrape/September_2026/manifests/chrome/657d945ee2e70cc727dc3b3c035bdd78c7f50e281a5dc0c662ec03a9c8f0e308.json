@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.5", "name": "Saved Links Manager", "description": "This extension saves your fav links to download them as a '.txt' file", "author": "hulls.reach-0p@icloud.com", "action": {"default_popup": "index.html", "default_icon": "img/icon-512x512.png"}, "permissions": ["tabs"]}

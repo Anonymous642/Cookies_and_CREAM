@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "outils_de_fred", "version": "1.2", "description": "Ensemble d'outils pour firefox.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.leboncoin.fr/*"], "js": ["masquer_vendu_V2.js"]}], "browser_specific_settings": {"gecko": {"id": "{f2a0611e-167b-4050-9659-a9d92a92db80}"}}}

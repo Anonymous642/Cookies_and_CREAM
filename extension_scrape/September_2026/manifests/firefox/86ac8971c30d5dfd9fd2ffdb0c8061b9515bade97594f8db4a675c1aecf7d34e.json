@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Humans.txt Injector", "version": "1.0", "description": "Injects a humans.txt file into the webpage.", "permissions": ["tabs", "activeTab"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "humans_txt_injector_extension@gmail.com"}}}

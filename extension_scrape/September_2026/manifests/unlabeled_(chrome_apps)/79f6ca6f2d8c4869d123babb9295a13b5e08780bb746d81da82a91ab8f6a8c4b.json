@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "FusionHit", "description": "Software outsourcing to Costa Rica", "version": "1.0", "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.fusionhit.com/"], "launch": {"web_url": "http://www.fusionhit.com/"}}, "permissions": ["unlimitedStorage", "notifications"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Imgkk.com Remote Upload", "version": "2.1resigned1", "description": "Quickly and easily remote upload images to imgkk.com", "permissions": ["contextMenus"], "background": {"scripts": ["imgkk.js"]}, "browser_specific_settings": {"gecko": {"id": "{35d94d9f-bf30-4ab1-9412-9fe0c860cb42}"}}}

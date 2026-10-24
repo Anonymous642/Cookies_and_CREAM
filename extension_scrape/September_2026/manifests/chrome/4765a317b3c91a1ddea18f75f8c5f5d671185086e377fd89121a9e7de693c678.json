@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DMARC Check", "version": "1.0", "description": "Check DMARC status for the current domain", "permissions": ["activeTab"], "background": {"service_worker": "background.js"}, "action": {"default_icon": {"32": "dmarcdkim32.png", "48": "dmarcdkim48.png", "128": "dmarcdkim128.png"}}}

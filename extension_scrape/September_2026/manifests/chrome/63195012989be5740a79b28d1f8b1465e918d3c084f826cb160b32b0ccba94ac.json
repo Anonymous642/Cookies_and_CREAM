@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cool Acronym Maker", "description": "Generate fun and creative phrases from acronyms.", "version": "1.0", "action": {"default_popup": "popup.html", "default_title": "Acronym Generator"}, "icons": {"128": "icon128.png"}}

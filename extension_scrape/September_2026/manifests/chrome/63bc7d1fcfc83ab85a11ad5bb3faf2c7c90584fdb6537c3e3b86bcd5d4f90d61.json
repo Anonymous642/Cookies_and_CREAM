@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute Night Mode Popup", "version": "1.0.0", "description": "A cute animal-themed popup with a simple day/night mode toggle.", "action": {"default_title": "Night Mode", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

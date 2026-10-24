@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "KMF to PYG Converter", "version": "1.0", "description": "Convert Comoros Franc (KMF) to Paraguay Guarani (PYG).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert KMF to PYG"}, "browser_specific_settings": {"gecko": {"id": "{3a22cbf3-651c-43a0-b10b-9b01f80c6611}"}}}

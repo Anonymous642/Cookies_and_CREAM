@@ -1,0 +1,1 @@
+{"name": "Outdoor basketabll", "description": "this extension is about website of electric smokers.", "version": "0.0.0.1", "background": {"scripts": ["background.js"], "persistent": false}, "permissions": [], "browser_action": {}, "manifest_version": 2, "icons": {"128": "logo.png"}}

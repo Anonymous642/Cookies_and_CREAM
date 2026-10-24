@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AddOn - PontoNow", "version": "1.0", "description": "Adiciona um contador de tempo faltante para o PontoNow.", "author": "Calmf", "permissions": ["https://app.pontonow.com.br/"], "icons": {"48": "icons/bug-48.png"}, "content_scripts": [{"matches": ["*://app.pontonow.com.br/*"], "js": ["addonponto.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Broken Link Finder", "version": "1.0", "description": "Find broken links on the current page.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{a452851e-b62e-46dd-bd70-243fae8457f9}"}}}

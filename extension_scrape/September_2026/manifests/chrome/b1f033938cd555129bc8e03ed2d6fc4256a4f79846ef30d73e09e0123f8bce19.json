@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Fast Read: Hide Images", "version": "1.0.0", "description": "Toggle hiding images on the current page to read faster.", "action": {"default_title": "Hide Images", "default_popup": "popup.html"}, "permissions": ["activeTab", "scripting"], "icons": {"128": "icon128.png"}}

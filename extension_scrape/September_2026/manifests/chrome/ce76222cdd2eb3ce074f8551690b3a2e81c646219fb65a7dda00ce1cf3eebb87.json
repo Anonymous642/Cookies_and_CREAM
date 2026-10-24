@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Reopen closed tab", "description": "Reopen closed tab", "version": "1.0", "manifest_version": 3, "icons": {"16": "icons/reload1.png", "32": "icons/reload2.png", "128": "icons/reload3.png"}, "action": {}, "permissions": ["sessions", "contextMenus"], "background": {"service_worker": "background.js"}}

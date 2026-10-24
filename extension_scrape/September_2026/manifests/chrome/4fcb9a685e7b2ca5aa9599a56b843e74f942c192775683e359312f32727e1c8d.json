@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Multi Goal Focus", "version": "1.2", "description": "A simple new tab extension to manage multiple editable goals.", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ff-redirect", "version": "1.2", "description": "redirect pages to another hostname", "content_scripts": [{"run_at": "document_start", "matches": ["*://www.reddit.com/*"], "js": ["ff-redirect.js"]}], "browser_specific_settings": {"gecko": {"id": "{aa651017-5810-43fd-b6fe-f222efb84b18}"}}}

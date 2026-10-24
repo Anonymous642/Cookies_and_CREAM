@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"urls": ["http://www.miniokey.com/"], "launch": {"web_url": "http://www.miniokey.com/"}}, "name": "miniOKEY", "description": "Okey, 101, Batak, flash games", "manifest_version": 2, "version": "1.0", "icons": {"128": "icon_128.png"}}

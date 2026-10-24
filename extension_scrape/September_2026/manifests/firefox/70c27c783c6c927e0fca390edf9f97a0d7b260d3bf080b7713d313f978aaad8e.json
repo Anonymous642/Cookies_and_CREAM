@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Onleihe 3 LCPL Export", "version": "1.4", "permissions": ["activeTab", "scripting", "notifications"], "action": {"default_title": "Onleihe 3 LCPL Export"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "downloadlcp@lukas", "data_collection_permissions": {"required": ["none"]}}}}

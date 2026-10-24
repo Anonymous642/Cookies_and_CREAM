@@ -1,0 +1,1 @@
+{"name": "The Harmony of Life and Machine", "description": "Shows an image of a cat sleeping next to a robot", "manifest_version": 2, "version": "1.0", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{731c61ef-bcd3-48d3-9717-57184858d0dd}"}}}

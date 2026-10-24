@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Clock APP", "manifest_version": 3, "version": "0.0.0.1", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"64": "logo.png"}, "description": "This is a simple clock app that shows the seconds and allows you to switch between 12 and 24hr mode."}

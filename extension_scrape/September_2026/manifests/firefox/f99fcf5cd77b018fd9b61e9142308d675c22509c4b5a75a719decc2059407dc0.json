@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FuckZN", "version": "1.2resigned1", "description": "Make GDZ Great Again", "content_scripts": [{"matches": ["*://znanija.com/*"], "js": ["fuckzn.js"]}], "browser_specific_settings": {"gecko": {"id": "{e78656c5-dc6b-407d-860c-3573c4a922f5}"}}}

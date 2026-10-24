@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hello World \uc775\uc2a4\ud150\uc158", "version": "1.0", "description": "\uac04\ub2e8\ud55c Hello World \ud06c\ub86c \uc775\uc2a4\ud150\uc158", "action": {"default_popup": "popup.html"}}

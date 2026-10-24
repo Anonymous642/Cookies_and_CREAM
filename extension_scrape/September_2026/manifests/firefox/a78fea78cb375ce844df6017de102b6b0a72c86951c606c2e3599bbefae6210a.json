@@ -1,0 +1,1 @@
+{"description": "", "manifest_version": 2, "name": "Start", "version": "1.1resigned1", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["start.js"]}], "browser_specific_settings": {"gecko": {"id": "{825a979c-92e9-46f4-b71d-b3827f926a99}"}}}

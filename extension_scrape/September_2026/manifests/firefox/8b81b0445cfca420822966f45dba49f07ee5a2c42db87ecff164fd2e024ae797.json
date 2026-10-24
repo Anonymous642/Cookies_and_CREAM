@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "De-Grokify", "version": "1.0", "description": "Removes the Grok button alongside useless stuff from the sidebars.", "icons": {"48": "icons/twitter.png"}, "content_scripts": [{"matches": ["*://*.x.com/*"], "js": ["de-grok.js"]}], "browser_specific_settings": {"gecko": {"id": "{46ab6d38-dacc-4f53-b9d3-854c2389a8a1}"}}}

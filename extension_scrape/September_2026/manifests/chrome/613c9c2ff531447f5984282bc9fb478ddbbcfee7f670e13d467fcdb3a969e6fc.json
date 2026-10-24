@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Export Quiz Results", "version": "1.2", "description": "Plugin to export quiz results from a specific website.", "permissions": ["activeTab", "scripting"], "host_permissions": ["https://lms9.poly.edu.vn/*"], "action": {"default_popup": "popup.html"}}

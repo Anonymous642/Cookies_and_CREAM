@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://www.winweb.com/online-disk/"], "launch": {"web_url": "http://www.winweb.com/online-disk/"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "WinWeb Online Disk - Share and secure your data", "name": "WinWeb Online Disk", "icons": {"16": "ww-16x16.png", "128": "ww-128x128.png"}, "manifest_version": 2, "version": "1.2"}

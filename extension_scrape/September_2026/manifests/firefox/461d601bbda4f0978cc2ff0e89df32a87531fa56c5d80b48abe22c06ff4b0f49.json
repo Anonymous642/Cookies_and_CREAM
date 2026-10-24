@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PGK to MUR Converter", "version": "1.0", "description": "Convert Papua New Guinean Kina (PGK) to Mauritian Rupee (MUR).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert PGK to MUR"}, "browser_specific_settings": {"gecko": {"id": "{cacb7345-7fe3-4a0b-8b9a-714c265b973a}"}}}

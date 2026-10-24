@@ -1,0 +1,70 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+    "manifest_version": 3,
+    "name": "Community TL;DR",
+    "version": "1.1.4",
+    "description": "AI-powered community discussion summarizer",
+    
+    "icons": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    },
+  
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icons/icon16.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+      }
+    },
+  
+    "options_page": "options.html",
+  
+    "permissions": [
+      "storage",
+      "activeTab"
+    ],
+  
+    "host_permissions": [
+      "https://news.ycombinator.com/*",
+      "*://*.reddit.com/*",
+      "*://*.quora.com/*",
+      "https://api.openai.com/*",
+      "https://api.anthropic.com/*",
+      "https://*.workers.dev/*"
+    ],
+  
+    "content_scripts": [
+      {
+        "matches": [
+          "https://news.ycombinator.com/*",
+          "https://*.reddit.com/*",
+          "*://*.quora.com/*"
+        ],
+        "js": ["content.js"],
+        "css": [
+          "styles/content.css",
+          "styles/hn.css",
+          "styles/reddit.css",
+          "styles/quora.css"
+        ]
+      }
+    ],
+  
+    "background": {
+      "service_worker": "background.js",
+      "type": "module"
+    },
+  
+    "web_accessible_resources": [{
+      "resources": ["styles/*", "icons/*"],
+      "matches": [
+        "https://news.ycombinator.com/*",
+        "https://*.reddit.com/*",
+        "*://*.quora.com/*"
+      ]
+    }]
+  }

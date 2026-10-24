@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "LastFly", "description": "El mejor juego de aviones tras 1943", "version": "1.0.0.1", "manifest_version": 2, "icons": {"128": "B_N_opt (3).png"}, "app": {"urls": ["http://lastfly.weebly.com/jugar.html"], "launch": {"web_url": "http://lastfly.weebly.com/jugar.html"}}}

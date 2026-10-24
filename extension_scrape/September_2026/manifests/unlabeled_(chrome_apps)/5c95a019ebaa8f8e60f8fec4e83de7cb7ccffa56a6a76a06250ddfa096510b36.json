@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Betajobs", "description": "Ofertas de empleo para desarrolladores", "version": "4", "app": {"urls": ["http://betabeers.com/post/"], "launch": {"web_url": "http://betabeers.com/post/"}}, "icons": {"128": "icon_128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

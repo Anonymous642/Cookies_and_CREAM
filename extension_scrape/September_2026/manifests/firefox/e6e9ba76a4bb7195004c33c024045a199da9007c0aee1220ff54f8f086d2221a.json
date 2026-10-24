@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Wikipedia Dark Mode", "version": "1.0", "description": "Automatically appends ?withgadget=dark-mode to Wikipedia URLs to enable dark mode.", "background": {"scripts": ["background.js"]}, "permissions": ["webRequest", "webRequestBlocking", "*://*.wikipedia.org/*"], "applications": {"gecko": {"id": "dennis.leikauf@gmail.com"}}}

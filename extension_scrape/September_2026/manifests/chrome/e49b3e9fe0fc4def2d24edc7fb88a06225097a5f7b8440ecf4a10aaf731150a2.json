@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Viewport Resizer", "version": "1.0", "description": "Resize browser window to preset viewport sizes.", "permissions": [], "action": {"default_popup": "popup.html"}, "icons": {}}

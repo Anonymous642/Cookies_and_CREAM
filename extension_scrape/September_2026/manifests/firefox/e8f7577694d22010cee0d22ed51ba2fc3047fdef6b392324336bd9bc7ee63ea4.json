@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Adjustable Line Height", "version": "1.0", "description": "Increase line spacing for clarity.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_title": "Adjustable Line Height", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{dbf7008d-6e86-4180-ab0b-fd2ee136c7b0}"}}}

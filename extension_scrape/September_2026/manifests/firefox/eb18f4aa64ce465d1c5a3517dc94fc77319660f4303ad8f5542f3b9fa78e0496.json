@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Chess.by", "version": "1.0", "description": "Fixes Belarusian flags on chess.com", "icons": {"48": "icons/Flag_of_Belarus.svg"}, "content_scripts": [{"matches": ["*://*.chess.com/*"], "js": ["chessby.js"]}], "browser_specific_settings": {"gecko": {"id": "{666d33ef-1a57-492e-a759-2db59b55a11f}"}}}

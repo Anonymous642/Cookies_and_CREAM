@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Fanbox Webtoon Viewer", "description": "Viewer for webtoon style contents in patreon", "version": "0.1", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}, "manifest_version": 3, "action": {"default_title": "Webtoon Viewer", "default_popup": "popup.html"}}

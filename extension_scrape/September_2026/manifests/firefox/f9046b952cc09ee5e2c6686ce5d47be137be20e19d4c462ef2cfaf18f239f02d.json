@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Spiceworks remove margin", "version": "1.1resigned1", "description": "Removes the side margin on the spiceworks ticket center.", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://hjalp.tskoli.is/*"], "js": ["screenfill.js"]}], "browser_specific_settings": {"gecko": {"id": "{062ca5a6-096d-409d-9d7a-e0dd116648d3}"}}}

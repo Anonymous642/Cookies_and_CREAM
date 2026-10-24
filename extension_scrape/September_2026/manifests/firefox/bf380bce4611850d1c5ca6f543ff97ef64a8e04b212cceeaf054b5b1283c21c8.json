@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Chonky Tabs", "description": "Give your Firefox a bold new look with oversized, squared-off tabs \u2014 perfect for developers who like things neat, chunky, and unapologetically geometric", "version": "0.0.1", "icons": {"64": "icons/icon.png"}, "browser_specific_settings": {"gecko": {"id": "{4b414b92-1eda-4530-8966-e4bac58c9994}"}}}

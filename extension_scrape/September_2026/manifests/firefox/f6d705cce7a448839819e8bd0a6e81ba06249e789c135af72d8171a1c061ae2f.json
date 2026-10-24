@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitter-guest", "version": "1.0", "description": "Hides the bottom login bar on Twitter.", "content_scripts": [{"matches": ["*://twitter.com/*"], "js": ["app.js"]}], "browser_specific_settings": {"gecko": {"id": "{55f10a5e-384c-4afa-ae8e-79a7f2dc75fe}"}}}

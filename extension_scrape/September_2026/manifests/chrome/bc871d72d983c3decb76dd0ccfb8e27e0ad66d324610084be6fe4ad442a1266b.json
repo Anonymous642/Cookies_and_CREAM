@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Seasonal Happiness", "description": "24 Solar Terms Notification.", "version": "1.4", "action": {"default_popup": "popup.html", "default_icon": "icons/\uc785\ub3d9.png"}, "background": {"service_worker": "background.js", "type": "module"}}

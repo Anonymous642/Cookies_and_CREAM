@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Troopump", "description": "Make the news readable again.", "version": "1.1resigned1", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{3a076a01-b973-4208-aa4a-e4d22b94bb1f}"}}}

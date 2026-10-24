@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Infinite Shortcuts", "version": "1.0", "description": "Make your newtab a home for all your bookmarks and important links with a screenful of shortcuts!", "icons": {"128": "icons/icon128.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}}

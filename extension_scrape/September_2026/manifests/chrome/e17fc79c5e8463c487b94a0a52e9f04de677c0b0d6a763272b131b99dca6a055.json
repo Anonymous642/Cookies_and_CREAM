@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Plastic", "version": "1.2.0", "description": "Overlay reference images on pixel art websites like r/place", "permissions": ["activeTab", "storage", "scripting"], "action": {"default_popup": "popup.html", "default_title": "Plastic"}}

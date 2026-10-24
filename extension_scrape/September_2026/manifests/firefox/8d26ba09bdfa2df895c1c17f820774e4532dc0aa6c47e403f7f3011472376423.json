@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SUSHI DAPPS", "version": "1.9.0", "description": "SUSHI DAPPS and Crypto Realtime Prices, Swap and More", "icons": {"128": "assets/icon/sushismall.png"}, "browser_action": {"default_icon": "assets/icon/sushismall.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{1c134655-4d6a-4e0d-b901-0a803a538b5f}"}}}

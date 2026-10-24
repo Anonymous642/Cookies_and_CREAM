@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BetterCF", "version": "0.1.2resigned1", "description": "Improves UI of CurseForge and adds additional features.", "icons": {"48": "images/48.png"}, "content_scripts": [{"matches": ["*://*.curseforge.com/projects/*/files/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{92cea7c5-6779-4e47-9c5f-fcf1c0137eab}"}}}

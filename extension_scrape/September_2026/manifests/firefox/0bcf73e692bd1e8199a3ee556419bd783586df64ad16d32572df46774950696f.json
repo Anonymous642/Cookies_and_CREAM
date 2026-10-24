@@ -1,0 +1,1 @@
+{"name": "Merdella Auto Correct", "version": "0.5", "manifest_version": 2, "description": "Ce qui se passe \u00e0 Tolbiac reste \u00e0 Tolbiac, ou pas", "icons": {"128": "128.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["js/correct.js"]}], "browser_specific_settings": {"gecko": {"id": "{456f91b2-be9e-4297-b55b-12941d8b3051}"}}}

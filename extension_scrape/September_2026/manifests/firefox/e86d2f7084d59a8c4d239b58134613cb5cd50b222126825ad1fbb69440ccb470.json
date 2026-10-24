@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitter Cards Injector", "version": "1.0", "description": "Injects Twitter Cards metadata into the webpage for better sharing on Twitter.", "permissions": ["tabs", "activeTab"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "twitter_cards_injector_extension@gmail.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Mahjong Solitaire", "description": "Mahjong Solitaire game with 300 levels, highscores and a level editor.", "version": "5.0.0.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.mahjonged.com/"], "launch": {"web_url": "http://www.mahjonged.com/"}}}

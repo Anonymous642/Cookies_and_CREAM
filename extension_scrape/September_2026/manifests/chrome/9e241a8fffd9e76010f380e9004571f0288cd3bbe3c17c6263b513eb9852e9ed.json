@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Dev Convert", "description": "\u5f00\u53d1\u8005\u8f6c\u5316\u5de5\u5177", "version": "1.0.0", "manifest_version": 3, "permissions": [], "action": {"default_title": "Dev Convert", "default_popup": "index.html", "default_icon": "dev.png"}}

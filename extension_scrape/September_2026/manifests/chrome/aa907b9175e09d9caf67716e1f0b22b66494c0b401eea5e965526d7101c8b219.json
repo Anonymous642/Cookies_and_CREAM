@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Palette Picker", "version": "1.0.0", "description": "Pick colors from any page and save palettes locally.", "permissions": ["activeTab", "storage", "scripting"], "action": {"default_popup": "popup.html"}}

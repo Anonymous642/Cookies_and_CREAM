@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "PriceWise", "version": "1.0", "description": "Compare prices, save money.", "action": {"default_popup": "popup.html", "default_icon": "pricewise.png"}, "icons": {"128": "pricewise.png"}, "browser_specific_settings": {"gecko": {"id": "luzvimindasevp537871@hotmail.com"}}}

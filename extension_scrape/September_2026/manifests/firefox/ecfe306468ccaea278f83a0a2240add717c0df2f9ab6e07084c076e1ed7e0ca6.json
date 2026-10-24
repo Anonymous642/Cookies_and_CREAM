@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TZS to MGA Converter", "version": "1.0", "description": "Convert Tanzanian Shilling (TZS) to Malagasy Ariary (MGA).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert TZS to MGA"}, "browser_specific_settings": {"gecko": {"id": "{a966e0c4-e512-4e4d-922e-b161d75a90fe}"}}}

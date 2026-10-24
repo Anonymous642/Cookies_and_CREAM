@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SEO Meta Preview Tool", "version": "1.1", "description": "Modern SEO meta title & description preview with Google-style UI.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

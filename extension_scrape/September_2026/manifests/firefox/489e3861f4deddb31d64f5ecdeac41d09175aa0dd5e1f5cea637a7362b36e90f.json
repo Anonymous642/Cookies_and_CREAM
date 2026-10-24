@@ -1,0 +1,1 @@
+{"description": "minimize current window. Useful for navigating without navbar", "manifest_version": 2, "name": "minimize window", "version": "1.0", "background": {"scripts": ["minimize.js"]}, "browser_action": {"default_icon": {"16": "icons/minimize.png", "32": "icons/minimize.png"}}}

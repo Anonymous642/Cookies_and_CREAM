@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "wiwo_banner_remove", "version": "1.0", "description": "Removes the adblock banner from wiwo.de", "icons": {}, "content_scripts": [{"matches": ["*://*.wiwo.de/*"], "js": ["wiwo_banner_remove.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Slash & Search", "description": "Automatically enables direct input to search input field using forward search", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "index.html", "default_icon": "slash.png"}, "content_scripts": [{"js": ["script.js"], "matches": ["https://*/*"]}]}

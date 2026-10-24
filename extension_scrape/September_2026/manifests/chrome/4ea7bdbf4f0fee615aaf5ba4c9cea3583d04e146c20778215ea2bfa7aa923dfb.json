@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MOTP", "author": "KuoAnn", "version": "1.0.0", "description": "Generate MOTP for authorization", "icons": {"128": "images/icon128.png"}, "action": {"default_popup": "index.html"}}

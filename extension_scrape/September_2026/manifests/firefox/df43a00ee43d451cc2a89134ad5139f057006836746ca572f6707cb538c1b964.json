@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WhatsApp Masker", "description": "Hides WhatsApp Web messages until hovered.", "version": "1.0", "browser_specific_settings": {"gecko": {"id": "whatsapp-masker@mehdi", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"matches": ["*://web.whatsapp.com/*"], "css": ["mask.css"], "js": ["mask.js"]}]}

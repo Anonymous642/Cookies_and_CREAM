@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Motivation", "version": "1.0", "description": "Get inspired with motivational quotes every time you click!", "action": {"default_popup": "popup.html", "default_title": "Daily Motivation"}, "permissions": []}

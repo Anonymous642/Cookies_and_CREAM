@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Link Text Copier", "version": "1.0", "description": "Copy the text of any link on a page with a right-click.", "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "link-text-copier@example.com"}}}

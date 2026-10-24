@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Switch to Pinned Tab", "description": "Automatically switch to the first pinned tab after opening a new tab.", "version": "1.0", "permissions": ["tabs"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{1b2c457d-cf68-4776-bcef-2db276bb9c56}"}}}

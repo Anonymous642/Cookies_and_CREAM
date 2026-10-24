@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.0.2", "manifest_version": 3, "name": "Oracle CPQ Inspector", "description": "Oracle CPQ Inspector", "action": {"default_popup": "js/index.html", "default_title": "Oracle CPQ Inspector"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{CA0C1FB5-2A63-406E-A23E-43A834549329}"}}}

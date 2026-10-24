@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Random Color Picker", "version": "1.0", "description": "Click to generate a random color and get its HEX code.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

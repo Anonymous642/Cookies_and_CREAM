@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CLP to COP Converter", "version": "1.0", "description": "Convert Chilean Peso (CLP) to Colombian Peso (COP).", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/"], "browser_specific_settings": {"gecko": {"id": "{a5311013-6343-4b2b-856b-8dbe6c3e4e86}"}}}

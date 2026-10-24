@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Rank Oferta - Extens\u00e3o de Temas", "version": "1.0", "description": "Nova guia com temas exclusivos, frases inspiradoras e bot\u00f5es r\u00e1pidos da Rank Oferta.", "icons": {"48": "imagens/logo.png", "128": "imagens/logo.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}}

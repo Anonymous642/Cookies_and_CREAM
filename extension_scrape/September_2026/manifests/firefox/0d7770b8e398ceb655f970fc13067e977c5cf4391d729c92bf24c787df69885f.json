@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bookmark Manager", "version": "3.0", "permissions": ["storage", "activeTab", "tabs"], "browser_action": {"default_popup": "popup.html", "default_title": "Bookmark Manager"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "bookmark-manager@example.com"}}}

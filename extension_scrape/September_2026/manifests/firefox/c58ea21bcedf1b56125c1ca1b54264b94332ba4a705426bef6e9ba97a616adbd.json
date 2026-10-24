@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Leg Warmers", "version": "1.0", "description": "Official quick access tool for YourBrand. Visit https://leg-warmers.co.uk for full features.", "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "contact@leg-warmers.co.uk", "data_collection_permissions": {"required": ["none"]}}}}

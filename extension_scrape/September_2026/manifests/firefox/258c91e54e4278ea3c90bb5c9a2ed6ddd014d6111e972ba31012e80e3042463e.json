@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove Hotstar Watermark", "version": "1.0", "description": "Removes the Hotstar watermark from videos.", "icons": {"48": "icons/hotstar-logo-cross-48.png"}, "content_scripts": [{"matches": ["*://*.hotstar.com/*"], "js": ["remove_hotstar_watermark.js"]}], "browser_specific_settings": {"gecko": {"id": "{47c6876d-25ac-4df9-92de-9f0664f8fee3}"}}}

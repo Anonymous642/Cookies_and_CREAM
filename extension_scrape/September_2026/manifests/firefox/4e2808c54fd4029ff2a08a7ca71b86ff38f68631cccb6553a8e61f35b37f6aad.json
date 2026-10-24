@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Google Meet Customization", "version": "1.1", "description": "Customize Google Meet settings like camera and audio.", "permissions": ["storage"], "content_scripts": [{"matches": ["*://meet.google.com/*"], "js": ["main.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "google_meet_customization@spacemason.com"}}}

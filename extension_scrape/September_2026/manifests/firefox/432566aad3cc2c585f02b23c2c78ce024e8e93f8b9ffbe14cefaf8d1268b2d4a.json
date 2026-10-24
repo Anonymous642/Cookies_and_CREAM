@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Daily Goal Checker", "version": "1.0", "description": "A simple popup to check off your daily goals and track progress.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage"], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{3da87a7a-0d7c-4e1d-8af5-6da5a0bb242a}"}}}

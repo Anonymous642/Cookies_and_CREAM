@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Lil' Name Dropper - Rap Generator", "version": "1.0.0", "description": "Generate hilarious, random, and completely fake rap artist names for you and your friends.", "action": {"default_popup": "popup.html", "default_title": "Get a Rap Name"}, "icons": {"128": "icon128.png"}}

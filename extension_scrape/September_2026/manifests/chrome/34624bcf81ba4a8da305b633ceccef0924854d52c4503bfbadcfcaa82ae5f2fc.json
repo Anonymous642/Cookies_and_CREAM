@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hide Moohan", "version": "1.0", "description": "Dont see you tomorrow, Moohan!", "content_scripts": [{"matches": ["https://www.gachon.ac.kr/*"], "css": ["styles.css"]}], "action": {"default_icon": {"16": "logo.png", "48": "logo.png", "128": "logo.png"}}}

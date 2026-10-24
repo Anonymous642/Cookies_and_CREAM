@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "<img src=x onerror=alert(1)>", "version": "1.0", "description": "Short XSS", "browser_specific_settings": {"gecko": {"id": "xss-test-final@example.com"}}}

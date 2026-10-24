@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Spreadder", "version": "1.0", "applications": {"gecko": {"id": "spreadder@ionllc.rf.gd"}}, "icons": {"48": "spreadder.png"}, "browser_action": {"default_title": "Spreadder", "default_popup": "popup.html"}}

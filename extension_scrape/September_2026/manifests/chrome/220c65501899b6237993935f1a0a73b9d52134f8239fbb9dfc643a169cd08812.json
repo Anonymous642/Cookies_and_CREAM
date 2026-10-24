@@ -1,0 +1,38 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "name": "PreConsent - Pre-Consent Tracking Scanner &amp; GDPR Compliance Auditor",
+  "description": "Check any website's privacy compliance score instantly. See GDPR/cookie violations, trackers, and fingerprinting at a glance.",
+  "version": "1.0.0",
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://ludyukrwtraogoykpker.supabase.co/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "PreConsent Compliance Check"
+  },
+  "background": {
+    "service_worker": "background.js",
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "icons": {
+    "16": "logo-single-16.png",
+    "32": "logo-single-32.png",
+    "48": "logo-single-48.png",
+    "128": "logo-single-128.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "preconsent@preconsent.io",
+      "strict_min_version": "109.0"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Runner", "version": "1.0", "description": "Mini game ch\u1ea1y b\u1ed9 khi m\u1edf tab m\u1edbi", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "tabrunner@example.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Crypto DCA Profit Calculator", "version": "1.0", "description": "Quickly calculate your Dollar Cost Averaging (DCA) strategy, accumulated tokens, and projected returns.", "action": {"default_popup": "popup.html", "default_title": "Open Calculator"}, "icons": {"128": "icon.png"}}

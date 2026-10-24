@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "QuickNotes", "version": "0.0.2", "description": "Quick notes linked to the URL visited.", "permissions": ["tabs"], "action": {"default_popup": "popup.html"}, "options_page": "options.html", "icons": {"16": "128.png", "48": "128.png", "128": "128.png"}, "browser_specific_settings": {"gecko": {"id": "quicknote@vannai.re"}}}

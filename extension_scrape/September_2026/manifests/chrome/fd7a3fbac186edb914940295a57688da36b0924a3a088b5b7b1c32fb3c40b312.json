@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Timestamp Formatter", "version": "1.0.1", "description": "Appends formatted date to timestamp named files in S3 UI.", "content_scripts": [{"matches": ["https://*.console.aws.amazon.com/s3/buckets/**"], "js": ["content.js"], "css": ["content.css"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Find Missing Number", "version": "1.0", "description": "Tr\u00f2 ch\u01a1i t\u00ecm s\u1ed1 b\u1ecb thi\u1ebfu trong d\u00e3y s\u1ed1.", "permissions": ["storage"], "browser_action": {"default_popup": "index.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{77844193-7239-4299-9ea5-5b7ea45c830a}"}}}

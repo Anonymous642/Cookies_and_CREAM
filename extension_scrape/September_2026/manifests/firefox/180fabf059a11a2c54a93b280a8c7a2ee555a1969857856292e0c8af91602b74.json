@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RUB to TRY Converter", "version": "1.0", "description": "Convert Russian Ruble to Turkish Lira.", "permissions": ["activeTab", "https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{66c815be-9524-4660-87b2-4a090eb5677e}"}}}

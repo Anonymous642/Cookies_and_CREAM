@@ -1,0 +1,1 @@
+{"name": "MA Full Screen2", "description": "A fullscreen add-on", "manifest_version": 2, "version": "1.0.2resigned1", "icons": {"32": "icon/icon32.png", "64": "icon/icon64.png"}, "author": "MicroAd Inc.", "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{9d3e517e-8e57-4afe-a77c-5204883101ed}"}}}

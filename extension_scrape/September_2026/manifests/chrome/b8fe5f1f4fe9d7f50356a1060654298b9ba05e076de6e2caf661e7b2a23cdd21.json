@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Character Name Generator", "description": "Generate random fictional character names inspired by anime and classic stories.", "version": "1.0", "action": {"default_popup": "popup.html", "default_title": "Name Generator"}, "icons": {"128": "icon128.png"}}

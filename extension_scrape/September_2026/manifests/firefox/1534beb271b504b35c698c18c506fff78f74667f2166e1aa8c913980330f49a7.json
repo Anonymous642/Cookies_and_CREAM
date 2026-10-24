@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Nouvel onglet PG", "version": "0.0.1", "description": "Change l'ouverture des services dans un nouvel onglet par d\u00e9faut", "content_scripts": [{"matches": ["*://reseau.cemea.org/*", "*://zourit.net/*", "*://zourit.beta.mithril.re/*"], "js": ["zourit-new-tab.js"]}], "browser_specific_settings": {"gecko": {"id": "new-tab@glorf.fr"}}}

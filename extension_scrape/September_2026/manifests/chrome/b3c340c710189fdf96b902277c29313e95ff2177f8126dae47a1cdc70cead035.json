@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Black Tab Zen \u2013 Empty New Tab in Pure Black", "short_name": "Black Empty Tab", "description": "Open new tabs to nothing but pure black.", "version": "2.0", "manifest_version": 3, "chrome_url_overrides": {"newtab": "ntp.html"}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

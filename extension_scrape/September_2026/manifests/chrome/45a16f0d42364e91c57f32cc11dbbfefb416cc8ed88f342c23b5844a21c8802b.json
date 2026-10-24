@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Badge Notifications for Gmail PWA", "version": "1.2", "description": "A tool to add a pending notification app badge (tested on Chrome OS)", "content_scripts": [{"matches": ["https://mail.google.com/*"], "js": ["content-script.js"]}], "icons": {"128": "images/icon128.png"}}

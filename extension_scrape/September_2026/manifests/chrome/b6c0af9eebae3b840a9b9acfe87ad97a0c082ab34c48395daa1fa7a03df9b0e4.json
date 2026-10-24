@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MiraMeTV Live", "version": "1.0", "description": "Accede directamente a MiraMeTV.Live desde tu navegador", "background": {"service_worker": "background.js"}, "action": {"default_icon": "icon.png", "default_title": "Abrir MiraMeTV Live"}, "icons": {"128": "icon.png"}}

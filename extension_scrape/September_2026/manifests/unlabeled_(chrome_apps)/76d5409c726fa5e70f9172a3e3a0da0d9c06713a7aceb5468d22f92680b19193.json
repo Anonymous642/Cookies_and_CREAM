@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "FireFlow", "description": "Fire Protection Calculations", "version": "1.0", "offline_enabled": true, "permissions": ["storage"], "app": {"background": {"scripts": ["main.js"]}}, "icons": {"16": "logo-16.png", "128": "logo-128.png"}}

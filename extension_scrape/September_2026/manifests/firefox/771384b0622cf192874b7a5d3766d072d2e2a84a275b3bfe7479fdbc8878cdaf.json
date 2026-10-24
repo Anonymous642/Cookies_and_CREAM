@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dark Mode", "version": "1.0", "description": "Enable dark mode for web pages", "permissions": ["activeTab"], "browser_action": {"default_title": "Dark Mode"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{01d968a6-24b8-42a6-abcf-f2b0db5c8e51}"}}}

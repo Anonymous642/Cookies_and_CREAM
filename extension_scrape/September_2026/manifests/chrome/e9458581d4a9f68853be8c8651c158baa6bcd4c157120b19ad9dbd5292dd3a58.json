@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "RESOV Outlook Mail Tool", "version": "1.5", "permissions": ["storage"], "web_accessible_resources": [{"resources": ["settings.html", "settings.js"], "matches": ["<all_urls>"]}], "content_scripts": [{"matches": ["https://resov.dcraft.dig.toyota/*"], "js": ["content.js"]}]}

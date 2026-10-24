@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "QuickCalc", "version": "2.0", "description": "A sleek, modern calculator extension for your browser, offering a clean interface for all your basic calculations.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "nishchal@quickcalc.com"}}}

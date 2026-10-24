@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Scroll to Top", "version": "1.0", "description": "Automatically scroll to the top of the page.", "permissions": ["activeTab", "contextMenus"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{7a835338-7013-49d5-ae65-273419a4b588}"}}}

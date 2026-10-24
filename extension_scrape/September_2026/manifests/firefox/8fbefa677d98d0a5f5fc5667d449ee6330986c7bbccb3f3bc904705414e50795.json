@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ChartInk to TradingView Redirector", "version": "0.2", "description": "Redirects ChartInk stock links to TradingView", "permissions": ["https://chartink.com/*"], "content_scripts": [{"matches": ["https://chartink.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{f190d7d1-fd70-4979-abed-511fd0a3998b}"}}}

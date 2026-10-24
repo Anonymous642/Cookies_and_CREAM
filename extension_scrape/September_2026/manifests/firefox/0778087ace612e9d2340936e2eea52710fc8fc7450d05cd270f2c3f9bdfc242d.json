@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "wow-dpi", "version": "1.3resigned1", "description": "Wow such DPI much blacklist very 1984", "permissions": ["webRequest", "webRequestBlocking", "http://*/*"], "background": {"scripts": ["wowdpi.js"]}, "browser_specific_settings": {"gecko": {"id": "{c7d62576-7545-4d59-9732-bb942b29e397}"}}}

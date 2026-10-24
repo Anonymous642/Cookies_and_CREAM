@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "copyElementText", "version": "1.0", "description": "Adds a menu item to the context menu, which will copy an element's text content.", "permissions": ["contextMenus", "clipboardWrite"], "background": {"scripts": ["index.js"]}, "content_scripts": [{"matches": ["*://*/*"], "js": ["front.js"]}]}

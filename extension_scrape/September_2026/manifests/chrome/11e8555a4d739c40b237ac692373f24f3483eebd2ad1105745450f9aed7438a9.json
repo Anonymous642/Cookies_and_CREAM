@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Clipboard Manager", "description": "manage clipboard text (create, delete)", "version": "1.0.0", "manifest_version": 3, "icons": {"128": "logo.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["static/js/content.js"]}], "permissions": ["storage"], "host_permissions": ["*://*/*"]}

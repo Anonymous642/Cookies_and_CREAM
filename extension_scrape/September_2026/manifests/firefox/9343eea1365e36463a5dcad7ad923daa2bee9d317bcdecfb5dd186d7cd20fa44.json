@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My Extension", "version": "1.0", "description": "Ti\u1ec7n \u00edch m\u1eabu", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["storage", "tabs"], "browser_specific_settings": {"gecko": {"id": "{79560c5f-a499-4406-ab8d-e422f4cb605e}"}}}

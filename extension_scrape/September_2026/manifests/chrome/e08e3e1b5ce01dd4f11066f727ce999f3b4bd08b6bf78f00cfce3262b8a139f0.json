@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Recommendation Blocker", "version": "1.0", "description": "Blocks YouTube recommendations at the end of videos", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"], "run_at": "document_idle"}], "icons": {"48": "endtubelogo.png"}}

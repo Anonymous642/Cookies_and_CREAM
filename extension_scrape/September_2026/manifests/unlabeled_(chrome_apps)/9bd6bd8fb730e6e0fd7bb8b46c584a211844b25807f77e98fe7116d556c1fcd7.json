@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "i\u00da\u010dto", "author": "i\u00da\u010dto", "description": "Chytr\u00e9 online \u00fa\u010detnictv\u00ed", "version": "1.0.2", "manifest_version": 2, "app": {"launch": {"web_url": "https://online.iucto.cz/"}, "urls": ["https://online.iucto.cz/"]}, "icons": {"128": "icon128.png"}}

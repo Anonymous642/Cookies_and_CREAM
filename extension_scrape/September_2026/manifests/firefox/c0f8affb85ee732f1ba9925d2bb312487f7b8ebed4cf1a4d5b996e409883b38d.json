@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Scientific Fact Flash", "version": "1.0", "description": "Show a fun scientific fact each time a new tab is opened.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "browser_action": {"default_title": "Scientific Fact Flash"}, "browser_specific_settings": {"gecko": {"id": "{4fb9586c-9994-44c5-8be9-7c6ef1b803ae}"}}}

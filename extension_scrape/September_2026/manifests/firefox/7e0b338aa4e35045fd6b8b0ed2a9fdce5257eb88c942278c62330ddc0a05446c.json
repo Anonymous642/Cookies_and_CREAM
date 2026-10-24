@@ -1,0 +1,1 @@
+{"name": "CLIMATE CORRECTION", "description": "a climate word correction extension", "version": "1.0", "manifest_version": 2, "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}], "icons": {"16": "earth-16.png"}}

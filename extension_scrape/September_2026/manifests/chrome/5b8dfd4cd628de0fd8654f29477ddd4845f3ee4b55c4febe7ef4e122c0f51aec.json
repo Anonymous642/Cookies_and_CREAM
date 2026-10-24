@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Support Canadian", "version": "1.2.0", "description": "Highlights Canadian products on popular retail sites.", "permissions": ["storage"], "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content-script.js"]}]}

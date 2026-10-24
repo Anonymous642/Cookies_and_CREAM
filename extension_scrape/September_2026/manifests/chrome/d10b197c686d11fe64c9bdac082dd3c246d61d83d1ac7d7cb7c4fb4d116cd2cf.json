@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Haas Schedule Extractor", "version": "1.21", "description": "Extract enrolled Haas course schedules from OLR", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "hello.html", "default_icon": "favicon.png"}}

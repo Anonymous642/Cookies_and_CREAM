@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "enlacesmil", "description": "Noticias, el tiempo y mucho mas", "version": "3", "manifest_version": 2, "icons": {"128": "enlacesmil.png"}, "app": {"urls": ["http://enlacesmil.com/"], "launch": {"web_url": "http://enlacesmil.com/"}}}

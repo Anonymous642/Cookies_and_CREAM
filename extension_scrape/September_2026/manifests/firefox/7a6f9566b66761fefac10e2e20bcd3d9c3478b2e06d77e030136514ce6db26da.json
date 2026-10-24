@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MZN to MNT Converter", "version": "1.0", "description": "Convert Mozambican Metical (MZN) to Mongolian Tugrik (MNT).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert MZN to MNT"}, "browser_specific_settings": {"gecko": {"id": "{639dcfea-251b-4557-82f0-c9cbf5e6a4eb}"}}}

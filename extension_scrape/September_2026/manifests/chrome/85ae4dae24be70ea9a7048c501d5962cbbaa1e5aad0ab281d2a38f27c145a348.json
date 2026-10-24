@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Shlokam", "description": "A calm new tab experience with timeless shlokas, traditional time, and mindful focus.", "version": "1.0.0", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["topSites"], "icons": {"128": "icons/shlokam-128.png"}}

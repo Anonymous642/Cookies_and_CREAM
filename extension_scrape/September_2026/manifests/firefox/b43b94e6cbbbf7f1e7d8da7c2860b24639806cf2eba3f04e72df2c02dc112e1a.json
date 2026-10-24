@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Image Focus Blur", "version": "1.0", "description": "Blur all images on hover except the one under the cursor.", "permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{3a769145-fdf5-4dd5-81bf-df5cf3fe0ad6}"}}}

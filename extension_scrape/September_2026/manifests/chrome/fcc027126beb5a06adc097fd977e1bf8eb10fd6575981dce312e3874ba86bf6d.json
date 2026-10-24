@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PaceMan extension", "description": "Its PaceMan but in a Pop-up you open in any tab by clicking the extension logo", "version": "1.0", "action": {"default_popup": "index.html"}, "icons": {"128": "128.png"}}

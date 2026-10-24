@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Idnes premium blocker", "version": "1.0", "description": "It blocks all premium elements on idnes.cz", "permissions": ["activeTab"], "content_scripts": [{"js": ["scripts/blocker.js"], "matches": ["https://www.idnes.cz/*"]}], "browser_specific_settings": {"gecko": {"id": "{baeb02bf-ee98-46e9-be71-0dc2a821110c}"}}}

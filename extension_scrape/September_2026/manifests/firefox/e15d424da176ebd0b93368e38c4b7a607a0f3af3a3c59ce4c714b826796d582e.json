@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "zeppter", "version": "1.0", "description": "zeppter online book store", "homepage_url": "https://www.zeppter.com/", "icons": {"48": "icons/zeppter.png"}, "browser_action": {"default_icon": {"48": "icons/zeppter.png"}}, "background": {"scripts": ["zeppter.js"]}}

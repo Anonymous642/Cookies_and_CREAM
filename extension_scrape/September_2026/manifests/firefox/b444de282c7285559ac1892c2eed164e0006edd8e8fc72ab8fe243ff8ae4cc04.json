@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Chinese New Tab", "version": "1.1resigned1", "description": "Shows a random Chinese phrase when you open a new tab", "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{41db483f-c7dc-4dc8-838a-8f90ddc31efd}"}}}

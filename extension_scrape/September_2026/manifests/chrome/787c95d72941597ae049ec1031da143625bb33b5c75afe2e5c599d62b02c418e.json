@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Retro Pixel Clicker", "version": "1.0.0", "description": "A quick and fun retro mini-game right in your browser toolbar!", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

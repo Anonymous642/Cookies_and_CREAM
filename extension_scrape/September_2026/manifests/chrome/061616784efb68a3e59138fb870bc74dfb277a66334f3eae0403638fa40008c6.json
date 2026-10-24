@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "NoteThingy", "version": "1.2", "action": {"default_popup": "popup.html"}, "permissions": ["storage", "tabs", "downloads"], "icons": {"48": "images/icon48.png"}}

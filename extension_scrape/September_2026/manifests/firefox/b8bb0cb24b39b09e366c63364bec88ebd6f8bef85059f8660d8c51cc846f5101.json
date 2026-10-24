@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DBDM", "version": "2.0", "description": "D\u00e9gage le bandeau de merde.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["https://auth.univ-lorraine.fr/login*"], "js": ["clean.js"]}], "browser_specific_settings": {"gecko": {"id": "{20d4c377-b978-4f66-8b0f-af6e4c57a548}"}}}

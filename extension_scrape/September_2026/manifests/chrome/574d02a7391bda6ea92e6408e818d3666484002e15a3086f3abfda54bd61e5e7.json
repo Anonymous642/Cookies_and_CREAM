@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Udemy Course Auto-Complete", "version": "1.0.0", "description": "Complete, reset, or expand all course items in your Udemy courses with one click.", "action": {"default_popup": "popup.html", "default_title": "Udemy Course Auto-Complete"}, "permissions": ["activeTab", "scripting"]}

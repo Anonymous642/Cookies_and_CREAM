@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Age of Wars", "manifest_version": 2, "version": "1.1", "description": "Age of Wars ist ein Browsergame, welches in der Zeit des Mittelalters spielt.", "icons": {"128": "aow.png"}, "app": {"urls": ["https://ageofwars.net/"], "launch": {"web_url": "https://ageofwars.net/"}}}

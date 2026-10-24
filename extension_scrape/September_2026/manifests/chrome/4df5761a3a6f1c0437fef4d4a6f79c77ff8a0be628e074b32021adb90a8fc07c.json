@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Fun Name Fortune", "version": "1.0.0", "description": "A playful name fortune generator for entertainment only. Runs locally with no permissions.", "action": {"default_title": "Fun Name Fortune", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

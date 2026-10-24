@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove Quora Blocker", "version": "4.1resigned1", "description": "Removes Quora sign in blocker", "content_scripts": [{"matches": ["*://*.quora.com/*"], "js": ["jquery-3.3.1.min.js", "background.js"]}], "browser_specific_settings": {"gecko": {"id": "{eed3edb2-e15d-46ba-98c1-17778fc70f2b}"}}}

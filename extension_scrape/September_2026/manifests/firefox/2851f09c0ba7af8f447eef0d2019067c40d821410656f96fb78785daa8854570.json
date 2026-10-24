@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "KPW to MRO Converter", "version": "1.0", "description": "Convert KPW to MRO directly from your browser.", "permissions": ["activeTab", "https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{85f4105b-6425-44fa-89a8-8a709a0d4609}"}}}

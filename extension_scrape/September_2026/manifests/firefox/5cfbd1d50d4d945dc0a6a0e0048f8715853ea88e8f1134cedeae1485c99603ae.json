@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Hide Google Sign-Ins", "version": "1.0", "author": "AndyM84", "description": "Hides Sign in with Google iframes", "browser_specific_settings": {"gecko": {"id": "hide-google-auth@zibtech.com"}}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_end"}]}

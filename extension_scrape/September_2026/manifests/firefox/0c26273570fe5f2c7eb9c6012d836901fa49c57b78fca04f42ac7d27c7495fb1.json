@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Define", "version": "1.0", "permissions": ["contextMenus", "activeTab", "tabs", "https://api.dictionaryapi.dev/*"], "background": {"scripts": ["background.js"]}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{38471f53-489c-49a5-8ea7-8199a407746a}"}}}

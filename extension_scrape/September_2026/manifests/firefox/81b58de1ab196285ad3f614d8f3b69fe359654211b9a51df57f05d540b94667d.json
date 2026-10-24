@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Roll Credits Live for Streamlabs", "version": "1.0", "description": "Starts streamlabs end credits when there is an activate=true URL parameter.", "content_scripts": [{"matches": ["https://streamlabs.com/dashboard"], "js": ["start.js"]}]}

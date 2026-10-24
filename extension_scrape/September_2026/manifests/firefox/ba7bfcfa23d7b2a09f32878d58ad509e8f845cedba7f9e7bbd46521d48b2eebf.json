@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitter Logged Out", "version": "1.0", "description": "Allows you to use twitter freely while being logged out, no more annoying pop ups asking you to log in.", "icons": {}, "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["twitter.js"]}], "browser_specific_settings": {"gecko": {"id": "{8ef16344-1711-4261-9575-a6e8ee0617f0}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTubeBlocker", "version": "1.1", "description": "Block YouTube", "icons": {}, "content_scripts": [{"matches": ["*://*.youtube.com/*", "*://*.youtu.be/*"], "js": ["redirect.js"]}], "browser_specific_settings": {"gecko": {"id": "{d1043594-05e1-4cd4-9731-8776af94f9ce}"}}}

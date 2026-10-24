@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Color Picker Popup", "version": "1.0", "description": "Pick a color and copy its hex code instantly.", "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{fc5e4be1-eb77-4ab0-a8b4-9841f64ce6c6}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick History", "version": "1.0", "description": "Render your browser's history in a stylish toolbar popup UI.", "permissions": ["history"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{4ef2af68-c24a-40f5-ab84-28929b46393a}"}}}

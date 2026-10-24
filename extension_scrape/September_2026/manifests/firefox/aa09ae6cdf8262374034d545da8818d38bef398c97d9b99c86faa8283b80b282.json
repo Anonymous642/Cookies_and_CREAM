@@ -1,0 +1,1 @@
+{"applications": {"gecko": {"id": "landgrabber@aygun.dev"}}, "description": "QoL improvements to landgrab.net", "manifest_version": 2, "name": "Landgrabber", "version": "2.1", "icons": {"48": "icons/landgrab.png"}, "content_scripts": [{"matches": ["https://landgrab.net/landgrab/ViewBoard"], "js": ["landgrabber.js"]}]}

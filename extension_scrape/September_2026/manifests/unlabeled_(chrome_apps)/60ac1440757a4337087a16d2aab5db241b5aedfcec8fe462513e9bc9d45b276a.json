@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Arduino Wolves Config Tool", "short_name": "arduiwolves", "description": "A configuration tool for Arduino Wolves", "version": "0.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"128": "assets/logo-128.png"}, "permissions": ["serial", "http://*.google.com/"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DolarArg", "version": "1.0", "description": "Cotizaciones de d\u00f3lar, monedas y criptomonedas con calculadora en tiempo real", "icons": {"16": "16.png", "32": "32.png", "48": "48.png", "128": "128.png"}, "action": {"default_popup": "popup.html"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Comments Page", "description": "Post and view comments on any web page", "version": "1.0.1", "action": {"default_popup": "index.html"}, "permissions": ["activeTab", "storage"], "host_permissions": ["https://one3-01-2024-api-prod.onrender.com/"], "icons": {"128": "icon128.png"}}

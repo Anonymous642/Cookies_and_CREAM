@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Motivation Tab - Progress Bar", "version": "1.0", "description": "Shows how much of the current year is left.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "icons": {"16": "timerapplogo.png", "48": "timerapplogo.png", "128": "timerapplogo.png"}}

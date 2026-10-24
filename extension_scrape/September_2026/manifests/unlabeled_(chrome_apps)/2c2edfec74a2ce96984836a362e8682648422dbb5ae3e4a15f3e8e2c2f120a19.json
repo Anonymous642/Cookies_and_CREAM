@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "portaportal", "short_name": "portaportal", "description": "Online Bookmark Management Service", "version": "2.9.0.0", "manifest_version": 2, "icons": {"128": "pportal_128.png"}, "app": {"launch": {"web_url": "https://portaportal.com/"}}}

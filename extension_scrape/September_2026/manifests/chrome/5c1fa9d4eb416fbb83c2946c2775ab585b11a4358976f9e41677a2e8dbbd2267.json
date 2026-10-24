@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Email Greeting Maker", "version": "1.0.0", "description": "Create professional email greetings instantly from a simple popup.", "action": {"default_title": "Email Greeting Maker", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

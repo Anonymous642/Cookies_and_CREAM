@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Daily Motivational Quotes", "version": "1.0", "description": "Get a new motivational quote every day to stay inspired.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{99954f3a-bbf2-461b-a6d5-8a64ccf11767}"}}}

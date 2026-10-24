@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Kinopoisk Redirect", "version": "1.0", "description": "Redirects Kinopoisk film and series pages to flcksbr.top", "permissions": ["webRequest", "webRequestBlocking", "*://www.kinopoisk.ru/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{bdbd934e-58cd-4b1d-bfc0-a5267c892c7c}"}}}

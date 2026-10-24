@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Useless", "description": "This extension is completely useless.", "version": "1.0.2resigned1", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{0aa8b066-0ce2-4149-baea-fde7b83926db}"}}}

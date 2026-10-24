@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Irregular Verbs List", "version": "0.2.0", "action": {"default_icon": {"32": "icons/icon-32.png"}, "default_title": "Irregular Verbs List", "default_popup": "popup.html"}, "permissions": [], "icons": {"32": "icons/icon-32.png"}, "browser_specific_settings": {"gecko": {"id": "{ce1742e1-b5e9-49a9-83f1-05638280c956}", "strict_min_version": "50.0"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mean New Tab", "version": "1.1", "description": "Roasts your browsing history whenever you open a new tab.", "chrome_url_overrides": {"newtab": "index.html"}, "background": {"service_worker": "background.js"}, "permissions": ["storage", "history"]}

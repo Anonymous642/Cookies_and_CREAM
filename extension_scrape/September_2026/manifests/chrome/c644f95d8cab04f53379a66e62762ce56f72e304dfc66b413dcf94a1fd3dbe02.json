@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mystic Color Namer", "version": "1.0.0", "description": "Enter a color code and get a magical descriptive color name.", "icons": {"128": "icon128.png"}, "action": {"default_title": "Mystic Color Namer", "default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}}

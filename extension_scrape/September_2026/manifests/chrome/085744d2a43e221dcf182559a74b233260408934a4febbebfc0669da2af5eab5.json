@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Zoom Chat Helper", "version": "1.0.0", "description": "A simple extension to make Zoom's .txt chat files more human-readable.", "author": "Thomas Fanelli", "icons": {"48": "images/icon-48.png", "128": "images/icon-128.png"}, "action": {"default_popup": "index.html"}}

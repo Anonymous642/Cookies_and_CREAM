@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Clear Browser Data", "version": "1.0", "description": "An extension to clear browser data", "action": {"default_popup": "popup.html"}, "permissions": ["browsingData"], "icons": {"16": "icon16.png", "48": "icon48.png"}}

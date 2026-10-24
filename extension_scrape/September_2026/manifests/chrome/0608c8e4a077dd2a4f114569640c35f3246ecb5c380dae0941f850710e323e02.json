@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "All 404", "description": "An extension that deletes any website you go to!", "version": "1.0", "icons": {"16": "js.png", "32": "js.png", "48": "js.png", "128": "js.png"}, "action": {"default_icon": "js.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["main.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Focus Search", "version": "1.0.1", "description": "Focus on search input when loading a page", "permissions": [], "host_permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["./index.js"]}]}

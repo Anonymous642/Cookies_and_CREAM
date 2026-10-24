@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Candy Mahjong", "version": "1.0.0.1", "manifest_version": 2, "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.candymahjong.com/MahjongUserPuzzle.php"], "launch": {"web_url": "http://www.candymahjong.com/MahjongUserPuzzle.php"}}}

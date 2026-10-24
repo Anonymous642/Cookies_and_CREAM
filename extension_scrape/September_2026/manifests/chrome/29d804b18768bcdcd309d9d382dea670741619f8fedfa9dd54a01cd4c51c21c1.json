@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Canvas File Preview Resize", "version": "0.0.2", "description": "Enables resizing of file previews on Canvas.", "content_scripts": [{"matches": ["*://*.instructure.com/courses/*/files/*"], "js": ["content.js"]}], "icons": {}}

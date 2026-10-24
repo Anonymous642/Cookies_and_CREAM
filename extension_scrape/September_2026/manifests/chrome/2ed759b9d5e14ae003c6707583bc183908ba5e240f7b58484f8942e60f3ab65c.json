@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Word Counter Tool", "version": "1.0.0", "description": "A lightweight popup tool to quickly count words and characters instantly.", "action": {"default_popup": "popup.html"}}

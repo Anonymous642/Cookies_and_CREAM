@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Close Twitch Tabs", "version": "1.0", "description": "Closes Twitch tabs older than 8 hours and enforces a 1-tab limit.", "permissions": ["tabs", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "twitch_limiter@Benevolent_Deity", "data_collection_permissions": {"required": ["none"]}}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SEOlocation", "version": "1.02", "author": "OscarXp", "description": "SEOlocation: An SEO Extension for Global Search Geolocation", "permissions": ["storage"], "action": {"default_popup": "seolocation.html", "default_icon": {"128": "images/SEOlocation.png"}}}

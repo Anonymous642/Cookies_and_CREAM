@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Aion Shop Filter items", "version": "1.1", "description": "Filter Aion Shop items and display only items that you want", "content_scripts": [{"matches": ["*://*.aion.gameforge.com/shop/userdata/*"], "js": ["jquery.js", "jquery.ui.js", "main.js"]}]}

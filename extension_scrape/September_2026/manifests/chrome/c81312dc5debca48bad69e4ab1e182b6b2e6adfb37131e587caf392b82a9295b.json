@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "K-Pop Clock (Date & Time)", "version": "1.0.0", "description": "Display the current date and time in a K-pop styled popup (offline).", "action": {"default_title": "K-Pop Clock", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

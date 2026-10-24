@@ -1,0 +1,1 @@
+{"name": "SteamBuster", "version": "1.0", "description": "Hide Steam reviews to relive the 90s game store vibe. Inspired by a Cryaotic tweet.", "content_scripts": [{"matches": ["*://store.steampowered.com/app/*"], "js": ["/reviewbuster.js"]}], "icons": {"48": "images/main.png"}, "manifest_version": 2}

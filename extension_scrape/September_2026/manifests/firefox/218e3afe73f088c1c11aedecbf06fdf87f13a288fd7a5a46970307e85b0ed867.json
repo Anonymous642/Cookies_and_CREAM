@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Nineties", "version": "1.2", "description": "Turns any page you visit into an early web website", "icons": {"48": "icons/logo-48.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": {"32": "icons/logo-32.png", "48": "icons/logo-48.png"}, "default_title": "Nineties", "default_popup": "popup/ninetiesPopup.html"}}

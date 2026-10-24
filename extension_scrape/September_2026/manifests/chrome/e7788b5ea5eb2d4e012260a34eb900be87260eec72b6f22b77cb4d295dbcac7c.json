@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Case Switcher", "description": "Convert selected text between uppercase, lowercase, and capitalized case.", "version": "1.1", "action": {"default_popup": "popup.html", "default_title": "Case Switcher"}, "icons": {"128": "icon128.png"}, "permissions": ["activeTab", "scripting"]}

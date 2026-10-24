@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "EVISION", "short_name": "EVISION", "version": "1.0", "manifest_version": 2, "icons": {"128": "icon-128.png"}, "app": {"ur": ["http://www.myevisiontv.com"], "launch": {"web_url": "http://www.myevisiontv.com"}}}

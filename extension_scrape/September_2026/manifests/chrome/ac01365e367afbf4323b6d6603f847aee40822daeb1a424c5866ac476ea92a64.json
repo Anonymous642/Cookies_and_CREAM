@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PootiLurk", "version": "5.3", "permissions": ["tabs", "storage", "alarms"], "host_permissions": ["https://www.twitch.tv/*", "https://static-cdn.jtvnw.net/*"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html"}}

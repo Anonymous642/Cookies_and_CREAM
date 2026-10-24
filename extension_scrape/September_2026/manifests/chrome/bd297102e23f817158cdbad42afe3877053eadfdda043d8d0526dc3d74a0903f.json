@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Super Pirate", "description": "gets rid of annoying popups on pirate websites", "version": "1.0", "manifest_version": 3, "background": {"service_worker": "service-worker.js"}, "permissions": ["tabs"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "WideMadeTasker", "version": "1.5", "description": "Simple tasker and planer with with reminder function", "action": {"default_popup": "popup.html", "default_title": "Open Wtasker"}, "icons": {"128": "icon.png"}}

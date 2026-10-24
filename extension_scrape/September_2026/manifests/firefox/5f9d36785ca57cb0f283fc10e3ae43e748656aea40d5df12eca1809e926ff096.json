@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BingDictionary", "version": "1.2resigned1", "description": "Right click and easy search Bing dictionary", "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["bing-dict.js"]}, "browser_specific_settings": {"gecko": {"id": "{d827fc10-b8f4-4d32-9b41-4c2e5ff614d4}"}}}

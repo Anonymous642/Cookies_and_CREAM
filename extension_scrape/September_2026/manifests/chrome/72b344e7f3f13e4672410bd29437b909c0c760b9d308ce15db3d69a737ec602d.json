@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Google Calendar Multi-Timezone", "version": "2.0.0", "description": "Adds multiple timezones to your Google Calendar", "permissions": [], "content_scripts": [{"matches": ["https://calendar.google.com/*"], "js": ["content.js"], "css": ["styles.css"]}]}

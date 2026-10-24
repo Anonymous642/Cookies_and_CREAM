@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Scholar Redirector", "version": "1.0", "description": "Redirects scholar.google.com links directly to the url field.", "permissions": ["webRequest", "webRequestBlocking", "*://scholar.google.com/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{5df72d99-4da8-4a34-8335-52cf73a7f175}"}}}

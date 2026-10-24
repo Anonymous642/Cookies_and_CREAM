@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Wilcox County Schools", "description": "Visit the website for Wilcox County Schools in Rochelle, GA", "app": {"urls": ["http://www.wilcox.k12.ga.us/"], "launch": {"web_url": "http://www.wilcox.k12.ga.us/"}}, "manifest_version": 2, "version": "1.0", "icons": {"128": "wc.png"}}

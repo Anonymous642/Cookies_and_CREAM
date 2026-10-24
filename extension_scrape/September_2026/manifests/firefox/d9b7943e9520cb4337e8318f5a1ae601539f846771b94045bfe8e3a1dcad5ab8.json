@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RFC Dark Mode", "version": "1.0", "description": "Adds dark mode for reading RFCs.", "icons": {"16": "icons/mouse.png"}, "content_scripts": [{"matches": ["*://tools.ietf.org/html/*"], "js": ["darkmode.js"]}]}

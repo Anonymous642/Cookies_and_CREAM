@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mute Tab K", "version": "2.6", "permissions": ["tabs", "scripting"], "background": {"scripts": ["background.js"], "persistent": true}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{aa1d2fc1-fa10-4b6b-a196-58bdfe64c7b4}"}}}

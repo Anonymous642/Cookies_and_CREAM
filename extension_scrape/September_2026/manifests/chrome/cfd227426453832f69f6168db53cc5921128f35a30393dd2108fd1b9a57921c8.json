@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Passage Admin tools", "description": "Type 'plms 235' in the Chrome address bar to open https://admin-panel.passage.com/plms/235.", "version": "1.0.1", "manifest_version": 3, "omnibox": {"keyword": "plms"}, "background": {"service_worker": "background.js"}}

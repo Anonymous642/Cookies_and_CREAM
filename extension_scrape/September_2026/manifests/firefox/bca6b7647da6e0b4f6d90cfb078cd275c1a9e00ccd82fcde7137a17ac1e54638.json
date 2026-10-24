@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bye Everything", "description": "Replaces every image on every website with an image of Bye.", "version": "1.0", "permissions": ["*://*/*"], "browser_specific_settings": {"gecko": {"id": "everything@byemc.xyz"}}, "icons": {"200": "byeman.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["everything.js"]}]}

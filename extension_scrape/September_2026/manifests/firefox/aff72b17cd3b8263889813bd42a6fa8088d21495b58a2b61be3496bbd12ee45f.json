@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GNF to MGA Converter", "version": "1.0", "description": "Convert Guinea Franc (GNF) to Malagasy Ariary (MGA).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert GNF to MGA"}, "browser_specific_settings": {"gecko": {"id": "{2e0b2b87-8739-4ef1-8507-411587d35af3}"}}}

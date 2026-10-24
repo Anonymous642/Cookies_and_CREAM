@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Random Number Generator", "version": "3.0", "description": "Generate a random number with one click. You can pick the number randomly between of the numbers which you want.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

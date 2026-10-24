@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Wordle Extension Game", "description": "Base Level Extension", "version": "1.2.1", "action": {"default_popup": "main.html", "permissions": ["scripting", "windows", "storage", "activeTab"]}}

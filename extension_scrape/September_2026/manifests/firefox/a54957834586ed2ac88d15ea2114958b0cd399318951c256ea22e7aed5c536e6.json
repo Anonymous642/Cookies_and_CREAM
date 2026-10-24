@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Get Some Help", "version": "1.0", "description": "Redirects you from youtube.com to the Get Some Help Video by Micheal Jordan", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{5cc1601c-5865-41e5-9ce7-e8f47e140586}"}}}

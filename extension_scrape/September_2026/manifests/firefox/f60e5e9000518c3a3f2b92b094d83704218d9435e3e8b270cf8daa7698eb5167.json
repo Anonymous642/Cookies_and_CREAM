@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Arbor Downloader", "version": "1.0", "permissions": ["downloads", "activeTab", "scripting", "storage"], "browser_action": {"default_popup": "popup.html"}, "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "arbordl@logicabor.com"}}}

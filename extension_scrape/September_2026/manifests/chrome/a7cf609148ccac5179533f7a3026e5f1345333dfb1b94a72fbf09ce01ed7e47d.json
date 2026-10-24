@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Automatic Close Instagram Session ID", "version": "1.0", "description": "Extrai o session ID do Instagram para o Automatic Close", "permissions": ["cookies"], "host_permissions": ["https://*.instagram.com/*"], "action": {"default_popup": "popup.html", "default_icon": "icon36.png"}}

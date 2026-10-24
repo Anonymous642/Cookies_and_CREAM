@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OldRedditMe Public", "version": "1.1", "browser_specific_settings": {"gecko": {"id": "OldRedditMePublic@example.com"}}, "description": "Forwards you to old reddit if it sees www.reddit.com", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["oldreddit.js"]}]}

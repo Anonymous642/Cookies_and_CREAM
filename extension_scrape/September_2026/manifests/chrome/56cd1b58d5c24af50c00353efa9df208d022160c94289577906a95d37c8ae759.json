@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SUBU BYS Duyuru Arama", "version": "1.0", "description": "BYS duyuru listesine arama \u00e7ubu\u011fu ekler.", "content_scripts": [{"matches": ["https://ogrenci.bys.subu.edu.tr/*"], "js": ["content.js"], "css": ["style.css"], "run_at": "document_idle"}]}

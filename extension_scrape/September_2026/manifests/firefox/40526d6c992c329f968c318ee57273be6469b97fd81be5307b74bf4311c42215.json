@@ -1,0 +1,1 @@
+{"description": "Adds a new sidebar to the developer tools inspector panel. The sidebar displays the page document as an inspectable object.", "manifest_version": 2, "name": "DEV-Tools", "version": "8.9.0", "permissions": ["<all_urls>"], "devtools_page": "devtools/devtools-page.html", "browser_specific_settings": {"gecko": {"id": "{c5ecb7b9-6519-4e8b-8a76-e71e0b4b5624}"}}}

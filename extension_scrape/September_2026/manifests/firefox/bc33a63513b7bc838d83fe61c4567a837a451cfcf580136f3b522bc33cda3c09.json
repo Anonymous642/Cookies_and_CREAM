@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Hello World", "version": "2.1", "description": "Adds a Hello World paragraph to all webpages.", "browser_specific_settings": {"gecko": {"id": "hello-world@2", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"matches": ["*://*/*"], "js": ["helloworld.js"]}]}

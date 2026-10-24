@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SVT sport borttagare", "version": "1.1", "description": "Tar bort all sport fr\u00e5n SVT.se", "icons": {"48": "icon48.png"}, "content_scripts": [{"matches": ["*://*.svt.se/*"], "js": ["remove-sports.js"]}], "browser_specific_settings": {"gecko": {"id": "{97cb9ff5-e3d9-4556-a8a8-1a54bba240b5}"}}}

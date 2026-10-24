@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Downtime Reporter", "version": "1.0", "description": "Report downtime for your region", "permissions": ["storage", "https://pastebin.com/api/api_post.php"], "browser_action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{c2ac37e5-aa49-420a-9c12-1493889c639f}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Smart Timesheet Filler", "description": "Automatically fills in work hours on the TriNet timesheet", "version": "1.0", "permissions": ["activeTab", "storage", "scripting"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}}

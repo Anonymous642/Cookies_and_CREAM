@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Lil Reddit", "version": "1.0.2resigned1", "browser_action": {"browser_style": true, "default_icon": {"48": "images/reddicon.png"}, "default_title": "Lil Reddit", "default_popup": "lilreddit.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{2f81eb3d-c19d-4c37-b1b7-0908abe49141}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "maimai Spending Calculator", "version": "1.0", "permissions": ["storage"], "content_scripts": [{"matches": ["https://maimaidx-eng.com/maimai-mobile/playerData/*"], "js": ["content.js"]}], "action": {"default_popup": "popup.html"}}

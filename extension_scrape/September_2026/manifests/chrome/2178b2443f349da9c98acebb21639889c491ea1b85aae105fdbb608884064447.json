@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "tq - TechQuiza Learning Arabic", "version": "1.7", "manifest_version": 3, "description": "Learning Arabic", "action": {"default_icon": "tq-AR-128x128.png", "default_title": "Tech Quiza", "default_popup": "dice-quiz.html"}, "permissions": ["storage"]}

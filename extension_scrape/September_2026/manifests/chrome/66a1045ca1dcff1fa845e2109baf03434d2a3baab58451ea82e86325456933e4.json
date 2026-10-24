@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Event Timer New Tab", "version": "1.0.0", "description": "Daily to-do list + circular timer as your new-tab page", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"128": "icon128.png"}}

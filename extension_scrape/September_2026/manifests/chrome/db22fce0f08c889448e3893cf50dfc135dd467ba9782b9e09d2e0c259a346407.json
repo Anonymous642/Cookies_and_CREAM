@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Divine Gita Tabs", "description": "Each new tab reveals a timeless verse from the Bhagavad Gita, along with its meaning and transliteration.", "version": "1.0", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "host_permissions": [], "icons": {"128": "icon.png"}}

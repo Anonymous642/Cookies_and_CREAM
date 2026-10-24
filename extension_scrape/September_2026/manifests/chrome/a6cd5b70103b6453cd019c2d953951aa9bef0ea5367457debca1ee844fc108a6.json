@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Marx-Styler", "version": "1.2.25", "description": "Extension for giving a dark mode to the Marx system", "icons": {"128": "icon128.jpg"}, "content_scripts": [{"css": ["marx.css"], "matches": ["https://personal.cis.strath.ac.uk/conor.mcbride/shib/Marx/*"]}]}

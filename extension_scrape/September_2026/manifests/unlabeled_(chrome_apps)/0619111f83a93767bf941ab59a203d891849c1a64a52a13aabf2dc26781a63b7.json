@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Typeform", "description": "Typeform lets you build beautiful cross-device online forms & surveys.", "version": "1.0", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.typeform.com/"], "launch": {"web_url": "https://admin.typeform.com"}}}

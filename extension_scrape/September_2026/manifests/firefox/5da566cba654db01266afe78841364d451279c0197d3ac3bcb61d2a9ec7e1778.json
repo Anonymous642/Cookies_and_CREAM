@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pouch", "version": "1.0", "description": "clean up browser window and save tabs for later", "permissions": ["bookmarks", "tabs", "storage", "menus"], "browser_action": {"default_icon": "icons/newchest32.png", "default_title": "Pouch", "default_popup": "popup/choose_pocket.html", "browser_style": true}}

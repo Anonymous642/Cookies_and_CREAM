@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AutoTheater for Youtube", "version": "1.0", "description": "Forces YouTube videos to open in theater mode.", "content_scripts": [{"matches": ["*://www.youtube.com/watch*"], "js": ["index.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{fb5ce96e-649b-407a-857f-725461e18330}"}}}

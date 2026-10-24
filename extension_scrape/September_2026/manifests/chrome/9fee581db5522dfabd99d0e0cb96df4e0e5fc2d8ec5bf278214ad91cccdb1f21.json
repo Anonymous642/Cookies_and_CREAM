@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\uc7a1\ud50c\ub798\ub2db \ud3c9\uc810 \uac80\uc0c9\uae30", "version": "1.0", "manifest_version": 3, "permissions": ["storage"], "background": {"service_worker": "background.js"}, "content_scripts": [{"matches": ["https://www.saramin.co.kr/*"], "js": ["content.js"]}], "options_page": "options.html"}

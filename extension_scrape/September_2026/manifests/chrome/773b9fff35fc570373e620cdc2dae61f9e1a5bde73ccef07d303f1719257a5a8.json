@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Open in Archive.is", "version": "1.0", "description": "Right-click a link to open it in Archive.is with auto-save.", "permissions": ["contextMenus", "tabs"], "background": {"service_worker": "background.js"}}

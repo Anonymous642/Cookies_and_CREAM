@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Kisuna Subway Surfer Unlock All", "version": "1.0", "description": "Unlock All In Subway Surfer", "permissions": ["activeTab", "scripting", "downloads"], "host_permissions": ["<all_urls>"], "action": {"default_popup": "source.html"}, "browser_specific_settings": {"gecko": {"id": "kisuna-subway-unlock@kisuna.com", "strict_min_version": "109.0"}}}

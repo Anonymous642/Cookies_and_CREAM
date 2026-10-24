@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Title Optimizer", "version": "1.0", "description": "Suggest more engaging titles for blog posts or videos.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{9a4220f0-d3c9-4b82-a999-ba57f8e0969a}"}}}

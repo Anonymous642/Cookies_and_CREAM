@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Meesho Supplier Analytics", "version": "2.0", "description": "Upload your Meesho order report and see Delivered, Returns, Settled graphs instantly.", "action": {"default_popup": "popup.html", "default_icon": "icons/icon128.png"}, "permissions": ["storage"]}

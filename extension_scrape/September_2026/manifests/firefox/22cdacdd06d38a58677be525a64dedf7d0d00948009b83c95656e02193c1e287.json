@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\u270d\ufe0f Personal Note Writer", "version": "1.0", "description": "Save and view up to 10 personal notes with localStorage.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "kippessmatoc@hotmail.com"}}}

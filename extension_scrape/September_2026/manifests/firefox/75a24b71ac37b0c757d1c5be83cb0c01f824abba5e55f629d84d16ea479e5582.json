@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WebSocket Client", "version": "1.0.0", "description": "Lightweight WebSocket client in a popup. Connect to WS/Secure-WS servers, send/receive messages, view logs.", "permissions": ["storage"], "browser_action": {"default_title": "WebSocket Client", "default_popup": "popup.html"}, "applications": {"gecko": {"id": "websocket-client@example.com"}}}

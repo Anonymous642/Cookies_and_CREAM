@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Animated Backgrounds", "version": "1.0", "description": "Add animated backgrounds to your new tab page.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "icons": {"48": "images/icon.png"}, "browser_specific_settings": {"gecko": {"id": "{23cef8a9-ef2b-4ec8-ab8c-2854a9b7acb2}"}}}

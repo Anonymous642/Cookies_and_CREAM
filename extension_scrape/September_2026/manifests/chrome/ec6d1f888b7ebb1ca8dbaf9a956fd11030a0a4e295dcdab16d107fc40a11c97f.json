@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Clear Site Cache", "version": "1.0", "description": "Clear cache for the site you're currently on.", "permissions": ["activeTab", "tabs", "browsingData"], "action": {"default_popup": "popup.html", "default_title": "Clear Site Cache"}, "icons": {"128": "ExtensionIMG.png"}}

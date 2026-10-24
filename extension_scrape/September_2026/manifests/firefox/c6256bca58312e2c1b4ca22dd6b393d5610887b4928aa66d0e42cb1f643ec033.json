@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Cenafy", "version": "1.1", "description": "1 in 50 chance of a new tab opening up the glory of John Cena", "icons": {"48": "icons/cena48.png", "96": "icons/cena96.png"}, "background": {"scripts": ["back.js"]}, "permissions": ["<all_urls>", "tabs"]}

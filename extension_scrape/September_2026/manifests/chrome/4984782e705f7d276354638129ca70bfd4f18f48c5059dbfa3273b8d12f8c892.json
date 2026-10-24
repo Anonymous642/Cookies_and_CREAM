@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "H\u0131zl\u0131 Notlar", "version": "1.0", "description": "Taray\u0131c\u0131 i\u00e7inde h\u0131zl\u0131 not almay\u0131 sa\u011flayan pratik not defteri eklentisi.", "action": {"default_popup": "popup.html", "default_title": "H\u0131zl\u0131 Notlar"}, "permissions": ["storage"]}

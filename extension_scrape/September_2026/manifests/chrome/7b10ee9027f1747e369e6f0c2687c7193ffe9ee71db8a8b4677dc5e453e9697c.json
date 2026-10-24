@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Wholesaler Lens", "version": "1.0", "description": "Save time searching sold properties. One panel, two sites \u2013 Zillow + Redfin filters with a single click.", "permissions": ["storage", "tabs"], "action": {"default_popup": "src/popup.html"}}

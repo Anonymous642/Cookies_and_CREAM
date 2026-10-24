@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "champions-taxi", "manifest_version": 3, "version": "1.0", "description": "Calculate the taxi fare to Ben Gurion Airport (TLV) from any location in Israel or from the airport to your destination.", "action": {"default_popup": "taxichamps.html"}}

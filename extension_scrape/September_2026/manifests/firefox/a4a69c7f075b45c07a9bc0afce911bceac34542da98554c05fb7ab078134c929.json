@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Math substitute", "description": "Replaces words with mathfunctions.", "version": "1.0", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["./emojiMap.js", "./substitute.js"]}], "browser_specific_settings": {"gecko": {"id": "{5e05614a-24d1-4109-a585-3fb7d393507a}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "bloc-popin", "version": "1.0", "description": "Disable intrusive cookie consent popin", "permissions": ["activeTab", "contextMenus"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{84e6adce-7c6f-46a6-8933-acf3d1ae4930}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Random Color Codes", "version": "1.0.0", "description": "Generate random colors and copy HEX/RGB/HSL instantly.", "action": {"default_title": "Random Color Codes", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Smart Paste", "version": "1.0", "description": "Smart Paste: Paste plain text easily", "action": {"default_popup": "popup.html", "default_icon": "smart_paste.png"}, "icons": {"128": "smart_paste.png"}, "browser_specific_settings": {"gecko": {"id": "elaminh88925@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

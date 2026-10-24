@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "InstaNoStories", "version": "0.1", "description": "Removes Instagram stories from your feed, allowing you to browse posts without distractions", "content_scripts": [{"matches": ["*://*.instagram.com/*"], "js": ["nostories.js"]}], "browser_specific_settings": {"gecko": {"id": "{69cfb03c-2247-465a-964d-194cc40cb958}"}}}

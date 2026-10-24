@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ZAR to BRL Converter", "version": "1.0", "description": "Convert South African Rand (ZAR) to Brazilian Real (BRL).", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/"], "browser_specific_settings": {"gecko": {"id": "{226e9a08-6077-47ca-881a-54459e893e19}"}}}

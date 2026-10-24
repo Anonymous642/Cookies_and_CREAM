@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Listening Booth", "version": "1.0.3", "description": "Build a playlist in your browser as you browse Bandcamp.", "permissions": ["storage", "scripting", "activeTab"], "action": {"default_popup": "popup.html", "default_icon": {"72": "images/logo-black-white.png"}}}

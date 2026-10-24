@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Nepali-Calendar", "version": "1.0", "description": "A pocket extension for displaying Nepali calendar and time.", "browser_action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["<all_urls>"]}], "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "nepalicalender@example.org"}}}

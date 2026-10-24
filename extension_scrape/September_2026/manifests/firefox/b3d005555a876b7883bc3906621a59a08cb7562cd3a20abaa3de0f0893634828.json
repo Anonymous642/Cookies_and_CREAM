@@ -1,0 +1,1 @@
+{"manifest_version": 2, "content_scripts": [{"include_globs": ["*"], "css": ["e2.css"], "matches": ["https://*/*", "http://*/*"], "run_at": "document_end"}], "converted_from_user_script": true, "description": "", "name": "Everything Squared", "version": "1", "applications": {"gecko": {"id": "generated-54gqqksd36vlvoar68yg7f@chrome-store-foxified-unsigned"}}}

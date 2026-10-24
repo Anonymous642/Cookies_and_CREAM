@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Window Minimizer", "version": "1.0", "description": "Minimizes Firefox window from webpage", "permissions": ["tabs"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{abcd0303-e458-484e-b423-91ff46e72a73}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "YouTube ad block", "description": "you can hide youtube ads", "version": "1.0", "manifest_version": 3, "icons": {"48": "img/icon.png", "64": "img/icon2.png", "128": "img/icon3.png"}, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["js/youtube_block.js"]}]}

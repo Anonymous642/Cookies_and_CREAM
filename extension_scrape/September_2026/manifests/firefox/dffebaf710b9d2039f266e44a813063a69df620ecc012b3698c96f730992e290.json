@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "quietYoutube", "version": "1.0.0", "description": "youtube for work", "content_scripts": [{"matches": ["https://*.youtube.com/results*"], "css": ["research_video.css"]}, {"matches": ["https://*.youtube.com/"], "css": ["home_youtube.css"], "js": ["research_video.js"]}]}

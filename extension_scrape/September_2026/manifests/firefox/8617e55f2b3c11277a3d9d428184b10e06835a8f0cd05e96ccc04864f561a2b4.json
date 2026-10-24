@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Code Compare Tool", "version": "1.0", "description": "Quickly compare two code snippets from the popup.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png", "default_title": "Compare Code"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{209901ba-34a6-4048-9d67-485424ce9532}"}}}

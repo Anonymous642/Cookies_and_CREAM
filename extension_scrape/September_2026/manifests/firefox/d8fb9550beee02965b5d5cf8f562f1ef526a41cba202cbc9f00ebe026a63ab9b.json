@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Wordle Extended Share", "version": "1.0", "description": "Includes the guesses in spoiler tags", "icons": {"48": "icon48.png"}, "content_scripts": [{"matches": ["*://*.powerlanguage.co.uk/*", "http://localhost/*"], "js": ["wordle-share.js"]}]}

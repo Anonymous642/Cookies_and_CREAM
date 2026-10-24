@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CNY to HKD Converter", "version": "1.0", "description": "Convert Chinese Yuan to Hong Kong Dollar.", "permissions": ["activeTab", "https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{e7f3f6db-c969-4501-97d6-755a824ee2f0}"}}}

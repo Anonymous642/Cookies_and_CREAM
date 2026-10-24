@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Fixed Text Copier", "version": "1.0", "description": "Copy fixed text for Gmail with a single click.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "yannellih7041987udttv@hotmail.com"}}, "permissions": ["clipboardWrite"]}

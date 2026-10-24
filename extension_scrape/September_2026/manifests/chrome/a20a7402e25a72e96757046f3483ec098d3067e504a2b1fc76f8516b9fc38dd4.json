@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Positions-Korrektur f\u00fcr Lexware Office", "version": "1.4", "description": "\u00c4ndert die Eingabepositionen bei mehr als 10 Zeilen auf eine gr\u00f6\u00dfere H\u00f6he.", "content_scripts": [{"matches": ["*://*.lexware.de/*"], "js": ["content.js"], "run_at": "document_idle"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Page Word Counter", "version": "1.0", "description": "Counts the words on the current page.", "permissions": ["activeTab", "tabs", "<all_urls>"], "browser_action": {"default_title": "Count Words", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{d32f3281-565b-4362-9057-942ff4fc3dfe}"}}}

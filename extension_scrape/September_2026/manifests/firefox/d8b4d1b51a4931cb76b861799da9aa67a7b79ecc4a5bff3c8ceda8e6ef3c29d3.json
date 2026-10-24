@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Imperial to Metric", "version": "0.1.0", "author": "Axel Leroy", "browser_specific_settings": {"gecko": {"id": "imperial-to-metric@axeleroy.com"}}, "icons": {"48": "icon48.png", "96": "icon96.png"}, "content_scripts": [{"matches": ["<all_urls>"], "exclude_globs": ["*://*.google.*/*"], "js": ["imperial-to-metric.js"]}]}

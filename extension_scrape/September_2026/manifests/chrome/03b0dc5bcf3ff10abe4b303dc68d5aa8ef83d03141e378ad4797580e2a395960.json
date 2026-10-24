@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Golf Simulator Space Calculator", "version": "1.0.0", "description": "Instantly calculate if your garage or spare room has the right dimensions for a home golf simulator.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon.jpg"}}, "icons": {"128": "icon.jpg"}}

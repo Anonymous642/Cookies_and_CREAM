@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Idle URL Opener 5745", "version": "1.0", "description": "Automatski otvara zadati sajt kada korisnik nije aktivan.", "browser_specific_settings": {"gecko": {"id": "bajaatan1@yahoo.com", "data_collection_permissions": {"required": ["none"]}}}, "background": {"scripts": ["background.js"]}, "permissions": ["idle", "tabs"]}

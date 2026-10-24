@@ -1,0 +1,1 @@
+{"background": {"scripts": ["background.js"]}, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["click.js"]}], "manifest_version": 2, "name": "YouTube Channel AutoPlay Stopper", "permissions": ["webNavigation", "https://www.youtube.com/*"], "version": "4", "browser_specific_settings": {"gecko": {"id": "{b8e2dc1c-c6c7-4dc0-b5d7-257fbc737985}"}}}

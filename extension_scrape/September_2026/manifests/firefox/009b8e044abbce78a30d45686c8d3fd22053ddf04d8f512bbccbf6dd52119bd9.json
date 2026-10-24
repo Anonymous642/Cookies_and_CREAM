@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Customize Newtab", "version": "1.0", "description": "T\u00f9y ch\u1ec9nh tab m\u1edbi cho tr\u00ecnh duy\u1ec7t c\u1ee7a b\u1ea1n", "icons": {"128": "icon128.png"}, "permissions": ["geolocation"], "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{7c973a17-ba9b-4169-8315-1199a2ff29ca}"}}}

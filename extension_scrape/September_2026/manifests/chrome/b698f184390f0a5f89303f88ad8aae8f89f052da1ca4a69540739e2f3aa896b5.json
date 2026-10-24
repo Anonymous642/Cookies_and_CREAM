@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Cryptogram Challenge", "version": "1.0", "description": "Daily cryptogram puzzle game with increasing difficulty", "action": {"default_popup": "index.html"}, "permissions": ["storage"]}

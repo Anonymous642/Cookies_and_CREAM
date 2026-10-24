@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Signal Bot for Crystal & Mines", "version": "8.1.1", "description": "Get daily strategies for Crystal, Mines, and Aviator. Connect to bot instantly.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "permissions": []}

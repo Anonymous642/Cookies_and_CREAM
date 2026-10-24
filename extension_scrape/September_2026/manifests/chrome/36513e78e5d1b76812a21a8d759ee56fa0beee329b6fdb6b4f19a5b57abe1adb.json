@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple TODO List", "version": "1.0.0", "description": "A clean, simple TODO list that saves to Chrome storage.", "action": {"default_title": "Simple TODO List", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}, "permissions": ["storage"]}

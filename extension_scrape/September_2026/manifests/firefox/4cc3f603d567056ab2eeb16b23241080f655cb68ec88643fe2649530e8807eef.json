@@ -1,0 +1,1 @@
+{"version": "1.0", "name": "Skybound Reverie", "chrome_url_overrides": {"newtab": "index.html"}, "description": "A breathtaking vista of vibrant skies.", "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{4103a5a0-7a4a-4f6f-b14f-a79e56ef428a}"}}}

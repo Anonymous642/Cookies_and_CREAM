@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Glexicon Protocol Extension", "version": "1.0", "description": "Optimizes high-traffic web data to reduce device footprint and save battery.", "permissions": ["storage"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["dictionary.js", "translator.js"], "world": "MAIN"}]}

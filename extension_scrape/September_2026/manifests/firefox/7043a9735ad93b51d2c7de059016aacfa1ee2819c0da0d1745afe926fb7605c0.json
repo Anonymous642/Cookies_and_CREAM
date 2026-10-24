@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83e\udd8b Number to Fancy Text Converter", "version": "1.0", "description": "Convert numbers into random styled words with a butterfly-themed design!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "gimartjanotaf7s@hotmail.com"}}}

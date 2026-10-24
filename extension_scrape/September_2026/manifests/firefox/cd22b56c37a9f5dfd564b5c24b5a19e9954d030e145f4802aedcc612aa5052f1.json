@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CORS Helper", "version": "1.0", "description": "Developer helper for enabling/testing CORS on your own backend or dev-proxy. No CORS bypass.", "permissions": [], "browser_action": {"default_popup": "popup.html", "default_title": "CORS Helper"}, "applications": {"gecko": {"id": "corshelper@example.com"}}}

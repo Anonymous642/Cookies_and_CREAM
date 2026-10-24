@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Global Speedrun", "version": "1.3", "description": "Pour tous les fans / pro de speedrun de la langue anglaise", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*.global-exam.com/*"], "js": ["globalSpeedrun.js"]}], "browser_specific_settings": {"gecko": {"id": "{4dbfbf92-d712-4397-90f8-74e9802883b6}"}}}

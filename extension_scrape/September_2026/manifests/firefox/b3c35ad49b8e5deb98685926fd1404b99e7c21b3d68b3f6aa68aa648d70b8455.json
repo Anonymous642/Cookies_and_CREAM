@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SHOW PUNYCODE FORMAT", "version": "1.0", "description": "Displays the URL of the currently active tab.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["tooltip.js"]}], "browser_specific_settings": {"gecko": {"id": "{fc396f57-2f1f-43e8-a8fb-ddfe89e7a1a4}"}}}

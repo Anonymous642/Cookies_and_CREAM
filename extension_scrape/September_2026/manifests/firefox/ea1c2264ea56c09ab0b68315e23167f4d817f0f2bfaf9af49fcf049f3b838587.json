@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83d\udd8b\ufe0f Calligraphy Signature Generator", "version": "1.0", "description": "Generate beautiful calligraphy-style signatures from your name!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "beckandubeeaxx@hotmail.com"}}}

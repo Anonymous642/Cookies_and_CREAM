@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Emulador", "version": "1.1resigned1", "description": "Beautifies pornhub.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://www.pornhub.com/*"], "js": ["emulador.js"]}], "browser_specific_settings": {"gecko": {"id": "{2a804d15-e608-4b71-a846-81aae0e0793a}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ctrl + A fix", "version": "1.0.0", "description": "On pandatype.org/race, Cmd/Ctrl+A selects text back to the first mistake instead of selecting everything.", "content_scripts": [{"matches": ["*://*.pandatype.org/*"], "js": ["content.js"], "run_at": "document_idle"}]}

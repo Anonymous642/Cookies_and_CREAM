@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Movart AI Assistant", "version": "1.0.0", "description": "Quickly enhance and process any web image using Movart AI tools.", "permissions": ["contextMenus"], "background": {"service_worker": "background.js"}, "icons": {"128": "icon.png"}, "homepage_url": "https://movart.ai"}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Kick Extension", "description": "View and search for top Kick creators in different categories and languages.", "version": "1.0", "action": {"default_popup": "index.html", "default_icon": "kick.png"}, "icons": {"16": "kick.png", "48": "kick.png", "128": "kick.png"}}

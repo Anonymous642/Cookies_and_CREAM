@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AO3 Rating Extension", "version": "1.0", "description": "Calculates and displays a rating based on the kudos-to-hits ratio on AO3.", "content_scripts": [{"matches": ["*://archiveofourown.org/*"], "js": ["content.js", "sortWorks.js"]}], "browser_specific_settings": {"gecko": {"id": "{153c7cf4-1e59-4ef9-8752-715eb8442ade}"}}}

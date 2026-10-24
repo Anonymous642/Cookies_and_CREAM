@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Number Converter", "version": "1.0", "description": "Convert numbers between hex, bin, oct, and dec.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html"}, "background": {"scripts": ["converter.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{d408ef11-8225-4bb1-8707-e6101600c058}"}}}

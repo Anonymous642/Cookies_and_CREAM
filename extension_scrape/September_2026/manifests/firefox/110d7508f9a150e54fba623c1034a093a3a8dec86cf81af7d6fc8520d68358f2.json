@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Free Medium For Mobile", "version": "1.0", "description": "Easy navigation to the freedium.cfd for mobile browser", "content_scripts": [{"matches": ["*://*.medium.com/*", "*://*.freedium.cfd/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{d36f0a95-5fe5-481c-92a4-43b58ad56c0d}"}}}

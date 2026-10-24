@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Open image encoding", "description": "Allows users to open encrypted images, open random images", "version": "1.0", "icons": {"32": "icons/logo_32.png", "64": "icons/logo_64.png"}, "chrome_url_overrides": {"newtab": "tabs.html"}, "applications": {"gecko": {"strict_min_version": "59.0a2", "id": "{939010b8-e0d6-4f25-b8f0-0c3bfb8a0ca3}"}}}

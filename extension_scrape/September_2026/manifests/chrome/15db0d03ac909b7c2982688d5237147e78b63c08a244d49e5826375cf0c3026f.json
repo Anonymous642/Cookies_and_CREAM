@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Open in Builtwith", "version": "3.0", "description": "Opens the current page in BuiltWith.", "permissions": ["activeTab"], "background": {"service_worker": "background.js"}, "action": {"default_title": "Open in BuiltWith"}, "icons": {"48": "icon_48.png", "128": "icon_128.png"}}

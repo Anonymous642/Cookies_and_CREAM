@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "1v1 lol Unblocked", "version": "2.0", "description": "Play 1v1 lol Unblocked game right in your web browser!", "browser_action": {"default_icon": "icon.png"}, "background": {"scripts": ["background.js"], "type": "module"}, "browser_specific_settings": {"gecko": {"id": "{0c9976a1-d03e-4dd6-b0ed-c519d8f4a58c}"}}}

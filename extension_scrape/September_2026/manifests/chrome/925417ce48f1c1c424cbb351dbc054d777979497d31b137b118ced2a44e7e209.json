@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "My Bookmarks Limit", "description": "Rage against a lot of bookmarks! :rage:", "version": "1.42", "manifest_version": 3, "permissions": ["bookmarks"], "action": {"default_title": "\ud83d\udd16", "default_icon": "icon.png", "default_popup": "popup.html"}}

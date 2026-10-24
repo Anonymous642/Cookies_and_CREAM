@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PinIt Smart", "version": "1.0", "description": "Ghim nhanh h\u00ecnh \u1ea3nh t\u1eeb web v\u00e0 xem offline.", "permissions": ["contextMenus", "storage"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "pinitsmart@amo", "data_collection_permissions": {"required": ["none"]}}}}

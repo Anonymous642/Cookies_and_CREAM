@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Time Quote", "version": "1.0", "description": "Updates the new tab page to show a literary quote with the current time.", "icons": {"48": "icon.svg"}, "chrome_url_overrides": {"newtab": "timequote.html"}, "browser_specific_settings": {"gecko": {"id": "acer@domestique.io"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u6f2b\u8c03AI\u4f01\u4e1a\u987e\u95ee", "description": "\u6f2b\u8c03AI\u4f01\u4e1a\u987e\u95ee", "version": "2.2", "manifest_version": 3, "action": {"default_popup": "index.html", "default_icon": "static/icon.png"}, "options_page": "index.html"}

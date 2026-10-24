@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "0.0.0.1", "name": "DevMark", "description": "A Chrome extension for developers to save and manage their learning resources.", "action": {"default_popup": "index.html", "default_icon": "folder_icon.png"}, "permissions": ["tabs", "storage"]}

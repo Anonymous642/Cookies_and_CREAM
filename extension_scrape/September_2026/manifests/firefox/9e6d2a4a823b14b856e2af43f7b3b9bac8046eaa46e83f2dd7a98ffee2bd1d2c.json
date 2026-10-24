@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Zammad Shortcut Terminator", "description": "Disables shortcuts on Zammad sites", "version": "1.0.1", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"]}], "browser_specific_settings": {"gecko": {"id": "{c006aba6-75aa-4144-ad0c-e4d2d54c65b3}"}}}

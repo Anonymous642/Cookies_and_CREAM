@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CodeChef Copy TC", "version": "1.0", "description": "Adds a copy button besides test case.", "icons": {"48": "icons/logo_48.png", "96": "icons/logo_96.png"}, "content_scripts": [{"matches": ["https://www.codechef.com/*problems/*"], "js": ["testcase.js"]}]}

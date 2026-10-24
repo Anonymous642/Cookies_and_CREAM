@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "HelpGoAbroad", "description": "Directory of opportunities to study, teach, volunteer, and internships", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://www.helpgoabroad.com/"], "launch": {"web_url": "https://www.helpgoabroad.com/"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Offline Image Resizer", "version": "2.0", "description": "Optimize, resize, greyscale, reduce size, and crop images locally.", "permissions": [], "action": {"default_popup": "popup.html", "default_icon": {"128": "icons/icon128.png"}}, "icons": {"128": "icons/icon128.png"}}

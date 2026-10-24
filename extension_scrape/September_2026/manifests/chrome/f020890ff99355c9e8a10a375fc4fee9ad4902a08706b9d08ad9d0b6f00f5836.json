@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Tram Emoji Remover", "version": "1.0.1", "description": "Removes the \ud83d\udea1 emoji from the youtube comments.", "icons": {"128": "icons/extension_icon128.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["main.js"], "run_at": "document_idle"}]}

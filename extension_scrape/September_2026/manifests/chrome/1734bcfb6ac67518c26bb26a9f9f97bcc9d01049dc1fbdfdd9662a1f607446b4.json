@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Weekly Menu Planner", "version": "1.0.0", "description": "Create a weekly meal plan with a military green style interface.", "icons": {"128": "icon128.png"}, "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}}

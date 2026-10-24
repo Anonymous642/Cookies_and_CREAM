@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AUD to USD Converter", "version": "1.0", "description": "Convert Australian Dollar to US Dollar", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/"], "browser_specific_settings": {"gecko": {"id": "{031bd6fe-223c-4f6b-ac2d-2645e0745a70}"}}}

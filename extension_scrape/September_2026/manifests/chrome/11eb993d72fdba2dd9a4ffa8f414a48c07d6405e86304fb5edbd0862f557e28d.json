@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TalkEnglishClass Daily Speaking Practice", "version": "1.0.0", "description": "Practice English speaking every day with short speaking challenges.", "action": {"default_popup": "popup.html", "default_title": "Daily English Speaking Practice"}}

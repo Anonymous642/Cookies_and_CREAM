@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TikZ Grapher", "version": "1.0", "description": "Quick TikZ graph generator", "action": {"default_popup": "popup.html", "default_title": "TikZ Grapher"}, "permissions": ["clipboardWrite"], "web_accessible_resources": [{"resources": ["mathjax/**"], "matches": ["<all_urls>"]}]}

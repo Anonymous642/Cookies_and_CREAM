@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "\ud83e\udd96 Dino", "version": "1.0", "description": "just the dino gif. that's it.", "action": {"default_popup": "popup.html", "default_title": "Dino"}}

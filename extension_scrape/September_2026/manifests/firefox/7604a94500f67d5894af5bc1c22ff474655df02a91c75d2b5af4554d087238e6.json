@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Logalarm Activity Tracker", "version": "1.2", "description": "Tracks the active tab and its usage duration.", "permissions": ["webRequest", "tabs", "windows"], "background": {"scripts": ["background.js"]}, "incognito": "spanning", "applications": {"gecko": {"id": "logalarm@ankarabilisim.org", "strict_min_version": "60.0"}}}

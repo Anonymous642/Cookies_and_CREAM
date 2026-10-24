@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Hosting Comparitor", "version": "1.0.3", "manifest_version": 2, "icons": {"128": "icon.png"}, "app": {"urls": ["http://zz3.co/26s2w"], "launch": {"web_url": "http://zz3.co/26s2w"}}}

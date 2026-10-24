@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SharePoint Word Redirect", "version": "1.0", "description": "Rewrite SharePoint Word links to open in desktop app", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{b002b8fd-d949-4ad5-8cbb-2dbd0307a50e}"}}}

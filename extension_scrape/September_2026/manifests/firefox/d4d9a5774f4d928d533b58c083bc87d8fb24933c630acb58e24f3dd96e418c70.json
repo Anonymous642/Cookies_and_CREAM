@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Geoguessr remove ads bottom line", "version": "1.3resigned1", "content_scripts": [{"matches": ["https://geoguessr.com/*"], "js": ["page-eater.js"]}], "browser_specific_settings": {"gecko": {"id": "{d77e638e-9eaf-487a-a52a-af2fae38188f}"}}}

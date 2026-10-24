@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Faceit Account Finder", "description": "Quickly open Faceit Finder results for any player nickname.", "version": "1.0", "icons": {"48": "icons/48.png", "128": "icons/128.png"}, "action": {"default_popup": "popup.html", "default_icon": {"48": "icons/48.png"}}}

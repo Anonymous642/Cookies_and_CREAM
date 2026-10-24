@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Dazn Chat", "description": "Chattig Chrome Extension", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "index.html", "default_title": "Open the popup"}, "icons": {"128": "./128.png"}, "background": {"service_worker": "./background.js"}}

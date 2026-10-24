@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Feed Hider", "version": "1.0", "description": "Feed Hider: Hide social media feeds", "action": {"default_popup": "popup.html", "default_icon": "feed_hider.png"}, "icons": {"128": "feed_hider.png"}, "browser_specific_settings": {"gecko": {"id": "nikkibatesvp200735@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

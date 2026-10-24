@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Instagram Account Bouncer", "version": "1.0", "description": "Only allows specified accounts to be shown", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://www.instagram.com/*"], "js": ["block_accounts.js"]}], "browser_specific_settings": {"gecko": {"id": "your.extension1209380123@example.com"}}}

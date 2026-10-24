@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Voider", "version": "1.0", "description": "Press Spacebar to jump over enemies, as the game gets harder and harder!", "icons": {"48": "logo.png", "128": "logo.png"}, "action": {"default_popup": "index.html", "default_icon": {"48": "logo.png"}}, "permissions": []}

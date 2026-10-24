@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "B\u00edblia NVI", "version": "1.2", "action": {"default_popup": "popup.html"}, "icons": {"16": "icons/icon16.png", "48": "icons/icon64.png", "128": "icons/icon128.png"}, "web_accessible_resources": [{"resources": ["hymns.json"], "matches": ["<all_urls>"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hide Prime Rotten Tomatoes", "version": "1.0.0", "description": "Hides Rotten Tomatoes elements on Prime Video.", "content_scripts": [{"matches": ["https://www.amazon.com/*", "https://www.primevideo.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

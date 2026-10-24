@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reveal Password Field", "version": "1.0", "description": "Adds a context menu option to reveal password fields.", "permissions": ["contextMenus", "activeTab", "tabs"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{e7b99d50-8e5b-48df-ab90-8eba1ca3e1d4}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Code Formatter", "version": "2.0", "description": "A Chrome extension to identify fonts & stlyes used by a web page.", "action": {"default_popup": "index.html", "default_icon": "icon.png"}}

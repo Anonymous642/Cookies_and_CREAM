@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Project Saver", "version": "1.0", "description": "Save & restore tab sets by project.", "permissions": ["tabs", "storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{efb9b74e-43d5-4b5f-b6fe-5df7f8b586a9}"}}}

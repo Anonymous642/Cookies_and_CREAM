@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Finviz Ticker Extractor", "version": "1.0", "permissions": ["tabs"], "action": {"default_popup": "popup.html", "default_icon": {"100": "icons/icon.png"}}, "icons": {"100": "icons/icon.png"}, "browser_specific_settings": {"gecko": {"id": "fa2f0209-e1d8-4d70-9166-5bce71750817@bar.com"}}}

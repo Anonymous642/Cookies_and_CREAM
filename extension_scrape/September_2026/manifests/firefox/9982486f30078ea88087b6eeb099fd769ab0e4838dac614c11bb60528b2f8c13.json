@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SYP to DJF Converter", "version": "1.0", "description": "Convert Syrian Pound (SYP) to Djiboutian Franc (DJF).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert SYP to DJF"}, "browser_specific_settings": {"gecko": {"id": "{2d3db4ae-1ba5-4626-bee9-d9c39822c5a7}"}}}

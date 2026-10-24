@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83d\udcc5 My Timetable", "version": "1.0", "description": "Create and manage your personal 5x7 schedule with editable time slots.", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "murchhjordtdmu@hotmail.com"}}}

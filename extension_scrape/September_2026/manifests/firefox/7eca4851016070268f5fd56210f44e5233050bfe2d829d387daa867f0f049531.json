@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Counter", "version": "1.0", "description": "Counts the total number of open tabs in your browser.", "permissions": ["tabs"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{ea5fcb1e-6a45-4758-b3e8-68a153483bf9}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "KissAnimeAutoHide", "version": "1.4resigned1", "description": "Auto clicks on the hide button for ads on the kiss anime site", "content_scripts": [{"matches": ["*://*.kissanime.ru/*"], "js": ["KissAnimeAutoHide.js"]}], "browser_specific_settings": {"gecko": {"id": "{7fadb520-cc02-4ecd-b79c-ec34bd93e195}"}}}

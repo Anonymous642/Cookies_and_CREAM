@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HVS Shorts Extended", "version": "1.2", "description": "Forwards and backwards YouTube Shorts by 3% using Arrow Keys.", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["content.js"]}]}

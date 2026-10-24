@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pro Intro Generator", "version": "1.0.0", "description": "Generate a random professional self-introduction from a job title for CV, bio, or LinkedIn.", "action": {"default_title": "Pro Intro Generator", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "chromepad++", "version": "1.6", "description": "simple notepad in Chrome. designed & programmed by oscey.", "permissions": ["storage"], "action": {"default_popup": "index.html", "default_icon": "icon.png"}}

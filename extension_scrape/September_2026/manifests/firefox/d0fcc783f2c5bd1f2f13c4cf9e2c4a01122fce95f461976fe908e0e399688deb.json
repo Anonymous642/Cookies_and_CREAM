@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Big Cursor Extension", "version": "1.0", "description": "Make the cursor larger and more visible.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_title": "Big Cursor Extension", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{14bc0052-859b-4292-b49e-eaa148f84ee7}"}}}

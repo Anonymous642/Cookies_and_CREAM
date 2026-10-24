@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bubble Pop Game", "version": "1.0", "description": "A simple bubble popping game to test your reflexes.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "index.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{6db4901b-ff10-4d58-b3e1-012a6463cda3}"}}}

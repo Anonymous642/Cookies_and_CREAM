@@ -1,0 +1,1 @@
+{"description": "Popup a box to do base64 encoding and decoding", "manifest_version": 2, "name": "B64Tool", "version": "0.0.1", "homepage_url": "http://test.com", "icons": {"32": "icons/32.png", "48": "icons/48.png"}, "browser_action": {"default_icon": "icons/32.png", "default_title": "B64Tool", "default_popup": "popup/b64.html"}}

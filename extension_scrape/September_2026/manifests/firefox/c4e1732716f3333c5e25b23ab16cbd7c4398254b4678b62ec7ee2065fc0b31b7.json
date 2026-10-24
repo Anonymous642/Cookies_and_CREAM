@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Capital letter", "version": "1.0.4resigned1", "description": "Extension for automatic elevating of first sentence letter to capital", "content_scripts": [{"matches": ["<all_urls>"], "js": ["auto-first-capital.js"]}], "author": "Oleh Yaroshchuk", "browser_specific_settings": {"gecko": {"id": "{2011827d-8d69-4e6a-b094-c702a6385865}"}}}

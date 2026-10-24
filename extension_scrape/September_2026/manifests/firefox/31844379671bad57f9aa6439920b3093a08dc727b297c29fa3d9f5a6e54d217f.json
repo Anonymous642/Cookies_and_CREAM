@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "XAF to BIF Converter", "version": "1.0", "description": "Convert Central African Franc (XAF) to Burundian Franc (BIF).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert XAF to BIF"}, "browser_specific_settings": {"gecko": {"id": "{a6b84e07-b816-45b6-9200-ab1952376823}"}}}

@@ -1,0 +1,1 @@
+{"name": "notTweet", "version": "201resigned1", "manifest_version": 2, "icons": {"128": "./icon.png"}, "description": "notTweet", "content_scripts": [{"matches": ["https://tweetdeck.twitter.com/*", "https://twitter.com/*"], "js": ["index.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{0695747d-1e1d-4f18-883b-62c479cd7801}"}}}

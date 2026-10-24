@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Removes Most AdBlocker Walls (DailyBeast etc)", "version": "14.0", "description": "Checks all websites if they contain tp-modal walls and removes them, works with dailybeast, gizmodo etc", "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["jquery-3.3.1.min.js", "background.js"]}]}

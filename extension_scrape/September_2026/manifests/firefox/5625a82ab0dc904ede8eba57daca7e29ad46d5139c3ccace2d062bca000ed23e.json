@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Tab Domain Organizer UTF8", "version": "3.0", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "tab-domain-organizer-utf8@example.com", "data_collection_permissions": {"required": ["none"]}}}}

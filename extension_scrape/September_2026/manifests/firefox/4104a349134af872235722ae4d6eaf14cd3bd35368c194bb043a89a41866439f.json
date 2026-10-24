@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AVIF MIME Fix", "version": "1.1", "description": "Fix wrong MIME type for .avif images", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{5b33829d-7d3e-448e-a64c-afc7376804bf}"}}}

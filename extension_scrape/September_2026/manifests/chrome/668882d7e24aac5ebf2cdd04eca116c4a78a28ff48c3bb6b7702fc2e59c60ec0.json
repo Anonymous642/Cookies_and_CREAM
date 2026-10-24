@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Calculateur de Piquets - V3", "version": "3.0.0", "description": "Calcule le nombre de piquets et leur espacement, et exporte un r\u00e9capitulatif en PDF.", "action": {"default_title": "Calculateur de Piquets", "default_popup": "popup.html"}}

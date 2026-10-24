@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "old_reddit_redirect", "version": "1.0", "description": "Redirects from every reddit.com page to the identical old.reddit.com version.", "icons": {"48": "old_reddit_icon-48.png"}, "content_scripts": [{"matches": ["https://www.reddit.com/*"], "js": ["old_reddit_redirect.js"]}], "browser_specific_settings": {"gecko": {"id": "agetzow@gmail.com"}}}

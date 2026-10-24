@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Better INI Radar", "version": "2.0", "description": "r.ini.fan +", "content_scripts": [{"matches": ["https://r.ini.fan/*"], "js": ["content.js"], "run_at": "document_end"}]}

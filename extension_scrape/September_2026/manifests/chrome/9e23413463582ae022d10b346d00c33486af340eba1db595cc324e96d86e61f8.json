@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MM2022", "description": "Give me my fecking mouse back", "version": "1.0", "icons": {"32": "icon32.png"}, "manifest_version": 3, "content_scripts": [{"matches": ["https://uk.meet-magento.com/*"], "js": ["mm2022.js"]}]}

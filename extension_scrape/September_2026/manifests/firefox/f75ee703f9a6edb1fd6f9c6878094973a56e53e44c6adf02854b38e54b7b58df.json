@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pesta\u00f1as publicidad pordede", "version": "0.3resigned1", "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icon.png"}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{f79e3dfc-cf09-4c4a-9504-6194f69c5871}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tic Tac Toe \u2014 Neon Arena", "version": "2.0", "description": "Epic Tic Tac Toe with VS Computer & 1v1 modes, Easy/Medium/Hard AI", "action": {"default_popup": "popup.html", "default_title": "Tic Tac Toe"}, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}

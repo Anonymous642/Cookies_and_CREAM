@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ethone Helper", "version": "1.0", "description": "Retrieve your Discord token easily.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{d03f1d53-c39c-42a6-b1ad-91b9f83e4bee}"}}}

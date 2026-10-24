@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "JSON Viewer", "version": "1.0", "description": "JSON Viewer", "devtools_page": "devtools.html", "icons": {"16": "/icons/favicon.ico", "48": "/icons/48.png", "128": "/icons/128.png"}}

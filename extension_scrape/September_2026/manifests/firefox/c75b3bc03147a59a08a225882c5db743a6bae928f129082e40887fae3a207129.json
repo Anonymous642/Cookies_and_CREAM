@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Idea Board Tab", "version": "1.0", "description": "A new tab page for capturing ideas quickly when inspiration strikes.", "permissions": ["storage"], "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{01408264-2ef0-4ed8-bae1-19019a8edb38}"}}}

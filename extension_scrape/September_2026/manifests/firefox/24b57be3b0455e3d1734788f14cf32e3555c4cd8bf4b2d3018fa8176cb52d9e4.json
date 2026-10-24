@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Popup Dictionary", "version": "1.0", "description": "Hi\u1ec3n th\u1ecb ngh\u0129a c\u1ee7a t\u1eeb khi ch\u1ecdn v\u0103n b\u1ea3n.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "applications": {"gecko": {"id": "popup-dictionary@example.com"}}}

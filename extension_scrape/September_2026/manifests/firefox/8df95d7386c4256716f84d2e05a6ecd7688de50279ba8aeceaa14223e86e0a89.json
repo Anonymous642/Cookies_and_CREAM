@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Kid-Friendly Browser", "version": "1.0", "description": "Blocks access to inappropriate websites for kids.", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{5e529ee8-98d6-4afe-b0a2-85d21cb60f28}"}}}

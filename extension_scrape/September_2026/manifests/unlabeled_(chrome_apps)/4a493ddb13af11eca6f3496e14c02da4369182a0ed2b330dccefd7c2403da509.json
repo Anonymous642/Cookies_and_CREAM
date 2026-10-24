@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Recetas de postres", "description": "Recetario de postres deliciosos y faciles de preparar", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.solopostres.com/"], "launch": {"web_url": "http://www.solopostres.com/"}}}

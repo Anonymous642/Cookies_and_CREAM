@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "simplify_yt", "version": "1.0", "description": "Removes certain buttons from the YouTube page not used by an average user.", "icons": {"48": "icons/simply-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{964e0f61-a0cd-41e5-aa68-e63912bc1ea9}"}}}

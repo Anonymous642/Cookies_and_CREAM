@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gmail Quick Compose by Tr\u1ea7n Song Nguy\u00ean Chung", "version": "1.0", "description": "M\u1edf nhanh trang so\u1ea1n th\u01b0 Gmail", "action": {"default_icon": "icon.png"}, "background": {"service_worker": "background.js"}}

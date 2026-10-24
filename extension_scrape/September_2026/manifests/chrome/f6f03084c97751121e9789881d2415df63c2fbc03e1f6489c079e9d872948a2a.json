@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Calculatrice TVA & Remise", "version": "1.0", "description": "Une calculatrice sympa pour passer du HT au TTC et appliquer des remises \ud83c\udf89", "action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}, "permissions": []}

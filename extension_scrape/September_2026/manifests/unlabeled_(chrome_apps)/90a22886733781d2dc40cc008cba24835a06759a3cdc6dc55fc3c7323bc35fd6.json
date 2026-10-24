@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "My Atom", "description": "Belajar konfigurasi elektron Kimia", "version": "0.0.2", "manifest_version": 2, "app": {"background": {"scripts": ["chrome.js"]}}, "permissions": ["storage"], "icons": {"16": "logo16.png", "128": "logo128.png"}}

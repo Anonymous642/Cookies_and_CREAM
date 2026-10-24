@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tin t\u1ee9c rss", "version": "1.5.0", "description": "Default RSS news for mozilla firefox browser.", "icons": {"128": "blue-dragon.png"}, "permissions": ["geolocation"], "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{402a5f2b-adf8-42bf-bf40-98e856bb0268}"}}}

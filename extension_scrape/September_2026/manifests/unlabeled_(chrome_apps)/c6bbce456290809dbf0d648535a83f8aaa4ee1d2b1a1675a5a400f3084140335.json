@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WebSim Hockey", "description": "__MSG_appDesc__", "version": "2.2", "manifest_version": 2, "default_locale": "en", "icons": {"128": "icon_wsh_128.png"}, "app": {"urls": ["http://websimhockey.com/"], "launch": {"web_url": "http://websimhockey.com/"}}, "short_name": "WSH"}

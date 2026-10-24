@@ -1,0 +1,25 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "name": "Transcript Copier for tl;dv",
+  "version": "1.0.0",
+  "description": "Extrait le transcript tl;dv de la page courante, le nettoie et le copie au format Markdown.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Copier le transcript tl;dv",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "permissions": ["activeTab", "scripting", "clipboardWrite"]
+}

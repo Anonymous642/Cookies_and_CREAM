@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "uniqtab", "version": "1.2.4", "description": "Automatically closes duplicate tabs, keeping only the latest one.", "manifest_version": 3, "background": {"service_worker": "service-worker-loader.js", "type": "module"}, "permissions": ["tabs"]}

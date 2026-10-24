@@ -1,0 +1,1 @@
+{"version": "1.0", "name": "Mystical Rainy Village", "chrome_url_overrides": {"newtab": "index.html"}, "description": "An ancient East Asian-style village, enveloped in a gentle rain and a misty atmosphere.", "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{3478bad0-89fc-4ef0-81fd-aea142aca81f}"}}}

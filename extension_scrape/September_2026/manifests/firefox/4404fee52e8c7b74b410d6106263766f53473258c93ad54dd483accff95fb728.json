@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GommeHD-DarkTheme", "version": "1.0.2resigned1", "permissions": ["tabs"], "content_scripts": [{"matches": ["*://*.gommehd.net/*"], "js": ["darktheme.js"], "all_frames": true, "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{324ae3ff-4d43-438d-a31f-da88be618dd5}"}}}

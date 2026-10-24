@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Vavacss Extension", "version": "1.0", "description": "Acc\u00e8de rapidement au contenu de Vavacss.", "icons": {"48": "icon.png", "128": "icon_128.png"}, "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "vavacssextension@gmail.com"}}}

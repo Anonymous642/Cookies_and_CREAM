@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FitCopy", "description": "Copy selected text and convert it for fitnesse wiki code", "version": "1.1resigned1", "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "contextMenus", "clipboardWrite"], "browser_specific_settings": {"gecko": {"id": "{8bb8a880-c2b3-4e9a-879b-e761f8b40291}"}}}

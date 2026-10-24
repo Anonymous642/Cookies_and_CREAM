@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CloudDrop", "description": "Easy and Fast Way to share your files!", "version": "0.0.1", "manifest_version": 3, "icons": {"32": "favicon.png"}, "action": {"default_popup": "index.html", "default_icon": "favicon.png", "default_title": "CloudDrop"}}

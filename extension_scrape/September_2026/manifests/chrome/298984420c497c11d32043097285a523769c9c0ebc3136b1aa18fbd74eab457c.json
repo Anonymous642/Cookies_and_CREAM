@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Semana Per\u00fa", "version": "1.0", "description": "Muestra el n\u00famero de semana ISO para Per\u00fa.", "permissions": ["alarms"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html", "default_title": "Semana Per\u00fa"}}

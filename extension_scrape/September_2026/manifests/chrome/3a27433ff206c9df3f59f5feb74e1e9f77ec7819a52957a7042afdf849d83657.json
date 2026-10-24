@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SOLUSD \u2014 instant Solana/USD converter", "version": "3.0", "description": "Convert Solana (SOL) to USD and vice versa with live exchange rates, providing seamless bidirectional currency conversions.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

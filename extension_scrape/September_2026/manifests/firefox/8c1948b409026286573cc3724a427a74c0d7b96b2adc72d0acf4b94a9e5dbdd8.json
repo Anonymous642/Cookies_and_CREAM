@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Retro Arcade Tab", "version": "1.0", "description": "Play retro arcade games in new tabs.", "chrome_url_overrides": {"newtab": "arcade.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{45c38288-ef6f-463a-b230-0d7bdac15473}"}}}

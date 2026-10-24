@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Proxy Auth", "description": "", "version": "1.0", "background": {"scripts": ["lib.js", "bg.js"]}, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "browser_action": {"default_title": "Proxy Auth"}, "options_page": "options.html", "browser_specific_settings": {"gecko": {"id": "{ca11da0f-60e7-40c4-a7a5-cff7c4f0fe85}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Url Shortener", "version": "1.0.5", "description": "Generate short links for the current page.", "action": {"default_popup": "popup.html"}, "permissions": ["activeTab", "storage"], "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

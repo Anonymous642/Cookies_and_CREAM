@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NoShorts", "version": "1.2", "description": "removes shorts button from youtube.com", "icons": {"48": "icons/noshorts-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["noshorts.js"]}], "browser_specific_settings": {"gecko": {"id": "{95ce8612-1fbd-4225-8505-4dbee4b42d2c}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bobby Jumps", "description": "Bobby Jumps is a jump-and-run platform style game.", "version": "2.5", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://bobby-jumps.appspot.com/"], "launch": {"web_url": "http://bobby-jumps.appspot.com/"}}}

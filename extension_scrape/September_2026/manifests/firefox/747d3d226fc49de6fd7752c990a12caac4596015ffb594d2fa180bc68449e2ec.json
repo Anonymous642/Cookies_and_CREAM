@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pixel Rain Tab", "version": "1.0", "description": "New tab with relaxing pixel rain animation.", "chrome_url_overrides": {"newtab": "pixel_rain.html"}, "permissions": [], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{6c61bda3-051f-4d1b-b063-022342e52abc}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Koobits Dark Mode", "version": "1.0", "description": "Better dark mode for Koobits", "content_scripts": [{"matches": ["*://*.koobits.com/*"], "css": ["dark.css"], "run_at": "document_idle"}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cadet Portal Calendar", "version": "1.1.0", "description": "Browse Cadet Portal events as a monthly calendar with status filters.", "action": {"default_popup": "popup.html", "default_title": "Cadet Portal Calendar"}, "host_permissions": ["https://cadets.bader.mod.uk/*"]}

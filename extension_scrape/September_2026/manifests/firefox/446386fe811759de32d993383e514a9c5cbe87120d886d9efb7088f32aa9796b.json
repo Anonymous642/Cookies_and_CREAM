@@ -1,0 +1,1 @@
+{"author": "arxaqapi", "manifest_version": 2, "name": "rfcrecenter", "version": "1.0", "description": "Recenters the rfc content div for better reading", "icons": {"48": "icons/i-48.png"}, "content_scripts": [{"matches": ["*://tools.ietf.org/html/rfc*", "*://tools.ietf.org/html/*"], "js": ["rfcrecenter.js"]}]}

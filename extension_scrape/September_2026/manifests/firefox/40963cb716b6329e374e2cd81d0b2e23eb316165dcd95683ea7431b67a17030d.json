@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Realchill Startpage", "version": "0.2.5", "permissions": ["activeTab"], "chrome_url_overrides": {"newtab": "index.html"}, "browser_action": {"default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "@realchill", "data_collection_permissions": {"required": ["none"]}}}}

@@ -1,0 +1,1 @@
+{"description": "Change user-agent to Mac version", "manifest_version": 2, "name": "user-agent-mac", "version": "1.2resigned1", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{fbd5b808-2421-4640-9275-2c0dc4f18391}"}}}

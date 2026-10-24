@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Global Dark Mode", "version": "1.0", "description": "Dark mode for every website.", "action": {"default_popup": "popup.html", "default_icon": "global_dark_mode.png"}, "icons": {"128": "global_dark_mode.png"}, "browser_specific_settings": {"gecko": {"id": "lucianaunap459811@hotmail.com"}}}

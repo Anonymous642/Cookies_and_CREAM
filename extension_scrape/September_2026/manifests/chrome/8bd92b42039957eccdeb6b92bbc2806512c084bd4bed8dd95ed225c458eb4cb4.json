@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "EE2ME", "description": "Import from easyenjaz", "version": "1.0.2.7", "manifest_version": 3, "permissions": ["contextMenus", "activeTab", "scripting", "clipboardRead"], "icons": {"32": "icons/icon-32.png", "48": "icons/icon-48.png"}, "background": {"service_worker": "background.js"}}

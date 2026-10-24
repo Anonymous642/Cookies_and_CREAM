@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Scroll To Top Button", "version": "1.0", "description": "Adds a floating button to scroll to top of the page", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["style.css"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{ccbbefd6-b515-4a4c-b6da-4be6cef6dc0d}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Erstatt Jira-ikon med r\u00f8d boks", "version": "1.0", "description": "Replaces Jira favicon with a red square to help distinguish Jira and Bitbucket from each other.", "content_scripts": [{"matches": ["*://*.vegvesen.no/*"], "js": ["main-script.js"]}]}

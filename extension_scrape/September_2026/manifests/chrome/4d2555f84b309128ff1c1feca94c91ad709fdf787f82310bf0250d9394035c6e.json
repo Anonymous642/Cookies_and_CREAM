@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Steam Global Review Count", "version": "1.0", "description": "Display global review count on Steam store pages", "content_scripts": [{"matches": ["https://store.steampowered.com/app/*"], "js": ["content.js"]}]}

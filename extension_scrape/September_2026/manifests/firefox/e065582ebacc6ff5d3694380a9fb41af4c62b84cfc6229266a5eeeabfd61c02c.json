@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Rollbit Size Checker", "version": "2.0", "description": "Disable betting button if size is greater than it should be.", "browser_specific_settings": {"gecko": {"id": "size_checker_mobile@rollbit.com"}}, "content_scripts": [{"matches": ["*://*.rollbit.com/*"], "js": ["content.js"]}]}

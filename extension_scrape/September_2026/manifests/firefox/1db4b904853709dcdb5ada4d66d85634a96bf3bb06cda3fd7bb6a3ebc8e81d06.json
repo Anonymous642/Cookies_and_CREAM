@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YoutubeIT", "description": "Search selected text in YouTube", "version": "1.1resigned1", "homepage_url": "http://www.outofmemory.blog.br/youtube-it/", "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "tabs", "contextMenus"], "browser_specific_settings": {"gecko": {"id": "youtubeit_aechiara@gmail.com"}}}

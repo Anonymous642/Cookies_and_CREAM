@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Free Online Image Resizer", "version": "1.0.0", "description": "Resize images with custom dimensions", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{1a41bd85-8116-4516-a293-0a0d94f01671}"}}}

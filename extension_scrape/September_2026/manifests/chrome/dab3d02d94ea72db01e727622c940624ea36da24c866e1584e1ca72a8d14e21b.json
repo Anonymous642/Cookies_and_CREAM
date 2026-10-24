@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "WordPress Detector", "version": "1.0", "description": "Checks if a site is powered by WordPress", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_icon": "icons/icon.png"}, "background": {"service_worker": "background.js"}}

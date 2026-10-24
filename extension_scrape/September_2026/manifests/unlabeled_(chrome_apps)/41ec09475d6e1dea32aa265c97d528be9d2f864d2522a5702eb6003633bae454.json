@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "StorageMarket", "manifest_version": 2, "version": "1.0.0", "description": "Rent out extra space, save on self storage.", "icons": {"128": "128.png"}, "app": {"urls": ["http://storage-market.tonkworks.com/"], "launch": {"web_url": "http://storage-market.tonkworks.com/"}}, "short_name": "StorageMarket"}

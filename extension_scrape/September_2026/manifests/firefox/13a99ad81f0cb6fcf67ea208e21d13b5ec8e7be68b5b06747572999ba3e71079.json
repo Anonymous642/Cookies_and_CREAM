@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Minimal Start", "version": "1.1", "description": "A clean, minimalist start page you can fully customize \u2014 add links, widgets, themes, and more for a focused browsing experience", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{00653c61-6d23-45b0-bc5b-db6c244b64d1}"}}}

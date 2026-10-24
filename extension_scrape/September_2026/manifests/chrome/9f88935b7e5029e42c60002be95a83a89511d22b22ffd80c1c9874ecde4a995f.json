@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Les hores en catal\u00e0", "description": "\u00bfCom s'expressen les hores en catal\u00e0?", "version": "1.0", "action": {"default_popup": "index.html", "default_icon": "img/icon.png"}}

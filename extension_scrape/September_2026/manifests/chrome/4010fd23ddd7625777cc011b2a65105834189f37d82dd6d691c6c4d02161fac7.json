@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Clip To File", "version": "1.0", "description": "Clip To File: Save clipboard content to file.", "action": {"default_popup": "popup.html", "default_icon": "clip_to_file.png"}, "icons": {"128": "clip_to_file.png"}}

@@ -1,0 +1,1 @@
+{"name": "change font to sans serif", "manifest_version": 2, "short_name": "change font to sans serif", "description": "change font to sans serif", "version": "1.0", "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "pen Cropped.png"}, "icons": {"128": "pen Cropped.png"}}

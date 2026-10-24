@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.0", "description": "An extension to hide Username to site.", "name": "Hide my username", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{bb3670eb-f148-4431-88bd-4c5750cf2429}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SucklessMedium", "version": "1.0", "description": "Make medium blog less miserable to read (it still sucks)", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://medium.com/*"], "js": ["main.js"]}]}

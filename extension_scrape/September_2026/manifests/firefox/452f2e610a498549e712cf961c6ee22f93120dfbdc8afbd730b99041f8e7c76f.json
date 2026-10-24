@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Focus On Left Tab After Closing", "description": "When a current tab is closed, the left tab (or the right tab on RTL environments) will be activated.", "version": "1.0.1resigned1", "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{ed047db4-6768-4185-aaed-0e44fb5bd1f1}"}}}

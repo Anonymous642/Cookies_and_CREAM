@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Morning Dashboard Launcher", "version": "0.5.3", "description": "Opens the local Morning Dashboard whenever a new Firefox tab is created.", "browser_specific_settings": {"gecko": {"id": "morning-dashboard-launcher@local", "data_collection_permissions": {"required": ["none"]}}}, "chrome_url_overrides": {"newtab": "newtab.html"}}

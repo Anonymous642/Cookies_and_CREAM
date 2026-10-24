@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Ops To-Do", "version": "1.0.0", "description": "Save and manage a daily to-do list by date in a tactical military-style interface.", "action": {"default_title": "Daily Ops To-Do", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

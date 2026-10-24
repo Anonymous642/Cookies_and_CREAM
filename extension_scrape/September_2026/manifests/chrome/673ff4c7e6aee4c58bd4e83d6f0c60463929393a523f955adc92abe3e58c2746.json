@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mini Bio Polisher", "version": "1.0.0", "description": "Generate short bio ideas in different tones using a simple popup with no complex permissions.", "action": {"default_popup": "popup.html", "default_title": "Mini Bio Polisher"}, "icons": {"128": "icon128.png"}}

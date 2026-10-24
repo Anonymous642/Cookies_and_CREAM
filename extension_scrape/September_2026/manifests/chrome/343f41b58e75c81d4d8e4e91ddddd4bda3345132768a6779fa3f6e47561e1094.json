@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Anki Speech", "description": "An extension that reads your AnkiWeb cards aloud \u2014 perfect for practicing listening and pronunciation.", "version": "0.1", "action": {"default_icon": "icon.png"}, "content_scripts": [{"matches": ["https://ankiuser.net/study"], "js": ["script.js"]}]}

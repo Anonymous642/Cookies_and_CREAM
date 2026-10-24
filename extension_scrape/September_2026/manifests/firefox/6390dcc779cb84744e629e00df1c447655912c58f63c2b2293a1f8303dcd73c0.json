@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "QR & Bar code generator", "version": "3.1.0", "description": "Browser extension for QR & Bar Code generation", "action": {"default_popup": "index.html"}, "icons": {"16": "logo.png", "48": "logo.png", "128": "logo.png"}, "browser_specific_settings": {"gecko": {"id": "{676fad1b-6b8d-487e-93f2-132dc13860d7}"}}}

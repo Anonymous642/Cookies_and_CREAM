@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Liqui2Cal", "description": "Add Liquipedia matches to your Google Calendar", "version": "1.2.0", "manifest_version": 3, "content_scripts": [{"matches": ["*://liquipedia.net/*"], "js": ["content-script.js"]}], "icons": {"48": "logo-48p.png", "128": "logo-128p.png"}}

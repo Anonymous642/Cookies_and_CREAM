@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quotes on Click", "description": "Paste quotes quickly with the help of Quotes on Click!", "version": "1.0.1", "icons": {"128": "128px.png"}, "action": {"default_icon": "128px.png", "default_popup": "extension.html"}}

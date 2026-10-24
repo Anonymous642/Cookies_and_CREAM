@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Disable X Feed", "version": "1.0.2", "description": "This is a Chrome extension that disables the X timeline.", "content_scripts": [{"matches": ["*://x.com/*"], "js": ["content.js"]}], "icons": {"48": "icon.png", "128": "icon128.png"}}

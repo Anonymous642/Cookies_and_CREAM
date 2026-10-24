@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "HemnetTjack", "description": "", "version": "1.3", "manifest_version": 3, "content_scripts": [{"matches": ["https://www.hemnet.se/*"], "css": ["hemnetTjack.css"], "js": ["hemnetTjack.js"]}], "permissions": ["storage"]}

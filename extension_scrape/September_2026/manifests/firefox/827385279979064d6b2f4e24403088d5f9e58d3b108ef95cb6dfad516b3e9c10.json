@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Noio", "version": "1.1resigned1", "description": "Replaces any .io websites you go to with a nice picture", "icons": {"48": "icons/noio-48.png", "96": "icons/noio-96.png"}, "content_scripts": [{"matches": ["*://*.io/*"], "js": ["noio.js"]}], "browser_specific_settings": {"gecko": {"id": "{15c3b901-5a39-4ed4-9c6c-fdfdc1a39477}"}}}

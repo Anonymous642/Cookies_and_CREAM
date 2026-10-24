@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Selvam Blogs", "description": "All my blogs in one place", "version": "0.0.0.2", "manifest_version": 2, "icons": {"128": "ps_128.png"}, "app": {"urls": ["http://selvamblog.blogspot.in/"], "launch": {"web_url": "http://selvamblog.blogspot.in/"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MemoBoard", "version": "1.1", "description": "Note-Saving Program", "action": {"default_popup": "index.html", "default_title": "Remembers your memo content even after restarting the browser!", "default_icon": "memoboard.png"}, "permissions": ["storage"]}

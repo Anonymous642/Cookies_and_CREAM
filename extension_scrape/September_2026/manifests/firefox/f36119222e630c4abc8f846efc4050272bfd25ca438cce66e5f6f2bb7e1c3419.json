@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AW Web Tab Tracker", "version": "1.0", "description": "Tracks the active tab and sends the base domain to a local WebSocket server.", "permissions": ["tabs", "alarms", "<all_urls>"], "background": {"scripts": ["background.js"], "persistent": true}, "browser_specific_settings": {"gecko": {"id": "aw_web_tab_tracker@example.com"}}}

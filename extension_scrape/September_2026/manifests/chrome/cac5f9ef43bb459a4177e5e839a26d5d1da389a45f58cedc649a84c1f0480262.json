@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ArchiveJump", "version": "1.0", "description": "Instantly jump to an archived version", "content_scripts": [{"matches": ["*://*.folha.uol.com.br/*", "*://*.lequipe.fr/*"], "js": ["content.js"], "run_at": "document_idle"}]}

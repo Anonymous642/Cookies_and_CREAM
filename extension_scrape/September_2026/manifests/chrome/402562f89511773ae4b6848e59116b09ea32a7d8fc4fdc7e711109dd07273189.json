@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MEPCO Bill Checker", "version": "1.0", "description": "Check your MEPCO electricity bill online instantly.", "action": {"default_popup": "popup.html", "default_title": "MEPCO Bill Checker"}, "permissions": ["tabs"], "host_permissions": ["https://bill.pitc.com.pk/*"]}

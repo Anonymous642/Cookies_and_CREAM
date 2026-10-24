@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Lakhtocrore", "version": "0.3resigned1", "description": "Converts any amount selected into Indian Currency in words", "permissions": ["activeTab", "contextMenus", "notifications"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["Lakhtocrore.js"]}], "browser_specific_settings": {"gecko": {"id": "{2989697b-c924-43b6-b329-011e72767d42}"}}}

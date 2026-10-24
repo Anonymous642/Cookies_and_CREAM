@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Motivational Quotes", "version": "1.0", "description": "Displays a motivational quote on each new tab.", "chrome_url_overrides": {"newtab": "index.html"}}

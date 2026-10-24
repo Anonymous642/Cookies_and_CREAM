@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HTTP Pinger", "version": "1.0", "description": "Measures HTTP/HTTPS latency. No ICMP or native apps.", "permissions": ["http://*/", "https://*/"], "browser_action": {"default_popup": "popup.html", "default_title": "HTTP Pinger"}, "browser_specific_settings": {"gecko": {"id": "{b7a96db2-f3d0-43b7-ad89-0ad5fc2f0cfa}"}}}

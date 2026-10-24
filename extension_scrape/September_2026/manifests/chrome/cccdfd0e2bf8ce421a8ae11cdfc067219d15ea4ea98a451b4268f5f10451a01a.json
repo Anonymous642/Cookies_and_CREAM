@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Rose Caption Generator", "version": "1.0", "description": "Generate stylish TikTok captions instantly based on your mood.", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

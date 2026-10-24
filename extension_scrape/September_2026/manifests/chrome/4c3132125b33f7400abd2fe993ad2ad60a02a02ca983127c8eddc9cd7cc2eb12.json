@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Days Between Dates", "version": "1.0.0", "description": "Count the days between two dates in a simple popup. Works offline. No permissions.", "action": {"default_title": "Days Between Dates", "default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}}

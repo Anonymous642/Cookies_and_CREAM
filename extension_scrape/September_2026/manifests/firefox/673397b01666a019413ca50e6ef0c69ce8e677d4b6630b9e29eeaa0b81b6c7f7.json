@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Excel Shortcuts", "version": "1.0.0", "description": "A sidebar add-on displaying Microsoft Excel shortcuts with search and platform filtering.", "permissions": [], "sidebar_action": {"default_title": "Excel Shortcuts", "default_panel": "sidebar.html"}, "browser_specific_settings": {"gecko": {"id": "excel_shortcuts@benes.iwp.edu"}}}

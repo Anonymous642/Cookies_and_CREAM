@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "go2roadmap", "description": "centriXs go2roadmap", "version": "1.2", "icons": {"128": "128.png"}, "app": {"urls": ["http://go2roadmap.com/"], "launch": {"web_url": "http://go2roadmap.com/"}}, "permissions": ["unlimitedStorage", "notifications", "fullscreen"]}

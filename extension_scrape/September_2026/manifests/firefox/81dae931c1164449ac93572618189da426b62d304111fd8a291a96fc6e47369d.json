@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "no-more-epdf", "version": "1.0", "description": "converts all links with epdf into pdf", "content_scripts": [{"matches": ["https://*/doi/*"], "js": ["no-more-epdf.js"]}], "browser_specific_settings": {"gecko": {"id": "{9a22529f-a357-41e1-8ae4-81ab45a70037}"}}}

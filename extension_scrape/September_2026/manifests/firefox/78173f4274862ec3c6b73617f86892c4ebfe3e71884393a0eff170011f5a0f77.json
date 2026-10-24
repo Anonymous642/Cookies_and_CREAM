@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "IAteThis", "version": "1.1", "description": "Calorie info downloader by Sparksammy that works with CalorieKing to track what you ate.", "icons": {"48": "icons/iat-48.png"}, "content_scripts": [{"matches": ["*://*.calorieking.com/*/*/foods/f/*"], "js": ["iatethis.js"]}]}

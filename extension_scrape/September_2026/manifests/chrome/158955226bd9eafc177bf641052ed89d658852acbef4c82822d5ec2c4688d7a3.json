@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Shiny Detector", "version": "0.2", "description": "Spotkanie i z\u0142apanie shiny wysy\u0142a powiadomienie na DC", "permissions": ["storage"], "host_permissions": ["https://gra.pokelife.pl/*"], "content_scripts": [{"matches": ["https://gra.pokelife.pl/*"], "js": ["content.js"]}]}

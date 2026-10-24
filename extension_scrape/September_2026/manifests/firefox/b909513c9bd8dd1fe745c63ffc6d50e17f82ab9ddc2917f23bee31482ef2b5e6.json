@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "English Intro Suggester", "version": "1.0", "description": "Suggests an English introduction paragraph about yourself and where you live.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "m4titusmacielquf9872@hotmail.com"}}}

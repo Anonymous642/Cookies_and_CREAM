@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Becquet Recherche", "version": "1.0.4", "description": "Saisissez une r\u00e9f\u00e9rence produit Becquet pour ouvrir directement la page correspondante.", "action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png"}}, "icons": {"128": "icon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "zep start", "version": "1.0", "description": "minimalism at it's peak'", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["storage", "notifications"], "options_page": "settings.html", "browser_specific_settings": {"gecko": {"id": "{e98ceed5-a7dd-4243-8452-44dcbe45be2a}"}}}

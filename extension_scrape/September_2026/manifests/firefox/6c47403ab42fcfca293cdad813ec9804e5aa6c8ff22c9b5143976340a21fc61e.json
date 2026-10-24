@@ -1,0 +1,1 @@
+{"version": "1.0", "name": "Night Beach under the Mountains", "chrome_url_overrides": {"newtab": "index.html"}, "description": "A peaceful beach scene at night, with an empty sandy shore and gentle waves lapping at the coast.", "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{ef69d570-1a0f-4bb1-9cb9-a31e8e187366}"}}}

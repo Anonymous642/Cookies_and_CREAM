@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Romeo's Discord Bidi (RTL) Fix", "version": "1.0", "description": "Fixes bidirectional text issues in Discord by setting unicode-bidi to plaintext", "content_scripts": [{"matches": ["*://*.discord.com/*"], "css": ["styles.css"]}], "icons": {"48": "icon48.png", "128": "icon128.png"}}

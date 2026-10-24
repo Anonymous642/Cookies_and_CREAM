@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Factora 2FA", "short_name": "Factora", "version": "1.0.0", "description": "The simplest way to calculate the 2FA of a number.", "action": {"default_popup": "index.html", "default_title": "Factora"}, "icons": {"48": "static/images/icon_48.png", "128": "static/images/icon_128.png"}}

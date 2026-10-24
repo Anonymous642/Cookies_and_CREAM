@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "eth to 1000000", "version": "1.0", "description": "Replaces all images on Twitter/X with a custom image", "content_scripts": [{"matches": ["*://*.twitter.com/*", "*://*.x.com/*"], "js": ["content.js"]}], "icons": {"48": "icon.png", "128": "icon.png"}}

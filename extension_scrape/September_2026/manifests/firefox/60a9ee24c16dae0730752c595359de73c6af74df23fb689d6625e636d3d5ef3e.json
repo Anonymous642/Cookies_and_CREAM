@@ -1,0 +1,1 @@
+{"manifest_version": 2, "author": "Belle Wiggins", "version": "1.0", "name": "Fx appender", "description": "Automatically append fxtwitter to shared twitter/x links", "content_scripts": [{"js": ["fix.js"], "matches": ["https://*.twitter.com/*", "https://*.x.com/*"]}], "browser_specific_settings": {"gecko": {"id": "{aa42d6a4-3304-4bf7-a17c-6f6b3abff873}"}}}

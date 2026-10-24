@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove Recents", "version": "1.1", "description": "Remove the recents from Reddit", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["removerecents.js"]}], "browser_specific_settings": {"gecko": {"id": "removerecents@kairosthegoat.com"}}}

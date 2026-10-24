@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Easy XSS", "description": "XSS made easy", "version": "1.1resigned1", "default_locale": "en", "applications": {"gecko": {"strict_min_version": "56.0a1", "id": "{07414fb5-d993-468f-ba39-dd1ac8438b4a}"}}, "background": {"scripts": ["background.js"]}, "permissions": ["menus", "activeTab", "clipboardRead", "clipboardWrite"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "betterKibanaIndex", "version": "1.0", "description": "Increase the width of the index field in kibana", "icons": {"48": "icons/kibana-logo-48.png"}, "content_scripts": [{"matches": ["*://*.eu-west-1.aws.found.io/*"], "css": ["increaseWidth.css"]}], "browser_specific_settings": {"gecko": {"id": "{44eb467c-da3c-4894-aed6-c26c816ded6f}"}}}

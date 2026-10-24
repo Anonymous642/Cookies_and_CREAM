@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Simple console.log for mobile", "version": "1.0.6", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content_script.js"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{d272313c-cfb4-4fcb-8aac-83849cc636cb}", "strict_min_version": "42.0"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YungGuacamole YT Notes 2025", "description": "YungGuacamole YT Notes 2025!!!", "version": "1.0", "icons": {"16": "notes16.png", "48": "notes48.png", "128": "notes128.png"}, "action": {"default_icon": "notes16.png", "default_popup": "game.html"}}

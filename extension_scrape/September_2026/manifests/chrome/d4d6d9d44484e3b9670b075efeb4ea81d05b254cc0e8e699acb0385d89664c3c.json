@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ShadowCraft - CSS Shadow Builder", "version": "1.0.0", "description": "Visually generate and copy CSS box-shadow code with a fun retro interface.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}, "icons": {"128": "icon128.png"}}

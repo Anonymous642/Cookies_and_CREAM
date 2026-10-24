@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WST to PGK Converter", "version": "1.0", "description": "Convert WST to PGK directly from your browser.", "permissions": ["activeTab", "https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{5dd85795-17b5-4109-883a-65d8892a7d46}"}}}

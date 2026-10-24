@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "15-Minute Reoccurring Timer", "version": "1.0", "description": "A simple reoccurring timer that rings every 15 minutes.", "permissions": ["alarms", "storage"], "action": {"default_popup": "popup.html", "default_icon": "icon16.png"}, "background": {"service_worker": "background.js"}}

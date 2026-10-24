@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "No YouTube", "version": "1.0", "description": "Browser extension for help to stop watch YouTube 24/7.", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{97ff820f-10f8-4347-a5c5-9c4d10428ad5}"}}}

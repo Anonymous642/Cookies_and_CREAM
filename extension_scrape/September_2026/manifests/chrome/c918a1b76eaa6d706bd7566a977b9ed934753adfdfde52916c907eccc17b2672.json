@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Remove Hanouna", "version": "1.0", "description": "Supprime Hanouna de la home Canal+", "permissions": [], "content_scripts": [{"matches": ["https://www.canalplus.com/"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Weather Extension", "version": "1.0", "description": "Get the current weather for any city.", "browser_action": {"default_popup": "popup.html", "default_title": "Weather Extension"}, "permissions": ["storage", "https://api.openweathermap.org/"], "browser_specific_settings": {"gecko": {"id": "{e3a0021e-495d-41f6-90c7-8eb9b903040a}"}}}

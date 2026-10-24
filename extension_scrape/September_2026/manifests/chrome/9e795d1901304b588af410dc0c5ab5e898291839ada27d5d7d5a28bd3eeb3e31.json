@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "0.0.7.5", "name": "TabManager.ai", "icons": {"48": "icons/icon_c_48.png", "128": "icons/icon_c_128.png"}, "action": {}, "background": {"service_worker": "worker.js"}, "side_panel": {"default_path": "sidebar.html"}, "permissions": ["sidePanel", "tabs", "favicon", "tabGroups"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clipboard-Pronounce", "version": "1.0", "description": "Speak aloud short words copied to clipboard using TTS.", "permissions": ["clipboardRead"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon48.png"}, "browser_specific_settings": {"gecko": {"id": "{e0390d2a-d665-4f07-b140-cb515f8efe62}"}}}

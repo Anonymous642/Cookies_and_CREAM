@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MoneyClock", "description": "$ Constant Motivation $", "version": "0.0.1", "background": {"service_worker": "background.js"}, "permissions": ["alarms", "storage"], "action": {"default_icon": "img/gold.png", "default_title": "Make that money!", "default_popup": "popup.html"}}

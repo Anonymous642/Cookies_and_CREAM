@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Family Task Board", "version": "1.0", "description": "A task board to organize household chores among family members.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{16dae88c-1db6-4ff6-bf67-b2414060622f}"}}}

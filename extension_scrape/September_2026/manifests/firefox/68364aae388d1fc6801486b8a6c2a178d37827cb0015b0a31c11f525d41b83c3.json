@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bookmark Manager Plus", "version": "3.0", "description": "A modern bookmark manager", "permissions": ["bookmarks", "tabs", "storage"], "browser_action": {"default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{69ae5d28-477a-4440-a17f-64acb4744f45}"}}}

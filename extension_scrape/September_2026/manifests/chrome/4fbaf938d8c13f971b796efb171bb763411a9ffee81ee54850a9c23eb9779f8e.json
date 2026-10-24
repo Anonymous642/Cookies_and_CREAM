@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Coloring Pages with Names - Add a Name to Coloring Pages", "version": "1.1", "description": "Add custom names to coloring page templates and download your creation.", "icons": {"128": "icon128.png"}, "permissions": [], "background": {"service_worker": "background.js"}, "action": {}}

@@ -1,0 +1,1 @@
+{"description": "Adds a shortcut key to youtube to focus the searchbar", "manifest_version": 2, "name": "Youtube QuickSearch", "version": "1.0", "icons": {"48": "icons/quick-search-yt.png"}, "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{b8acc73d-a7ec-4bc5-9d2a-34272a0c3efd}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "New's Clock", "version": "1.2", "description": "A simple clock extension with timezone conversion", "action": {"default_popup": "popup.html"}, "background": {"service_worker": "background.js"}, "permissions": ["storage", "alarms"]}

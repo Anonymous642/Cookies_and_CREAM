@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "XAF to ERN", "version": "1.0", "description": "Convert XAF to ERN", "browser_specific_settings": {"gecko": {"id": "xaf-to-ern@example.com"}}}

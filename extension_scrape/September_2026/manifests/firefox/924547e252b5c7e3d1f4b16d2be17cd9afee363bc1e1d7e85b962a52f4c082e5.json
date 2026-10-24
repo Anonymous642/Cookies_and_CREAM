@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gurk", "version": "1.0.3", "description": "Gurk allows you to customise your chrome newtab page", "permissions": ["bookmarks", "storage", "unlimitedStorage"], "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{64befb89-5d18-46bf-be14-261bf9569cc2}"}}}

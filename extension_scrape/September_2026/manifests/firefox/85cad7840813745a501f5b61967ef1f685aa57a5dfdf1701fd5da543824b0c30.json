@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "yt-dl", "version": "1.0", "description": "download yt videos", "icons": {"48": "icons/down-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{8d0bba12-f252-4c1b-845e-f8ecdd610d75}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "K2M Multi CRM", "version": "1.0", "description": "Configurable WebSocket URL Opener.", "permissions": ["storage"], "host_permissions": ["*://*/*"], "action": {"default_popup": "popup.html", "default_title": "K2M Multi CRM Settings"}, "background": {"service_worker": "background.js"}}

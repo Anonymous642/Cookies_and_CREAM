@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tracking Pixel Detector", "description": "Detects and displays tracking pixels and their IDs.", "version": "2.0", "permissions": ["scripting", "activeTab"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

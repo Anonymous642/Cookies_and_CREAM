@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Math LaTeX Copier", "version": "1.0", "description": "Click on math equations to copy their LaTeX code.", "permissions": ["clipboardWrite", "activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{a65f9ab2-a669-4c08-bd58-af8b2fe11a30}"}}}

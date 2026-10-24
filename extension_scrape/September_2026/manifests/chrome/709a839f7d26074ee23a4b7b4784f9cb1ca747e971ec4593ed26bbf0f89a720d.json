@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Video Chooser", "version": "1.0", "description": "V\u00e1lassz k\u00e9t YouTube vide\u00f3 k\u00f6z\u00fcl 30 m\u00e1sodperces el\u0151n\u00e9zet ut\u00e1n", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

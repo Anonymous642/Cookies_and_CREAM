@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "De Loreto - Gu\u00eda de Tallas de Anillos", "description": "Encuentra tu talla de anillo ideal con esta gu\u00eda visual.", "version": "1.0", "action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}}

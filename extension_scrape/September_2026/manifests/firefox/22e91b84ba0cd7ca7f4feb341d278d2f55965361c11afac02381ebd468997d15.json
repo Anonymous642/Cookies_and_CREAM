@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Github Unicode Highlight", "version": "1.0.4resigned1", "description": "Highlights Unicode characters in PRs on Github", "content_scripts": [{"matches": ["*://github.com/*/*/pull/*/files"], "js": ["pr-check.js"]}], "browser_specific_settings": {"gecko": {"id": "{c865c60f-16f7-42c4-b44d-858785e6a33e}"}}}

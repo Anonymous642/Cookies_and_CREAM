@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "The Notes", "description": "Sidebar for notes", "version": "1.0", "permissions": ["storage"], "sidebar_action": {"default_title": "The Notes", "default_panel": "sidebar.html"}, "action": {"default_title": "Open notes"}, "browser_specific_settings": {"gecko": {"id": "thenotes@birck1ng5654", "strict_min_version": "109.0"}}}

@@ -1,0 +1,1 @@
+{"description": "Blocks websites by keywords", "manifest_version": 2, "name": "Stay Focused", "version": "1.0", "homepage_url": "https://gitlab.com/roman-smolnyk/stay-focused", "icons": {"48": "icons/focus-48.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["stay_focused.js"]}], "browser_specific_settings": {"gecko": {"id": "{188c5564-8db2-4cd2-bdcc-1cd41bfbcc45}"}}}

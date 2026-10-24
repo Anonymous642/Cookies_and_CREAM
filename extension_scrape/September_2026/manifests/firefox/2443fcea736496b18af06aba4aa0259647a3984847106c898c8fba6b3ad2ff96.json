@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Google Search Adblocker", "version": "1.0", "description": "Removes Google Search Ads", "icons": {"48": "icons/48.png"}, "content_scripts": [{"css": ["content.css"], "run_at": "document_start", "matches": ["*://*.google.com/*"]}, {"js": ["display_how_many.js"], "run_at": "document_end", "matches": ["*://*.google.com/*"]}]}

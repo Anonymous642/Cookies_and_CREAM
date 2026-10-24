@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Right-Click Book Search", "version": "1.0", "description": "Search for books by selected text using the context menu.", "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["popup.js"], "persistent": false}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{5dc1974f-ec11-4f99-9f47-58c1d900af64}"}}}

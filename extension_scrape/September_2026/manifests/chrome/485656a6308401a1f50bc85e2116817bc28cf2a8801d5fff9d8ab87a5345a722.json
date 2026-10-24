@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Dispatch FAQ Search", "version": "1.0.0", "manifest_version": 3, "action": {"default_title": "Dispatch FAQ", "default_popup": "popup.html"}, "permissions": ["storage"], "host_permissions": ["https://script.google.com/*", "https://script.googleusercontent.com/*"]}

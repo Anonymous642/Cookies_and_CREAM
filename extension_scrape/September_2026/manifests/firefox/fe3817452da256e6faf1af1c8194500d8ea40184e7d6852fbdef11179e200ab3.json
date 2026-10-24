@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NotesTab", "version": "1.6resigned1", "description": "Changes new tab to a very simple text editor with custom notes", "icons": {"16": "icon16.png", "24": "icon24.png", "48": "icon48.png", "96": "icon96.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{286bd36e-0477-4b14-bad8-881e279dbdb8}"}}}

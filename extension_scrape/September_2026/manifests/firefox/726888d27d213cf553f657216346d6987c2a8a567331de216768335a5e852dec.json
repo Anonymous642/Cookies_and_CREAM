@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SSS0 Casino Tracker", "version": "1.0", "description": "Stay updated with daily bonuses and live events from SSS0 Casino!", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{94101014-4fe4-4786-a078-7e24d96c9ffe}"}}}

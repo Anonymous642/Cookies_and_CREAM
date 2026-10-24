@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "RX Web Extension - KK67", "version": "0.0.2", "manifest_version": 3, "icons": {"128": "kk-logo.png"}, "action": {"default_popup": "index.html", "default_icon": {"128": "kk-logo.png"}}}

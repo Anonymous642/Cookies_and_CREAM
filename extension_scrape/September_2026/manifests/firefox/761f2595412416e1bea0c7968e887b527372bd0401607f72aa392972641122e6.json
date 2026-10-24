@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "youhavenochoice", "version": "1.1resigned1", "description": "Removes the youtube search bar", "icons": {}, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["youhavenochoice.js"]}], "browser_specific_settings": {"gecko": {"id": "{29d85534-fada-4c9b-8a56-869847233c76}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Replace AI with Magic", "version": "1.0.1", "description": "Replaces all instances of the phrase AI, and similar, with Magic", "content_scripts": [{"matches": ["<all_urls>"], "js": ["replaceai.js"]}], "permissions": ["*://duckduckgo.com/html/*"], "browser_specific_settings": {"gecko": {"id": "{7a0d3816-8325-4dca-b060-d9b5fbb9f837}"}}}

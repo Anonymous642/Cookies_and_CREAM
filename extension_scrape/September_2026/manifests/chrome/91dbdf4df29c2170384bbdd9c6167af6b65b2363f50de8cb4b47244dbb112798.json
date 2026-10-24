@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Water Damage Emergency Checklist for Denver", "version": "1.0", "description": "A simple checklist to help users handle water damage emergencies.", "permissions": ["storage"], "action": {"default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

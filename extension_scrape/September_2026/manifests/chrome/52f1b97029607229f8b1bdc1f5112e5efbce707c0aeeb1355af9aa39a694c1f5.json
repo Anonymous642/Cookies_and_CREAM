@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bilibili Never Stop", "version": "1.0", "background": {"service_worker": "background.js"}, "permissions": ["scripting"], "host_permissions": ["http://*.bilibili.com/*", "https://*.bilibili.com/*"], "content_scripts": [{"matches": ["https://*.bilibili.com/*"], "js": ["content.js"]}]}

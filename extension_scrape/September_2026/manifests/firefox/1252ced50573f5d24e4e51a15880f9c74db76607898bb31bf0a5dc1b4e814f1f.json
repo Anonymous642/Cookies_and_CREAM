@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DOP to HJT Converter", "version": "1.0", "description": "Convert DOP to HJT directly from your browser.", "permissions": ["activeTab", "https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{c96c661b-799b-4bbf-9ee8-6459b316d4c9}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DIsoundcloud", "description": "Hello world.", "version": "1.0.0", "author": "suzuha3310", "browser_specific_settings": {"gecko": {"id": "addon@suzuha3310.com"}}, "icons": {"48": "/icons/android-chrome-192x192.png"}, "browser_action": {"default_popup": "/popup.html"}}

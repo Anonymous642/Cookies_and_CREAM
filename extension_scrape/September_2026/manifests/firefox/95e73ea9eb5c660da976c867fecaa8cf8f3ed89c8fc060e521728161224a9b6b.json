@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "POSTURA GAMER", "version": "1.0", "description": "Mostra notifica\u00e7\u00f5es pra te ajudar a melhorar sua postura gamer.", "permissions": ["notifications", "alarms"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "gamerposturas@gmail.com"}}, "icons": {"48": "icon.png"}}

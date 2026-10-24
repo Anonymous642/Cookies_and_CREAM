@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tuna's Wonderful Euphoria Bot", "version": "1.0", "description": "A simple plugin to affirm gender identity with two custom words and a text to speech", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{c113001d-7180-4f7c-95e7-f60757df7b59}"}}}

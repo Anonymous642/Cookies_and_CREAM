@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Days Since - Days Count", "version": "1.1", "description": "Counts the days since a given date.", "permissions": ["storage"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "background": {"service_worker": "background.js"}}

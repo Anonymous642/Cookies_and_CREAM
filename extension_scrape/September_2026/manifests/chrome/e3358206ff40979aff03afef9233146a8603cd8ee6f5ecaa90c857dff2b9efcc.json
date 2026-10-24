@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Qidian-VP Helper", "description": "H\u1ed7 tr\u1ee3 l\u1ea5y text t\u1eeb Qidian", "version": "2.4.3", "permissions": ["tabs", "storage", "scripting", "activeTab"], "action": {"default_popup": "popup.html", "default_icon": {"128": "images/icon128.png"}}}

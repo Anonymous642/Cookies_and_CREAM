@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Spook's Easy Reader 2025", "version": "0.0.3", "description": "A curated collection of classic texts.", "manifest_version": 3, "action": {"default_title": "Open Easy Reader", "default_icon": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}, "background": {"service_worker": "background.js"}}

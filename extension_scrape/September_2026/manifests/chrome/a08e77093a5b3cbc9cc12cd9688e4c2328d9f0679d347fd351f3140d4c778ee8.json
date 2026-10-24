@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "URBNSURF Availability Viewer", "version": "1.0", "description": "Displays left and right availability for sessions on URBNSURF bookings.", "content_scripts": [{"matches": ["https://bookings.urbnsurf.com/*"], "js": ["content.js"], "css": ["styles.css"]}], "icons": {"128": "icon.png"}}

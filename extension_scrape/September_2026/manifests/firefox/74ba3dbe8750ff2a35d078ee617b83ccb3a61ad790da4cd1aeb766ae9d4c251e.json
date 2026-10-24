@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "cltapd", "version": "1.1", "description": "tapd", "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://www.tapd.cn/tapd_fe/*/task/detail/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{d1d3b836-5a5e-4fef-a0e3-5c5a5e5a5e5a}"}}}

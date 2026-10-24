@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bypasser", "version": "1.0", "description": "My test add-on", "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{95eaed6a-9640-4be3-8ce8-7c5b21409774}"}}}

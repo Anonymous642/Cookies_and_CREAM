@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TabStash by Clear Sky Technologies", "version": "1.0", "description": "A custom, speed-focused New Tab page with shortcut cards.", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Local Stopwatch", "version": "1.0", "description": "Local Stopwatch: Measure time", "action": {"default_popup": "popup.html", "default_icon": "local_stopwatch.png"}, "icons": {"128": "local_stopwatch.png"}}

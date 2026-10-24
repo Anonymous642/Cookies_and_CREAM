@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bitbucket Image Diff", "description": "Browser extension to add missing image diff feature to Bitbucket pull requests", "version": "0.1.1", "content_scripts": [{"matches": ["https://*.bitbucket.org/*"], "js": ["content.js"], "css": ["styles/content.css"]}]}

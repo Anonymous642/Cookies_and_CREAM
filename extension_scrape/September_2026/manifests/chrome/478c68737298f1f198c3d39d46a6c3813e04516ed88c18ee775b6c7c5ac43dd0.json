@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Devpost Meta Horizon QR", "version": "1.0", "description": "Displays a QR code for Meta Horizon 'Try it out' links on Devpost", "content_scripts": [{"matches": ["*://devpost.com/software/*"], "js": ["qrcode.min.js", "content.js"]}], "icons": {"128": "icon128.png"}}

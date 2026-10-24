@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Ahoia Creative Studio", "description": "we are a design agency working in print & digital media.", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.ahoia.com/"], "launch": {"web_url": "http://www.ahoia.com/"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Canva Payment Popup Hider", "version": "1.0", "description": "\u1ea8n th\u00f4ng b\u00e1o nh\u1eafc nh\u1edf thanh to\u00e1n tr\u00ean Canva", "content_scripts": [{"matches": ["*://*.canva.com/*"], "js": ["content.js"]}]}

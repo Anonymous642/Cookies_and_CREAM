@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Currency Converter", "version": "1.0", "description": "Allows users to convert EUR to PGK manually.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{0991e26b-f3d1-420d-80d2-f02a37d50978}"}}}

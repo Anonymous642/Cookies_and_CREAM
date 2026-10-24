@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Mic Shield", "version": "1.0", "description": "Mic Shield: Control microphone access instantly.", "action": {"default_popup": "popup.html", "default_icon": "mic_shield.png"}, "icons": {"128": "mic_shield.png"}, "browser_specific_settings": {"gecko": {"id": "darrellricht2423@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Roblox Download Popup Blocker", "version": "1.1", "description": "This extension removes the Roblox download popup you see when joining a game.", "icons": {"96": "icon.png"}, "content_scripts": [{"matches": ["*://www.roblox.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "roblox-popup-blocker@example.com"}}}

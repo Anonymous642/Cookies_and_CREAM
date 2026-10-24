@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "USD to PEN Converter", "version": "1.0", "description": "Convert USD to Peruvian Sol (PEN) quickly and easily.", "browser_action": {"default_popup": "popup.html", "default_title": "USD to PEN Converter"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{8273fb7d-a631-4cd1-81bf-d4dd0ce3c24b}"}}}

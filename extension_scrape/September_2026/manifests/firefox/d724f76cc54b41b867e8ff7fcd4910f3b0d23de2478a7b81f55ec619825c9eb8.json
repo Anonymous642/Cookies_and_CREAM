@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Minimal AMO - No Data Collection", "version": "1.0", "description": "Extension that declares no data collection (AMO-safe).", "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "minimal-none@example.com", "data_collection_permissions": {"required": ["none"]}}}}

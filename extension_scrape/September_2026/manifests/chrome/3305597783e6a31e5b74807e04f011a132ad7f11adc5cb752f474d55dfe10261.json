@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MAC Address Converter", "version": "1.0", "description": "Instantly format any MAC address into UPPERCASE with hyphen (-) separators, featuring smart error-tolerance logic.", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon128.png"}, "permissions": []}

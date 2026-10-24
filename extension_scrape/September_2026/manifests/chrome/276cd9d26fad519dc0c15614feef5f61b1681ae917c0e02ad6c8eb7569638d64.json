@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Wordle Dictionary", "description": "Displays the definition of each guessed word in Wordle", "version": "1.0", "manifest_version": 3, "icons": {"64": "wordle_64.png", "128": "wordle_128.png"}, "content_scripts": [{"js": ["content.js"], "matches": ["https://www.nytimes.com/games/wordle/index.html"]}]}

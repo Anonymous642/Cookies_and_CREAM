@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hide Facebook Chat", "version": "1.1resigned1", "description": "Very simple extension that hides the chat from Facebook", "content_scripts": [{"matches": ["https://www.facebook.com/*"], "js": ["chat-eater.js"]}], "browser_specific_settings": {"gecko": {"id": "{79275edf-1a72-466e-ae58-03902bd94d06}"}}}

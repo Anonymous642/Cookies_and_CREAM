@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Study Timetable Maker", "version": "1.0.0", "description": "Create and organize a simple weekly timetable in a popup tool.", "action": {"default_title": "Study Timetable Maker", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

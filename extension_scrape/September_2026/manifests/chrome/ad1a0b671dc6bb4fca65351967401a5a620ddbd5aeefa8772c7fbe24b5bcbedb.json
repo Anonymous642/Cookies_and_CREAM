@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ClipStack", "version": "1.0", "description": "ClipStack: Your clipboard, supercharged.", "action": {"default_popup": "popup.html", "default_icon": "clipstack.png"}, "icons": {"128": "clipstack.png"}, "permissions": ["storage", "clipboardRead", "clipboardWrite"]}

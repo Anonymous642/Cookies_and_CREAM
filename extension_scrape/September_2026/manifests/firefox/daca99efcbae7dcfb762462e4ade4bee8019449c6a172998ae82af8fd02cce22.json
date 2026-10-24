@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Link Validator", "version": "1.0", "description": "Verify the validity of all links on a webpage.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icons/icon.png"}, "icons": {"48": "icons/icon.png"}, "browser_specific_settings": {"gecko": {"id": "{90072367-efd3-4940-8475-b284ae293a88}"}}}

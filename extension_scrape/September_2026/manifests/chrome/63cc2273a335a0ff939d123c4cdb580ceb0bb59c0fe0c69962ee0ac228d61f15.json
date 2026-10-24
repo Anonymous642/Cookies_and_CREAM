@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Auto Post Blog", "version": "0.1.0", "manifest_version": 3, "background": {"service_worker": "background.js", "type": "module"}, "action": {"default_title": "Auto Post Blog"}, "side_panel": {"openPanelOnActionClick": true, "default_path": "sidepanel.html"}, "permissions": ["debugger", "tabs", "sidePanel"]}

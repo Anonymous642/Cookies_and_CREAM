@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "View Page Metadata", "version": "2.0.0", "permissions": ["activeTab", "scripting"], "description": "View and copy the HTML page metadata (title, favicon, description, etc.) of the current tab.", "icons": {"128": "icon128.png"}, "action": {"default_popup": "popup.html"}, "manifest_version": 3}

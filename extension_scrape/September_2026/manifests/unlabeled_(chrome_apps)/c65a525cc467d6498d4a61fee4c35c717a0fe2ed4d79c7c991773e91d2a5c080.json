@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"128": "assets/128.png"}, "manifest_version": 2, "minimum_chrome_version": "35", "name": "LightBar", "permissions": ["clipboardWrite", {"fileSystem": ["write"]}], "version": "0.9.4"}

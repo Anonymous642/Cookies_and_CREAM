@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "1 Click SEO Meta Tags Analyzer", "version": "1.0", "description": "Analyze SEO meta tags and key SEO elements of any page in just 1 Click.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

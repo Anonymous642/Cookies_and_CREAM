@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Search Destroyer", "version": "1.0", "description": "Removes all tabs from search engines", "permissions": ["tabs", "storage"], "icons": {"48": "icon.png", "128": "icon_128.png"}, "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

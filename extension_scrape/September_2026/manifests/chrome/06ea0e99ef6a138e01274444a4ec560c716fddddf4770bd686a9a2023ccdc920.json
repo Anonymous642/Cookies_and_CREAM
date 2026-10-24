@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MakeGPT", "version": "1.0", "description": "Generate Make.com automation blueprints using Groq AI", "action": {"default_popup": "popup.html"}, "permissions": ["clipboardWrite"]}

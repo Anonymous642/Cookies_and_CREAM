@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Heading Structure Viewer", "version": "1.0", "description": "Displays the structure of headings (H1-H6) on the current page for SEO analysis.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["style.css"]}], "icons": {"48": "icon.png"}}

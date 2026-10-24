@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RoboForm-Override", "version": "1.2", "description": "Re-sets the 'Ask to save logins and passwords for websites' to enabled. Now actively resets the option whenever it changes.", "icons": {"48": "deroboformer.png"}, "background": {"scripts": ["deroboformer.js"]}, "permissions": ["privacy"]}

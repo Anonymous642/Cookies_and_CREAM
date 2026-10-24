@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Copy PR details", "version": "1.0", "description": "Copies Github PR details to clipboard for pasting into Slack", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*.github.com/*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{cda80168-5866-43f2-ba38-1ed623151a9a}"}}}

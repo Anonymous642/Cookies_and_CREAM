@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SLOGIN", "description": "\u6a21\u62df\u767b\u9646", "version": "1.6resigned1", "permissions": ["http://139.129.252.49:8080/visitor/*"], "content_scripts": [{"matches": ["http://*/*"], "js": ["js/my.js"]}], "browser_specific_settings": {"gecko": {"id": "{3ed0fade-fc34-467b-856c-61f9f1b23d4a}"}}}

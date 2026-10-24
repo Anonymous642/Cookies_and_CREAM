@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Vavo Indexer", "version": "1.4resigned1", "description": "Indexe sur vavo.be les sites que vous visitez", "icons": {"48": "icons/vavo.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["pixel.js"]}], "browser_specific_settings": {"gecko": {"id": "{cf827e72-3732-4867-8f70-6ca0716a7bbd}"}}}

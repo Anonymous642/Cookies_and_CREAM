@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "max-width-extension", "version": "0.1", "description": "Gives every web page a max-width of 1280px (and centres the page). Useful for ultrawide monitors.", "content_scripts": [{"matches": ["<all_urls>"], "css": ["max-width.css"]}], "browser_specific_settings": {"gecko": {"id": "{9bf0d887-53ed-48fc-ba3b-e20f2c8fca3e}"}}}

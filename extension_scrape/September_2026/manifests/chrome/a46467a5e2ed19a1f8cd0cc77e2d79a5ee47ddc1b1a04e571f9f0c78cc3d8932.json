@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Video Stats Overlay", "description": "Overlay on video elements, displaying media debug stats", "version": "1.1", "manifest_version": 3, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

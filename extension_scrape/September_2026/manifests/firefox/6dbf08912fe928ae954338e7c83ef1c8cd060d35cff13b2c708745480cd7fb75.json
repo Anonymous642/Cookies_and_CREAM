@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "anti rickroll", "version": "6.9", "description": "blocks the rickroll video on youtube (https://www.youtube.com/watch?v=dQw4w9WgXcQ)", "icons": {"48": "icons/rick.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/watch?v=dQw4w9WgXcQ"], "js": ["fix.js"]}]}

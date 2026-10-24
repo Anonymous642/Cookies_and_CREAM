@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Channel4 fullscreen ultrawide fit", "version": "1.0.0.0", "description": "Makes fullscreen on channel 4 video fit on 1440px high ultrawide monitors", "icons": {"48": "icons/c4-fullscreen-48.png", "96": "icons/c4-fullscreen-96.png"}, "content_scripts": [{"matches": ["*://*.channel4.com/*"], "js": ["c4.js"]}]}

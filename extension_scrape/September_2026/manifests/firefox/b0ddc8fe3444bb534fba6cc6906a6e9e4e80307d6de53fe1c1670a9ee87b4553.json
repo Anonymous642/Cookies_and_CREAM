@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Silent Alarm", "version": "1.0", "description": "Silent alarm using visual flash and vibration instead of sound.", "permissions": ["alarms", "notifications"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "silent-alarm@amo.local", "data_collection_permissions": {"required": ["none"], "optional": []}}}}

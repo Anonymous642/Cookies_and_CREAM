@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "YouTube Search", "version": "1.0", "description": "Recherche rapide de vid\u00e9os sur YouTube.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "youtube-search@example.com", "strict_min_version": "109.0"}}}

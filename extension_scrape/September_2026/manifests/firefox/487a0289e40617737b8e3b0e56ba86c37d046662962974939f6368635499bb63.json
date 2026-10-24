@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quora Login Bypass", "version": "3.1resigned1", "description": "Lets you Bypass Quora Login", "icons": {"48": "lock.png"}, "content_scripts": [{"matches": ["*://*.quora.com/*"], "js": ["Quora Login Bypass.js"]}], "browser_specific_settings": {"gecko": {"id": "{6de6974b-0273-4f66-afc5-7c252cf6f4d8}"}}}

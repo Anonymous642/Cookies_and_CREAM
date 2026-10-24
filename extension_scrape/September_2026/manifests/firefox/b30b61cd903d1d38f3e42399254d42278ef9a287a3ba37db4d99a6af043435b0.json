@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Radio", "version": "1.0", "description": "Automatically mutes radio", "icons": {"48": "icons/radio-48.png"}, "content_scripts": [{"matches": ["*://*.antenne.de/*"], "js": ["radio.js"]}], "browser_specific_settings": {"gecko": {"id": "radio@xzvf.de"}}}

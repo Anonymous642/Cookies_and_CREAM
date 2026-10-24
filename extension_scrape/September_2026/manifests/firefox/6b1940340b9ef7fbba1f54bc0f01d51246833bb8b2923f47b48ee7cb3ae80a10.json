@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SuperMegaUltraD2RU", "version": "2.0.3", "content_scripts": [{"matches": ["https://dota2.ru/*"], "run_at": "document_start", "match_about_blank": false, "js": ["js/loader.js"]}], "web_accessible_resources": ["css/*", "js/*"], "icons": {"16": "icons/16.png"}}

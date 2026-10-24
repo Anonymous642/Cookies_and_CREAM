@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Text Search", "version": "1.0", "description": "Search text using Text index", "content_scripts": [{"matches": ["https://*/*", "http://*/*"], "js": ["content.js"], "css": ["styles.css"]}]}

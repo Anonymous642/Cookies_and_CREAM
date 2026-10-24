@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MagicMadHouse Auto Sort By Price", "version": "1.0", "description": "Urls with : magicmadhouse.co.uk/search/ get #sort3 added to them so that it is sorted by price ascending", "applications": {"gecko": {"id": "magicmadhousesorter@djpiper28.com"}}, "content_scripts": [{"matches": ["*://*.magicmadhouse.co.uk/search/*"], "js": ["script.js"]}]}

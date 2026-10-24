@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "A Youtube AI Summarizer", "version": "1.0", "description": "Get detailed youtube summaries in seconds.", "permissions": ["activeTab", "storage"], "browser_action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{1d6e6add-f61d-4b5e-b090-2837cbf73671}"}}}

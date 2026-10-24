@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Encrypto", "version": "1.0", "description": "We encrypt and decrypt your top secret messages for full protection.", "icons": {"128": "images/E.png"}, "action": {"default_popup": "index.html"}}

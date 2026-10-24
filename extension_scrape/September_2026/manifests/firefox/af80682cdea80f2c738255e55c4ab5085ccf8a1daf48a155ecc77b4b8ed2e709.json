@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "ixl hacks", "description": "ixl hacks", "version": "1.0", "browser_specific_settings": {"gecko": {"id": "@ixl-hacks", "strict_min_version": "58.0"}}, "content_scripts": [{"matches": ["https://*.ixl.com/*"], "js": ["ixl.js"]}]}

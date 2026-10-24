@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "lortux", "version": "0.2", "description": "Turn back Tux on LOR!", "icons": {"48": "icons/lortux-48.png"}, "browser_specific_settings": {"gecko": {"id": "blogdron@gmail.com", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"matches": ["*://*.linux.org.ru/*"], "js": ["lortux.js"]}]}

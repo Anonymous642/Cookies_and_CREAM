@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Blitz", "version": "1.1", "description": "Offline game to play when bored", "icons": {"48": "logo.png", "128": "logo.png"}, "action": {"default_popup": "index.html", "default_icon": {"48": "logo.png"}}, "permissions": []}

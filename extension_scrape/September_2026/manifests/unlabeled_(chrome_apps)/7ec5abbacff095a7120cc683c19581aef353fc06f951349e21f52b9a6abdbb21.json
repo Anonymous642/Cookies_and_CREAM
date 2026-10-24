@@ -1,0 +1,1 @@
+{"name": "THE Corrado Forum", "description": "THE world's largest online community for VW's Super Coup\u00e9!", "app": {"urls": ["http://the-corrado.net/forum.php"], "launch": {"web_url": "http://the-corrado.net/forum.php"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

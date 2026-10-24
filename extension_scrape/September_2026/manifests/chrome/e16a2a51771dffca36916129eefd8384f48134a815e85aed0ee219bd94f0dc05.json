@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "shadcn Preset Injector", "description": "Paste a shadcn preset and inject its CSS variables into the current page.", "version": "0.1.0", "permissions": ["activeTab", "scripting"], "action": {"default_title": "shadcn Preset Injector", "default_popup": "popup.html"}}

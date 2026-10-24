@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Walanio-Auto-Unpin-Tabs", "version": "1.0", "description": "Automatically unpins tabs every second.", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{0720b90d-6ced-42ac-bb9f-faf944005476}"}}}

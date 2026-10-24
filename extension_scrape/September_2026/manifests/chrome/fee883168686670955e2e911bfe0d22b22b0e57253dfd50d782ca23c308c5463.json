@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Base36 \u2194 Base10 Converter", "version": "1.0", "description": "Convert between base36 and base10 (supports multiple values)", "action": {"default_popup": "popup.html", "default_title": "Base36 Converter"}}

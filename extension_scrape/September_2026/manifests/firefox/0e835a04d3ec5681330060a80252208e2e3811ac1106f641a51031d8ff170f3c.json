@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mind Map Generator", "version": "1.0", "description": "T\u1ea1o s\u01a1 \u0111\u1ed3 t\u01b0 duy t\u1eeb n\u1ed9i dung trang web.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{0f3cea05-8ec2-4938-bc2d-9f62262e1570}"}}}

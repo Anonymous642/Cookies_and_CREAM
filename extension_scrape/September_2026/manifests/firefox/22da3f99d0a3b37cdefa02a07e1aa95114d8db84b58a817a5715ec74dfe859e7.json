@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Atikin CodeMind", "version": "0.1", "description": "Track debugging thoughts, code snippets, and notes directly from your browser.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html"}, "applications": {"gecko": {"id": "atikincode@atikinverse.com", "strict_min_version": "58.0"}}}

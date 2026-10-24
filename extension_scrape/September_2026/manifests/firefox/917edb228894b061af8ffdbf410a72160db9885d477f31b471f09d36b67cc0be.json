@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove AI Overview", "version": "1.2", "description": "Hides unnecessary blocks on search", "icons": {"128": "icons/128.png"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://www.google.com/search*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{5fd1c6db-fd0c-49ee-b3ef-e541e2b1a809}"}}}

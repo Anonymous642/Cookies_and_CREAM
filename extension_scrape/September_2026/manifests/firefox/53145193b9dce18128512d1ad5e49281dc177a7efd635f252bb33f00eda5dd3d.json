@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "yout-ube", "version": "1.0", "description": "If you open a link to a YouTube video, it automatically sends you to yout-ube.com for an ad-free experience.", "content_scripts": [{"matches": ["*://*.youtube.com/watch?v=*"], "js": ["yout-ube.js"]}], "browser_specific_settings": {"gecko": {"id": "yout-ube@yout-ube.js"}}}

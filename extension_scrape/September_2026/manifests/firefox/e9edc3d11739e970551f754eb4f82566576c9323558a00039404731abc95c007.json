@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TabLister", "version": "1.0", "description": "Lists all open tabs in a popup window.", "permissions": ["tabs", "downloads"], "browser_action": {"default_popup": "popup.html"}, "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{18be4320-a932-4ba4-aec8-c390067f2e17}"}}}

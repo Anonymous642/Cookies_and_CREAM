@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "content_scripts": [{"js": ["content.js"], "matches": ["*://outlook.live.com/*"], "run_at": "document_idle"}], "description": "Hides the ads in Outlook.live.com", "icons": {"128": "128.png", "1024": "icon.png"}, "manifest_version": 3, "name": "MailTrim", "version": "0.3"}

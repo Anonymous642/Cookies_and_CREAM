@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Block Google GSI", "description": "Block Google account sign in popups on websites.", "version": "1.0", "permissions": ["webRequest", "webRequestBlocking"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "firefox@o848.net"}}}

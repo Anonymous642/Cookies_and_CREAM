@@ -1,0 +1,1 @@
+{"name": "del0", "version": "0.0.1", "manifest_version": 2, "browser_action": {"default_popup": "action.html", "default_icon": "icon.png"}, "content_scripts": [{"css": ["styles.css"], "matches": ["https://outlook.live.com/*"]}], "icons": {"128": "icon.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{73c058fb-1a2d-4396-bb35-54133e6fc855}"}}}

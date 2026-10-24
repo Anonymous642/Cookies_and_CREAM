@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Google Search AI block", "version": "1.0", "description": "removes AI images from google image search results", "content_scripts": [{"matches": ["*://*.google.com/search*"], "js": ["block.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tele Helper", "version": "1.6.2", "content_scripts": [{"matches": ["*://*.online.unicum.ru/*"], "js": ["telemetria.js"]}], "permissions": ["storage"], "options_ui": {"page": "options.html"}, "browser_specific_settings": {"gecko": {"id": "{56697bcf-6881-4ba0-a7fb-02640f29c56c}"}}}

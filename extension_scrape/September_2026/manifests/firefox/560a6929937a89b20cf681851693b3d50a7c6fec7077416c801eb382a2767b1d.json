@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Private Begone", "version": "1.2resigned1", "description": "Disables private browsing.", "icons": {"48": "icons/icon.png"}, "background": {"scripts": ["private-begone.js"]}, "browser_specific_settings": {"gecko": {"id": "{9c0fdd1d-a568-4247-99df-efa3a3727008}"}}}

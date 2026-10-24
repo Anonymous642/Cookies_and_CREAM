@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PDF Slide Converter", "version": "1.0", "description": "Convert PDF slides to Images, PPTX, and GIFs offline.", "action": {"default_popup": "index.html", "default_icon": {"16": "icons/icon16.png", "48": "icons/icon48.png", "128": "icons/icon128.png"}}, "permissions": []}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No short", "version": "1.1", "description": "Supprimer les shorts de youtube.", "icons": {"48": "icons/logo-48.png"}, "permissions": ["*://*.youtube.com/*"], "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["script/script.js"]}], "browser_specific_settings": {"gecko": {"id": "{f53ad23e-1b77-41f7-8e73-fe0e7ecc8da7}"}}}

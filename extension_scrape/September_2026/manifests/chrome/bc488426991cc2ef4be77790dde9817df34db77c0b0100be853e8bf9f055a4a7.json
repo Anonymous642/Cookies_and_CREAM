@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Smart Zoom Remember", "version": "1.0", "description": "Smart Zoom Remember: Save zoom level per website.", "action": {"default_popup": "popup.html", "default_icon": "smart_zoom_remember.png"}, "icons": {"128": "smart_zoom_remember.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute HTML Tag Remover", "version": "1.0.0", "description": "Remove HTML tags from text instantly \u2014 clean, cute, and simple.", "action": {"default_popup": "popup.html", "default_title": "Cute HTML Tag Remover"}, "icons": {"128": "icon128.png"}}

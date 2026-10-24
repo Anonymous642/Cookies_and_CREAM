@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gmail Individual Delete", "version": "1.0", "description": "Adds a visible delete button to every email row in the inbox.", "permissions": [" "], "content_scripts": [{"matches": ["https://mail.google.com/*"], "js": ["content.js"], "css": ["styles.css"]}]}

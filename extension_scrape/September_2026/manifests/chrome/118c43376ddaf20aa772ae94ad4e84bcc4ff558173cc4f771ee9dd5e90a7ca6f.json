@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gerador de Nicknames Estilosos \u2013 NickFF", "description": "Crie nicknames estilosos para jogos e redes sociais. F\u00e1cil, r\u00e1pido e em portugu\u00eas.", "version": "1.0", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

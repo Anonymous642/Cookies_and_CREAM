@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "K-Pop Slug Generator", "version": "1.0.0", "description": "Generate clean URL slugs from titles in a K-pop inspired popup. Runs locally with no permissions.", "action": {"default_title": "K-Pop Slugger", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

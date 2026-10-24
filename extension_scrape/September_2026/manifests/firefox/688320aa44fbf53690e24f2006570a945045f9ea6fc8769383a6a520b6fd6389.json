@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "SnapShot Pro", "version": "1.0", "description": "SnapShot Pro: Capture web page screenshots", "action": {"default_popup": "popup.html", "default_icon": "snapshot_pro.png"}, "icons": {"128": "snapshot_pro.png"}, "browser_specific_settings": {"gecko": {"id": "keasiakglp562763@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

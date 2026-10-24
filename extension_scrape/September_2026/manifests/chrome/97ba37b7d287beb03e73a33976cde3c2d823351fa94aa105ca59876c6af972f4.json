@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Reader Mode Plus", "version": "1.0", "description": "Clean reader overlay with font, spacing, themes, TTS, and one-click save.", "action": {"default_popup": "popup.html"}, "permissions": ["storage", "activeTab", "scripting"]}

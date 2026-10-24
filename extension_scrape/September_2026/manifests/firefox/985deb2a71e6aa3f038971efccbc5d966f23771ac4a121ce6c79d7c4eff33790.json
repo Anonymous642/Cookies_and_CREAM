@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Not Interested Youtube", "version": "1.0", "description": "Automatically tells youtube you are not interested in its recommendations everytime you go to the homepage.", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["not_interested.js"]}]}

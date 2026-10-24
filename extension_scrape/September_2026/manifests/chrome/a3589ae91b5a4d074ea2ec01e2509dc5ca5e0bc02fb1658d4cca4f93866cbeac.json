@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Angel Number Calculator", "description": "Calculate your angel number from your date of birth with full meanings.", "version": "1.1.0", "action": {"default_popup": "popup.html"}, "icons": {"16": "icon_16.png", "48": "icon_48.png", "128": "icon_128.png"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pottweak", "version": "1.0", "description": "Play in Potplayer Link on supported sites", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.movies4discord.xyz/*"], "js": ["addbtn.js"]}], "browser_specific_settings": {"gecko": {"id": "{83169dc7-14d0-4d88-8914-d4a88dd23eae}"}}}

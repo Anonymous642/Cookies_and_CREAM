@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Stock Price Tracker", "version": "1.0", "description": "Track real-time stock prices with daily change.", "permissions": [], "host_permissions": ["https://finnhub.io/*"], "action": {"default_popup": "popup.html"}}

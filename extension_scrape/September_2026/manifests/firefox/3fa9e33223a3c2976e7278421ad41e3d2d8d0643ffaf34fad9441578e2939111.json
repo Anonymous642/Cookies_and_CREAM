@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "The Noobs Random", "version": "1.0", "description": "The Noobs Random.", "permissions": ["*://www.imdb.com/*"], "icons": {"48": "icon48.png", "128": "icon128.png"}, "content_scripts": [{"matches": ["*://www.imdb.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{9469401a-f0bb-464a-ad19-55b4698a926f}"}}}

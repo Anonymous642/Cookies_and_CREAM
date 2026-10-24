@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "0.9resigned1", "name": "tlimit", "background": {"scripts": ["tlimit.js"]}, "permissions": ["tabs", "storage"], "browser_action": {"default_icon": "icons/tlimit-32.png", "default_title": "tlimit", "default_popup": "popup/tlimit.html"}, "browser_specific_settings": {"gecko": {"id": "{7d994412-c185-4865-aa76-ef4b80ed2e51}"}}}

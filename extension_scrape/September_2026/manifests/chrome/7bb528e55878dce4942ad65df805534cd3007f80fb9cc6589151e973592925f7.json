@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Alphabetical List Sorter", "version": "1.0.1", "description": "Paste a list and instantly sort lines alphabetically from A-Z or Z-A.", "action": {"default_title": "Alphabetical List Sorter", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

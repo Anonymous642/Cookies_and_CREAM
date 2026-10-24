@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mindfulness Reminders", "version": "1.0", "description": "Set reminders for mindfulness exercises.", "permissions": ["storage", "alarms"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{610e5a5e-87d6-4cb6-85d1-1dc1da1fc849}"}}}

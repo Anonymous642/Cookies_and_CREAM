@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Travel Packing Checklist", "description": "A simple checklist to help you pack essential items for your trip.", "version": "1.0", "action": {"default_popup": "popup.html", "default_title": "Travel Checklist"}, "icons": {"128": "icon128.png"}}

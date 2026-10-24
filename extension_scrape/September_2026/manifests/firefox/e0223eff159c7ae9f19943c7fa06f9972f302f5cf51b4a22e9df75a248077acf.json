@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Custom Start Page", "version": "1.0", "browser_specific_settings": {"gecko": {"id": "addon-startpage@example.com", "strict_min_version": "58.0"}}, "description": "Custom ptartup page", "permissions": ["tabs"], "chrome_url_overrides": {"newtab": "fazzi/index.html"}, "icons": {"512": "icon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Writing Prompt Tab", "version": "1.0", "description": "Show a daily writing prompt every time a new tab is opened.", "permissions": ["storage"], "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{7b2bbd18-ea46-4538-b2ec-e4224cb00b64}"}}}

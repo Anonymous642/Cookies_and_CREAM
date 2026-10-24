@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Playback Speed Calculator", "version": "1.1", "description": "Calculates video duration based on playback speed.", "permissions": [], "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"]}], "action": {"default_popup": "popup.html"}}

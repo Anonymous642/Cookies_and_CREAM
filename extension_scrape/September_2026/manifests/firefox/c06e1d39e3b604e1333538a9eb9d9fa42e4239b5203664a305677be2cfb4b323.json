@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Annotate Web", "version": "1.0", "description": "Annotate Web: Add notes to web pages.", "action": {"default_popup": "popup.html", "default_icon": "annotate_web.png"}, "icons": {"128": "annotate_web.png"}, "browser_specific_settings": {"gecko": {"id": "morganvp13613@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

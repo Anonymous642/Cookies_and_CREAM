@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "3D Print Cost Calculator", "description": "Calculate filament usage, electricity cost, waste, and selling price for 3D prints.", "version": "1.1", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}, "permissions": ["storage"]}

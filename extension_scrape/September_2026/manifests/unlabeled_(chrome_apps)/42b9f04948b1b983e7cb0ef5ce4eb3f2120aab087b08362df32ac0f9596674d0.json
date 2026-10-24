@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Curious Nomad", "version": "1.3", "manifest_version": 2, "description": "Travel the world. Make a difference.", "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.curiousnomad.com/"], "launch": {"web_url": "http://www.curiousnomad.com/"}}}

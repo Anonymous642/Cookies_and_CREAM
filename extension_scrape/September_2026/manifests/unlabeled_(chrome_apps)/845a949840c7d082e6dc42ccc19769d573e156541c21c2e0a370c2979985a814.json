@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Slingshot", "short_name": "Slingshot", "description": "Pull the trigger...", "version": "2.2", "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["storage"], "icons": {"16": "pingu-16.png", "128": "pingu-128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83c\udfae Group Game Suggester", "version": "1.0", "description": "Randomly suggest a fun offline group game to play with your friends!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "joseysweyn3687@outlook.com"}}}

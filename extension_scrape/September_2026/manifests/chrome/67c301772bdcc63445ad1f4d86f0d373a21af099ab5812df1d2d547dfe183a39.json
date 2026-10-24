@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Random Article", "version": "1.0", "description": "Random Article: Discover new content", "action": {"default_popup": "popup.html", "default_icon": "random_article.png"}, "icons": {"128": "random_article.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Private Browsing Reminder", "version": "1.0", "description": "Remind users to open sensitive sites in private mode.", "permissions": ["tabs", "notifications"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{b5c54ef8-c5da-430e-a754-ee43fdf8bc95}"}}}

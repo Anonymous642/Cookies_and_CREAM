@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Simple Memory Game", "version": "1.0", "description": "Match the cards before time runs out in this simple memory game.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{ea2d53a1-ce13-4039-8279-39ffff871e29}"}}}

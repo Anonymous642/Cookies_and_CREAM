@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DiffWizard List Auditor", "version": "5.0", "description": "Client-side private list delta analyzer and auditor tool.", "action": {"default_popup": "popup.html", "default_title": "Open DiffWizard"}, "icons": {"128": "icon128.png"}, "permissions": []}

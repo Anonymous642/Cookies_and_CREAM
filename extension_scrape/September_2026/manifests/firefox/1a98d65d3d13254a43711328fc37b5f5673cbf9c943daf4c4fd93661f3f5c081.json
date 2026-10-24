@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Arangify", "version": "1.1resigned1", "description": "Appends -arang to everything. EVERYTHING. >.> It's not weird you're weird.", "content_scripts": [{"matches": ["*://*/*"], "js": ["arangify.js"]}], "browser_specific_settings": {"gecko": {"id": "{72ad6777-7818-4fd8-9622-6fb414b40939}"}}}

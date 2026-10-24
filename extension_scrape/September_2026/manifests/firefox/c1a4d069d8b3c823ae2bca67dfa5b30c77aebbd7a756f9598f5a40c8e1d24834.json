@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Shorts Disabler", "version": "1.1", "description": "Removes Shorts from Youtube", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["shorts_disabler.js"]}], "browser_specific_settings": {"gecko": {"id": "{7eb4c089-530a-4411-9991-b56c370500b6}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Calculadora de Descuentos R\u00e1pidos", "version": "1.0", "description": "Calcula el precio final y el ahorro exacto en tus compras con descuento.", "action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}, "permissions": []}

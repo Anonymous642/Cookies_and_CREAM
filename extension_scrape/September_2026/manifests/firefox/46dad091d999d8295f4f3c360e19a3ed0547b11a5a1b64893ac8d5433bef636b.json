@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Avoid redditmedia", "version": "1.0", "description": "Automatically redirects redditmedia.com links to reddit.com.", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.redditmedia.com/*"], "js": ["redirect.js"]}], "browser_specific_settings": {"gecko": {"id": "{3a4e45c3-e36b-474e-a9b5-ba90857bc91b}"}}}

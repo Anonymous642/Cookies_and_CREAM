@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "franhidalgo.com", "description": "El Blog de Fran Hidalgo", "manifest_version": 2, "minimum_chrome_version": "23", "version": "0.1", "app": {"urls": ["http://www.franhidalgo.com/"], "launch": {"web_url": "http://www.franhidalgo.com/"}}, "icons": {"16": "fran16.png", "128": "fran128.png"}}

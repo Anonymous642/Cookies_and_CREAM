@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Wikiborder", "version": "1.1resigned1", "description": "Adds a blue border to all webpages matching wikimedia.org.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.wikimedia.org/*"], "js": ["wikiborder.js"]}], "browser_specific_settings": {"gecko": {"id": "{4b41fb16-6469-4a5a-864c-b778b3d83e15}"}}}

@@ -1,0 +1,1 @@
+{"name": "Block shorts script", "version": "1.0", "description": "Esconde o container de shorts do Youtube", "manifest_version": 2, "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["script.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{21dd7175-a6c8-4f35-ac5d-f07e9ba5986d}"}}}

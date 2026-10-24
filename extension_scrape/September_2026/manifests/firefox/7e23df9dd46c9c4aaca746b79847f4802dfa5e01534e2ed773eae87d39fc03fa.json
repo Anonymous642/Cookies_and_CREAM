@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Web Time Tracker", "version": "1.0", "description": "Track time spent on each website daily.", "permissions": ["tabs", "storage", "webNavigation"], "background": {"scripts": ["background.js"]}, "browser_action": {"default_title": "Web Time Tracker"}, "browser_specific_settings": {"gecko": {"id": "{2a6cc07d-ce81-4be5-953e-a87596e73d88}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ChatGptClickToEditMessages", "version": "1.0", "description": "On ChatGPT, click to edit messages.", "icons": {"16": "image.png", "32": "image.png", "48": "image.png", "128": "image.png"}, "content_scripts": [{"js": ["scripts/content.js"], "matches": ["https://*.chatgpt.com/*"]}]}

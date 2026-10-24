@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hoffify Plus", "version": "1.0.2", "description": "Transforms various elements on web pages to be David Hasselhoff-themed", "content_scripts": [{"matches": ["*://*/*"], "js": ["jquery-1.11.1.min.js", "background.js"]}], "browser_specific_settings": {"gecko": {"id": "{0bd1649e-e5c3-4f68-8ef1-bf1af4e728bf}"}}}

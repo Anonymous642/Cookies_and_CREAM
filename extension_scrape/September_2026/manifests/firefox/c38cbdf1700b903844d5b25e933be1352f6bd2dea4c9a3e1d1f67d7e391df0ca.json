@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "MiUISlop", "version": "1.1", "description": "The internet but more honest. Replaces slop names with slop titles.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "miuislop@romankal12889", "strict_min_version": "109.0", "data_collection_permissions": {"required": ["none"]}}}}

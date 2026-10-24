@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Domain Bookmark Organizer", "version": "1.0", "description": "Groups and displays your bookmarks by website domain.", "permissions": ["bookmarks", "activeTab", "favicon"], "icons": {"128": "bookmark.png"}, "action": {"default_popup": "popup.html", "default_icon": "bookmark.png"}}

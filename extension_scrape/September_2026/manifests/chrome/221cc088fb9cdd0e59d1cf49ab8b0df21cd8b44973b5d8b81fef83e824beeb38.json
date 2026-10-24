@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Modern QR Code Generator", "version": "1.0", "description": "Generate QR codes for the current page or custom text with a modern interface", "permissions": ["activeTab", "clipboardWrite"], "action": {"default_popup": "popup.html"}, "icons": {"48": "icon48.png", "128": "icon128.png"}}

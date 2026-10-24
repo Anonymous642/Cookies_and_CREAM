@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Taptools Frens", "version": "1.0", "description": "Replace Holders to Frens", "action": {"16": "icon-16.png", "48": "icon-48.png", "128": "icon-128.png", "default_icon": "fren.png"}, "content_scripts": [{"matches": ["https://www.taptools.io/charts/token*"], "js": ["content.js"]}]}

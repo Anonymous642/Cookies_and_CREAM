@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "RainAdmin Order Status Color Fix", "version": "1.2", "description": "Fixes status colors on RainAdmin order list pages.", "permissions": ["scripting"], "host_permissions": ["https://*.rainadmin.com/*"], "background": {"service_worker": "background.js"}}

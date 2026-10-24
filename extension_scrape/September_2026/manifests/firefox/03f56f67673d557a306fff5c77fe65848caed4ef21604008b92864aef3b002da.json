@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bold Paragraphs", "version": "1.0", "description": "Automatically bold all <p> tags on the page", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_idle"}], "permissions": [], "browser_specific_settings": {"gecko": {"id": "{3d5d55db-af56-47c6-ae81-da1527c91067}"}}}

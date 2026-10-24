@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Basket Day", "version": "1.0.0", "description": "Choose the open basket and catch apples, not lemons, before the market closes.", "action": {"default_title": "Play Basket Day", "default_popup": "popup.html"}, "icons": {"48": "icon-48.png", "128": "icon-128.png"}}

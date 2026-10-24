@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Discord fake ban", "version": "1.0", "description": "Hide some people that we won't want to block", "permissions": ["activeTab", "storage"], "browser_action": {"default_title": "Discord fake ban", "default_popup": "popup/selector.html"}, "content_scripts": [{"matches": ["*://*.mozilla.org/*", "*://*.discord.com/*"], "js": ["script.js"]}]}

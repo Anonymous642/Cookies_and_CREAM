@@ -1,0 +1,1 @@
+{"name": "Exchange Rates Now To USD", "version": "1.0", "manifest_version": 3, "description": "Convert EUR, CAD, GBP and JPY currencies to USD now! Conversion rates updated hourly!", "action": {"default_icon": "icon.png", "default_popup": "index.html"}, "browser_specific_settings": {"gecko": {"id": "ExchangeRatesNowToUSD@affordablecareentertainment.com"}}}

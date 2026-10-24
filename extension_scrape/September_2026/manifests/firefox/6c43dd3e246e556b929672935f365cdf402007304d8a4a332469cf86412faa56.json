@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto pick Map postion on faciet", "version": "1.0", "description": "", "icons": {"48": "icons/faceit_logo_icon_248903.png"}, "content_scripts": [{"matches": ["*://*.faciet.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{4800a617-01ca-4f77-9a2e-337931b6f7b7}"}}}

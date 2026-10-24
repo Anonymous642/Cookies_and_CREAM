@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Shar.fr", "version": "1.4", "description": "Ajout d'un menu (clic-droit) pour raccourcir et copier automatiquement les URL de lien et d'image.", "homepage_url": "https://shar.fr", "icons": {"48": "icons/shar.png"}, "permissions": ["<all_urls>", "activeTab", "contextMenus", "clipboardWrite"], "background": {"scripts": ["sharBG.js"]}}

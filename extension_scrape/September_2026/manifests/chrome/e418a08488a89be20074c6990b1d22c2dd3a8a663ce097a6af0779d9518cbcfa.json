@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Character Count", "short_name": "CC", "manifest_version": 3, "version": "1.1", "description": "Show the numbers of characters and words of the text given in the address bar.", "background": {"service_worker": "background.js"}, "omnibox": {"keyword": "cc"}, "icons": {"128": "cc-128-128.png"}}

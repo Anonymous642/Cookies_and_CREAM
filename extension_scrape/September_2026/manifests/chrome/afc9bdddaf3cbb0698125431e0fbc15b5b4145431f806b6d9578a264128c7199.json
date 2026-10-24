@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.1", "name": "Dynamic Surface", "chrome_url_overrides": {"newtab": "index.html"}, "description": "A sleek, futuristic background with geometric surface", "manifest_version": 3}

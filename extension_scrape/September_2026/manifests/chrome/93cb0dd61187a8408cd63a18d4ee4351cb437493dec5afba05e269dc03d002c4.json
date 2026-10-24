@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Color Tab", "version": "3.2", "description": "A beautiful color palette with every new tab!", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "author": "Color Hunt", "chrome_url_overrides": {"newtab": "newtab.html"}}

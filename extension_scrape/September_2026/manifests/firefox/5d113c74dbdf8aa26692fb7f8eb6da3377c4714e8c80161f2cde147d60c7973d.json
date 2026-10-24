@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "EncodeX", "version": "2.4", "description": "A simple extension that provides various encoding decoding features.", "permissions": ["activeTab", "clipboardWrite"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{7edc0a76-160d-4a18-8755-4de0bdb0a3b6}"}}}

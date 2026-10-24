@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Purple Galaxy Space", "version": "1.0.0", "description": "Brings a feeling of depth, appeal and space", "icons": {"128": "1734167.png"}, "permissions": ["geolocation"], "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{acfed34a-44de-4657-b085-cc82eacc2ccf}"}}}

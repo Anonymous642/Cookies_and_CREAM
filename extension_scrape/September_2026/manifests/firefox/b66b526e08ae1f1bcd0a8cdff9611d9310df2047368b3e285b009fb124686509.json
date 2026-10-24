@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search Again", "version": "0.2resigned1", "description": "Re-runs current search with another engine", "permissions": ["search", "tabs"], "omnibox": {"keyword": "sa"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{7b1f81bd-ec0a-41bc-b8e1-c2c653a67c11}"}}}

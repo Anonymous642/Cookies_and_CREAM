@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CSHTML Local Viewer", "version": "1.0", "description": "Forces Chrome to render local .cshtml files as HTML.", "content_scripts": [{"matches": ["file:///*/*.cshtml"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Utaten Lyrics", "description": "Provide copyable lyrics for songs on utaten", "version": "1.0", "manifest_version": 3, "content_scripts": [{"matches": ["*://utaten.com/lyric/*"], "js": ["main.js"]}]}

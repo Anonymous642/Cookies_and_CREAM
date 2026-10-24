@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Select Paragraph", "version": "1.0", "description": "Adds 'Select Paragraph' to the context menu. No data collected.", "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "select-paragraph@kernel-studio", "data_collection_permissions": {"required": ["none"]}}}}

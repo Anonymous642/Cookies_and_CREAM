@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "frame* by ordinal.", "version": "1.0.0", "permissions": ["debugger", "tabs", "activeTab", "downloads"], "icons": {"128": "logo.png"}, "action": {"default_popup": "popup.html", "default_icon": {"128": "logo.png"}}, "background": {"service_worker": "background.js"}}

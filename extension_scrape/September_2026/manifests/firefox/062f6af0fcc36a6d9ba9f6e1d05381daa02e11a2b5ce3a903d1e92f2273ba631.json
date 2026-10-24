@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PixivAdHide", "version": "0.37", "description": "a tool for hide pixiv's ads", "content_scripts": [{"run_at": "document_start", "all_frames": true, "matches": ["*://*.pixiv.net/*"], "css": ["src/content.css"]}], "applications": {"gecko": {"id": "pixivadhide@hayami.servehttp.com"}}}

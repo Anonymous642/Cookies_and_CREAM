@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TezgahEvim", "description": "Mutfak tezgahlar\u0131 hakk\u0131nda bilgi ve kar\u015f\u0131la\u015ft\u0131rma yapma imkan\u0131 sunar.", "version": "1.0", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage"]}

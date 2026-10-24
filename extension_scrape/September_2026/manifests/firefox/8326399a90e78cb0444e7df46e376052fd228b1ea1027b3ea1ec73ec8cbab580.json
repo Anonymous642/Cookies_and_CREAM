@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "dotjs", "description": "dotjs for modern foxes", "version": "0.0.2resigned1", "icons": {"64": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"]}], "browser_specific_settings": {"gecko": {"id": "{3cc62ac9-f171-47f8-8c6e-3ada5fb6cf12}"}}}

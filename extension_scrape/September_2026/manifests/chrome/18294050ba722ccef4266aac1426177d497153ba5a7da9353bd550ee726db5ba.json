@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Conference Reminder Assistant", "version": "1.0", "description": "Get notifications for your online conferences and summits.", "icons": {"48": "icon.png"}, "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["notifications"]}

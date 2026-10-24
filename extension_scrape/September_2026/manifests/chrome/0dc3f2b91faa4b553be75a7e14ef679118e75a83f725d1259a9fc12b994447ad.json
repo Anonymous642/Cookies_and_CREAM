@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SL Reflex Game Plus", "version": "1.3.0", "description": "A series of games for users with adhd; adhd game", "action": {"default_popup": "popup.html"}}

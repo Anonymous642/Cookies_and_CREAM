@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ChronosGPT by BB2B", "version": "3.4.1", "description": "ChronosGPT Premium \u2013 Smart Prompt Tree, Insert Time, and more.", "content_scripts": [{"matches": ["*://*.chat.openai.com/*", "*://*.chatgpt.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LOL Boards Rank", "version": "2.2resigned1", "content_scripts": [{"matches": ["http://*.leagueoflegends.com/*"], "js": ["profiles.js"]}], "browser_specific_settings": {"gecko": {"id": "{128dcd36-d42e-4207-b411-21da1f03d711}"}}}

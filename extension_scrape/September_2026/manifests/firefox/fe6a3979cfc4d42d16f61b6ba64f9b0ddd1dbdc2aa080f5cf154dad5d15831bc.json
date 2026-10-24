@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "INR to PHP Converter", "version": "1.0", "description": "Convert Indian Rupee to Philippine Peso.", "permissions": ["activeTab", "https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{880cc4d4-1c9e-4dce-b288-efde527e0a1d}"}}}

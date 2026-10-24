@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CountMeIn!", "version": "1.0", "description": "Displays a word count for text fields on Google Forms.", "content_scripts": [{"matches": ["https://docs.google.com/forms/*"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Minimal Tab with Bitcoin price and bookmarks", "version": "1.0", "description": "A clean, minimal new tab page with time, BTC price refreshed every 60s, Chuck Norris quotes, and beautiful backgrounds", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["bookmarks"]}

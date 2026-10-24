@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TikTok Time Limiter", "version": "1.0", "description": "Watch you screen time habits.", "permissions": ["tabs", "storage", "alarms"], "host_permissions": ["*://*/*"], "background": {"service_worker": "background.js", "type": "module"}}

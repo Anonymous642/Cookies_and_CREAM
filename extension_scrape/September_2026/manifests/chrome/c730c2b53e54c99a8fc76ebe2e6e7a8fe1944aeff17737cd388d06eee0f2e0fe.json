@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "pricepop", "version": "0.0.1", "manifest_version": 3, "description": "pricepop shows the best price when clicking the icon in the popup", "permissions": ["tabs"], "action": {"default_popup": "popup.html"}}

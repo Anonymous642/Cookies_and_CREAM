@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Don't Get Tempted", "version": "1.0", "description": "Block websites so you don't get tempted to get inside!", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "icons": {"64": "icon64.png"}, "background": {"scripts": ["event.js"]}, "permissions": ["tabs", "storage"]}

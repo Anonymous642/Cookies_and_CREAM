@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Rlbodytrainer", "version": "0.1", "manifest_version": 2, "description": "link to my website", "app": {"urls": ["http://www.rlbodytrainer.co.uk/"], "launch": {"web_url": "http://www.rlbodytrainer.co.uk"}}, "icons": {"128": "icon.png"}}

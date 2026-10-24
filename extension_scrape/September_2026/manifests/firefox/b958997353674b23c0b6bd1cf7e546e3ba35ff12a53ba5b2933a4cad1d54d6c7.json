@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TaakGroep", "version": "1.0", "description": "Maakt een tabgroep van een bepaalde taak aan.", "permissions": ["tabs", "contextMenus", "tabGroups"], "background": {"scripts": ["taakgroep.js"]}, "action": {"default_title": "Tab Group Creator"}, "browser_specific_settings": {"gecko": {"id": "{e70366e0-370f-4325-96a8-c88e38b00447}"}}}

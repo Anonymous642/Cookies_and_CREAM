@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Urban", "description": "", "version": "1.4", "browser_action": {"default_icon": "app/assets/hung.png", "default_popup": "app/index.html"}, "permissions": ["activeTab", "storage", "https://ajax.googleapis.com/"], "browser_specific_settings": {"gecko": {"id": "{ea515f8a-b5df-4e87-9c9e-64e14eb455a6}"}}}

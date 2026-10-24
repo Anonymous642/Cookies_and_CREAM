@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Custom Homepage Redirect", "version": "1.0", "description": "Set a custom homepage and redirect to it on new tab.", "permissions": ["storage", "tabs"], "chrome_url_overrides": {"newtab": "redirect.html"}, "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{ac8ec3a3-278f-4f5d-8c06-f12402fb0b99}"}}}

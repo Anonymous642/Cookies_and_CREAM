@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "2025\u52b1\u5fd7\u9e21\u6c64", "version": "1.0", "description": "\u6bcf\u6b21\u6253\u5f00\u968f\u673a\u5c55\u793a\u4e00\u6bb52025\u5e74\u52b1\u5fd7\u9e21\u6c64", "browser_specific_settings": {"gecko": {"id": "motivational2025@example.com", "strict_min_version": "58.0"}}, "browser_action": {"default_popup": "popup.html"}, "permissions": []}

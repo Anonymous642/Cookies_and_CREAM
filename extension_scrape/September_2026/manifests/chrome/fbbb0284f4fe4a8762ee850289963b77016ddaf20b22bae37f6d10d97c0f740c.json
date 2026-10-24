@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Meta Length Checker", "version": "1.0.0", "description": "Check meta title and meta description length in a glossy popup.", "action": {"default_title": "Meta Length Checker", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

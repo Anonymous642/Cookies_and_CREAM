@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hbo Nordic Hotkeys", "version": "0.2", "description": "Allows using conventional hotkeys in hbo in-browser player", "icons": {"48": "icons/kb-48.png"}, "content_scripts": [{"matches": ["https://*.hbonordic.com/*"], "js": ["add-hotkeys.js"]}]}

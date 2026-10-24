@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "metaverse2internet", "version": "1.0.0", "description": "the internet is the next version of the internet", "icons": {"48": "icon-48x48.png", "96": "icon-96x96.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["javascript.js"]}]}

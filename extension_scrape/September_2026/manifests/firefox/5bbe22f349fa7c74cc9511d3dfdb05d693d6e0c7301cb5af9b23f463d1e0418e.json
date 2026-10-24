@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Multi-Site Search", "version": "1.0", "description": "Search multiple websites at once.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{a238e850-603c-4b0f-b0dd-204a5144b4a4}"}}}

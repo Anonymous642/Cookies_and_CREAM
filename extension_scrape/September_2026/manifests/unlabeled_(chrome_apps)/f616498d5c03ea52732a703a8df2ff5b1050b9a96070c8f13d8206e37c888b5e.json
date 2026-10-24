@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Estates-Manager", "description": "Professional real estates software", "version": "1.0.0.0", "manifest_version": 2, "icons": {"128": "128.png"}, "app": {"urls": ["https://go.estates-manager.com/"], "launch": {"web_url": "https://go.estates-manager.com/"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Crush Code Name Maker", "version": "1.0.0", "description": "Create playful code names for you and your crush in a simple popup with no complex permissions.", "action": {"default_popup": "popup.html", "default_title": "Crush Code Name Maker"}, "icons": {"128": "icon128.png"}}

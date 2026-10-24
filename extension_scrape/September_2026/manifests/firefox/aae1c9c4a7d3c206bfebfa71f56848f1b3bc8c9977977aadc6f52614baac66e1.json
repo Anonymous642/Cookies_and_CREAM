@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RTLify", "version": "1.0", "description": "Adds a dir=\"rtl\" attr to root html tag", "content_scripts": [{"matches": ["<all_urls>"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{a1e88305-82ae-41ad-ac6d-bdfdbbf2dc21}"}}}

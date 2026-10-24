@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TrendColor Gallery", "version": "1.0.0", "description": "Discover the trending Color of the Year and explore beautifully curated color trends from the past.", "action": {"default_popup": "popup.html", "default_title": "View Color Trends"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Blocker", "version": "1.1resigned1", "description": "Blocks youtube feed", "icons": {"48": "icons/icon.svg"}, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["blocker.js"]}], "browser_specific_settings": {"gecko": {"id": "{b4380e7b-2a98-43a6-9154-17766e44c70a}"}}}

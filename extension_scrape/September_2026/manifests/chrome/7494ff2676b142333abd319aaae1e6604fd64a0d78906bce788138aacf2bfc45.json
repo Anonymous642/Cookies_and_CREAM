@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gmail Bot", "description": "Ask ChatGPT about your Gmail messages", "version": "0.1.10", "content_scripts": [{"matches": ["https://mail.google.com/mail/*"], "js": ["arc.js", "inject.js"], "css": ["inject.css"]}], "icons": {"64": "bot-64.png", "128": "bot-128.png", "256": "bot.png"}}

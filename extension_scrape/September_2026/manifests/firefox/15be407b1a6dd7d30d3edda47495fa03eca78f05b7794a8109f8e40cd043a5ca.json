@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "0.9.1", "name": "histcontext", "description": "View a history item in context", "browser_action": {"default_popup": "popup/histcontext.html"}, "permissions": ["history"], "browser_specific_settings": {"gecko": {"id": "{214b5f96-b8da-48ef-b3d9-9269b00e608a}"}}}

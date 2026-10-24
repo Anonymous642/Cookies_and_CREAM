@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PoE Fandom to Wiki Redirect", "version": "1.0", "description": "Automatically redirects Path of Exile Fandom pages to poewiki.net", "permissions": ["declarativeNetRequest"], "host_permissions": ["*://pathofexile.fandom.com/*"], "background": {"service_worker": "background.js"}}

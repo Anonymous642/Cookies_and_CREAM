@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Work Value Calculator", "description": "Calculate if your job is worth it", "version": "1.0.0", "icons": {"16": "public/icons/icon.png", "32": "public/icons/icon.png", "48": "public/icons/icon.png", "128": "public/icons/icon.png"}, "action": {"default_popup": "index.html"}}

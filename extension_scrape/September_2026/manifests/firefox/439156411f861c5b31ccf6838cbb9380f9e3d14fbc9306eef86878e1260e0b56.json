@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Realize", "version": "1.0.0.0", "icons": {"16": "16.png", "32": "32.png", "48": "48.png", "128": "128.png"}, "permissions": ["activeTab", "<all_urls>"], "background": {"scripts": ["background.js"]}, "web_accessible_resources": ["hook.js"], "devtools_page": "devtools-root.html"}

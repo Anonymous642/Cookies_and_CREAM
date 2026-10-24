@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My Test Extension", "version": "1.0", "description": "A minimal test extension.", "content_scripts": [{"matches": ["*://www.netflix.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{41bf0037-5a35-4519-b6b0-90423af3bddd}"}}}

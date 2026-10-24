@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "blackboard", "description": "draw", "version": "1.0.1", "manifest_version": 3, "action": {"default_icon": "blackboard-icon.png"}, "permissions": ["activeTab", "scripting"], "background": {"service_worker": "blackboard.js"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mood Color Picker", "version": "1.0", "description": "Displays a color corresponding to your mood.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "index.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{ba153a42-f14c-48e7-99a2-3078190fce51}"}}}

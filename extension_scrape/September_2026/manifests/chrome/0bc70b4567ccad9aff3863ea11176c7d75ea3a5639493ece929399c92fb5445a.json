@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Inspi and Buis", "version": "1.0", "description": "Barre de recherche avec raccourcis intelligents", "icons": {"128": "logo.png"}, "host_permissions": ["<all_urls>"], "action": {"default_popup": "popup.html", "default_icon": {"128": "logo.png"}}}

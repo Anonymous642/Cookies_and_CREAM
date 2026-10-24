@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Reaction Game", "version": "1.0", "description": "Test your reaction time!", "icons": {"16": "icon16.png", "32": "icon32.png", "48": "icon482.png", "128": "icon128.png"}, "action": {"default_popup": "popup.html", "default_icon": "icon482.png"}, "permissions": ["storage"]}

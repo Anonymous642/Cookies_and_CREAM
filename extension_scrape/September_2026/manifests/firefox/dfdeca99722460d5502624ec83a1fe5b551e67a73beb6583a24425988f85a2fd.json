@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SpotifyURL", "version": "1.0", "description": "Open links from spotify in the desktop app", "content_scripts": [{"matches": ["https://open.spotify.com/*"], "js": ["index.js"]}]}

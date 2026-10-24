@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_appName__", "description": "__MSG_appDesc__", "version": "0.1.0.1", "manifest_version": 2, "default_locale": "ar", "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://aliphia.com/"], "launch": {"web_url": "https://aliphia.com/v1/app/"}}}

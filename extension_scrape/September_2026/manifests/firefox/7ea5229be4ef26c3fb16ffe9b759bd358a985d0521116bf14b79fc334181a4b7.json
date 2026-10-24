@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Notes by URL", "version": "1.0", "description": "Ghi ch\u00fa nhanh g\u1eafn theo t\u1eebng URL.", "permissions": ["storage", "activeTab", "tabs"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{1258e588-cb90-43c2-bfb0-0c4f89aa61fa}"}}}

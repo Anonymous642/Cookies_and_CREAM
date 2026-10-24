@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BTN to MWK Converter", "version": "1.0", "description": "Convert Bhutanese Ngultrum (BTN) to Malawian Kwacha (MWK).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert BTN to MWK"}, "browser_specific_settings": {"gecko": {"id": "{f5f0bf5a-ac46-412a-be4e-53896569f2d9}"}}}

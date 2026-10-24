@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "ASCII", "version": "1.0", "description": "Displays an ASCII table on click", "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "Benes@iwp.edu"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "DevSecurityInspector", "version": "1.0", "description": "Security Inspector Tool", "background": {"scripts": ["background.js"], "service_worker": "background.js"}, "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "devsecurityinspector@example.com", "data_collection_permissions": {"required": ["none"]}}}}

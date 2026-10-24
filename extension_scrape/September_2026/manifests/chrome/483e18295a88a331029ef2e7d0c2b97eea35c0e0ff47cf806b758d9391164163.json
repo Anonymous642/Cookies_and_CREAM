@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Customer Label Print", "version": "1.0", "description": "An extension to print customer labels.", "action": {"default_popup": "index.html", "default_icon": "default.png"}, "web_accessible_resources": [{"resources": ["js/global.js"], "matches": ["<all_urls>"]}]}

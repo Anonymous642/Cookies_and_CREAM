@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ATS Matcher Pro v6", "version": "6.0", "permissions": ["storage", "activeTab", "scripting"], "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["js/skills.js", "js/scoring.js"]}]}

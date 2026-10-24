@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Source Map Downloader", "version": "4.0", "description": "Download source code from source maps in Developer Tools.", "devtools_page": "devtools.html", "permissions": ["<all_urls>", "downloads"], "browser_specific_settings": {"gecko": {"id": "kudos6566@gmail.com", "strict_min_version": "140.0"}}}

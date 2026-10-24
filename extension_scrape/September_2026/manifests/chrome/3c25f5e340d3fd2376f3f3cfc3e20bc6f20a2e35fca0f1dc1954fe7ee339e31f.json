@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Admin Cache Cleaner", "version": "1.0", "description": "Clear browser cache with password authentication.", "permissions": ["browsingData"], "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tech Support Scam Defender", "version": "1.6", "manifest_version": 3, "description": "Blocks fake tech support scams and keeps you safe.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_idle"}]}

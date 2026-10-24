@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Deadlines", "version": "0.3", "description": "Sometimes we have too many things to keep in mind. This extension helps you manage them.", "chrome_url_overrides": {"newtab": "newtab.html"}, "chrome_settings_overrides": {"homepage": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{2cc9935d-3e60-4b37-9b42-60e8a38bd482}"}}}

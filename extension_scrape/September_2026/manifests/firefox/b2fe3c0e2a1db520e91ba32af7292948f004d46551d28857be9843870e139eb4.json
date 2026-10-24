@@ -1,0 +1,1 @@
+{"description": "Hide BS from Roblox.", "manifest_version": 2, "name": "Hide Roblox BS", "version": "1.0", "homepage_url": "https://qaezz.dev", "icons": {"48": "icons/HRBS-48.png"}, "content_scripts": [{"matches": ["*://*.roblox.com/*"], "js": ["hrbs.js"]}], "browser_specific_settings": {"gecko": {"id": "{4213fe7f-c258-4c78-9f75-0af5fb953ff3}"}}}

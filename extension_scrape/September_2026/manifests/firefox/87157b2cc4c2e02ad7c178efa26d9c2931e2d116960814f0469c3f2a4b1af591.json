@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Adaptable Homepage", "version": "1.0", "chrome_url_overrides": {"newtab": "home.html"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"data_collection_permissions": {"required": ["none"], "optional": []}, "id": "{ab0799c2-860d-47f3-a023-d6c4a78208a8}"}}}

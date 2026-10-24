@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Selection Search", "version": "1.0", "description": "Search selected text on YouTube.", "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "youtube-selection-search@example.com", "data_collection_permissions": {"required": ["none"]}}}}

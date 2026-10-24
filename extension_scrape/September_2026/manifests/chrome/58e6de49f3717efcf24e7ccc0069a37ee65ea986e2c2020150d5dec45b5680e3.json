@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Content Idea Generator", "version": "1.0.0", "description": "Generate random content ideas instantly in a clean and modern popup.", "action": {"default_title": "Content Idea Generator", "default_popup": "popup.html"}, "icons": {"128": "icon-128.png"}}

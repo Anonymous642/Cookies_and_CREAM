@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "derstandard essentials", "version": "0.1.4", "content_scripts": [{"css": ["styles.css"], "matches": ["https://www.derstandard.at/*"]}], "icons": {"128": "img.png"}}

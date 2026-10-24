@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LinkedIn Carousel Generator: 1-click article to slides", "version": "1.0.0", "icons": {"48": "public/logo.png"}, "action": {"default_icon": {"48": "public/logo.png"}, "default_popup": "src/popup/index.html"}, "permissions": ["activeTab", "scripting"]}

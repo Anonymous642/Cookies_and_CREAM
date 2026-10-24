@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bflix For PC,windows and Mac (Easy Use)", "description": "Easy-Streaming-and-Search Movie.", "version": "1.1", "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html"}, "icons": {"16": "bflix.png", "48": "bflix.png", "128": "bflix.png"}}

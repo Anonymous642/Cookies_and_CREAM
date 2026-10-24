@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Skip Button Auto Clicker", "version": "1.0", "description": "Auotomatically clicks the skip ad button on YouTube when available.", "permissions": [], "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["content.js"], "run_at": "document_end"}]}

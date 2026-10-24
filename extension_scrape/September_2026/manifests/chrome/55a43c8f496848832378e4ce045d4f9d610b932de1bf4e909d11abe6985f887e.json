@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "0.007", "name": "Browser Weather Tool", "description": "A simple tool that allows you to check the weather in cities around the world.", "action": {"default_popup": "index.html", "default_icon": "weather-icon.png"}}

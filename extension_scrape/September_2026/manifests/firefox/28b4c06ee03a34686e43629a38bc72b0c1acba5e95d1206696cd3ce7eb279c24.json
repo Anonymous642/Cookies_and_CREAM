@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Basket Random Unblocked", "version": "2.0", "description": "Play Basket Random Unblocked game right in your web browser!", "browser_action": {"default_icon": "icon.png"}, "background": {"scripts": ["background.js"], "type": "module"}, "browser_specific_settings": {"gecko": {"id": "{d88a98ce-4771-49d2-a460-1e4ac90f4fe1}"}}}

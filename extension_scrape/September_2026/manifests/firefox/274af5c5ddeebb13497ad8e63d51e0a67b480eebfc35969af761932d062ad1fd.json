@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Startpage.com-SearchWordTabTitle", "version": "0.1.0", "description": "This extension changes Startpage.com search result tab's title to search word in the tab.", "content_scripts": [{"matches": ["*://*.startpage.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{791bd99f-3d7b-4a49-af54-166b5520e1a5}"}}}

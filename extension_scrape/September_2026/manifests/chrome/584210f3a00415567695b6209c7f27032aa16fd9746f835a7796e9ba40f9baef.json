@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PDF zusammenf\u00fcgen", "description": "F\u00fchrt PDFs lokal zusammen, ohne Dateien hochzuladen.", "version": "0.1.0", "action": {"default_popup": "popup.html", "default_title": "PDF zusammenf\u00fcgen"}, "permissions": []}

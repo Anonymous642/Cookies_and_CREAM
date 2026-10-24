@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Disable Wiki Page Previews", "version": "0.1", "description": "Disables Wikipedia's page previews that pop up when hovering over a link", "icons": {"48": "icons/wiki-48.png"}, "content_scripts": [{"matches": ["*://*.wikipedia.org/*"], "js": ["disablePreviews.js"]}]}

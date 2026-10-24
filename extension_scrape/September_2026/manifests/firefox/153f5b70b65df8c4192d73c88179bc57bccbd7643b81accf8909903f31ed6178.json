@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "SpeakEasy", "version": "1.0", "description": "SpeakEasy: Text-to-speech for web", "action": {"default_popup": "popup.html", "default_icon": "speakeasy.png"}, "icons": {"128": "speakeasy.png"}, "browser_specific_settings": {"gecko": {"id": "renzouknp353908@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

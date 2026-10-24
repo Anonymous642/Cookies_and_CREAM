@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TapTab", "description": "Take notes from your new tab.", "version": "1.6", "manifest_version": 3, "background": {"service_worker": "./static/js/background.js"}, "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"16": "taptap-16.png", "48": "taptap-48.png", "128": "taptap-128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quran Ayah Popup", "version": "1.0", "description": "Displays a random Quranic verse about Sabr, Shukr, and Allah's presence.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{357fe255-305f-45b9-a811-c3cf8d7dff6a}"}}}

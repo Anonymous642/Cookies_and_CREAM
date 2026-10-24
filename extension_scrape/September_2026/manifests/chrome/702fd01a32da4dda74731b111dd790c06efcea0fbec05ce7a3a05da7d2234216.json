@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Channel Video Redirect", "description": "Whenever you click on a youtube channel, this extension redirects you to the channel's videos", "version": "0.0.0.1", "permissions": ["tabs"], "background": {"service_worker": "background.js"}}

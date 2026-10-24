@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HQ Inspiration", "version": "1.0", "description": "Hi\u1ec3n th\u1ecb th\u00f4ng \u0111i\u1ec7p truy\u1ec1n c\u1ea3m h\u1ee9ng HQQuilt m\u1ed7i khi b\u1ea1n m\u1edf popup.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{48f6572b-922e-407b-9e07-6069248cf05b}"}}}

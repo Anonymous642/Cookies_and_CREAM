@@ -1,0 +1,1 @@
+{"description": "A theme inspired by colors of London Spitfires.", "manifest_version": 2, "name": "London Spitfires Theme", "permissions": ["theme"], "background": {"scripts": ["background.js"]}, "version": "1.1resigned1", "browser_specific_settings": {"gecko": {"id": "{5f63212a-8833-4959-b213-890785e91859}"}}}

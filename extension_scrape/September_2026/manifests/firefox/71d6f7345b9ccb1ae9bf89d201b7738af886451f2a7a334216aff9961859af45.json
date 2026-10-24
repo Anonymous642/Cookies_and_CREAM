@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Word Counter", "version": "1.0", "description": "\u0110\u1ebfm s\u1ed1 t\u1eeb \u0111\u01b0\u1ee3c ch\u1ecdn tr\u00ean trang.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "applications": {"gecko": {"id": "word-counter-addon@example.com"}}}

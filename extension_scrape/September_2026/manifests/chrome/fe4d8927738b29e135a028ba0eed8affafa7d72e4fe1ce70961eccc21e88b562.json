@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "RIM User-Agent", "version": "2.0", "description": "D\u00e9bloque du contenu in\u00e9dit sur le site www.marsanaryas.com", "permissions": ["declarativeNetRequest"], "host_permissions": ["<all_urls>"], "background": {"service_worker": "background.js"}}

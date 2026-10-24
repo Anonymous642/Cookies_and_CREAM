@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "FidelAI", "version": "13.0", "description": "AI-powered Amharic meeting summarizer.", "permissions": ["storage", "offscreen"], "action": {"default_popup": "popup.html", "default_title": "FidelAI"}, "background": {"service_worker": "background.js"}}

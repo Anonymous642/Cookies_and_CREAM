@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Slug Generator", "version": "1.0", "description": "Input an article title and convert it into a user-friendly, SEO-friendly URL slug.", "action": {"default_popup": "popup.html", "default_icon": "slug_generator.png"}, "icons": {"128": "slug_generator.png"}, "browser_specific_settings": {"gecko": {"id": "c7deidraseileryfq7049@hotmail.com"}}}

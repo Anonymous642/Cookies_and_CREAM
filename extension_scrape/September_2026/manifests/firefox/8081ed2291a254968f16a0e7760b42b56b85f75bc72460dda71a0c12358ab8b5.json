@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "THW-TFS", "version": "1.0", "description": "Spices for a gourmet TFS experience", "icons": {"48": "icons/thw-tfs-48.png", "96": "icons/thw-tfs-96.png"}, "content_scripts": [{"matches": ["*://*.vrc-tfs.vr.vibrationresearch.com/*/pullrequest/*", "*://*.vrc-tfs/**/pullrequest/*"], "js": ["thw-tfs.js"]}]}

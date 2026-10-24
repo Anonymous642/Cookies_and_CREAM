@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Koroshi's Valorant Randomizer", "version": "1.0.2", "description": "A simple Valorant Agent Randomizer", "action": {"default_popup": "index.html"}, "permissions": []}

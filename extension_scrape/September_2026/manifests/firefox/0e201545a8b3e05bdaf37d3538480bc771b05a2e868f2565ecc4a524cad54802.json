@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Meter to CM Converter", "version": "1.0", "description": "Convert meters to centimeters instantly!", "browser_action": {"default_popup": "popup.html"}, "applications": {"gecko": {"id": "meter2cm@firefox-extension", "strict_min_version": "68.0"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "World clock", "description": "A multiple timezones clock", "version": "0.0.1", "permissions": ["storage"], "action": {"default_popup": "html/index.html"}, "icons": {"32": "assets/icons/32.png", "48": "assets/icons/48.png", "96": "assets/icons/96.png", "128": "assets/icons/128.png"}}

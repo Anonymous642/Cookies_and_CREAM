@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Leaderboard", "manifest_version": 3, "version": "1.0.0", "description": "A Chrome Extension Leaderboard paired with Google Sheets for teachers", "icons": {"48": "icon48.png", "128": "icon128.png"}}

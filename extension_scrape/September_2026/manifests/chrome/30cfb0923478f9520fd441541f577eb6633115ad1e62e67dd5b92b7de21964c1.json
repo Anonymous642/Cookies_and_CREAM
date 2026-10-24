@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SEO Quick Analyzer - Instant On-Page SEO Check", "version": "1.0", "description": "Analyze title, meta tags, headings, and word count instantly.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_title": "SEO Quick Analyzer"}}

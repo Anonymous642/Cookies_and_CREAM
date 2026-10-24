@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Contentful", "short_name": "Contentful", "description": "Contentful: All your content, one API", "version": "1", "manifest_version": 2, "app": {"urls": ["https://www.contentful.com/"], "launch": {"web_url": "https://contentful.com/"}}, "icons": {"128": "contentful-logo-128.png"}, "permissions": []}

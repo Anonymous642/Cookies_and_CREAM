@@ -1,0 +1,1 @@
+{"name": "CuttURL", "manifest_version": 2, "short_name": "Cutt URL", "description": "shortens url with cutt.ly", "version": "1.4", "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "canvas.png"}, "icons": {"128": "canvas.png"}}

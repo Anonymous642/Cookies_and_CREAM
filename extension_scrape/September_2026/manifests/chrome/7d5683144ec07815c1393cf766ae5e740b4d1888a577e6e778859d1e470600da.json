@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Today Luck Card", "version": "1.0.0", "description": "Show a fun daily luck message instantly.", "icons": {"128": "icon128.png"}, "action": {"default_title": "Today Luck Card", "default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Redirect YouTube Shorts to standard player", "description": "Redirects youtube shorts to the standard player.", "version": "1.0", "background": {"scripts": ["background.js"], "persistent": false}, "permissions": ["https://www.youtube.com/shorts/*"], "browser_specific_settings": {"gecko": {"id": "{ce097b83-320c-44b1-9e1b-b366067ae126}"}}}

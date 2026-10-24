@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute Pins: Favorite Websites", "version": "1.0.0", "description": "Pin your favourite websites and open them quickly from a cute popup.", "action": {"default_title": "Cute Pins", "default_popup": "popup.html"}, "permissions": ["activeTab", "storage"], "icons": {"128": "icon128.png"}}

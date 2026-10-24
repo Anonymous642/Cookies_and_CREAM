@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Register Times", "version": "1.0", "description": "Acceso r\u00e1pido para fichar en Register Times.", "action": {"default_popup": "popup.html", "default_title": "Fichar ahora"}, "icons": {"128": "icon.png"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mandarin Blueprint Next Lesson Fix", "version": "1.0", "description": "Replace the next lesson panel with an easy-to-click button", "permissions": [], "content_scripts": [{"matches": ["https://courses.mandarinblueprint.com/*"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "How To Decode Urban Signs", "version": "0.9resigned1", "description": "Sonify street signs", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.mapillary.com/*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{74b6e7ec-1579-425c-81d6-99ff9f157e81}"}}}

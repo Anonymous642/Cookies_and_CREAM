@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AzusaNav", "version": "2.0.0", "description": "\u4e00\u4e2a\u6a31\u82b1\u4e3b\u9898\u7684\u6781\u81f4\u7b80\u7ea6\u5bfc\u822a\u9875", "icons": {"128": "icon/azusanav-logo-128.png"}, "chrome_url_overrides": {"newtab": "index.html"}}

@@ -1,0 +1,1 @@
+{"description": "The internet is covered in \ud83d\udca9. Avoid it.", "manifest_version": 2, "name": "Poop", "version": "0.2.1resigned1", "permissions": ["webRequest", "webRequestBlocking", "webNavigation", "<all_urls>", "tabs"], "background": {"scripts": ["poop.js"]}, "browser_specific_settings": {"gecko": {"id": "{38819180-f8c7-43a7-ba12-06f722b5beec}"}}}

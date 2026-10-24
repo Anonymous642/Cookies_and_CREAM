@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.4.6", "name": "OtsiRT", "omnibox": {"keyword": "rt"}, "background": {"scripts": ["background.js"]}, "content_scripts": [{"matches": ["*://*.riigiteataja.ee/*"], "js": ["rt.js"]}], "icons": {"128": "icon128.jpg"}, "browser_specific_settings": {"gecko": {"id": "{84170b1a-070c-4365-a16d-d69f206c859a}"}}}

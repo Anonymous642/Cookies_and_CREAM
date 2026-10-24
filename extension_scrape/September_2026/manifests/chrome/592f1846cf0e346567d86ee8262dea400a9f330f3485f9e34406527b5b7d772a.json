@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Knights vs Gnomes Jumpscare", "version": "1.0", "description": "1 in 20 chance of a new tab opening up the ledgendary knights vs gnomes", "icons": {"48": "icons/48.png", "96": "icons/96.png", "128": "icons/128.png"}, "background": {"service_worker": "back.js"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "W2G Anti Earrape", "version": "1.1resigned1", "icons": {"48": "icon.png"}, "description": "Removes the Earrape from Watch2Gether", "content_scripts": [{"matches": ["*://*.watch2gether.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{3ffeb4aa-c15c-4ccd-ad09-f1dbc9f7f4ee}"}}}

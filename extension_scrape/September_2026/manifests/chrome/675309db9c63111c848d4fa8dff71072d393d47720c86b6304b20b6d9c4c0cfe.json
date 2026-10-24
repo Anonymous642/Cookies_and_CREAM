@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Writing Production Tracker", "version": "1.11", "description": "Simple time to production calculator", "background": {"service_worker": "bgworker.js"}, "permissions": ["storage"], "action": {"default_popup": "popup.html"}, "icons": {"16": "16.png", "48": "48.png", "128": "128.png"}}

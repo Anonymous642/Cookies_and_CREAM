@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "English Vocabulary Card", "version": "1.0.0", "description": "Show a random English vocabulary word in a simple popup.", "icons": {"128": "icon128.png"}, "action": {"default_title": "English Vocabulary", "default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "U.S. State Capitals", "version": "1.0", "description": "Displays a list of U.S. states and their capitals.", "browser_action": {"default_popup": "popup.html"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{17262e2a-3379-48e0-921c-d225a93ae7ab}"}}}

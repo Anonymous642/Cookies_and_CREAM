@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Purple AdBlock", "version": "1.0", "applications": {"gecko": {"id": "purpleadblock2@example.com"}}, "permissions": ["privacy"], "background": {"scripts": ["background.js"], "persistent": true}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "css": ["style.css"]}, {"matches": ["*://*.youtube.com/*"], "js": ["content.js"]}]}

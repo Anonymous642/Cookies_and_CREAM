@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "tinyt", "version": "1.1", "description": "TINY t.", "icons": {"48": "icons/Cactus48.png"}, "content_scripts": [{"matches": ["*://*.nytimes.com/crosswords/*"], "js": ["tinyt.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Color Red", "version": "1.0", "description": "Adds a red text color in youtube", "icons": {}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "icarorubem1@gmail.com"}}}

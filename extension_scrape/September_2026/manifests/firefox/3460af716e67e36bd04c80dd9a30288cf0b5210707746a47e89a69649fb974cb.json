@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "itavy-o", "version": "0.0.4", "content_scripts": [{"matches": ["https://www.secure.itau.com.py/24horasinternet/*", "https://www.secure.itau.com.py/24HorasNegocios/*"], "js": ["/content_script.js"]}], "browser_specific_settings": {"gecko": {"id": "{bd61828f-570e-4f0f-ac3a-19f33e85ac4b}"}}}

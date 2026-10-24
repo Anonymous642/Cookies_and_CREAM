@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bithumb Withdraw Limit", "version": "1.6", "description": "\ube57\uc378 \ucd9c\uae08 \ud55c\ub3c4 \ud45c\uc2dc", "permissions": [], "content_scripts": [{"matches": ["https://www.bithumb.com/react/trade/order/*"], "js": ["content.js"], "run_at": "document_start", "world": "MAIN"}]}

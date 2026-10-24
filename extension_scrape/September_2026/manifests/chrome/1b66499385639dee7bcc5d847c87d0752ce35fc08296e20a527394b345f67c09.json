@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cryypto", "description": "Find top crypto coins, look at latest news, find the current fear and greed index along with many more functionalities.", "version": "1.0.0", "icons": {"128": "src/assets/logo.png"}, "action": {"default_popup": "index.html"}, "permissions": ["storage"]}

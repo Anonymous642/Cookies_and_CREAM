@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube SpeedWatch", "description": "This extension shows the duration of a video on YouTube based on the playback speed.", "version": "1.3", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["script.js"]}], "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{c0f53f92-7e34-409b-a494-1c1c84480624}"}}}

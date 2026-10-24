@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "calendar-ruiner", "version": "1.0", "description": "why?", "content_scripts": [{"matches": ["*://app.schoology.com/calendar/*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{386ef724-6a24-4812-9084-ad0c1d510b7f}"}}}

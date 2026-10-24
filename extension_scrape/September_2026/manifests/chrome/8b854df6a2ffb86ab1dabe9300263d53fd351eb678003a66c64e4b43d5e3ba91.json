@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Game Signals Pro: Aviator & More", "version": "8.5.1", "description": "Access expert signals for Aviator, Mines, Crash. Telegram integration for game success.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "permissions": []}

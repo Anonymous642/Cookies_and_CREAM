@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Page Screenshot Saver", "version": "1.0", "description": "Capture and save a screenshot of the current page.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{5f698b3b-a272-4724-9c6f-0a913164f63a}"}}}

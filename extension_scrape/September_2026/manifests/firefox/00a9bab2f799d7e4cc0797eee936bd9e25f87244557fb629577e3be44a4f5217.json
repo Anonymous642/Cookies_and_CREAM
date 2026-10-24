@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ytUnNag", "version": "1.6resigned1", "description": "Invalidates Google nag screen on Youtube", "icons": {"48": "icons/ytUnNag-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*", "*://*.youtu.be/*"], "js": ["ytUnNag.js"]}], "browser_specific_settings": {"gecko": {"id": "{8a7a2dc6-ecc3-4b22-97b0-522d746c7d67}"}}}

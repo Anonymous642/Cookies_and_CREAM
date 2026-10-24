@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "XPath Generator", "version": "1.0", "description": "Generate XPath expressions easily.", "permissions": [], "action": {"default_popup": "index.html", "default_icon": "icons/xpathgenerator-icon.png"}, "icons": {"128": "icons/xpathgenerator-icon.png"}}

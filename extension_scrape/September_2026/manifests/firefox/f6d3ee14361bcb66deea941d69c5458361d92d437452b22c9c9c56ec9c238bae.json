@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reddit Hide Promoted", "version": "1.0.0.1resigned1", "content_scripts": [{"js": ["js/content_script.js"], "matches": ["*://www.reddit.com/*"], "all_frames": true, "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{8c884b4c-1f63-4e2e-a707-a3900439f4fe}"}}}

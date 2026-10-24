@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "8 PM Alarm", "version": "2.3", "description": "Daily alarm at 8 PM.", "permissions": ["alarms", "notifications"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "mijos@develeporeriwuy.com", "strict_min_version": "58.0"}}}

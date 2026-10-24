@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AWS Tab Sorter", "version": "1.0", "description": "Sorts AWS tabs in a more logical order and group by service", "icons": {"128": "128.png"}, "permissions": ["tabs", "tabGroups", "storage"], "action": {"default_popup": "popup.html"}}

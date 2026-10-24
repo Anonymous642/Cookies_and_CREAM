@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Style & Script", "version": "1.0", "description": "Inject custom CSS & JS per site.", "action": {"default_popup": "popup.html", "default_icon": "style_&_script.png"}, "icons": {"128": "style_&_script.png"}, "browser_specific_settings": {"gecko": {"id": "nerissaqcqp404093@hotmail.com"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HTTP Response Codes", "version": "1.0", "description": "A sidebar reference for HTTP response status codes", "permissions": [], "sidebar_action": {"default_title": "HTTP Codes", "default_panel": "sidebar.html"}, "browser_specific_settings": {"gecko": {"id": "{f47bd10b-58bb-4398-b567-0e02b2c3d479}"}}}

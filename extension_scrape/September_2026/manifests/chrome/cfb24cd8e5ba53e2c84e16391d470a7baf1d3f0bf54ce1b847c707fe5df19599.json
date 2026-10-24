@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "short_name": "Paste n\u2019 Convert", "name": "Paste n\u2019 Convert Timezone", "version": "1.0.1", "description": "Extension to get times for different timezones", "permissions": [], "icons": {"128": "logo192.png"}, "action": {"default_popup": "index.html", "default_icon": "logo192.png"}}

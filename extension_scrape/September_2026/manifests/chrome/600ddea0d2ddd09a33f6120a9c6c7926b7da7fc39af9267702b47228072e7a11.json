@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Advanze Test Evidence Capture Tool", "description": "Record test evidence as WebM video.", "version": "1.0.0", "permissions": ["desktopCapture", "downloads"], "host_permissions": ["<all_urls>"], "action": {}, "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Prompt Generator", "version": "1.0", "description": "Generate text prompts with style and options.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{0149d92f-a428-48e6-b9b2-75a8313d893a}"}}}

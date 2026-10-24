@@ -1,0 +1,1 @@
+{"manifest_version": 3, "version": "2024.9.21", "name": "Copy Tabs", "description": "Adds a context menu item to copy selected tab urls.", "browser_specific_settings": {"gecko": {"id": "copytabs@cowtools.net"}}, "permissions": ["tabs", "menus", "clipboardWrite"], "icons": {"64": "icons/icon64.png"}, "background": {"scripts": ["copytabs.js"]}}

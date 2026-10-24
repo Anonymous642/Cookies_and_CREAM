@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ImageMood Detector", "version": "1.0", "description": "Analyze images and suggest their mood based on colors and faces.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{04291f32-cb2d-46aa-847b-44c9f895e7ee}"}}}

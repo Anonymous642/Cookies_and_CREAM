@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "NPI Lookup", "description": "Quickly search National Provider Identifier numbers. Efficiently find and verify healthcare provider details.", "version": "1.0.0", "host_permissions": ["https://npiregistry.cms.hhs.gov/api/*"], "action": {"default_popup": "index.html"}}

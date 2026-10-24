@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Productivity Links Grabber", "description": "Boost how you capture links to your Notion with this very simple Links Grabber", "version": "1.0.0.0", "manifest_version": 3, "icons": {"128": "images/icon.png"}, "action": {"default_popup": "popup.html"}, "permissions": ["activeTab", "scripting"]}

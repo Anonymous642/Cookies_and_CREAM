@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FJD to CVE Converter", "version": "1.0", "description": "Convert Fijian Dollar (FJD) to Cape Verdean Escudo (CVE).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert FJD to CVE"}, "browser_specific_settings": {"gecko": {"id": "{ab406206-380a-443d-b222-12baca71551c}"}}}

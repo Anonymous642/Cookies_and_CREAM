@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Download Manager+", "version": "1.0", "description": "Download Manager+: Better download control", "action": {"default_popup": "popup.html", "default_icon": "download_manager+.png"}, "icons": {"128": "download_manager+.png"}}

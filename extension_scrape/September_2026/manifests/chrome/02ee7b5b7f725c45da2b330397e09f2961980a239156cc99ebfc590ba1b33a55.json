@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CapaWallet", "version": "1.0.0", "description": "Crypto Wallet Extension", "manifest_version": 3, "action": {"default_popup": "index.html", "default_title": "Open CapaWallet"}, "icons": {"16": "logo16.png", "48": "logo48.png", "128": "logo128.png"}}

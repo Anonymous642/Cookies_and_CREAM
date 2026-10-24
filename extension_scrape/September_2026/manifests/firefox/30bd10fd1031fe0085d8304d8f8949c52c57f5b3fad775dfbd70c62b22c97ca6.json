@@ -1,0 +1,1 @@
+{"version": "1.0", "name": "Journey Through", "chrome_url_overrides": {"newtab": "index.html"}, "description": "A winding road nestled between two massive red rock cliffs", "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{e58e0ecc-58fb-4e84-9858-45845b507cf9}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reading Progress Memory", "version": "1.0", "description": "Save how far you read automatically.", "permissions": ["storage", "tabs"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{95a763cc-269e-4782-892f-ce16d3b4fca2}"}}}

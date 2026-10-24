@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Color Coder", "version": "1.0", "description": "Assign colors to tabs based on their content or domain.", "permissions": ["tabs", "storage"], "background": {"scripts": ["background.js"]}, "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{4469c7cd-6701-4588-99b5-d3ab1d0e3324}"}}}

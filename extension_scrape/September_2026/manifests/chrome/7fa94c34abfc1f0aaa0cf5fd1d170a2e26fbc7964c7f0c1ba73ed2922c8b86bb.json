@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "BlinkNote Quick Link", "version": "0.1.0", "description": "Generate BlinkNote shareable links instantly.", "action": {"default_popup": "popup.html", "default_title": "BlinkNote"}, "permissions": ["storage", "clipboardWrite"], "host_permissions": ["https://blinknote.me/*"]}

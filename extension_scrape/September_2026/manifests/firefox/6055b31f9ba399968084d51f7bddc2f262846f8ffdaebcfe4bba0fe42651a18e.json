@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Scroll Reader", "version": "1.0", "description": "Automatically scrolls the page for easier reading.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{c90a7e51-7ae7-4d30-bc38-f75449542386}"}}}

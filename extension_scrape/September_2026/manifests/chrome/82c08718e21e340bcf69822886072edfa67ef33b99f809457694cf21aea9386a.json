@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Krogo Clipper", "version": "1.0", "description": "Automatically clicks all coupon Clip buttons on the supermarket coupon page.", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html"}}

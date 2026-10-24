@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "\u667a\u80fd\u4e66\u7b7e", "version": "1.3", "description": "\u4e00\u952e\u6dfb\u52a0\u6216\u5220\u9664\u4e66\u7b7e", "permissions": ["bookmarks", "tabs"], "browser_action": {"default_icon": "star.png"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{243ff3eb-6b89-4cab-8777-b1e8a7c9294d}"}}}

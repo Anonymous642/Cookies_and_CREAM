@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SEK to NOK Converter", "version": "1.0", "description": "A simple converter for SEK to NOK.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{a15eedb7-5666-416d-8529-578228770a62}"}}}

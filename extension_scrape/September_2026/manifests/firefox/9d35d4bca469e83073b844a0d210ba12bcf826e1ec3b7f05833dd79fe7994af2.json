@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Environment Integration", "version": "1.0", "description": "Integrates environmental features into websites.", "permissions": ["tabs", "webRequest", "webNavigation"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "environment_integration_extension@gmail.com"}}}

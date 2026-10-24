@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ordb\u00f6cker", "version": "4", "description": "Till\u00e4gget samlar och visar tre ordb\u00f6cker p\u00e5 olika spr\u00e5k f\u00f6r enkel \u00e5tkomst.", "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "action": {"default_popup": "popup.html"}}

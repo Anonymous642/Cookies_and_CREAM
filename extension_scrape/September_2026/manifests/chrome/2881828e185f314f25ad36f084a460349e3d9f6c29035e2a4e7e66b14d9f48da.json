@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Special Day Countdown", "description": "Count down the days until your special date.", "version": "1.0", "action": {"default_popup": "popup.html", "default_title": "Countdown"}, "icons": {"128": "icon.png"}}

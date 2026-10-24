@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "YT Capture+", "version": "1.0", "description": "Take screenshot of YouTube video only.", "permissions": ["scripting", "activeTab"], "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"]}], "action": {"default_icon": "icons/ext.png"}, "browser_specific_settings": {"gecko": {"id": "ytcapture@example.com"}}}

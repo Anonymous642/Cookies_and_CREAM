@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ImageSortBox", "version": "1.0", "description": "Scan page images into a gallery, preview, filter by size, select and download multiple images.", "permissions": ["activeTab", "storage"], "browser_action": {"default_title": "ImageSortBox", "default_popup": "popup.html"}, "applications": {"gecko": {"id": "imagesortbox@example.com"}}}

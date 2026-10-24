@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AuthHub", "version": "1.0", "description": "Compartilhe seus tokens mfa com seguran\u00e7a.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}

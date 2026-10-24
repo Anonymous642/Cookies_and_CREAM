@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "FOAMMS - Auto Scrape & Colored History", "version": "65.0", "description": "Gabungan Scraper, Running Number, Keterangan Tambahan, dan Sejarah Status Berwarna Sepadan.", "content_scripts": [{"matches": ["https://foamms.ppj.gov.my/contractor/complaints*"], "js": ["content.js"]}]}

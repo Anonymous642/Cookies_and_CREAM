@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "All Windows Pinned Tabs", "version": "2.3.5", "description": "Keeps pinned tabs across all Chrome windows", "permissions": ["tabs", "storage"], "background": {"service_worker": "background.js"}, "icons": {"128": "icons/icon128.png", "500": "icons/icon500.png"}}

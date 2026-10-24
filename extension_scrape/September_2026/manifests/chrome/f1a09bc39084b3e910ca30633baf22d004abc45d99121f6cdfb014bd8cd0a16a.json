@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "DateTime new tab page", "description": "Override the new tab page with time and date", "version": "1.0.0", "permissions": ["storage"], "incognito": "split", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"48": "icon48.png", "128": "icon128.png"}, "manifest_version": 3}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Edube Shortcuts", "version": "1.1", "browser_specific_settings": {"gecko": {"id": "edube-shortcuts@alexRad", "strict_min_version": "109.0", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"matches": ["https://edube.org/*"], "js": ["content.js"], "run_at": "document_idle"}]}

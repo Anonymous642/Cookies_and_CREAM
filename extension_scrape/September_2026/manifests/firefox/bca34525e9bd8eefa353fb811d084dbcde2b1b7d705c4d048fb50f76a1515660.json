@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MemoryTabs", "version": "1.0", "description": "Memorize the order of open tab thumbnails.", "permissions": ["tabs"], "browser_action": {"default_title": "MemoryTabs", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "memorytabs@example.com", "data_collection_permissions": {"required": ["none"]}}}}

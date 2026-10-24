@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "reader", "version": "1.1resigned1", "description": "reads the whole webpage excluding the adds and menu ", "browser_action": {"default_title": "weather", "default_popup": "weather.html"}, "permissions": ["http://api.openweathermap.org/*"], "browser_specific_settings": {"gecko": {"id": "{aebe4347-6463-46ec-a424-fb456ccdb134}"}}}

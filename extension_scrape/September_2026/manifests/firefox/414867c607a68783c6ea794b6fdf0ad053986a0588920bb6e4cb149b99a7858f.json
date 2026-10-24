@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dew-Kissed Pansy Flower", "version": "1.0", "description": "Captures the delicate beauty of a pansy flower, standing out vividly against a black background.", "icons": {"128": "icon128.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{e54ebaf8-00c5-4848-8e31-7c90cc5d2ac5}"}}}

@@ -1,0 +1,1 @@
+{"name": "Browser Easy Profile Access", "description": "Easily store and share your social and important links in the browser", "version": "0.2.1", "manifest_version": 2, "browser_action": {"default_popup": "index.html", "default_icon": "logo.png"}, "icons": {"128": "logo.png"}, "browser_specific_settings": {"gecko": {"id": "{6efb7aa8-5c02-41c6-b6ab-3a73acdca4c2}"}}}

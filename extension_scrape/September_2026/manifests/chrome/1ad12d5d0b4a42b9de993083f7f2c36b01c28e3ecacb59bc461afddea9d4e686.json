@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Broom Cursor", "version": "1.0", "description": "Magical broom cursor theme", "permissions": [], "content_scripts": [{"matches": ["<all_urls>"], "css": ["cursor.css"], "js": ["content.js"]}], "icons": {"16": "broom_icon16.png", "32": "broom_icon32.png", "128": "broom_icon128.png"}}

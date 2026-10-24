@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Tabmap", "version": "0.1", "description": "Outer-Wilds ship log style tab exploration map", "browser_specific_settings": {"gecko": {"id": "tabmap@8nchanter.quest", "data_collection_permissions": {"required": ["none"]}}}, "permissions": ["bookmarks", "tabs", "history", "storage", "tabGroups"], "chrome_url_overrides": {"newtab": "newtab.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83c\udfa4 Kpop Idol Name Generator", "version": "1.0", "description": "Enter your name and get a fun Kpop-style stage name based on famous idols!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "nettoazajdask1vw@hotmail.com"}}}

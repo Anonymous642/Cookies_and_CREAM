@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u041f\u0430\u043f\u0430 Grundig", "version": "1.0.2", "manifest_version": 3, "action": {"default_popup": "index.html"}, "icons": {"16": "icon_16.png", "32": "icon_32.png", "128": "icon_128.png"}, "permissions": ["storage"]}

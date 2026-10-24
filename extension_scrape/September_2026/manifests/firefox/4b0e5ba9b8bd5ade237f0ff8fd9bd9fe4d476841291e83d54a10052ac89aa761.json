@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dia-cr\u00edtica", "version": "0.1.2resigned1", "description": "Elimina todas las tildes diacr\u00edticas de una p\u00e1gina web.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["dia-critica.js"]}], "browser_specific_settings": {"gecko": {"id": "{4daf6a53-dde1-4fd8-aef1-fdecc0a957d2}"}}}

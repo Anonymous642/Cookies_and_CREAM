@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NicoExtension", "description": "Extension pour les liens vers les sites Genshin utiles", "version": "3.1.1", "icons": {"128": "icon128.png"}, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{bc2ad4e1-1ec5-49c1-8eed-a73bfcfc1771}"}}}

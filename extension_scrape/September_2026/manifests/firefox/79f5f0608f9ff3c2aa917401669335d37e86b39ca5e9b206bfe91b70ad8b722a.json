@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sound Tabs", "version": "1.0", "description": "Plays drum sounds for tab events: switch tab = hit, close = cymbal crash, create = kick.", "icons": {"48": "icon-48.png", "128": "icon-128.png"}, "background": {"scripts": ["background.js"], "persistent": true}, "permissions": ["tabs"], "applications": {"gecko": {"id": "soundtabs@example.com"}}}

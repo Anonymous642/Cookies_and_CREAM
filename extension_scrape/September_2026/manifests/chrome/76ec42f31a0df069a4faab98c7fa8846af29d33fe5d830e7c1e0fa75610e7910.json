@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ads Espi\u00e3o", "version": "1.0.1", "web_accessible_resources": [{"resources": ["main.html", "styles.css", "Logo.png"], "matches": ["<all_urls>"]}], "content_scripts": [{"matches": ["https://www.facebook.com/ads/library/*"], "js": ["main.js", "jszip.min.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AdPass", "version": "1.2", "description": "Why block the ads, when you can speed right past them?", "icons": {"48": "icon.png", "96": "icon.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["content.js"]}], "background": {"service_worker": "background.js"}}

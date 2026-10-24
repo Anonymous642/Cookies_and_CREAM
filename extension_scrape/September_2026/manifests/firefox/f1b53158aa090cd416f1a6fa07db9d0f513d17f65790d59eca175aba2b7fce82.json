@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search on YouTube", "version": "1.0", "description": "Search selected text on YouTube", "permissions": ["contextMenus"], "icons": {"16": "icon.png"}, "background": {"scripts": ["background.js"], "persistent": true}, "browser_specific_settings": {"gecko": {"id": "{100c0e98-7cf2-4f58-a90c-c9d44ac6d960}"}}}

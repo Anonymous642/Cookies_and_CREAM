@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "USD to BHD Converter", "version": "1.0", "description": "Convert USD to BHD instantly.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "USD to BHD Converter"}, "browser_specific_settings": {"gecko": {"id": "{7f9c8637-41f3-4ad6-9021-c141a3463b39}"}}}

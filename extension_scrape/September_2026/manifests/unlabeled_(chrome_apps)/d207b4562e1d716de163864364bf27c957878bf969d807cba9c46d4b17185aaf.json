@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Shapzzle", "description": "Shapzzle", "version": "1.1", "manifest_version": 2, "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "shapzzle-16.png", "24": "shapzzle-24.png", "128": "shapzzle-128.png"}}

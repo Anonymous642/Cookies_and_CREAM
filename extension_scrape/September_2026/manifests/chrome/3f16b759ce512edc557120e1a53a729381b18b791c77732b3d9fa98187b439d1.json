@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Falling Boxes", "version": "1.2", "description": "Click to drop bouncing boxes from the cursor.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["script.js"], "run_at": "document_idle"}], "web_accessible_resources": [{"resources": ["box.png"], "matches": ["<all_urls>"]}]}

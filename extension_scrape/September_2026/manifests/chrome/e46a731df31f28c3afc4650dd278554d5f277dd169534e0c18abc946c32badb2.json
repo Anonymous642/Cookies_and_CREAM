@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ChatGPT Prompt Auto Insert", "version": "1.1", "description": "Select prompt and auto-insert into ChatGPT's input box.", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["https://chatgpt.com/*"], "js": ["content.js"]}]}

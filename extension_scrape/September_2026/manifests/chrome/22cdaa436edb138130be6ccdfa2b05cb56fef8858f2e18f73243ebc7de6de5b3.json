@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Comment and Reviews Sortor", "version": "1.0", "description": "Extract and sort YouTube comments from mixed text input.", "permissions": [], "action": {"default_popup": "popup.html", "default_title": "Extract Comments"}}

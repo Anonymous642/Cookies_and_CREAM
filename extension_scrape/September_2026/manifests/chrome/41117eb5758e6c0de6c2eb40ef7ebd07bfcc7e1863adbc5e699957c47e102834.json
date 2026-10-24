@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Clear Downloads", "description": "Clear downloads list of all completed downloads.", "version": "1.0.0", "homepage_url": "https://github.com/blono/Chrome-Clear-Downloads", "icons": {"64": "icon.png"}, "permissions": ["downloads"], "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Github Linkify Bugzilla", "version": "0.0.4", "browser_specific_settings": {"gecko": {"id": "github-linkify-bugzilla@schuster.to"}}, "content_scripts": [{"js": ["content.js"], "matches": ["https://github.com/mozilla-firefox/*", "https://github.com/mozilla-l10n/*"], "run_at": "document_idle", "world": "MAIN"}]}

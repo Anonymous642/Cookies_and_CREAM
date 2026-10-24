@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Fast Word Typing", "version": "1.0", "description": "A Firefox extension for fast word typing game.", "permissions": ["activeTab", "storage"], "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "BloodPressure@example.com"}}}

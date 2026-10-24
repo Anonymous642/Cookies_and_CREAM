@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "__MSG_appName__", "description": "__MSG_appDesc__", "version": "1.6", "default_locale": "en", "author": "basketballgameshub", "icons": {"128": "icon.png"}, "action": {"default_icon": {"128": "icon.png"}}, "background": {"service_worker": "background.js"}}

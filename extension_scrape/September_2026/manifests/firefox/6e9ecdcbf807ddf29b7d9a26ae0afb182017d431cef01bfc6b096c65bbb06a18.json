@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Digital Clock", "description": "A digital clock for the browser", "version": "1.2", "default_locale": "en", "browser_action": {"default_popup": "options.html"}, "background": {"page": "background.html"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{7c48ba0c-fa63-4843-b040-920e5001fc52}"}}}

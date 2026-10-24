@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Strip Srsltid", "version": "1.1", "description": "Removes the srsltid query parameter after the page has loaded.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["contentScript.js"], "run_at": "document_idle"}], "icons": {"48": "icon.png"}}

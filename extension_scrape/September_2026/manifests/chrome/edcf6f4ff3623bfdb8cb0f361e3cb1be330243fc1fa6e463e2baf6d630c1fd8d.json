@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "KO445", "version": "1.1", "description": "A compact 4-4-5 custom business calendar (2021-2030) with holiday indicators and interactive theme toggle.", "action": {"default_popup": "popup.html"}}

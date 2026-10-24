@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.0", "name": "X to Image", "manifest_version": 3, "permissions": ["activeTab"], "host_permissions": ["https://*.x.com/*"], "description": "Add a screenshot link to X posts", "content_scripts": [{"js": ["content.js"], "matches": ["https://*.x.com/*"]}]}

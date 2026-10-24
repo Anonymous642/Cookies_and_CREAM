@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Lookout", "description": "Quickly and easily manage all of your Lookout protected devices.", "version": "1.1", "app": {"urls": ["*://www.lookout.com/"], "launch": {"web_url": "https://www.lookout.com/home?utm_source=lookout-chrome-app"}}, "icons": {"128": "icon_128.png"}, "manifest_version": 2}

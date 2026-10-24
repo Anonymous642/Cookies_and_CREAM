@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Eco Challenge Notifier", "version": "1.0", "description": "Weekly eco-friendly challenge reminders (reduce consumption, walk more, etc.).", "permissions": ["alarms", "notifications"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{62ffe06d-ac8f-475c-823f-fa10942d22cd}"}}}

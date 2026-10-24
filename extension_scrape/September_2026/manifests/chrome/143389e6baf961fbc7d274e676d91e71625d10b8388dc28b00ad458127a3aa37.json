@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Today", "description": "Replaces the new tab page with today's date in accessible colors.", "version": "2.0", "chrome_url_overrides": {"newtab": "today.html"}, "icons": {"128": "icon.png"}}

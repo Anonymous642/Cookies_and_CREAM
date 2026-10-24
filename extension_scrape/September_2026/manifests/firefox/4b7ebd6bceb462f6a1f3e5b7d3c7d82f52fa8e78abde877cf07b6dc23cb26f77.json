@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ClearText \u2013 Inclusive Writing Remover", "description": "Automatically removes inclusive writing elements for improved readability and a cleaner text experience", "version": "0.2", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{7798dc54-3c53-4812-b526-4f3bbb186c1e}"}}}

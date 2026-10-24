@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "NSNO Everton News", "description": "Keep up to date with all the goings on at Goodison Park and get your regular fix of Everton News", "version": "1.0.2", "manifest_version": 2, "app": {"urls": ["http://www.nsno.co.uk/"], "launch": {"web_url": "http://www.nsno.co.uk/"}}, "icons": {"128": "icon_128.png"}}

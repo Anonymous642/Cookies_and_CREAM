@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Theme Switcher", "description": "Simple utility to switch between light and dark themes", "version": "0.0.3", "icons": {"48": "icon_light.png", "96": "icon_light.png", "192": "icon_light.png"}, "browser_action": {"default_icon": "icon_dark.png", "default_popup": "popup.html"}, "permissions": ["*://duckduckgo.com/*", "cookies", "theme"]}

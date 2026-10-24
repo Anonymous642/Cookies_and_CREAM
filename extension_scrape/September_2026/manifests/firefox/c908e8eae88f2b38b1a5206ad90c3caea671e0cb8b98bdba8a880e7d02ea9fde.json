@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "akiyamartfree", "version": "4.0", "description": "Automatically removes *_greyOut elements on akiya-mart.com.", "content_scripts": [{"matches": ["https://www.akiya-mart.com/*"], "js": ["removeGreyout.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{e72c9540-8d39-44ef-b1e3-f5d098bcdda2}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "URL Exporter", "version": "1.1", "description": "Writes the active tab URL to a local file.", "permissions": ["tabs", "downloads"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{e60c6ddd-545e-4d8b-9fa7-71a74c98f150}"}}}

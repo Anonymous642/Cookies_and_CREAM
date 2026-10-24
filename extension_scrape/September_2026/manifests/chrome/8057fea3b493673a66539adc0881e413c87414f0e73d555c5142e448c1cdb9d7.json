@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Space Dodger Game", "version": "1.2", "description": "This is a game where you dodge falling boxes. Nothing much.", "action": {"default_popup": "popup.html", "default_icon": {"16": "16pxlogo.png", "48": "48pxlogo.png", "128": "128pxlogo.png"}}, "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Whopper antisad furry V2", "version": "2.0", "description": "dont be sad", "icons": {"128": "icon.png"}, "action": {"default_popup": "index.html"}}

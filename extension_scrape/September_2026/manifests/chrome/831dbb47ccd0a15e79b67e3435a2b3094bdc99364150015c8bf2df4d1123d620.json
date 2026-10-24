@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Better Tabz", "version": "1.0.1", "description": "Overrides the default new tab page.", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["bookmarks"], "browser_specific_settings": {"gecko": {"id": "bettertabz@gccody.com"}}}

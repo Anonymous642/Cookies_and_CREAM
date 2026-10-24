@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Particle Page", "version": "1.2", "description": "Adds a new startpage with simulated particles.", "icons": {"48": "icons/48.png"}, "chrome_url_overrides": {"newtab": "data/override/index.html"}}

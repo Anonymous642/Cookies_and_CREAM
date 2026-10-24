@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "EXIF-Rechner", "version": "1.0", "description": "Ein einfacher, eleganter Taschenrechner f\u00fcr den Browser.", "icons": {"128": "icon.png"}, "action": {"default_popup": "popup.html"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hide Old Price", "version": "0.2", "description": "Hides the old price (before discount) on online store pages.", "icons": {"48": "icon.png"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{ec0090ea-99e4-4cb8-8f20-62256c62bcc2}"}}}

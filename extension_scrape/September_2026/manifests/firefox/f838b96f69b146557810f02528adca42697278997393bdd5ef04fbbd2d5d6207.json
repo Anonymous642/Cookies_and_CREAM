@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Block HTTP Authentication", "version": "0.2resigned1", "description": "Automatically blocks potentially malicious HTTP authentication requests.", "background": {"scripts": ["script.js"]}, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "browser_specific_settings": {"gecko": {"id": "{40bb3c83-48bf-4f62-8d64-6f93afdda3f1}"}}}

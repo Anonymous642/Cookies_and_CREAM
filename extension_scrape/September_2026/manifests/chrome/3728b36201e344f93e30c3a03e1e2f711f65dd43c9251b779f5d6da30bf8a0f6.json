@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Base64 Encode/Decode (Random Style)", "version": "1.0.1", "description": "Encode and decode Base64 text quickly in a popup.", "action": {"default_title": "Base64 Tool", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

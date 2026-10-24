@@ -1,0 +1,1 @@
+{"browser_specific_settings": {"gecko": {"id": "{fb4c6a72-81cb-4ff5-87d1-c9c094fccdc3}", "data_collection_permissions": {"required": ["none"]}}}, "name": "Brisk Note", "description": " ", "host_permissions": ["<all_urls>", "*://*/*"], "background": {"scripts": ["js/background.js"]}, "version": "0.1", "manifest_version": 3, "permissions": ["storage", "declarativeNetRequest"]}

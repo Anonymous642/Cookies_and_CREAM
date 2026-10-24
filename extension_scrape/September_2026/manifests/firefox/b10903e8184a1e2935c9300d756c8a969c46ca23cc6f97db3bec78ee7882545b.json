@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Kompas Banner Remover Pz", "version": "1.0", "description": "Removes the annoying banner from the Kompas website for a cleaner reading experience", "icons": {"48": "remover.png"}, "content_scripts": [{"matches": ["*://kompas.id/*"], "js": ["remover.js"]}], "browser_specific_settings": {"gecko": {"id": "{1515f4f2-bdb1-4a19-a114-186fc3a94e88}"}}}

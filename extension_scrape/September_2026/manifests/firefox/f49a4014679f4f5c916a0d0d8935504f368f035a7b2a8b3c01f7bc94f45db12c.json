@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "URL Shortener Pro", "version": "1.0", "description": "Shorten URLs instantly.", "action": {"default_popup": "popup.html", "default_icon": "url_shortener_pro.png"}, "icons": {"128": "url_shortener_pro.png"}, "browser_specific_settings": {"gecko": {"id": "stinsonpynh686513@hotmail.com"}}}

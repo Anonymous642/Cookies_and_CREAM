@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Patreon Video Resume", "version": "1.1", "description": "Resumes Patreon videos where you left off.", "permissions": ["storage"], "host_permissions": ["https://www.patreon.com/*"], "content_scripts": [{"matches": ["https://www.patreon.com/*"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"browser_specific_settings": {"gecko": {"id": "sehrishgashti@example.com"}}, "manifest_version": 3, "name": "Tab Tally", "version": "1.0", "description": "Tab Tally the Firefox bookmarks API to search through, Add and remove bookmarks from the user's bookmark tree.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["bookmarks"]}

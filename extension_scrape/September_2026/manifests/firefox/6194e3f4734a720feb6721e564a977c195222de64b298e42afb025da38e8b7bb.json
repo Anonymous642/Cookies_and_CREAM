@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "hextabs", "version": "1.0.2resigned1", "description": "Makes new tabs display a random color and its associated hex.", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{b2234727-b59b-436a-b7b5-fb876986db9a}"}}}

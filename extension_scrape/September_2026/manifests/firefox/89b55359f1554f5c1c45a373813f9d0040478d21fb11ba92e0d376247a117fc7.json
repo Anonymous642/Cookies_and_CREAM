@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "nolfet", "version": "0.2resigned1", "description": "Unsticks sticky or fixed elements", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{2ba921b9-e926-41ee-95a9-86fe42f5d57b}"}}}

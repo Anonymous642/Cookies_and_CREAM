@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Skybound Bliss", "description": "A serene escape above the clouds.", "manifest_version": 3, "version": "1.0", "chrome_url_overrides": {"newtab": "index.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "tratu", "description": "E-V dictionary", "version": "1.2resigned1", "background": {"scripts": ["main.js"]}, "permissions": ["activeTab", "contextMenus", "clipboardWrite", "http://tratu.soha.vn/*", "webRequest", "tabs"], "browser_specific_settings": {"gecko": {"id": "{f755e459-758b-4a1d-adaf-f8f06462f0cb}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VCK-blauw pils", "version": "1.2", "description": "Kleurt avonden VCK blauw als er meer dan de helft VCKers ingepland staan in Vestingbar Pils", "icons": {"48": "icons/vck-48.png", "96": "icons/vck-96.png"}, "content_scripts": [{"matches": ["*://stal.vestingbar.nl/pils/*"], "js": ["colour.js"]}], "permissions": ["https://dovatvis.nl/*"]}

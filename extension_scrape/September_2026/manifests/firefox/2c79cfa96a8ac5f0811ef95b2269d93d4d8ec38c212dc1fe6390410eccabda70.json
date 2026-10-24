@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BiggerCanvasPreview", "version": "1.2", "description": "Extends the file preview for Canvas", "permissions": ["tabs"], "background": {"scripts": ["background.js"], "persistent": false}, "content_scripts": [{"matches": ["https://canvas.ubc.ca/*"], "js": ["contentScript.js"]}], "browser_specific_settings": {"gecko": {"id": "j.bantom123@gmail.com"}}}

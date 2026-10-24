@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\u2709\ufe0f GoldMail Generator", "version": "1.0", "description": "Generate random email addresses: Gmail, Hotmail/Outlook, or custom domains with golden style.", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "hoingujudenjao@hotmail.com"}}}

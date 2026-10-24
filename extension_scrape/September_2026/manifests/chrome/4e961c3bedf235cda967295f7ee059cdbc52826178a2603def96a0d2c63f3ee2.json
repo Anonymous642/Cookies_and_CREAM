@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Advanced Finance Tracker", "description": "A feature-rich finance tracker with analytics, categories, and more.", "version": "2.1", "icons": {"128": "icon.png"}, "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UZS to ISK Converter", "version": "1.0", "description": "Convert Uzbekistani Som (UZS) to Icelandic Krona (ISK).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert UZS to ISK"}, "browser_specific_settings": {"gecko": {"id": "{b3ea18fb-ad54-4870-8eb2-07f7da59f2a1}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Private Browsing Gengar Theme", "description": "To go with Gengar Animated Theme", "version": "20240810.1", "permissions": ["theme", "storage", "tabs"], "background": {"scripts": ["bg.js"]}, "browser_specific_settings": {"gecko": {"id": "{78ce2595-91a9-4f8f-91e3-86c6c7da734c}"}}}

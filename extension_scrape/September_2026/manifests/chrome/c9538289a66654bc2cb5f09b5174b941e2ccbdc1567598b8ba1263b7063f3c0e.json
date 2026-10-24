@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Rino Risk", "version": "1.0.0", "description": "Extensi\u00f3n para el portal de axa", "icons": {"128": "rino.png"}, "content_scripts": [{"matches": ["https://portal-cloud.axa.com.mx/Reportes/principal/BUSCAR_DETALLE_EDO_CTA_COMIS"], "js": ["content.js"]}]}

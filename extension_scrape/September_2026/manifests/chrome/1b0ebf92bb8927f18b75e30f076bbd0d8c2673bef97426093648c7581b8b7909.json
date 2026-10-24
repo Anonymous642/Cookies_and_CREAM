@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.0", "name": "Alien Arrival", "chrome_url_overrides": {"newtab": "index.html"}, "description": "A world where ancient monuments meet futuristic technology.", "manifest_version": 3}

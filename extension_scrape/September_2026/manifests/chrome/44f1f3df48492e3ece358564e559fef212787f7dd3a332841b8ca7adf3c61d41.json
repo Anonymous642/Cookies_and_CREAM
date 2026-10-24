@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Background Remover", "version": "1.0", "description": "Remove background from images.", "action": {"default_popup": "popup.html"}, "permissions": [], "content_security_policy": {"extension_pages": "script-src 'self'; object-src 'self'"}, "icons": {"128": "favicon.png"}}

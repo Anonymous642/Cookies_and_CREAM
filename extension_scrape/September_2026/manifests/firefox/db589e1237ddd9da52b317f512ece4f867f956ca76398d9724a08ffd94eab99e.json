@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Extensify BE", "author": "Shivani", "version": "1.0", "description": "A cool browser extension that lets you manage daily task with soothing background and inspring quotes", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{3c09d41b-a816-4baa-986c-32161e066652}"}}}

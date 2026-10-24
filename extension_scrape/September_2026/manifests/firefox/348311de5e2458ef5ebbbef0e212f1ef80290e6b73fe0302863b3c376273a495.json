@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "dumpKremlebots", "version": "2.0", "browser_specific_settings": {"gecko": {"id": "oleg@test.com", "strict_min_version": "140.0", "data_collection_permissions": {"required": ["none"]}}}}

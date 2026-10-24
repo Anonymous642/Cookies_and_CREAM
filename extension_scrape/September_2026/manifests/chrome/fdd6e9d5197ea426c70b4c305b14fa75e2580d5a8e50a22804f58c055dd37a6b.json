@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GitHub Actions Workflow Search", "version": "1.1", "description": "Adds a search field for workflows in the GitHub Actions tab.", "content_scripts": [{"matches": ["https://github.com/*/*/actions*"], "js": ["content.js"], "css": ["styles.css"]}]}

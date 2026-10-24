@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Incog", "version": "1.5", "description": "nice meme", "permissions": ["tabs", "storage"], "action": {"default_title": "Incog", "default_popup": "popup.html"}, "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Sky Quotes", "version": "1.0", "description": "Get a motivational quote every time you open the popup.", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

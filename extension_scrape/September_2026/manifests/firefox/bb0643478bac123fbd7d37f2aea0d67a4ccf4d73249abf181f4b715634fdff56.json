@@ -1,0 +1,1 @@
+{"description": "Agrga un borde rojo a la pagina de ASSE", "manifest_version": 2, "name": "borderojo", "version": "1.0", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.asse.uy/*"], "js": ["borderojo.js"]}]}

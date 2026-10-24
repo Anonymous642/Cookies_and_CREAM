@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Custom Page Layouts", "version": "1.0", "description": "Choose grid or column layouts for articles.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_popup": "popup.html", "default_title": "Custom Page Layouts"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{57ef57a0-a0d0-4a0c-820a-4c80560c5d54}"}}}

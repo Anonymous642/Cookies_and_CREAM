@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Markdown View", "version": "1.0", "description": "Markdown View: Render markdown in browser", "action": {"default_popup": "popup.html", "default_icon": "markdown_view.png"}, "icons": {"128": "markdown_view.png"}, "browser_specific_settings": {"gecko": {"id": "amabelshafferm2861@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

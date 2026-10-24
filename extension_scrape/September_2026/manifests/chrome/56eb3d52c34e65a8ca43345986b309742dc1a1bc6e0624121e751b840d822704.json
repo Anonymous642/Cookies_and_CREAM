@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Amazon True Cheap Finder", "version": "1.0", "permissions": ["activeTab", "scripting"], "host_permissions": ["https://*.amazon.com/*", "https://*.amazon.in/*"], "action": {"default_popup": "popup.html"}}

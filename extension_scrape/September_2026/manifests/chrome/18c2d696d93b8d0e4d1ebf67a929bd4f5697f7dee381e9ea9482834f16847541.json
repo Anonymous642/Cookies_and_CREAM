@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Keep My Browser Open", "version": "1.0.0", "description": "Keeps your browser open in the background without requiring a lot of permissions.", "permissions": ["background"]}

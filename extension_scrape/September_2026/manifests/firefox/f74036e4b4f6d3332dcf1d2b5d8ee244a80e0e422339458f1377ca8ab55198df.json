@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Funda Price per m\u00b2", "version": "1.0", "description": "Shows \u20ac/m\u00b2 on Funda listings", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://www.funda.nl/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{d2319485-bb70-462b-854a-8508554c55cb}"}}}

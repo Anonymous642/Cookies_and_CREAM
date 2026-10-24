@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Continue", "version": "1.2", "description": "Continues youtube videos", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["continue.js"]}], "browser_specific_settings": {"gecko": {"id": "{a490b19a-b211-4064-9346-b891c733bdea}"}}}

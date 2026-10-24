@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Stacker", "version": "1.1resigned1", "description": "Moves selected unpinned tabs to the left of the tab bar.", "permissions": [], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{1a25ef8f-9c49-47ee-97fa-925ad0a86652}"}}}

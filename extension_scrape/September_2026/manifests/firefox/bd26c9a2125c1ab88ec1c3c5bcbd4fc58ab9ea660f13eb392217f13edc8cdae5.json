@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "4.1resigned1", "description": "A test extension from webext-generator.", "name": "toadillo-opopar-dolle", "browser_specific_settings": {"gecko": {"id": "{1ad39e15-3325-467d-b7f9-50e39b0d8ee5}"}}}

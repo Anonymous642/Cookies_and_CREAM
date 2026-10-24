@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "USD to SAR Converter", "version": "1.0", "description": "Convert USD to SAR instantly.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "USD to SAR Converter"}, "browser_specific_settings": {"gecko": {"id": "{0e1f5684-357f-48d5-a72e-67049b0666a1}"}}}

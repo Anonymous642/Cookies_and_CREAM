@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Esc from DeepSeek generation", "version": "1.0", "description": "Press Esc key to stop the text generation from DeepSeek like ChatGPT", "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://chat.deepseek.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{b6faf0ca-f293-4826-bb27-1a9b23016f77}"}}}

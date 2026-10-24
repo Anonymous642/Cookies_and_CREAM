@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Campagne honn\u00eate 2022", "version": "1.4", "description": "L'actualit\u00e9 politique vous d\u00e9prime ? Rendez les internets plus rigolos avec cette extension !", "content_scripts": [{"matches": ["*://*/*"], "js": ["truther.js"]}], "icons": {"48": "icons/icone48.png", "96": "icons/icone96.png", "128": "icons/icone128.png"}}

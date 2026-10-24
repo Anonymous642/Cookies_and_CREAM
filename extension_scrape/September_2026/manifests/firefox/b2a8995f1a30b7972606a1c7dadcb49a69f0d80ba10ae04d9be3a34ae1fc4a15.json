@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Y.Music Lyrics", "version": "1.0", "content_scripts": [{"matches": ["https://music.yandex.ru/*", "http://music.yandex.ru/*"], "js": ["insert-lyrics.js"], "css": ["pre.css"]}], "browser_specific_settings": {"gecko": {"id": "{0c81a325-a4e4-4216-a3bd-8cebb19fc9b9}"}}}

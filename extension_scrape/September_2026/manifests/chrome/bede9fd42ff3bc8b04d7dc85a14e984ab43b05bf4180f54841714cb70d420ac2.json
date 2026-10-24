@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Minesweeper keyboard reset", "manifest_version": 3, "version": "1.0", "description": "Allows R key to reset the game on minesweeper.online", "icons": {"128": "128iconv2.png"}, "content_scripts": [{"matches": ["https://minesweeper.online/*"], "js": ["content.js"]}]}

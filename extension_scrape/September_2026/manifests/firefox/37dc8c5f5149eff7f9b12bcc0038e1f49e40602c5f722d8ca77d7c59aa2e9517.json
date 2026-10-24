@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Game library", "version": "1.0", "description": "A set of browser games made with canvas", "browser_action": {"default_popup": "popups/index.html", "default_icon": "images/border-48.png"}, "browser_specific_settings": {"gecko": {"id": "{f325c032-7317-4730-8755-595517140afc}"}}}

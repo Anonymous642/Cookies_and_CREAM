@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"launch": {"local_path": "index.html"}}, "description": "Silly little punk is on a quest to rob all the banks in the city.", "icons": {"16": "icon_16.png", "96": "icon_96.png", "128": "icon_128.png"}, "permissions": ["webview"], "manifest_version": 2, "name": "Theft Punk", "version": "0.0.0.2"}

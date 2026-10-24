@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Scholarship websites", "version": "0.5.0", "action": {"default_icon": {"32": "icons/icon-32.png"}, "default_title": "Scholarship websites", "default_popup": "popup.html"}, "permissions": [], "icons": {"32": "icons/icon-32.png"}, "browser_specific_settings": {"gecko": {"id": "{a6596fcc-938c-48a6-b3bb-76e0b269f586}", "strict_min_version": "50.0"}}}

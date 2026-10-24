@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CSS Debugger", "version": "1.0", "description": "Allows easy viewing of html elements", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["styles.css"]}]}

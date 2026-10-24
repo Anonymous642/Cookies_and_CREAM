@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Share by e-mail", "version": "2.0", "description": "Share url address by e-mail", "icons": {"128": "icon.png"}, "permissions": ["tabs"], "browser_action": {"default_title": "Share by e-mail", "default_icon": "icon.png", "default_popup": "background.html"}, "browser_specific_settings": {"gecko": {"id": "{d10d8e93-b009-4d8e-b1ac-83b822667c46}"}}}

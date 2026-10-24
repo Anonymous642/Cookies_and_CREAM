@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "YouTube Actual Runtime", "version": "1.1", "description": "Shows the real time left based on playback speed.", "browser_specific_settings": {"gecko": {"id": "youtube-actual-runtime@local", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"]}]}

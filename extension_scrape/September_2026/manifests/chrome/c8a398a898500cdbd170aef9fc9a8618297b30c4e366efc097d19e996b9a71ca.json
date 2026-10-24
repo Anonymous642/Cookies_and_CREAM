@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Timeflix", "description": "Calculate and display video remaining time based on current playback speed.", "version": "1.0", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_icon": "assets/icon.png"}}

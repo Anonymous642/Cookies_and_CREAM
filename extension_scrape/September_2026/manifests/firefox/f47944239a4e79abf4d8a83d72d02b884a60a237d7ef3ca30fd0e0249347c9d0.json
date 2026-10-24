@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Killer", "version": "1.0", "description": "Schlie\u00dft bestimmte Tabs automatisch", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "tabkiller@example.com", "data_collection_permissions": {"required": ["none"], "optional": []}}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CopyPaster", "version": "2.1.0", "description": "Simple, small, easy, copy pasting tool", "manifest_version": 3, "author": "", "action": {"default_popup": "index.html", "default_title": "Copy/Pasted!"}}

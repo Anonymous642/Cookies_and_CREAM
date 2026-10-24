@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BTN to SCR Converter", "version": "1.0", "description": "Convert Bhutanese Ngultrum (BTN) to Seychellois Rupee (SCR).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert BTN to SCR"}, "browser_specific_settings": {"gecko": {"id": "{d9f9c2d0-ec09-4d1d-8376-80a2f5dc8794}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Incentive", "description": "Incentive app as a web extension", "version": "0.1.1", "icons": {"128": "icon-128.png"}, "action": {}, "permissions": ["sidePanel"], "background": {"service_worker": "background.js"}, "side_panel": {"default_path": "sidepanel.html"}}

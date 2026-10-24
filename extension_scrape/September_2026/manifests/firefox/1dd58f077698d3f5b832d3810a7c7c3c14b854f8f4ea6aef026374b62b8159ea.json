@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Tetris", "version": "1.0", "description": "Play Tetris every time you open a new tab.", "chrome_url_overrides": {"newtab": "tetris.html"}, "permissions": [], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{a4e7b3b2-2f06-40dc-b123-9241a9c6ed1f}"}}}

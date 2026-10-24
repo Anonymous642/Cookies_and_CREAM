@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "deepseek auto retay", "version": "1.9", "description": "chat.deepseek.com auto retay on \"The server is busy. Please try again later.\"", "browser_specific_settings": {"gecko": {"id": "deepseek_auto_retay@gitlab.com.BassetMC", "strict_min_version": "109.0"}}, "content_scripts": [{"matches": ["*://chat.deepseek.com/*"], "js": ["main.js"]}]}

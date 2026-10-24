@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Conversion de Divisas", "manifest_version": 2, "short_name": "Conversion de Divisas", "description": "Conversion de Divisas Online Gratis", "version": "1", "icons": {"128": "icon.jpg"}, "app": {"launch": {"web_url": "http://currencyconverter.hekoru.lol/es/"}}}

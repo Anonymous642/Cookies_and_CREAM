@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Halloween World Clock", "version": "1.0", "description": "Display the current date and time for any country in a spooky Halloween style popup.", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

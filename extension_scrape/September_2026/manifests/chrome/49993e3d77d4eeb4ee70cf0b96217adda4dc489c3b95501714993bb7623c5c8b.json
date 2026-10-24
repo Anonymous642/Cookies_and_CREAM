@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Y99 - TimeTracker", "version": "0.3.1", "description": "Tracking your attendance and displaying new data for you. *- IN BETA", "action": {"default_popup": "popup.html"}, "icons": {"128": "assets/icons/icon_128.png"}, "host_permissions": ["*://10.10.0.30/*"]}

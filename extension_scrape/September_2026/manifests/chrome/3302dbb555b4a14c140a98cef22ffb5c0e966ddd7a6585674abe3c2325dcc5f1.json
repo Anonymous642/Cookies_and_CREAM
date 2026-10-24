@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TabFlex", "version": "1.2.2", "description": "A customizable new tab page for Chrome", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"16": "favicon-16x16.png", "48": "favicon-48x48.png", "128": "favicon-128x128.png"}, "permissions": ["bookmarks"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "wholeTime", "version": "1.0", "description": "Show real time in the left corner of you browser !", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["wholeTime.js"]}], "browser_specific_settings": {"gecko": {"id": "{0b1d3d51-56a8-4f3b-bde3-e48b2e33a4ab}"}}}

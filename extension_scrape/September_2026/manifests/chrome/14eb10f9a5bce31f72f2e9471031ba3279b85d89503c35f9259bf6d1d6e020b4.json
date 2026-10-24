@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1", "name": "Ocean floor", "chrome_url_overrides": {"newtab": "index.html"}, "description": "The ocean floor is the topographic area located at the bottom of the ocean.", "manifest_version": 3}

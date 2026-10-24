@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Short Form Hater", "version": "1.0.0", "description": "Hide Shorts UI on YouTube and optionally block /shorts pages.", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["contents.js"], "run_at": "document_idle"}]}

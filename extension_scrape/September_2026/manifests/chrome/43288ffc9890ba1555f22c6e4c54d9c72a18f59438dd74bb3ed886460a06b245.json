@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Motivation", "description": "An update version to the original Motivation extension by @maccman", "offline_enabled": true, "version": "1.5", "chrome_url_overrides": {"newtab": "index.html"}, "action": {"default_popup": "index.html", "default_icon": "icon.png"}}

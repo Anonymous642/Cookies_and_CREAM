@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TLD Opener", "version": "1.0", "description": "Opens only the top-level domain (TLD) of a hyperlink.", "permissions": ["contextMenus"], "icons": {"48": "TLD-48px.png"}, "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{98305397-85b5-4692-83ad-2797e7fd616f}"}}}

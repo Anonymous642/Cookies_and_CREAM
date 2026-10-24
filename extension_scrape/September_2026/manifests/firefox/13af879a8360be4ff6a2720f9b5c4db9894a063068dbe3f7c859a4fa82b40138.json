@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "404 Sniper", "version": "1.0", "description": "Bi\u1ebfn trang l\u1ed7i 404 th\u00e0nh tr\u00f2 ch\u01a1i b\u1eafn m\u1ee5c ti\u00eau.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["sniper.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{1eb2d688-9c8b-49f9-b31b-41dd8495a2c1}"}}}

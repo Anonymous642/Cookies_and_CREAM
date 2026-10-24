@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Copy Text That Starts With", "description": "Copy all visible page texts that start with a user-defined string", "version": "1.1", "permissions": ["activeTab", "scripting", "clipboardWrite"], "action": {"default_popup": "popup.html"}}

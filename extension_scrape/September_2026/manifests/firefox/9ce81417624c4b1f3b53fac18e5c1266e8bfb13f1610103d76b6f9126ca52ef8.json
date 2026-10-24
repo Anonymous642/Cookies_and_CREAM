@@ -1,0 +1,1 @@
+{"description": "Entfernt diverse Genderisierungen wie *Innen, um den Lesefluss zu verbessern.", "manifest_version": 2, "name": "AntiGenderWahn", "version": "1.0", "homepage_url": "https://norrodar.de", "icons": {"48": "icons/AGW-48.png", "96": "icons/AGW-96.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["AntiGenderWahn.js"]}]}

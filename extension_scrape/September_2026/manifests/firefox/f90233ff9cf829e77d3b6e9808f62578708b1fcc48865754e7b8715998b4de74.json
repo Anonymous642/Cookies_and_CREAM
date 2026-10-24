@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "JavaScript File Counter", "version": "1.0", "description": "Counts the number of JavaScript files on the current web page.", "browser_action": {"default_icon": "icon.png"}, "permissions": ["activeTab"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{d0411273-d25d-4bd0-b799-74f196188483}"}}}

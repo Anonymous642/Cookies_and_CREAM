@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Chicken Game", "version": "1.0", "description": "A simple Unity game where you play as a chicken dodging obstacles!", "action": {"default_popup": "index.html", "default_title": "Play Chicken Game"}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

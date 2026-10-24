@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Raine | Todo Extension", "version": "0.0.1", "description": "A simple todo list extension to help you stay organized and productive.", "action": {"default_popup": "index.html"}, "icons": {"32": "raine-32.png"}, "browser_specific_settings": {"gecko": {"id": "hq.papertrail@gmail.com"}}, "permissions": []}

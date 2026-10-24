@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Coin Flip Simulator", "description": "Flip a coin with smooth animation. Heads or Tails instantly.", "version": "1.0", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}}

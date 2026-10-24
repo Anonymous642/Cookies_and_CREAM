@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Yamarket-Dark", "version": "0.1", "description": "Activates a dark theme for Yandex Market", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://market.yandex.ru/*"], "js": ["yamarket-dark.js"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{c2ea2003-70d7-4c75-9188-296bc0fce4a3}"}}}

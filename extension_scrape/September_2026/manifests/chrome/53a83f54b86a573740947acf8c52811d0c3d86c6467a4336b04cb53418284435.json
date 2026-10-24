@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "crlint", "version": "0.0.1", "description": "Linter", "manifest_version": 3, "permissions": ["activeTab"], "action": {"default_popup": "default_popup.html"}, "host_permissions": ["http://crlint.org/*"], "icons": {"128": "128.png"}}

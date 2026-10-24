@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Tube Grabber", "version": "1.0", "description": "Tube Grabber: Download videos easily.", "action": {"default_popup": "popup.html", "default_icon": "tube_grabber.png"}, "icons": {"128": "tube_grabber.png"}, "browser_specific_settings": {"gecko": {"id": "malikahmerceloush2854@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Grok Foo", "version": "0.2", "description": "Select text and send it to Grok with commands", "permissions": ["tabs", "contextMenus", "https://x.com/*"], "background": {"scripts": ["background.js"]}, "icons": {"48": "logo.jpg"}, "browser_specific_settings": {"gecko": {"id": "{16916962-ae7f-4d41-a925-0d755c7c9eb9}"}}}

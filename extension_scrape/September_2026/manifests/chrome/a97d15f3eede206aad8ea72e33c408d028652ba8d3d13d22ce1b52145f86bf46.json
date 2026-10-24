@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "K4hhny Shell Shockers Theme", "description": "Custom Redesigned Theme For K4hhny YT/TTV", "version": "3.02", "manifest_version": 3, "icons": {"128": "k4.png"}, "content_scripts": [{"css": ["k4.css"], "js": ["k4.js"], "matches": ["https://*.shellshock.io/*"]}], "author": "K4hhny, Omega, & web"}

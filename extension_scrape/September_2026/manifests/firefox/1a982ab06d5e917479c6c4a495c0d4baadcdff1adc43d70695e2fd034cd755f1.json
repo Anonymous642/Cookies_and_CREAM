@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Open link in a new tab", "version": "1.0", "description": "Opens every clicked link in a new tab.", "icons": {"48": "icons/open_new_tab_48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{d575ebeb-0ace-4ecc-8cda-a910591350b5}"}}}

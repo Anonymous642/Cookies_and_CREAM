@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bookmark Organizer", "version": "1.0", "description": "Organize your bookmarks into folders quickly and easily.", "icons": {"48": "icon.png"}, "permissions": ["bookmarks"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{b577eb6b-8003-473b-83d6-143f9144d3d5}"}}}

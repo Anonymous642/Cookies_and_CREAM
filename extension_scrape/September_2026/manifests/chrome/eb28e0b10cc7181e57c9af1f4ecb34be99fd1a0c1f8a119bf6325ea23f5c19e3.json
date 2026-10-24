@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Indy Cellular Marketplace Focus", "version": "1.0.0", "description": "Allows Facebook Marketplace and Messenger while redirecting the Facebook feed.", "content_scripts": [{"matches": ["*://*.facebook.com/*", "*://facebook.com/*"], "js": ["focus.js"], "run_at": "document_start"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "hyphens", "version": "1.1resigned1", "description": "Adds hyphens to webpages", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["hyphens.js"]}], "browser_specific_settings": {"gecko": {"id": "{79dd121e-fa58-4151-a45d-18b3d75f8a99}"}}}

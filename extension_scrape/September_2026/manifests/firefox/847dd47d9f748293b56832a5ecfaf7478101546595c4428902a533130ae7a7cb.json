@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\u270d\ufe0f Fancy Signature Generator", "version": "1.0", "description": "Generate an artistic fake calligraphy signature based on your name.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "laskyreeta1333@outlook.com"}}}

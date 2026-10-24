@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DosparaPlusTex", "version": "1.2resigned1", "description": "Display tex added price on Dospara web page.", "icons": {"48": "icons/dos.png"}, "content_scripts": [{"matches": ["*://used.dospara.co.jp/sale/*"], "js": ["dostax.js"]}], "browser_specific_settings": {"gecko": {"id": "{5a3dfdf5-260e-42a7-91dc-0946a526e8a5}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Breathe Inspiration: Quotes & Illustrations", "version": "1.0.0.1", "description": "Stay happy. Stay inspired.", "icons": {"19": "logo-19.png", "38": "logo-38.png", "48": "logo-48.png", "90": "logo-90.png", "128": "logo-128.png"}, "chrome_url_overrides": {"newtab": "index.html"}}

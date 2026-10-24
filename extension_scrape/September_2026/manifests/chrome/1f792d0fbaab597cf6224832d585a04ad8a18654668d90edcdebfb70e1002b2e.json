@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Copy Title & URL", "version": "1.0", "description": "Quickly copy the current page title and URL in plain text, Markdown, or HTML formats.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_title": "Copy Page Info"}}

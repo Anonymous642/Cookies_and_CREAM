@@ -1,0 +1,1 @@
+{"name": "Fast Wiktionary Lookup", "version": "1.0.0", "manifest_version": 3, "browser_specific_settings": {"gecko": {"id": "fwl@ormpjed.org"}}, "background": {"scripts": ["background.js"]}, "action": {}, "permissions": ["scripting", "activeTab", "storage"]}

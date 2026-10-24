@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Liam's Annualized Return Calculator v1.0", "version": "1.0.0", "description": "Calculate annualized return from Strike, Premium, and DTE.", "permissions": ["storage"], "action": {"default_title": "Annualized Return", "default_popup": "popup.html"}}

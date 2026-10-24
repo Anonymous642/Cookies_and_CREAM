@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Randomifox", "version": "1.2", "permissions": ["storage", "https://rule34.xxx/*"], "content_scripts": [{"matches": ["*://rule34.xxx/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{c1d2f3a4-b5c6-47d8-9e01-123456789abc}", "strict_min_version": "109.0", "data_collection_permissions": {"required": ["none"]}}}}

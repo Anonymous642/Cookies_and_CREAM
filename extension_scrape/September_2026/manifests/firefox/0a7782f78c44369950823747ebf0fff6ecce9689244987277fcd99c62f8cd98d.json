@@ -1,0 +1,1 @@
+{"name": "Your Life in Weeks", "description": "Make the most of your time!", "version": "2.0.7resigned1", "manifest_version": 2, "icons": {"16": "icon_16.png", "48": "icon_48.png", "128": "icon_128.png"}, "chrome_url_overrides": {"newtab": "weeks.html"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{662e17e8-5249-4613-a72d-199ada4a4f75}"}}}

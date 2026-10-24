@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "NewTab Shortcuts", "version": "1.0.1", "description": "Add up to 50 shortcuts, search the web, drag and drop items, import/export backups, and switch to light or dark mode.", "chrome_url_overrides": {"newtab": "newtab.html"}}

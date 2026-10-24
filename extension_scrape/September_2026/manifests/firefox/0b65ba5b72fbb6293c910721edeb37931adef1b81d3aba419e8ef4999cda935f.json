@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Session Restore Helper", "version": "1.0", "description": "Ensures previous session tabs are restored at every Firefox start.", "permissions": ["sessions", "storage"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "session-restore-helper@example.com"}}}

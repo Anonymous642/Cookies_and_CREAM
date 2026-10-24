@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Serenity Falls New Tab", "version": "1.0.0", "description": "a breathtaking landscape where nature and art meet in perfect harmony.", "icons": {"128": "284469.png"}, "permissions": ["geolocation"], "chrome_url_overrides": {"newtab": "index.html"}}

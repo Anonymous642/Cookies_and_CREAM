@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Dark Home", "short_name": "Dark Home", "version": "1.0.0", "description": "For those who enjoy the dark side of life", "icons": {"64": "icons/64.png"}, "action": {"browser_style": false, "default_title": "Dark Home"}, "chrome_url_overrides": {"newtab": "new-tab.html"}}

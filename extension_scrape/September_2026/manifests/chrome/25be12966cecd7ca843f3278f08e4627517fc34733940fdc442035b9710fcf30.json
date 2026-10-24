@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "EurLex Usability", "version": "1.1.3", "description": "Removes footnotes in EU legislation and adds banner with link to most recent consolidated version of the legislation", "content_scripts": [{"matches": ["https://eur-lex.europa.eu/*"], "js": ["content.js"]}]}

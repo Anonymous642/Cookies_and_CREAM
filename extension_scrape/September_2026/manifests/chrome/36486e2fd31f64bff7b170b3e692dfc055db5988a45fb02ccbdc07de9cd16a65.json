@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "InstaReels Muter", "version": "1.1", "description": "Adds a bunch of random unmute buttons to Instagram Reels, and only 1 works.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://www.instagram.com/*"], "js": ["content.js"], "css": ["styles.css"]}]}

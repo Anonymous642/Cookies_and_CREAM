@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "URL Index Checker", "version": "1.0", "description": "Check Google indexing status for up to 5 URLs.", "action": {"default_popup": "popup.html"}}

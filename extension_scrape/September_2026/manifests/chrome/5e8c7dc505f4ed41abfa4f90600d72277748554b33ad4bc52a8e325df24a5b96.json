@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "UNIPA Assignment Sync", "version": "0.2.0", "permissions": ["storage"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["*://*/uprx/*"], "js": ["content.js"], "run_at": "document_idle"}]}

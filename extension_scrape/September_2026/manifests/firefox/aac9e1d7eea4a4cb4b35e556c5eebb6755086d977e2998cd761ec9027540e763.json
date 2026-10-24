@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "By Mohtady", "version": "1.2", "description": "By Mohtady.", "content_scripts": [{"js": ["script.js"], "run_at": "document_idle", "matches": ["*://www.youtube.com/*"]}], "permissions": ["tabs", "activeTab", "*://www.youtube.com/*"], "browser_specific_settings": {"gecko": {"id": "{0cb94ad4-b504-4d1d-9ec2-7b55bb421cf5}"}}}

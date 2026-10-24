@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CRE Lease Sentinel", "version": "1.0.1", "description": "AI-powered commercial lease and LOI auditor for CRE brokers.", "permissions": ["activeTab", "storage"], "action": {"default_popup": "popup.html"}}

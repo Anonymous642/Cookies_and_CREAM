@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Email Placeholder Template Generator", "version": "1.0.0", "description": "Create email templates with placeholders in a clean popup. Works offline. No permissions.", "action": {"default_title": "Email Template", "default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}}

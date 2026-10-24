@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Raddly", "description": "Raddly - Fastest light weight data visualization tool", "version": "1.0.0", "action": {"default_popup": "index.html"}, "permissions": ["storage"], "icons": {"64": "icons/icon64.png", "128": "icons/icon128.png"}}

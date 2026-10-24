@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Seach on SugarCRM", "version": "1.0", "description": "Open a new tab with selected text to seach on Sugar", "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "search-on-sugar2@toradex.com"}}}

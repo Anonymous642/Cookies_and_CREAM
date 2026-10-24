@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ascend Therapy Intake Assistant", "version": "1.4", "description": "Extracts intake data and generates messages for SimplePractice, Headway, and Google Voice.", "permissions": ["activeTab", "scripting", "storage", "clipboardWrite"], "action": {"default_popup": "popup.html"}}

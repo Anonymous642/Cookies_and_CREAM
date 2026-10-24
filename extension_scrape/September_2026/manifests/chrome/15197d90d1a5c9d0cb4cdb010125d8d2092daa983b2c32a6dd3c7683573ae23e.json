@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Rapido321 - Ajoute david \u00e0 n'importe quelle image", "version": "1.0.0", "description": "Ajoute david \u00e0 n'importe quelle image", "manifest_version": 3, "author": "moi", "action": {"default_popup": "index.html", "default_title": "Rapido321"}, "icons": {"48": "2.png", "128": "2.png"}}

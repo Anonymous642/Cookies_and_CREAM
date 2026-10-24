@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Palette Thief & Moodboard Studio", "version": "1.3", "description": "Extract brand colors & fonts from any webpage and export clean Photoshop swatches (.aco).", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

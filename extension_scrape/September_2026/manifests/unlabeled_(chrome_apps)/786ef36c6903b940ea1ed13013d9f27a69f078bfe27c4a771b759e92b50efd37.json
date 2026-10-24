@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WinWeb Dashboard", "description": "WinWeb Dashboard - Shortcut to WinWeb Login", "version": "1.6", "app": {"urls": ["http://www.winweb.com/business-cloud-apps/"], "launch": {"web_url": "http://www.winweb.com/?lgnp&v2l"}}, "icons": {"16": "ww-16x16.png", "128": "ww-128x128.png"}, "manifest_version": 2}

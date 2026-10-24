@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mouse Maze", "version": "1.0", "description": "A tiny maze controlled only by mouse movement. Touch wall = lose.", "browser_action": {"default_title": "Mouse Maze", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "mouse-maze@amo.local", "data_collection_permissions": {"required": ["none"], "optional": []}}}}

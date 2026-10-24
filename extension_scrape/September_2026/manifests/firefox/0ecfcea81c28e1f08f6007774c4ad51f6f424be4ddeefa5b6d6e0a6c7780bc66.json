@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Travel Line Scotland button", "version": "1.0", "description": "Travel Line Scotland", "background": {"scripts": ["button.js"]}, "browser_action": {"default_icon": {"48": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{f2cb7bb5-4f8b-4e60-8083-8c7ad421a19b}"}}}

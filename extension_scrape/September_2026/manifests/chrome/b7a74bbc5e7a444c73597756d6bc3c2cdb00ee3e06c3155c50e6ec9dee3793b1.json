@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "thsfoodColorChange", "version": "1.0.2", "manifest_version": 3, "description": "MakeShop\u30e6\u30cb\u30b3\u30ec\u65b0\u7ba1\u7406\u753b\u9762\u306e\u8272\u5909\u66f4", "icons": {"32": "unicolle.png"}, "content_scripts": [{"matches": ["https://console.makeshop.jp/*"], "js": ["js/content.js"]}]}

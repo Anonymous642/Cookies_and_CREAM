@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Basic Reload Timer", "version": "1.1.1", "description": "Reloads the current tab at a set interval.", "action": {"default_popup": "popup.html"}, "background": {"service_worker": "background.js"}, "icons": {"16": "reload-timer16.png", "128": "reload-timer.png"}}

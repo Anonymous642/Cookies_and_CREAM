@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Password Generator", "version": "1.0", "description": "Generate secure random passwords instantly.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["clipboardWrite"], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{8b32b0fe-fc16-4336-9301-a305a8a9239f}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Image Saver", "version": "1.0", "description": "Save images in different formats.", "permissions": ["contextMenus", "downloads", "storage"], "background": {"scripts": ["background.js"], "persistent": true}, "icons": {"48": "icons/icon.png"}, "browser_specific_settings": {"gecko": {"id": "{fb878dce-c83a-4950-b0f0-525b50fe5159}"}}}

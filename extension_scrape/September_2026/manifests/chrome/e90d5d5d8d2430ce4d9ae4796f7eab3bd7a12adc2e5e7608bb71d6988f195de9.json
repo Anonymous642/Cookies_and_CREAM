@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab Timer", "version": "1.0", "description": "Track time spent on each tab/domain today", "permissions": ["tabs", "storage"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html"}}

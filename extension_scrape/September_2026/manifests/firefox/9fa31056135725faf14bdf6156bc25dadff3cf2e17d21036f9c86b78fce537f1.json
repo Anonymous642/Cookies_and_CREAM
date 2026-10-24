@@ -1,0 +1,1 @@
+{"description": "Automated Weather Reporting", "manifest_version": 2, "name": "MyWeather", "version": "1.1resigned1", "icons": {"48": "icons/border-48.png"}, "permissions": ["<all_urls>"], "browser_action": {"default_icon": "icons/border-48.png", "default_popup": "popup.html?0"}, "browser_specific_settings": {"gecko": {"id": "{563f0007-53ae-45c6-8031-453a2a89d259}"}}}

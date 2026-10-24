@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Disable Jira Click Edit", "description": "Disable Jira click edit", "version": "1.1", "manifest_version": 3, "action": {"default_icon": "atlassian.png"}, "content_scripts": [{"matches": ["https://*.atlassian.net/browse/*", "https://*.atlassian.net/jira/software/*"], "js": ["index.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TabCleaner", "version": "1.0", "description": "Save tabs to bookmarks and close them!", "action": {"default_popup": "popup.html"}, "permissions": ["tabs", "bookmarks"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Acrofinder", "description": "Finds Freedomforever Acronyms", "version": "1.7", "manifest_version": 3, "action": {"default_popup": "acrofinder.html", "default_icon": "acrofinder.png"}, "icons": {"16": "acrofinder.png", "48": "acrofinder.png", "128": "acrofinder.png"}}

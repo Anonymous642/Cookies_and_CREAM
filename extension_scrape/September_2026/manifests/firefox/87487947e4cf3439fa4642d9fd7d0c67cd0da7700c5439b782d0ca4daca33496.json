@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "500px save", "version": "3.2", "description": "Enables right click for images on 500px' .", "icons": {"48": "icons/500px.jpg"}, "content_scripts": [{"matches": ["*://500px.com/*", "*://web.500px.com/*"], "js": ["app.js"]}]}

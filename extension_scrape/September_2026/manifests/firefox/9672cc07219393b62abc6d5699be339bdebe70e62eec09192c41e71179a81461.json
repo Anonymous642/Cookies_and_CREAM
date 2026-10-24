@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clean DDG (Duck Duck Go)", "version": "1.0", "description": "Applies some custom CSS to clean up the DuckDuckGo homepage.", "icons": {"32": "icon32.png"}, "content_scripts": [{"matches": ["*://*.duckduckgo.com/*"], "js": ["clean-ddg.js"]}], "browser_specific_settings": {"gecko": {"id": "{27da1eb6-d1d3-4127-a3ed-fb35bf710c05}"}}}

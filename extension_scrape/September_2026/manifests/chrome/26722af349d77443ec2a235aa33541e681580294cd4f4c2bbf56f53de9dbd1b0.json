@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Custom Serenity Stream Background", "version": "1.0", "description": "transforms your new tab page into a serene retreat.", "icons": {"128": "icon128.png"}, "permissions": ["geolocation"], "chrome_url_overrides": {"newtab": "index.html"}}

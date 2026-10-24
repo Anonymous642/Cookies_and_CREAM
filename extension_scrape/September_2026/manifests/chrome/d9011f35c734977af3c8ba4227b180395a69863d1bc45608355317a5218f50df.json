@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Google AI Summary Blocker", "version": "1.0", "description": "Removes the Google Search Engine AI Summary", "content_scripts": [{"matches": ["*://www.google.com/*"], "js": ["content.js"], "run_at": "document_idle"}], "action": {"default_icon": {"16": "icon.png"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DeShort", "version": "1.0", "description": "Turn yt shorts to video in your browser", "content_scripts": [{"matches": ["*://*.youtube.com/shorts/*"], "js": ["DeShort.js"]}], "browser_specific_settings": {"gecko": {"id": "{af90761a-f081-42f0-ba0a-07490671d157}"}}}

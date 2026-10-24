@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "VIN Ultimate Pro", "version": "1.6", "permissions": ["clipboardWrite", "storage", "scripting", "activeTab"], "host_permissions": ["https://randommer.io/*"], "action": {"default_popup": "popup.html"}}

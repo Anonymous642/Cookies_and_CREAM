@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Nocturne Lead Extractor", "version": "1.1.0", "description": "Extract emails from any website instantly. One-click B2B lead generation.", "permissions": ["activeTab", "scripting", "storage"], "action": {"default_popup": "popup.html"}}

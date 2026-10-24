@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "TaskPad", "version": "1.1", "description": "A simple and professional pop-up notepad for jotting down ideas or tasks, with autosave functionality.", "permissions": ["storage"], "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "taskpad@krishnagopaljha", "strict_min_version": "109.0"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Patreon Video Tracker", "version": "6.0", "description": "Marks watched Patreon videos with a green check and unwatched ones with a red X.", "permissions": ["storage"], "content_scripts": [{"matches": ["*://www.patreon.com/*"], "js": ["content.js"]}]}

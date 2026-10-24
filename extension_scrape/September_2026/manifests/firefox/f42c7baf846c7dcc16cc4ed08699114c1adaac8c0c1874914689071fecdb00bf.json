@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RIP Youtube Autopause", "version": "1.0", "description": "Puts the Youtube Autopause feature in the grave.", "icons": {"48": "icons/ripytap.png", "96": "icons/ripytap.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["ripytap.js"]}]}

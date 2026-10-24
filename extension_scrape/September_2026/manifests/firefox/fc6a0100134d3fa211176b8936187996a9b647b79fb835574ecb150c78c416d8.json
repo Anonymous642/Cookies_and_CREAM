@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Random Famous Artist or Comedian", "version": "1.0", "description": "Generate a random famous artist or comedian with their name and biography.", "permissions": [], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "g0jimdaoexd3297@hotmail.com"}}}

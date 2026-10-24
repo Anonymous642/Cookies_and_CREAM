@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GreyCord", "version": "1.0", "description": "Apply a greyscale filter to Discord.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*.discord.com/*"], "js": ["greyscale.js"]}], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{85d46628-78ee-4e04-a7be-7e96c68af6d5}"}}}

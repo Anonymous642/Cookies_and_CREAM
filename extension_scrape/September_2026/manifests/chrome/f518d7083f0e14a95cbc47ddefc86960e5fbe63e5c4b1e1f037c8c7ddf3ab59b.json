@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "EcoleDirecte Ranked", "version": "2.1", "description": "Ajoute un onglet Ranked", "content_scripts": [{"matches": ["*://*.ecoledirecte.com/*"], "js": ["ranked.js", "content.js"], "css": ["style.css"], "run_at": "document_idle"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Moodle TUM Semester Fix", "version": "1.1", "description": "Finally semester select remembers your choice on Moodle TUM", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["*://*.moodle.tum.de/my/*"], "js": ["remember.js"]}], "browser_specific_settings": {"gecko": {"id": "{583c955e-7b2b-41d3-a9b1-4b04f3b0d9f2}"}}}

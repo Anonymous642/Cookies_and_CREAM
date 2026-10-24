@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "PATIL", "version": "1", "manifest_version": 3, "description": "Open Power BI  Report in New Tab.", "background": {"service_worker": "background.js"}, "action": {"default_icon": "icon.png"}, "permissions": ["activeTab", "tts", "scripting", "tabs"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Visualizador de M\u00faltiplas P\u00e1ginas", "version": "1.0", "description": "Visualize v\u00e1rias p\u00e1ginas da web em uma grade configur\u00e1vel.", "action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png"}}, "host_permissions": ["<all_urls>"]}

@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Meeple Drop", "description": "Free Meeple Drop Game.  Built in HTML5.  Can be run offline.", "version": "0.0.1", "manifest_version": 2, "app": {"launch": {"local_path": "index.html"}}, "permissions": [], "offline_enabled": true, "icons": {"16": "images/icon_16.png", "128": "images/icon_128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Dark Mode Scheduler", "version": "1.0", "description": "Schedule dark/light mode easily.", "action": {"default_popup": "popup.html", "default_icon": "dark_mode_scheduler.png"}, "icons": {"128": "dark_mode_scheduler.png"}, "browser_specific_settings": {"gecko": {"id": "borgenh7111989irgrg@hotmail.com"}}}

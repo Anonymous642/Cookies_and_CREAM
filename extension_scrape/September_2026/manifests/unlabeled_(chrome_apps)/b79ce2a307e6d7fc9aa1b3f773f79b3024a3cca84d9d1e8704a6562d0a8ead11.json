@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SlackDeck", "description": "Multiple Slack Teams", "version": "1.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["storage", "webview"], "externally_connectable": {"matches": ["https://*.slack.com/*"]}, "icons": {"16": "icon-16.png", "128": "icon-128.png"}}

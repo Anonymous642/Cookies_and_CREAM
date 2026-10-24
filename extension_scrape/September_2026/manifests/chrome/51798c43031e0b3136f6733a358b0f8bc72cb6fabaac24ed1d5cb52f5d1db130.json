@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Collect Da Eggs", "version": "1.0", "description": "Collect All Da Eggs!!!", "action": {"default_icon": "./img/egg.png", "default_popup": "popup.html"}, "icons": {"16": "./img/egg.png", "48": "./img/egg.png", "128": "./img/egg.png"}}

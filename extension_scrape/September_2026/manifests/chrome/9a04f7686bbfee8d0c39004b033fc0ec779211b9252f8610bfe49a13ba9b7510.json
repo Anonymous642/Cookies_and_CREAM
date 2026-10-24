@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Multi-Account Container", "version": "1.0", "description": "Multi-Account Container: Separate accounts per tab", "action": {"default_popup": "popup.html", "default_icon": "multi-account_container.png"}, "icons": {"128": "multi-account_container.png"}}

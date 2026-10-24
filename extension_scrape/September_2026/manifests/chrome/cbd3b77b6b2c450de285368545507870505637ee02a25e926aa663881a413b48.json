@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HN Ratio Sorter", "version": "1.0", "description": "Sort HN stories by Upvote/Comment ratio.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://news.ycombinator.com/", "https://news.ycombinator.com/news"], "js": ["content.js"], "run_at": "document_end"}]}

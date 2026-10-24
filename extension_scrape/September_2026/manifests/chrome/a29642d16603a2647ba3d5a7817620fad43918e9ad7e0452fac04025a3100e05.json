@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Pink Kawaii", "version": "2.0", "description": "Pink Kawaii Theme for YouTube", "permissions": [], "content_scripts": [{"matches": ["https://www.youtube.com/*"], "css": ["style.css"], "run_at": "document_start"}], "icons": {"128": "mahawii logo (1).png"}}

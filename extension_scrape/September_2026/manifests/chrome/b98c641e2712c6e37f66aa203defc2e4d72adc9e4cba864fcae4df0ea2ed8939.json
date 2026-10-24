@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Chrome Post It", "version": "1.0.0", "description": "This is an extension to keep track of your daily to dos", "manifest_version": 3, "author": "Cindy Li", "action": {"default_popup": "index.html", "default_title": "Post It"}}

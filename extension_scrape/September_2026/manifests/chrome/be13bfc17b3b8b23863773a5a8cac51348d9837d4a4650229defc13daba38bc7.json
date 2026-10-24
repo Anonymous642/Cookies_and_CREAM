@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SnapShot Pro", "version": "1.0", "description": "SnapShot Pro: Capture screenshots easily.", "action": {"default_popup": "popup.html", "default_icon": "snapshot_pro.png"}, "icons": {"128": "snapshot_pro.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "eYou Indigo", "version": "1.0", "description": "Applies Indigo theme to eYou.social", "content_scripts": [{"matches": ["https://eyou.social/*", "https://*.eyou.social/*"], "css": ["theme.css"]}], "browser_specific_settings": {"gecko": {"id": "eyou-custom-theme@yourname.local", "data_collection_permissions": {"required": ["none"]}}}}

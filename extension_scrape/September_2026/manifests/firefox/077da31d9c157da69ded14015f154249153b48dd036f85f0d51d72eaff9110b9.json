@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UDM14Extension", "description": "To use, type 'go' plus a search term into the url bar.", "version": "1.0", "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "udm14ext@cud.uvigo.es", "strict_min_version": "54.0"}}, "omnibox": {"keyword": "go"}, "permissions": ["tabs"]}

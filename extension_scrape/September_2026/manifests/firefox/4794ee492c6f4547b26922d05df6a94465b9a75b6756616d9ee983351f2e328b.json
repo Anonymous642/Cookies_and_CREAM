@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Chiedi a Rhiag", "description": "", "version": "1.0", "background": {"scripts": ["background.js"], "persistent": false}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "permissions": ["contextMenus"], "browser_specific_settings": {"gecko": {"id": "{28fa108b-4977-4028-b01c-f6ed3e6ce6d4}"}}}

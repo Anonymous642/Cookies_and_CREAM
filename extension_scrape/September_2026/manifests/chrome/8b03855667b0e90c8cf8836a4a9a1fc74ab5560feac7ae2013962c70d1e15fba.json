@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Transform Your Life by Reading", "version": "1.0", "description": "An inspiring Chrome extension that shares powerful quotes about the importance of reading.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "permissions": []}

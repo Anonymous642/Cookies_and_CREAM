@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Product Hunt Dark Mode & Ad Remover", "description": "Dark mode for Product Hunt with ad and clutter remover", "version": "1.0.1", "icons": {"128": "icons/icon.png"}, "content_scripts": [{"matches": ["https://www.producthunt.com/*"], "css": ["css/content.css"]}]}

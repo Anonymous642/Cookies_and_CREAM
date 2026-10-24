@@ -1,0 +1,1 @@
+{"name": "Change Url", "manifest_version": 2, "version": "2", "description": "Modifier l'url de l'onglet courant en rempla\u00e7ant une cha\u00eene de caract\u00e8res dans l'url ou en ajoutant un param\u00e8tre.", "icons": {"128": "128.png"}, "browser_action": {"default_popup": "popup.html"}, "permissions": ["tabs"]}

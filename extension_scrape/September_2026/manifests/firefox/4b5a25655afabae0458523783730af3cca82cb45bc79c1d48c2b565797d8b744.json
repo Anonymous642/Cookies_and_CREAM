@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Switch to Last Active Tab", "version": "1.2", "permissions": ["tabs", "menus"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{8ac6db21-edd8-469f-a2b4-fbddf47fb18f}"}}}

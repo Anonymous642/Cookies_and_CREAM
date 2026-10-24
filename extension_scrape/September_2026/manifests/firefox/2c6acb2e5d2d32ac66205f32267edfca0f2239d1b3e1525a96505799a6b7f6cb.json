@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "idono Specific", "version": "1.1", "description": "Specific version of idiono (alpha) developed personal use and daily use.", "icons": {"48": "icons/idiono-48.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{105e99a5-8540-465b-a039-9eca662b46f2}"}}}

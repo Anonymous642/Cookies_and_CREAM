@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YBW Hide Threads", "version": "2.0.3", "description": "Hides specifed threads on the YBW.com forum", "author": "DaveRo", "applications": {"gecko": {"id": "ybw_hide_threads@davero.addons.mozilla.org"}}, "content_scripts": [{"matches": ["https://forums.ybw.com/forums/*"], "js": ["YBW_hide_threads.user.js"]}], "run_at": "document_end"}

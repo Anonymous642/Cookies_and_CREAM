@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pantalon", "author": "NoNiMad", "version": "1.1", "description": "Remove most mentions of Shorts while browsing YouTube", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["Pantalon.js"], "run_at": "document_idle"}], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{1edaebf1-6a4d-4884-8f3d-3415fa112149}"}}}

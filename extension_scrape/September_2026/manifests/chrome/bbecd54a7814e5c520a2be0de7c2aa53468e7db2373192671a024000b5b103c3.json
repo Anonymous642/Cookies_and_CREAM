@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DarkSide", "version": "1.0", "description": "This extension forces a dark theme on all websites", "icons": {"48": "icon.png"}, "permissions": ["*://*/*"], "content_scripts": [{"matches": ["<all_urls>"], "css": ["dark-theme.css"], "run_at": "document_start"}]}

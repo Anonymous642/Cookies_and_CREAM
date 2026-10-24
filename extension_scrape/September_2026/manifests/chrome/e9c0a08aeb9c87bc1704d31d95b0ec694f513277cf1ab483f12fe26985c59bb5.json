@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mysteries of the Holy Rosary", "version": "0.0.6", "description": "Mini book to get mysteries of the Holy Rosary", "action": {"default_popup": "index.html", "default_icon": {"16": "assets/hr_icon.png", "48": "assets/hr_icon.png", "128": "assets/hr_icon.png"}}}

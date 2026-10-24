@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "UAV lost link logger", "version": "1.0", "action": {"default_title": "UAV lost link logger"}, "background": {"service_worker": "background.js"}, "permissions": ["windows"]}

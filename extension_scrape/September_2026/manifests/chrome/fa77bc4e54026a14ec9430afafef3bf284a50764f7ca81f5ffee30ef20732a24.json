@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Blog Name Generator", "version": "1.0", "description": "Suggests unique and creative blog names based on a topic provided by the user.", "action": {"default_popup": "popup.html", "default_icon": "blog_name_generator.png"}, "icons": {"128": "blog_name_generator.png"}}

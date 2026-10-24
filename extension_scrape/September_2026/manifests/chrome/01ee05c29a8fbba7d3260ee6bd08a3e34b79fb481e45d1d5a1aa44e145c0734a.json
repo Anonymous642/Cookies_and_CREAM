@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Darken Any Website", "version": "1.0", "description": "Instantly darken any website with one click.", "permissions": ["activeTab"], "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "icons": {"128": "icon128.png"}}

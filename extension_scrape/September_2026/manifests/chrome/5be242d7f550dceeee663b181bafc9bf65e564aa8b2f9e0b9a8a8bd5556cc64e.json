@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "action": {"default_popup": "popup.html"}, "description": "Make a ranking from any registration page!", "manifest_version": 3, "name": "Psych Sheet", "permissions": ["activeTab", "scripting"], "version": "1.1"}

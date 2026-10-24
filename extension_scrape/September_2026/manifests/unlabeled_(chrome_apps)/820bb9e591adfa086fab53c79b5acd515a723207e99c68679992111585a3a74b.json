@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MeetingKing", "version": "5.0", "manifest_version": 2, "description": "Better, faster, fewer meetings. Agenda - Minutes - Tasks", "icons": {"128": "128.png"}, "app": {"urls": ["*://*.meetingking.com/"], "launch": {"web_url": "https://accounts.meetingking.com/auth/auth/google_oauth2"}}}

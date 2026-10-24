@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LLeoCapcha", "version": "1.4", "description": "LLeo capcha recognizer", "icons": {"32": "icons/32.png", "48": "icons/48.png", "96": "icons/96.png"}, "content_scripts": [{"matches": ["*://*.lleo.me/*"], "js": ["content.js"]}]}

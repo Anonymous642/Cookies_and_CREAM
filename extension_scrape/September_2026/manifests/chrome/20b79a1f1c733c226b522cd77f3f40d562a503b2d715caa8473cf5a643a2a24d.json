@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Demotivational Quote on New Tab", "version": "1.0", "description": "Displays a Demotivational and funny quote on each new tab.", "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"16": "i16.png", "48": "i48.png", "128": "i128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Thymer", "version": "2.4.1", "manifest_version": 2, "description": "Task and project management for people who hate task and project management", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "offline_enabled": false, "app": {"launch": {"web_url": "http://a.thymer.com"}}}

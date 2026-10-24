@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Case Converter", "description": "Convert word case quickly and easily.", "version": "1.0.3", "permissions": [], "action": {"default_popup": "popup.html", "default_icon": {"16": "yisi-16.png", "48": "yisi-48.png", "64": "yisi-64.png", "128": "yisi-128.png"}}}

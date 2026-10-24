@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Disable Translate Popup", "version": "1.1", "description": "Disables new languages popup in google translate integration", "content_scripts": [{"matches": ["*://www.google.com/*"], "css": ["style.css"]}], "browser_specific_settings": {"gecko": {"id": "{bcc5728a-887f-4de2-b9f5-ce36bb6539e3}"}}}

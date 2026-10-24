@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Abyss URL Redirect", "version": "1.0", "description": "Redirects AbyssPlay URLs to Hellabyte with toggle", "permissions": ["activeTab", "webNavigation", "storage"], "background": {"scripts": ["background.js"]}, "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "abyss-redirect@example.com"}}}

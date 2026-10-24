@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Unpresidented", "version": "1.0.1resigned1", "description": "Replaces President Trump with President Bannon.", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{cd081b68-0b09-42d1-a0b4-a510f9a9afdf}"}}}

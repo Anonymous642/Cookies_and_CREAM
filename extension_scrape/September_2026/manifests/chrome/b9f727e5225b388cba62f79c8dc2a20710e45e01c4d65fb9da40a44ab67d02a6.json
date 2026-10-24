@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Multi-Image Compressor (No Metadata, Full Quality)", "version": "6.1", "description": "Compress images with ZIP download. Removes metadata and preserves full visual quality.", "permissions": ["activeTab", "storage"], "action": {"default_popup": "popup.html"}}

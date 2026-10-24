@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Swagger Inspector", "version": "1.0.0", "description": "Quickly inspect and test Swagger/OpenAPI endpoints in a clean popup UI.", "permissions": ["storage", "tabs"], "browser_action": {"default_title": "Swagger Inspector", "default_popup": "popup.html"}, "applications": {"gecko": {"id": "swagger-inspector@example.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "OPFS Viewer", "version": "1.0.3", "description": "Viewer for OPFS Filesystem.", "devtools_page": "devtools.html", "manifest_version": 3, "permissions": ["scripting"], "icons": {"256": "logo.png"}, "host_permissions": ["<all_urls>"]}

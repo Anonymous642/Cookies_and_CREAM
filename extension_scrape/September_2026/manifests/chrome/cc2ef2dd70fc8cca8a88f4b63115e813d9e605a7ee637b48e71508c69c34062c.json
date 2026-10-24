@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Fish Tank", "description": "A relaxing fish tank to brighten your day.", "version": "0.0.2", "manifest_version": 3, "chrome_url_overrides": {"newtab": "./index.html"}, "browser_action": {"default_icon": "./favicon-32x32.png"}}

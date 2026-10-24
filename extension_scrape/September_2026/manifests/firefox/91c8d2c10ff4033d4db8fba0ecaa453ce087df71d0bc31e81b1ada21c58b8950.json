@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dynamic New Tab Background", "version": "1.0", "description": "Displays a dynamic background image every time a new tab is opened.", "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{b52649af-4a4d-4780-a375-16d2d5f4778f}"}}}

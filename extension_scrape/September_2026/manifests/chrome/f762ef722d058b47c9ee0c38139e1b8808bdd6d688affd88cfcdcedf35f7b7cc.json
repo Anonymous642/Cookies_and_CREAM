@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Time To Live", "description": "Make every day count with Time To Live \u2013 the app that inspires you to live with energy and purpose.", "version": "0.0.0.1", "manifest_version": 3, "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["storage"], "icons": {"16": "favicon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "findgo", "version": "1.1resigned1", "description": "find quickly info!", "icons": {"48": "icon.png", "96": "icon.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["findgo.js"]}], "browser_specific_settings": {"gecko": {"id": "{a3ba9f13-135c-4258-9f70-e55312a17e0e}"}}}

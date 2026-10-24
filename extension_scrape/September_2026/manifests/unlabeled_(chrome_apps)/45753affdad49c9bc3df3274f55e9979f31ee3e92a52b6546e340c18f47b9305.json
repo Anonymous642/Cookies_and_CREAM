@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://www.bantialbumproofing.com/"], "launch": {"web_url": "http://www.bantialbumproofing.com/username"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Online Album Proofing for Professional Photographers", "name": "Banti Album Proofing", "icons": {"128": "icon_128.png"}, "manifest_version": 2, "version": "1.0.0"}

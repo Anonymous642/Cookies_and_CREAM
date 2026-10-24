@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Country Code", "version": "1.0.0", "description": "Quick search, copy, and manage country codes", "action": {"default_popup": "popup.html"}, "permissions": ["storage"], "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

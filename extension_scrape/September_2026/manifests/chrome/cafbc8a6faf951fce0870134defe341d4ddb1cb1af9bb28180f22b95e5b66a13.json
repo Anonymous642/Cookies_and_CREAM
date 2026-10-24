@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Internal Duplicate Text Checker", "version": "1.0.0", "description": "Checks a text for duplicates inside itself (lines, sentences, or word shingles).", "action": {"default_title": "Duplicate Checker", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

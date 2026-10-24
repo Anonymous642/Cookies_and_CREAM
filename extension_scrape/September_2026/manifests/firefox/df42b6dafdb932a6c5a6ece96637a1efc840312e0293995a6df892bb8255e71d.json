@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mini Games Hub", "version": "1.0", "description": "Quick access to fun mini games.", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{a9c2e1a3-b696-4a06-9f38-263f2bb82f48}"}}}

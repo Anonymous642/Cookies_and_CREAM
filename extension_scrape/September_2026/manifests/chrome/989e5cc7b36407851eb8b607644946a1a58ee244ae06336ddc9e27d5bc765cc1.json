@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Joiplay [Emulator]", "version": "1.0", "description": "Play RPG Maker, Ren'Py, and HTML games on Android with JoiPlay emulator.", "icons": {"16": "favicon-32x32.png", "64": "favicon-64x64.png", "128": "favicon-128x128.png"}, "action": {"default_popup": "joiplay.html"}}

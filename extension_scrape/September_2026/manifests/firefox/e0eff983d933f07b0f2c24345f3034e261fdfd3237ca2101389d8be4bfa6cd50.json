@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Outline Table Captions", "version": "1.0", "description": "This extension outlines table captions on webpages.", "permissions": ["<all_urls>"], "browser_specific_settings": {"gecko": {"id": "hghfghfgh@gmail.com"}}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

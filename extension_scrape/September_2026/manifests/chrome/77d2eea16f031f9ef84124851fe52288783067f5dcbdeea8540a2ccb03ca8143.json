@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Google Maps Search Checker", "version": "2.0", "description": "Displays a popup when on Google Maps search page.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

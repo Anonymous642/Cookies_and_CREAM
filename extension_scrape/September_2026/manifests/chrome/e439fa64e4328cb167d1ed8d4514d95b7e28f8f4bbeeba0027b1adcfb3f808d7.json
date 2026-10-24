@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Dad Joke Generator", "version": "1.0", "description": "A sleek, modern Chrome extension that displays dad jokes.", "action": {"default_popup": "index.html", "default_title": "Get a Dad Joke"}}

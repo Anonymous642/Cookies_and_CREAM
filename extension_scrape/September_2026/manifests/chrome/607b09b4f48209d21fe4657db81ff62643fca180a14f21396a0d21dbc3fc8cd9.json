@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PLT Approval Proof", "description": "Local PLT and HPGL preview, order review, and PDF proof export.", "version": "0.1.0", "action": {"default_title": "PLT Approval Proof"}, "background": {"service_worker": "background.js"}, "permissions": []}

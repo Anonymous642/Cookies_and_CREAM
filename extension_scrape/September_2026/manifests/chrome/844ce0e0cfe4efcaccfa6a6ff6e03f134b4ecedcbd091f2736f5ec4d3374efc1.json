@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Blank-NTP", "version": "1", "manifest_version": 3, "description": "Esta simples extens\u00e3o cria uma p\u00e1gina preta limpa", "homepage_url": "https://github.com/nukhes", "actions": {"default_icon": "favicon.png"}, "chrome_url_overrides": {"newtab": "tab.html"}}

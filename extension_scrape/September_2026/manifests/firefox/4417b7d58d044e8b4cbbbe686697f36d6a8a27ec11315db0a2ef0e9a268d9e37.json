@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SelectMe", "version": "0.3resigned1", "description": "Makes text on readlightnovel.org selectable.", "icons": {"48": "icons/SelectMe.png"}, "content_scripts": [{"matches": ["*://*.readlightnovel.org/*"], "js": ["SelectMe.js"]}], "browser_specific_settings": {"gecko": {"id": "{6da41402-7f9e-49b9-a76c-4dedf14818e7}"}}}

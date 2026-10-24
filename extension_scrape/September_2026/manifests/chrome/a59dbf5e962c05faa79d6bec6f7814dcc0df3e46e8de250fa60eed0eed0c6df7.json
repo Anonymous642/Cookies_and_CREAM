@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "3D Text Generator Shortcut", "version": "0.1.0", "description": "Open Vismint from Chrome and send 3D text ideas to the site with one click.", "action": {"default_title": "3D Text Generator Shortcut", "default_popup": "popup.html"}, "permissions": []}

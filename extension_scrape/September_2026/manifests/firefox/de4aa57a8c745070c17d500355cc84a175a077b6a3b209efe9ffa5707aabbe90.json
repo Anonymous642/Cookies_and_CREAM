@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Task Prioritizer", "version": "1.0", "description": "Organize your tasks based on urgency and importance.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{1c587f3c-6e5b-4cb6-a2ea-881cb725eb6a}"}}}

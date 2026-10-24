@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Calader", "description": "Turns your event selection into a calendar entry.", "version": "1.1", "icons": {"48": "icons/calader-48.svg"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["content.css"]}], "browser_specific_settings": {"gecko": {"id": "{b206e1d9-926a-4d23-9b3b-cd1022efb5b4}"}}}

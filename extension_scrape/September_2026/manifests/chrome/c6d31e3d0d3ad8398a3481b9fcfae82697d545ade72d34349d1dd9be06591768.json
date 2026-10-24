@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "QR Craft Studio", "version": "2.0", "description": "Paste any link to instantly generate a QR code.", "action": {"default_popup": "popup.html"}}

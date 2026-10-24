@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "OpenGPT.com", "description": "Your Open AI Community", "version": "1.4", "icons": {"128": "128.png"}, "action": {"default_popup": "index.html", "default_icon": "asset/img/index.png"}, "browser_specific_settings": {"gecko": {"id": "{8f32e1af-2cad-4dce-94e5-1b397e02056b}"}}}

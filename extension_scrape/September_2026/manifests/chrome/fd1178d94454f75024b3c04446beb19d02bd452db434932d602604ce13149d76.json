@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AuTistiC Stream Picker", "version": "1.0", "description": "Let's stop rewarding bots and spammers!", "content_scripts": [{"matches": ["https://arena.social/live/*"], "js": ["content.js"], "run_at": "document_idle"}], "permissions": [], "icons": {"48": "icon.png"}}

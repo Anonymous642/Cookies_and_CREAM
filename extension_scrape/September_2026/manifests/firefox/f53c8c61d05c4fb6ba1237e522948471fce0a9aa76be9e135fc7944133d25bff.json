@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Screenshot Tool", "version": "1.0", "description": "Capture and annotate screens.", "action": {"default_popup": "popup.html", "default_icon": "screenshot_tool.png"}, "icons": {"128": "screenshot_tool.png"}, "browser_specific_settings": {"gecko": {"id": "malikahtutt26081994qrojf@hotmail.com"}}}

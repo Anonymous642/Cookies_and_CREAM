@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Image Sound Mapper", "version": "1.0", "description": "Play sounds based on color or position when hovering over an image.", "permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["image-sound-mapper.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "imagesoundmapper@example.com"}}}

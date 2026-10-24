@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "St. Patrick's Day Quotes", "version": "1.0", "browser_specific_settings": {"gecko": {"id": "st-patricks-quotes@yourdomain.com"}}, "action": {"default_popup": "popup.html", "default_icon": "images/shamrock.svg"}, "icons": {"48": "images/shamrock.svg"}}

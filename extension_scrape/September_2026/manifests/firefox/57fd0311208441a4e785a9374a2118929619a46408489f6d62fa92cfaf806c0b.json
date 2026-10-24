@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MicrosoftDocsLanguageChanger", "version": "1.1", "description": "Changes microsoft docs language to english", "icons": {"48": "icons/changer.svg", "96": "icons/changer.svg"}, "permissions": ["webRequest", "webRequestBlocking", "*://docs.microsoft.com/*-*/*"], "background": {"scripts": ["language-changer.js"]}}

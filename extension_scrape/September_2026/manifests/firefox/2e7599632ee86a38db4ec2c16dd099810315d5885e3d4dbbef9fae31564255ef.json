@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Inspiration Feed Sidebar", "version": "1.0", "description": "Sidebar with inspirational images and keywords.", "permissions": ["storage"], "sidebar_action": {"default_title": "Inspiration Feed", "default_panel": "sidebar.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{1ef02293-9c00-49bc-bea0-464b1ebb59e9}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Contador Autom\u00e1tico de D\u00edas v2.6", "version": "2.6", "description": "Ingresa 'Inicio_Roaming = AAAA-MM-DDTHH:MM:SS' y calcula d\u00edas transcurridos. Rojo si > 60.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

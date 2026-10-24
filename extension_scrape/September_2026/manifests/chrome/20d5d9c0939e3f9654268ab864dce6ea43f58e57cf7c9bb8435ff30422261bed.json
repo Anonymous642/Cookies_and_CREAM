@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tactical Password Generator", "version": "1.0.0", "description": "Generate strong, hard-to-guess passwords instantly (offline) with a military-style interface.", "action": {"default_title": "Password Generator", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

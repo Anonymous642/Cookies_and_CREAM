@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "DoYouKnowPong?", "description": "Do You Know Pong?", "version": "1.0", "icons": {"128": "icon128.png"}, "app": {"urls": ["http://pppeeennn.com/DoYouKnowPong/webgl/"], "launch": {"web_url": "http://pppeeennn.com/DoYouKnowPong/webgl/"}}}

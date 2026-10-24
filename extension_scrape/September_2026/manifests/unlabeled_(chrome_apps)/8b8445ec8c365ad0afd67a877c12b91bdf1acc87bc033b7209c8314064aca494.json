@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_appName__", "version": "1.0.0.0", "app": {"launch": {"web_url": "http://join.lastchaos-mmo.com/?rid=7952"}}, "default_locale": "en", "description": "__MSG_appDesc__", "icons": {"128": "logo-LC.png"}, "manifest_version": 2}

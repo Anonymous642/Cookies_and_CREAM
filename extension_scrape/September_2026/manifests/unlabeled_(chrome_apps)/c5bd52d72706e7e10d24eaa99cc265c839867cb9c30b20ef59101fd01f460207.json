@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Race Invaders", "version": "6", "manifest_version": 2, "icons": {"128": "icon128.png"}, "app": {"urls": ["http://playir.com/apps/raceinvaders/"], "launch": {"web_url": "http://playir.com/apps/raceinvaders/"}}}

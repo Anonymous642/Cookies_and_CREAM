@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Algebra Equation Generator", "description": "Generate random equations with answers - linear, simultaneous and quadratic.", "version": "1.0", "action": {"default_popup": "index.html", "default_icon": "128.png"}}

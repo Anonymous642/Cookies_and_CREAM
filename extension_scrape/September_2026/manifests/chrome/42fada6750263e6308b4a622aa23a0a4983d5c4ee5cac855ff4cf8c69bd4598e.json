@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Happy Dice Roller", "version": "1.0.0", "description": "Roll a random dice (1\u20136) with fun animations \u2014 no permissions needed.", "action": {"default_title": "Happy Dice", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

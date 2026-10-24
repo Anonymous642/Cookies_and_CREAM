@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ocultar Aba AI Mode do Google", "version": "1.0", "description": "Permite ocultar guias especificas (como AI Mode) na interface de pesquisa do Google.", "permissions": [], "content_scripts": [{"matches": ["https://www.google.com/search*"], "js": ["content.js"]}]}

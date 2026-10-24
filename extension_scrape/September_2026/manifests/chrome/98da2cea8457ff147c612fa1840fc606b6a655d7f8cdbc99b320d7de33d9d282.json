@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Task Prioritizer", "description": "Organize tasks quickly by generating a random priority order.", "version": "1.0", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

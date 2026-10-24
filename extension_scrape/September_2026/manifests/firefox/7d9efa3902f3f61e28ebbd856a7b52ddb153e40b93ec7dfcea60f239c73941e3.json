@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "USD to NPR Converter", "version": "1.0", "description": "Convert US Dollar (USD) to Nepalese Rupee (NPR) instantly.", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/*"], "browser_specific_settings": {"gecko": {"id": "{f86d320f-7378-4151-8d7d-94ed13f1b648}"}}}

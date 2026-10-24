@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NYTimes Free Reader", "version": "1.5", "description": "Unlock and read New York Times articles for free without needing a subscription", "icons": {"48": "border-48.png"}, "content_scripts": [{"matches": ["*://*.nytimes.com/*"], "js": ["ny4free.js"]}], "browser_specific_settings": {"gecko": {"id": "{30ab1084-8110-4497-8e8c-2f42b4666f11}"}}}

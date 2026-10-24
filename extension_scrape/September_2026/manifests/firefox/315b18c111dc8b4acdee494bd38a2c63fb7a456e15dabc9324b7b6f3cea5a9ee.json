@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "INR to RUB Converter", "version": "1.0", "description": "Convert Indian Rupees (INR) to Russian Rubles (RUB).", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/"], "browser_specific_settings": {"gecko": {"id": "{8743d497-e8ff-467a-a221-e539f2b48835}"}}}

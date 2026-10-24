@@ -1,0 +1,1 @@
+{"name": "Advanced Font changer Settings", "version": "1.7", "manifest_version": 2, "description": "Customize per-script font styles settings.", "options_page": "options.html", "icons": {"16": "fonts16.png", "128": "fonts128.png"}, "permissions": ["fontchangerSettings"], "browser_specific_settings": {"gecko": {"id": "{018e743f-45b1-4411-b1cc-4d3012817b87}"}}}

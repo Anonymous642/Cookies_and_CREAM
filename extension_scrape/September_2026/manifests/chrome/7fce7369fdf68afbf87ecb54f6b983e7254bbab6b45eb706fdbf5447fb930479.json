@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "icons": {"48": "48.png", "128": "128.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["koseva.js"]}], "name": "Koseva", "version": "2.0.2", "description": "Paleo-Hebrew browser extension.", "manifest_version": 3, "background": {"service_worker": "koseva.bg.js"}, "action": {}}

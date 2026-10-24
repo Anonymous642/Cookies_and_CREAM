@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HS Person Link Remover", "version": "1.0", "description": "Removes links from person names in the site hs.fi.", "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "content_scripts": [{"matches": ["https://www.hs.fi/*"], "js": ["person-delinkifier.js"]}]}

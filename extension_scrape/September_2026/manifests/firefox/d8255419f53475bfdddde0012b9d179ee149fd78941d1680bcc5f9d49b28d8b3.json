@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gestionnaire de Notes", "version": "1.0", "description": "Une extension pour g\u00e9rer vos notes.", "permissions": ["storage"], "browser_action": {"default_popup": "index.html", "default_icon": {"48": "icons/icon.png"}}, "icons": {"48": "icons/icon.png"}, "browser_specific_settings": {"gecko": {"id": "{22f77b6d-8d6c-4822-9cd5-46d40f6f2717}"}}}

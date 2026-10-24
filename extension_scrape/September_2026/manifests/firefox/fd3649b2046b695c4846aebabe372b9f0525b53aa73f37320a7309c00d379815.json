@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Minimal Twitter", "version": "1.0", "description": "Blocks all of Twitter except direct links to posts, keeping distractions to a minimum", "icons": {"48": "twitter.png"}, "content_scripts": [{"matches": ["*://twitter.com/*"], "js": ["twitter_block.js"]}], "browser_specific_settings": {"gecko": {"id": "{180a4e4d-960a-4787-960a-21fe346f5dd8}"}}}

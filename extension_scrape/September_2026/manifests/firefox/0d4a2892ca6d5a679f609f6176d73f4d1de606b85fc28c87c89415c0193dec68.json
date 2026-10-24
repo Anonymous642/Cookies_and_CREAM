@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Remove Ask ChatGPT", "version": "1.0.0", "description": "Removes the Ask ChatGPT bubble shown when selecting text.", "browser_specific_settings": {"gecko": {"id": "remove-ask-chatgpt@idev", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"matches": ["https://chatgpt.com/*"], "css": ["hide-ask-chatgpt.css"]}]}

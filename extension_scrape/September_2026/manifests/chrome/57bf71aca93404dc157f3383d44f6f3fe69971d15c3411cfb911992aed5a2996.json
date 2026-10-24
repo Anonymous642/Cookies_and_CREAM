@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Modern Slug Generator", "version": "1.0.0", "description": "Generate clean URL slugs from your article titles in a modern, minimal popup.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon-128.png"}}, "icons": {"128": "icon-128.png"}}

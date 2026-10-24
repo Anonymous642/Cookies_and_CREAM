@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "WeB Edge Extension", "version": "1.0", "description": "WeB extension for Edge", "permissions": ["downloads", "nativeMessaging"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html"}}

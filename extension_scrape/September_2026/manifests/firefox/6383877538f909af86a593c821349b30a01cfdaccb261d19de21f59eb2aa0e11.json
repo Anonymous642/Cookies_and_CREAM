@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Roblox Dark Theme", "version": "1.0", "description": "Provides a dark theme for roblox.com", "icons": {"48": "icons/48.png"}, "browser_specific_settings": {"gecko": {"id": "exceptionalgains@gmail.com"}}, "content_scripts": [{"matches": ["*://*.roblox.com/*"], "js": ["theme.js"]}]}

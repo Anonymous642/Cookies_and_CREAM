@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Web3 Decode Extension", "version": "0.0.2", "description": "Decode web3 transactions with ease", "permissions": [], "devtools_page": "devtools.html", "icons": {"512": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "@web3-decode-extension"}}}

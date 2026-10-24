@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "EbayNoNewTab", "version": "1.0", "description": "Ebay opens a new tab on click. Very annoying.", "content_scripts": [{"matches": ["*://*.ebay.com/sch/*"], "js": ["nonewtab.js"]}]}

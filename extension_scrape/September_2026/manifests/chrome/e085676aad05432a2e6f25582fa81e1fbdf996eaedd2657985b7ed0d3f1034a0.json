@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Random Fun Questions", "version": "1.0.0", "description": "Get a random fun question for quick entertainment.", "action": {"default_title": "Random Fun Question", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

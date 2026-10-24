@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Wikipedia popup Extension", "description": "Displays Wikipedia Main Page in a popup", "version": "1.0", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{d1168d45-5150-42cf-8a46-f2001ec58a7a}"}}}

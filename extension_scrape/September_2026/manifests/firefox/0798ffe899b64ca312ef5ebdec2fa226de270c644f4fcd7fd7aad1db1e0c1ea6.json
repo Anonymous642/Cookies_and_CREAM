@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "openai-args-poppup", "version": "1.0", "description": "Popup for JSON inside function-parameters class", "permissions": [], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "openai-args-poppup@example.com"}}}

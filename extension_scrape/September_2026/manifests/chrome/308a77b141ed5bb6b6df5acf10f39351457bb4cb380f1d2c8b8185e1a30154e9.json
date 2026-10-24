@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Morning Mirror", "version": "0.1.2", "description": "Thoughtful words for a sharper day.", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"128": "icon.png"}, "permissions": [], "web_accessible_resources": []}

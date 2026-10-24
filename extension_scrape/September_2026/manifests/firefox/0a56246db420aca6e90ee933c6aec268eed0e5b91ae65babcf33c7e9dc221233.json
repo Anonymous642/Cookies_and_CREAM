@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CopyLink Lite", "version": "1.0", "description": "Quickly copy the current tab\u2019s URL to your clipboard.", "permissions": ["tabs", "clipboardWrite"], "browser_action": {"default_popup": "popup.html", "default_title": "Copy current tab link"}, "browser_specific_settings": {"gecko": {"id": "{48a5978c-1b66-4f9d-9fb9-0afcd744f172}"}}}

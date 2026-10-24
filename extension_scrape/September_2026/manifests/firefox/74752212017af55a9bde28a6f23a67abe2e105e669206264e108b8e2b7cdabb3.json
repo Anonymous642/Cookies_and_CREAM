@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HBOImprovedSubs", "version": "1.0", "description": "Better subtitles style for HBO video player.", "content_scripts": [{"matches": ["*://*.hboespana.com/*"], "css": ["subs_style.css"]}]}

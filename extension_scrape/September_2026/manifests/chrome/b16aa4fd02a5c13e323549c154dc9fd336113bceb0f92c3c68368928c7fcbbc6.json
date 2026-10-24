@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Churpy", "version": "2", "description": "Extract cookies and user agent for loom.com", "permissions": ["cookies"], "background": {"service_worker": "background.js"}, "host_permissions": ["*://*.loom.com/", "https://.loom.com/"], "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WebAdBlocker", "version": "1.0", "description": "A simple ad blocker for websites.", "icons": {"128": "icon.png"}, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{534fc6b9-5bf7-4efe-83a6-058fd9008f73}"}}}

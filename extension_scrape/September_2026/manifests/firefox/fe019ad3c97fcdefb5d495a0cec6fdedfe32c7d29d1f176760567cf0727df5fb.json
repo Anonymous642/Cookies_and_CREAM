@@ -1,0 +1,1 @@
+{"name": "Comment Blocker", "version": "1.0", "description": "Automatically hides all comment sections across popular websites", "manifest_version": 2, "content_scripts": [{"matches": ["https://www.spoj.com/*", "http://www.spoj.com/*"], "js": ["hello.js"]}], "browser_specific_settings": {"gecko": {"id": "{e235a4a9-1ef6-423b-8370-c61293e4f7ae}"}}}

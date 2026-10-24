@@ -1,0 +1,1 @@
+{"name": "Dad Jokes", "version": "0.0.1", "manifest_version": 2, "browser_action": {"default_popup": "popup.html", "default_icon": "logo.png"}, "icons": {"128": "logo.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{946519a8-4bcf-4f75-ad37-064c0b09d91d}"}}}

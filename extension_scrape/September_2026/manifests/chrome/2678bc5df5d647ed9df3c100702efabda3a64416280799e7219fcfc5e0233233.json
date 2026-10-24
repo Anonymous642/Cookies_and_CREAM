@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tab Extract-n", "version": "0.5", "description": "Search for tabs and group them in a new window.", "manifest_version": 3, "background": {"service_worker": "background.js"}, "permissions": ["tabs", "tabGroups"], "omnibox": {"keyword": "ex"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Photos Bulk Selector", "version": "3.0", "description": "Selects all photos from your current view down to the bottom.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

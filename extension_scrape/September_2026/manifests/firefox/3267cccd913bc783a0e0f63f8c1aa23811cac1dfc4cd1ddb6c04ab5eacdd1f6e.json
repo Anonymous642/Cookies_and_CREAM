@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CodeEstimate", "version": "1.0", "description": "Estimates ratings of the problems on CodeForces from the number of people that have solved the task already.", "content_scripts": [{"matches": ["*://*.codeforces.com/problemset**"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{fa938569-77a4-4edf-8727-045f4a67fc47}"}}}

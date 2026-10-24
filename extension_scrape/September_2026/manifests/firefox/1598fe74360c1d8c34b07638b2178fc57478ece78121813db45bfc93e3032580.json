@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Save Image V2", "version": "1.0", "description": "Easily save images from web pages with hover save button", "permissions": ["activeTab", "<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{944f38fc-9fdb-4712-9716-363b1f91270a}"}}}

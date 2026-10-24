@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u6613 \u6539", "action": {}, "manifest_version": 3, "version": "0.2.2", "description": "\n\u6613\u6539\uff0c\u60f3\u600e\u4e48\u6539\u5c31\u600e\u4e48\u6539", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}}

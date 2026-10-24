@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "\u7e41\u4f53\u8f6c\u6362", "version": "1.2", "description": "\u7e41\u4f53\u8f6c\u6362", "icons": {"48": "border-48.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["lang.js", "app.js"]}], "browser_specific_settings": {"gecko": {"id": "{821d115f-63bd-4e56-9f58-eee028c21e58}"}}}

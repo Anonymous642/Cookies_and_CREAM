@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tiger Startseite", "version": "2.01", "description": "Tiger.ch als Starteite einrichten", "author": "Peter Witschi", "icons": {"48": "icon48.png"}, "chrome_settings_overrides": {"homepage": "https://tiger.ch"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TasteTrail", "version": "1.2", "description": "Discover books and movies based on your browsing history.", "permissions": ["history", "storage"], "host_permissions": ["https://taste-trail-two.vercel.app/*"], "action": {"default_popup": "popup.html"}}

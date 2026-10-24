@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PEEEEP", "version": "0.0.6", "description": "Make Twitch Chat Readable Again", "content_scripts": [{"all_frames": true, "matches": ["https://*.twitch.tv/*"], "js": ["./dist/bundle.js"], "run_at": "document_end", "world": "MAIN"}], "icons": {"128": "icon.png"}}

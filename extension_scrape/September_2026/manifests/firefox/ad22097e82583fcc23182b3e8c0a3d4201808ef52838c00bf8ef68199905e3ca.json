@@ -1,0 +1,1 @@
+{"name": "\u00c9 merc\u00e9 correcteur", "version": "0.2resigned1", "manifest_version": 2, "description": "\u00c9 merc\u00e9 hein", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["js/correct.js"]}], "browser_specific_settings": {"gecko": {"id": "{ad299b3e-60d1-4599-9075-0b262ea3cf34}"}}}

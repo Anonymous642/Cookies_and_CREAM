@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Trucoteca", "description": "Trucos y juegos", "version": "1.1", "app": {"urls": ["http://www.trucoteca.com/"], "launch": {"web_url": "http://www.trucoteca.com/"}}, "icons": {"128": "icon_128.png"}, "permissions": [], "manifest_version": 2}

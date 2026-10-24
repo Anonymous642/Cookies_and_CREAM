@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sad Song Title Suggestor", "version": "1.0.0", "description": "Suggest sad song titles instantly with a simple, local-only interface.", "action": {"default_title": "Sad Song Titles", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

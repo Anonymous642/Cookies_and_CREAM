@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Emoji Vocabulary Builder", "version": "1.0", "description": "Show emojis for visual word association.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{2f959dba-184a-46d5-85c0-a61e5f813f55}"}}}

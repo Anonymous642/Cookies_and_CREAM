@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube NO MIXES", "version": "1.0", "description": "Modify YouTube mix URLs to not be mixes.", "permissions": ["tabs", "*://*.youtube.com/*"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{5e887c6f-a707-45ed-88b1-ffdb92f1e9e5}"}}}

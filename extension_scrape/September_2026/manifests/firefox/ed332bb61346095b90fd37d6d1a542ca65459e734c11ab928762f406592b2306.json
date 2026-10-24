@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Colored buttons", "version": "1.0.2", "description": "Makes buttons colored", "applications": {"gecko": {"id": "ytfastener@youtube.com", "strict_min_version": "45.0"}}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "css": ["custom.css"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Goal Randomizer", "version": "1.0.0", "description": "Generate a random daily goal in a clean modern popup.", "action": {"default_title": "Daily Goal Randomizer", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

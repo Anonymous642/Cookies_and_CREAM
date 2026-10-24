@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Moris Website-Notizen", "description": "Speichere seitenbezogene Notizen mit Zeitstempel und \u00dcbersicht.", "version": "2.4", "action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "permissions": ["storage", "tabs"], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "moris-notizen@digitour.de"}}}

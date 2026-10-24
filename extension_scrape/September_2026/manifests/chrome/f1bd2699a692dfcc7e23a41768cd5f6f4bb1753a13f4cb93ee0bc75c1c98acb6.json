@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YFClean", "version": "1.0", "description": "Remove .publicbox and click play on yfsp.tv", "permissions": ["scripting"], "host_permissions": ["*://*.yfsp.tv/*"], "content_scripts": [{"matches": ["*://*.yfsp.tv/*"], "js": ["content.js"], "run_at": "document_idle"}]}

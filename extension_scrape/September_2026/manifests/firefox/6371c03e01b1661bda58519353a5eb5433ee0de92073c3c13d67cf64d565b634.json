@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "allropewiki", "version": "3.3", "description": "load all ropewiki locations", "icons": {"48": "icons/ico.png"}, "content_scripts": [{"matches": ["*://*.ropewiki.com/*"], "js": ["allropewiki.js"]}]}

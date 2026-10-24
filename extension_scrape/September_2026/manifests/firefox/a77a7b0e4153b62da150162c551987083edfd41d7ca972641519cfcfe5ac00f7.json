@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "View in Steam", "version": "1.1resigned1", "description": "Adds a button on Steam store pages to open inside of the Steam client.", "icons": {"48": "icon-48.png"}, "content_scripts": [{"matches": ["*://store.steampowered.com/app/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{440b8af2-e416-40db-9457-13c4d61a8b23}"}}}

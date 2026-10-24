@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Daily Quote Popper", "version": "1.0", "description": "Get inspired with quotes about hard work and passive income every time you click!", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{55201778-eaeb-486d-85af-97d428e19d52}"}}}

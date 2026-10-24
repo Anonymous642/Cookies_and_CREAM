@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "High Contrast Mode", "version": "1.0", "description": "Boost color contrast for better readability.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_title": "High Contrast Mode", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{683652f1-1974-4b89-a070-8128e81f0511}"}}}

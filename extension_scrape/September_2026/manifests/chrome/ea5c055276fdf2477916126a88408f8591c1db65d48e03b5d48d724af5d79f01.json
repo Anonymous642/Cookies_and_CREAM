@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "FollowCheck", "version": "1.2", "description": "Detecta qu\u00e9 usuarios no te siguen de vuelta en Instagram.", "permissions": ["activeTab", "scripting", "storage"], "host_permissions": ["https://www.instagram.com/*"], "action": {"default_popup": "popup.html"}}

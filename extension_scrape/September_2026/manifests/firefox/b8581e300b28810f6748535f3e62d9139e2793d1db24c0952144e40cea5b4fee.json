@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FF Image Search", "version": "1.1resigned1", "description": "Lets you right click on an image and run a Google image search for it.", "permissions": ["menus"], "background": {"scripts": ["search.js"]}, "browser_specific_settings": {"gecko": {"id": "{b6ad81eb-f7e0-4b73-b817-bf1f6b27d2fd}"}}}

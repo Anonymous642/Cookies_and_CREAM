@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cookie-copy", "version": "1.0.0", "permissions": ["cookies", "tabs"], "action": {"default_popup": "popup.html"}, "host_permissions": ["http://*/*", "https://*/*"], "icons": {"16": "images/16.png", "32": "images/32.png", "48": "images/48.png"}}

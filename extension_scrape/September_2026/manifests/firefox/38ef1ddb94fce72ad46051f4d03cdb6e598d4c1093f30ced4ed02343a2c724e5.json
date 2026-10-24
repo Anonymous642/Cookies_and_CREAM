@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ODPP Systems Quick Access", "version": "1.0", "description": "Quick access to the most used systems in the ODPP.", "browser_action": {"default_popup": "popup.html", "default_icon": {"512": "icons/icon-512.png"}}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{1ff30e65-2d2b-4ff1-8e1a-371c674b9a98}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MGA to SRD Converter", "version": "1.0", "description": "Convert Malagasy Ariary (MGA) to Surinamese Dollar (SRD).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert MGA to SRD"}, "browser_specific_settings": {"gecko": {"id": "{e000bf8d-91db-452a-ae8a-d149dcd53c89}"}}}

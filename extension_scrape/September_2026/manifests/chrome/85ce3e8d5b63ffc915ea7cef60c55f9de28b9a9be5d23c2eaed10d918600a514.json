@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gemini Summarizer", "version": "1.0", "permissions": ["scripting", "activeTab"], "action": {"default_popup": "popup.html", "default_icon": "img/logo-png.png"}, "background": {"service_worker": "content.js"}}

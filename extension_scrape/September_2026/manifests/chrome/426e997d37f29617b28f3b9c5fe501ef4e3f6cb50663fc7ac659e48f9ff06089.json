@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Auto-Close Ignition", "version": "1.0", "description": "Auto-close Ignition login windows after 3 seconds so you don't have to.", "permissions": ["tabs", "storage"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html"}}

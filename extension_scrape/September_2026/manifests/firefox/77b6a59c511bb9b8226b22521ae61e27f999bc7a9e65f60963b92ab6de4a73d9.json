@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Cookie Blocker", "version": "1.0", "description": "Control website cookies.", "action": {"default_popup": "popup.html", "default_icon": "cookie_blocker.png"}, "icons": {"128": "cookie_blocker.png"}, "browser_specific_settings": {"gecko": {"id": "wynnh7091995fopzc@hotmail.com"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83d\udc8e Daily Vocabulary Gems", "version": "1.0", "description": "Show 5 random English words from a mini dictionary every day. Sparkle your learning!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "dhyandklafteix@hotmail.com"}}}

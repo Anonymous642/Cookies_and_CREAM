@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Password Generator", "version": "1.0", "description": "Generate secure passwords offline instantly.", "browser_action": {"default_popup": "popup.html", "default_title": "Password Generator"}, "permissions": ["clipboardWrite"], "icons": {"48": "P.png"}, "browser_specific_settings": {"gecko": {"id": "{0324cab1-1c0c-41c8-b7be-0851d9236de4}"}}}

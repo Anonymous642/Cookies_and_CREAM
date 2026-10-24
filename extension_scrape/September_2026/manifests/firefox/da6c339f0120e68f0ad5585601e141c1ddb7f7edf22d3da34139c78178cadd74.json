@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ImgInNewTab", "version": "1.0", "description": "Open image in new tab", "permissions": ["contextMenus"], "background": {"scripts": ["main.js"]}}

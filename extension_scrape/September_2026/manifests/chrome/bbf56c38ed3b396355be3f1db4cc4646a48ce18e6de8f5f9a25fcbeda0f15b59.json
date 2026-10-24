@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Light Theme for Boot.dev", "version": "1.0", "description": "Forces a light theme for Boot.dev [:", "content_scripts": [{"matches": ["*://www.boot.dev/*"], "css": ["light-theme.css"]}], "icons": {"48": "images/icon48.png", "128": "images/icon128.png"}, "permissions": []}

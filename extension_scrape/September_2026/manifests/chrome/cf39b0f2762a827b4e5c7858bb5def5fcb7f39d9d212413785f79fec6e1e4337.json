@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Text Autospace Normal", "version": "1.0.0", "description": "Apply 'text-autospace: normal' to all web pages.", "content_scripts": [{"matches": ["<all_urls>"], "css": ["style.css"], "run_at": "document_start"}]}

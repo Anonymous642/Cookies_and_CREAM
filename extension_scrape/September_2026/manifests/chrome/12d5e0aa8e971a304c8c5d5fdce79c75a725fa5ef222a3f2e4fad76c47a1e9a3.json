@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Buscador MCC/MNC avanzado", "version": "1.0", "description": "Buscador de MCC/MNC desde CSV con columnas completas", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

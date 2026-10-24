@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "RickTube", "version": "1.0", "icons": {"128": "128.png"}, "host_permissions": ["*://*.youtube.com/*"], "permissions": ["contextMenus"], "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["app.js"], "css": ["main.css"]}], "background": {"service_worker": "background.js"}}

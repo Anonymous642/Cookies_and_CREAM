@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "KinopoiskkAddsRemover", "version": "1.4", "description": "Add remover for kinopoiskk", "applications": {"gecko": {"strict_min_version": "48.0", "id": "{5b722e38-3704-42d9-9b18-e30c327b0f23}"}}, "content_scripts": [{"matches": ["*://*/series/*", "*://*/film/*"], "js": ["remover.js"]}]}

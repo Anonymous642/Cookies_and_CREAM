@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gregmat random GRE word", "version": "1.0.2", "description": "Random gre words on opening new tab", "developer": {"name": "Xatta Trone", "url": "https://github.com/Xatta-Trone"}, "icons": {"48": "img/favicon64x64.png", "96": "img/favicon64x64.png"}, "permissions": ["storage"], "chrome_url_overrides": {"newtab": "index.html"}}

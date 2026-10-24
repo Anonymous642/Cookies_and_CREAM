@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "RegexRanger - Expression Tester", "version": "1.0.0", "description": "Instantly test and visualize Regular Expressions with a retro 80s Synthwave aesthetic.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}, "icons": {"128": "icon128.png"}}

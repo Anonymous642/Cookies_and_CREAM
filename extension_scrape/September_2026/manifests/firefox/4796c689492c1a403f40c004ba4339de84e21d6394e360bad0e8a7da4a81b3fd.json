@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Meow", "version": "1.0", "description": "hi", "permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_start"}], "web_accessible_resources": ["meow.mp3"], "browser_specific_settings": {"gecko": {"id": "{cac1120e-3739-4900-904b-2f04a3cf9d7d}"}}}

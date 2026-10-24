@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Vision Extension", "description": "on Clock Vision Extension", "version": "1.0", "manifest_version": 3, "browser_action": {"default_popup": "index.html", "default_title": "Vision | Time Tracking"}, "icons": {"16": "logo32.png", "48": "logo32.png", "128": "logo32.png"}}

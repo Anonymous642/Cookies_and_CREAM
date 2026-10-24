@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SystemD Extend Syllabus", "description": "Search Syllabus Extend for SystemD", "version": "1.0.0", "manifest_version": 3, "content_scripts": [{"matches": ["https://www5.fukuchiyama.ac.jp/Gakusei/web/Syllabus/WebSyllabusKensaku/UI/WSL_SyllabusKensaku.aspx"], "js": ["Sample.js"], "run_at": "document_end"}]}

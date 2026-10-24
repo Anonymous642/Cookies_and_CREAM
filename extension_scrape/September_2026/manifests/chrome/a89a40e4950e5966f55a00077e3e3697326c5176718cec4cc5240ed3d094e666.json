@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Local File Viewer", "version": "1.0", "description": "Local File Viewer: View local files (text/image).", "action": {"default_popup": "popup.html", "default_icon": "local_file_viewer.png"}, "icons": {"128": "local_file_viewer.png"}}

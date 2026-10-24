@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Newsbleed", "description": "Leave the filter bubble behind", "version": "1.0.4resigned1", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "content_scripts": [{"matches": ["https://www.facebook.com/*"], "css": ["newsbleed.css"]}], "browser_specific_settings": {"gecko": {"id": "{105c3ca7-07fe-4e47-8d8d-555eeb012ce9}"}}}

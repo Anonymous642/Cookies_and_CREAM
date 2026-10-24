@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "2.0", "name": "Warthunder Vehicle Code Grabber", "content_scripts": [{"matches": ["https://wiki.warthunder.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{174c3ddd-b47c-4e6c-9d1c-431ca1315e81}"}}}

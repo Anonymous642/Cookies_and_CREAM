@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NSFW Popup Remover", "version": "1.0", "description": "Eliminate the NSFW popup on sociopathcommunity.com for a smoother and distraction-free browsing experience", "content_scripts": [{"matches": ["*://*.sociopathcommunity.com/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{69799832-dbaf-4e33-8fa6-1c03489f497e}"}}}

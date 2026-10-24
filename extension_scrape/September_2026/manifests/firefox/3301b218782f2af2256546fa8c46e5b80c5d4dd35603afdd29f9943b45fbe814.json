@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NZ Herald Geo Bypass", "version": "1.0.2", "description": "Bypasses NZ Herald's geo-based paywall", "content_scripts": [{"matches": ["*://*.nzherald.co.nz/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "geo-bypass-nzherald@hotmail.com"}}, "applications": {"gecko": {"id": "X@Y"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Random Dice - Minimal", "version": "1.0.0", "description": "Roll a minimalist dice instantly in a popup. Offline, no permissions.", "action": {"default_title": "Random Dice", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

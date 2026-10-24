@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sparks", "version": "1.0", "description": "Add sparks of innovative inspiration to your day.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "icons": {"128": "icons/sparks_icon_128_128.png"}}

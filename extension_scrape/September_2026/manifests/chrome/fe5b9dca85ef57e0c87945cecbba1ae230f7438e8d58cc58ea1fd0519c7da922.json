@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HOLEEN", "version": "1.0.0", "description": "Fast arena assault game built for the Chrome Web Store.", "action": {"default_title": "HOLEEN", "default_popup": "popup.html"}}

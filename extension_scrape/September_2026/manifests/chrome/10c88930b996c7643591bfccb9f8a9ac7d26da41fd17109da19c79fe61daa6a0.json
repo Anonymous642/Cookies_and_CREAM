@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Arianna tab!", "version": "2.0.0", "description": "Just a tab for your browser to remind you that you're awesome!", "author": "Bilkins", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": [], "host_permissions": [], "icons": {"128": "icon128.png"}}

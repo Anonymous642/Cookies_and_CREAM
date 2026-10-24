@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Lens", "version": "1.0", "description": "A lightweight thinking lens extension.", "permissions": ["storage"], "action": {"default_popup": "src/popup/popup.html"}, "content_security_policy": {"extension_pages": "script-src 'self'; object-src 'self'"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Adblocker", "browser_specific_settings": {"gecko": {"id": "{5eb250cb-05fc-45a4-967f-a503e565aad5}", "strict_min_version": "109.0"}}, "version": "1.0.0", "description": "Personal Adblocker", "host_permissions": ["*://www.youtube.com/*"], "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["script.js"]}]}

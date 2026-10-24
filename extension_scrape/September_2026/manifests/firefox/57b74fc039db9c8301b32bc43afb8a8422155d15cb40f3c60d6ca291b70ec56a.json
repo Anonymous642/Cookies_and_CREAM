@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Conversion Unit", "version": "1.0", "description": "Helps switch between measurement units such as meters, feet, kilograms, pounds, etc.", "icons": {"48": "icon.png"}, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{d46d56e6-8552-4357-954d-e3566bfb3d2f}"}}}

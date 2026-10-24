@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Manisa Psikolog", "description": "Manisa'da psikolog hizmeteine ula\u015fmak i\u00e7in eklentimizi kullanabilirsiniz.", "version": "1.0", "manifest_version": 3, "action": {"default_title": "Manisa Psikolog", "default_icon": "logo.png", "default_popup": "plugin.html"}, "icons": {"128": "logo.png"}}

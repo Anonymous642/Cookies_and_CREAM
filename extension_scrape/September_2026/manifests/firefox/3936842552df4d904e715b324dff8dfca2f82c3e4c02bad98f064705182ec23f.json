@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Futuristic StartPage", "version": "2.0", "description": "Una p\u00e1gina de inicio futurista para tu navegador.", "browser_specific_settings": {"gecko": {"id": "dmfran16@gmail.com"}}, "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["storage"], "data_collection_policy": {"usage_statistics": false}}

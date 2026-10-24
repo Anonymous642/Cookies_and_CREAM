@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Archive This!", "version": "1.0", "description": "Quickly redirect the current tab to archive.is.", "author": "Alex Hoang", "permissions": ["tabs", "activeTab"], "action": {"default_title": "Archive This!"}, "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "shibanation", "version": "1.1resigned1", "description": "Adds a picture of nice shiba matching mozilla.org.", "icons": {"48": "icons/shibapure.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["theme"], "browser_specific_settings": {"gecko": {"id": "{12ecf86d-cad7-4669-ad12-6bcdba370a38}"}}}

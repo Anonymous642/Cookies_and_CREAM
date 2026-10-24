@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Cardsphere Helper", "version": "1.1.0", "description": "Highlights changed packages on Cardsphere", "permissions": ["storage", "*://*.cardsphere.com/*"], "content_scripts": [{"matches": ["*://*.cardsphere.com/send*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{ffc62a91-184b-41a4-a221-0c6c11883640}"}}}

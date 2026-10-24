@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "N\u00b0 de demaine", "description": "N\u00b0 de demaine", "version": "1.2", "manifest_version": 3, "action": {"default_popup": "popup/weekNum.html", "default_icon": "icons/weekNum.png"}}

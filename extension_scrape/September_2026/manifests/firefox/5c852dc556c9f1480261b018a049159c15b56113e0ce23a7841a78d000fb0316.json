@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HideIt", "version": "1.0", "description": "Hides the Hot Network Questions section in all webpages matching stackoverflow.com.", "icons": {"48": "icons/hide_image.png"}, "content_scripts": [{"matches": ["https://stackoverflow.com/*"], "js": ["hideit.js"]}], "browser_specific_settings": {"gecko": {"id": "{cc4dd815-3f21-4e05-8341-b8d8490c1e7c}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Music AutoStopBlocker", "version": "1.301", "description": "Stops the automatic stop function of Youtube Music", "icons": {"48": "icons/yt_img_48x48.png"}, "content_scripts": [{"matches": ["*://music.youtube.com/*"], "js": ["play.js"]}]}

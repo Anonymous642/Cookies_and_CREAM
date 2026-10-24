@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Simple Calculator", "version": "2.2", "icons": {"48": "icons/Icon.png"}, "browser_action": {"default_icon": "icons/Icon.png", "default_title": "Super Simple Calculator", "default_popup": "popup/Popup.html"}, "id": "org.simplecalculator.pto23jfk", "browser_specific_settings": {"gecko": {"id": "{bdc0f9d6-fb6d-403b-b37a-bd495f76996e}"}}}

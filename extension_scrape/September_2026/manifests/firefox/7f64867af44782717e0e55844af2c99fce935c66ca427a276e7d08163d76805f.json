@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MS Stream - Sort by Date", "version": "1.0", "description": "Sort by Publish Date in Microsoft Stream by default.", "icons": {"48": "icon-48.png", "96": "icon-96.png"}, "content_scripts": [{"matches": ["*://web.microsoftstream.com/group/*"], "js": ["content.js"], "run_at": "document_end"}]}

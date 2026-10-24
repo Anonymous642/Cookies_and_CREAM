@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Emoji Go", "description": "Modern Emoji Extension for Chrome", "version": "2.0.0", "icons": {"128": "assets/img/icon_128.png"}, "action": {"default_icon": "assets/img/icon.png", "default_popup": "index.html"}, "permissions": ["activeTab", "clipboardWrite", "storage", "scripting"]}

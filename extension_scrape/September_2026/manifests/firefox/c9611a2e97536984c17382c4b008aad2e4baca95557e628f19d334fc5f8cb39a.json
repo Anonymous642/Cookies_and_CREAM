@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Songsterr-plus-adblock", "version": "1.1", "description": "Removes Songsterr ads from tabs asking you to buy Songsterr Plus.", "content_scripts": [{"matches": ["*://*.songsterr.com/a/wsa/*"], "js": ["songsterr-plus-adblock.js"]}], "browser_specific_settings": {"gecko": {"id": "{785e5f6c-4c5e-4503-a76b-da8f5ccf2c60}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SlotSearch", "version": "7.1.8", "permissions": [], "action": {}, "content_scripts": [{"matches": ["https://ebrama.baltichub.com/*"], "js": ["content.js"]}]}

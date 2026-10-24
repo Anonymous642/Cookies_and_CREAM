@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DragID", "version": "1.0", "description": "Identifies eggs in Dragon Cave.", "icons": {"48": "img/egg.gif"}, "content_scripts": [{"matches": ["*://*.dragcave.net/locations/*"], "js": ["dragid.js"]}], "browser_specific_settings": {"gecko": {"id": "dragid@void-star.net"}}}

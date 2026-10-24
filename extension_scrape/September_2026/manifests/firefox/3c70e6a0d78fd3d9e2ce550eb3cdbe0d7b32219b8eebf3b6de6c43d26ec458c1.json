@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My Jupyter Notebook", "version": "1.1resigned1", "description": "Customization of Jupyter Notebooks", "content_scripts": [{"matches": ["*://*/notebooks/*"], "js": ["dark.js"]}], "browser_specific_settings": {"gecko": {"id": "{5333fd34-e07c-42d0-a670-fba58e2c1630}"}}}

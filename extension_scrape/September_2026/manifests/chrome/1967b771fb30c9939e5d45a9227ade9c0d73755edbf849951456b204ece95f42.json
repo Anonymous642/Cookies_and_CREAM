@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "App Diagramas", "version": "0.1.0", "description": "Creaci\u00f3n de Diagramas para Ingenier\u00eda Industrial", "action": {"default_popup": "index.html"}, "permissions": ["storage"], "icons": {"128": "images/icon-128.png"}}

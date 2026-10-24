@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Open GC Tips", "version": "1.0", "manifest_version": 3, "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["*://sketchup.cgtips.org/*", "*://link.cgtips.org/*"], "js": ["script.js"]}], "action": {"default_title": "Open GC Tips"}}

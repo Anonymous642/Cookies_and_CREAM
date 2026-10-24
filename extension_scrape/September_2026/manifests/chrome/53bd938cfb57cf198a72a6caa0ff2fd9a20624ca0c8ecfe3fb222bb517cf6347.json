@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute Currency Converter", "version": "1.0.0", "description": "A cute, offline currency converter using a user-set exchange rate.", "action": {"default_title": "Currency Converter", "default_popup": "popup.html"}, "permissions": ["storage"], "icons": {"128": "icon128.png"}}

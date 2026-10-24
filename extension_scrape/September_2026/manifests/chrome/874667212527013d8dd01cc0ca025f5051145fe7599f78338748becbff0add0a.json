@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tabela Kanban", "version": "1.0", "description": "Tabela Kanban", "content_scripts": [{"matches": ["https://*.inhire.app/*", "https://inhire.app/*"], "js": ["content.js"], "css": ["styles.css"]}], "icons": {"48": "icon.png"}}

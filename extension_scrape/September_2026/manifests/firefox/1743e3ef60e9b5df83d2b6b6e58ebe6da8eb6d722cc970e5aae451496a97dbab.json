@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hello World Addon", "version": "1.0", "description": "M\u1ed9t addon demo hi\u1ec3n th\u1ecb th\u00f4ng b\u00e1o Hello World.", "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{c7419bef-ee51-484c-bd93-02e2d8af76a0}"}}}

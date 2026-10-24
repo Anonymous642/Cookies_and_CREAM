@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Webflow Admin Dark Mode & UI", "version": "1.1", "description": "Adds dark mode to the Webflow Admin and a number of UI improvements", "content_scripts": [{"matches": ["https://webflow.com/dashboard/*"], "css": ["content.css"], "run_at": "document_idle"}]}

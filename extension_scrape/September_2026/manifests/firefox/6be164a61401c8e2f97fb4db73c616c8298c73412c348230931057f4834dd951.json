@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "k3d Viewer", "version": "1.0.0", "description": "Simple local 3D viewer for .obj and simple JSON meshes (no external GitHub references).", "permissions": ["activeTab", "storage"], "browser_action": {"default_title": "k3d Viewer", "default_popup": "viewer.html"}, "applications": {"gecko": {"id": "k3d-viewer@example.com"}}}

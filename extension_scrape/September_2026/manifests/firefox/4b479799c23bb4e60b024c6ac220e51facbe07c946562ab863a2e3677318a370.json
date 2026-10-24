@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Link Extractor", "version": "1.0", "description": "Link Extractor: List all page links.", "action": {"default_popup": "popup.html", "default_icon": "link_extractor.png"}, "icons": {"128": "link_extractor.png"}, "browser_specific_settings": {"gecko": {"id": "jeffreyrobinson8655@outlook.com", "data_collection_permissions": {"required": ["none"]}}}}

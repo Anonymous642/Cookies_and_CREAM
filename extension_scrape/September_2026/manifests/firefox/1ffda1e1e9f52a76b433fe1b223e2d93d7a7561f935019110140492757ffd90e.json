@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SpendWise", "version": "1.0", "description": "A simple spending tracker extension for managing your daily expenses.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{60edd65d-964a-421f-9365-316ec3e407c8}"}}}

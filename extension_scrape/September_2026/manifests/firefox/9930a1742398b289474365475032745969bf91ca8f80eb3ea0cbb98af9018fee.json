@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "burningwhee1s links", "version": "1.1resigned1", "description": "provides links for all videos on burningwhee1s", "content_scripts": [{"matches": ["*://burningwhee1s.blogspot.com/*"], "js": ["replace.js"]}], "browser_specific_settings": {"gecko": {"id": "{6f9236b4-556a-417c-89cd-b67389c0e239}"}}}

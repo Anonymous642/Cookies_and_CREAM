@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Random YOPMail", "version": "1.0", "manifest_version": 3, "description": "Right-click on a form field to insert a random YOPmail address.", "permissions": ["contextMenus", "scripting", "activeTab"], "background": {"service_worker": "background.js"}}

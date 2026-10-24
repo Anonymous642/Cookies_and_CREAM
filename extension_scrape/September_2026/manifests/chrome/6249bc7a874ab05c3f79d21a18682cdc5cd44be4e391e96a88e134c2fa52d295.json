@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "URL Collector for NotebookLM", "version": "1.0", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}, "icons": {"128": "icons/url_collector_icon_128.png"}, "default_locale": "en"}

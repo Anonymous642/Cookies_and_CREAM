@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "startrekrebellion", "description": "all your startrek needs in one place", "version": "1.0", "manifest_version": 2, "icons": {"128": "desktop128.png"}, "app": {"urls": ["http://www.STARTREKREBELLION.NET/"], "launch": {"web_url": "http://www.STARTREKREBELLION.NET/"}}}

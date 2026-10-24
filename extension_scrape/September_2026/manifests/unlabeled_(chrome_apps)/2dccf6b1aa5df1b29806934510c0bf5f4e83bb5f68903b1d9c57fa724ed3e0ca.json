@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Push Guestbook Sample", "version": "1.23", "manifest_version": 2, "description": "Displays the last post to an anonymous guestbook using push messaging", "app": {"background": {"scripts": ["Guestbook.js", "background.js"]}}, "permissions": ["http://localhost:8080/monitor", "pushMessaging"]}

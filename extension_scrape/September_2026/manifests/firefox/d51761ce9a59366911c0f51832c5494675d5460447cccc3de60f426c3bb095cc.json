@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Wide-Le-Chat", "version": "1.2", "description": "Scale Le-Chat output (by Mistral.ai) to 100% width.", "browser_specific_settings": {"gecko": {"id": "{117c7fcb-885a-4c0a-b530-7a04e34e4ff0}"}}, "permissions": [], "content_scripts": [{"matches": ["*://*.chat.mistral.ai/*"], "js": ["content.js"]}]}

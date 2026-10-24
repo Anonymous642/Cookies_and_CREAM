@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Rainbowz", "version": "2resigned1", "description": "Turns everything into rainbows", "icons": {"96": "icon.svg"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["rainbowz.js"]}], "browser_specific_settings": {"gecko": {"id": "{8bf79aee-02fc-4e65-8b1b-c7859995c74a}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "debet1cncom", "version": "1.0", "description": "Firefox extension \u2013 AMO compliant", "browser_specific_settings": {"gecko": {"id": "debet1cncom@amo", "data_collection_permissions": {"required": ["none"], "optional": []}}}}

@@ -1,0 +1,1 @@
+{"name": "Old Rustlang Redirect", "description": "Ensure Rustlang always loads the old design", "version": "2resigned1", "manifest_version": 2, "background": {"scripts": ["background.js"]}, "permissions": ["webRequest", "webRequestBlocking", "*://rust-lang.org/*", "*://www.rust-lang.org/*"], "browser_specific_settings": {"gecko": {"id": "{c6d13d0a-4061-44c3-90fc-f6ad74216b24}"}}}

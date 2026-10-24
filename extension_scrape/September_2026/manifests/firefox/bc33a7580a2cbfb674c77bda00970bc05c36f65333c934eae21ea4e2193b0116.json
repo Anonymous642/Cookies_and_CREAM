@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Zwin OnLive", "version": "1.1resigned1", "description": "Soyez au courant de chaque stream de Zwin !", "browser_action": {"default_popup": "index.html"}, "icons": {"112": "img/iconOn.png"}, "background": {"scripts": ["jquery.js", "background.js"]}, "browser_specific_settings": {"gecko": {"id": "{c20c45c2-c163-4475-8398-a5e5644af754}"}}}

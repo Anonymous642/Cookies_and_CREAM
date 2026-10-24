@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Real-Time BTC-USD Converter", "description": "A sleek Chrome extension for real-time conversion between BTC and USD with live exchange rates.", "version": "1.5", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

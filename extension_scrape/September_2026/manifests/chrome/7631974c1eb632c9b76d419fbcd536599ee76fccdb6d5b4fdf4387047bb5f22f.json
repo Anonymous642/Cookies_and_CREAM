@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Read Aloud Webpage", "version": "1.0", "description": "Read Aloud Webpage: Listen to any webpage.", "action": {"default_popup": "popup.html", "default_icon": "read_aloud_webpage.png"}, "icons": {"128": "read_aloud_webpage.png"}}

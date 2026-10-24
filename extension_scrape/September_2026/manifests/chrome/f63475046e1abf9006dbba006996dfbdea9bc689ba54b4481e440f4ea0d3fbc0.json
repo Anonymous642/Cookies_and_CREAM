@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "LinkMingler Chrome extension", "description": "-", "version": "1", "manifest_version": 3, "background": {"service_worker": "background.js"}, "permissions": ["cookies"], "host_permissions": ["<all_urls>"], "externally_connectable": {"matches": ["*://*.linkmingler.com/*", "*://localhost/*"]}}

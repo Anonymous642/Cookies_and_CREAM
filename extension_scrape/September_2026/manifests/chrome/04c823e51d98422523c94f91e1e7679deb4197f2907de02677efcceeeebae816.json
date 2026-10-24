@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Dinks New Tab", "version": "3.0.0", "description": "All your bookmarks on display!", "permissions": ["bookmarks"], "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"16": "favicon.png", "48": "favicon.png", "128": "favicon.png"}}

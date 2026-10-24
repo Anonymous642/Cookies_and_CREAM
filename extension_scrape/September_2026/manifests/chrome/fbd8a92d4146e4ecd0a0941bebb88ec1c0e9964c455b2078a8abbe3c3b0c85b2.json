@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "One Click Tab Summarizer", "version": "1.0", "description": "Summarize the current tab in one click.", "permissions": ["scripting", "activeTab"], "action": {"default_popup": "popup.html"}, "background": {}, "host_permissions": ["<all_urls>"], "icons": {"48": "favicon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "JSON Pretty Printer", "description": "Pretty Printer for JSON expression", "version": "0.0.1", "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "images/icon_16.png", "128": "images/icon.png"}, "permissions": []}

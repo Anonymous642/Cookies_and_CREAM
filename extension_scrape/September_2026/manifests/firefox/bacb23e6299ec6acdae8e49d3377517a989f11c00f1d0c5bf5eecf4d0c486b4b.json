@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MYR to IDR Converter", "version": "1.0", "description": "Convert Malaysian Ringgit (MYR) to Indonesian Rupiah (IDR).", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/"], "browser_specific_settings": {"gecko": {"id": "{4149594c-b984-4bc0-b437-f4725f594df8}"}}}

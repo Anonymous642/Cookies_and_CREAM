@@ -1,0 +1,1 @@
+{"name": "e621Bark", "description": "", "version": "1.1", "manifest_version": 2, "content_scripts": [{"matches": ["https://e621.net/posts/*"], "js": ["uploader.js"], "run_at": "document_end"}], "permissions": ["<all_urls>", "tabs", "webRequest"], "browser_specific_settings": {"gecko": {"id": "{81009561-e1b2-4561-b388-c21c2270cc19}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "IMDB Button", "version": "1.01", "description": "Add a button to IMDB pages", "permissions": ["storage"], "action": {"default_popup": "popup.html"}, "content_scripts": [{"js": ["scripts/content.js"], "matches": ["*://*.imdb.com/*"]}]}

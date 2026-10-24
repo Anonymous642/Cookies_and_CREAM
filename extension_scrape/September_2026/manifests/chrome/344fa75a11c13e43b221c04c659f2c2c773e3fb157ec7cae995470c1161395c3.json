@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tech Terms Explorer", "version": "1.0.0", "description": "Discover simple technology term definitions in a modern popup interface.", "icons": {"128": "icon128.png"}, "action": {"default_popup": "popup.html", "default_title": "Tech Terms Explorer"}}

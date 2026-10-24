@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Goku Ad Blocker", "description": "Blocks Goku From Opening A New Tab. It Does Not Collect Any Data.", "version": "1.0", "background": {"service_worker": "service-worker.js"}, "permissions": ["tabs"]}

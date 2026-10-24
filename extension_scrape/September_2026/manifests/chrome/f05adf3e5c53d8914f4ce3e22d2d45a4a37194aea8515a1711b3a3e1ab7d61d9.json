@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "N", "description": "Minimalist and simple full-tab notepad for distraction-free writing.", "version": "1.5", "permissions": ["storage"], "action": {"default_title": "Open N", "default_icon": "icon.png"}, "background": {"service_worker": "background.js"}, "icons": {"128": "icon.png"}}

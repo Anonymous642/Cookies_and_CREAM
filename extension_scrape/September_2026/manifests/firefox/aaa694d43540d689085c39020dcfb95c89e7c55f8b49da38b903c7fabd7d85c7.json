@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Vimeo Captions", "version": "1.0", "description": "A simple tool to add, edit, and view community-generated captions for Vimeo videos.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "applications": {"gecko": {"id": "vimeo_caption_assistant@example.com"}}}

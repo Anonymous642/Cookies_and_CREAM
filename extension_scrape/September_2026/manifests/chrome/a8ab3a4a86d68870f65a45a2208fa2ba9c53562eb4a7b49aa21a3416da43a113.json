@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "S-Quick Save", "version": "1.0", "description": "Copy Full Page HTML with one click", "permissions": ["activeTab", "scripting", "tabs", "windows", "contextMenus"], "host_permissions": ["https://*/*", "http://*/*"], "background": {"service_worker": "background.js"}, "action": {}}

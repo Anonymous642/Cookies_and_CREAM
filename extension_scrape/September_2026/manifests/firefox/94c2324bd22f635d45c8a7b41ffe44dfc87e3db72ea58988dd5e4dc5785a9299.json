@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Meme Generator", "version": "1.0", "description": "Quickly create memes from a popup.", "icons": {"48": "icon.png"}, "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{e6e2dd3a-31fe-4f57-a21f-db319dde9c1b}"}}}

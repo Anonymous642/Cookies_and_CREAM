@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Chat Extension", "version": "1.0", "description": "Shows a chat button and opens a side tab with a website.", "action": {"default_icon": "icon.png"}, "permissions": ["scripting", "activeTab"], "host_permissions": ["<all_urls>"], "background": {"service_worker": "background.js"}}

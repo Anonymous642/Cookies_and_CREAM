@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SmashingDocs - Free Google Docs Templates and Printables", "version": "1.0", "description": "Quick access to free templates on SmashingDocs.com.", "host_permissions": ["https://smashingdocs.com/*"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MNT to MGA Converter", "version": "1.0", "description": "Convert Mongolian Tugrik (MNT) to Malagasy Ariary (MGA).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert MNT to MGA"}, "browser_specific_settings": {"gecko": {"id": "{86401d14-3d1b-4d25-af72-154e0ada5b1e}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "0.3.1", "name": "__MSG_extensionName__", "description": "__MSG_description__", "author": "eight", "permissions": ["contextMenus", "activeTab", "storage"], "background": {"scripts": []}, "browser_specific_settings": {"gecko": {"id": "popup-tab@eight14.blogspot.com"}}, "commands": {"popupTab": {"description": "Popup tab/merge popup"}}}

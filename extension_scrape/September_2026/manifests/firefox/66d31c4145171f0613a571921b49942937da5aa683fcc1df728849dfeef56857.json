@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Surah Yaseen Audio Player", "version": "1.0", "description": "A simple extension to listen to Surah Yaseen", "icons": {"48": "icon.png"}, "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{f962af47-55b9-4d98-88de-0a0190e1493c}"}}}

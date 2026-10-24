@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "0.0.1", "name": "Web Query Runner and Downloader", "description": "An extension that runs web searches in your browser and downloads the results automatically.", "action": {"default_popup": "index.html", "default_icon": "koala.png"}, "permissions": ["downloads"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Random Color Pop", "icons": {"16": "color_16.png", "32": "color_32.png", "48": "color_48.png", "128": "color_128.png"}, "version": "1.0.1", "action": {"default_title": "Random Color", "default_popup": "popup.html"}}

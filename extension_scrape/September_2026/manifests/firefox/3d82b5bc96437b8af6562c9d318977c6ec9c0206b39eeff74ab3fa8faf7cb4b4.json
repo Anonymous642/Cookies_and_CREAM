@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Renamer", "version": "1.0", "description": "Rename your current browser tab.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{c5f81d6f-7475-41be-953a-2cef7d25843a}"}}}

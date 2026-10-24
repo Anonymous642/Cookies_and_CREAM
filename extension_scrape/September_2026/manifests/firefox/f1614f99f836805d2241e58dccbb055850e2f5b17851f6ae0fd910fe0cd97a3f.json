@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Video Start-End Notifier", "version": "1.0", "description": "Videonun ba\u015flang\u0131c\u0131n\u0131 ve biti\u015fini alg\u0131lar, alert ile g\u00f6sterir.", "permissions": ["tabs"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "applications": {"gecko": {"id": "video.alert@kanka"}}}

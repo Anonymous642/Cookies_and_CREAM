@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Harmony Accountants", "version": "1.0", "description": "Official quick access tool for YourBrand. Visit https://harmonyaccountants.com for full features.", "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "info@harmonyaccountants.com", "data_collection_permissions": {"required": ["none"]}}}}

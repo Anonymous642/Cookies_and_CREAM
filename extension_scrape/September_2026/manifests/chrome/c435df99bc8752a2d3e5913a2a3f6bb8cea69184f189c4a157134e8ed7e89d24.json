@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mass and Balance Calculator", "version": "1.2", "description": "Calculate drone mass and CG from front and rear scales, and copy results.", "permissions": ["storage", "clipboardWrite"], "action": {"default_title": "Mass and Balance Calculator", "default_popup": "popup.html"}}

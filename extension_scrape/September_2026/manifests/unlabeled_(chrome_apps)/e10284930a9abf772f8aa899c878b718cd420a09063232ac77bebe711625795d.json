@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Assign Tasks3", "version": "1", "app": {"background": {"scripts": ["main.js"]}}, "icons": {"16": "icon128.png", "128": "icon128.png"}, "permissions": ["storage", "pushMessaging"]}

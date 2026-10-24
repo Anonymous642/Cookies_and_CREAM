@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Block Youtube frontpage Shorts", "description": "This extension removes the Shorts section of Youtube frontpage video feed.", "version": "1.0", "content_scripts": [{"matches": ["https://www.youtube.com/"], "js": ["shortsHider.js"]}], "browser_specific_settings": {"gecko": {"id": "{6dae31f5-4ef7-4913-8887-6105c50eeace}"}}}

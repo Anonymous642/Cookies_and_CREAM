@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "My Temp", "description": "Current Weather Data", "version": "1.1", "permissions": ["geolocation"], "host_permissions": ["http://api.weatherapi.com/v1"], "action": {"default_popup": "popup.html", "default_icon": "icons/main128.png"}}

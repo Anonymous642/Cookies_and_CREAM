@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UA Header Spoofer", "version": "1.0", "description": "Spoof User-Agent via HTTP header", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "data-ebah@gmail.com", "data_collection_permissions": {"required": ["none"], "optional": []}}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Van m\u00e1sik! Index -> Telex", "version": "1.1", "description": "\u00c1tir\u00e1ny\u00edt\u00e1s a r\u00e9gi index.hu-r\u00f3l a Telex oldal\u00e1ra", "icons": {"48": "res/icon_48.png", "96": "res/icon_96.png"}, "content_scripts": [{"matches": ["*://*.index.hu/*"], "js": ["index.js"], "css": ["index.css"]}]}

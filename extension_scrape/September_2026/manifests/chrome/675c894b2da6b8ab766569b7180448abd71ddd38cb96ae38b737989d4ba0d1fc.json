@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouSpeed", "description": "Control the YouTube video speed with the mouse wheel", "version": "1.0.1", "icons": {"128": "images/icon128.png"}, "content_scripts": [{"matches": ["https://www.youtube.com/"], "js": ["js/contentScript.js"]}]}

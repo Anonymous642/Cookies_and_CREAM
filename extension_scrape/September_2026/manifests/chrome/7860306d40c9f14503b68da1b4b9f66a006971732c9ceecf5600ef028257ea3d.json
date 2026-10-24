@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tactical PIN Generator (4/6 Digits)", "version": "1.0.0", "description": "Generate secure 4-digit or 6-digit PIN codes instantly, offline, with a military-style interface.", "action": {"default_title": "PIN Generator", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

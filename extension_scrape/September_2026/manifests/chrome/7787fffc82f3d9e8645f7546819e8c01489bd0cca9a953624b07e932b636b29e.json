@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple Image Extractor", "version": "1.0", "description": "A simple image source extractor.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "Frontend/index.html"}}

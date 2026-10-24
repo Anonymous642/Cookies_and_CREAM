@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Midnight Reflection", "version": "1.0.0", "description": "Brings a sense of mystery and tranquility with the image of an old house", "icons": {"128": "icon-128.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{84b0578b-7074-422e-a2b1-0ccff7e7c2a5}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ahrefs Traffic Checker", "version": "1.0", "description": "Quick traffic check using Ahrefs", "permissions": ["activeTab", "tabs"], "browser_action": {"default_icon": {"48": "icons/icon-48.png"}}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{86817826-1f15-4ac1-9d53-0f13368a91ef}"}}}

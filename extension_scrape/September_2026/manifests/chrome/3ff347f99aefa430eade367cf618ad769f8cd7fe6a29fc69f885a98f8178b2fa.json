@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Unit Converter", "version": "1.0.0", "description": "Convert temperature, length, weight, and speed between metric and imperial units.", "action": {"default_popup": "index.html", "default_title": "Unit Converter", "default_icon": "convert.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Video Call Simplifier", "version": "1.0", "description": "One-click to start secure family video calls.", "permissions": ["tabs"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{a591b38a-8f66-44c9-a93b-1572628bd6d2}"}}}

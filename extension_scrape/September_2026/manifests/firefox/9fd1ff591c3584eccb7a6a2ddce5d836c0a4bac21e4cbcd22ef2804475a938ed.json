@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Deezer fixer (adblock and premium)", "description": "Remove the \"anti-adblock\" and \"subscribe\" banners", "version": "1.0.1", "icons": {"512": "icon.png"}, "content_scripts": [{"matches": ["*://*.deezer.com/*"], "js": ["jquery.min.js", "deezer.js"]}]}

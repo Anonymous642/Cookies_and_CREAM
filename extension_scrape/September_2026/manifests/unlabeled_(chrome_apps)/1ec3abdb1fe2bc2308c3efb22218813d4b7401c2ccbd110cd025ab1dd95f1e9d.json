@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Time", "description": "description", "version": "1.1", "manifest_version": 2, "icons": {"16": "time-16.jpg", "128": "time-128.jpg"}, "app": {"background": {"scripts": ["lib/minimatch.js", "lib/spoke.js", "background.js"]}}}

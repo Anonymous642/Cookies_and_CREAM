@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Arcade Catalogue Pro", "version": "2.0", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage"], "web_accessible_resources": [{"resources": ["wingdings3.ttf", "cookie.png"], "matches": ["<all_urls>"]}]}

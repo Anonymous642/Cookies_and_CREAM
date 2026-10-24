@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Whisper", "version": "1.0", "description": "Hi\u1ec3n th\u1ecb m\u1eb9o s\u1ed1ng t\u00edch c\u1ef1c ho\u1eb7c c\u00e2u danh ng\u00f4n khi m\u1edf tab m\u1edbi (offline).", "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{35eea135-790e-4045-b9b1-eddc1dcb8524}"}}}

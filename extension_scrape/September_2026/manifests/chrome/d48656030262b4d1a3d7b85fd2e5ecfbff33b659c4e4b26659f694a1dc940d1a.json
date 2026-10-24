@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "hide-tenhou-rankpt", "version": "0.1.0", "description": "Hide Tenhou rank point display.", "content_scripts": [{"matches": ["https://tenhou.net/3/*", "https://tenhou.net/4/*"], "js": ["content/content.js"], "css": ["content/hide-rankpt.css"], "run_at": "document_idle"}]}

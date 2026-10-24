@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Breath Reminder Tab", "version": "1.0", "description": "Nh\u1eafc nh\u1edf h\u00edt th\u1edf s\u00e2u m\u1ed7i khi m\u1edf tab m\u1edbi.", "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{4b64dedc-ae60-4bf3-999b-91ca16aede57}"}}}

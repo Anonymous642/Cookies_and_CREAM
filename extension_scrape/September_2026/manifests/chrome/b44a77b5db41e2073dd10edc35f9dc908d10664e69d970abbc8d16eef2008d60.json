@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "YouAdMute", "short_name": "YouAdMute", "description": "Automatically mute and skip YouTube video ads", "version": "0.3.0", "manifest_version": 3, "icons": {"128": "logo.png"}, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["inject.js"], "css": ["inject.css"]}]}

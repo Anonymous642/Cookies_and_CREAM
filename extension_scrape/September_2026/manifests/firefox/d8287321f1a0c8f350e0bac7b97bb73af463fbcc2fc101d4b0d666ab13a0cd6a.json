@@ -1,0 +1,1 @@
+{"name": "Analog Percent Clock", "version": "1.2resigned1", "description": "Single-hand clock showing percentage of today that's already gone", "manifest_version": 2, "icons": {"128": "icon.png"}, "chrome_url_overrides": {"newtab": "clock.html"}, "browser_specific_settings": {"gecko": {"id": "{f9e6079c-35cc-4420-b617-ae933b99494f}"}}}

@@ -1,0 +1,1 @@
+{"version": "1.0", "name": "Warrior's Dawn", "chrome_url_overrides": {"newtab": "index.html"}, "description": "A warrior with a torch in a mystical, icy landscape", "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{ce5d034d-1dc3-49d3-9927-ec4fe40c4757}"}}}

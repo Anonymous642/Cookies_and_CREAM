@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hoeren", "version": "1.1", "description": "republik.ch hoeren", "icons": {"180": "republik.png"}, "content_scripts": [{"matches": ["https://www.republik.ch/*"], "js": ["hoeren.js"]}], "permissions": ["https://hoeren.nitcorn.ch/*"]}

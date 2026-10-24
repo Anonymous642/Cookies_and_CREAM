@@ -1,0 +1,1 @@
+{"dictionaries": {"technical---MathSpell": "dictionaries/MathSpell.dic"}, "version": "1.0.9", "browser_specific_settings": {"gecko": {"id": "@MathSpell"}}, "name": "MathSpell", "description": "A dictionary with added emphasis on mathematical terminology, for use with Firefox's inline spell checker.", "manifest_version": 2}

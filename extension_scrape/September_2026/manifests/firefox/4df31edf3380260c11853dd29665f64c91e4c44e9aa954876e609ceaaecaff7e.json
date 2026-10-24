@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "4chan Reply Sort", "version": "1.0", "description": "Sorts 4chan threads to have the posts with most replies at the top", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://boards.4chan.org/*/thread/*"], "js": ["cont_sort.js"]}], "browser_specific_settings": {"gecko": {"id": "{bbaaec24-677f-4527-8845-61ce91a872a6}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "nVichy", "version": "1.0.0", "description": "Troca todas as imagens do site por fotos da Vichy.", "content_scripts": [{"matches": ["*://*/*"], "js": ["nVichy.js"], "run_at": "document_end"}], "permissions": [], "host_permissions": ["*://*/*"]}

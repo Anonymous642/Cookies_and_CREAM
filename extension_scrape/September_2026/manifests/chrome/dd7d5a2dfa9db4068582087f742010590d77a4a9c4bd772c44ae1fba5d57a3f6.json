@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Unix Timestamp Converter", "version": "1.0.0", "description": "Convert Unix timestamps and readable date time values in a simple popup tool.", "action": {"default_popup": "popup.html", "default_title": "Unix Timestamp Converter"}, "icons": {"128": "icon128.png"}}

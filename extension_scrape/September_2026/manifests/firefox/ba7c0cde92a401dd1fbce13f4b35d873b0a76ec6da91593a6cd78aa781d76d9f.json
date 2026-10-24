@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tiktok Name Replacer", "version": "1.0", "description": "Replaces counterparty name with Tiktok Shop Seller", "permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["script.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{772dec60-c6b8-4029-b8bc-b76e2f5a9c51}"}}}

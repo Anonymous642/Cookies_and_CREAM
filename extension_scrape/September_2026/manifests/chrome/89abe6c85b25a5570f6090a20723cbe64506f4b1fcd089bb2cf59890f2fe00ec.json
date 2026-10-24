@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Force White Background", "version": "1.0", "description": "Forces all websites to have a white background and black text.", "permissions": [], "background": {"service_worker": "background.js"}, "content_scripts": [{"matches": ["https://obsproject.com/*"], "css": ["styles.css"]}]}

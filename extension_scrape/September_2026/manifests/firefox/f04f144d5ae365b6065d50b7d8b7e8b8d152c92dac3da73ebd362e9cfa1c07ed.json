@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Custom 404 Page Notifier", "version": "1.0", "description": "Notifies users when they encounter a 404 page.", "permissions": ["tabs", "webNavigation"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "custom_404_page_notifier_extension@gmail.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HideXCrowd", "version": "0.0.1", "description": "Hide and show followers count on X", "permissions": ["activeTab"], "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["https://x.com/*"], "js": ["content.js"]}]}

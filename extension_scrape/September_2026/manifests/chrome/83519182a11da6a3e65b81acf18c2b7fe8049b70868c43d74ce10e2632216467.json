@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cookie \u7ba1\u7406\u5668", "version": "1.0", "description": "\u5c55\u793a\u3001\u5bfc\u51fa\u548c\u5bfc\u5165\u5f53\u524d\u9875\u9762\u7684cookie", "permissions": ["cookies"], "host_permissions": ["<all_urls>"], "action": {"default_popup": "popup.html"}}

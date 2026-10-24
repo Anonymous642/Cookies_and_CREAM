@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Screen Time Tracker", "version": "1.0", "description": "Track time spent on different websites with alerts", "permissions": ["storage", "tabs", "activeTab", "notifications"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html"}}

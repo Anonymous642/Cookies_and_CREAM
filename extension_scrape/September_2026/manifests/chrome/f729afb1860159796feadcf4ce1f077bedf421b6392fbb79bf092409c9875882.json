@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Minimalist Tab Extension", "version": "1.0", "description": "The most minimal tab extension.", "author": "Archit Mahajan", "chrome_url_overrides": {"newtab": "index.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "USD to BOB Converter", "version": "1.0", "description": "Convert US Dollars (USD) to Bolivian Boliviano (BOB) instantly.", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/*"], "browser_specific_settings": {"gecko": {"id": "{e5b415cc-79e6-436a-a8c3-01276855f668}"}}}

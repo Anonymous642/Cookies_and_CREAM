@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Transparent HBO Overlays", "version": "1.2", "content_scripts": [{"matches": ["https://*.hbomax.com/*"], "css": ["overlay.css"]}]}

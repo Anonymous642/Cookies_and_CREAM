@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hosil Qabuli Helper", "version": "1.0", "description": "Hosil Qabuli sahifasida INN tahlilchi paneli", "permissions": ["activeTab", "scripting"], "content_scripts": [{"matches": ["https://hosil-qabuli.uz/cotton/clusters/*"], "js": ["content.js"]}]}

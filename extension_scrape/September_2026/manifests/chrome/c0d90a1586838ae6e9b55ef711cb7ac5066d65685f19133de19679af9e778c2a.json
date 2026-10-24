@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Kad\u0131k\u00f6y Psikolog Bul", "description": "Kad\u0131k\u00f6y'deki psikologlar\u0131 kolayca Google Maps'te ara.", "version": "1.0", "action": {"default_popup": "popup.html", "default_icon": {"128": "icons/icon128.png"}}, "permissions": []}

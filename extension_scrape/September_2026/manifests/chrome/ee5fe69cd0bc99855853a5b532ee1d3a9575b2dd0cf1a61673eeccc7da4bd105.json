@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Meeting notes", "version": "1.2", "description": "A simple notes manager", "action": {"default_popup": ""}, "permissions": ["storage"], "background": {"service_worker": "background.js"}, "icons": {"48": "logo.png", "128": "logo.png"}}

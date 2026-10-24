@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gusto Time Converter", "version": "1.11", "description": "Converts time format to decimal for Gusto time entries", "permissions": ["storage"], "content_scripts": [{"matches": ["*://*.gusto.com/*"], "js": ["content.js"]}], "options_page": "options.html"}

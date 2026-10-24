@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "x.com Profile Notes", "version": "1.2", "permissions": ["storage"], "content_scripts": [{"matches": ["https://x.com/*", "https://twitter.com/*"], "js": ["content.js"]}]}

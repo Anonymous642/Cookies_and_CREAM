@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SteemClicker", "version": "1.1resigned1", "description": "Automates tedious upvoting on user Steemit feed.", "icons": {"48": "icons/icon.png", "96": "icons/icon.png"}, "content_scripts": [{"matches": ["*://steemit.com/*"], "js": ["steemclicker.js"]}], "browser_specific_settings": {"gecko": {"id": "{22958bcd-c437-4508-a4d5-349e454daf2f}"}}}

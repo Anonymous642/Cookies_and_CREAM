@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "description": "Connect your favorite apps and automate your workflow.", "icons": {"128": "icon_128.png"}, "version": "0.0.0.2", "app": {"launch": {"web_url": "https://www.integromat.com/"}, "urls": ["https://www.integromat.com/"]}, "manifest_version": 2, "name": "Integromat"}

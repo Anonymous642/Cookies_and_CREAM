@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Tab Nest", "version": "1.0", "description": "Tab Nest: Organize your tabs easily", "action": {"default_popup": "popup.html", "default_icon": "tab_nest.png"}, "icons": {"128": "tab_nest.png"}, "browser_specific_settings": {"gecko": {"id": "moshejcap425796@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

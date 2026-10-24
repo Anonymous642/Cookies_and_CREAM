@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TightBar \u2013 Slim & Dark Scrollbar", "version": "1.0", "description": "Makes the scrollbar smaller & dark (those who know\ud83e\udd6d)", "content_scripts": [{"matches": ["<all_urls>"], "css": ["styles.css"]}]}

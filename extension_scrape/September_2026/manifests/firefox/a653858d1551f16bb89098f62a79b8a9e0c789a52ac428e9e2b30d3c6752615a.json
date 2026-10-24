@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Show List Totals on Trello Boards", "version": "0.1.0", "description": "This extension calculates and displays the total number of cards in each list on Trello boards", "content_scripts": [{"css": ["styles.css"], "matches": ["https://trello.com/b/*"]}], "browser_specific_settings": {"gecko": {"id": "{8deeeace-e687-4a4f-a2e2-664d193d8ed3}"}}}

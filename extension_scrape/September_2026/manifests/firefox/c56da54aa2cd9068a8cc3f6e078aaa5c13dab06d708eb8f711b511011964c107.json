@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Rich Lookup Blocker", "version": "1.0", "description": "Warns you when you search something with 'rich'.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["inline.js"]}], "browser_specific_settings": {"gecko": {"id": "{32532ed1-a593-4c35-bc3f-42623e5f2bec}"}}}

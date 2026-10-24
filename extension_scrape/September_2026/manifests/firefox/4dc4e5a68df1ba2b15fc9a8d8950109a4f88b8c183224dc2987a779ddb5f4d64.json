@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Meeting Scheduler", "version": "0.1", "browser_action": {"default_icon": "logo512.png", "default_popup": "index.html"}, "background": {"scripts": ["background.js"]}, "icons": {"64": "favicon.ico", "128": "logo128.png", "512": "logo512.png"}}

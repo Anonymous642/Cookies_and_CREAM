@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.0.0", "name": "Hide YouTube Shorts", "description": "Super simple extension to stop shorts displaying in YouTube to try and help productivity", "content_scripts": [{"matches": ["https://*.youtube.com/*"], "js": ["scripts/yt.js"]}]}

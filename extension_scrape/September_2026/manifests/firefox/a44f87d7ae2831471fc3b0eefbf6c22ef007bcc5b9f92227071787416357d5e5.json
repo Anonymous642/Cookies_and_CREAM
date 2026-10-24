@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reddit Top-Level Comment Navigator", "version": "0.1", "description": "Easily skip to the next top-level comment on any Reddit thread", "content_scripts": [{"matches": ["*://*.reddit.com/r/*/comments/*"], "js": ["reddit-comment-skipper.js"]}], "browser_specific_settings": {"gecko": {"id": "{a2935a90-f343-446f-8fc6-c2eb2db47657}"}}}

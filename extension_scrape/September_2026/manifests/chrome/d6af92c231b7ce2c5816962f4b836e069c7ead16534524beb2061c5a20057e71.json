@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute Animal Email Signature Maker", "version": "1.0.0", "description": "Create simple, cute animal-themed email signature templates directly in your browser.", "icons": {"128": "icon128.png"}, "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}}

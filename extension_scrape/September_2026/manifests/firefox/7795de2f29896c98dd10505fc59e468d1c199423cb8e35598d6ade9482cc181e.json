@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Open Website Addon", "version": "1.0", "description": "Addon m\u1edf nhanh website y\u00eau th\u00edch ch\u1ec9 b\u1eb1ng 1 click.", "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{9997fd23-c50a-4c07-ba7a-32cba3e2b0a5}"}}}

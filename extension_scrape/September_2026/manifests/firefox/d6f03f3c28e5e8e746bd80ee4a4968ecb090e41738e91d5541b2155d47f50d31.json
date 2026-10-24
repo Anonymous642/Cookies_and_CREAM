@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83e\uddee Tip Calculator", "version": "1.0", "description": "Quickly calculate tip amount from total and percentage.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "yadendabidif3h@hotmail.com"}}}

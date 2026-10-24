@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute Image Counter", "version": "1.0.0", "description": "Counts how many images are on the current webpage.", "action": {"default_title": "Cute Image Counter", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}, "permissions": ["activeTab", "scripting"]}

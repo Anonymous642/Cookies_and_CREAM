@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Meme Quote Generator (Simple)", "version": "1.0.0", "description": "Create simple quote memes from your images and download as PNG.", "action": {"default_title": "Meme Quote Generator", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

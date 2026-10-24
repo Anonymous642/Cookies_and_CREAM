@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ancient Game Name Scroll", "version": "1.0.0", "description": "Generate a random game character name in an old scroll-inspired style.", "action": {"default_title": "Random game character name", "default_popup": "popup.html"}, "icons": {"128": "icon-128.png"}}

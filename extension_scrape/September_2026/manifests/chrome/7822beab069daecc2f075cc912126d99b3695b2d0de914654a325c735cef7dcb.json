@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Search with replay.one", "description": "Use the context menu to search with replay.one", "version": "1.0.0", "manifest_version": 3, "permissions": ["contextMenus"], "background": {"service_worker": "background.js", "type": "module"}, "icons": {"128": "images/o9gk71jigv-128.png"}}

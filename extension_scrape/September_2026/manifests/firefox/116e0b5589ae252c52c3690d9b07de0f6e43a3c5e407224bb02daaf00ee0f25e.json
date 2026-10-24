@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Open Link in This Tab", "version": "1.0.0.0", "description": "Add a Open Link in This Tab button to context menu for link.", "permissions": ["menus", "tabs"], "background": {"scripts": ["menu.js"]}, "browser_specific_settings": {"gecko": {"id": "{91ad0a02-9b2d-47b3-8a02-a4bc3c9ba5e6}"}}}

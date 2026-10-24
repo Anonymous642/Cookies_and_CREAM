@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "NBA Cursor Auto-Hide", "version": "0.0.1", "description": "Hides cursor on NBA.com video players like YouTube", "content_scripts": [{"matches": ["*://*.nba.com/*"], "js": ["content.js"], "css": ["styles.css"]}]}

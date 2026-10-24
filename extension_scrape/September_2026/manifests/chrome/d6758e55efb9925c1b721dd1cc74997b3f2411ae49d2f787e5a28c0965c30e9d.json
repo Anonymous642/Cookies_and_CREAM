@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Color Picker Chrome Extension - HEX & RGB", "version": "1.0", "description": "The fastest color picker chrome extension. Instantly grab HEX and RGB color codes from any website.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}}

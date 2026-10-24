@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "KaraokeTV Downloader", "version": "1.1", "permissions": ["activeTab", "scripting", "storage", "cookies"], "host_permissions": ["https://*.karaokevideo.co.il/*"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}}

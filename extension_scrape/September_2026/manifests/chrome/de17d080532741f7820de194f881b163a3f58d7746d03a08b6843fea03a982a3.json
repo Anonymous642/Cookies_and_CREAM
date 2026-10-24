@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "One Piece Background", "version": "1.0", "description": "Brings the joyful energy of the One Piece crew right to your browser", "icons": {"128": "560.jpg"}, "permissions": ["geolocation"], "chrome_url_overrides": {"newtab": "index.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quiet Focus", "description": "A calm 60-second focus reset. No noise. No pressure.", "version": "3.2", "action": {"default_title": "Quiet Focus"}, "background": {"service_worker": "background.js"}, "permissions": ["storage"]}

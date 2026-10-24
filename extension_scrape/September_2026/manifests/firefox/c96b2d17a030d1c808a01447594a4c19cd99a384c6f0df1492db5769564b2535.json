@@ -1,0 +1,1 @@
+{"name": "Archery World Tour", "version": "3.0", "manifest_version": 2, "description": "Archery Tournament \u00e9 um jogo 3D para celular com incr\u00edveis gr\u00e1ficos e anima\u00e7\u00f5es de tiro 3D.", "browser_action": {"default_icon": "icon.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["pageCapture", "tabs"]}

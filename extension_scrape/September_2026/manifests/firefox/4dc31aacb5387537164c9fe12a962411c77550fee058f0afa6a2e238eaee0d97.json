@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Gradient Remover", "version": "1.0.0", "description": "Removes the stupid gradient in the background of youtube videos", "icons": {"48": "./icon.svg"}, "content_scripts": [{"matches": ["*://*.youtube.com/watch?*"], "js": ["./convert.js"]}], "browser_specific_settings": {"gecko": {"id": "{8e5bbbe5-032a-459e-a8f0-b1bef605cccd}"}}}

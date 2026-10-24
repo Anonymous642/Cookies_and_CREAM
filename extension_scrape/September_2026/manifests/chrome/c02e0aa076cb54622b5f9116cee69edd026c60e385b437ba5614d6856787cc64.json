@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sum Calculator", "version": "1.0", "description": "Calculate the sum of two numbers.", "action": {"default_popup": "popup.html"}, "permissions": []}

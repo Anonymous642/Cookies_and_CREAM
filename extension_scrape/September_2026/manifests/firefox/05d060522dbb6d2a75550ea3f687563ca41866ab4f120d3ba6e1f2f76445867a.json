@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Genealogy Helper", "version": "1.0", "description": "Assist genealogists with citation formatting and note-taking.", "icons": {"48": "icon.png"}, "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{154ea5aa-744e-43cc-af25-d0e8137dfded}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Easy Pass Gen", "version": "0.5", "description": "Generate 4 passwords - 4 8 12 or 16 char", "action": {"default_icon": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "default_title": "Easy Pass Gen", "default_popup": "popup.html"}, "manifest_version": 3}

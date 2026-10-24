@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Traductor para Telegram Web", "version": "1.0", "description": "Traduce mensajes autom\u00e1ticamente en Telegram Web.", "permissions": ["activeTab", "scripting"], "icons": {"128": "icono.png"}, "content_scripts": [{"matches": ["https://web.telegram.org/*"], "js": ["content.js"]}]}

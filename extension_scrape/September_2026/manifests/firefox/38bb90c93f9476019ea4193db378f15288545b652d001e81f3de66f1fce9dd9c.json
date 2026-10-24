@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Realtime History Tracker", "version": "1.0", "description": "Track visited URLs in real time", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "browser_action": {"default_title": "Realtime History Tracker"}, "browser_specific_settings": {"gecko": {"id": "{f8a03929-6bab-46db-8ee4-2323808662a1}"}}}

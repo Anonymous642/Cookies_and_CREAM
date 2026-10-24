@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "I can think for myself (ICTFM)", "description": "Hide Context/propaganda boxes from YouTube videos.", "version": "1.0", "author": "Sam St-Pettersen", "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["no_context_boxes.js"]}], "browser_specific_settings": {"gecko": {"id": "{0ccd041e-d572-4ef7-9bdd-c5e3aac5df59}"}}}

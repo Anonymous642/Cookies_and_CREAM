@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "USD to DKK Converter", "version": "1.0", "description": "Convert USD to DKK instantly with live exchange rates.", "permissions": ["storage", "https://*/*"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{c5df1190-3ccc-4de5-857c-781bb0fe3333}"}}}

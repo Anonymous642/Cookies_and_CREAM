@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Heading Visualizer", "version": "1.2", "description": "Highlight and list all H1, H2, H3 headings on any webpage.", "permissions": ["scripting", "activeTab"], "action": {"default_popup": "popup.html"}}

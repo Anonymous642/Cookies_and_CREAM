@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No Duplicate Tabs", "version": "1.0", "description": "Hi\u1ec3n th\u1ecb c\u1ea3nh b\u00e1o n\u1ebfu b\u1ea1n m\u1edf m\u1ed9t tab \u0111\u00e3 c\u00f3 URL tr\u00f9ng.", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "no-duplicate-tabs@example.com"}}}

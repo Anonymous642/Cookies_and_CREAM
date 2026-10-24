@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Text Reverser Popup", "version": "1.0", "description": "Reverse text instantly in popup.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png", "default_title": "Text Reverser"}, "permissions": [], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{9e614bb7-998b-4c1e-a538-9c0d74aa17bf}"}}}

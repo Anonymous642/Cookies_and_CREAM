@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dark Safebooru", "version": "1", "description": "Makes Safebooru force dark mode", "content_scripts": [{"matches": ["https://safebooru.org/*"], "css": ["default.css", "desktop.css"]}], "browser_specific_settings": {"gecko": {"id": "{8a7b2a49-f2b6-4061-9932-cd80275b7019}"}}}

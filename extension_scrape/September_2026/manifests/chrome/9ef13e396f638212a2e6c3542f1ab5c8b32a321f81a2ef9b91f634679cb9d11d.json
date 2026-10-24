@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Google Drive Folder Control", "version": "1.0", "description": "Emp\u00eache l'ouverture automatique des sous-dossiers dans Google Drive.", "permissions": ["scripting"], "host_permissions": ["https://drive.google.com/*"], "background": {"service_worker": "background.js"}}

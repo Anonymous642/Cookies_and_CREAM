@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Yakking Yak's Facebook Recommended Page Blocker", "version": "1.0", "description": "Block all recommended pages in your feed. This works as of Aug 2026.", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js", "type": "module"}, "action": {}}

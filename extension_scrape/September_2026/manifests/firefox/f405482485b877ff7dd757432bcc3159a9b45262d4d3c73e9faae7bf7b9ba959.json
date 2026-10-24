@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mute in Style", "version": "1.0", "description": "Plays a fun sound effect (whoosh or pop) when muting/unmuting audio in tabs.", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{d136afb8-0302-4988-9a4f-842e04f2a7ef}"}}}

@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://catalogue.bramlib.on.ca/polaris"], "launch": {"web_url": "http://catalogue.bramlib.on.ca/polaris"}}, "update_url": "https://clients2.google.com/service/update2/crx", "name": "BPL Catalogue Launcher", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "manifest_version": 2, "version": "0.0.0.2"}

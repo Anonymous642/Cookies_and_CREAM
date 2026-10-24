@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple Recipes", "version": "1.0.0", "description": "Shows simple cooking recipes in a clean, modern popup.", "action": {"default_title": "Simple Recipes", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "toggle full screen by clicking or pointing at the top", "version": "1", "content_scripts": [{"js": ["!.js"], "matches": ["<all_urls>"]}]}

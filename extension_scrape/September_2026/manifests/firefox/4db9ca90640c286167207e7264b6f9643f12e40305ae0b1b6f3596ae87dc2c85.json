@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bookmark Manager", "version": "1.0", "description": "Add bookmarks from a list of URLs", "permissions": ["bookmarks"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{91580404-89e7-4602-8bf3-129fd81045e0}"}}}

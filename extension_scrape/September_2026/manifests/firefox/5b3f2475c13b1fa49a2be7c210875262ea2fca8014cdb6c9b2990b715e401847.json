@@ -1,0 +1,1 @@
+{"browser_specific_settings": {"gecko": {"id": "skipintro@f.f"}}, "manifest_version": 2, "name": "Auto Skip Intro Netflix", "version": "1.31", "description": " Clean, small addon to skip the intro and recap of shows automatically on Netflix. ", "icons": {"128": "icons/icon.png"}, "content_scripts": [{"matches": ["*://www.netflix.com/*"], "js": ["skipIntro.js"]}]}

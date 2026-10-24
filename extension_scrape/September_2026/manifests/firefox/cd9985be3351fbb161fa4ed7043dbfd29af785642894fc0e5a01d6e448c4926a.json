@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "New Tab Color Splash", "version": "1.0", "description": "Hi\u1ec3n th\u1ecb m\u00e0u n\u1ec1n ng\u1eabu nhi\u00ean khi m\u1edf tab m\u1edbi.", "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{b7f9bc1f-d14f-47df-a125-515adadaeb2b}"}}}

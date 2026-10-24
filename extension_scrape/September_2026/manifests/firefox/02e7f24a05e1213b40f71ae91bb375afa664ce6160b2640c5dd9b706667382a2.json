@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Bookmark Updater", "description": "Update URL for bookmark with the same as added bookmark name and remove all doubles.", "browser_specific_settings": {"gecko": {"id": "{35b04263-bef7-4d01-86c0-8209552edb5f}"}}, "permissions": ["bookmarks"], "version": "0.2", "background": {"scripts": ["background.js"]}}

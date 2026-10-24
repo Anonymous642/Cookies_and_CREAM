@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Downr - TikTok Downloader", "version": "1.0", "description": "Download TikTok videos", "browser_action": {"default_title": "Download TikTok videos"}, "background": {"scripts": ["background.js"]}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{7436ee48-46d2-43d7-8b2e-c158a532baa9}"}}}

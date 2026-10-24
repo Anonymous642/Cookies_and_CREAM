@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "scram, gooble", "version": "0.0.6", "description": "Prevent the pop up that tries to get you to sign in with a google account.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["scram.js"]}], "browser_specific_settings": {"gecko": {"id": "scram@gooble.com"}, "gecko_android": {"id": "scram@gooble.com"}}}

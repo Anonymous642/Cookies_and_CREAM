@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "QR Code for Current Page", "version": "1.0", "description": "T\u1ea1o m\u00e3 QR cho \u0111\u01b0\u1eddng link trang hi\u1ec7n t\u1ea1i.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{2b72c38d-45a0-40fd-aa68-d5a74924091e}"}}}

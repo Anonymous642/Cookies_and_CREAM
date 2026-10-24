@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hacker News Dark Mode", "version": "1.1", "description": "Convert Hacker News' UI to a dark mode that's easier on the eyes.", "content_scripts": [{"matches": ["https://news.ycombinator.com/*"], "css": ["content.css"]}]}

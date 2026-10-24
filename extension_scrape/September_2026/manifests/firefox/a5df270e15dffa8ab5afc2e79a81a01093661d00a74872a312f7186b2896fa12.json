@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Truth or Dare Mini Game", "version": "1.0", "description": "A cute animal-themed Truth or Dare mini-game. Complete challenges to earn random rewards!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "kory2kovacsran316@hotmail.com"}}}

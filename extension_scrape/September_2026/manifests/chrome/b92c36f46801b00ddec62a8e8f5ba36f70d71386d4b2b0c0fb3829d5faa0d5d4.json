@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Study Redirect", "version": "1.0", "description": "Redirects to stuff you're supposed to be studying", "permissions": ["webNavigation", "tabs", "storage"], "background": {"service_worker": "background.js", "type": "module"}, "options_page": "options.html"}

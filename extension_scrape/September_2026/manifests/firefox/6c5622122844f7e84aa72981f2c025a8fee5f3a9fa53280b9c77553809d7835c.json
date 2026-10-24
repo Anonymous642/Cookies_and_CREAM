@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "noYTViews", "version": "0.1", "description": "Removes the view count in the timeline", "icons": {"48": "icons/favicon.svg"}, "content_scripts": [{"matches": ["https://www.youtube.com/"], "js": ["noYTViews.js"]}], "browser_specific_settings": {"gecko": {"id": "{eb44918d-065b-47a4-9de5-9f2c71cf76b6}"}}}

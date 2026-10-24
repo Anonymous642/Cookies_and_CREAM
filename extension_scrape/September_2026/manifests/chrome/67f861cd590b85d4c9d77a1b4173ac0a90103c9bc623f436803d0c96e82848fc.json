@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Modern Not Defteri", "default_locale": "tr", "version": "1.1", "description": "H\u0131zl\u0131 notlar almak i\u00e7in bir uzant\u0131.", "permissions": ["storage"], "action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}}

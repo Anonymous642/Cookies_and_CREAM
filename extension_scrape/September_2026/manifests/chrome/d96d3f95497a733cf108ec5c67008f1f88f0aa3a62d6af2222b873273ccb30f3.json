@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ampliador de Video", "version": "1.0", "description": "", "content_scripts": [{"matches": ["https://kampus.kodemia.com/programa/javascript/*"], "js": ["content-script.js"]}]}

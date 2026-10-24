@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Classify", "version": "2.0", "description": "Making Google Classroom better.", "permissions": ["storage"], "content_scripts": [{"matches": ["https://classroom.google.com/*"], "js": ["content.js"], "css": ["styles.css"]}], "browser_specific_settings": {"gecko": {"id": "classify@example.com", "data_collection_permissions": {"required": ["none"]}}}}

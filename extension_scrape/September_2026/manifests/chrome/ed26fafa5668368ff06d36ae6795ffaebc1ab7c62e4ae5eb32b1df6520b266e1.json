@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "inch \u2194 mm Converter", "version": "1.0", "description": "Convert between inches and millimeters instantly.", "action": {"default_popup": "popup.html", "default_icon": {"48": "inch_mm.png"}}, "icons": {"48": "inch_mm.png"}}

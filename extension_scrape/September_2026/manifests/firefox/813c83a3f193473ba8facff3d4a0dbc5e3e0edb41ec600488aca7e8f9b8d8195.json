@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "QuickNote", "version": "1.0", "description": "Ghi ch\u00fa nhanh ngay trong tr\u00ecnh duy\u1ec7t.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{7cc028f1-a994-4c9e-bb40-4536807ea130}"}}}

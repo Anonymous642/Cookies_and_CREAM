@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Italics", "version": "1.0", "description": "Changes all text on YouTube to italics", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["content.js"], "run_at": "document_end", "all_frames": true}], "browser_specific_settings": {"gecko": {"id": "{fb9fa97e-b947-4d01-9f50-2b9cc4b40fa9}"}}}

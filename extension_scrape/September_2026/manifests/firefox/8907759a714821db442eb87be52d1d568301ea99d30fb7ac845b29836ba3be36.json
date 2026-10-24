@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mini Game New Tab", "version": "1.0", "description": "Turn new tab into quick mini games like Sudoku, Flappy Bird, Word Guess.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{6551753f-936f-40f7-bb2f-40796f0b74cd}"}}}

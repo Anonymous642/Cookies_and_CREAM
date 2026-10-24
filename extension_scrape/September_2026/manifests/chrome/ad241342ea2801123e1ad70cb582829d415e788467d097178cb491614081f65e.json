@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "More accurate BGG collection count", "description": "On every user page, show the number of base games the user has instead of the number of base games plus expansions.", "version": "1.0.1", "manifest_version": 3, "content_scripts": [{"matches": ["https://boardgamegeek.com/user/*"], "js": ["content.js"]}]}

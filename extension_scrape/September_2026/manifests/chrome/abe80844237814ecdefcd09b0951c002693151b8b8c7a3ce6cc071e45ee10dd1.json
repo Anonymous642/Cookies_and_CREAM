@@ -1,0 +1,79 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "name": "Noverload - TL;DR for Anything",
+  "version": "1.0.1",
+  "description": "Save any article or YouTube video and get an instant AI summary. Stop hoarding, start learning.",
+  "homepage_url": "https://noverload.com",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "contextMenus",
+    "notifications",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "service-worker-loader.js",
+    "type": "module"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon-16.png",
+      "32": "icon-32.png",
+      "48": "icon-48.png",
+      "128": "icon-128.png"
+    }
+  },
+  "icons": {
+    "16": "icon-16.png",
+    "32": "icon-32.png",
+    "48": "icon-48.png",
+    "128": "icon-128.png"
+  },
+  "commands": {
+    "save-to-noverload": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+S",
+        "mac": "Command+Shift+S"
+      },
+      "description": "Save current page to Noverload"
+    }
+  },
+  "options_page": "options.html",
+  "web_accessible_resources": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "resources": [
+        "src/content/extractor.js"
+      ],
+      "use_dynamic_url": false
+    },
+    {
+      "matches": [
+        "https://*.youtube.com/*",
+        "https://youtu.be/*",
+        "https://youtube.com/*"
+      ],
+      "resources": [
+        "src/content/youtube-extractor.js"
+      ],
+      "use_dynamic_url": false
+    },
+    {
+      "matches": [
+        "https://*.twitter.com/*",
+        "https://*.x.com/*",
+        "https://twitter.com/*",
+        "https://x.com/*"
+      ],
+      "resources": [
+        "src/content/x-extractor.js"
+      ],
+      "use_dynamic_url": false
+    }
+  ]
+}

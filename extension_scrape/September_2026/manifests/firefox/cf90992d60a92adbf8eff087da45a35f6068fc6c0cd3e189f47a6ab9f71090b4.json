@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Z7 Game Strategy Helper", "version": "1.0", "description": "Get expert game strategies for Z7 Game.", "icons": {"48": "icon-48.png", "96": "icon-96.png", "128": "icon-128.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon-48.png"}, "browser_specific_settings": {"gecko": {"id": "{49a0f020-dcba-4269-878a-590e538cf838}"}}}

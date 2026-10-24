@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute Spin Template Tool", "version": "1.0.0", "description": "A cute template-based content spinner (Spintax) that generates text variations locally.", "action": {"default_title": "Cute Spin Tool", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

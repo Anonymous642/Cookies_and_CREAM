@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Text Counter", "version": "1.0", "description": "Count words, characters, and sentences in your text.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "pmistyweberrbkz354@hotmail.com"}}}

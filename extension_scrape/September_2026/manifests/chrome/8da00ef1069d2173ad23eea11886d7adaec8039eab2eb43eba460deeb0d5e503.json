@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Comments Sentiment Analyzer", "version": "1.0", "description": "YouTube, Reddit comment Sentiment Analyzer", "action": {"default_popup": "popup.html"}, "permissions": ["tabs"], "host_permissions": ["https://twitter-sentiment-api-pfim.onrender.com/*", "https://www.reddit.com/*"]}

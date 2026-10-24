@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Scroll Top Bottom", "version": "1.0", "description": "Scroll Top Bottom: Jump to page ends", "action": {"default_popup": "popup.html", "default_icon": "scroll_top_bottom.png"}, "icons": {"128": "scroll_top_bottom.png"}}

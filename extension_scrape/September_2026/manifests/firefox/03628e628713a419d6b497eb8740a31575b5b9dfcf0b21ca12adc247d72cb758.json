@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Stalker Mode ON", "version": "1.1resigned1", "description": "Allows you to see people's Linkedin profile without an account.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*.linkedin.com/*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{f6df44c7-1aa0-419c-8425-2aa6a63e5161}"}}}

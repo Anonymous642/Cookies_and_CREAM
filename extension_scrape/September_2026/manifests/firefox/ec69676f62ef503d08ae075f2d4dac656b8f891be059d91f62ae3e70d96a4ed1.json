@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GoogEvening", "version": "1.1.2resigned1", "description": "Adds a dark background to google search site", "icons": {"48": "icons/moon.png"}, "content_scripts": [{"matches": ["*://www.google.com/search*", "*://www.google.com/"], "js": ["GoogEvening.js"]}], "browser_specific_settings": {"gecko": {"id": "{58171287-4470-4a69-aa72-445150bafd8f}"}}}

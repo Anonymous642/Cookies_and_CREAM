@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Restore Twitter Headlines", "version": "1.0.2", "content_scripts": [{"matches": ["<all_urls>"], "js": ["contentScript.js"]}], "icons": {"48": "/images/icon_48.png", "128": "/images/icon_128.png"}}

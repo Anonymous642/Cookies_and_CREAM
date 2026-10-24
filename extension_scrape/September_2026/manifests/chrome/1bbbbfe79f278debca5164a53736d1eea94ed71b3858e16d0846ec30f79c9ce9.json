@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab Suspender", "version": "1.0", "description": "Tab Suspender: Save memory, suspend tabs.", "action": {"default_popup": "popup.html", "default_icon": "tab_suspender.png"}, "icons": {"128": "tab_suspender.png"}, "permissions": ["tabs"]}

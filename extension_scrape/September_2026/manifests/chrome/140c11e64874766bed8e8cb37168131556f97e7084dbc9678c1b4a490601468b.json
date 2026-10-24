@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Popup Mini Guess Game", "description": "Play a quick guessing game directly in the extension popup.", "version": "1.0", "action": {"default_popup": "popup.html", "default_title": "Mini Guess Game"}, "icons": {"128": "icon128.png"}}

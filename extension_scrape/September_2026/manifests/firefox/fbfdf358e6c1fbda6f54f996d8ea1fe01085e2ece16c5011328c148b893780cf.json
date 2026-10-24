@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Download Manager", "version": "0.2.1resigned1", "description": "File Download Manager", "permissions": ["downloads", "downloads.open", "tabs", "activeTab", "runtime"], "background": {"scripts": ["downloader.js"]}, "options_ui": {"page": "options.html"}, "browser_specific_settings": {"gecko": {"id": "{c166c73d-6a24-4a6c-9aef-595636358ab8}"}}}

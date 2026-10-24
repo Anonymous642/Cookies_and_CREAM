@@ -1,0 +1,1 @@
+{"name": "Image Resizer", "version": "2.0", "manifest_version": 2, "description": "Resizes images from your device", "key": "4841d3e824da41d88213684508ca8fb4", "permissions": ["storage"], "browser_action": {"default_icon": "icon128.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{6ad9c72b-bede-47ba-90ba-7bf46b2ed5d6}"}}}

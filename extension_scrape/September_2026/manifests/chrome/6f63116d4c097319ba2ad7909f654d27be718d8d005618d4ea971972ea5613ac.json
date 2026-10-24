@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GitGood", "description": "A collection of helpful GitHub Tweaks", "version": "1.0.2", "manifest_version": 3, "action": {"default_icon": "gitGood.png"}, "content_scripts": [{"js": ["scripts/pullRequest.js", "scripts/pullRequestList.js"], "matches": ["https://github.com/*"], "run_at": "document_idle"}]}

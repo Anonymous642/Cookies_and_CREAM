@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ticker Alpha", "version": "1.0", "description": "Open selected stock ticker in TradingView.", "icons": {"48": "icon.png"}, "permissions": ["contextMenus"], "background": {"service_worker": "background.js"}, "action": {"default_icon": "icon.png"}}

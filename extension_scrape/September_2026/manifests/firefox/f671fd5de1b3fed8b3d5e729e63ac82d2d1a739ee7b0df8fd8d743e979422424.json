@@ -1,0 +1,1 @@
+{"name": "SchovajHriba", "version": "0.9", "description": "Schovaj Hribovu vyzvu na predplatne tyzden.sk", "content_scripts": [{"js": ["jquery.min.js", "hide.js"], "matches": ["*://www.tyzden.sk/*"]}], "manifest_version": 2}

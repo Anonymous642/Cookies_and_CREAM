@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "description": "CSS adjustments to improve the formatting of the Vantage process log window", "manifest_version": 3, "name": "Improved Event Log for ABBYY Vantage", "version": "1.0", "content_scripts": [{"matches": ["*://*.abbyy.com/*"], "js": ["main.js"]}]}

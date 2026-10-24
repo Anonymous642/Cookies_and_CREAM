@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Scribble Art Generator", "version": "1.0", "description": "Generate random scribble art.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "index.html", "default_title": "Generate Scribble Art"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{157fc820-fa79-4eaf-b6ff-fa1479bb27c3}"}}}

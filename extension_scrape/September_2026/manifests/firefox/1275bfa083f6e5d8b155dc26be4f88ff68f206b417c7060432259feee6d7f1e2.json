@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "InvisibleHand", "version": "1.0", "description": "Compare prices across online retailers instantly.", "icons": {"48": "icon.png"}, "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{09acce65-93aa-4c3b-86a8-e8fcc161306d}"}}}

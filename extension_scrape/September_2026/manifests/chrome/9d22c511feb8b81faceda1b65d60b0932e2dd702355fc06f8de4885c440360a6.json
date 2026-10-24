@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Notes Per Website", "version": "1.0.0", "description": "Write quick notes that are saved per website (domain).", "action": {"default_title": "Quick Notes", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}, "permissions": ["storage", "activeTab"]}

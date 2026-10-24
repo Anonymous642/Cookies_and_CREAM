@@ -1,0 +1,1 @@
+{"name": "Payday Loan Application", "description": "Search for payday lenders with one click.", "app": {"urls": ["http://www.ustarcash.com/"], "launch": {"web_url": "http://www.ustarcash.com/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.3", "icons": {"128": "icon.png"}}

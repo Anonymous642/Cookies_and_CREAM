@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Fixed Text Copier", "version": "1.0.0", "description": "Copy predefined text instantly from a magical popup interface.", "action": {"default_popup": "popup.html", "default_title": "Fixed Text Copier", "default_icon": {"128": "icon128.png"}}, "icons": {"128": "icon128.png"}}

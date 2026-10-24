@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.1", "name": "Tanjiro Kamado", "chrome_url_overrides": {"newtab": "index.html"}, "description": "Tanjiro's Hidden Power", "manifest_version": 3}

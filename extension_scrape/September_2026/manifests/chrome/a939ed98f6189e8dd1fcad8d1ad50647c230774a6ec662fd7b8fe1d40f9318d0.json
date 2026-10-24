@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "icons": {"128": "icon.png"}, "name": "DrawSQL Background White", "version": "1.0.0", "description": "Replace drawsql.app background to #FFFFFF", "content_scripts": [{"matches": ["*://drawsql.app/*"], "js": ["background.js"], "run_at": "document_start"}]}

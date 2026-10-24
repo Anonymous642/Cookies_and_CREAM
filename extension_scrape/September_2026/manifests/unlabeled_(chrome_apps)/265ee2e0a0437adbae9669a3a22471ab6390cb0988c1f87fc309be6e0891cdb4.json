@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Marc's Website", "version": "1.0.1", "manifest_version": 2, "app": {"launch": {"web_url": "http://basepath.com", "container": "panel", "height": 800, "width": 1000}}, "icons": {"128": "HostedAppBasepath-128.png"}}

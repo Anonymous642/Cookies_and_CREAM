@@ -1,0 +1,35 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "name": "TL;DR Article Summarizer",
+  "version": "3.1.0",
+  "description": "Summarize articles instantly with AI-powered insights. Powered by GPT-4o mini with real-time streaming.",
+  "permissions": ["activeTab", "scripting", "storage", "contextMenus"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+S",
+        "mac": "Command+Shift+S"
+      },
+      "description": "Open TL;DR extension"
+    }
+  },
+  "host_permissions": ["https://tldr-article-summarizer-production.up.railway.app/*"]
+}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83d\udcf9 TikTok Content Idea Generator", "version": "1.0", "description": "Get random TikTok video ideas and content topics for creators!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "douetdmatukh9u@hotmail.com"}}}

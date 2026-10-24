@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Playback Speed Customizer", "description": "Customize the playback speed of any video. ", "version": "1.0", "action": {"default_popup": "popup.html"}, "icons": {"16": "chevron.png", "48": "chevron.png", "128": "chevron.png"}, "permissions": ["activeTab", "scripting"]}

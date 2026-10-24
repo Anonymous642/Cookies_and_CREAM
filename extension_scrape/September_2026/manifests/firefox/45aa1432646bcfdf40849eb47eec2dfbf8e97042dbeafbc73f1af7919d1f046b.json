@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "__MSG_extensionName__", "version": "1.0", "description": "__MSG_extensionDescription__", "permissions": ["storage"], "chrome_url_overrides": {"newtab": "index.html"}, "action": {"default_icon": {"128": "icons/icon-128.png"}}, "browser_specific_settings": {"gecko": {"id": "{b3e2a0c1-0d8e-5d0e-1f0c-1b5f33dfd5cd}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Spon Remove Paid Articles", "version": "2.0", "description": " Remove all paid articles from the front page of spiegel.de ", "icons": {"48": "icons/logo_sp_r.png"}, "content_scripts": [{"matches": ["*://*.spiegel.de/"], "js": ["removepaid.js"]}]}

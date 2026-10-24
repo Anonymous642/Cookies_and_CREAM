@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Justice", "version": "1.1resigned1", "description": "Adds a red border to all webpages matching mozilla.org.", "content_scripts": [{"matches": ["*://*/*"], "js": ["justice.js"]}], "browser_specific_settings": {"gecko": {"id": "{87582dcb-c02c-4d61-87f0-0efb7109c2ec}"}}}

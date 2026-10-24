@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Euro to USD Converter", "version": "1.0", "description": "Convert Euro to USD quickly with a simple calculator.", "browser_action": {"default_popup": "popup.html", "default_title": "Euro to USD Converter"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{283db3ee-c645-4ad5-8c55-92401f4d2259}"}}}

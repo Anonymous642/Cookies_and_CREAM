@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Reality Check", "version": "0.1.0", "description": "Cryptographic existence proofs for digital content.", "action": {"default_popup": "index.html", "default_icon": "favicon.png"}, "icons": {"16": "favicon.png", "48": "favicon.png", "128": "favicon.png"}, "permissions": ["storage"]}

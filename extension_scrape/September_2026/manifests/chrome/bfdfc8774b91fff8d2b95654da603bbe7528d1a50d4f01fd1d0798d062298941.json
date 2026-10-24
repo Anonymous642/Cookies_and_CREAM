@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "New tab Pizza background", "description": "version 3.1 of NTPB", "version": "3.1", "author": "Jamie", "chrome_url_overrides": {"newtab": "index.html"}, "action": {"default_icon": "pizza.png", "default_popup": "popup.html"}}

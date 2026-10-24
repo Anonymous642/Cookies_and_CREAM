@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "twitch-admute", "version": "1.1.1", "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["content.js"]}], "background": {"scripts": ["background.js"]}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{82600e38-6527-4fdb-9ed6-668ab7b1eb7f}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Today Lunar Date (Vietnam)", "version": "1.0.0", "description": "Show today's Vietnamese lunar date (\u00c2m l\u1ecbch) locally in a simple popup.", "action": {"default_title": "\u00c2m l\u1ecbch h\u00f4m nay", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

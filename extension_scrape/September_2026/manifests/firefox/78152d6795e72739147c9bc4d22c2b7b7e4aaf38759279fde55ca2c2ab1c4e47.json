@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ambient Sound Player", "version": "1.0", "description": "Plays ambient sounds or white noise to help users concentrate.", "browser_action": {"default_popup": "popup.html", "default_title": "Play Ambient Sounds"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{ca118818-0c39-4873-8a3c-6debe23ea0ae}"}}}

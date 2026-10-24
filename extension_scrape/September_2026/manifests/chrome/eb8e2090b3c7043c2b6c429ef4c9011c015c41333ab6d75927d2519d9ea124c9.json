@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Mind Blower", "version": "1.0.0", "description": "Get a random, mind-blowing fun fact instantly in a vibrant pop-art popup to brighten your day.", "action": {"default_popup": "popup.html", "default_title": "Mind Blown!"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "sDark", "version": "1.1resigned1", "description": "A dark mode made by Sparksammy.", "icons": {"48": "icons/dark-48.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["dark.js"]}], "browser_specific_settings": {"gecko": {"id": "{3d73796d-cd44-4e29-9477-ea52a07da957}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "SpeedTube", "version": "1.0", "description": "Control YouTube video speed.", "action": {"default_popup": "popup.html", "default_icon": "speedtube.png"}, "icons": {"128": "speedtube.png"}, "browser_specific_settings": {"gecko": {"id": "shailazhmp324722@hotmail.com"}}}

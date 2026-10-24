@@ -1,0 +1,1 @@
+{"app": {"launch": {"web_url": "http://coloringgames.kooxpi.com/index.html"}, "urls": ["http://coloringgames.kooxpi.com/index.html"]}, "description": "Play best free online coloring games for kids", "icons": {"128": "icon_CO_128.png"}, "manifest_version": 2, "name": "Coloring Games For Kids", "update_url": "http://clients2.google.com/service/update2/crx", "version": "1.1.1"}

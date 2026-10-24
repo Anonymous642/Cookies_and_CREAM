@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SwiftShorts", "description": "Control YouTube\u2122 Shorts, Command Your Experience!", "version": "1.0.2", "icons": {"128": "images/logo-128.png"}, "content_scripts": [{"js": ["scripts/main.js"], "matches": ["https://www.youtube.com/*"]}], "permissions": []}

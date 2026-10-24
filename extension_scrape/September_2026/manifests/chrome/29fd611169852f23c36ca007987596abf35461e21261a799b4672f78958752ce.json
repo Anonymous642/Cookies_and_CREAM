@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Discord minimizeable DMs", "version": "1.0", "description": "Allows you to minimize DMs in Discord", "content_scripts": [{"matches": ["https://discord.com/*"], "js": ["content.js"]}]}

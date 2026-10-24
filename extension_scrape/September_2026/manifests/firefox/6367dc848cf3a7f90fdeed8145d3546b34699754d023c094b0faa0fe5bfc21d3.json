@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NY Time", "version": "1.0.2", "description": "Current time in New York.", "icons": {"32": "1.png", "64": "1.png", "128": "1.png"}, "permissions": [], "browser_action": {"default_popup": "popup.html", "default_title": "NY Time"}, "browser_specific_settings": {"gecko": {"id": "nytime@extension", "strict_min_version": "109.0"}}}

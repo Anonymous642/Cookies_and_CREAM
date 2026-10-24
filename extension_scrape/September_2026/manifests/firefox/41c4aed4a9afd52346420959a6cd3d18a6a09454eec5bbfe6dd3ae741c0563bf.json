@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\u23f3 Take a Break Reminder", "version": "1.0", "description": "Reminds you to rest and hydrate every 25 minutes. Relax your mind and body!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "burrikducrejp56@hotmail.com"}}}

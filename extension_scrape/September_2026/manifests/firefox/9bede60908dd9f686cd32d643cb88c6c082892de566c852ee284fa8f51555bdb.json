@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "USD to JPY Converter", "version": "1.0", "description": "A simple converter for USD to JPY.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{66b21e04-af61-4380-90f3-bc15f87c6c9c}"}}}

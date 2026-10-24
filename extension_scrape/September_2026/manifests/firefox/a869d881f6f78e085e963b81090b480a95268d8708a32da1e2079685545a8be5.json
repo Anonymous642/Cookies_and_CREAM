@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "tmoabt", "version": "1.0.1", "description": "Previene bounce tracking en el dominio de tmo.", "content_scripts": [{"matches": ["*://*/news/*/cascade*", "*://*/news/*/paginated*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{ff1151fe-f158-482d-be9f-be80f4156716}"}}}

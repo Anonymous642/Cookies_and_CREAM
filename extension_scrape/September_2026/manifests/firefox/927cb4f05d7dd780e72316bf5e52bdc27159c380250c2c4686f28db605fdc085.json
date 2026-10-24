@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Udemy Course Time Left Tracker", "version": "1.2", "description": "Show the time left for your Udemy courses", "content_scripts": [{"matches": ["https://www.udemy.com/course/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{ee091f70-9183-486a-a6e6-a71554034830}"}}}

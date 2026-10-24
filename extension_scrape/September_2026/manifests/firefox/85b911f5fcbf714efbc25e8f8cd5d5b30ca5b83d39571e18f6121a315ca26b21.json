@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Automatic Scroller", "version": "1.0", "description": "Slow, smooth automatic scrolling.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_title": "Automatic Scroller", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{4b29435b-f385-45ea-a53d-8981481e670b}"}}}

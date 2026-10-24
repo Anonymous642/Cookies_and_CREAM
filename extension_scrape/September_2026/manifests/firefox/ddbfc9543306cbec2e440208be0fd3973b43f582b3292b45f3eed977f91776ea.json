@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fusk", "version": "1.1", "description": "Removes x.com monitised buttons", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.x.com/*"], "js": ["retwit.js"]}], "browser_specific_settings": {"gecko": {"id": "{fb561460-dd17-4f3f-80ac-dca7fe8ab91e}"}}}

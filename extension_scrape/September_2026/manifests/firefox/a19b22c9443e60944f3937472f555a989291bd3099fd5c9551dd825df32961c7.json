@@ -1,0 +1,1 @@
+{"description": "Auto Maximized for Firefox Quantum", "manifest_version": 2, "name": "AutoMaximized", "version": "1.0.0.0", "background": {"scripts": ["startup.js"]}, "icons": {"48": "icons/fullscreen_black_48x48.png", "96": "icons/fullscreen_black_96x96.png"}, "applications": {"gecko": {"id": "automaximized@maximumti.com.br", "strict_min_version": "48.0"}}}

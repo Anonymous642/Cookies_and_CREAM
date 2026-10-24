@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pageper", "version": "2.2", "description": "Minimalist and customizable startpage", "browser_action": {"default_popup": "index.html"}, "chrome_url_overrides": {"newtab": "index.html"}, "chrome_settings_overrides": {"homepage": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{66b6cc4d-ea4a-41d8-92c6-ab82f66d0577}"}}}

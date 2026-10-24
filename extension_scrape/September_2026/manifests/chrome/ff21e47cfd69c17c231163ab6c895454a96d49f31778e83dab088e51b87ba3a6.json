@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Birthday Wishes Generator", "version": "1.0.0", "description": "Generate fun and friendly birthday wishes instantly.", "action": {"default_title": "Birthday Wishes Generator", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

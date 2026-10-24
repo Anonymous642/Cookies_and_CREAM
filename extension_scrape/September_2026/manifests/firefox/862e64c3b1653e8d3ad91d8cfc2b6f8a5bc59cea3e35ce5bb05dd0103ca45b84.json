@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pathbuilder2e notes", "version": "1.9", "description": "Adds more notes-fields to Pathbuilder2e", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://pathbuilder2e.com/*"], "js": ["pathbuilder2e_notes.js"]}], "browser_specific_settings": {"gecko": {"id": "{075d112c-b8c2-4636-9117-14abb81d8451}"}}}

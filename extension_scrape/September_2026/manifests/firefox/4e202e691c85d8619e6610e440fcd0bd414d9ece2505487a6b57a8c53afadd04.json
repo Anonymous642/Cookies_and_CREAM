@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "STADS fixer", "version": "1.0.1", "description": "Fixes STADS by allowing you to log in with domain", "icons": {"48": "icon-48.png"}, "content_scripts": [{"matches": ["*://sb.aau.dk/sb-ad*"], "js": ["remove-domain.js"]}], "browser_specific_settings": {"gecko": {"id": "{db28b211-53ed-4033-9cad-a0f08eb8edf5}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Alcolmeter", "description": "\ub9c9\uac78\ub9ac \ubc30\ud569 \uacc4\uc0b0\uae30", "version": "0.1.0", "action": {"default_title": "Alcolmeter", "default_popup": "popup.html"}}

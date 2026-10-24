@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube\u2122\ufe0f Video and Audio Channel Details", "version": "1.0", "browser_action": {"default_popup": "popup.html", "default_icon": {"128": "downloading.png"}}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{ca7c6d1f-fdc4-49b7-88be-8206537183a0}"}}}

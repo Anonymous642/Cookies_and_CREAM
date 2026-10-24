@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Zen Reader", "version": "1.0", "description": "An ultra-modern, distraction-free reading experience with an elegant Table of Contents.", "action": {"default_title": "Toggle Reader Mode"}, "background": {"service_worker": "background.js"}, "permissions": ["activeTab", "scripting"]}

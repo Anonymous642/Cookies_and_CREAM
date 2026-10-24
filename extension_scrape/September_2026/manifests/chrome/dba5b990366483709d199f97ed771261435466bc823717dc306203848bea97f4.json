@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Get JPEG", "version": "0.0.0.1", "content_scripts": [{"js": ["scripts/redirect.js"], "matches": ["*://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it*", "*://preview.redd.it/*"]}]}

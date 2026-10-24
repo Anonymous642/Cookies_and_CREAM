@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Robux Display Customizer", "version": "2.1", "description": "Adds a settings menu item to customize your displayed Robux amount.", "permissions": ["storage"], "content_scripts": [{"matches": ["https://www.roblox.com/*"], "js": ["content.js"], "run_at": "document_end"}]}

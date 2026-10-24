@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Scrappifier", "version": "1.0", "description": "Destroy any website!", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"]}], "web_accessible_resources": [{"resources": ["assets/*"], "matches": ["<all_urls>"]}], "browser_specific_settings": {"gecko": {"id": "scrappifier_scrapyard@eepy.ca"}}}

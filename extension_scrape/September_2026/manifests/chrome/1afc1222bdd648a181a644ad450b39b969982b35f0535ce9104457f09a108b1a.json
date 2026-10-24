@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "F1 TV Theater mode", "description": "add theater mode button to F1 TV player", "version": "1.0", "manifest_version": 3, "content_scripts": [{"matches": ["https://f1tv.formula1.com/*"], "js": ["execute.js"]}], "icons": {"16": "/icon.png", "48": "/icon.png", "128": "/icon.png"}}

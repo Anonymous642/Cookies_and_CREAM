@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "KeyBrFocus", "version": "1.0", "description": "Removes unnecessary keybr bloat.", "icons": {"48": "KeyBrFocus-48.png"}, "content_scripts": [{"matches": ["*://*.keybr.com/*"], "js": ["KeyBrFocus.js"]}], "browser_specific_settings": {"gecko": {"id": "{170d9083-d120-4356-bd11-91dcb927c114}"}}}

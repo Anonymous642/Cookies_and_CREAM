@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "InstaName: Handle Generator", "version": "1.0.0", "description": "Instantly generate aesthetic, catchy, and unique usernames for your social media profiles.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}, "icons": {"128": "icon128.png"}}

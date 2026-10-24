@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitch Chat Filter", "version": "1.0", "description": "Masque les messages sp\u00e9cifiques dans le chat Twitch.", "browser_specific_settings": {"gecko": {"id": "twitch-chat-filter@exemple.com"}}, "permissions": ["activeTab", "storage"], "content_scripts": [{"matches": ["*://www.twitch.tv/*"], "js": ["content.js"]}]}

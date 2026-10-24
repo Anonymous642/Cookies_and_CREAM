@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ScrollTrack Progress", "version": "1.0", "description": "Shows a small scroll progress bar to indicate how far you've read on a page.", "action": {"default_popup": "popup.html", "default_icon": "scrolltrack_progress.png"}, "icons": {"128": "scrolltrack_progress.png"}}

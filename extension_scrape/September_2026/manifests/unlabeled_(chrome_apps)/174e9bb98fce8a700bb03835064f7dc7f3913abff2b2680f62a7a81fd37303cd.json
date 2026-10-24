@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Swarm", "description": "Swarm is a game about Zombies. A swarm of them.", "version": "2.51", "manifest_version": 2, "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "icon-16.png", "128": "icon-128.png"}, "permissions": ["unlimitedStorage"], "offline_enabled": true}

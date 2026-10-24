@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Spritted", "description": "Play the most fun minigames in Spritted! Challenge your friends, get achievements and become the best player!", "version": "1.0.8", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://spritted.com/"], "launch": {"web_url": "https://spritted.com/"}}}

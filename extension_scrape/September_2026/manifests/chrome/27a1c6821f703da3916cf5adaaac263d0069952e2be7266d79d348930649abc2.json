@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Lichess Random Move", "description": "Automatically makes a random move on Lichess analysis mode.", "version": "1.0", "permissions": [], "content_scripts": [{"matches": ["https://lichess.org/analysis*"], "js": ["lichess_random.js"]}]}

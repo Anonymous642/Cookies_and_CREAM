@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "keep kai red", "version": "1.0", "description": "Keep twitch users the way they should be. Especially kai.", "permissions": ["scripting"], "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "keep-kai-red@gmail.com", "strict_min_version": "58.0"}}}

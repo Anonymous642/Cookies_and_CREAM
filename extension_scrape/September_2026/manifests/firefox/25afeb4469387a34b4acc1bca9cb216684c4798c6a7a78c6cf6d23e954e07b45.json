@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "To-Do Tab", "version": "1.0", "description": "A minimal to-do list that appears on each new tab.", "chrome_url_overrides": {"newtab": "todo.html"}, "permissions": ["storage"], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{41ea0cb8-d98b-4acf-ab7f-7a815e7809e8}"}}}

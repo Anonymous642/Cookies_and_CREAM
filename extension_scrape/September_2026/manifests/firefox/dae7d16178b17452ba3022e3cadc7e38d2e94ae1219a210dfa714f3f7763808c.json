@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Caps Lock Pencil Toggle for NYT Crosswords", "version": "1.0", "content_scripts": [{"matches": ["https://www.nytimes.com/crosswords*"], "js": ["content_script.js"]}], "browser_specific_settings": {"gecko": {"id": "{e65086e2-d13f-49d0-b0b6-caf56ed389eb}"}}}

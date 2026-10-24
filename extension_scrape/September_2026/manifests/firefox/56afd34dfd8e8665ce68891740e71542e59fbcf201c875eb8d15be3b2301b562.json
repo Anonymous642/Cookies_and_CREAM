@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Guwugle", "version": "2.0", "description": "Change the Google Logo Text to Guwugle", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["main.js"]}]}

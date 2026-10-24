@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Selected Links Downloader", "description": "Download selected links.", "version": "1.1resigned1", "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus", "downloads", "*://*/"], "browser_specific_settings": {"gecko": {"id": "{a2c7d932-a29c-4ea4-a428-ef2bdb632acb}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CL USB", "description": "Management Setting DATA", "version": "0.1.7", "manifest_version": 3, "icons": {"16": "clusb_16.png", "128": "clusb_128.png"}, "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Random Color Mood", "version": "1.0", "description": "Every new tab gives you a random color background and a quote matching the mood.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{c0c679ab-fa7e-4359-a807-782eeb5ab7b4}"}}}

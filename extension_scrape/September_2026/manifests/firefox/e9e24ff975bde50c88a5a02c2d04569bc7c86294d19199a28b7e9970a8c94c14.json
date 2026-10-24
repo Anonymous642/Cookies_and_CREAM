@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Clip To File", "version": "1.0", "description": "Clip To File: Save clipboard content to file.", "action": {"default_popup": "popup.html", "default_icon": "clip_to_file.png"}, "icons": {"128": "clip_to_file.png"}, "browser_specific_settings": {"gecko": {"id": "emileem1185@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

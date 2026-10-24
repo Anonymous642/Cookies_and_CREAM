@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83d\udc3e Pet Snack Nickname Generator", "version": "1.0", "description": "Generate cute nicknames for your pets based on yummy snacks!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "vinitocrt9@hotmail.com"}}}

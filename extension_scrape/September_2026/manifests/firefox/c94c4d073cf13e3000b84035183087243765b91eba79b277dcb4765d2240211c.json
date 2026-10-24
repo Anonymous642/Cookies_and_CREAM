@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CustomBG for Google", "version": "1.0", "description": "Lets you choose any image to use as the background on Google search pages", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.google.com/"], "js": ["borderify.js"]}], "browser_specific_settings": {"gecko": {"id": "{3fcb15b4-96e0-4bad-baf0-8b2e3388d534}"}}}

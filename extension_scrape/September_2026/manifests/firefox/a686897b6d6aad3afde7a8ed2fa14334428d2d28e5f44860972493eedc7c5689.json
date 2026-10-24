@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Manager - Quick Switch", "version": "1.0", "description": "Quickly switch and manage open tabs.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.webp"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{5b14ba84-06b2-4852-945c-c432cc9d9995}"}}}

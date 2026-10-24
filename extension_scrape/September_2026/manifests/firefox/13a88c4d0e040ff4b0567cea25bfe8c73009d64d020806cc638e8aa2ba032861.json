@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "jbzdyBlocker", "version": "1.1", "description": "Zablokuj jbzdy do godziny 19", "content_scripts": [{"matches": ["*://*.jbzdy.eu/*"], "js": ["main.js"]}], "background": {"scripts": ["backbutton.js"]}, "icons": {"48": "icons/logo.png"}, "browser_action": {"default_icon": {"48": "icons/logo_small.png"}}, "permissions": ["tabs", "<all_urls>"]}

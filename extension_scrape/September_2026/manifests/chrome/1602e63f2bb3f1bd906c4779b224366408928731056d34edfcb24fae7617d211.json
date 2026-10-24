@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Universal Discourse Highlighter", "version": "1.0", "description": "Highlights staff and moderator posts on any Discourse forum with a dark red background.", "icons": {"128": "icon128.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

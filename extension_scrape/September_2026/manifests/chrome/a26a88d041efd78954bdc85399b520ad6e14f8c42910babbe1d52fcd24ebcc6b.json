@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Jules IME Control", "version": "1.0", "description": "Prevents chat submission when pressing Enter during Japanese IME conversion on Jules", "content_scripts": [{"matches": ["*://jules.google.com/*"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab Activate V2", "version": "1.3", "description": "Automatically focuses new tabs, avoiding issues during session restoration.", "permissions": ["tabs"], "background": {"service_worker": "background.js"}, "icons": {"128": "/icon128.png"}}

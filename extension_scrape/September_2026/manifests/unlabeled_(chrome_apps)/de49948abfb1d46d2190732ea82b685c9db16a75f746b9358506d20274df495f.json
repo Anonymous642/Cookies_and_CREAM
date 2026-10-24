@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Jungle Gym", "description": "Work up a sweat by gettin' down in the jungle.", "version": "1.0.2.1", "icons": {"16": "icon16.ico", "128": "icon128.png"}, "app": {"launch": {"local_path": "junglegym.html"}}, "permissions": ["unlimitedStorage"], "offline_enabled": true}

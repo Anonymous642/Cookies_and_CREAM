@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Video New Tab", "version": "1.0", "description": "Custom new tab page with video background.", "browser_specific_settings": {"gecko": {"id": "video-new-tab@example.com", "data_collection_permissions": {"required": ["none"]}}}, "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["storage"]}

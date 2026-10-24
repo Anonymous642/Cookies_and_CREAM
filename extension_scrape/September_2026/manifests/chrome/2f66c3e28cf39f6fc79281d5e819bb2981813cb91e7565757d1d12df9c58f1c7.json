@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SIAHL TimeToScore Schedule Filter", "version": "1.0", "description": "Adds a filter box to the season schedule page.", "content_scripts": [{"matches": ["*://stats.sharksice.timetoscore.com/display-schedule.php*"], "js": ["content.js"], "css": ["style.css"]}]}

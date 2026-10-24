@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Bluesky Keyboard Shortcuts", "version": "1.0", "description": "Adds keyboard shortcuts to Bluesky", "content_scripts": [{"matches": ["https://bsky.app/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "bluesky-keyboard-shortcuts@rictic.com"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "ROT13 Cipher", "version": "1.0", "description": "ROT13 Cipher: Simple text obfuscator", "action": {"default_popup": "popup.html", "default_icon": "rot13_cipher.png"}, "icons": {"128": "rot13_cipher.png"}, "browser_specific_settings": {"gecko": {"id": "erinschmidttz4336@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

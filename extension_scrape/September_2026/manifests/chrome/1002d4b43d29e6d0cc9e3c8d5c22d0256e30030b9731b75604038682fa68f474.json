@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Dark Mode", "version": "1.5", "manifest_version": 3, "author": "Arya", "permissions": ["activeTab", "scripting", "storage"], "action": {"default_popup": "index.html", "default_title": "Dark Mode"}}

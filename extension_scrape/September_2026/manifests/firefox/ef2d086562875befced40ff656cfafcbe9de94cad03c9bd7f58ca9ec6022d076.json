@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Title + URL", "version": "1.12", "description": "URL in the title of the window. Adds the current tab url to the title of the window", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{0bc48ece-88f0-46c4-ae49-fcad66213584}"}}}

@@ -1,0 +1,1 @@
+{"name": "youtube-fix", "description": "Fix YouTube huge ass grid", "version": "1.0", "manifest_version": 3, "content_scripts": [{"matches": ["https://*.youtube.com/*", "https://youtube.com/*"], "css": ["fix.css"]}], "browser_specific_settings": {"gecko": {"id": "youtube-fix@nexsqaud.github.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TV Data Sniffer v6", "version": "6.0", "description": "Market Strategy Dashboard for TradingView", "host_permissions": ["*://*.tradingview.com/*"], "content_scripts": [{"matches": ["*://*.tradingview.com/chart/*"], "js": ["content.js"], "run_at": "document_start", "world": "MAIN"}]}

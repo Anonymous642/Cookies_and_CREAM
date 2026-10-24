@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Birthday Wish Generator", "version": "1.0.0", "description": "Generate random birthday wishes that are fun, meaningful, humorous, or touching.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}}

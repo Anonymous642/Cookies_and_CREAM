@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Detect Language", "description": "This extension will help you to detect any language and will help you to detect upto 3 languages at a time", "version": "2.2", "action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "manifest_version": 3}

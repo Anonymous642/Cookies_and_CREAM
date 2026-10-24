@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Signature Sniper", "version": "1.1.0", "description": "Remove the Proton Mail signature block", "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://mail.proton.me/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "signature-sniper@herbs.boop.cat", "data_collection_permissions": {"required": ["none"]}}}}

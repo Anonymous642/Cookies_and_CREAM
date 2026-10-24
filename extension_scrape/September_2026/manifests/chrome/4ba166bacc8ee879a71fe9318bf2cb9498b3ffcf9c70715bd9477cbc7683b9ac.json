@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Task Alerts To-Do List", "description": "Tasklist Extension", "version": "1.0.0", "permissions": ["storage", "alarms", "notifications"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "extension.html", "default_title": "Open TODO Reminders"}}

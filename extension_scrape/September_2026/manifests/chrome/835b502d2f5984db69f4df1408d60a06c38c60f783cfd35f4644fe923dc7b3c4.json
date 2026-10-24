@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Virar Documento", "version": "1.1", "permissions": ["activeTab", "scripting"], "action": {"default_title": "Abrir Ferramenta"}, "background": {"service_worker": "background.js"}}

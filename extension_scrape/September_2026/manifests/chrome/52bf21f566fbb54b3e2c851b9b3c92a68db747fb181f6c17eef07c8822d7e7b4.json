@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "D\u00e2nCh\u01a1iTi\u1ec1n\u1ea2o", "description": "D\u00e2n Ch\u01a1i Ti\u1ec1n \u1ea2o.", "version": "1.0", "manifest_version": 3, "background": {"service_worker": "background.js"}, "icons": {"128": "icon.png"}, "action": {"default_popup": "popup.html"}}

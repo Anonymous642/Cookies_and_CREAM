@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Motivation Tab", "version": "1.0", "description": "Display a motivational quote in each new tab", "chrome_url_overrides": {"newtab": "newtab.html"}, "host_permissions": ["https://api.quotable.io/*"], "icons": {"128": "icon.png"}}

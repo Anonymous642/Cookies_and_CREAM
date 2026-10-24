@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Single Window Mode", "version": "1.0.1", "description": "Consolidates tabs scattered across multiple windows into the current window", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{f7d3c842-9e5a-4b76-8d91-2a7e9c4f0b35}", "strict_min_version": "139.0"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "The Chainz Game", "description": "A game where you have to get alot of dollars to win.", "version": "1.0", "manifest_version": 2, "app": {"launch": {"local_path": "main.html"}}, "icons": {"16": "icon_16.png", "128": "icon_128.png"}}

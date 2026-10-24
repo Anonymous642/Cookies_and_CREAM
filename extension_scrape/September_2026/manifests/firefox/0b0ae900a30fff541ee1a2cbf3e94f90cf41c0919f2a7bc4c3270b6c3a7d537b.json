@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Big Red Timer", "version": "1.0", "description": "Turns chess timers red when low on time.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*.chess.com/*", "*://*.lichess.org/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{7a584044-7e52-4e2d-aef9-97362f9878c8}"}}}

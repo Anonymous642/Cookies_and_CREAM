@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Zap", "version": "1.1.0", "action": {"default_popup": "index.html"}, "icons": {"16": "lightning.png"}, "description": "Zap is a minimalistic tool for writing scratch notes. It's completely free, and the notes are stored on your device."}

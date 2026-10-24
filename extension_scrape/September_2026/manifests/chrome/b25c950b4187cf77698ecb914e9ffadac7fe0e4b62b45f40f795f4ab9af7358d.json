@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Preview cloth composition", "version": "1.0", "description": "Preview fabric composition without opening each product page", "content_scripts": [{"matches": ["https://www.reserved.com/*"], "js": ["content.js"]}]}

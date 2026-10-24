@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DarkBapApi", "version": "1.0", "description": "Dark mode for all webpages in binaryanalysisplatform.github.io/bap/api/odoc/.", "icons": {"36": "icons/baseline_brightness_medium_black_18dp.png"}, "content_scripts": [{"matches": ["*://*.binaryanalysisplatform.github.io/bap/api/odoc/*"], "js": ["dark_bap_api.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Minimal Shortener", "version": "1.0", "description": "R\u00fat g\u1ecdn link nhanh ch\u00f3ng v\u1edbi phong c\u00e1ch t\u1ed1i gi\u1ea3n.", "permissions": ["activeTab"], "action": {"default_popup": "popup.html", "default_icon": "icon128.png"}, "icons": {"128": "icon128.png"}}

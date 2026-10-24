@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tas Erp Export", "version": "1.0", "description": "Guide to export timesheet file from TAS-ERP software.", "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "tas_erp_export@addon.dev"}}}

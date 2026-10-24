@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HomeTerm, the terminal homepage.", "version": "0.1.2", "description": "A developer friendly browser start page!", "background": {"service_worker": "sw.js"}, "permissions": ["tabs"], "icons": {"128": "media/image.png"}}

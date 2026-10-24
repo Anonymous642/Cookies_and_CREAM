@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Use 'viewport' Meta-Tag Checker", "version": "1.0", "description": "Checks if the current website uses the 'viewport' meta-tag for mobile optimization.", "permissions": ["tabs", "webNavigation"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "viewport_meta_tag_checker_extension@gmail.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Oklahoma", "description": "Play Oklahoma Gin card game!", "version": "1.0", "app": {"urls": [], "launch": {"web_url": "http://oklahoma-app.appspot.com/play.html"}}, "icons": {"128": "icon.png"}, "permissions": ["unlimitedStorage"]}

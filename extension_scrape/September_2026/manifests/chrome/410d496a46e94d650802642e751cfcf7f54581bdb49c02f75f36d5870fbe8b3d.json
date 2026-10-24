@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CODEOWNERS Hoist", "description": "A web browser extension to hoist files owned by viewer in Github's displayed diffs.", "version": "0.1.0", "manifest_version": 3, "content_scripts": [{"matches": ["https://github.com/*/changes*"], "js": ["hoist.js"]}]}

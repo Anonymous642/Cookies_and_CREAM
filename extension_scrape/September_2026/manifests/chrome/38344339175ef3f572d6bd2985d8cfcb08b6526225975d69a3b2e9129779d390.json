@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Google Drive Recent Files", "version": "1.2", "description": "Displays recently opened files in Google Drive.", "permissions": ["history"], "icons": {"128": "icon128.png"}, "action": {"default_popup": "popup.html"}, "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Chrome Workspace Saver", "version": "1.0", "description": "Save and restore open Chrome tabs.", "permissions": ["tabs", "storage"], "action": {"default_popup": "popup.html"}, "background": {"service_worker": "background.js"}}

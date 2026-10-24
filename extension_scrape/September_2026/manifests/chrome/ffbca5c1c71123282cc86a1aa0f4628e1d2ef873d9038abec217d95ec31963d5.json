@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Shiurim Fullscreen", "version": "1.3.1", "description": "Makes Daily Shiurim Fullscreen on click", "permissions": [], "content_scripts": [{"matches": ["https://he.chabad.org/dailystudy/*"], "js": ["content.js"], "css": ["content.css"]}]}

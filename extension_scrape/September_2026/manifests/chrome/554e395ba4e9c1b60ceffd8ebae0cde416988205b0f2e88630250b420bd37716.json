@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HelpMe Gemini", "description": "A user training tool to help individuals craft powerful prompts, resulting in better results from Gemini for Workspace", "version": "1.0", "action": {"default_popup": "index.html", "default_icon": "assets/app-logo.png"}}

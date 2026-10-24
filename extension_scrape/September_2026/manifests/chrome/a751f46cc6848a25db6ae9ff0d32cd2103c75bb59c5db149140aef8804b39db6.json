@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Daily Motivation Quote", "version": "1.0.0", "description": "Shows a cool motivational quote in English every time you open the popup.", "action": {"default_title": "Daily Quote", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

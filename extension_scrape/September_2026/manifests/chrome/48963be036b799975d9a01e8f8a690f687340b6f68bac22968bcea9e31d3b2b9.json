@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Scholarship websites", "manifest_version": 3, "version": "4.0", "description": "List of websites post scholarships", "icons": {"16": "icon.png"}, "action": {"default_icon": {"16": "icon.png"}, "default_popup": "popup.html"}}

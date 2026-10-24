@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ygonwah", "description": "helping dn", "version": "1.2.3", "action": {"default_popup": "popup.html"}, "manifest_version": 3, "permissions": ["activeTab", "storage"], "content_scripts": [{"matches": ["https://*.duelingbook.com/*"], "run_at": "document_idle", "js": ["tool.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "bCisive", "description": "Decision mapping editor", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"launch": {"web_url": "https://www.bcisiveonline.com/chromeapp/launcher/"}}, "offline_enabled": true}

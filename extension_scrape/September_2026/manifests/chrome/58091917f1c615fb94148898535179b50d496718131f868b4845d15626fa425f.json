@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "carpincho", "description": "", "manifest_version": 3, "version": "1.0.1", "icons": {"16": "favicon-16x16.png", "48": "android-icon-48x48.png"}, "action": {"default_popup": "./index.html"}, "permissions": ["scripting", "storage"], "host_permissions": ["<all_urls>"]}

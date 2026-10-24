@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Website Blocker", "version": "1.0", "description": "Blockiert Webseiten, die auf der Bannliste stehen.", "permissions": ["webRequest", "webRequestBlocking", "storage", "<all_urls>"], "background": {"scripts": ["background.js"], "persistent": true}, "browser_specific_settings": {"gecko": {"id": "{960f84f5-4001-43ad-b419-055959da01b9}"}}}

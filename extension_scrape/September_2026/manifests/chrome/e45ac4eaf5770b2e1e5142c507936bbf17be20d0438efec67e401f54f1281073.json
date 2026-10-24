@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Airtable RTL Interface", "version": "1.0", "description": "Injects RTL styling when entering an interface in Airtable.", "content_scripts": [{"matches": ["https://airtable.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

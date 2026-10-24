@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Simple RTL Fixer", "browser_specific_settings": {"gecko": {"id": "simple-rtl-fixer@erasta.github.io", "data_collection_permissions": {"required": ["none"]}}}, "version": "1.0", "permissions": ["activeTab", "scripting"], "action": {"default_title": "Fix RTL", "default_icon": "icon.svg"}, "background": {"scripts": ["background.js"]}}

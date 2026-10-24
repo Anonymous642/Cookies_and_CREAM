@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "keltrans Launcher", "description": "Quick launch for KelTrans employees", "version": "1.2.5", "icons": {"128": "icon_128.png"}, "browser_action": {"default_icon": "icon.png", "default_popup": "keltrans.html"}, "browser_specific_settings": {"gecko": {"id": "{e9d7e3fb-27af-4c2e-820e-c374dcd1d523}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hanssches Jira", "version": "1.0", "description": "Order the Link Type dropdown alphabetically", "content_scripts": [{"matches": ["https://issue.swisscom.ch/*"], "js": ["hansschesJira.js"]}], "browser_specific_settings": {"gecko": {"id": "{87905425-29c8-4a13-a243-a7aaaddc8e86}"}}}

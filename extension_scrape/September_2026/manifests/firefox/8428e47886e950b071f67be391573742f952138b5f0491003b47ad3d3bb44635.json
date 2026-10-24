@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Smart Text to Emoji", "version": "1.0", "description": "Automatically replaces text with related emojis while typing", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{45f985f9-70e7-45c8-a810-681c1949d938}"}}}

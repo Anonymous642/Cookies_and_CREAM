@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Line Counter", "version": "1.0.0", "description": "Line Counter: Counts lines in text.", "action": {"default_popup": "popup.html", "default_icon": "line_counter.png"}, "icons": {"128": "line_counter.png"}, "browser_specific_settings": {"gecko": {"id": "first-ar66ww@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

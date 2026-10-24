@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Drink Water Reminder", "description": "Get periodic reminders to drink water.", "version": "1.0.1", "permissions": ["alarms", "notifications", "storage"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Select Sentence", "version": "1.0", "description": "Adds 'Select Sentence' to the context menu. No data collected.", "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "select-sentence@kernel-studio", "data_collection_permissions": {"required": ["none"]}}}}

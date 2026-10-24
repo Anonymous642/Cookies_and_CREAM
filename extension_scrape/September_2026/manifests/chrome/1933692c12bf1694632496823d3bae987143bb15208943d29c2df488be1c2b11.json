@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "DB Replay +", "description": "Adds hotkeys to duelingbook replays", "version": "1.1.1", "icons": {}, "permissions": [], "content_scripts": [{"js": ["./content.js"], "matches": ["https://www.duelingbook.com/replay*"], "world": "MAIN"}]}

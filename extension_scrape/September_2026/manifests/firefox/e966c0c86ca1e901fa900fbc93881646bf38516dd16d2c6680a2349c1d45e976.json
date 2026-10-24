@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BTN to MVR Converter", "version": "1.0", "description": "Convert Bhutanese Ngultrum (BTN) to Maldivian Rufiyaa (MVR) instantly.", "browser_action": {"default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{754dd022-7d71-420c-97d0-96b47e344df4}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Currency Converter", "version": "1.0", "description": "Addon to convert currency values quickly.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["https://api.currencyapi.com/*"], "browser_specific_settings": {"gecko": {"id": "{af3e2bd1-ee5b-4b32-8c1b-ca1b61cc2014}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Snovasys mz listener", "version": "1.0.1", "description": "Listens url changes", "icons": {"48": "Snovasys_Logo.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "<all_urls>", "tabs"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Photography Calendar Extension", "version": "1.0", "description": "Displays a calendar with a background image on new tabs.", "chrome_url_overrides": {"newtab": "index.html"}, "action": {"default_popup": "index.html"}, "icons": {"48": "icon.png"}}

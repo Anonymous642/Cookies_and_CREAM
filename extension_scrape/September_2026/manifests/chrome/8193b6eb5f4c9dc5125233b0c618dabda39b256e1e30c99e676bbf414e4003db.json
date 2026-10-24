@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.0", "name": "CopyOverflow", "action": {}, "content_scripts": [{"matches": ["*://*.stackoverflow.com/*"], "js": ["main.js"], "all_frames": true, "run_at": "document_idle"}], "background": {"serviceworker": "background.js"}, "permissions": []}

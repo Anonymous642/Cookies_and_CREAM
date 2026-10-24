@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Logout Confirmation", "version": "1.0", "description": "Ask for confirmation before logging out", "permissions": [], "content_scripts": [{"matches": ["*://*.youtube.com/", "*://*.youtube.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "youtube-logout-confirm@cubeweb.fr", "strict_min_version": "58.0"}}}

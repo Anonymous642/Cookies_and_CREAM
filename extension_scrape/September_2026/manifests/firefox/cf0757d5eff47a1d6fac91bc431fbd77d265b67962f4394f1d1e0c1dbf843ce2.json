@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NOK to DKK Converter", "version": "1.0", "description": "Convert Norwegian Krone to Danish Krone.", "permissions": ["activeTab", "https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{a907f1b7-c50a-4b16-ab31-7faa208ec1e5}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "nChines", "version": "1.9", "description": "Troque todas as imagens do site por fotos do Chines.", "icons": {"48": "icon48.png", "128": "icon128.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["jquery.js", "nChines.js"]}], "host_permissions": ["*://*/*"]}

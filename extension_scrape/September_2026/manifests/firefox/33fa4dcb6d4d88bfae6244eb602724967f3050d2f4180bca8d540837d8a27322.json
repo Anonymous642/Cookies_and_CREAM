@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "__MSG_extensionName__", "description": "__MSG_extensionDescription__", "version": "1.0.6", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["src/headers.js", "src/background.js"]}, "icons": {"128": "icon_128.png"}, "browser_specific_settings": {"gecko": {"id": "{1112f744-8a96-4eed-9999-7d3fc0dde03c}"}}}

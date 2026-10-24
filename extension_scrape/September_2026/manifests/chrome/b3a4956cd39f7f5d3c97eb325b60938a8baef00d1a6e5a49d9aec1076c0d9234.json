@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Zakat Calculator Pro", "version": "1.0.0", "description": "Zakat Calculator Pro with branding, multi-currency, PDF, print, autosave, and dashboard UI.", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}, "permissions": ["storage"]}

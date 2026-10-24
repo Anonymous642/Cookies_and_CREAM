@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Standup Soundboard", "description": "Sounds that capture what you're really thinking during team meetings...", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "index.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83d\udcdd Simple Notes", "version": "1.0", "description": "Take, edit, and manage notes in organized groups. Your notes are saved in localStorage.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "retajghabbetl0n@hotmail.com"}}}

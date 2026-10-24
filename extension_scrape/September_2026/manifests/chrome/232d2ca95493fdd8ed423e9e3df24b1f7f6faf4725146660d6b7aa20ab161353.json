@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Dino Runner", "version": "1.0.0", "description": "A 2D dinosaur runner game with day/night cycle, coins, power-ups and more!", "action": {"default_popup": "index.html", "default_title": "Dino Runner"}, "icons": {"48": "icon48.png", "128": "icon128.png"}}

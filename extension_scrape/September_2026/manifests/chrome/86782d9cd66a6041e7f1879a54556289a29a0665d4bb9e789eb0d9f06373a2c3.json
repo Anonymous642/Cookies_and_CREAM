@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Arburg Clickup Plugin", "version": "1.0.3", "description": "Arburg Clickup Plugin", "author": "ente94", "permissions": [], "host_permissions": ["https://*.clickup.com/*"], "content_scripts": [{"matches": ["https://*.clickup.com/*"], "js": ["content.js"]}]}

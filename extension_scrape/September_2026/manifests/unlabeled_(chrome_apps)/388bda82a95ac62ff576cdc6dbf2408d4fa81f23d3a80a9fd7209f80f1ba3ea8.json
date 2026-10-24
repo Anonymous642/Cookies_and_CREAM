@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Interactive Object", "description": "Agence d\u2019ing\u00e9nierie cr\u00e9ative.", "version": "0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.interactive-object.com/"], "launch": {"web_url": "http://www.interactive-object.com/"}}}

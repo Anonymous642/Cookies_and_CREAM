@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MapsNail", "version": "1.0", "description": "Makes Google Maps Thumbnails from Google searches clickable again.", "icons": {"48": "logo.png"}, "content_scripts": [{"matches": ["*://*.google.com/search*"], "js": ["mapsnail.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{8e2a9bb3-1bcf-477b-9828-89d53cdf5b41}"}}}

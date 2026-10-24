@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "sachAI: AI Fact-Checker", "version": "1.0", "description": "Fact-check text directly from your browser with the sachAI agent.", "permissions": [], "host_permissions": ["http://127.0.0.1:8000/*"], "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dev.to Articles", "version": "1.0", "description": "Fetches A list of dev.to most popular articles for the day", "icons": {"48": "logo.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "logo.png"}, "permissions": ["tabs", "storage"], "browser_specific_settings": {"gecko": {"id": "{fb40075b-4d54-4e82-b380-af756b2c3223}"}}}

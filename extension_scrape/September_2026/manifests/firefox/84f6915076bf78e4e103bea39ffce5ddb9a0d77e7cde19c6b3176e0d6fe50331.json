@@ -1,0 +1,1 @@
+{"name": "Marium", "permissions": [], "description": "MArio", "version": "1.0.1", "manifest_version": 2, "content_scripts": [{"matches": ["<all_urls>"], "js": ["image_replacer.js"], "run_at": "document_end"}], "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{471ba5ef-80d4-4f7c-b6e8-96de86ea1199}"}}}

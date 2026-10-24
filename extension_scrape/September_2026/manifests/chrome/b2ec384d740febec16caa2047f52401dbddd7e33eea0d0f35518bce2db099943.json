@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "2.11.24", "name": "My Tasks", "action": {"default_popup": "index.html"}, "permissions": ["scripting"], "icons": {"128": "iconTask.png"}}

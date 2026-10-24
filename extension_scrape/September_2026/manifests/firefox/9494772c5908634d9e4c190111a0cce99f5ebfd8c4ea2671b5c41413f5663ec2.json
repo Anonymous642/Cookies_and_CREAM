@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Roblox Continue Sort Fix", "version": "5", "description": "Fixes the sorting of the Continue section on roblox.com", "content_scripts": [{"matches": ["https://www.roblox.com/home"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "@roblox-continue-sort-fix", "strict_min_version": "112.0"}}}

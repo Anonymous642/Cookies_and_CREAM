@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Random Vietnamese History Book Suggestor", "version": "1.0", "description": "Suggest random books about Vietnamese history.", "permissions": [], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "nora9odentiwu406@hotmail.com"}}}

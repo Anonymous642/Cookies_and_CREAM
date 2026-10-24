@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tram-One Developer Tools", "description": "Tool to help debug and build Tram-One Web Applications", "version": "1.0.0", "manifest_version": 3, "devtools_page": "devtools.html", "icons": {"32": "icon32.png", "48": "icon48.png", "128": "icon128.png", "512": "icon512.png"}}

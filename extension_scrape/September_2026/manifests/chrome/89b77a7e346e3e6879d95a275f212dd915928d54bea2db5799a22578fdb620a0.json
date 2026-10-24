@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GSC Kad\u0131n \u0130smi De\u011fi\u015ftirici", "version": "1.0", "permissions": ["storage"], "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["*://www.gscimbom.com.tr/*"], "js": ["confetti.js", "content.js"]}]}

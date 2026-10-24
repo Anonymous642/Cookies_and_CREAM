@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ICMP Types & Codes", "version": "1.0", "description": "Offline reference for ICMP types and codes.", "permissions": ["clipboardWrite"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "icmp_types_codes@xai.example"}}}

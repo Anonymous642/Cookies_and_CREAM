@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Extractify", "version": "0.1.1", "description": "Extract HTML and CSS from selected elements.", "devtools_page": "devtools.html", "icons": {"16": "images/extractify16.png", "48": "images/extractify48.png", "128": "images/extractify128.png"}}

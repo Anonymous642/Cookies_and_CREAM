@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GNX to XDR Converter", "version": "1.0", "description": "Convert GNX to XDR directly from your browser.", "permissions": ["activeTab", "https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{22d639ac-4078-4b4b-a0fb-a13304d04ab6}"}}}

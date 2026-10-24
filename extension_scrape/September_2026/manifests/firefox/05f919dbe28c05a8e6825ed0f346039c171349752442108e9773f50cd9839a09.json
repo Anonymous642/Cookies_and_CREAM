@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Weather", "version": "1.0", "description": "See current weather in your city quickly.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{454769b7-0411-4a3e-8853-1ccd43d49fab}"}}}

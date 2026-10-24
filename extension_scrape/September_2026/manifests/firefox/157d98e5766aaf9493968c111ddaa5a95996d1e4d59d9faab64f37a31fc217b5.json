@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NO IO GAMES", "version": "1.0", "description": "Blocking .io games ;)", "icons": {"48": "./icon.png"}, "applications": {"gecko": {"id": "scretplayer@iogame.com", "strict_min_version": "45.0"}}, "content_scripts": [{"matches": ["*://*.io/*"], "js": ["index.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Picture-in-Picture", "version": "1.0", "description": "Request picture-in-picture for videos by clicking the extension icon.", "action": {"default_icon": "icon.png"}, "background": {"service_worker": "background.js"}, "permissions": ["scripting", "activeTab"]}

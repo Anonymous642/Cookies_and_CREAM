@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bold Links", "version": "1.0", "description": "Automatically bold all <a> tags on every page.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_idle"}], "permissions": [], "browser_specific_settings": {"gecko": {"id": "{9f3f7e97-a66f-437f-a747-a82cbc58bff8}"}}}

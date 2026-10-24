@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "URL Shortener", "description": "Shorten the URL of a website or link.", "version": "0.0.1", "manifest_version": 3, "icons": {"128": "shortenurl.png"}, "action": {"default_popup": "popup.html"}, "options_ui": {"page": "options.html", "open_in_tab": false}, "permissions": ["storage"]}

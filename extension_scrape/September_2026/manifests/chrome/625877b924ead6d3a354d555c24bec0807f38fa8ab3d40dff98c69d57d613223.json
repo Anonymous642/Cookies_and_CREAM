@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SimpliSticky", "description": "Simple sticky notes on Chrome", "version": "1.3", "permissions": ["storage"], "action": {"default_popup": "popup.html", "default_icon": "imgs/icon.PNG"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Penny Stocks", "version": "1", "icons": {"128": "128.png", "256": "256.png"}, "app": {"urls": ["http://otcbbstocks.net/"], "launch": {"web_url": "http://otcbbstocks.net/"}}, "manifest_version": 2}

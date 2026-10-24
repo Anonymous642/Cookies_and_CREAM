@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pong Game", "version": "1.0", "description": "A simple game of Pong.", "browser_action": {"default_popup": "popup.html", "default_title": "Pong Game"}, "browser_specific_settings": {"gecko": {"id": "{ba5760da-c3b9-4898-a09b-1cf44ee13f35}"}}}

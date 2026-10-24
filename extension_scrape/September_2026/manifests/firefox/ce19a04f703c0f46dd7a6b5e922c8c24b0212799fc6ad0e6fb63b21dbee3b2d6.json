@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CUC to CUP Converter", "version": "1.0", "description": "Convert Cuban Convertible Peso (CUC) to Cuban Peso (CUP).", "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{1e257f42-9770-4450-8f3c-058354a1c09f}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Font Identifier", "version": "1.0", "description": "Identify fonts used on a webpage.", "icons": {"48": "icon.png"}, "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{6fde90e8-1fc8-467a-9f6d-a32a80d496c3}"}}}

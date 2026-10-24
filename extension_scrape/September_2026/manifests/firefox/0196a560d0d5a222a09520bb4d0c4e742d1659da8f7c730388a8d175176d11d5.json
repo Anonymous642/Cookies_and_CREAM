@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Custom Window", "version": "1.0", "description": "new custom window", "browser_action": {"default_icon": "icon.jpg", "default_popup": "todolist.html"}, "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{aec0861d-7472-49b1-9fbb-fa7caad4e8d7}"}}}

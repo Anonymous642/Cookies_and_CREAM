@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Dictionary Lookup", "version": "1.0", "description": "Right-click any English word to look up its definition instantly.", "icons": {"48": "icon.png"}, "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "quick-dictionary-lookup@hqaddon"}}}

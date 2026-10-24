@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Detektif Kata", "description": "Ekstensi ini dapat membantu mencari arti kata yang kamu baca di KBBI.", "version": "0.1.1resigned1", "permissions": ["tabs", "contextMenus"], "icons": {"16": "icon.png"}, "background": {"page": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{6aed6bce-0089-4817-9f78-2e39b7136c13}"}}}

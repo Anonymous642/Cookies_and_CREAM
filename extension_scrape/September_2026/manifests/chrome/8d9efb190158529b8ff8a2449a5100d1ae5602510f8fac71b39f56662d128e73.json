@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Adaptive Dark Mode", "version": "1.0", "description": "Auto dark mode: follow system, schedule times, or force light/dark on the active tab.", "action": {"default_popup": "popup.html"}, "permissions": ["storage", "activeTab", "scripting"]}

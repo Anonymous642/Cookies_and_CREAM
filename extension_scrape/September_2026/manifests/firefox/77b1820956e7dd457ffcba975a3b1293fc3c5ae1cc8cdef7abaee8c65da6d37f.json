@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Focus Mode Pro", "version": "1.0", "description": "Eliminate web distractions.", "action": {"default_popup": "popup.html", "default_icon": "focus_mode_pro.png"}, "icons": {"128": "focus_mode_pro.png"}, "browser_specific_settings": {"gecko": {"id": "garryzkxp502066@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

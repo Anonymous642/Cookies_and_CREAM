@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Marsey Text", "action": {"default_icon": "icon-128.png"}, "manifest_version": 3, "version": "1", "description": "turn highlighted text into the coresponding marsey-emoji characters", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}}

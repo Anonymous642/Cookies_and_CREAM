@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FNF Extension By Solarb", "description": "Play anywhere - Anytime", "version": "1.0.0", "browser_action": {"default_popup": "popup.html"}, "icons": {"16": "/images/16.png", "32": "/images/32.png", "48": "/images/48.png", "128": "/images/128.png"}, "browser_specific_settings": {"gecko": {"id": "{87e0c69f-1aab-40a3-9784-473841771d05}"}}}

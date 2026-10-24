@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Notion Link to Blue", "version": "1.0", "permissions": ["webNavigation"], "content_scripts": [{"matches": ["*://www.notion.so/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{88da38f2-881a-430d-8f34-f01df62eccc1}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mood-Based Tab Suggester", "version": "1.0", "description": "\u0110\u1ec1 xu\u1ea5t trang web theo t\u00e2m tr\u1ea1ng m\u1ed7i khi m\u1edf tab m\u1edbi.", "permissions": ["storage", "tabs"], "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{53f96c63-e35a-44a5-a670-f9e524bd73ac}"}}}

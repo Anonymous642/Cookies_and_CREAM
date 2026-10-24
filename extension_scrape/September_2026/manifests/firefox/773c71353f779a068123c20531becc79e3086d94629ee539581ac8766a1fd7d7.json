@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Context menu demo", "description": "Searches the selected text on Youtube Japanese", "version": "1.0", "icons": {"48": "icons/youjap.png", "96": "icons/youjap.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{403adba5-8111-4b61-9e75-4a26d357dda2}"}}}

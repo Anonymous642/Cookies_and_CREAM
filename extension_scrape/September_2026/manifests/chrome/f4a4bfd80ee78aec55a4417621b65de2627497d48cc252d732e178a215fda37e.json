@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Book Page Calculator", "version": "1.0", "description": "Calculates how many book pages your highlighted text equals.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

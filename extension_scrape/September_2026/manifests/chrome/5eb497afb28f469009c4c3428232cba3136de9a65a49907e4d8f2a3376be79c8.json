@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Fast Word and Character Count on Selection", "version": "1.0", "description": "Displays a word and character count when text is highlighted.", "icons": {"48": "icon.png"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

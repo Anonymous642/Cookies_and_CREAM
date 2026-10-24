@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Gerrit CLs", "version": "1.2", "manifest_version": 3, "action": {"default_popup": "popup.html"}, "permissions": ["storage"], "host_permissions": ["https://chromium-review.googlesource.com/*", "https://crrie.com/*"], "icons": {"32": "icon.png"}}

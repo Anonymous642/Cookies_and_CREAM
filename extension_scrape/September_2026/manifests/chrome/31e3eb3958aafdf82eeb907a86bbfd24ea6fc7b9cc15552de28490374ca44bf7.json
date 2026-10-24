@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CUSTOM D4X Print Extension", "description": "CUSTOM D4X Print Extension", "version": "1.0.0.0", "manifest_version": 3, "background": {"service_worker": "background.js"}, "permissions": ["printerProvider"]}

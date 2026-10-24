@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "XenForo User ID Copier", "version": "1.2", "description": "Adds a context menu to copy XenForo user ID", "permissions": ["contextMenus", "activeTab", "clipboardWrite"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "applications": {"gecko": {"id": "konplayzgaming@gmail.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HN Maker Badge", "version": "1.4", "description": "Shows OP and maker tags next to usernames on Hacker News", "content_scripts": [{"matches": ["*://news.ycombinator.com/*"], "js": ["content.js"], "css": ["styles.css"]}], "host_permissions": ["https://*.workers.dev/*"]}

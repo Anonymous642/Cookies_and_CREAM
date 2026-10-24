@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "World Time Zones", "version": "1.0", "description": "Display clocks from different time zones", "action": {"default_popup": "popup.html"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Unit Converter", "description": "A convenient unit conversion tool for your Chrome browser.", "version": "0.0.1", "action": {"default_popup": "popup/index.html", "default_icon": "unit_converter_logo.png"}}

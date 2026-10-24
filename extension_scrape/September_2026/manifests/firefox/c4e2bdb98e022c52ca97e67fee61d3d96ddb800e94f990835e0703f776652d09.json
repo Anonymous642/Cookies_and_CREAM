@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83c\udfa8 Fancy Text Generator", "version": "1.0", "description": "Convert your text into cool ASCII/Unicode artistic styles!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "nayarlrequaaetam@hotmail.com"}}}

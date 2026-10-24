@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SubReddit By New", "version": "1.0", "description": "Sorts the searched for subreddit by new.", "icons": {"48": "icons/icon-48.png"}, "chrome_settings_overrides": {"search_provider": {"name": "SubReddit By New", "search_url": "https://www.reddit.com/r/{searchTerms}/new/", "keyword": "r", "favicon_url": "https://www.reddit.com/favicon.ico"}}}

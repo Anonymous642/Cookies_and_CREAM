@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Search on OpenCorporates", "version": "1.0", "description": "Select a text, right-click and search it directly on OpenCorporates.", "permissions": ["contextMenus"], "background": {"service_worker": "background.js"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Search Clear Modifier", "version": "1.0", "description": "Prevent showing recent search results popup after clearing the search.", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["contentScript.js"], "run_at": "document_idle"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "__MSG_extName__", "description": "__MSG_extDesc__", "default_locale": "da", "version": "0.3.11", "icons": {"128": "icon128.png"}, "content_scripts": [{"js": ["lookup.js"], "matches": ["https://stavox.dk/dash/lookup.php?lookupid=*"]}, {"js": ["me.js"], "matches": ["https://stavox.dk/dash/me*"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sauce me", "version": "1.0", "description": "Adds google/yandex/iqdb/wait reverse searches to the context menu on images", "icons": {"48": "icons/icon.png"}, "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["sauce.js"]}}

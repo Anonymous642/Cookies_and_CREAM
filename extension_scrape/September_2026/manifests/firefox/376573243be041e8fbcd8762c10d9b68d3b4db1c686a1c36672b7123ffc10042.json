@@ -1,0 +1,1 @@
+{"name": "98book XL", "version": "1.1resigned1", "description": "Make 98book readable on mobile", "content_scripts": [{"matches": ["*://98book.com/readbook/*/*/*.html"], "css": ["content.css"], "run_at": "document_end"}], "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{0d16fc36-7086-4cfe-bbf4-53dea2b7939b}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CS Chat Priority Timer", "version": "2.0", "description": "C\u1ea3nh b\u00e1o th\u1eddi gian LC", "permissions": [], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["content.css"]}]}

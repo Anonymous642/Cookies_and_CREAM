@@ -1,0 +1,1 @@
+{"version": "1.0.1", "name": "Crescent Moon and Starry Night", "chrome_url_overrides": {"newtab": "index.html"}, "description": "A tranquil night sky filled with countless shimmering stars and streaking meteors", "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{16cff9bf-4530-4b20-9402-ff98695822e5}"}}}

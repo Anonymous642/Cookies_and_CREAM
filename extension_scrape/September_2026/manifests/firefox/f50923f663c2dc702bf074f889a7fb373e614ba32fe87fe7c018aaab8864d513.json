@@ -1,0 +1,1 @@
+{"manifest_version": 3, "version": "1.2", "name": "Leads tracker", "description": "Tracks leads from browser tabs", "action": {"default_popup": "index.html", "default_icon": "icon.png"}, "permissions": ["tabs", "activeTab"], "browser_specific_settings": {"gecko": {"id": "leads-tracker@adela.com", "data_collection_permissions": {"required": ["none"]}}}}

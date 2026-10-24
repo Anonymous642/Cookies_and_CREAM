@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "F365 Go Bye", "version": "0.8resigned1", "background": {"scripts": ["byego.js"]}, "permissions": ["webRequest", "webRequestBlocking", "http://forum.football365.com/*.php*"], "browser_specific_settings": {"gecko": {"id": "{6de865ad-80a3-4cc8-97bd-a468c218e3c2}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Euro to CZK Converter", "version": "1.0", "description": "A simple converter for Euro to CZK.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{dd9661f8-005e-44b4-bb1a-559c536e5110}"}}}

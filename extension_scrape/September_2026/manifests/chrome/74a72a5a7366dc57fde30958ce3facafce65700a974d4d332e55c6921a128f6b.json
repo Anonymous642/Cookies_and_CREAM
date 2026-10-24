@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Lap Timer", "version": "1.0.0", "description": "Lap Timer", "manifest_version": 3, "author": "shitanshu", "action": {"default_popup": "index.html", "default_title": "Lap Timer"}}

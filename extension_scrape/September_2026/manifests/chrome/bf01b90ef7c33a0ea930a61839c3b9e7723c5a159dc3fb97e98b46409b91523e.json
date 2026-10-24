@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Copy Emoji Extension", "description": "copy your emoji you can use emoji for easy in your web page", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "main.html", "default_icon": "ex_emoji_icon.png"}}

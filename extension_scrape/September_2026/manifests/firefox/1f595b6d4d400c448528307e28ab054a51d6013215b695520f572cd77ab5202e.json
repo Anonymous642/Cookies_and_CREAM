@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Dark Mode", "version": "1.0", "description": "T\u1ef1 \u0111\u1ed9ng b\u1eadt/t\u1eaft ch\u1ebf \u0111\u1ed9 t\u1ed1i theo gi\u1edd", "permissions": ["tabs"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_idle"}], "applications": {"gecko": {"id": "auto-dark-1ffc4a30@example.com"}}}

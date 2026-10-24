@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Image Grabber Pro", "version": "1.0", "description": "Download all page images.", "action": {"default_popup": "popup.html", "default_icon": "image_grabber_pro.png"}, "icons": {"128": "image_grabber_pro.png"}, "permissions": ["activeTab", "scripting", "downloads"]}

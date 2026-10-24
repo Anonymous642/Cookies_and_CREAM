@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "VGlive Score Toggle", "version": "1.0", "permissions": ["activeTab"], "description": "Adds a hide/show score toggle on vglive.no to prevent spoilers.", "content_scripts": [{"matches": ["https://vglive.vg.no/*"], "js": ["content.js"], "run_at": "document_end"}]}

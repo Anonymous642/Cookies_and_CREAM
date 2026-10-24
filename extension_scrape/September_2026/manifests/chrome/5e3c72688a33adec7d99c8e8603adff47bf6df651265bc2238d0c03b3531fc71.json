@@ -1,0 +1,1 @@
+{"chrome_url_overrides": {"newtab": "index.html"}, "content_security_policy": {"extension_pages": "script-src 'self'; object-src 'self'"}, "description": "This is a Dog Fans New Tab Chrome extension.", "manifest_version": 3, "name": "Dog Fans", "update_url": "https://clients2.google.com/service/update2/crx", "version": "1.3"}

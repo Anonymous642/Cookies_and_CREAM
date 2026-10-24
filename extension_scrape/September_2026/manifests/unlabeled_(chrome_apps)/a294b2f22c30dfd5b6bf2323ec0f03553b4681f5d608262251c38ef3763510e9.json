@@ -1,0 +1,1 @@
+{"app": {"launch": {"local_path": "main.html"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Trans Atlantic Flight - an endless game with interesting flight mechanics. Fly as long as you can! ", "name": "Trans Atlantic Flight", "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "manifest_version": 2, "version": "2.0"}

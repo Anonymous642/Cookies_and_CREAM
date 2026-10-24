@@ -1,0 +1,1 @@
+{"name": "Mirror Twitch.tv Player", "version": "1.2", "description": "Mirror the video player on Twitch.tv", "manifest_version": 2, "icons": {"96": "icons/PogT-3x.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["app.js"]}], "permissions": ["*://twitch.tv/*"], "browser_specific_settings": {"gecko": {"id": "{63200a59-0bd0-4582-a452-ad3940fcce48}"}}}

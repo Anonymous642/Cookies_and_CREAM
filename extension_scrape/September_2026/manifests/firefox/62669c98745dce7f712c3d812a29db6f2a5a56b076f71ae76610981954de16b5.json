@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Fullscreen", "version": "4.0", "description": "Automatically enter fullscreen mode when any window is opened.", "permissions": ["tabs", "activeTab", "webNavigation", "browserSettings"], "background": {"scripts": ["background.js"], "persistent": false}, "applications": {"gecko": {"id": "auto-fullscreen@example.com"}}}

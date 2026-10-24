@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Golden Dragon Valley", "version": "1.0", "description": "A cinematic fantasy valley wallpaper with castles and sunset skies.", "chrome_url_overrides": {"newtab": "newtab.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hide youtube end-cards of last time video", "description": "This will hide youtube end-cards of last time video", "version": "1.2", "icons": {"48": "icons/y-48.png"}, "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content-script.js"]}]}

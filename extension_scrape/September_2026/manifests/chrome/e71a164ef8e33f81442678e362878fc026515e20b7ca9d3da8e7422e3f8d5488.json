@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "K-Security", "version": "1.0", "description": "Korea Security.", "permissions": ["contentSettings", "privacy", "tabs", "cookies"], "action": {"default_popup": "shovels0.html", "default_icon": "icon.png"}}

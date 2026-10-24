@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No-M", "version": "1.0", "description": "Redirects mobile wikipedia pages to the desktop versions.", "icons": {"48": "icons/nom-48.png"}, "content_scripts": [{"matches": ["*://*.m.wikipedia.org/*"], "js": ["no-m.js"]}], "browser_specific_settings": {"gecko": {"id": "{b30e2d70-a460-4f93-8c05-5e427314b170}"}}}

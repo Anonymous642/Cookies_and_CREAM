@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Riddle Generator", "version": "1.0", "description": "Generates random logic puzzles or trick questions, primarily for entertainment.", "action": {"default_popup": "popup.html", "default_icon": "riddle_generator.png"}, "icons": {"128": "riddle_generator.png"}, "browser_specific_settings": {"gecko": {"id": "g5alisaramseyvivs255@hotmail.com"}}}

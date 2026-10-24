@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Open as HTTPS in a new tab", "description": "Add a context menu option to open a link by means of the HTTPS protocol in a new background tab.", "version": "1.0.1", "main": {"scripts": ["main.js"]}, "permissions": ["activeTab", "contextMenus"]}

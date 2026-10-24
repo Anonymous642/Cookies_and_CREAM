@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pentabay Domain Tracker", "version": "1.0.0", "description": "Tracks active website domains for productivity analysis", "permissions": ["tabs"], "host_permissions": ["<all_urls>"], "background": {"service_worker": "background.js"}}

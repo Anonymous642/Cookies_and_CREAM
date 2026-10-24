@@ -1,0 +1,1 @@
+{"description": "Pauses YouTube Videos with Spacebar, Focussed or not", "manifest_version": 2, "name": "YouTube Spacebar Pause", "version": "1.1resigned1", "content_scripts": [{"js": ["content.js"], "matches": ["http://www.youtube.com/*", "https://www.youtube.com/*"]}], "browser_specific_settings": {"gecko": {"id": "{8c565c3a-8e30-4710-b4d3-30a84b38259c}"}}}

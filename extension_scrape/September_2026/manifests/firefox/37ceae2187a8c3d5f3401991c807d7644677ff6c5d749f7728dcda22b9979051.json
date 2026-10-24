@@ -1,0 +1,1 @@
+{"manifest_version": 3, "version": "1.0", "name": "Site Tracker", "browser_specific_settings": {"gecko": {"id": "site-tracker@example.com", "data_collection_permissions": {"required": ["none"]}}}, "action": {"default_popup": "index.html", "default_icon": "image.png"}}

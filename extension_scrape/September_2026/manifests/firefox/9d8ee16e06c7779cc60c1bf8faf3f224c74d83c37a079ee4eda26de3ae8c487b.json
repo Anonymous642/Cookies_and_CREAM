@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Frame by Frame Viewer", "version": "1.0", "description": "View videos frame by frame.", "permissions": ["activeTab"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{c387006b-50e4-4223-85a9-9527ebc0dc9c}"}}}

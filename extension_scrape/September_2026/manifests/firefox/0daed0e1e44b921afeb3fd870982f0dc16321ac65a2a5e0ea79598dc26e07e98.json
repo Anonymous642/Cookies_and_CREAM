@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "trello-full-desc", "version": "1.0", "description": "always expand to full description in trello", "content_scripts": [{"matches": ["https://trello.com/*"], "js": ["expand.js"]}], "browser_specific_settings": {"gecko": {"id": "{953a4b49-6ca4-440a-8418-2434d2d47568}"}}}

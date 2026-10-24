@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ProgramasVirtualesPC", "version": "1.1", "description": "Programas Virtuales PC", "content_scripts": [{"matches": ["*://*.programasvirtualespc.net/*", "*://*.pastepvp.org/*"], "js": ["app.js"]}], "browser_specific_settings": {"gecko": {"id": "extension-pvp@franciscosolis.cl"}}, "icons": {"256": "icon.png"}}

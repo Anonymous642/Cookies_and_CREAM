@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "tweets-only", "version": "1.1resigned1", "description": "remove promoted tweets", "content_scripts": [{"matches": ["https://twitter.com/"], "js": ["tweets-only.js"]}], "browser_specific_settings": {"gecko": {"id": "{ba974e1b-ccd4-47d1-ab2a-afd6706f8285}"}}}

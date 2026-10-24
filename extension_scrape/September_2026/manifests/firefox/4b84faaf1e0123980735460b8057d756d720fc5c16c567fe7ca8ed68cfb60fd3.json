@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "XOF to TMT Converter", "version": "1.0", "description": "Convert West African CFA Franc (XOF) to Turkmenistani Manat (TMT).", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/"], "browser_specific_settings": {"gecko": {"id": "{ca7aa974-153b-4dd9-b6d5-60daafba0995}"}}}

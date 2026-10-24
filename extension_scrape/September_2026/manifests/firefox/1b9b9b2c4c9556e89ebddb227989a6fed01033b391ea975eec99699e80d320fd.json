@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BTT to PYT Timezone Converter", "version": "1.0", "description": "Convert time from Bhutan Time (BTT) to Paraguay Time (PYT).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Timezone Converter"}, "browser_specific_settings": {"gecko": {"id": "{cb614f97-0dd1-4675-b8a7-3ba078b3b11c}"}}}

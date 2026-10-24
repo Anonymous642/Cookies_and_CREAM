@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ikariam Fix", "version": "1.0.4", "description": "Make Ikariam Great Again!", "content_scripts": [{"js": ["dx.js"], "matches": ["https://forum.ikariam.gameforge.com/*"]}], "host_permissions": ["https://forum.ikariam.gameforge.com/*"]}

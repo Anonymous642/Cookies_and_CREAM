@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WordReference", "version": "1.1resigned1", "description": "Cerca in WordReference", "icons": {"48": "icons/icono.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "contextMenus", "tabs"], "browser_specific_settings": {"gecko": {"id": "{df0b540a-fa99-4bfa-b163-bc567764b18b}"}}}

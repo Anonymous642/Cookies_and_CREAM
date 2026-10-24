@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My Test Extension", "version": "1.0", "description": "A simple test extension for Firefox.", "browser_action": {"default_icon": {"16": "icon/1.png"}, "default_popup": "popup.html"}, "icon": {"16": "icon/1.png"}, "browser_specific_settings": {"gecko": {"id": "{395f6a59-2cc6-436e-bc73-1157b2ae7f99}"}}}

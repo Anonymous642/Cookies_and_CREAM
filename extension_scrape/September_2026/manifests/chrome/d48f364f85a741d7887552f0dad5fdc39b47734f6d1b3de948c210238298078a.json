@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ALT Inspector Pro", "version": "1.0.0", "description": "Detect images with missing ALT text and view existing ALT text.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

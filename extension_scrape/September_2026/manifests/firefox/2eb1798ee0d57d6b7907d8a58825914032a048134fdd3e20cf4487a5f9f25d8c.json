@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Switch to Existing Tab", "version": "1.0", "description": "Chuy\u1ec3n sang tab \u0111\u00e3 m\u1edf n\u1ebfu URL tr\u00f9ng khi m\u1edf link m\u1edbi.", "permissions": ["tabs", "webNavigation"], "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"id": "switch-to-tab@example.com"}}}

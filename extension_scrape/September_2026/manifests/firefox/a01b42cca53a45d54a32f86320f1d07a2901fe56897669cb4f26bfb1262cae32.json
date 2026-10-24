@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Cute Pet Name Suggester", "version": "1.0", "description": "Get random adorable names for your household pets!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "loylessh8081986yzuil@hotmail.com"}}}

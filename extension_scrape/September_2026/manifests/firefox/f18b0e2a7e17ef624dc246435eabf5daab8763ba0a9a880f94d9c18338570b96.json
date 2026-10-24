@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AO3 ratio filter", "version": "1.0", "description": "Let's your filter by bookmark or kudos per hits in archiveofourown", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.archiveofourown.org/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{39b25027-9524-4e21-a8ef-02bcb7c7ec56}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gmail Chat Notification Toggle", "version": "1.0", "description": "One-click toggle to mute or unmute Gmail/Google Chat browser notifications.", "permissions": ["contentSettings"], "host_permissions": ["https://mail.google.com/*"], "action": {"default_popup": "popup.html"}}

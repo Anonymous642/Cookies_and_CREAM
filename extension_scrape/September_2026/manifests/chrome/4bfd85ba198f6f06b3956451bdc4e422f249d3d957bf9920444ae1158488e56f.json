@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Skribbl.io text writer", "version": "1.0", "description": "Draw text using 5x7 dot matrix. \n Made by a cool guy called Khalid Al-Rashdi", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://skribbl.io/*"], "js": ["letters.js", "content.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GPT Counter", "version": "1.0", "description": "Tracks Model usage and displays a progress bar. Made by babi", "permissions": ["storage"], "content_scripts": [{"matches": ["https://chatgpt.com/*"], "js": ["content.js"], "run_at": "document_idle"}], "icons": {"48": "icon.png"}}

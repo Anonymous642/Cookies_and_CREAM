@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Meme Generator", "version": "1.0", "description": "T\u1ea1o meme t\u1eeb v\u0103n b\u1ea3n nhanh ch\u00f3ng.", "icons": {"48": "icon.png"}, "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{a1fecfd3-1332-468e-96de-3858578975f0}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Snake Game", "version": "0.1", "description": "A simple Snake game for Chrome.", "action": {"default_popup": "popup.html", "default_icon": {"16": "snake_16.png", "48": "snake_48.png", "128": "snake_128.png"}}, "permissions": []}

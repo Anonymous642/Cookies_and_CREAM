@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Speedgrader Score Filler", "version": "1.0", "description": "Adds buttons to SpeedGrader to autofill scores.", "content_scripts": [{"matches": ["https://*/courses/*/gradebook/speed_grader*"], "js": ["content.js"]}], "icons": {"128": "icon.png"}}

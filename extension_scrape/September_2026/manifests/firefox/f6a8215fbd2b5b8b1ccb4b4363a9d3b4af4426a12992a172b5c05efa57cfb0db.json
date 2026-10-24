@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Microsoft 362", "version": "1.0", "description": "Replaces Microsoft/Office 365 with Microsoft/Office 362", "icons": {}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["content_script.js"]}], "browser_specific_settings": {"gecko": {"id": "{95483959-243d-4763-a76d-5f52b29e497c}"}}}

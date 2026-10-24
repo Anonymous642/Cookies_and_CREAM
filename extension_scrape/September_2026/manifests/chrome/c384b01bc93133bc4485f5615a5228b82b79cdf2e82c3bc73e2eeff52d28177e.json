@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pop out window", "description": "Pops out the current tab as a window.", "version": "0.01", "background": {"service_worker": "service-worker.js"}, "action": {}, "permissions": ["activeTab"]}

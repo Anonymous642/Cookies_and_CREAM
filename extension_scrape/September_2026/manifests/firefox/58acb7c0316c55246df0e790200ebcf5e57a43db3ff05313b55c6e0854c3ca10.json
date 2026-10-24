@@ -1,0 +1,1 @@
+{"name": "Purifier", "version": "1.0.0", "description": "Sanitizes URLs by removing all tracking-related query params", "icons": {"48": "dist/icons/main.png"}, "background": {"scripts": ["dist/index.js"]}, "permissions": ["webRequest", "webRequestBlocking", "http://*/*", "https://*/*"], "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Roma", "version": "0.2", "action": {"default_icon": {"16": "128.png", "32": "128.png", "64": "128.png"}, "default_popup": "popup.html"}, "description": "Save and bulk open urls", "permissions": ["tabs", "background", "storage"], "author": "Abhilash"}

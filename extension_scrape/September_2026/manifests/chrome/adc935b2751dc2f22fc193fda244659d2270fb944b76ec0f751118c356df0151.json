@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "YTFreddy", "description": "Ar Ar Ar", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "short.html", "default_icon": "freddy.png"}, "permissions": ["storage", "tabs"], "background": {"service_worker": "background.js"}}

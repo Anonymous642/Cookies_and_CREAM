@@ -1,0 +1,1 @@
+{"name": "Redlib", "description": "Use Redlib instead of Reddit.", "version": "4.1", "manifest_version": 2, "browser_specific_settings": {"gecko_android": {}, "gecko": {"id": "{5003e502-f361-4bf6-b09e-41a844d36d33}"}}, "background": {"scripts": ["background.js"]}, "icons": {"256": "redlib.png"}, "permissions": ["webRequest", "webRequestBlocking", "*://*.reddit.com/*"]}

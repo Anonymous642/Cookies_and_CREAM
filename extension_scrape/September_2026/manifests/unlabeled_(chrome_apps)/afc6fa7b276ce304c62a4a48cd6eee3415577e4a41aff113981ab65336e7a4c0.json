@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "!!444!!!", "description": "Link a !!444!!! oldalra", "version": "1.1", "icons": {"128": "128.png"}, "app": {"urls": ["http://444.hu/"], "launch": {"web_url": "http://444.hu/"}}, "permissions": ["unlimitedStorage", "notifications"]}

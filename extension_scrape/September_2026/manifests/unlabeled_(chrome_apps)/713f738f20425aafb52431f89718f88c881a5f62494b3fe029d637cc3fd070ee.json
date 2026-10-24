@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Katakana-es", "description": "Katanana en espa\u00f1ol", "version": "0.3", "manifest_version": 2, "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "logo16.png", "128": "logo128.png"}}

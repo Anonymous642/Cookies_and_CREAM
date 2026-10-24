@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Goodreads Formatter", "version": "1.0", "description": "Adds formatting buttons above the text input box on the review page on Goodreads.", "icons": {"16": "icon16.png", "128": "logo128.png"}, "content_scripts": [{"matches": ["https://www.goodreads.com/*"], "js": ["content.js"]}]}

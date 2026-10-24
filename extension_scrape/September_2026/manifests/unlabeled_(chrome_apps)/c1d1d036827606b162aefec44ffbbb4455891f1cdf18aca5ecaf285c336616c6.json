@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Avataizer", "description": "Avataizer helps you generate avatars for your Google Contacts list.", "version": "1.0", "manifest_version": 2, "app": {"urls": ["https://avataizer.appspot.com/"], "launch": {"web_url": "https://avataizer.appspot.com/"}}, "icons": {"128": "icon_128.png"}}

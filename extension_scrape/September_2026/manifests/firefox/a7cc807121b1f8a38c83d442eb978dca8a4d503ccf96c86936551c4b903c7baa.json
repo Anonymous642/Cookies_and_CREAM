@@ -1,0 +1,1 @@
+{"name": "Counterless Youtube", "version": "0.0.2", "description": "Removes every counters such as numbers of likes, subscribers, views, comments, replies & dates", "icons": {"48": "./icon_48px.png", "96": "./icon_96px.png"}, "content_scripts": [{"run_at": "document_start", "matches": ["*://*.youtube.com/*"], "css": ["./style.css"]}], "manifest_version": 2, "permissions": []}

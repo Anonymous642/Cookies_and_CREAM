@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Notes", "manifest_version": 2, "description": "Add notes with tags and secure them with a PIN", "version": "0.0.1", "icons": {"16": "images/notes.png_16x16.png", "128": "images/notes.png_128x128.png"}, "app": {"background": {"scripts": ["background.js"]}}}

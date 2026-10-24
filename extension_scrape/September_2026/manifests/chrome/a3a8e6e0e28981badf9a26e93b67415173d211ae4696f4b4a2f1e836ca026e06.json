@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "UtilMasters Tab Exporter", "version": "1.0.0", "description": "Instantly copy a formatted list of all your open tabs to your clipboard.", "action": {"default_popup": "popup.html"}, "permissions": ["tabs"], "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

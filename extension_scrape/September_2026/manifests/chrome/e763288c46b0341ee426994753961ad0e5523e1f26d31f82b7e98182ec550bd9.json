@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "McMaster Unit Price Calculator", "version": "1.0", "description": "Automatically divides package cost by quantity to show unit price on McMaster-Carr.", "permissions": [], "content_scripts": [{"matches": ["https://*.mcmaster.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

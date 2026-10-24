@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Readability Enhancer", "version": "1.0", "description": "Enhance readability with custom styles.", "permissions": ["storage"], "action": {"default_popup": "popup.html", "default_icon": {"64": "icon.png"}}}

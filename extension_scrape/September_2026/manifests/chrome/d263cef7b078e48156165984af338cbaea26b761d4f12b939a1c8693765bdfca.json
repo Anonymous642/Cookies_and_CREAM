@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Spond Position Filter", "icons": {"128": "icon.png"}, "version": "1.1", "description": "Filter Spond recipients by position", "permissions": ["activeTab"], "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["*://*.spond.com/*"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Weather App", "version": "1.1", "description": "Weather tracking app for Penang state", "content_scripts": [{"matches": ["*://*.mozilla.org/*"]}], "permissions": ["tabs"], "background": {"scripts": ["popup/weather.js"]}, "browser_action": {"default_icon": "button/weather.png", "default_popup": "popup/weatherHTML.html"}}

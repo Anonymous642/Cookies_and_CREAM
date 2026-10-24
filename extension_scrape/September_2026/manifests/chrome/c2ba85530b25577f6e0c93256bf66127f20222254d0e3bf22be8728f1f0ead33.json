@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PMT PDF's", "version": "2.2", "description": "Removes ads on PMT PDF pages. PMT remove ads. Physicsandmathstutor.", "icons": {"512": "icon.png"}, "content_scripts": [{"matches": ["https://www.physicsandmathstutor.com/*"], "js": ["content.js"]}]}

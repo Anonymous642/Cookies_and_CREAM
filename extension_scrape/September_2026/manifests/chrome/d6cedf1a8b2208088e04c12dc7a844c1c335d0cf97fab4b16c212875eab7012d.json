@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CSVUploader Extension", "version": "1.1", "description": "Attendance Tracker For Zoom Lectures", "action": {"default_popup": "popup.html", "default_icon": "crowd-users_33887.png"}, "icons": {"128": "crowd-users_33887.png"}}

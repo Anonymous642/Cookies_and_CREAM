@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "UPUP", "options_page": "options.html", "icons": {"48": "images/icon-48.png", "128": "images/icon-128.png"}, "description": "Use Page Url or Part.", "version": "1.0.1", "permissions": ["contextMenus", "tabs", "storage"], "background": {"service_worker": "upup.js"}, "manifest_version": 3}

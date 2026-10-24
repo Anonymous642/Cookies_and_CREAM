@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Jira Dark Mode", "version": "1.1", "description": "Dark mode for all webpages matching atlassian.net/jira.", "icons": {"48": "assets/icon.svg", "96": "assets/icon.svg"}, "content_scripts": [{"matches": ["*://*.atlassian.net/*"], "js": ["jira-dark-mode.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sexify", "version": "1.0", "description": "Converts all numbers to seximal", "icons": {"48": "icons/seximal-120.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["sexify.js"]}], "browser_specific_settings": {"gecko": {"id": "{f6a70728-95c6-4a3e-85d2-d80542166ea9}"}}}

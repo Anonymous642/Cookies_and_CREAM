@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ChatGPT Corrector", "version": "1.0.0", "description": "Corrige les fautes et les syntaxes avec ChatGPT", "manifest_version": 3, "author": "Nathan Cohen Cofflard", "action": {"default_popup": "index.html", "default_title": "ChatGPT Corrector"}, "icons": {"128": "128.png"}}

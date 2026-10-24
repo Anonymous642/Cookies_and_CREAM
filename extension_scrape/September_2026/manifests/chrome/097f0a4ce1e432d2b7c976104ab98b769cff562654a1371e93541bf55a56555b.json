@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SERP Scraper - CK2J ", "version": "1.0", "description": "Une extension pour scraper les pages web.", "permissions": ["scripting"], "host_permissions": ["*://*/*"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "NepTab - A Beautiful New Tab", "version": "2.1.14", "description": "A customizable New Tab page with backgrounds and widgets.", "icons": {"128": "/image/neptab.png"}, "chrome_url_overrides": {"newtab": "index.html"}}

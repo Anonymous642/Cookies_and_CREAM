@@ -1,0 +1,1 @@
+{"name": "Preview links or tabs without switching away", "version": "0.0.3", "short_name": "Quick Peek", "manifest_version": 2, "permissions": ["<all_urls>", "tabs", "contextMenus", "webNavigation"], "background": {"scripts": ["/background.js"]}, "browser_specific_settings": {"gecko": {"id": "{f6ff37e9-0f2a-41c7-8673-be2def87dba5}"}}}

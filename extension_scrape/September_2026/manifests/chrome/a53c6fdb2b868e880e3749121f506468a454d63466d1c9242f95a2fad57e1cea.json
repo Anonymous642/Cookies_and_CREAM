@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "bookmrks.io", "version": "1.0", "manifest_version": 3, "permissions": ["tabs", "activeTab"], "action": {"default_icon": {"16": "icons/default.png"}}, "background": {"service_worker": "background.js"}, "host_permissions": ["<all_urls>"]}

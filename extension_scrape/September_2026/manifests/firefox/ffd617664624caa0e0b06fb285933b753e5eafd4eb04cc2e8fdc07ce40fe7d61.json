@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Translate", "version": "1.0", "description": "P\u0159ekl\u00e1d\u00e1 vybran\u00fd text do \u010de\u0161tiny nebo angli\u010dtiny.", "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{148cb3ad-0e59-4a43-b975-433a98d6301e}"}}}

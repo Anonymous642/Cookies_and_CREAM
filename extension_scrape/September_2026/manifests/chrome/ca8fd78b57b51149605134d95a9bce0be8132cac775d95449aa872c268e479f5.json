@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bloquear WhatsApp Web en Inc\u00f3gnito", "version": "1.0", "manifest_version": 3, "description": "Evita el uso de WhatsApp Web en modo inc\u00f3gnito.", "permissions": ["tabs"], "host_permissions": ["*://web.whatsapp.com/*"], "background": {"service_worker": "background.js"}, "icons": {"128": "icon.png"}}

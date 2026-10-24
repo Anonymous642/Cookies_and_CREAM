@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Github Light Favicon", "version": "1.1", "description": "Changes Github's favicon to be white.", "icons": {}, "content_scripts": [{"matches": ["*://*.github.com/*"], "js": ["github-light-favicon.js"]}]}

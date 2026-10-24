@@ -1,0 +1,1 @@
+{"manifest_version": 2, "content_scripts": [{"matches": ["<all_urls>"], "js": ["popup.js"]}], "name": "Pro Coffee Guide Launcher", "description": "Quick launch Pro Coffee Guide", "version": "1.0.0", "icons": {"20": "icon.jpg", "48": "icon48.png", "126": "icon_128.png"}, "browser_action": {"default_icon": "icon48.png", "default_popup": "popup.html"}, "permissions": ["activeTab"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Markdown \u2192 BBCode Injektor", "version": "1.0.1", "description": "P\u0159ev\u00e1d\u00ed Markdown na BBCode ve f\u00f3ru", "browser_specific_settings": {"gecko": {"id": "md2bb@forum.local", "strict_min_version": "109.0"}}, "content_scripts": [{"matches": ["https://forum.ubuntu.cz/*"], "js": ["content.js"], "run_at": "document_idle"}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "OneViewer", "version": "1.1", "manifest_version": 2, "permissions": ["storage", "unlimitedStorage", {"fileSystem": ["write", "retainEntries", "directory"]}], "icons": {"16": "icons/dset_16.png", "48": "icons/dset_48.png", "128": "icons/dset_128.png"}, "app": {"background": {"scripts": ["background.js"]}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick google search", "version": "1.0", "description": "The ideal script when you need to google things fast with a simple press of a key", "icons": {}, "content_scripts": [{"matches": ["*://cachedownload.casino.pokersnai.it/*"], "js": ["script.js"]}]}

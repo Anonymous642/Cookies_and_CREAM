@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "InControl", "version": "1.5", "description": "A circle clicker game and a 30 second breathing exercise to gain back control.", "background": {"service_worker": "background.js"}, "action": {}}

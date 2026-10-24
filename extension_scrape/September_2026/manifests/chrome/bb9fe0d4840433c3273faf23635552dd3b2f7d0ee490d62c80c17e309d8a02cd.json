@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "VORTEX // FLIGHT SCOUT", "version": "1.3", "description": "High-velocity mathematical flight telemetry scout.", "permissions": ["activeTab", "scripting"], "host_permissions": ["https://*.google.com/*"], "action": {"default_popup": "popup/popup.html", "default_icon": "icon.png"}}

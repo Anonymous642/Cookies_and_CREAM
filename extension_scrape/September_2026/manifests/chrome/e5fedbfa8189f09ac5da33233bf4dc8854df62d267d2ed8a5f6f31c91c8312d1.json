@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Margin Calculator", "description": "Margin Calculator normalizes raw odds to fair, margin-free values for up to 10 bookies in multiple formats.", "version": "3.2", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Thin Scrollbar Everywhere", "version": "1.2", "description": "Thin Scrollbar Everywhere", "content_scripts": [{"matches": ["<all_urls>"], "js": ["bruh.js"]}], "browser_specific_settings": {"gecko": {"id": "sirvoraky@gmail.com"}}}

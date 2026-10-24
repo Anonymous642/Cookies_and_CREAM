@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Node.js Blocker", "version": "1.0", "description": "Blocks the display of Node.js on the current website", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{735df1c3-8794-43b0-ba2d-f298f61e11ba}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "AIBeGone", "version": "1.0.0", "description": "A chrome extension to hide the Google AI responses to searches", "manifest_version": 3, "author": "Craig Sirota", "content_scripts": [{"matches": ["*://*.google.com/*"], "js": ["script.js"], "run_at": "document_end"}]}

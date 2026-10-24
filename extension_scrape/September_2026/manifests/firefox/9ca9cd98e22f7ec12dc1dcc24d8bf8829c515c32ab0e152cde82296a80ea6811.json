@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VidSrcExtension", "version": "1.0", "description": "", "icons": {"45": "vidsrc.png"}, "content_scripts": [{"matches": ["*://*.imdb.com/title/*"], "js": ["imdbButton.js"]}], "browser_specific_settings": {"gecko": {"id": "{c87de99b-0305-4f16-a9d5-bd2632a22267}"}}}

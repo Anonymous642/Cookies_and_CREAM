@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ShareAndMarkdown", "version": "1.0.3", "manifest_version": 3, "description": "Clipboard copy the URL and title of the page in Markdown format or with a title link.", "permissions": ["tabs"], "action": {"default_icon": "icon.png", "default_popup": "src/index.html"}}

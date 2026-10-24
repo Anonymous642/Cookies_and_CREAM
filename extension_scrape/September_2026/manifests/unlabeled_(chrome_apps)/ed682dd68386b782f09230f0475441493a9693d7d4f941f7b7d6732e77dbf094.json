@@ -1,0 +1,1 @@
+{"app": {"launch": {"height": 720, "container": "panel", "local_path": "index.html", "width": 1280}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Flor beta teste ", "name": "Tom da Flor", "permissions": ["unlimitedStorage"], "offline_enabled": true, "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "manifest_version": 2, "version": "2.1"}

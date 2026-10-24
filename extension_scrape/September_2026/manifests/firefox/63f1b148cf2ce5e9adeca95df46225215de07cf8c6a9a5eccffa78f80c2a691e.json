@@ -1,0 +1,1 @@
+{"name": "Automeet", "version": "0.3", "description": "Adds google meet link automatically", "manifest_version": 2, "icons": {"48": "icons/icon48.png"}, "content_scripts": [{"matches": ["https://calendar.google.com/*"], "js": ["contentScript.js"]}], "browser_specific_settings": {"gecko": {"id": "{8f147e4f-0e8c-4e31-aeca-07f5a4c11369}"}}}

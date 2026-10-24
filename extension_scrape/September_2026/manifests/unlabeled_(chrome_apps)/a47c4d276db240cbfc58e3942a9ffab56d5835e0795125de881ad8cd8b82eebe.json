@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "SandKlock Reader", "description": "Read your feed in your own style", "version": "2.0", "app": {"urls": ["http://reader.sandklock.com/"], "launch": {"web_url": "http://reader.sandklock.com/"}}, "icons": {"128": "128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "IndoMuse", "manifest_version": 2, "description": "The geometric map of Indonesian traditional songs", "version": "1.0.0", "icons": {"16": "ico/16.png", "128": "ico/128.png"}, "app": {"background": {"scripts": ["background.js"]}}}

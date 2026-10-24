@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Retorno de inversion mineria", "manifest_version": 3, "version": "0.2", "description": "Calculador de retorno de inversion para placas de video", "action": {"default_title": "Calcular retorno", "default_popup": "index.html"}, "background": {"service_worker": "background.js"}}

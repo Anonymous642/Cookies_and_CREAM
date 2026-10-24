@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube NoCookie Opener", "version": "2.0", "description": "Open YouTube videos in youtube-nocookie.com embed format", "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{0ddd88c9-3d14-4421-957a-eb62ab685a4e}"}}}

@@ -1,0 +1,1 @@
+{"description": "Adds an option to steal tweets to twitter", "manifest_version": 2, "name": "Ratero", "version": "1.0", "homepage_url": "https://github.com/levhita/ratero", "icons": {"48": "icons/ratero-48.png", "96": "icons/ratero-96.png"}, "content_scripts": [{"matches": ["*://twitter.com/*"], "js": ["ratero.js"]}]}

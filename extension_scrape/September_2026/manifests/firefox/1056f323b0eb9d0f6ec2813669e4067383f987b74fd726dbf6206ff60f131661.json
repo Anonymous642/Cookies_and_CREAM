@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "\ud83d\udc27 Penguin Break Timer", "version": "1.0", "description": "Mini clock countdown to a random break time between your work hours. Chill like a penguin!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "lacanwdossoznw@hotmail.com"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "JSON Validator", "version": "1.0", "description": "Instantly validate JSON syntax.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png", "default_title": "Validate JSON"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{c0f33540-de54-4903-9ded-28dc1f8aacb1}"}}}

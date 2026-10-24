@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Instagram Reel Fix", "version": "1.1", "description": "For\u00e7a links /reel ou /reels a abrirem como /p/ no Instagram Desktop.", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["*://www.instagram.com/*"], "js": ["content.js"], "run_at": "document_start"}]}

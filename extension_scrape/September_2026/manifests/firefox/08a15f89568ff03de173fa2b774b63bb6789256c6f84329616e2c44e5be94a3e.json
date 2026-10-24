@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "soundcloud_night_mode", "description": "Theme soundcloud.com with a darker (night mode) theme", "version": "1.2.1resigned1", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.soundcloud.com/*"], "css": ["data/soundcloud.min.css"]}], "browser_specific_settings": {"gecko": {"id": "@soundcloud_night_mode"}}}

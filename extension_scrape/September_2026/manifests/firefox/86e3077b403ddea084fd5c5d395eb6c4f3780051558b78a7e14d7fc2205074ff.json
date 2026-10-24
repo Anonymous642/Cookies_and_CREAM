@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Cleaner", "version": "1.0", "description": "Removes unwanted elements from YouTube pages.", "permissions": ["scripting"], "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["content.js"]}], "applications": {"gecko": {"id": "youtube-cleaner@pekand.local"}}}

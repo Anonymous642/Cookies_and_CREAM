@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "__MSG_extension_name__", "version": "1.0", "description": "__MSG_extension_description__", "permissions": ["storage"], "action": {"default_icon": "icon.png", "default_title": "Todo", "default_popup": "popup.html"}, "omnibox": {"keyword": "todo"}, "default_locale": "en"}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cute Quick Study Tips", "version": "1.0.0", "description": "Get quick, cute study tips in a clean popup. Local-only, no permissions.", "action": {"default_title": "Study Tips", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Boldify", "version": "1.4", "manifest_version": 3, "description": "Adds a formatting popup (bold) to all textareas.", "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "permissions": [], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["styles.css"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Checkbox Toggler", "version": "1.0", "description": "Quickly check or uncheck all checkboxes on the current page.", "permissions": ["scripting", "activeTab"], "action": {"default_popup": "popup.html", "default_title": "Checkbox Toggler"}, "icons": {"128": "icon128.png"}}

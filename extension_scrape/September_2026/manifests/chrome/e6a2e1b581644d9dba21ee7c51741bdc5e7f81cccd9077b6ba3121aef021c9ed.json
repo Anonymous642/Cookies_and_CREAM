@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "#didyouknow?", "version": "1.0.0", "description": "A random fun fact and cute animal on every new tab.", "chrome_url_overrides": {"newtab": "newtab.html"}}

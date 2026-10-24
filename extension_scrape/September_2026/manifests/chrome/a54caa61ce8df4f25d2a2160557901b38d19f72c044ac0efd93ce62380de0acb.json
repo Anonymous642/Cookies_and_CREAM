@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Kuickboard", "version": "1.0.0", "description": "A simple whiteboard with shape recognition for drawing flowcharts and diagrams.", "action": {"default_title": "Kuickboard"}, "background": {"service_worker": "background.js"}, "permissions": [], "icons": {"128": "icon.png"}}

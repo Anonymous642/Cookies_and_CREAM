@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Full Names", "version": "0.69", "icons": {"16": "16.png", "24": "24.png", "32": "32.png", "64": "64.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "css": ["style.css"]}]}

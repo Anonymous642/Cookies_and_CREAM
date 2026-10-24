@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clock-minutes", "version": "1.1", "description": "Adds minutes part of clock in Toolbar", "icons": {"48": "icon48.png"}, "browser_action": {"default_icon": "none.png", "default_title": "clock-minutes"}, "background": {"scripts": ["badge-clock.js"]}}

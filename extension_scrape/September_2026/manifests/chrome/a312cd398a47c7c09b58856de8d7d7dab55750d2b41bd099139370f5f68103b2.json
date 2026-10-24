@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Mister Js Kool Program", "version": "1.0", "manifest_version": 3, "permissions": [], "background": {"service_worker": "background.js"}, "icons": {"16": "img/whistle-16.png", "64": "img/whistle-64.png", "128": "img/whistle-128.png"}, "action": {"default_popup": "popup.html"}}

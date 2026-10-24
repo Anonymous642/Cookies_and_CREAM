@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Teachers' Day Gift Suggester", "version": "1.0", "description": "Suggests thoughtful gifts for teachers on Vietnam's Teachers' Day (November 20th).", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "x3tamramolnarosr1353@hotmail.com"}}}

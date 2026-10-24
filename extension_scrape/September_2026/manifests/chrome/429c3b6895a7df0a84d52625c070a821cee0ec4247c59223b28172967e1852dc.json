@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Smart Tab Manager", "version": "1.0", "description": "Intelligently organize and manage your tabs.", "permissions": ["tabs", "tabGroups"], "host_permissions": ["<all_urls>"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}}

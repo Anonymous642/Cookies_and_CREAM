@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Slovarji Fran", "version": "1.0", "description": "I\u0161\u010di s Fran.si", "chrome_settings_overrides": {"search_provider": {"name": "Fran", "search_url": "https://fran.si/iskanje?Query={searchTerms}", "keyword": "@fran", "favicon_url": "https://fran.si/favicon.ico"}}}

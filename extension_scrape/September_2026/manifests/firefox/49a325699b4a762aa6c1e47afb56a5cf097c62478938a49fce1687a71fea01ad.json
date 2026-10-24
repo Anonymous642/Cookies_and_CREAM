@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "faceit kpr", "version": "1.0", "description": "faceit see team kpr", "content_scripts": [{"matches": ["https://www.faceit.com/en/csgo/room/*"], "js": ["content.js"]}], "permissions": ["activeTab", "tabs", "https://www.faceit.com/en/csgo/room/*", "storage"], "browser_specific_settings": {"gecko": {"id": "{bef2b91d-a8f8-4eb4-a3de-8d7395c275f4}"}}}

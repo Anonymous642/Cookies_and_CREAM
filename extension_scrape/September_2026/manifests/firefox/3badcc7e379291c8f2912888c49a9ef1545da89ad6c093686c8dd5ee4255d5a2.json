@@ -1,0 +1,1 @@
+{"description": "Removes Facebook Sponsored stories", "manifest_version": 2, "name": "nofacespam", "version": "1.6resigned1", "icons": {"48": "icons/noicon.png"}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["nofacespam.js"]}], "browser_specific_settings": {"gecko": {"id": "{2b40ae34-dc97-43d1-a946-ffbc5974ead8}"}}}

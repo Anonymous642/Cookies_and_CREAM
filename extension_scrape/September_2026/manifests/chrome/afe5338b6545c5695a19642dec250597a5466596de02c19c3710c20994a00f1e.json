@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Amailitzer", "version": "1.0.0", "description": "Analyze emails for cultural appropriateness and effectiveness.", "action": {"default_popup": "index.html"}, "permissions": []}

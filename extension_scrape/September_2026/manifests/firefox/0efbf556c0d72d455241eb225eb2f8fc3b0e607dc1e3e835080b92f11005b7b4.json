@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clean LinkedIn", "version": "1.0", "description": "makes LinkedIn slightly less annoying", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.linkedin.com/*"], "js": ["cleanLinkedIn.js"]}], "browser_specific_settings": {"gecko": {"id": "{aab4126d-4b9a-4e7d-aecf-fe4d933f60b1}"}}}

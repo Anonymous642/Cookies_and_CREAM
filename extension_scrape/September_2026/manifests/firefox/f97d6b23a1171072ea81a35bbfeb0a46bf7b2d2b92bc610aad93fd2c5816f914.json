@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Exchange Shopper", "description": "Search all military exchanges at once", "version": "1.0", "background": {"scripts": ["app.js"]}, "icons": {"48": "../icon-48.png"}, "omnibox": {"keyword": "mil"}, "browser_specific_settings": {"gecko": {"id": "{8418f0d2-3de0-428b-b1d8-da7a611442a1}"}}}

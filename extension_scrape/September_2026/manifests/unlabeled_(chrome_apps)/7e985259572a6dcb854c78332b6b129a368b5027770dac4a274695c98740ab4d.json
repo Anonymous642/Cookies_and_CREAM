@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TV", "description": "Watch the most popular TV channels online ", "version": "1.2", "permissions": ["webview"], "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "tv-16.png", "128": "tv-128.png"}}

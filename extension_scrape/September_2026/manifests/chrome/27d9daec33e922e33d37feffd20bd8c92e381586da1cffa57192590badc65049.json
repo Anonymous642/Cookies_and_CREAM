@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Read Better", "version": "2.0", "description": "We are all readers..", "permissions": ["history", "scripting"], "host_permissions": ["<all_urls>"], "action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "background": {"service_worker": "background.js"}}

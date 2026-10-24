@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "WaerFix Cursor", "version": "1.0", "description": "Displays scannable QR codes for Pallet Tags or Bin Locations on Hover.", "permissions": ["activeTab"], "action": {"default_icon": "icon.png", "default_title": "Make QR Codes"}, "background": {"service_worker": "background.js"}}

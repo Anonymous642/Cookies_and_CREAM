@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AI Usage Policy Banner", "version": "1.2", "description": "Displays a mandatory AI usage policy banner on approved AI websites before usage.", "content_scripts": [{"matches": ["https://chatgpt.com/*", "https://gemini.google.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

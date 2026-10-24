@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Odyssey Schedule", "description": "This Extension will help track your schedule to get you to places on time", "version": "4.0", "manifest_version": 3, "action": {"default_popup": "index.html", "default_icon": "default_image.png"}}

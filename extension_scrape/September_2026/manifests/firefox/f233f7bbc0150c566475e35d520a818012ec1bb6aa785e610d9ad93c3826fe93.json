@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sabdartha", "version": "1.0", "description": "Get instant word meanings by selecting text.", "permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "icons": {"48": "icons/icon.png"}, "browser_specific_settings": {"gecko": {"id": "{c0c2f88f-6aae-457d-b2fc-6753473ac7bd}"}}}

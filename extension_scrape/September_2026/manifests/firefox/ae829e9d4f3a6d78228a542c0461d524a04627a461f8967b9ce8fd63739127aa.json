@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "copy code", "version": "1.0", "description": "copies code from chatgpt to clipboard", "content_scripts": [{"matches": ["https://chatgpt.com/*"], "js": ["main.js"], "css": ["style.css"]}], "browser_specific_settings": {"gecko": {"id": "{168374cf-382e-43f6-aafe-16df09caddb4}"}}}

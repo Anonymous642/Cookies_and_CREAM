@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AWS Auto-click", "version": "1.0", "browser_specific_settings": {"gecko": {"id": "aws-auto-click@extension", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"matches": ["*://*.awsapps.com/*"], "js": ["content.js"], "run_at": "document_idle"}]}

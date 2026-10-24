@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "News Aggregator", "version": "1.0", "description": "A simple addon to aggregate and view news headlines from multiple sources.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage", "https://newsapi.org/"], "browser_specific_settings": {"gecko": {"id": "{4ec3b4f8-a5fa-43a7-abe5-443e21b388f5}"}}}

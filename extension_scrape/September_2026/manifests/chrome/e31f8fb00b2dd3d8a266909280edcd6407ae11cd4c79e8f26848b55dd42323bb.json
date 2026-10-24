@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "New Dog Tab", "version": "1.0", "description": "Displays a random dog image and fact on each new tab!", "icons": {"16": "images/icon16.png", "48": "images/icon48.png", "128": "images/icon128.png"}, "chrome_url_overrides": {"newtab": "new_tab.html"}}

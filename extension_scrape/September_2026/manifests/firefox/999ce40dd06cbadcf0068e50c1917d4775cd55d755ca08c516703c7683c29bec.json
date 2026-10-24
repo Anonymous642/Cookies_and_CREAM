@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Angular state inspector", "description": "Helps you debug Angular component state, inside the Elements tab of the DevTools", "version": "1.5.0", "devtools_page": "devtools/index.html", "author": "Igor Klymenok", "icons": {"16": "img/angular.png", "48": "img/angular.png", "128": "img/angular.png"}}

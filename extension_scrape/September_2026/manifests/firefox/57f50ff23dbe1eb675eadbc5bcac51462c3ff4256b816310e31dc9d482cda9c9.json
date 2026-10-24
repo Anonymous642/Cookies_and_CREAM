@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RemoverPropagandasYT", "version": "1.2", "description": "Remover propagandas do Youtube.", "icons": {"48": "icons/Icon-48.png"}, "applications": {"gecko": {"id": "RemoverPropagandasYT@yahoo.com.br"}}, "content_scripts": [{"matches": ["*://*.www.youtube.com/*"], "js": ["RemoverPropagandasYT.js"]}]}

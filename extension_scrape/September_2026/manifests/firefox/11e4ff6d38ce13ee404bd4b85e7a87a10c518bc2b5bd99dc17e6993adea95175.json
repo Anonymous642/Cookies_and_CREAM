@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "noGoogleAI", "version": "1.0.1", "description": "Remove Google AI from your search results.", "permissions": ["webRequest", "webRequestBlocking", "*://*.google.com/*"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icons/robot-icon.png"}, "browser_specific_settings": {"gecko": {"id": "{9a342293-07c0-46e4-971c-94f9ecbd465f}"}}}

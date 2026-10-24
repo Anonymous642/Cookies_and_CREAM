@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Enterprise Web Data Protection", "description": "Controls file uploads, downloads, drag-and-drop, paste, and copying in supported web applications.", "version": "2.0", "permissions": [], "content_scripts": [{"matches": ["https://web.whatsapp.com/*"], "js": ["blocker.js"]}]}

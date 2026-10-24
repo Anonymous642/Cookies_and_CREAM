@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CVE to BIF Converter", "version": "1.0", "description": "Convert Cape Verdean Escudo (CVE) to Burundian Franc (BIF).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert CVE to BIF"}, "browser_specific_settings": {"gecko": {"id": "{f227d44e-0950-42db-823d-fb3dd28b7986}"}}}

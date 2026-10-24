@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "codeforces-training-rating", "version": "1.0", "description": "adds a training rating to all the codeforces users", "content_scripts": [{"matches": ["https://codeforces.com/profile/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{7b74d645-f16b-4063-9354-368c12cdc78b}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "WyMusic", "short_name": "wym", "description": "", "version": "1.0.0", "minimum_chrome_version": "38", "icons": {"16": "assets/icon_16.png", "128": "assets/icon_128.png"}, "permissions": ["webview"], "app": {"background": {"scripts": ["background.js"]}}}

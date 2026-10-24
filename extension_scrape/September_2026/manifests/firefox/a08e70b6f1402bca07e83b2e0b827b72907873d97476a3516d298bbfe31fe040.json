@@ -1,0 +1,1 @@
+{"author": "tedl57", "manifest_version": 2, "name": "Close Active Tab", "description": "Close the Active Tab.", "version": "0.0.1", "browser_specific_settings": {"gecko": {"id": "{b14fd70c-5aa5-4be8-afbd-84820c259306}"}}, "icons": {"64": "icon.png"}, "background": {"scripts": ["background_script.js"]}, "browser_action": {"default_area": "navbar"}, "permissions": ["activeTab"]}

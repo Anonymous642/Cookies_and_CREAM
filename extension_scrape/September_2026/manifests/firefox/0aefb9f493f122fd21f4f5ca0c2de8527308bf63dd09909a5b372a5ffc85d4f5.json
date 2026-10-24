@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Speedify", "version": "2.0", "description": "Adds more speed rates on video playbacks.", "icons": {"48": "icons/speed-48.png", "96": "icons/speed-96.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["thirdParty/jquery-3.5.1.slim.min.js", "speedify.js"]}]}

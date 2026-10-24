@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DnD Beyond Metric", "version": "1.0", "description": "Convert imperial to metric through the all website", "icons": {"48": "icons/dnd_beyond_metric.png"}, "content_scripts": [{"matches": ["*://*.dndbeyond.com/characters/*"], "js": ["dist/index.js"]}], "browser_specific_settings": {"gecko": {"id": "{b40d17b5-6843-4cf2-ad20-01ddffe39835}"}}}

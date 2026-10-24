@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Code Avengers", "description": "Learn to code apps and games with fun and effective learning for all ages.", "version": "1.1", "app": {"urls": ["http://codeavengers.com/"], "launch": {"web_url": "http://codeavengers.com/"}}, "icons": {"128": "icon.png"}, "manifest_version": 2, "permissions": []}

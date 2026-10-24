@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Photo Mood Detector", "version": "1.0", "description": "Detect and display the mood of an image based on its dominant colors.", "permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["mood-detector.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "photomooddetector@example.com"}}}

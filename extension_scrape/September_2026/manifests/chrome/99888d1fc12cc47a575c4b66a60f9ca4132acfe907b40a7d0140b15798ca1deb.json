@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Emoji Picker", "version": "1.0", "description": "Emoji Picker: Easy emoji access", "action": {"default_popup": "popup.html", "default_icon": "emoji_picker.png"}, "icons": {"128": "emoji_picker.png"}}

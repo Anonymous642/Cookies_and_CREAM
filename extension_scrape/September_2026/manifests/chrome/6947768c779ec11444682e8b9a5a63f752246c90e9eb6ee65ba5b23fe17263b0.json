@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Volume Controller with Boost", "version": "1.1", "description": "Control the volume of all audio and video elements on the page, with volume boost up to 600%.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

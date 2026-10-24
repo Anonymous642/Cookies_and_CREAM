@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "action": {"default_popup": "src/popup/index.html"}, "manifest_version": 3, "name": "Fusion VAA Trip Finder", "permissions": ["storage"], "version": "1.0.3"}

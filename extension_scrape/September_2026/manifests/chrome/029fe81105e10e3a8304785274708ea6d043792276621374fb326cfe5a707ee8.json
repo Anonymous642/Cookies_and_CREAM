@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Chatwork Reaction Reminder", "version": "1.1.2", "description": "Chatwork Reaction Reminder Extension", "content_scripts": [{"matches": ["https://www.chatwork.com/*"], "js": ["content.js"]}]}

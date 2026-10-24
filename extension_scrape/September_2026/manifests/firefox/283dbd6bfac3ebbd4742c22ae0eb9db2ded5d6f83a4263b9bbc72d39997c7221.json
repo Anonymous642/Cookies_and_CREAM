@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Mehr", "description": "alireza mehraban (mr.kind1382@gmail.com)", "version": "1.0", "chrome_url_overrides": {"newtab": "./templates/tabs.html"}, "browser_specific_settings": {"gecko": {"id": "parisamehraban26@gmail.com", "strict_min_version": "58.0"}}}

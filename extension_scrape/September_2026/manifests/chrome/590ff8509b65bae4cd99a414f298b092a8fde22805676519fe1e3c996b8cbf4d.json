@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Substack Posts Organiser", "version": "1.0", "description": "Export your Substack post titles and links to CSV.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "host_permissions": ["https://*.substack.com/*"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "removeTwitterViews", "version": "1.0", "description": "Fixes a terrible mistake.", "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["remove-twitter-views.js"]}], "browser_specific_settings": {"gecko": {"id": "{600fb178-cfb9-42e6-8dd1-75176b3e6002}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Simple YouTube Blocker", "version": "1.0", "description": "Blocks access to YouTube.", "host_permissions": ["*://www.youtube.com/*"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{9c9d1abf-0f5e-4d75-93b0-4567e18234f0}"}}}

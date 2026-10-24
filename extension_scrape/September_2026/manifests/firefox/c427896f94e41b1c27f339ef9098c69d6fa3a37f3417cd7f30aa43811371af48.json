@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Time Limiter", "version": "1.0", "description": "Closes all YouTube tabs when any tab reaches 20 minutes", "permissions": ["tabs", "storage"], "browser_action": {"default_popup": "popup.html"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{9f999eef-0172-489b-bdba-e57af8daedd7}"}}}

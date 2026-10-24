@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Suspension Decision Support", "description": "Supports consistent RFN/FTS consequence recommendations using category ranges and factors.", "version": "0.1.0", "action": {"default_title": "Suspension Decision Tool", "default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "IPPT Score Calculator", "version": "1.0", "description": "Calculate your IPPT score easily.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "host_permissions": [], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "ammmar@ipptscore.com", "strict_min_version": "109.0"}}}

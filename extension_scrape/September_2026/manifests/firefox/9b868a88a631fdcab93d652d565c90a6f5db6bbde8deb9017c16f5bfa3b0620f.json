@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CuteEmotes", "version": "1.0", "description": "Adds Cute Emotes/Smillies To v3rmillion.net!", "icons": {"48": "icons/shrug.png"}, "content_scripts": [{"matches": ["*://v3rmillion.net/newreply.php?tid=*"], "js": ["CuteEmotes.js"]}]}

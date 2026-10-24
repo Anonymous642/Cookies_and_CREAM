@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Just joking", "description": "Just Joking", "version": "1.0.0", "author": "Sajjad A. Ranasariya", "manifest_version": 3, "action": {"default_popup": "./popup.html"}, "icons": {"16": "./icons/16.png", "32": "./icons/32.png", "128": "./icons/128.png"}}

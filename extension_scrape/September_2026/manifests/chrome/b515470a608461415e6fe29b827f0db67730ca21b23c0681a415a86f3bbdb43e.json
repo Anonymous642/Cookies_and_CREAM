@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SafeTap", "version": "1.2", "description": "A big 'Help Me' button that contacts a saved adult when the user feels overwhelmed.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icons/icon128.png"}}, "permissions": ["storage"]}

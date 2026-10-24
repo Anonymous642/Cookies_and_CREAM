@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple Task Manager Extension", "description": "A lightweight Chrome extension to manage your tasks with ease. Add, prioritize, export, and mark tasks as completed.", "version": "1.0", "permissions": ["storage"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

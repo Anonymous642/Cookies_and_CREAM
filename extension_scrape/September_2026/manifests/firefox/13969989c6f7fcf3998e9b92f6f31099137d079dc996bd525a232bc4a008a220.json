@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reverse Image Search", "version": "0.5", "description": "It provides reverse image search capabilities on search engines such as Google, Bing, Yandex, TinEye and Karma Decay", "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus"], "browser_specific_settings": {"gecko": {"id": "{a8eab8c3-47f1-4e03-ab1d-b9346fc60378}"}}}

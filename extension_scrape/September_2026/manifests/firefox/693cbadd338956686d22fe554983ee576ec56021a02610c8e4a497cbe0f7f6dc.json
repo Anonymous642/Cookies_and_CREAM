@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto Link Opener", "version": "1.0", "description": "Automatically open all links in selected text on the browser.", "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{309063f5-1058-4c5e-8713-3bc74228d564}"}}}

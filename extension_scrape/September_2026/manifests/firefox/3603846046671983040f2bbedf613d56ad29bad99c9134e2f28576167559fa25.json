@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Stylize Expo", "description": "Tweaks the styling of the https://expo.io environment.", "version": "0.1.3resigned1", "content_scripts": [{"run_at": "document_end", "matches": ["https://*.expo.io/", "https://*.expo.io/*"], "js": ["stylizeExpo.js"]}], "browser_specific_settings": {"gecko": {"id": "{f980eecd-91d3-4a40-bfba-306d62cc70ef}"}}}

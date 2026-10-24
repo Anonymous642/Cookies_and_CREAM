@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FAI", "version": "1.0", "description": "Google.com AI Slop Removal Tool.", "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"data_collection_permissions": {"required": ["none"]}, "id": "00000011000110@karodom-addons"}}, "content_scripts": [{"matches": ["https://www.google.com/*"], "js": ["content.js"]}]}

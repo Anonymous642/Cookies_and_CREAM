@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Modern Timetable Builder", "version": "1.0.0", "description": "Create a simple personal timetable inside a clean popup interface.", "action": {"default_title": "Timetable Builder", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

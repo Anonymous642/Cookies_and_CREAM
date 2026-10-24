@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "3001 Redirect", "version": "0.1", "description": "Redirects 500 errors on localhost to port 3001", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.localhost/*"], "js": ["3001redirect.js"]}]}

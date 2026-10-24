@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SurfSafe", "version": "1.0", "description": "Analyze suspicious messages and links to detect scams.", "icons": {"128": "download.jpeg"}, "background": {"service_worker": "background.js"}, "action": {"default_popup": "index.html", "default_icon": "download.jpeg"}}

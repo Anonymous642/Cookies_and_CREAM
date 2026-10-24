@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Spoiler Blocker", "version": "1.1", "description": "Filters YouTube videos based on specific keywords to prevent spoilers.", "permissions": ["storage"], "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Silent Beat", "version": "1.0", "description": "A silent rhythm using visual beats to help you stay focused. No sound.", "browser_action": {"default_title": "Silent Beat", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "silent-beat@amo.local", "data_collection_permissions": {"required": ["none"], "optional": []}}}}

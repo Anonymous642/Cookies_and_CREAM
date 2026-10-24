@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Regex Tester", "version": "1.0", "description": "C\u00f4ng c\u1ee5 ki\u1ec3m th\u1eed bi\u1ec3u th\u1ee9c ch\u00ednh quy (Regex) nhanh ch\u00f3ng", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html", "default_title": "Regex Tester"}, "browser_specific_settings": {"gecko": {"id": "{263ee094-743b-4580-9866-3d0cc0b7fe56}"}}}

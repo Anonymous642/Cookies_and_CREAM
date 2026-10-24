@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Arthur Everywhere ", "description": "Love Arthur Morgan? See him on every website!", "version": "0.5.0", "content_scripts": [{"matches": ["<all_urls>"], "js": ["/js/Content.js"], "run_at": "document_idle"}]}

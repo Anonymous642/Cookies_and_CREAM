@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Instagram DM Focus", "version": "2.0", "description": "Restricts Instagram to DMs only.", "content_scripts": [{"matches": ["https://www.instagram.com/*"], "js": ["script.js"], "run_at": "document_end"}]}

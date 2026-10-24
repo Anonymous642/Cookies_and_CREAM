@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Media Grabber Pro", "version": "1.1", "description": "Fast image and video grabber from websites", "action": {"default_popup": "popup.html"}, "permissions": ["activeTab", "scripting", "downloads"]}

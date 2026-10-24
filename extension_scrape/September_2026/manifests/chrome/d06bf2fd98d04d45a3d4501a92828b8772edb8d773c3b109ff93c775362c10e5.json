@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Google Promo Remover", "version": "1.0", "description": "Removes the 'Choose Chrome' promotions on Google.com", "content_scripts": [{"matches": ["*://www.google.com/*", "*://google.com/*"], "css": ["styles.css"], "js": ["cleaner.js"], "run_at": "document_start"}]}

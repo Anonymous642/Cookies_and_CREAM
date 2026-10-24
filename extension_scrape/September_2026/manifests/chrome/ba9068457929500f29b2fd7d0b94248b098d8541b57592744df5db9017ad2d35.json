@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "R\u00e9cup\u00e9rer URLs de tous les onglets", "version": "1.0", "permissions": ["tabs", "downloads"], "background": {"service_worker": "background.js"}, "action": {}, "incognito": "split"}

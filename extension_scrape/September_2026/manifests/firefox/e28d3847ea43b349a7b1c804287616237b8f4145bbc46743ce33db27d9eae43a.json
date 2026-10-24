@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Control de Pesta\u00f1as Financiero", "version": "1.0", "description": "Bloqueo Financiero", "permissions": ["tabs", "https://financiero.coopjadan.fin.ec/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "controlpestanas@coopjadan.fin.ec", "data_collection_permissions": {"required": ["none"]}}}}

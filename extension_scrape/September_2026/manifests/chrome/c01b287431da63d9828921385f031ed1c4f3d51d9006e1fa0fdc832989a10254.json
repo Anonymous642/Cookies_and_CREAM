@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Steven Universe Sunset Scenery", "version": "1.0.0", "description": "Enjoy a tranquil and heartwarming scene with this serene sunset background", "icons": {"128": "cherry-blossom_1f338.png"}, "permissions": ["geolocation"], "chrome_url_overrides": {"newtab": "index.html"}}

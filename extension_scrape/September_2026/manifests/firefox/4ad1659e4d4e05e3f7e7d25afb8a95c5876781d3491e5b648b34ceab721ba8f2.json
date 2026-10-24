@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "USD to CUC Converter", "version": "1.0", "description": "Convert USD to CUC directly in the popup.", "permissions": ["https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{e20726fc-2610-4bbb-8ede-84c0b1d9aa0e}"}}}

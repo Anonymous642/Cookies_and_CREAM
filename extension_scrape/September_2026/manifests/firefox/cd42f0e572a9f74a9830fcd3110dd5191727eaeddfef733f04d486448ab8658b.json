@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NBloxAdRemover", "version": "1.0", "description": " removes advertisements from the outdated N-BLOX page on the tetris website", "icons": {"48": "./icons/icon-48.png"}, "content_scripts": [{"matches": ["https://www.n-blox.com/"], "js": ["remover.js"]}], "browser_specific_settings": {"gecko": {"id": "{3e54172e-84a8-40cb-a693-f1072d22dd3d}"}}}

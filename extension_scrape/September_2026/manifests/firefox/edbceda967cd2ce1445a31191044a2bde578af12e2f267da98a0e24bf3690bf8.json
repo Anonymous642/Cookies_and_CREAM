@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Rainbow Nightlight", "version": "0.1", "applications": {"gecko": {"strict_min_version": "57.0"}}, "icons": {"16": "rbnl.png", "48": "rbnl.png", "96": "rbnl.png", "128": "rbnl.png"}, "permissions": ["alarms", "theme"], "background": {"scripts": ["rbnl.js"]}, "default_locale": "en"}

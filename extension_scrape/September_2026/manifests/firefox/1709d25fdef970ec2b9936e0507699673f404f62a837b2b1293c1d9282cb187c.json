@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Metrix rating", "version": "1.1", "description": "Displays rating of other players when viewing a game.", "content_scripts": [{"matches": ["*://discgolfmetrix.com/*"], "js": ["metrix.js"], "css": ["styles.css"]}], "browser_specific_settings": {"gecko": {"id": "{0563a497-96eb-41b9-9469-85ec826ea893}"}}}

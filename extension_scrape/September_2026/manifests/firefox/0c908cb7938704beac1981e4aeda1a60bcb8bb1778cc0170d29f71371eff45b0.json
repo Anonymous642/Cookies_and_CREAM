@@ -1,0 +1,1 @@
+{"name": "Robux Converter", "description": "Converter robux to another value", "version": "1.0", "manifest_version": 2, "content_scripts": [{"matches": ["https://www.roblox.com/*"], "js": ["script.js"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{44a9874f-fe7e-468a-97e4-0f81a168ac7f}"}}}

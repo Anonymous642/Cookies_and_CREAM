@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Display Id & Class Details", "version": "1.0", "description": "Displays details about HTML elements' IDs and classes on the current webpage.", "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "displayidclassdetails@gmail.com"}}, "background": {"scripts": ["background.js"], "persistent": false}}

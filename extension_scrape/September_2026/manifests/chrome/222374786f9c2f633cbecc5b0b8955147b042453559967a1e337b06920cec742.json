@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pricing Validator", "version": "1.12", "description": "A simple pricing validator with multiple line items", "action": {"default_popup": "index.html"}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "permissions": ["storage"]}

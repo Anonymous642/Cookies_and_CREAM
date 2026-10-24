@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "My Custom Extension", "version": "1.0", "description": "A brief description of my own extension.", "browser_specific_settings": {"gecko": {"id": "completely-new-id-test@example.com", "data_collection_permissions": {"required": ["none"]}}}, "action": {"default_popup": "popup.html"}, "permissions": ["activeTab"]}

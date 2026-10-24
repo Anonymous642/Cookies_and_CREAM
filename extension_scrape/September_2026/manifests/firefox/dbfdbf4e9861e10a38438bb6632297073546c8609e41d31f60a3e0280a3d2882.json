@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reddit Auto Upvoter", "version": "1.0", "description": "Automatically upvotes all comments in an old Reddit post, saving time and boosting engagement effortlessly", "icons": {}, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["updoot.js"]}], "browser_specific_settings": {"gecko": {"id": "{471afbc7-55ec-4389-a6da-b1229bf7016c}"}}}

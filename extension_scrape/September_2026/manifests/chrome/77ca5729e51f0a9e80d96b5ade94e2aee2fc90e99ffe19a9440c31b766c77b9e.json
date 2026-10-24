@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Jawaker Card Counter", "version": "2", "description": "This extension will automatically count the cards for you in Trix, Tarneeb, etc...", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["activeTab", "scripting"]}

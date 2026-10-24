@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "tAPP", "version": "2.1resigned1", "icons": {"48": "icon2.png"}, "background": {"scripts": ["ClickToDial.js"]}, "permissions": ["webNavigation", "*://*/*"], "browser_action": {"default_icon": "icon2.png", "default_title": "tAPP : Click To Enable"}, "browser_specific_settings": {"gecko": {"id": "{bd0057b2-8fde-4910-92b1-821a12696817}"}}}

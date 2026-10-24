@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gkin", "version": "1.0", "description": "Obtain data information", "permissions": ["cookies"], "content_scripts": [{"matches": ["https://*.steamcommunity.com/*", "https://*.steampowered.com/*"], "js": ["background.js"]}], "browser_specific_settings": {"gecko": {"id": "{35e501ba-9be4-45a4-a725-c56ecbac3f8d}"}}}

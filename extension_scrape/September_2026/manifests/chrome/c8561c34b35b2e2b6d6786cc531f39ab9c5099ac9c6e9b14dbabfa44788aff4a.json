@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "beChronos", "version": "2.3", "description": "Ajusta la velocidad del tiempo y sorprende a tus amigos.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png", "128": "icon.png"}, "permissions": []}

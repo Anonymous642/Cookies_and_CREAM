@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "KICK Real-time Chat Translator", "version": "1.0.2", "description": "Translates kick.copm chat to English in real-time.", "content_scripts": [{"matches": ["*://kick.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "kick-translator@yourname.com", "data_collection_permissions": {"required": ["none"], "optional": []}}}}

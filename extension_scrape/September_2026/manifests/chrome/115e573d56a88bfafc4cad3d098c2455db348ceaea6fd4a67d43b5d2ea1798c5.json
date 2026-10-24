@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Robots.txt Checker", "version": "1.0", "description": "Check Robots.txt on websites", "host_permissions": ["http://*/*", "https://*/*"], "icons": {"48": "icon.jpg"}, "action": {"default_icon": "icon.jpg", "default_popup": "popup.html"}}

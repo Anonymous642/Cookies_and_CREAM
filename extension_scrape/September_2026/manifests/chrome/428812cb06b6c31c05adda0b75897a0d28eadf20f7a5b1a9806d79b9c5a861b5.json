@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Covidence Screen Booster ", "version": "1.6", "description": "Covidence Screen Booster is a Chrome extension that streamlines your article screening workflow on Covidence.", "content_scripts": [{"matches": ["https://app.covidence.org/*"], "js": ["content.js"]}]}

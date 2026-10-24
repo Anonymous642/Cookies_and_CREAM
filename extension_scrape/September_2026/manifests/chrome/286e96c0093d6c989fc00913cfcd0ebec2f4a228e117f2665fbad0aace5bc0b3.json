@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Facter", "description": "This extension is used to report Misinformation on Facter.pk.", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "index.html", "default_title": "Open the popup"}, "icons": {"16": "0.5 logo.png", "48": "0.5 logo.png", "128": "0.5 logo.png"}}

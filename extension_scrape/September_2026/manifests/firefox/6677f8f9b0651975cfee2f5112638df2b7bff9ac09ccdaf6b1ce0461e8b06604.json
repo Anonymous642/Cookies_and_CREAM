@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Smart Recorder", "version": "1.0", "description": "Automatically capture and summarize meeting discussions.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{11612158-03b8-4936-a5b2-2e89597b9791}"}}}

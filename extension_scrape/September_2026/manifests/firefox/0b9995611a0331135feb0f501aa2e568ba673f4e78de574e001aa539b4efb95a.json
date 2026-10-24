@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "LinkedIn - Hide Feed", "version": "1.0", "description": "Masque automatiquement le flux LinkedIn.", "permissions": ["activeTab"], "content_scripts": [{"run_at": "document_end", "matches": ["https://www.linkedin.com/feed*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "linkedin@mallaury.be", "strict_min_version": "58.0"}}}

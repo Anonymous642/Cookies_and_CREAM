@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Beaujeu-ify", "version": "0.2", "description": "Changes all occurences of `[Bb]illard` to `[Bb]eau jeu`", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["beaujeuify.js"]}], "browser_specific_settings": {"gecko": {"id": "tac@fcbeauj.eu"}}}

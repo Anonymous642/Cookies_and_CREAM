@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Hotkey Blocker", "version": "1.0", "description": "Blocks Ctrl/Alt+\u2192/\u2190 at YouTube", "author": "koanvi", "applications": {"gecko": {"id": "yt-hotkey-blocker@koanvi.local", "strict_min_version": "78.0"}}, "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"], "run_at": "document_start"}]}

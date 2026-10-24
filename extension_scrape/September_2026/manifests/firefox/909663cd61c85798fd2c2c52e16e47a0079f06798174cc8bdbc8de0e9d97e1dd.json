@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SnapSaver", "version": "1.0", "description": "Capture and save website screenshots even when offline.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage", "activeTab"], "browser_specific_settings": {"gecko": {"id": "{206d8f04-e408-4fe1-9f28-4d4f9dd5ee96}"}}}

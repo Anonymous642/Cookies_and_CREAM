@@ -1,0 +1,1 @@
+{"name": "1337 5P3AK", "version": "1.1resigned1", "description": "L4 b4se", "manifest_version": 2, "icons": {"128": "icone/leetspeak.png"}, "content_scripts": [{"matches": ["*://*/**"], "css": ["modif_balise.css"], "js": ["modif.js"]}], "browser_specific_settings": {"gecko": {"id": "{10309f78-805e-4eb6-b589-7e45176386b6}"}}}

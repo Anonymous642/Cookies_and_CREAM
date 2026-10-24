@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Scribble Space", "version": "1.0.1", "app": {"launch": {"local_path": "index.html"}}, "offline_enabled": true, "icons": {"16": "favicon.png", "48": "favicon.png", "128": "favicon.png"}, "description": "Scribbling in space!"}

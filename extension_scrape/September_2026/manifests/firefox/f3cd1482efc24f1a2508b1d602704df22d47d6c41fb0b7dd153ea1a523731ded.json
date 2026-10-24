@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Easy to do", "version": "1.0", "description": "our extension Easy to do is to let users finding alot of nice offers in one place worldwide", "action": {"default_popup": "index.html", "default_icon": {"48": "icon.png"}}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "your-extension-id@easytodo.com"}}}

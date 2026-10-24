@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ultimate Chords", "version": "1.2resigned1", "description": "Better chords for ultimate guitar", "content_scripts": [{"matches": ["*://*.ultimate-guitar.com/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{03f8e590-d12b-4894-bb4c-8d4fde7fda2a}"}}}

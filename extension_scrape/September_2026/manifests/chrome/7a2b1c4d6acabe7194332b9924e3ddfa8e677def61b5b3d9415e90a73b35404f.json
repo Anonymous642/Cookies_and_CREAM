@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Life Countdown New Tab", "version": "1.0", "description": "Reminds you how much time you have left and encourages you to live fully.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "icons": {"128": "assets/icon128.png"}}

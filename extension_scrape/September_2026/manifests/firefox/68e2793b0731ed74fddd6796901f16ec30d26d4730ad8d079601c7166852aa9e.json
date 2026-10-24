@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Direct", "version": "1.1resigned1", "description": "Adds a red border to all webpages matching mozilla.org.", "content_scripts": [{"matches": ["*://*.wmdirect.com.br/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{20e7a872-e071-43b7-87f8-fd84a632f1f8}"}}}

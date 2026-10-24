@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple Turn Order Decider", "description": "Created for remote daily stand-up meetings", "version": "1.2", "action": {"default_popup": "main.html", "default_icon": "/assets/default_icon.png"}, "permissions": ["storage"], "options_ui": {"page": "options.html", "open_in_tab": false}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Clippi", "description": "basic notpad clipboard extension", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "popup.html", "default_icon": "iconClippi.png", "default_title": "Clippi"}, "permissions": ["storage"]}

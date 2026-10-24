@@ -1,0 +1,1 @@
+{"name": "Better ESEA [Unofficial]", "version": "1.2.1resigned1", "description": "Dark Version for ESEA by Michal Walko", "manifest_version": 2, "content_scripts": [{"css": ["style.css"], "matches": ["http://*.esea.net/*", "https://*.esea.net/*"]}], "browser_specific_settings": {"gecko": {"id": "{c02f6e11-8284-4010-8804-6157b9a6a3de}"}}}

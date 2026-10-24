@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WolnaDzida", "version": "1.6", "description": "Allow to delete posts what u don't want to see", "content_scripts": [{"matches": ["*://*.jbzdy.eu/mikroblog*"], "js": ["jquery.js", "blocker.js"]}], "icons": {"48": "icon.png"}, "permissions": ["tabs", "<all_urls>"]}

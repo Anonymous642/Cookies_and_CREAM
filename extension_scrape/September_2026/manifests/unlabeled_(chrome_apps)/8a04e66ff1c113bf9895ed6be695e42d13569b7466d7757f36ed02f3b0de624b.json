@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Mind42", "description": "Mind mapping can be: free, fast and simple. Create, publish and collaborate on the web with your mind maps.", "version": "2.1", "app": {"urls": ["http://mind42.com/"], "launch": {"web_url": "http://mind42.com/"}}, "icons": {"128": "icon_128.png"}}

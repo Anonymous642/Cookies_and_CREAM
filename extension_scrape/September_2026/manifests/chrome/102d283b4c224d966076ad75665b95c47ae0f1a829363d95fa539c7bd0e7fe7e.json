@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "IOC Toolkit", "version": "1.6", "description": "Right-click a highlighted IOC to check it on Threat intelligence sources.", "permissions": ["contextMenus"], "background": {"service_worker": "background.js"}, "icons": {"128": "icon.png"}}

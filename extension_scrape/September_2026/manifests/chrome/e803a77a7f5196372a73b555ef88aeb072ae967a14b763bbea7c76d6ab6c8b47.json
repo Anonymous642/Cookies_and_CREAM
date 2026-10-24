@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Commits Finder", "version": "1.0.4", "description": "Encontre e abra rapidamente os commits de um card do Jira no sources.matera.com.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icons/icon128.png"}}, "permissions": ["storage"]}

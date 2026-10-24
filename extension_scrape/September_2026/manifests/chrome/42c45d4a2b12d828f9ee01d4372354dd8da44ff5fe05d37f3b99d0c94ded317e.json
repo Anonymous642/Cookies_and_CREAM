@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YES Popup Blocker", "version": "1.1", "description": "Blocks the YES Network web player's 'Facts and Polls' popup.", "content_scripts": [{"matches": ["https://watchyesnetwork.com/watch*", "https://yes.studio.easelive.tv/*"], "js": ["content.js"], "all_frames": true}]}

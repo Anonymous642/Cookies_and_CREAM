@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Notes/Form Generator | Workforms", "version": "2.1", "description": "Simple notes/form generator App for work or personal use.", "manifest_version": 3, "icons": {"128": "icons/icon128.png"}, "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "FavGPT", "version": "1.0", "description": "Pin chats to a Favourites section in the ChatGPT sidebar.", "permissions": ["storage"], "content_scripts": [{"matches": ["https://chatgpt.com/*"], "js": ["content.js"], "css": ["styles.css"]}]}

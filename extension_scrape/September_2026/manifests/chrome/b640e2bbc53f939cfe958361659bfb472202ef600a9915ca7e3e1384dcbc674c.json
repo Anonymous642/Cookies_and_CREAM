@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "NetSuite Guided Help Remover", "version": "1.2", "description": "Removes the NetSuite guided help movable component.", "content_scripts": [{"matches": ["*://*.app.netsuite.com/*"], "js": ["content.js"]}]}

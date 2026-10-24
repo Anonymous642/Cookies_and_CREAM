@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CodeShelf", "version": "1.0", "description": "Save and manage code snippets from ChatGPT", "permissions": ["storage"], "content_scripts": [{"matches": ["*://chat.openai.com/*", "*://*.chatgpt.com/*"], "js": ["main.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{a59e454d-18ed-427b-9fc1-208feba50cf4}"}}}

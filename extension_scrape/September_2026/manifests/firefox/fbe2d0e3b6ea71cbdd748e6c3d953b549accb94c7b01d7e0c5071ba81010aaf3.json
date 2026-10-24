@@ -1,0 +1,1 @@
+{"description": "Brings you to a random subreddit", "manifest_version": 2, "name": "random Reddit", "version": "1.1resigned1", "background": {"scripts": ["randomreddit.js"]}, "browser_action": {"default_icon": {"18": "icons/icon-18.png", "32": "icons/icon-32.png"}}, "browser_specific_settings": {"gecko": {"id": "{30b61e1b-d58a-4c19-b971-383ac1a4e388}"}}}

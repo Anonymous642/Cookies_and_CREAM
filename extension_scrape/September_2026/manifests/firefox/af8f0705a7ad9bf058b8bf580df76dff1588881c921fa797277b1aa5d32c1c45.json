@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Allow Prod", "version": "2.0", "description": "Remove class from element", "icons": {"48": "icon.png"}, "applications": {"gecko": {"id": "{0faf6adb-d1b3-4dc8-b047-5ff3a3ce1cf0}", "strict_min_version": "48.0"}}, "content_scripts": [{"matches": ["https://rumedia.ampsuite.com/releases/release?id=*"], "js": ["content.js"]}]}

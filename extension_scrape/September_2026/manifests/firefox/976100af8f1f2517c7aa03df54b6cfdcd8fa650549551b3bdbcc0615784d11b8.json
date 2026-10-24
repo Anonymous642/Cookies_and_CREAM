@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Saver", "version": "1.0", "description": "Save and restore all open tabs with one click.", "permissions": ["tabs", "storage"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{1a2b91d0-c85a-4451-8e2c-1558dbba6e3a}"}}}

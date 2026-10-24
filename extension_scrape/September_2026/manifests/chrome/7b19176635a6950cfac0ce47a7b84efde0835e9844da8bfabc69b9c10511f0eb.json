@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Color Picker Pro", "version": "1.0", "description": "Capturez n'importe quelle couleur sur le web en HEX, RGB et HSL.", "permissions": ["storage"], "action": {"default_popup": "popup.html", "default_icon": {"128": "icon.png"}}, "icons": {"128": "icon.png"}}

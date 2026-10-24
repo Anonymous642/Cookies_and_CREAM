@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Setuix Solutions", "short_name": "setuix", "description": "The Technological Divide", "manifest_version": 2, "version": "1.4.3", "app": {"urls": ["http://setuix.com/"], "launch": {"web_url": "http://setuix.com/"}}, "icons": {"128": "icon_128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

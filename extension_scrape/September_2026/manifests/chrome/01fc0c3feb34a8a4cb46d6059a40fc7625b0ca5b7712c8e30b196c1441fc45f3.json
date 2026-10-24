@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Word & Character Counter", "version": "1.0.0", "description": "Count words and characters in a modern, privacy-friendly popup.", "action": {"default_title": "Word & Character Counter", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

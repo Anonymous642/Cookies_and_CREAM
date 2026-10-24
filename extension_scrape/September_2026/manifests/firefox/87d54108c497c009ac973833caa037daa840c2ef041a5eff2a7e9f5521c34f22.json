@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My Extension", "author": "thasneem", "version": "1.0", "description": "This is a cool browser extension which manage our daily task", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{f24f9863-1f7b-4e40-bcc3-f96e96f8cb8c}"}}}

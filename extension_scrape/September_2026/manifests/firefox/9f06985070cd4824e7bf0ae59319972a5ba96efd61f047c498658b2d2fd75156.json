@@ -1,0 +1,1 @@
+{"name": "Dark Slack Extension", "manifest_version": 2, "version": "1.0.3resigned1", "content_scripts": [{"matches": ["https://*.slack.com/*"], "css": ["my-style.css"]}], "browser_specific_settings": {"gecko": {"id": "{1d7df977-ec0e-4037-ada0-04d2671a4d7d}"}}}

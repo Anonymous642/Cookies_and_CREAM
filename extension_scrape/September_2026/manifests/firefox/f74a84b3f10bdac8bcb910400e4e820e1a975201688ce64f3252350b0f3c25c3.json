@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Football Wallpapers", "version": "1.0", "description": "A collection of football-related wallpapers", "icons": {"48": "icon.png"}, "permissions": [], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{fe2ac1e6-2411-4485-8b54-ecb462e0adc2}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gmail Clock", "version": "1.0", "description": "Displays a clock next to the send button in Gmail.", "host_permissions": ["https://mail.google.com/*"], "content_scripts": [{"matches": ["https://mail.google.com/*"], "js": ["content_script.js"]}]}

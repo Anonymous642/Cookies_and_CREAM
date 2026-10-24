@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Veranda", "version": "1.3", "description": "Jacc", "icons": {"48": "src48x48.png"}, "browser_action": {"default_popup": "popup/popup.html"}, "permissions": ["tabs", "activeTab"], "browser_specific_settings": {"gecko": {"id": "{ab319d7d-783a-4a8a-832e-9677fc2960eb}"}}}

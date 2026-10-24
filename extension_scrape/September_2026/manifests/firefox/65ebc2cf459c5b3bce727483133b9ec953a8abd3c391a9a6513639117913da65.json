@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Infinikisser v2 New Tab", "version": "1.0", "description": "Replaces the default new tab page with the new Infinikisser.", "icons": {"128": "icon.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "applications": {"gecko": {"id": "Infinikisserrv2@Riley_VM", "strict_min_version": "60.0"}}}

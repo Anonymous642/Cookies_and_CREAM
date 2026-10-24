@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SciHub One Click Opener", "version": "1.0", "description": "Providing a context menu option to open selected url in Sci-Hub", "background": {"scripts": ["opener.js"]}, "permissions": ["menus"]}

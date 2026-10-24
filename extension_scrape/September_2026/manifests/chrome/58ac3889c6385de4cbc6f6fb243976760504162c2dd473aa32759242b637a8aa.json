@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Word Counter", "version": "1.0", "description": "Fast and lightweight word counter up to 2,000 words with instant tool access.", "action": {"default_popup": "popup.html", "default_icon": "puzzle.png"}, "icons": {"16": "puzzle.png", "48": "puzzle.png", "128": "puzzle.png"}}

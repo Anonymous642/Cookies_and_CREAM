@@ -1,0 +1,1 @@
+{"name": "playbackRate.js", "description": "Control video playback rate anywhere.", "version": "1.1", "manifest_version": 2, "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "run_at": "document_end", "js": ["playbackRate.js"], "all_frames": true}], "browser_specific_settings": {"gecko": {"id": "{239523ec-852c-46bb-a3ef-912a9c9f10bb}"}}}

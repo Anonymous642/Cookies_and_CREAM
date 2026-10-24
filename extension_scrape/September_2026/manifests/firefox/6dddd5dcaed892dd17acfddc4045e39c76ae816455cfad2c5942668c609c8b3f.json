@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UAH to BYN Converter", "version": "1.0", "description": "Converts Ukrainian Hryvnia (UAH) to Belarusian Ruble (BYN).", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/"], "browser_specific_settings": {"gecko": {"id": "{999f092c-5c79-4b52-b252-0e63356698c4}"}}}

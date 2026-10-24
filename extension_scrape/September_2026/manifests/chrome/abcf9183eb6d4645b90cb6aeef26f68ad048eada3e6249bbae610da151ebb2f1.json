@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Radio New Tab Page", "version": "1.0", "description": "A new tab page with built-in radio player", "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"128": "icon128.png"}}

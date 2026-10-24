@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Bulk URL Uploader", "version": "2.2", "description": "Adds a multi-link upload feature and auto-refreshes.", "permissions": ["activeTab", "scripting"], "content_scripts": [{"matches": ["https://abrehamrahi.ir/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "uploader@abrehamrahi.addon", "strict_min_version": "109.0"}}}

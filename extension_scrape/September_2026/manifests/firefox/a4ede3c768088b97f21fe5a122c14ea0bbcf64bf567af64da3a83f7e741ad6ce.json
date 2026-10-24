@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Speed Dial Custom", "description": "Speed Dial modern cu editare direct\u0103, wallpapers \u0219i personalizare.", "version": "1.0", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{43af64b2-886b-4588-b769-b8f2c813acf1}"}}}

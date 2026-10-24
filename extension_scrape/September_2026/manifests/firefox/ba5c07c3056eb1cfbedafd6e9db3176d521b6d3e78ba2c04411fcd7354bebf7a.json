@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clock-hours-12", "version": "1.0", "description": "Adds 12-hour part of clock in Toolbar", "icons": {"96": "icon96.png"}, "browser_action": {"default_icon": "none.png", "default_title": "clock-hours-12"}, "background": {"scripts": ["badge-clock.js"]}, "browser_specific_settings": {"gecko": {"id": "{4ac5f378-4e93-4aae-bec2-76c085e8acc1}"}}}

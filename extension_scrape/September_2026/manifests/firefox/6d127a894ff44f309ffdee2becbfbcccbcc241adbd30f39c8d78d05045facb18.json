@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Shorts Redirector", "version": "1.0", "description": "Redirects YouTube Shorts links to normal watch pages.", "permissions": ["webRequest", "webRequestBlocking", "*://www.youtube.com/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{6b18c05c-b529-436e-b406-bee8f6f6f2fa}"}}}

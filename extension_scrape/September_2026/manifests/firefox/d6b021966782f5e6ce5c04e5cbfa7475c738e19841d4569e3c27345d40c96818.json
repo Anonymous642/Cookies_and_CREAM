@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "eXitter", "version": "1.0", "description": "Redirects x.com links to twitter.com.", "icons": {"48": "icons/exitter-48.png", "96": "icons/exitter-96.png"}, "content_scripts": [{"matches": ["*://*.x.com/*"], "js": ["exitter.js"]}], "browser_specific_settings": {"gecko": {"id": "{f4cdf104-c314-46c1-89e2-44a3f7da29df}"}}}

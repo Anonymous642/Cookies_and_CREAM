@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Funny Class Name Generator", "version": "1.0.0", "description": "Instantly generate hilarious and quirky names for your study group or classroom!", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

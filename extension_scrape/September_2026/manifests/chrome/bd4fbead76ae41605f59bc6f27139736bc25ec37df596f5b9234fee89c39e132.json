@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "BZZ.CH Enhancer", "version": "1.1", "description": "F\u00fcgt die Direktlinks zu Stundenplan und Intranet hinzu", "content_scripts": [{"matches": ["*://*.bzz.ch/*"], "js": ["content.js"]}]}

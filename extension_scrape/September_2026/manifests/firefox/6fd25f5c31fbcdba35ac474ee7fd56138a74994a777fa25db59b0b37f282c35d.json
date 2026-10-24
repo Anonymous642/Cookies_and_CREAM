@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Revsearch", "version": "1.2", "description": "Adds a 'reverse image search' button to the right-click context menu", "background": {"scripts": ["revsearch.js"]}, "permissions": ["storage", "<all_urls>", "contextMenus", "menus", "activeTab"], "browser_specific_settings": {"gecko": {"id": "{0686b986-4974-4306-a06b-9c75956ed13e}"}}}

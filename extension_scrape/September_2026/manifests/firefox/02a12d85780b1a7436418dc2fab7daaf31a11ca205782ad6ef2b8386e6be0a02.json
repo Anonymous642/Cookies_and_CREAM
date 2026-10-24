@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Autoplay", "version": "1.1", "description": "Starts playing music on Bollerwagen.", "content_scripts": [{"matches": ["*://radiobollerwagen.de/*"], "js": ["./boller.js"]}], "browser_specific_settings": {"gecko": {"id": "{4db1922f-f59c-412b-a141-a1d917a16a0c}"}}}

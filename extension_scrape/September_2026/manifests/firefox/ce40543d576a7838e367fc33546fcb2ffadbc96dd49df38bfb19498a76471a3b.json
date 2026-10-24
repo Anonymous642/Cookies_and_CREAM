@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ani blocker - chineseanime.co.in", "description": "Base Level Extension", "version": "1.0", "icons": {"16": "icon.jpg"}, "action": {"default_icon": "icon.jpg"}, "content_scripts": [{"matches": ["https://www.chineseanime.co.in/"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{6142e507-6ce6-4d15-8d96-39b3a28cafc9}"}}}

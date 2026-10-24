@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Northern Lights Horizon", "version": "1.0.0", "description": "Immerse yourself in the awe-inspiring beauty of the Northern Lights Horizon.", "permissions": ["geolocation"], "icons": {"128": "1734167.png"}, "chrome_url_overrides": {"newtab": "index.html"}}

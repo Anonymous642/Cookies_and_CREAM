@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "VertoUnit - Unit Converter", "version": "1.0", "description": "VertoUnit - Unit Converter", "action": {"default_popup": "index.html"}, "permissions": [], "icons": {"48": "icons/icon48.png", "128": "icons/icon128.png"}}

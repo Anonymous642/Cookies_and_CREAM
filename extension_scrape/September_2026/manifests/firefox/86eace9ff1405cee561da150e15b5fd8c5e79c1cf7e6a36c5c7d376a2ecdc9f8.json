@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Spotify Link Opener", "version": "1.0", "description": "Opens Spotify links in the desktop application and closes the tab.", "permissions": ["webRequest", "webRequestBlocking", "tabs", "*://open.spotify.com/*"], "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"id": "dev@heyimjonas.com"}}, "icons": {"48": "icon.png"}}

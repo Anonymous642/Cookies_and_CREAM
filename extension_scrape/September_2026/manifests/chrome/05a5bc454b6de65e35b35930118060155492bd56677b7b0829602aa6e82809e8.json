@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Zitiergebot & Schriftsatz-Pruefer (Art. 19 GG)", "version": "1.0.3", "description": "Pr\u00fcft beh\u00f6rdliche Schrifts\u00e4tze auf M\u00e4ngel des Zitiergebots nach Art. 19 Abs. 1 S. 2 GG.", "permissions": [], "action": {"default_popup": "popup.html"}}

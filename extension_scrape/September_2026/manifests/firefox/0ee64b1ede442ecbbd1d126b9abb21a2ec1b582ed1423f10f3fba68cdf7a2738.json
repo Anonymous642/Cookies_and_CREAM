@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "eSTAR Button Activator", "version": "1.2", "description": "Entfernt automatisch das 'disabled' Attribut von Buttons auf allen eSTAR GmbH Subdomains.", "content_scripts": [{"matches": ["*://*.estargmbh.de/*"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{91cbc153-ba9e-4576-af5c-e4bedfe18739}"}}}

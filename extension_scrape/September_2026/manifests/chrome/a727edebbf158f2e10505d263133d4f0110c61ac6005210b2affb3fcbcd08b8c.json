@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Trend Color Display", "version": "1.0.0", "description": "Displays a trending color of the year in a clean and minimal design.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Ourticles", "description": "Add to your Ourticles log from anywhere", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "popup/popup.html", "default_icon": "images/android-chrome-192x192.png"}, "host_permissions": ["https://ourticles.com/*"], "permissions": ["cookies", "tabs"]}

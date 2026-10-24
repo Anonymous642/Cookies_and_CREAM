@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AI Chat Assistant", "version": "1.0.3", "description": "\u901a\u7528 AI \u52a9\u624b - \u652f\u6301\u4efb\u610f OpenAI \u517c\u5bb9 API", "permissions": ["storage", "sidePanel"], "background": {"service_worker": "background.js"}, "side_panel": {"default_path": "sidepanel.html"}}

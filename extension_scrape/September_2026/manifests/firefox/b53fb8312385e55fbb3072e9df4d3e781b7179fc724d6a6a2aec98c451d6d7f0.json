@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "dupadeleter", "version": "0.5", "description": "aaaarghhhhh begone", "browser_specific_settings": {"gecko": {"id": "dupadeleter@enjoymentenjoyer.github.io"}}, "content_scripts": [{"matches": ["*://youtube.com/watch?*", "*://www.youtube.com/watch?*", "*://m.youtube.com/watch?*"], "js": ["main.js"]}]}

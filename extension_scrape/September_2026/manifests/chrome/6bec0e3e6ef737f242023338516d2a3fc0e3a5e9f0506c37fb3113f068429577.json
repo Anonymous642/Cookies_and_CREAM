@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Numerology Life Path Calculator", "description": "Calculate your numerology life path number from your birth date.", "version": "1.0", "action": {"default_popup": "popup.html", "default_title": "Life Path Number"}, "icons": {"128": "icon128.png"}}

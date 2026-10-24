@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CM Report to JSON", "version": "1.1", "description": "Parse CM Report to JSON", "permissions": ["activeTab"], "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["https://app.criticalmention.com/app/*"], "js": ["content.js"], "run_at": "document_idle"}]}

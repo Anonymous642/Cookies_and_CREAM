@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Twitch Blur Remover", "version": "1.0", "icons": {"128": "res/twitch_no_blur.png"}, "description": "Removes Blur From Twitch Lives", "permissions": [], "content_scripts": [{"matches": ["https://www.twitch.tv/*"], "js": ["twitch_no_blur.js"], "css": ["twitch_no_blur.css"]}]}

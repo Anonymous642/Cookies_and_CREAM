@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Search Context Menu", "version": "1.1", "description": "Right-click to search selected text on YouTube instantly!", "permissions": ["contextMenus"], "background": {"service_worker": "background.js"}, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}

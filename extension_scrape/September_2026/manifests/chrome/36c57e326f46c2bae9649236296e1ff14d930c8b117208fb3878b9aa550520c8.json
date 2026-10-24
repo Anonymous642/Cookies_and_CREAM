@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Calculator", "description": "Basic Calculator", "version": "1.0", "manifest_version": 3, "icons": {"16": "images/calculator-16.jpg", "48": "images/calculator-48.jpg", "128": "images/calculator-128.jpg"}, "action": {"default_popup": "popup.html", "default_icon": "images/calculator-solid.png"}}

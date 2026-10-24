@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Snake Game 2025", "description": "It's Snake Game 2025!!!", "version": "1.0", "icons": {"16": "snake16.png", "48": "snake48.png", "128": "snake128.png"}, "action": {"default_icon": "snake16.png", "default_popup": "game.html"}}

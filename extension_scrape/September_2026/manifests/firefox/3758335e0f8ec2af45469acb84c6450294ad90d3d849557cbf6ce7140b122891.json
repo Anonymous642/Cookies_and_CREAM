@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Octotree", "version": "1.0.0", "description": "A simplified GitHub code tree viewer in the sidebar for easier navigation.", "permissions": ["storage", "tabs", "*://github.com/*"], "sidebar_action": {"default_title": "Octotree", "default_panel": "sidebar.html"}, "applications": {"gecko": {"id": "octotree@example.com"}}}

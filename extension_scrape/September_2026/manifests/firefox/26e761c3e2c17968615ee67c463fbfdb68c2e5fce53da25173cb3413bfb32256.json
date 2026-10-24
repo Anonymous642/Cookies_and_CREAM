@@ -1,0 +1,1 @@
+{"name": "Password Manager", "version": "2.0", "description": "Auto login to accounts", "permissions": ["webNavigation", "tabs", "activeTab", "http://*/", "http://localhost:5000/", "https://*/"], "background": {"scripts": ["background.js"], "persistent": false}, "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["jquery.js"]}], "manifest_version": 2}

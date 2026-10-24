@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TrumpTruth", "description": "Replaces Trump, Donald Trump, President Trump, etc. with super clever Trump-esque nicknames.", "version": "1.1resigned1", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{5688719a-4a39-4952-9aac-aa09bf34fbdd}"}}}

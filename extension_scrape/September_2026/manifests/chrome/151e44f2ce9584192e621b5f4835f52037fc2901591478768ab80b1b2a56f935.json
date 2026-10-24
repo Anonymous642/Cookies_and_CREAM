@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bloqueo de Perfil por Contrase\u00f1a", "version": "2.0", "description": "Protecci\u00f3n de seguridad con hash SHA-256 y correo de recuperaci\u00f3n.", "permissions": ["tabs", "storage"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "lock.html"}}

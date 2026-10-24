@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remote Transmission Assistant", "version": "1.5", "description": "Remote Transmission Assistant", "icons": {"16": "16.png", "48": "48.png", "128": "128.png"}, "permissions": ["webNavigation", "storage"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["functions.js", "script.js"], "css": ["style.css"]}]}

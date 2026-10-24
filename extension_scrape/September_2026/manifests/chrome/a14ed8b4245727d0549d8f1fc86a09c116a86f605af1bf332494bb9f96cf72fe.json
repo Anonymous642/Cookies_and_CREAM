@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Text Extractor from Transcripts", "short_name": "Text Extractor", "version": "1.0.2", "description": "Extracts texts from specified elements on the vimeo.com.", "action": {"default_popup": "popup.html"}, "permissions": ["storage", "activeTab", "scripting"]}

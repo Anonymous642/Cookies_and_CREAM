@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DjVu Viewer", "version": "1.0", "description": "View DjVu files directly in your browser.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{f17d2424-d57c-4843-a182-70ec6084d50e}"}}}

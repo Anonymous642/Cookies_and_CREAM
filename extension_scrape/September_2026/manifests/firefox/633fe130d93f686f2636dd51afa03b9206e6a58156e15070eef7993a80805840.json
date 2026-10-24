@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "PedalPlayGround INCH to CM", "version": "1.2", "description": "Converts inch dimensions to centimeters on PedalPlayGround.", "content_scripts": [{"matches": ["*://pedalplayground.com/*"], "js": ["content.js"]}], "icons": {}, "permissions": [], "action": {}, "browser_specific_settings": {"gecko": {"id": "PedalPlayGround-inch-to-cm@icus.dev"}}}

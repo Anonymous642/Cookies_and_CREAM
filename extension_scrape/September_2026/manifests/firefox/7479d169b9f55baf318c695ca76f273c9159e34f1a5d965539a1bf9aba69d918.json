@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "vibeCheck Search Companion", "description": "Base Level Extension", "version": "0.0.11", "action": {"default_popup": "index.html", "default_icon": "images/oakai-icon.png"}, "browser_specific_settings": {"gecko": {"id": "companion@oak.ai"}}, "permissions": ["activeTab"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Wallpaper live Kingdom Hearts", "version": "1.0.1", "description": "Navegador personalizado.", "icons": {"128": "icons/Kingdom-Hearts-Symbol.png"}, "permissions": ["search"], "chrome_url_overrides": {"newtab": "index.html"}}

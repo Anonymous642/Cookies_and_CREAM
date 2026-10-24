@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Flashcard Tab", "version": "1.0", "description": "Display a random flashcard each time a new tab is opened to help with memory retention.", "chrome_url_overrides": {"newtab": "flashcard.html"}, "permissions": [], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{272fed61-e2c2-4811-96f9-d1b7523f1095}"}}}

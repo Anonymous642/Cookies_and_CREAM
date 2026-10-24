@@ -1,0 +1,1 @@
+{"name": "Ghacks Technology News", "description": "Daily updated tech news, software reviews and tutorials.", "app": {"urls": ["http://www.ghacks.net/"], "launch": {"web_url": "http://www.ghacks.net/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.2", "icons": {"128": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bulk URL Opener", "short_name": "URL Opener", "description": "__MSG_extDescription__", "version": "1.0.0", "default_locale": "ja", "permissions": ["tabs"], "icons": {"128": "icons/icon128.png"}, "action": {"default_title": "Bulk URL Opener", "default_popup": "popup.html"}}

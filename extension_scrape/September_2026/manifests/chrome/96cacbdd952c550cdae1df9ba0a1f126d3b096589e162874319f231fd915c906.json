@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "File Renamer", "description": "Adds a word with a separator to downloaded filenames", "version": "1.0.0", "manifest_version": 3, "permissions": ["downloads"], "background": {"service_worker": "background.js"}, "icons": {"16": "rename_icon16.png", "48": "rename_icon48.png", "128": "rename_icon128.png"}}

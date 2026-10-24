@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Macron - Pr\u00e9sident des riches", "description": "Remplace Macron par des symboles mon\u00e9taires", "version": "1.4resigned1", "icons": {"413": "icons/icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["./substitute.js"]}], "browser_specific_settings": {"gecko": {"id": "{ed27b967-d283-4a61-937f-b54f91362346}"}}}

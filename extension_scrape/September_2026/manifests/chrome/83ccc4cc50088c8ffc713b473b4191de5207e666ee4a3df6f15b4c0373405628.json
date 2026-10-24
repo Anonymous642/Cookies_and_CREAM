@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Math Extension", "description": "Notes for Stats & Calc", "version": "1.2.8", "action": {"default_popup": "sheet.html", "default_icon": "resources/mathpfp.png"}, "permissions": ["storage", "tabs"]}

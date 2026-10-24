@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Wikipedia Vector Skin Force", "version": "1.0", "permissions": ["webRequest", "webRequestBlocking", "*://*.wikipedia.org/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{b9ad34db-72f1-46ff-8e1c-77d0fc6d8ec2}", "data_collection_permissions": {"required": ["none"]}}}}

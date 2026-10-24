@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "wikilata", "background": {"scripts": ["background.js"], "persistent": true}, "browser_action": {"default_icon": "icon.png"}, "permissions": ["tabs", "activeTab", "webRequest", "webRequestBlocking", "*://*.wikipedia.org/*"], "version": "0.6"}

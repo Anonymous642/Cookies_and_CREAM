@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sparkle Random Backgrounds", "version": "1.0", "description": "Automatically change wallpaper every time you open a new tab.", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": [], "web_accessible_resources": ["background/*"], "browser_specific_settings": {"gecko": {"id": "{352a4af1-843f-4ab6-bfea-4109c41450a8}"}}}

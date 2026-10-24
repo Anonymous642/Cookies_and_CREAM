@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Locksmith Pro Inventory Checklist", "version": "1.0", "description": "Essential equipment and inventory checklist for professional NYC locksmiths.", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

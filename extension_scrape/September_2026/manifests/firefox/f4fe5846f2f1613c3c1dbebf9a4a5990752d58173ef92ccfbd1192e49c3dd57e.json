@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NoGPT", "version": "1.0", "description": "A tool that blocks ChatGPT to make you more aware of your usage.", "icons": {"48": "icons/icon48.png"}, "content_scripts": [{"matches": ["https://*.chatgpt.com/*", "https://*.chat.com/*"], "js": ["nogpt.js"]}], "browser_specific_settings": {"gecko": {"id": "{eef11815-bdaa-4322-b70a-6cf6aacb63f7}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MailGuard - Scam Detector", "version": "1.0.0", "description": "Check if emails are scams with one click. Powered by AI.", "permissions": ["activeTab", "scripting"], "host_permissions": ["https://mail.google.com/*"], "action": {"default_popup": "popup.html"}}

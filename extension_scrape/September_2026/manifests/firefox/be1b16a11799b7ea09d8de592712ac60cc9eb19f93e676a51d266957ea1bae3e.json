@@ -1,0 +1,1 @@
+{"description": "just kiwi things", "manifest_version": 2, "name": "Kiwi extention", "version": "1.0", "homepage_url": "https://twitter.com/kiwi_birb", "icons": {"48": "icons/kiwiemoji.png"}, "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["kiwi.js"]}]}

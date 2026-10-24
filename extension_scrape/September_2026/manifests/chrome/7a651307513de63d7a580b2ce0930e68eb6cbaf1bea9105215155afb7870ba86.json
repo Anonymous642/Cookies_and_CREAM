@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "0.0.1", "manifest_version": 3, "name": "Undo Closed Tabs 2.0", "permissions": ["sessions", "tabs"], "icons": {"128": "icons/icon128.png"}, "action": {"default_popup": "popup.html"}, "description": "Re-open all the closed tabs \ud83d\uddc2\ufe0f with one click."}

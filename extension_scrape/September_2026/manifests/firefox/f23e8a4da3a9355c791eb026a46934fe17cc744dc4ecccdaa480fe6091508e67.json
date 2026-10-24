@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "ScreenSnapper", "version": "1.0", "description": "Capture screenshots effortlessly.", "action": {"default_popup": "popup.html", "default_icon": "screensnapper.png"}, "icons": {"128": "screensnapper.png"}, "browser_specific_settings": {"gecko": {"id": "sorayaajyp555810@hotmail.com"}}}

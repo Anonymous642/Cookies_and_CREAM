@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CRO Lens \u2013 Product Page Auditor", "version": "1.1", "description": "Instant CRO audits for e-commerce product pages using heuristic logic.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

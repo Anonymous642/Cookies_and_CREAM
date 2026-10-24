@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Shuffle the Schau", "version": "1.1", "description": "Vertauscht \u00dcberschriften auf tagesschau.de", "content_scripts": [{"matches": ["*://*.tagesschau.de/*"], "js": ["shuffle.js"]}], "browser_specific_settings": {"gecko": {"id": "tagesshuffle@nonni"}}}

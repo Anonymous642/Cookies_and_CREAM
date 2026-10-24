@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "SlowStats", "version": "3.0", "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "slow-roads-stats@satyamkumarprasad", "strict_min_version": "142.0", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"matches": ["https://slowroads.io/*"], "js": ["content.js"], "css": ["overlay.css"]}]}

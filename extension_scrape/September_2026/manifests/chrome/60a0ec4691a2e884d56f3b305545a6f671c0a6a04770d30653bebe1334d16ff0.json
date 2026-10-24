@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Notes Anytime", "version": "1.0.0", "description": "Take and save quick notes locally in a popup.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage"], "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}

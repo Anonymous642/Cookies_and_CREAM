@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Koe-Koe", "version": "1.2", "description": "Add download button to koe-koe.com posts.", "content_scripts": [{"matches": ["*://koe-koe.com/detail.php*"], "js": ["koekoe.js"]}]}

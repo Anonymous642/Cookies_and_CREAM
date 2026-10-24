@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PantallaFacil Extension 2019.01.01", "description": "Reproductor de anuncios de PantallaF\u00e1cil, extensi\u00f3n para Firefox. M\u00e1s informaci\u00f3n en https://PantallaFacil.TV", "version": "2019.1.1", "background": {"scripts": ["url.js"]}, "browser_action": {"browser_style": true, "default_icon": {"48": "/logo.png", "128": "/logo.png"}}}

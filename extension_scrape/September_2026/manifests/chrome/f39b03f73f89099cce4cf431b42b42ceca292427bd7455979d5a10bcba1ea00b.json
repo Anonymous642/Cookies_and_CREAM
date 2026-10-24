@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Clipboard Copy", "version": "1.0.0", "description": "Save text snippets and copy them to your clipboard instantly from a simple popup.", "action": {"default_title": "Clipboard Copy", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

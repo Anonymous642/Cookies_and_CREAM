@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Emoji Typer", "version": "1.0", "description": "Game nh\u1ecf \u0111\u1ebfm s\u1ed1 emoji b\u1ea1n g\u00f5 trong 30 gi\u00e2y", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{d642fd23-7766-4d15-ae1f-9dad0905c826}"}}}

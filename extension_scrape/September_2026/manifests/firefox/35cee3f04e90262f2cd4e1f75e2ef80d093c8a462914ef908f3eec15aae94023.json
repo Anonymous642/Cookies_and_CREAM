@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GitHub Issue Image Previewer", "version": "1.1.2", "description": "Makes the first image in a GitHub issue visiable on the project board", "content_scripts": [{"matches": ["*://github.com/orgs/*/projects/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{1727bd0c-696b-4160-b956-94c8d5229d8a}"}}}

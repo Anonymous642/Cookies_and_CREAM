@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ezmiezmar", "version": "0.1.1resigned1", "description": "dot dot dot", "web_accessible_resources": ["alter.js"], "content_scripts": [{"js": ["script.js"], "matches": ["http://www.pokebudapest.tk/*"]}], "browser_specific_settings": {"gecko": {"id": "{afba22e2-b99f-44e1-baa6-98147adfa1b8}"}}}

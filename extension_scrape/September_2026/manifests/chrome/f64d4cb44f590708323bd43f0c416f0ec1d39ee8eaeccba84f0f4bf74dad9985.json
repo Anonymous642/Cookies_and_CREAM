@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "FocusTab", "version": "1.3", "description": "A clean 2-column new tab with clock, news, and todo list.", "chrome_url_overrides": {"newtab": "index.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Power Tab - Save, Share & Manage", "version": "1.11", "description": "Save, Share & Manage with Power Tab", "permissions": ["tabs", "storage"], "action": {"default_popup": "popup.html", "default_icon": "./icons/pt.png"}, "icons": {"128": "./icons/pt.png"}}

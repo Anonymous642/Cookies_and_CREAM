@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "0.0.1", "name": "__MSG_title__", "description": "__MSG_description__", "homepage_url": "https://git.sr.ht/~stoyan/remove-history-on-start", "background": {"scripts": ["background.js"]}, "permissions": ["history"], "default_locale": "en"}

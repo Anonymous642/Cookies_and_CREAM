@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "w188.ad", "version": "1.0.0", "description": "w188.ad Firefox addon", "browser_specific_settings": {"gecko": {"id": "w188.ad@addon.local", "strict_min_version": "140.0", "data_collection_permissions": {"required": ["none"]}}}, "icons": {"48": "icon.png"}}

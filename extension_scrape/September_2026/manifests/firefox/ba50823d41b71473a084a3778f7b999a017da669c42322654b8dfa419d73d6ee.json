@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hypr", "version": "1.0", "author": "Hypr", "description": "Runs Hypr anywhere!", "icons": {"32": "icon.png"}, "permissions": ["tabs", "activeTab", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_action": {"default_title": "Run Hypr"}, "browser_specific_settings": {"gecko": {"id": "{a0f57473-5874-4f79-a211-84f1be803467}"}}}

@@ -1,0 +1,1 @@
+{"applications": {"gecko": {"id": "sr-Lat@dictionaries.addons.mozilla.org"}}, "manifest_version": 2, "name": "Provera slovnih gre\u0161aka - srpski (latinica)", "description": "Provera slovnih gre\u0161aka za srpski jezik pisan latinicom", "version": "1.0.0", "author": "Milutin Smiljanic", "dictionaries": {"sr-Latn": "dictionaries/sr-Latn.dic"}}

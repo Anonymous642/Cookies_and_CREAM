@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Le Petit \u00c9rudit", "short_name": "Le Petit \u00c9rudit", "description": "Apprendre quelque chose de nouveau!", "version": "1.7", "icons": {"128": "con_lpe.png"}, "app": {"urls": ["http://www.lepetiterudit.com/"], "launch": {"web_url": "http://www.lepetiterudit.com/"}}}

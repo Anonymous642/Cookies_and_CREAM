@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Colorful Everything", "version": "2.1resigned1", "description": "Rangeen Everything", "icons": {"32": "ico.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{f59ce004-29c5-4a16-8636-5101ea0887b6}"}}}

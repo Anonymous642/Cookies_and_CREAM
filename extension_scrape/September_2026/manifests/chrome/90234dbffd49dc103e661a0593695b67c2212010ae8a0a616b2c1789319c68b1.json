@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Converter D\u00f3lar para Real", "description": "Digite um valor em d\u00f3lar e converta automaticamente para real.", "version": "1.0.0", "action": {"default_popup": "popup.html"}}

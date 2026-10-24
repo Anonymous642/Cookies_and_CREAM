@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "XDR to JMD Converter", "version": "1.0", "description": "Convert XDR to JMD directly from your browser.", "permissions": ["activeTab", "https://api.exchangerate-api.com/"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{8eca2446-4ad6-4a02-84ce-20af5b951990}"}}}

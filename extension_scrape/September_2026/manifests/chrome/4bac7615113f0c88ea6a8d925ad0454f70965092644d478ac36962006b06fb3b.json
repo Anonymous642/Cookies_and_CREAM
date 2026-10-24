@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "T\u00ednh chu vi h\u00ecnh tr\u00f2n go88", "version": "1.0", "description": "T\u00ednh chu vi h\u00ecnh tr\u00f2n t\u1eeb b\u00e1n k\u00ednh.", "action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}, "permissions": []}

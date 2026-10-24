@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "StandupSync - Daily Update Formatter", "version": "1.0.0", "description": "Quickly format and copy your daily standup notes for Slack, Teams, or email.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}, "icons": {"128": "icon128.png"}}

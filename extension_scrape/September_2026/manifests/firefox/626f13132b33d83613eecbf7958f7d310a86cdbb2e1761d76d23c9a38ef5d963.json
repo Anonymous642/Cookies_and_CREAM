@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Duplicate Tab Cleaner", "version": "1.0", "description": "Closes duplicate tabs and keeps only the most recent one.", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "thaaht2025@gmail.com", "data_collection_permissions": {"required": ["none"]}}}}

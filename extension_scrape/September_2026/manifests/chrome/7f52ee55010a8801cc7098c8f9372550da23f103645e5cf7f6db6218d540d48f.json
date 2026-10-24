@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Buy It Never", "version": "1.0", "description": "Blocks the 'Buy Now' and 'Add to Cart' buttons on Amazon to prevent impulse purchases.", "host_permissions": ["*://www.amazon.com/*"], "content_scripts": [{"matches": ["*://www.amazon.com/*"], "js": ["content.js"]}]}

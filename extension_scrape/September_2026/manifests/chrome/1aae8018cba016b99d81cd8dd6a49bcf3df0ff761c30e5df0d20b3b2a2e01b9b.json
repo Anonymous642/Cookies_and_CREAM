@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "En \u0130yi Psikolog", "description": "En iyi psikologlar\u0131 Google Maps'te kolayca bul.", "version": "1.0", "action": {"default_popup": "popup.html", "default_icon": {"128": "icons/icon128.png"}}, "permissions": []}

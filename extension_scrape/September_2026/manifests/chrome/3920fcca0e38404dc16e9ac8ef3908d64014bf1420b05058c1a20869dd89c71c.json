@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Remove Feedback", "version": "0.0.2", "description": "Hate Feedback Form!, This extension removes it.", "icons": {"128": "logo.png"}, "content_scripts": [{"matches": ["https://web5.manaze.io/*"], "js": ["manaze.js"], "css": ["manaze.css"]}]}

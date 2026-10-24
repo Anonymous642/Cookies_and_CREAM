@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Feed-remover", "version": "1.0", "description": "Removes feed on Linkedin", "icons": {}, "content_scripts": [{"matches": ["*://*.linkedin.com/*"], "js": ["remove-feed.js"]}], "browser_specific_settings": {"gecko": {"id": "{8f910056-17b2-40cc-8c86-0740093a88af}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fmovie Random Episode Generator", "version": "1.0", "description": "Adds a button to fmovies and gives a random episode.", "content_scripts": [{"matches": ["*://fmovies24.to/tv/*"], "js": ["buttonGen.js"]}], "browser_specific_settings": {"gecko": {"id": "{d6abef03-de31-4938-9d03-e0b29a9dad47}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.0", "name": "Deezer-QOL", "content_scripts": [{"matches": ["*://*.deezer.com/*"], "css": ["styles.css"]}], "browser_specific_settings": {"gecko": {"id": "{c9584efd-c620-4851-b35e-43bad6180966}"}}}

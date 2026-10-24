@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Name Design Style", "version": "1.0", "description": "Generate stylish, aesthetic, and fancy text to copy and paste.", "action": {"default_popup": "popup.html", "default_icon": "namedesign.png"}, "icons": {"16": "namedesign.png", "48": "namedesign.png", "128": "namedesign.png"}}

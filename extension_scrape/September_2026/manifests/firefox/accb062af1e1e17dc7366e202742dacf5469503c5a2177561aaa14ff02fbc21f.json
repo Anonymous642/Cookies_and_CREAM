@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pakistan Resolution Day", "version": "2.1resigned1", "description": "Dedicated to all Pakistanis around the Globe.", "background": {"scripts": ["script.js"]}, "permissions": ["theme"], "applications": {"gecko": {}}, "browser_specific_settings": {"gecko": {"id": "{08820ce5-560b-4563-af43-236616a63e07}"}}}

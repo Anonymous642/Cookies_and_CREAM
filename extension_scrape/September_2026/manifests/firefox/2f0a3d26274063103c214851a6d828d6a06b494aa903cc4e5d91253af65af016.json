@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Smart Decoder", "version": "1.0", "description": "Automatically detect and decode highlighted text", "permissions": ["contextMenus", "activeTab", "clipboardWrite"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{25bb3169-91b8-4454-894c-7c6f3980f0bf}"}}}

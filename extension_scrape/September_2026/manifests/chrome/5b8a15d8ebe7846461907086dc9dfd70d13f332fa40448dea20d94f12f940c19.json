@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1", "name": "computer chip", "chrome_url_overrides": {"newtab": "index.html"}, "description": "The chip is made of silicon, a common chemical element found in sand.", "manifest_version": 3}

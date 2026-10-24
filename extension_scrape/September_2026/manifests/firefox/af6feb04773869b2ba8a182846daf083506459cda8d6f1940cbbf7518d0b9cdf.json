@@ -1,0 +1,1 @@
+{"name": "POE Trade Copy to Path Of Building", "short_name": "POETrade2POB", "version": "1.0.5resigned1", "content_scripts": [{"js": ["process.js"], "matches": ["*://poe.trade/*"]}], "permissions": ["tabs", "webNavigation", "clipboardWrite", "*://poe.trade/*"], "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{37d1bc08-caf7-4236-a7a7-cac41776d986}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "FedEx to Freight Redirector", "version": "2.0", "description": "Right-click to redirect unfound FedEx shipments to FedEx Freight.", "permissions": ["contextMenus"], "host_permissions": ["*://*.fedex.com/*"], "background": {"service_worker": "background.js"}}

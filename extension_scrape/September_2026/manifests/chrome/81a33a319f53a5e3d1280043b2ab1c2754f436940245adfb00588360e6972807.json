@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "winposize", "version": "1.0.0.4", "content_scripts": [{"js": ["script.js"], "matches": ["<all_urls>"]}], "background": {"service_worker": "back.js"}, "permissions": ["storage", "contextMenus"]}

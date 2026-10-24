@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Anti-Shorts", "version": "1.0", "description": "Removes Youtube Shorts entirely", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["anti-shorts.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{dc1b8897-1342-4859-911f-0ca2032239b8}"}}}

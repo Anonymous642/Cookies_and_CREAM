@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Hides elements with the listPresence in SP", "description": "Hides elements with the listPresence in SharePoint.", "version": "1.0.1", "manifest_version": 3, "content_scripts": [{"matches": ["https://*.sharepoint.com/*"], "js": ["content_script.js"]}], "host_permissions": ["https://*.sharepoint.com/*"]}

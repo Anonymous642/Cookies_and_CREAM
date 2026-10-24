@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Omada Auto Site Select", "version": "1.0", "description": "Automatically clicks Default site on Omada login.", "content_scripts": [{"matches": ["https://omada.internal.chrisdonovan.net/*"], "js": ["content.js"], "run_at": "document_idle"}]}

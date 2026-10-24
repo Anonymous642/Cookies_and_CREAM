@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Digital Declutter Reminder", "version": "1.0", "description": "Reminds you to clean up files and emails periodically.", "permissions": ["alarms", "notifications"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{e39d0519-b15c-4d47-aa94-d6e15f747284}"}}}

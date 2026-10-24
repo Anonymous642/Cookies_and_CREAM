@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Cache Clearer", "version": "1.1", "description": "Clears Firefox cache every 30 minutes", "permissions": ["browsingData", "alarms"], "background": {"scripts": ["background.js"], "persistent": true}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{7ef89d79-1eb0-4f25-94c2-42895a6279b7}"}}}

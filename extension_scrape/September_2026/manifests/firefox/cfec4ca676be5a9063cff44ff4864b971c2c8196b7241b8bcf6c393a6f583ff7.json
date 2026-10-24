@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Unbricked", "version": "1.1", "description": "Fixes the things that bricked Bricklink.", "icons": {"48": "icons/unbricked-48.png"}, "content_scripts": [{"matches": ["*://*.bricklink.com/*"], "js": ["unbricked.js"]}], "browser_specific_settings": {"gecko": {"id": "{96fa603e-049b-44ac-abd8-deda3660539e}"}}}

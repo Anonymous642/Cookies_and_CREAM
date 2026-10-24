@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reddit Comments", "version": "0.22resigned1", "content_scripts": [{"matches": ["https://*.reddit.com/r/*/comments/*"], "js": ["comments.js"]}], "browser_specific_settings": {"gecko": {"id": "{e8f46eec-9ec6-4e88-bc21-bb1c6d64316f}"}}}

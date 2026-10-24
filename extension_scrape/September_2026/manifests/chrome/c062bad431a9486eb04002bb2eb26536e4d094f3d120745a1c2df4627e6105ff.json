@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "RF Calculator", "version": "1.0", "description": "Quick RF calculator: dBm \u2194 Watts, Frequency \u2192 Wavelength", "action": {"default_popup": "popup.html", "default_icon": "icon128.png"}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "My To-Do", "description": "A to-do list with a simple interface for all your task tracking needs while using Chrome.", "version": "1.0", "icons": {"48": "todo-logo-48", "128": "todo-logo-128"}, "manifest_version": 3}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MailTone Rewriter", "version": "1.0.2", "description": "Formuliere Texte automatisch in gew\u00fcnschtem Ton um.", "action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}, "permissions": []}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "wplace_image_pixel", "version": "1.1.1", "manifest_version": 3, "action": {"default_popup": "popup.html"}, "icons": {"16": "logo.png", "48": "logo.png", "128": "logo.png"}, "permissions": ["scripting", "activeTab", "tabs"], "host_permissions": ["https://wplace.live/"]}

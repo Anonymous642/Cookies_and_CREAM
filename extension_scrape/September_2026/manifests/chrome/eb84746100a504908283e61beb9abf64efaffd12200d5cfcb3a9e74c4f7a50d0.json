@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "FMInsideReplace", "version": "1.1", "description": "Replaces FMInside 1-100 values with original 1-20 values and rearranges to the typical FM format", "permissions": [], "content_scripts": [{"matches": ["*://fminside.net/players/*"], "js": ["content.js"]}]}

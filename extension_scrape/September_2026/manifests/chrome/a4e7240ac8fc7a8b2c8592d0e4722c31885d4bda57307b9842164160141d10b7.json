@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Moodrot", "version": "1.5.2", "description": "Custom visual reaction overlays for social media communities.", "permissions": ["storage"], "content_scripts": [{"matches": ["https://*.facebook.com/*"], "js": ["content.js"], "css": ["style.css"], "run_at": "document_idle"}]}

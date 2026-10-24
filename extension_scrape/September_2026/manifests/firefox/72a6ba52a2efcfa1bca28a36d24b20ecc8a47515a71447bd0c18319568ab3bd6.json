@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FireTTS", "version": "1.0", "description": "Speak selected text using local TTS server.", "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "FireTTS@dishdare", "strict_min_version": "58.0"}}}

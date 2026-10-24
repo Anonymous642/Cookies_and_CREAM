@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Netflix auto skip intro and recap", "version": "1.1", "description": "Automatically clicks the Skip Intro, Skip Recap, Next Episode buttons on Netflix.", "content_scripts": [{"matches": ["*://*.netflix.com/*"], "js": ["content.js"]}], "icons": {"48": "icon.png"}}

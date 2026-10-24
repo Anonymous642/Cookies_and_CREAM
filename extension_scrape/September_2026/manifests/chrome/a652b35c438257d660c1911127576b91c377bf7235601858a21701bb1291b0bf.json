@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "All FNF Mods", "version": "1.0", "description": "Play Friday Night Funkin' mods online. Stay up to date with the latest mod releases and enhance your FNF experience with one click.", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

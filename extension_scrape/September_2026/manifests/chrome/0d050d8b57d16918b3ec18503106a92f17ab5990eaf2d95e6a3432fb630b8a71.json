@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Twitter Auto Clicker", "version": "1.1", "description": "Automatically posts CTT tweets.", "permissions": [], "content_scripts": [{"matches": ["https://twitter.com/intent/*", "https://x.com/intent/*"], "js": ["content.js"], "run_at": "document_idle"}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "VD New Tab", "version": "3.0", "description": "Custom Vario Detectors New Tab Page", "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"48": "images/icon.png", "128": "images/icon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search with MyAnimeList", "version": "1.0", "description": "Search selected text on MyAnimeList in a new tab.", "icons": {"48": "icon.png"}, "background": {"scripts": ["index.js"]}, "permissions": ["contextMenus", "menus", "tabs", "activeTab"], "browser_specific_settings": {"gecko": {"id": "{68a3835c-43d9-4a23-a153-9d00276a4065}"}}}

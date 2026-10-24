@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pinterest keyword", "description": "NO.1 Pinterest Keywords Tool Chrome Extension Online", "version": "1.0.1", "icons": {"128": "icon.png"}, "action": {"default_icon": "icon.png", "default_popup": "popup.html"}}

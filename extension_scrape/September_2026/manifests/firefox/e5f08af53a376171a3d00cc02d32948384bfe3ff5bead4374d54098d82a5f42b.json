@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GLSL Texture Exporter", "version": "1.0", "description": "Export GLSL textures from glsl.app to PNG.", "content_scripts": [{"js": ["scripts/content.js"], "matches": ["https://glsl.app/*"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{9bc96b7f-3be5-4176-b38a-c9bbb1a764db}"}}}

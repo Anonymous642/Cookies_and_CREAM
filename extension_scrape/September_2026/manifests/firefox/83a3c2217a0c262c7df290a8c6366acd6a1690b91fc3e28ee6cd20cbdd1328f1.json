@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Highlight Fields", "version": "1.1", "description": "Highlight all fields on the page, including hidden ones.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["style.css"]}], "browser_specific_settings": {"gecko": {"id": "{3dd20323-f692-4691-b9e0-5ca0fd71264e}"}}}

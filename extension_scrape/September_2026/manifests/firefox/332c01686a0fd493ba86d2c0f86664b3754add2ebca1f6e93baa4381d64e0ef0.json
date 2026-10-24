@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Priority Sorter", "version": "1.3", "description": "Organize and sort your tasks by priority directly in your browser.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_title": "Priority Sorter"}, "browser_specific_settings": {"gecko": {"id": "{96e196c4-b6dc-49ea-88ba-f0aa18d9ab96}"}}}

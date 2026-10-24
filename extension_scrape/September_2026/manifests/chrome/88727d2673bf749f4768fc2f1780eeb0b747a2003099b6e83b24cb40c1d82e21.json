@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TCGplayer Direct & Margin Spread Engine", "version": "1.0.0", "description": "Deterministic net payout, TCGplayer Direct fee auditing, and envelope shipping margin calculator for single card sellers.", "action": {"default_popup": "popup.html"}, "permissions": ["storage"]}

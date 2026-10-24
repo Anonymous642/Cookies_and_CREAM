@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gravity Drift: Orbital Slingshot", "version": "1.0.0", "description": "Addictive retro orbital slingshot arcade game right in your Chrome browser!", "action": {"default_popup": "popup.html", "default_title": "Play Gravity Drift"}, "permissions": ["storage"]}

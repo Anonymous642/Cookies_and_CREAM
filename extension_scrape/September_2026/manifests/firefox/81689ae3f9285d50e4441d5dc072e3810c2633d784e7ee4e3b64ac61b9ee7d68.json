@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Add URL to Title", "version": "1.0", "description": "Writes the URL to the page title", "permissions": [], "content_scripts": [{"matches": ["<all_urls>"], "js": ["main.js"]}], "author": "Tommy Sun", "browser_specific_settings": {"gecko": {"id": "addUrlToTitle@tommysun10.name"}}}

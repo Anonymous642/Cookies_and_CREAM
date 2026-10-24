@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "ToggleRedditSidebar", "version": "0.1", "description": "Toggle right-side content reddit.com for more real-estate", "browser_specific_settings": {"gecko": {"id": "nandshnu@gmail.com", "strict_min_version": "58.0"}}, "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["toggleRedditSidebar.js"]}]}

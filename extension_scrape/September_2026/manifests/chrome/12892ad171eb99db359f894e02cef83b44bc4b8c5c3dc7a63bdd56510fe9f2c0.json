@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Void - NST", "version": "1.0", "description": "Auto-scrapes live attendance from Newton School portal and predicts safe bunks.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_title": "Void"}}

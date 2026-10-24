@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Extension Lister", "version": "1.0", "description": "Displays a list of all installed extensions.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["management"], "browser_specific_settings": {"gecko": {"id": "{41014111-c4cd-4706-b7fd-48b00c210af5}"}}}

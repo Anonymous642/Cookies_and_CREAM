@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Titan Clash New Tab", "version": "1.1", "description": "A dynamic background of two iconic titans in battle.", "permissions": ["geolocation"], "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{3cd66f14-ff1e-4282-bc59-842611afc48a}"}}}

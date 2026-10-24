@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FakeMSM", "version": "1.1resigned1", "description": "Replaces MSM with Men who have Sex with Men on Twitter feeds.", "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["replacer.js"]}], "browser_specific_settings": {"gecko": {"id": "{ee25b125-994c-41b4-9145-fa5fe1360078}"}}}

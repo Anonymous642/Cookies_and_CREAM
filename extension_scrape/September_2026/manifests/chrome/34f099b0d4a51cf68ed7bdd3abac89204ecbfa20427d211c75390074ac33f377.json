@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Favorites", "version": "1.0", "permissions": ["storage", "clipboardWrite"], "action": {"default_popup": "popup.html"}, "commands": {"open-popup": {"suggested_key": {"default": "Ctrl+Shift+Z"}, "description": "Open Favorites Popup"}}}

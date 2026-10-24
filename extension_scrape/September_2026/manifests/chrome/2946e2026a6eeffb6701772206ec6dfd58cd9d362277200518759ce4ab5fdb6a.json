@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Numbered Tabs", "version": "0.3.1", "description": "Add a numeric prefix before the tab's title.", "background": {"service_worker": "background.js"}, "manifest_version": 3, "host_permissions": ["<all_urls>"], "permissions": ["tabs", "scripting"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CEPEX", "version": "1.2", "description": "Facilita o Preenchimento de Endere\u00e7os no Opera Cloud.", "permissions": ["http://*/*", "https://*/*"], "content_scripts": [{"matches": ["*://*/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{4abd398e-197c-409f-912b-85570a0b4a5d}"}}}

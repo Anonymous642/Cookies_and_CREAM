@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "MUNI Room Rename", "version": "1.0", "description": "P\u0159episuje n\u00e1zvy u\u010deben v rozvrhu \u2013 A1 \u2192 50", "content_scripts": [{"matches": ["https://is.muni.cz/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "muni-room-rename@example.com"}}}

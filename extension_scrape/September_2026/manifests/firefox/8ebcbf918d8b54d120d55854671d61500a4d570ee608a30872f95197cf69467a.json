@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Preamble to Indian Constitution", "version": "1.0", "description": "Displays the Preamble to the Indian Constitution on every new tab.", "icons": {"48": "icon.png"}, "chrome_url_overrides": {"newtab": "popup.html"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{ff92fb8e-4fd3-4139-9951-a956f9906a7a}"}}}

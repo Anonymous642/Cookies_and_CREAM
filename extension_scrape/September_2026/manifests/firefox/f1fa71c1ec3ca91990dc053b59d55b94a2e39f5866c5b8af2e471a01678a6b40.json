@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VtM d10 Dice Roller", "version": "0.0.6", "description": "VtM d10 Dice Roller.", "browser_specific_settings": {"gecko": {"id": "vtm-d10-roller-schizo@cock.lu", "data_collection_permissions": {"required": ["none"]}}}, "browser_action": {"default_title": "VtM d10 Dice Roller", "default_popup": "popup.html"}}

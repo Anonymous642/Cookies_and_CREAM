@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "okfun.design", "version": "1.0.0", "description": "Addon okfun.design", "browser_specific_settings": {"gecko": {"id": "okfun.design@addons.mozilla.org", "strict_min_version": "109.0", "data_collection_permissions": {"required": ["none"]}}}, "icons": {"48": "icon.png"}}

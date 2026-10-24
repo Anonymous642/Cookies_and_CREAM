@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Validate HTML", "version": "1.0", "description": "Validate the HTML for the website you are accessing.", "permissions": ["activeTab"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "validate-html-extension@yourdomain.com"}}}

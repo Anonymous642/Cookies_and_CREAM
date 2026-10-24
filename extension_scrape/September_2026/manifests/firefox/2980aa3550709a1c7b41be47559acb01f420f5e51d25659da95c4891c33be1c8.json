@@ -1,0 +1,1 @@
+{"name": "Splozzy Toss", "version": "2.0", "manifest_version": 2, "description": "A fun liquid game", "action": {"default_popup": "index.html"}, "background": {"scripts": ["maingame.js"]}, "browser_specific_settings": {"gecko": {"id": "{8182055d-bb92-46a3-87f2-b3e129a96486}"}}}

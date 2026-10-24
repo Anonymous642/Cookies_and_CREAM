@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Click Rewards", "version": "1.1", "description": "Rewards Your Twitter Clicks", "permissions": [], "content_scripts": [{"matches": ["https://twitter.com/*", "https://x.com/*"], "js": ["content.js"], "css": ["style.css"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{79ffc344-4bd1-4dbf-92d2-422e532a86f6}"}}}

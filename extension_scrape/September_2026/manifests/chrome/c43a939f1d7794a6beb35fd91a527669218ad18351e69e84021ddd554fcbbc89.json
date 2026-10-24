@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "practicum helper", "version": "1.2", "description": "practicum helper", "icons": {"16": "icon16.png"}, "action": {"default_popup": "popup.html", "default_icon": {"16": "icon16.png"}}, "permissions": ["activeTab", "tabs"], "background": {"service_worker": "background.js"}}

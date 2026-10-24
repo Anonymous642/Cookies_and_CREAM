@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTubeDark", "version": "1.3", "description": "Auto sets youtube to dark mode.", "icons": {"48": "icons/youtube_48_black.png"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["youtubedark.js"]}]}

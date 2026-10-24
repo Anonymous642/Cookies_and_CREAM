@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Janus", "version": "2resigned1", "description": "To each sever, present a unique face", "background": {"scripts": ["janus.js"]}, "permissions": ["<all_urls>", "webRequest", "webRequestBlocking"], "browser_specific_settings": {"gecko": {"id": "{8a140e58-b2af-44d2-b9c1-c2f32c3646e0}"}}}

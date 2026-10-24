@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CFC - Craft Fair Quick Check", "version": "1.0.1", "description": "Quick GO / MAYBE / SKIP check for craft fair sellers.", "action": {"default_title": "CFC Quick Check", "default_popup": "popup.html"}, "permissions": []}

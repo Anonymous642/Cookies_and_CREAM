@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Opener Notification", "version": "1.0", "description": "Zeigt eine Benachrichtigung an, wenn ein neuer Tab ge\u00f6ffnet wird.", "permissions": ["tabs", "notifications"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{aa091730-808f-42e6-8ce1-4dfa751a33aa}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Baby Pink Status Ideas", "version": "1.0.0", "description": "Generate cute status ideas for social media from a topic. Runs locally with no permissions.", "action": {"default_title": "Baby Pink Status Ideas", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

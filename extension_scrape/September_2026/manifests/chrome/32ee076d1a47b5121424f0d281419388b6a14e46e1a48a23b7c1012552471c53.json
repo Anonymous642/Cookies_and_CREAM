@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "URL-Rewriter", "version": "2.0", "description": "Ersetzt die aktuelle URL durch eine andere URL", "action": {"default_popup": "popup.html"}, "permissions": ["tabs"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Codex Browser Extension", "author": "Suvranil", "version": "1.0", "description": "Codex Browser Extension is a realtime code collaboration platform that supports multiple clients to connect and contribute", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{59475c3e-355a-4cf4-adf0-36d34b4919e0}"}}}

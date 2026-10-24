@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PROWDMON Web Deco", "description": "Extension for FryFan", "version": "1.3", "icons": {"128": "128.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "content_security_policy": {"extension_pages": "script-src 'self'; connect-src 'self' https://apis.google.com"}}

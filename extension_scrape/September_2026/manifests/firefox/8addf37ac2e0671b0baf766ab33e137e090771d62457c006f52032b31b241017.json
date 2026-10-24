@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "KGBrowser Home", "version": "1.2", "description": "Custom home / new tab for KGBrowser", "browser_specific_settings": {"gecko": {"id": "kgbrowser-home@kgbrowser", "data_collection_permissions": {"required": ["none"]}}}, "chrome_url_overrides": {"newtab": "newtab.html"}, "chrome_settings_overrides": {"homepage": "newtab.html"}}

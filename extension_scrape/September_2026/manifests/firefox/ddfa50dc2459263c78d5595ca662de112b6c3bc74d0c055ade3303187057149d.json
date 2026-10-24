@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mute New Tabs", "version": "1.1resigned1", "description": "Mutes opened new tabs", "icons": {"48": "icons/shut-up-48.png"}, "background": {"scripts": ["shut-up.js"]}, "browser_specific_settings": {"gecko": {"id": "{f22b4fce-b0b3-41a0-a0a3-3977cecb245a}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HN Comments", "version": "1.0", "description": "Emphasizes comment count on Hacker News posts.", "icons": {"48": "hn48.png"}, "content_scripts": [{"matches": ["*://news.ycombinator.com/*"], "js": ["hn_comments.js"]}], "browser_specific_settings": {"gecko": {"id": "{599d70e8-f05f-4104-af61-dd0987ac2429}"}}}

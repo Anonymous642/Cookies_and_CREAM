@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Typing Helper", "version": "1.0", "description": "Predict and complete words while typing.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{57bc1d02-29fb-44cf-9963-d6fc0f0794c3}"}}}

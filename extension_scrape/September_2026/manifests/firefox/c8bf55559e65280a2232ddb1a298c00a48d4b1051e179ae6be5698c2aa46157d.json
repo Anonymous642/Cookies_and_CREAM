@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Yandex music performance optimiser", "version": "1.0", "description": "Removes canvas from yandex music", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://music.yandex.ru/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{4d95796a-7b3b-4393-8bbb-3e07868d6b16}"}}}

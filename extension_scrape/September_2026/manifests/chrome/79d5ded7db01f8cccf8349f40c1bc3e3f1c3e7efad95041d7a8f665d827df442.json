@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Twitter Monitor", "version": "0.1.0.1", "version_name": "0.1.0-beta1", "background": {"service_worker": "service-worker-loader.js", "type": "module"}, "action": {}, "icons": {"128": "favicon-128.png"}}

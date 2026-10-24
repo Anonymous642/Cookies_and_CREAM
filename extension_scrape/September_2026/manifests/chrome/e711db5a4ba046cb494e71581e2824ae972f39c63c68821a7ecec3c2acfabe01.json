@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Launchpad for Google", "description": "A fast, clean launchpad for your Google apps", "version": "3.5.0", "action": {"default_icon": "src/img/icon.png", "default_popup": "popup.html"}, "icons": {"128": "src/img/icon.png"}, "manifest_version": 3, "default_locale": "en", "permissions": ["storage"]}

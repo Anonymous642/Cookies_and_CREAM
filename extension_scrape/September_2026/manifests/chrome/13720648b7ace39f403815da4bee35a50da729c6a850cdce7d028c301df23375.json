@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Therapy Trainings\u2122 Info", "version": "1.0", "description": "Displays information about Therapy Trainings\u2122 when clicked.", "action": {"default_popup": "popup.html"}, "permissions": [], "icons": {"16": "icon16.jpg", "48": "icon48.jpg", "128": "icon128.jpg"}}

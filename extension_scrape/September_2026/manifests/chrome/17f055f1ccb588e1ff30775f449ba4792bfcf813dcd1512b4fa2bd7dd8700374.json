@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "QR Code Generator", "version": "1.0.0", "icons": {"16": "qr-icon(16).png", "48": "qr-icon(48).png", "128": "qr-icon(128).png"}, "action": {"default_popup": "index.html"}, "permissions": ["activeTab"]}

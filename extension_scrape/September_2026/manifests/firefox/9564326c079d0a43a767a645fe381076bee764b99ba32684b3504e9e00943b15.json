@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SearXNG Search", "description": "Adds SearXNG search engine", "version": "1.1", "browser_specific_settings": {"gecko": {"id": "searxng@example.com"}}, "chrome_settings_overrides": {"search_provider": {"name": "SearXNG", "search_url": "https://search.host2.gleeze.com/search?q={searchTerms}", "keyword": "sx", "encoding": "UTF-8"}}}

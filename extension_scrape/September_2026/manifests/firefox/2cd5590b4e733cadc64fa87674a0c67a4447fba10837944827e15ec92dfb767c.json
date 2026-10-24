@@ -1,0 +1,1 @@
+{"content_scripts": [{"js": ["jquery.min.js", "block.js"], "matches": ["<all_urls>"]}], "description": "", "icons": {"128": "icons/blueBlock128.png"}, "manifest_version": 2, "name": "Bloqueador de Redes Sociais", "version": "1.7resigned1", "browser_specific_settings": {"gecko": {"id": "{b21283c7-c831-44ad-b174-f9965b1be0d0}"}}}

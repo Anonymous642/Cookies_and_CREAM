@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hello Browser Addon", "version": "1.0", "description": "Addon demo: hi\u1ec7n popup ch\u00e0o b\u1ea1n.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{eb678549-52bc-4641-a191-07e29ed1e456}"}}}

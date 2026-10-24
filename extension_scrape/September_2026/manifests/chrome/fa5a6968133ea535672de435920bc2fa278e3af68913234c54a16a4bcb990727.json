@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bookmark Folder Locator", "version": "1.0", "description": "Find the exact folder path of any bookmark in your Chrome browser.", "permissions": ["bookmarks"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Links Pocket - find your links in handy way", "version": "1.0", "description": "One-click get all links your favorable pages", "action": {"default_popup": "Pages/pop.html", "default_icon": "images/icon.png"}}

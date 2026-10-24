@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Gmail Auto Clicker", "version": "1.0", "description": "Automatically opens Gmail and clicks the CTA button.", "permissions": ["tabs", "scripting", "activeTab"], "host_permissions": ["https://mail.google.com/*"], "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "gmailAuto8520@example.com"}}}

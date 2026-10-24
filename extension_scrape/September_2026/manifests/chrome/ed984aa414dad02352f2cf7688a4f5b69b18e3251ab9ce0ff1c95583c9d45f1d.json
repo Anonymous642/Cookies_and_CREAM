@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Singapore Random NRIC and FIN Generator", "description": "This Chrome extension generates random NRIC and FIN (Singapore) for testing purposes.", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "index.html", "default_icon": "gen-icon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Booking Search Context Menu", "version": "1.0", "description": "Right-click to search selected text on Booking.com", "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["background.js"]}, "icons": {"16": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{024817a6-9ffd-4620-b770-3b50b34c60d9}"}}}

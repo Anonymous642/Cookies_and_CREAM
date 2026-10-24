@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Night Skyline Bliss", "version": "1.0", "description": "Transform your browser into a vibrant window to the city that never sleeps.", "icons": {"128": "3159210.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}, "action": {"default_popup": "newtab.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Orbiora \u2014 Core Edition", "version": "1.0", "description": "Die erste offizielle Orbiora Browser-Erweiterung \u2013 klar, fokussiert und bereit f\u00fcr mehr.", "action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

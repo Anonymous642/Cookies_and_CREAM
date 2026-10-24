@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Thank You", "version": "1.0.0", "description": "Get short thank-you message suggestions and copy them instantly.", "action": {"default_title": "Quick Thank You", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

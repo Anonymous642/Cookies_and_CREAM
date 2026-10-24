@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SaveURI", "version": "2.1resigned1", "description": "Saves the page's internet address in the page for future reference.", "content_scripts": [{"matches": ["*://*/*"], "js": ["saveuri.js"]}], "browser_specific_settings": {"gecko": {"id": "{8EBAB97C-949A-474c-882F-9FD228F65430}"}}}

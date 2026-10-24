@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pomodoro Bell", "version": "1.0", "description": "Plays a gentle bell every 25 minutes to support the Pomodoro technique.", "permissions": ["tabs", "storage"], "background": {"scripts": ["background.js"], "persistent": true}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{ad64767d-180b-472d-b48e-2f88fb75c8c0}"}}}

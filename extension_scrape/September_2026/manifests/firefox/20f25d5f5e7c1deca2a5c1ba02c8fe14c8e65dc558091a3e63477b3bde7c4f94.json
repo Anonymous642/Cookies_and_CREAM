@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RealmEye Helper", "version": "1.0.1", "description": "Adds \"Copy whisper\" buttons to RealmEye's offers pages.", "content_scripts": [{"matches": ["*://www.realmeye.com/offers-to/*"], "js": ["copywhisper.js"]}]}

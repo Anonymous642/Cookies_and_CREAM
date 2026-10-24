@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Saved", "version": "0.0.1", "description": "Save now, read (or watch) later", "permissions": ["activeTab", "storage", "contextMenus"], "action": {"default_title": "Saved", "default_icon": "icons/icon.png"}, "background": {"service_worker": "dist/background.js"}}

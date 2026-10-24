@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Wallpapers New Tab Anime", "version": "2.0", "description": "Fondos aleatorios de anime para tu nueva pesta\u00f1a.", "chrome_url_overrides": {"newtab": "index.html"}}

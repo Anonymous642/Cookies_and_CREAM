@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "History Recap", "manifest_version": 3, "version": "6.0", "description": "Discover your most visited websites.", "permissions": ["topSites"], "action": {"default_icon": "historyIcon.png", "default_popup": "popup.html"}, "icons": {"16": "historyIcon.png", "128": "historyIcon.png"}}

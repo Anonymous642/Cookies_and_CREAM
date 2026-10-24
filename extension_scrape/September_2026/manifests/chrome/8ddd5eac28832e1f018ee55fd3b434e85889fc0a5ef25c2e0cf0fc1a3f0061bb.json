@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "YouTube stream chat fixer", "description": "This extension makes sure your chat will not crash.", "version": "0.1", "manifest_version": 3, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["script.js"]}]}

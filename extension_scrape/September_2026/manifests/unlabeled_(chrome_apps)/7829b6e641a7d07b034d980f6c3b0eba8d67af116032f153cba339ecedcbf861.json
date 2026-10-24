@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Ohmydish", "description": "Daily new recipes", "version": "0.0.0.3", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://ohmydish.com/"], "launch": {"web_url": "http://ohmydish.com/"}}}

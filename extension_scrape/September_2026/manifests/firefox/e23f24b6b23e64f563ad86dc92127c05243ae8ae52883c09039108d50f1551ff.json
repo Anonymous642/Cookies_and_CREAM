@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Snapshot Taker", "version": "1.0", "description": "Capture snapshots of the current webpage.", "icons": {"48": "icon.png"}, "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "snapshot-taker@example.com"}}}

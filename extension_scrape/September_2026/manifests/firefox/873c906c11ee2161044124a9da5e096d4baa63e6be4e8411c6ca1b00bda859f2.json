@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Simple Calculator", "version": "1.0", "description": "A basic calculator extension", "browser_action": {"default_popup": "popup.html", "default_title": "Calculator"}, "browser_specific_settings": {"gecko": {"id": "{5f59563c-b013-4444-af6b-ecebbf1e9cce}"}}}

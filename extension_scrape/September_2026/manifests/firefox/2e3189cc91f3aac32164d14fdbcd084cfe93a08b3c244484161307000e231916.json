@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Birds 'N' Pipes", "description": "Flappy bird but the pipes sometimes move.", "version": "1.2.1", "action": {"default_icon": "logo.png", "default_popup": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{9e1495aa-da2a-4bce-999d-d015bfd08529}"}}}

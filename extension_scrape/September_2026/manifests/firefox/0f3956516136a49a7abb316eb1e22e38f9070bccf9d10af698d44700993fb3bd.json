@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "colored number input", "version": "1.0", "description": "Adds A Color Picker to Input Fields", "content_scripts": [{"matches": ["<all_urls>"], "run_at": "document_idle", "js": ["script.js"], "css": ["style.css"]}], "browser_specific_settings": {"gecko": {"id": "{1f34c62e-5a3d-4a97-9009-0537b36824e1}"}}}

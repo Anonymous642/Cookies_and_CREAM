@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "New Homes Search ", "version": "1.0.3", "description": "Search all New Homes in the Dallas Ft. Worth area.  View thousands of new home interior images and floor plans.", "icons": {"128": "icon_128.png"}, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab"]}

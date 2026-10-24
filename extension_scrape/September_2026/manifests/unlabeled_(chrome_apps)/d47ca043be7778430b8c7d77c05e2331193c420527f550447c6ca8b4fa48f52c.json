@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "\u0428\u0430\u0448\u043a\u0438", "version": "2", "icons": {"128": "128.png"}, "app": {"urls": ["http://minigames.mail.ru/shashki"], "launch": {"web_url": "http://minigames.mail.ru/shashki"}}, "permissions": ["notifications"], "manifest_version": 2}

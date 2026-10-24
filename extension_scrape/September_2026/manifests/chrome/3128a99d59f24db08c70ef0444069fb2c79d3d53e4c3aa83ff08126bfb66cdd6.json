@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TabSum", "version": "0.12.0", "default_locale": "en", "description": "__MSG_description__", "icons": {"48": "icon-48.png", "128": "icon-128.png"}, "background": {"service_worker": "service-worker-loader.js", "type": "module"}, "action": {"default_title": "__MSG_default_title__"}}

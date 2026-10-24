@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Name Design", "version": "1.0", "description": "Create stylish name design with our free font generator.", "action": {"default_popup": "popup.html", "default_icon": "name-design.png"}, "icons": {"16": "name-design.png", "48": "name-design.png", "128": "name-design.png"}}

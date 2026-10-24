@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Laboratuvar Test Rehberi Arama", "version": "1.1", "description": "A'dan Z'ye Laboratuvar Testleri Rehberiniz. Test sonu\u00e7lar\u0131n\u0131z\u0131 h\u0131zla aray\u0131n.", "permissions": [], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Quick Site Shortcut", "version": "1.0", "description": "A simple shortcut extension to quickly access helpful web resources.", "background": {"scripts": ["background.js"]}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "shortcut-admin@palumdhara.in", "data_collection_permissions": {"required": ["none"]}}}}

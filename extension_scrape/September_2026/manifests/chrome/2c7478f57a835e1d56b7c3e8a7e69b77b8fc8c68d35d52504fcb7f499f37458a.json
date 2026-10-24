@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ph\u00e1t hi\u1ec7n Font ch\u1eef Website", "description": "Hover to detect font-family, size, weight. Powered by fontchudep.mobi", "version": "1.0.0", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["style.css"]}]}

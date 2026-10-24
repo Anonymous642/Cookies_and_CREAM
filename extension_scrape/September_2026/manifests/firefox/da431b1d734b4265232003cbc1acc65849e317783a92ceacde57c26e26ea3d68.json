@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Me.Me Destroyer", "description": "This extension is the chemo to the cancer that is me.me", "version": "1.1resigned1", "content_scripts": [{"matches": ["https://www.google.com/search*"], "js": ["lib/jquery.js", "destroy.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{86589e8e-7101-4fc8-99cc-6f580c8028b5}"}}}

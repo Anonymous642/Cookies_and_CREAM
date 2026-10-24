@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Stylize GitHub", "description": "Tweaks the styling of https://github.com.", "version": "0.1.1resigned1", "content_scripts": [{"run_at": "document_end", "matches": ["https://*.github.com/", "https://*.github.com/*"], "js": ["stylizeGitHub.js"]}], "browser_specific_settings": {"gecko": {"id": "{8123667e-8353-43ac-b75d-a240e74caa93}"}}}

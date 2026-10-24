@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Smart Form Auto-Filler", "version": "1.0", "description": "One-click test data generation for web forms.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "smart-filler-unique@local.test", "data_collection_permissions": {"required": ["none"]}}}}

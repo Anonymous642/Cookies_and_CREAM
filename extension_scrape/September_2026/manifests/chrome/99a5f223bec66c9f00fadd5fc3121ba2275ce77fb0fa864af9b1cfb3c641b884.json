@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hex Palette Studio", "version": "1.0.0", "description": "Generate a color palette (tints, shades, and accents) from a hex code. Copy colors instantly.", "action": {"default_title": "Hex Palette Studio", "default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

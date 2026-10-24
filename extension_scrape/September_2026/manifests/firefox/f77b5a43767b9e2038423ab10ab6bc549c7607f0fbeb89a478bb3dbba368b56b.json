@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Page Title Copier", "version": "1.0", "description": "Copies the current tab's title to clipboard.", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png", "default_title": "Copy Page Title"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{24af9907-d7f2-4f0d-bfa3-e5e4b8257383}"}}}

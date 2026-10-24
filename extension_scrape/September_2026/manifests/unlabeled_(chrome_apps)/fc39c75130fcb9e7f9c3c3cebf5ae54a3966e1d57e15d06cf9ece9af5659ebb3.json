@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Transitions DJ Web", "description": "DJ software for the web with MIDI support", "version": "1.5.9.4", "manifest_version": 2, "icons": {"128": "transitions128.png"}, "app": {"urls": ["*://app.transitions.dj/"], "launch": {"web_url": "http://app.transitions.dj/"}}, "permissions": ["unlimitedStorage"]}

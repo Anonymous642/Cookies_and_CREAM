@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "saul", "version": "2.0", "description": "sets all images to saul goodman", "browser_action": {"default_icon": {"32": "button/saul.png"}}, "content_scripts": [{"exclude_matches": ["*://twitter.com/*"], "matches": ["<all_urls>"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{7314ee0a-3837-442e-a8d4-60b27ea61447}"}}}

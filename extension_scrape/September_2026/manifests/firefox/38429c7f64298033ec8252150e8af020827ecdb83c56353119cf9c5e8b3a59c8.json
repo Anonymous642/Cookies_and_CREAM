@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Twitter Auto Clicker", "version": "1.1", "description": "Automatically posts CTT tweets.", "permissions": [], "content_scripts": [{"matches": ["https://twitter.com/intent/*", "https://x.com/intent/*"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{a2fcb120-611c-4610-92db-261a7ea7039e}"}}}

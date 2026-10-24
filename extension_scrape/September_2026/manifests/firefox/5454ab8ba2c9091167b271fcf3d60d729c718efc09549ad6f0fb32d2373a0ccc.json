@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Chess Helper Keyboard", "version": "1.0", "description": "Kontrol papan catur di Chess.com pakai keyboard.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://www.chess.com/*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{ce8c9cd4-fb9d-4412-8e02-54aaae2fe689}"}}}

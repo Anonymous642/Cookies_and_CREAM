@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "SeeLess", "version": "1.0", "description": "Removes the 'See more' button on xfree.com video pages.", "content_scripts": [{"matches": ["*://*.xfree.com/*"], "js": ["content.js"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "seeless-extension@local", "data_collection_permissions": {"required": ["none"]}}}}

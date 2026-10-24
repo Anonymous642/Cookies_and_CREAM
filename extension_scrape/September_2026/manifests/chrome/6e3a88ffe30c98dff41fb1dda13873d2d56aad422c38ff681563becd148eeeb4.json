@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Funny Coin Flipper", "version": "1.0.0", "description": "Flip a coin with funny animations and messages. Local-only, no permissions.", "action": {"default_title": "Flip a Coin", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

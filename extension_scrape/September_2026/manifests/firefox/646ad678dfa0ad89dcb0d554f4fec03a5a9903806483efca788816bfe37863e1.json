@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Crunchyroll spoiler hider", "version": "1.1", "description": "Hides spoilers of the next episode on Crunchyroll", "icons": {"48": "icons/48x48.png"}, "content_scripts": [{"matches": ["*://*.crunchyroll.com/*"], "js": ["spoilerhider.js"]}], "browser_specific_settings": {"gecko": {"id": "{f064b203-0ee3-49e7-9013-c6b98bdb34d6}"}}}

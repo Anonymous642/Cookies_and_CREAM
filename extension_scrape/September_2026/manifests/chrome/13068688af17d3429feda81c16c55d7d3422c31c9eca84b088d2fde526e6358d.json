@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AtCoder statement formatter", "description": "Chrome extension which help you copy formatted AtCoder statement", "version": "1.0", "icons": {"128": "AC.png"}, "content_scripts": [{"matches": ["https://atcoder.jp/*"], "js": ["content.js"]}]}

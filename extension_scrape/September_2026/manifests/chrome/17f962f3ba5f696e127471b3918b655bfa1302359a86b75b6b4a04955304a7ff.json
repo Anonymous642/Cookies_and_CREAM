@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Red Dice \u2014 Quick 1\u20136 Roller", "short_name": "Red Dice", "version": "1.0.0", "description": "Roll a fair six-sided die. Instantly shows a random number from 1 to 6.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}}

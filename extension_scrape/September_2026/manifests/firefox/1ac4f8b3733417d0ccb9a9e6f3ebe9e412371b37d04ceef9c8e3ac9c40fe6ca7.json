@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "T\u00ednh s\u1ed1 l\u1ebb/ch\u1eb5n", "version": "1.0", "description": "Ki\u1ec3m tra s\u1ed1 l\u00e0 l\u1ebb hay ch\u1eb5n.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{64a428a5-168c-4e80-8322-76815f6de71e}"}}}

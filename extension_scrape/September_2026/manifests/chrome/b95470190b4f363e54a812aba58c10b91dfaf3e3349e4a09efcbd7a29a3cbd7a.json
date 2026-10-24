@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "IndiaMART Product Sourcing", "description": "This app helps buyers to post their buying requirements for both raw materials and finished products.", "version": "1.2", "manifest_version": 3, "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

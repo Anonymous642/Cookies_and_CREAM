@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FreeNyTimes", "version": "1.0", "description": "This extension speeds up reading of articles on NY times.", "content_scripts": [{"matches": ["https://www.nytimes.com/*"], "js": ["magic.js"]}], "browser_specific_settings": {"gecko": {"id": "{45f51f3e-b42e-40e1-b89e-9cbd21d3f940}"}}}

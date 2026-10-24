@@ -1,0 +1,1 @@
+{"description": "Dark theme", "manifest_version": 2, "name": "u-238-dark-theme", "permissions": ["theme"], "background": {"scripts": ["theme.js"]}, "version": "1.2resigned1", "applications": {"gecko": {}}, "browser_specific_settings": {"gecko": {"id": "{5ff1347b-5c08-40e0-be87-db5b8a6fbb92}"}}}

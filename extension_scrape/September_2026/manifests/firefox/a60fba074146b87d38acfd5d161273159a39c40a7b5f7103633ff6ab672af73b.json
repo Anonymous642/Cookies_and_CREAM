@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "content demo", "description": "change border of page", "version": "1.1resigned1", "icons": {"64": "icons/icon.png"}, "content_scripts": [{"js": ["content.js"], "matches": ["*://*.mozilla.org/*"]}], "browser_specific_settings": {"gecko": {"id": "{1241e8c1-22eb-42e6-a4a5-78a730414e6c}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MWK to BYN Converter", "version": "1.0", "description": "Convert Malawian Kwacha (MWK) to Belarusian Ruble (BYN).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert MWK to BYN"}, "browser_specific_settings": {"gecko": {"id": "{d8a437e7-c5d4-4adf-aad2-bac9daabfec3}"}}}

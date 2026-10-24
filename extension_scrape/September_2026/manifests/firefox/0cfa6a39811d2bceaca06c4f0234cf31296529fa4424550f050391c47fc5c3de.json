@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Regex Tester", "version": "1.0", "description": "Test your regular expressions quickly!", "icons": {"48": "icon.png"}, "browser_action": {"default_icon": "icon.png", "default_title": "Regex Tester", "default_popup": "popup.html"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{a0e9991d-ca06-4f8e-a0b5-0a5c3b80efe6}"}}}

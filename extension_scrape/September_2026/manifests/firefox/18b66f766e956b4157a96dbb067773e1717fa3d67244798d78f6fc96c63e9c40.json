@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Calculator", "version": "1.0", "description": "A simple calculator extension.", "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "calculator-addon@example.com"}}, "action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}}

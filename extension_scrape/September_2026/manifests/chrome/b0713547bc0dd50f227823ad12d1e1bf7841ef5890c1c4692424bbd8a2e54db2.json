@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "White Box Overlay", "version": "1.0", "description": "Allows users to place a customizable box over website content.", "permissions": ["scripting", "activeTab"], "action": {"default_popup": "popup.html"}}

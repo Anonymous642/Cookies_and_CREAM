@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Flee FB Stories", "version": "1.2", "description": "Removes the Stories element from the Facebook feed automatically.", "icons": {"48": "icons/fleeStories48.png", "96": "icons/fleeStories96.png"}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["removeStories.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Phishing Blocker", "version": "1.0", "background": {"scripts": ["background.js"]}, "permissions": ["tabs", "webRequest", "webRequestBlocking", "<all_urls>"], "browser_specific_settings": {"gecko": {"id": "phishingblocker@yourdomain.com", "data_collection_permissions": {"required": ["none"], "optional": []}}}}

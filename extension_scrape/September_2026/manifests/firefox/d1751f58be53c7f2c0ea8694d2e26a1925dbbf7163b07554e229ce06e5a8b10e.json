@@ -1,0 +1,173 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_extName__",
+  "version": "1.0.100",
+  "default_locale": "en",
+  "description": "__MSG_extDesc__",
+  "icons": {
+    "16": "static/img/icon-16.png",
+    "48": "static/img/icon-48.png",
+    "128": "static/img/icon-128.png"
+  },
+  "action": {
+    "default_title": "__MSG_extActionTitle__",
+    "default_icon": {
+      "16": "static/img/icon-16.png",
+      "48": "static/img/icon-48.png",
+      "128": "static/img/icon-128.png"
+    }
+  },
+  "background": {
+    "scripts": [
+      "assets/core/api_base.js",
+      "assets/core/release_channel.js",
+      "assets/core/api_config.js",
+      "assets/core/analytics_service.js",
+      "assets/core/api_service.js",
+      "assets/core/doc_platforms.js",
+      "assets/background.js"
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "assets/utils/context_menu_restoration.js",
+        "assets/card/image_capture_enhanced.js"
+      ],
+      "run_at": "document_start",
+      "all_frames": false
+    },
+    {
+      "matches": [
+        "https://pinterest.com/*",
+        "https://*.pinterest.com/*"
+      ],
+      "js": [
+        "assets/card/image_capture_enhanced.js"
+      ],
+      "run_at": "document_end",
+      "all_frames": true,
+      "match_about_blank": true
+    },
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "assets/core/combo_system.js",
+        "assets/utils/hint_capsule.js",
+        "assets/card/screenshot_capture.js",
+        "assets/pet/pet_config.js",
+        "assets/pet/pet_remote_assets.js",
+        "assets/pet/pet_remote_video_loader.js",
+        "assets/pet/pet_performance.js",
+        "assets/pet/pet_bundle_loader.js",
+        "assets/pet/pet_state_machine.js",
+        "assets/utils/dialogue_i18n.js",
+        "assets/pet/pet_chat_bubble.js",
+        "assets/pet/pet_cleaning_animation.js",
+        "assets/pet/pet_storage.js",
+        "assets/pet/pet_actions.js",
+        "assets/pet/pet_drag.js",
+        "assets/pet/pet_ui.js",
+        "assets/pet/pet.js",
+        "assets/card/content.js"
+      ],
+      "run_at": "document_idle",
+      "all_frames": false
+    }
+  ],
+  "permissions": [
+    "tabs",
+    "storage",
+    "activeTab",
+    "scripting",
+    "identity",
+    "downloads",
+    "contextMenus",
+    "notifications",
+    "webNavigation"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "personalspace.html",
+        "drag-demo.html",
+        "sidepanel.html",
+        "usage-guide.html",
+        "usage-guide.css",
+        "static/img/panels/clean-all.svg",
+        "static/img/panels/right-click-icon.svg",
+        "static/img/panels/drag-icon.svg",
+        "static/img/panels/clean-one-icon.svg",
+        "static/img/panels/camera-crop-icon.svg",
+        "static/img/panels/confirm-button.svg",
+        "assets/*.js",
+        "assets/*/*.js",
+        "assets/*.css",
+        "assets/*/*.css",
+        "assets/card/opengraph_extractor.js",
+        "assets/pet-action-clean-current.png",
+        "assets/pet-action-clean-all.png",
+        "assets/pet-action-home.png",
+        "assets/card/card.html",
+        "assets/styles/*.css",
+        "static/img/*",
+        "static/img/panels/*",
+        "static/img/hints/*",
+        "static/img/viewport/*",
+        "static/img/og-card/*",
+        "static/img/chatbubble/*",
+        "static/img/pill/*",
+        "static/*.svg",
+        "static/video/*",
+        "static/video/pets/*/*.webm",
+        "assets/data/dialogue.json",
+        "assets/data/pets/*/*.json",
+        "assets/\u5bd2\u8749\u5706\u9ed1\u4f53/*.ttf",
+        "test_opengraph_simple.html",
+        "static/img/tips-bubble.svg",
+        "assets/*.svg",
+        "assets/*/*.svg",
+        "assets/*.png",
+        "assets/*/*.png"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self'; connect-src 'self' https: https://tab-cleaner-mvp-app-production.up.railway.app http://localhost:8000 http://127.0.0.1:17322 http://10.40.8.156:8000 http://10.40.14.159:8000 http://10.191.239.79:8000; img-src 'self' data: https: http: blob:; media-src 'self' https: blob:;"
+  },
+  "sidebar_action": {
+    "default_panel": "sidepanel.html",
+    "default_title": "__MSG_extActionTitle__",
+    "default_icon": {
+      "16": "static/img/icon-16.png",
+      "48": "static/img/icon-48.png",
+      "128": "static/img/icon-128.png"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "firefox@tabiiclean.com",
+      "strict_min_version": "140.0",
+      "data_collection_permissions": {
+        "required": [
+          "authenticationInfo",
+          "browsingActivity",
+          "personallyIdentifyingInfo",
+          "websiteActivity",
+          "websiteContent"
+        ]
+      }
+    }
+  }
+}

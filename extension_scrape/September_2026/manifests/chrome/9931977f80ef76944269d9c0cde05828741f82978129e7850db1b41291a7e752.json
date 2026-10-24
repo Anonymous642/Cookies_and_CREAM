@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Leboncoin filtre", "version": "1.0", "description": "Filtre les r\u00e9sultats LeBonCoin en fonction de la localisation", "permissions": ["storage"], "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["https://www.leboncoin.fr/*"], "js": ["content.js"]}]}

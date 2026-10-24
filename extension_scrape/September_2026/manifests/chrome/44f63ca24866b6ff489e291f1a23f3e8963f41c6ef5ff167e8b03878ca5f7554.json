@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "World Time", "description": "Clocks to show your and you selected local time.", "version": "0.0.1", "action": {"default_popup": "popup/index.html", "default_icon": "clock.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Canvas Dark Mode", "version": "2.0", "description": "Sets a dark theme for Canvas", "content_scripts": [{"matches": ["*://*.instructure.com/*"], "js": ["darkmode.js"]}], "permissions": ["theme"], "browser_specific_settings": {"gecko": {"id": "{7df76d73-762a-4b98-9a43-c19807da39a4}"}}}

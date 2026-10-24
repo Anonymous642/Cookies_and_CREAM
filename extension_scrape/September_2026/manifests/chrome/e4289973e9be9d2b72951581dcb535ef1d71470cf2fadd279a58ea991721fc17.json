@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Colour Picker", "version": "1.3.0", "description": "Pick colours, extract page palettes, generate harmony, and check WCAG contrast.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["storage", "activeTab", "scripting"]}

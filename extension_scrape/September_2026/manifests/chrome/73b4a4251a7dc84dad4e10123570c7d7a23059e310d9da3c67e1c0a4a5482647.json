@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Police Gold Slogan Maker", "version": "1.0.0", "description": "Create a personal slogan in a bold police-gold style with quick templates and custom options.", "action": {"default_title": "Slogan Maker", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

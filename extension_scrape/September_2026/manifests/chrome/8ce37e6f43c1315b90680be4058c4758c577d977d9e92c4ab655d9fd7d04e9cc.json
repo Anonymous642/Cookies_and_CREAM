@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sticky Note Per Tab", "version": "1.0.0", "description": "Quick sticky notes saved per tab (per page) in a simple popup.", "action": {"default_title": "Sticky Note", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}, "permissions": ["storage", "activeTab"]}

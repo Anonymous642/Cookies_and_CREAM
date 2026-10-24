@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RedditArchive", "version": "1.2", "description": "redirects reddit links to archive links", "content_scripts": [{"matches": ["*://*.reddit.com/*", "*://*.archive.org/*"], "js": ["archive.js"]}], "browser_specific_settings": {"gecko": {"id": "{06782b06-af40-44b9-b467-b89c610dd943}"}}}

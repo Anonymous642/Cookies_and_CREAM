@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Simple Bookmark Manager", "version": "1.0", "description": "Manage and organize bookmarks easily.", "permissions": ["bookmarks"], "icons": {"48": "icons/icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icons/icon.png"}, "browser_specific_settings": {"gecko": {"id": "{7a5a5dc9-0e0e-45fc-89c9-6a3c6cc4b2a5}"}}}

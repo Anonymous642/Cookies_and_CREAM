@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Motivation Tab", "description": "Shows Random Quotes ", "version": "1.1resigned1", "chrome_url_overrides": {"newtab": "my-new-tab.html"}, "browser_specific_settings": {"gecko": {"id": "{8b8aec90-ff23-4515-876e-7a13adb3599b}"}}}

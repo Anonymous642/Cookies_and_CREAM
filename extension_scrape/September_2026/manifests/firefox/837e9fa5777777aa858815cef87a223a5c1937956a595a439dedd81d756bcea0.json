@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "ColorWise", "version": "1.0", "description": "Adjust page colors, boost contrast.", "action": {"default_popup": "popup.html", "default_icon": "colorwise.png"}, "icons": {"128": "colorwise.png"}, "browser_specific_settings": {"gecko": {"id": "malleryfdop397479@hotmail.com"}}}

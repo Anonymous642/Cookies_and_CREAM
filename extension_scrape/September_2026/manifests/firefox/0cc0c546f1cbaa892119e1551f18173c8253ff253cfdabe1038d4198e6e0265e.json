@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Piazza, But Prettier", "version": "0.1.0", "description": "Applies styling to Piazza to make it slightly prettier.", "content_scripts": [{"css": ["style.css"], "matches": ["https://piazza.com/class/*"]}], "browser_specific_settings": {"gecko": {"id": "{bed43007-7c5d-4d33-aa6d-fe0cd302103f}"}}}

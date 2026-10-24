@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sales Tax Calculator", "version": "1.4", "description": "Calculate Sales Tax on any price by state", "manifest_version": 3, "icons": {"128": "Calc_128.png"}, "action": {"default_icon": "Calc_48.png", "default_popup": "index.html"}}

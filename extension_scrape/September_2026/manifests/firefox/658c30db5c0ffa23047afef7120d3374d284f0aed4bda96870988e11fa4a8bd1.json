@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SimpleToDoSync", "permissions": ["storage"], "version": "1.1.0", "description": "Simple ToDo extension for Firefox", "icons": {"48": "icons/icon32.png"}, "browser_action": {"default_popup": "todo.html"}, "browser_specific_settings": {"gecko": {"id": "SimpleToDoSync@SunilGoothy", "strict_min_version": "60.0"}}}

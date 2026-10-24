@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Self Care Reminder Popup", "version": "1.0.0", "description": "A simple popup extension that shows self care reminders and allows users to save helpful notes.", "action": {"default_title": "Self Care Reminder", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

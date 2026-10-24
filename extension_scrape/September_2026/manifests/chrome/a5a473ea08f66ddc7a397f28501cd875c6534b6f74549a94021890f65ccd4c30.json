@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "2.0", "name": "beautiful roses", "chrome_url_overrides": {"newtab": "index.html"}, "description": "pink lotus flowers pond", "manifest_version": 3}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Volume Booster", "version": "1.0", "description": "Boosts audio volume beyond 100% using Web Audio API gain node.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}}

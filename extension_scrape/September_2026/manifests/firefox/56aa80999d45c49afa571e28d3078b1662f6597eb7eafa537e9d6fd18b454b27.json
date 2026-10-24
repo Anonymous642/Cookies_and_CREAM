@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Image zoom in Google Sheets", "version": "1.0", "description": "Allows to zoom on images in Google Sheets", "content_scripts": [{"matches": ["*://docs.google.com/spreadsheets/*"], "js": ["extension.js"]}], "browser_specific_settings": {"gecko": {"id": "{1b23f8e0-94c0-416d-8b82-7b32cb65eab5}"}}}

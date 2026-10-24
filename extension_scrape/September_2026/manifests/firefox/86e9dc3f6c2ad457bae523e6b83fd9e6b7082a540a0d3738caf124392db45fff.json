@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Buscar en FilmAffinity", "version": "4.0", "description": "Busca texto seleccionado en filmaffinity.com", "permissions": ["contextMenus", "tabs", "https://www.filmaffinity.com/*"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "filmaffinity@rexomega.com"}}}

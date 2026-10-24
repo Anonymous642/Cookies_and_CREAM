@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ng-inspect", "description": "Inspect the angular scope", "version": "1.1resigned1", "permissions": ["contextMenus", "tabs", "<all_urls>"], "background": {"scripts": ["main.js"]}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["injectscript.js"]}], "browser_specific_settings": {"gecko": {"id": "jid1-v6jvJrqACQCakw@jetpack"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Slack hide panes", "version": "2.1", "description": "Hide Slack Panes.", "applications": {"gecko": {"id": "slack-hide-pane@javascript.ru"}}, "content_scripts": [{"matches": ["*://*.slack.com/*"], "js": ["slack-hide-panes.js"], "css": ["slack-hide-panes.css"]}]}

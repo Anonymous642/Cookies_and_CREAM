@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pension Calculator", "version": "1.0", "description": "A simple pension savings calculator.", "browser_action": {"default_popup": "popup.html", "default_icon": "icons/icon.png"}, "icons": {"48": "icons/icon.png"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "{276ed6b4-5c6a-410a-a0ee-8b4f227b5c53}"}}}

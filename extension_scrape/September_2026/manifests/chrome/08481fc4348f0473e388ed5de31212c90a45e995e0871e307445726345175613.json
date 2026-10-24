@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Dumpert tracker", "version": "1.0", "description": "Keeps track of watched dumpert videos", "content_scripts": [{"matches": ["https://www.dumpert.nl/*"], "js": ["content/dumpert-tracker.js"], "run_at": "document_idle"}]}

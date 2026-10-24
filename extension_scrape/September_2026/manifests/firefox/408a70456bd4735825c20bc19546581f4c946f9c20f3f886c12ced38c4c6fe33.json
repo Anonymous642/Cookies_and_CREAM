@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Unimelb handbook fix", "version": "1.2", "description": "Automatically loads the newest version of the unimelb handbook.", "browser_specific_settings": {"gecko": {"id": "{1c99411c-72b9-4210-8a9a-201271802492}"}}, "content_scripts": [{"matches": ["*://handbook.unimelb.edu.au/*"], "js": ["linkswap.js"]}]}

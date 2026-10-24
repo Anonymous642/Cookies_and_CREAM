@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Color Code Viewer ", "version": "2.0.0", "description": "Upgraded retro-styled color picker with React.", "action": {"default_popup": "index.html", "default_icon": "color.png"}, "icons": {"128": "color.png"}}

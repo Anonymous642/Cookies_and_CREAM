@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "X Advanced Search Helper", "version": "1.0", "description": "Generate advanced X search queries through an easy-to-use interface", "permissions": ["storage"], "action": {"default_popup": "popup.html"}}

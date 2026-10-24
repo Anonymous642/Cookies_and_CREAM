@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Words", "short_name": "Words", "version": "1.0", "description": "A beautiful text editor for Chrome", "icons": {"16": "words-16.png", "128": "words-128.png"}, "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["fullscreen"]}

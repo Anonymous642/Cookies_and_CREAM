@@ -1,0 +1,1 @@
+{"manifest_version": 2, "author": "Pipo Creative", "name": "Blockeres", "version": "1.0.1", "default_locale": "fi", "description": "Hide user posts in Inderes discussion board", "permissions": ["storage"], "icons": {}, "content_scripts": [{"matches": ["https://keskustelut.inderes.fi/*"], "js": ["content.js"]}]}

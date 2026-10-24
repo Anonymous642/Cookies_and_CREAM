@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Happy Riddle Generator", "version": "1.0.0", "description": "Generate short playful riddles instantly in a clean popup interface.", "action": {"default_title": "Happy Riddle Generator", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

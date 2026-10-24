@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Lead Genie", "version": "0.0.5", "description": "A lead generation tool for getting above 10%", "manifest_version": 3, "action": {"default_title": "Open Lead Genie", "default_icon": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}, "background": {"service_worker": "background.js"}}

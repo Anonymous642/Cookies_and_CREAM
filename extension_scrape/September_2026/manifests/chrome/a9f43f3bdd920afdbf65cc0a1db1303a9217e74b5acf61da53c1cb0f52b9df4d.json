@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ChatGPT Dialog Map", "version": "1.0", "description": "Side exit dialog card for ChatGPT", "content_scripts": [{"matches": ["https://chat.openai.com/*", "https://chatgpt.com/*"], "js": ["content.js"], "css": ["styles.css"], "run_at": "document_idle"}]}

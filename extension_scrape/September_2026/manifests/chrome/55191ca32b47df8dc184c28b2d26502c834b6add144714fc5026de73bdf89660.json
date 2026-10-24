@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Google Translate Widget Hider", "action": {}, "manifest_version": 3, "version": "2.23.3.31", "description": "Hides the google translate widget", "content_scripts": [{"run_at": "document_end", "matches": ["*://*.google.com/*"], "js": ["hide.js"]}]}

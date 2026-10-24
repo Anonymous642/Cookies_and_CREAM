@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Copy as Git Branch", "version": "1.0", "description": "Copy selected text as a Git branch name", "permissions": ["contextMenus", "clipboardWrite", "activeTab"], "background": {"service_worker": "background.js"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

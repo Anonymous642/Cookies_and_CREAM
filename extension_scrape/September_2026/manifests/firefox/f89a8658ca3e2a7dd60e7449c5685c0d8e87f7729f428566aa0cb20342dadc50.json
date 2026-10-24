@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Dag to Lb Converter", "version": "1.0", "description": "Convert decagrams to pounds", "browser_specific_settings": {"gecko": {"id": "dag-to-lb@gmail.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Amazon Link Cleaner", "description": "", "version": "1.0", "manifest_version": 3, "permissions": ["activeTab", "clipboardWrite"], "action": {"default_title": "Amazon Link Cleaner", "default_icon": "img/icon.png", "default_popup": "popup.html"}}

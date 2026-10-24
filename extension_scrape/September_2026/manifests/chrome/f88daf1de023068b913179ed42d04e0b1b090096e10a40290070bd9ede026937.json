@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Topic Book Suggestion", "version": "1.0.0", "description": "Get book suggestion ideas based on a topic you choose in a clean, modern popup.", "action": {"default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}, "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Snap & Link (History)", "version": "1.0", "description": "Capture screenshots, overlay URL, and save history.", "permissions": ["activeTab", "storage", "unlimitedStorage"], "action": {"default_popup": "popup.html", "default_title": "Snap & Link"}}

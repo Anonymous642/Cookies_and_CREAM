@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Linterna Online", "manifest_version": 2, "short_name": "Linterna Online", "description": "Brillante Linterna Gratis", "version": "1", "icons": {"128": "icon.jpg"}, "app": {"launch": {"web_url": "http://flashlight.hekoru.lol/es"}}}

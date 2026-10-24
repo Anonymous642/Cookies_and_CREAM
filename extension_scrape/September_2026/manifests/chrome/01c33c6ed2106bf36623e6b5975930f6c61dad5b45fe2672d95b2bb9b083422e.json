@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MAL Genre Filters", "version": "1.2", "content_scripts": [{"matches": ["https://myanimelist.net/animelist/*", "https://myanimelist.net/mangalist/*"], "js": ["content.js"], "css": ["styles.css"], "run_at": "document_idle"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Prac Task Organizer", "description": "Organiszes your daily task list.", "version": "1.0.1", "icons": {"128": "icon_128.png"}, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{becc7707-48c9-40b9-bb50-41be5b4da03a}"}}}

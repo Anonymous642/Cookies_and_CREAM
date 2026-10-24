@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Github code line wrap", "manifest_version": 3, "version": "1.2", "description": "Line break at view width rather than wrapping at 'words' on github code views and reviews.", "content_scripts": [{"matches": ["*://github.com/*", "*://*.github.com/*"], "css": ["fix_wrap.css"]}]}

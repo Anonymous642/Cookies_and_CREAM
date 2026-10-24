@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "War on the Wallpapers", "version": "1.0", "description": "Wallpaper with New York Times latest headlines overlay on wallpaper of user's choice.", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": []}

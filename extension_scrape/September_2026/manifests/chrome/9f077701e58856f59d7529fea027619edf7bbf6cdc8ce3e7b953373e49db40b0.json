@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Custom Aurora Background", "version": "1.0", "description": "Bring the magical beauty of the aurora into your workspace with Custom Aurora Background.", "icons": {"128": "icon128.png"}, "permissions": ["geolocation"], "chrome_url_overrides": {"newtab": "index.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Open in Notion", "description": "Always opens Notion links in the Notion app.", "version": "1.0", "action": {"default_icon": "notion-logo.png"}, "content_scripts": [{"js": ["script.js"], "matches": ["https://www.notion.so/*", "https://notion.so/*"]}]}

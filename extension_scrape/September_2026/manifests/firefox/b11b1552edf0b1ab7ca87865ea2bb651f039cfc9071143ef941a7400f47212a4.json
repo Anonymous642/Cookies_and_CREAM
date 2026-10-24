@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Packages Site Plus", "version": "1.0", "description": "Enhances the browsing experience on package repository sites by improving layout, readability, and navigation", "content_scripts": [{"matches": ["*://*.com/*"], "js": ["javascript.js"]}], "browser_specific_settings": {"gecko": {"id": "{10e1cb55-4321-41cb-8dd8-ee2e5041b447}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Auto JS Secret Scanner", "version": "1.0", "permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{bf132f45-bb35-45da-a234-1b648110b819}"}}}

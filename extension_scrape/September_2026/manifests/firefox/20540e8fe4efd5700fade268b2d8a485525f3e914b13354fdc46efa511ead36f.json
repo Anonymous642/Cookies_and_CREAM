@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PfannkuchenPolizei", "version": "0.2.6.2resigned1", "description": "Korrigiert Pfannkuchen-Fehler", "icons": {"48": "icons/pkp-48.png"}, "permissions": ["*://*/*", "activeTab"], "content_scripts": [{"matches": ["*://*/*"], "js": ["pfannkuchenize.js"]}], "browser_specific_settings": {"gecko": {"id": "{ecd0a99a-a7a6-49ce-9715-b722c884ca7b}"}}}

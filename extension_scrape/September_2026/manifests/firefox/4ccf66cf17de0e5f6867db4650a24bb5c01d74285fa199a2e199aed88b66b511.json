@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Cookie Manager Selector", "version": "1.0", "permissions": ["cookies", "storage", "tabs", "alarms", "notifications"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{68466a17-9f9c-4c33-a552-a3a29aa5da72}"}}}

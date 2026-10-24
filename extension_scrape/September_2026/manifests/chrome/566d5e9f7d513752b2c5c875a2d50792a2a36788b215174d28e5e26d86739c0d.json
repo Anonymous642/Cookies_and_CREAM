@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Short Thank You Messages", "version": "1.0.0", "description": "Get short thank you message suggestions in a simple popup. Works offline. No permissions.", "action": {"default_title": "Thank You Ideas", "default_popup": "popup.html", "default_icon": {"128": "icon128.png"}}}

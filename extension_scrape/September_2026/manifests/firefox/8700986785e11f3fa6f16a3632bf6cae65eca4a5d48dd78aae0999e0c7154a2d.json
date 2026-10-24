@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mask as Linux", "version": "1.0", "description": "Masks the browser as a Linux system by modifying the User-Agent header.", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{a41578fb-f3e8-42d8-b2dc-4a75e84b409c}"}}}

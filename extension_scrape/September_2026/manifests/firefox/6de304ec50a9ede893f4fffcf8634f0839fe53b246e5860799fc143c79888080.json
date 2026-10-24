@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TradingLite Enhanced", "version": "1.0.2.1", "description": "TradingLite Enhanced with 3D Orderbooks (BionicTrader).", "icons": {"176": "icons/TradingLite-Enhanced.png"}, "content_scripts": [{"matches": ["*://tradinglite.com/chart/*", "*://*.tradinglite.com/chart/*"], "js": ["TradingLite-Enhanced.js"]}]}

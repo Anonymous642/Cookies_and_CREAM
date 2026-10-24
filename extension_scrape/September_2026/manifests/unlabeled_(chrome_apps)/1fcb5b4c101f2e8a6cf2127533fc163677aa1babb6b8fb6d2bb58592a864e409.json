@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ZiXue player", "description": "HTML5 video player with Chinese to Pinyin subtitle transcription and dictionary lookup", "version": "0.91", "manifest_version": 2, "app": {"background": {"scripts": ["chromeapp.js"]}}, "icons": {"128": "images/icon.png"}}

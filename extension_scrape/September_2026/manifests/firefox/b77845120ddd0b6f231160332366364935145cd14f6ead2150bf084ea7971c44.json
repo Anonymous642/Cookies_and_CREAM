@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ddg-unfocus-fix", "version": "1.0", "description": "", "icons": {}, "content_scripts": [{"matches": ["https://duckduckgo.com/*"], "js": ["fix.js"]}], "browser_specific_settings": {"gecko": {"id": "{27f031f2-0e7c-4d58-a9a5-3ff61ee1b2f7}"}}}

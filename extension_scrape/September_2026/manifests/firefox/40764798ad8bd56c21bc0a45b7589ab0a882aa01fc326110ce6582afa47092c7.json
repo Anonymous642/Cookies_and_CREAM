@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bing for Firefox", "version": "1.0", "description": "Changes the user agent to xxx for all requests to bing.com", "permissions": ["webRequest", "webRequestBlocking", "https://*.bing.com/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{4446ff53-2814-460a-bae3-c791c0f2cf51}"}}}

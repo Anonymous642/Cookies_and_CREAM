@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Intro Generator", "description": "Generate engaging YouTube video intros instantly.", "version": "1.0", "action": {"default_popup": "popup.html", "default_title": "YT Intro"}, "icons": {"128": "icon.png"}}

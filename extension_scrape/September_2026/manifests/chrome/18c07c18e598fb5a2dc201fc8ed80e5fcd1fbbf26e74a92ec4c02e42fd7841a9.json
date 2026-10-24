@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pause All Extensions", "version": "2.0.0", "icons": {"192": "icon/192.png"}, "permissions": ["management", "storage"], "action": {"default_title": "Default Popup Title", "default_popup": "popup.html"}}

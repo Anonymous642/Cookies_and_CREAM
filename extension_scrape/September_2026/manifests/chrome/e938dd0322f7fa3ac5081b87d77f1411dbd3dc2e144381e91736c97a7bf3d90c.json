@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Crouton Ultra Deluxe", "description": "Use on crouton.net lol", "version": "1.0.0", "icons": {"48": "crouton.png", "128": "crouton.png"}, "content_scripts": [{"matches": ["https://crouton.net/"], "js": ["Content.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Forsyth County Library Extension", "description": "Extension that allows you to search books from the Forsyth County Library of books with ease!", "icons": {"128": "better library logo.png"}, "version": "1.0", "manifest_version": 3, "action": {"default_popup": "popup.html"}}

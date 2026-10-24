@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Aware Clock", "version": "1.0", "description": "AwareClock keeps you mindful of your time with daily and monthly for better focus.", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{0e57d158-6eaf-435e-b843-47acc333d1f0}"}}}

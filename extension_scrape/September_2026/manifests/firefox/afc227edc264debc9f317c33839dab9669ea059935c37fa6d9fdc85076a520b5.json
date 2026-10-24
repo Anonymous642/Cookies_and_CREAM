@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "3.1resigned1", "description": "A test extension from webext-generator.", "name": "walmorne-pandper-parey", "browser_specific_settings": {"gecko": {"id": "{8e859f86-8a6d-4ec6-ba96-2dde4baf78e3}"}}}

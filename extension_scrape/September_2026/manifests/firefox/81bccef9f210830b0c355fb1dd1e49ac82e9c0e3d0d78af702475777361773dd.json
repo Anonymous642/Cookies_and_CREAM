@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fotos Bonitas de Crevillent en Nueva Pesta\u00f1a", "version": "1.0.3", "description": "Muestra una foto aleatoria de Crevillent como fondo al abrir una nueva pesta\u00f1a, con el nombre del autor.", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "info@manuelmas.es", "strict_min_version": "91.0"}}}

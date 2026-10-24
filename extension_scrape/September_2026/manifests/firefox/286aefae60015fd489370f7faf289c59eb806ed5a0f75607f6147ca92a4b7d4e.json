@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "stop youtube ads", "version": "2.0", "description": "for stop youtube ads!.", "background": {"scripts": ["background.js"]}, "icons": {"16": "ads.png", "48": "ads.png", "128": "ads.png"}, "content_scripts": [{"matches": ["*://*.mozilla.org/*"], "js": ["background.js"]}], "page_action": {"browser_style": true, "default_icon": {"128": "ads.png"}}}

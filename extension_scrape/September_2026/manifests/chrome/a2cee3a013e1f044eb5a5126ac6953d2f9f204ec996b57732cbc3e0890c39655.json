@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Slash Mark - Smart Signature Resizer (KB)", "version": "1.0", "description": "Resize and compress signature images to exact KB sizes for official forms and applications.", "action": {"default_popup": "popup.html"}, "icons": {"128": "icons/icon128.png"}}

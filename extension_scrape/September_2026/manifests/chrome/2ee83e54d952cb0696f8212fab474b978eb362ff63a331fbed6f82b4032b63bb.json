@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Classroom 76 - Unblocked Games 76", "version": "2.7.7", "description": "Play unblocked games 76 right in your web-browser!", "action": {"default_icon": "icon.png"}, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "background": {"service_worker": "background.js"}}

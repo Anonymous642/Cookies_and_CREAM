@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RandomAI", "version": "1.0", "description": "Random AI chat generator", "browser_action": {"default_popup": "popup.html", "default_title": "RandomAI"}, "permissions": [], "browser_specific_settings": {"gecko": {"id": "randomai@example.com", "data_collection_permissions": {"required": ["none"]}}}}

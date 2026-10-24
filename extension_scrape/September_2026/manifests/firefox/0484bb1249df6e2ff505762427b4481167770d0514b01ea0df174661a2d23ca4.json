@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mile to Inch Converter", "version": "1.0", "description": "Convert distances from miles to inches.", "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{d3316c97-23e1-4a21-9fac-0c6389618d93}"}}}

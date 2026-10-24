@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "DNSRator", "description": "DNS Viewer", "version": "1.1.0", "action": {"default_popup": "popup.html"}, "permissions": ["tabs"], "host_permissions": ["https://dns.google/*"], "background": {"scripts": ["empty.js"]}, "browser_specific_settings": {"gecko": {"id": "dns@eren.gg", "strict_min_version": "109.0"}}}

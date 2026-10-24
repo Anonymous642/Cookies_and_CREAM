@@ -1,0 +1,1 @@
+{"name": "Strava auto kudo", "version": "2.0.0", "icons": {"16": "medias/16.png", "48": "medias/48.png", "128": "medias/128.png"}, "content_scripts": [{"matches": ["https://www.strava.com/*", "http://www.strava.com/*"], "js": ["build/app.js"]}], "description": "Allows to automatically send kudos on Strava just by pressing the \"k\" key", "manifest_version": 2}

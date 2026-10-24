@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Best Cookie Editor", "version": "1.2", "description": "View and edit browser cookies in glassmorphism style.", "permissions": ["cookies", "tabs", "<all_urls>"], "browser_action": {"default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{1db27e6c-9c07-4769-a337-5bfe6ced6e96}"}}}

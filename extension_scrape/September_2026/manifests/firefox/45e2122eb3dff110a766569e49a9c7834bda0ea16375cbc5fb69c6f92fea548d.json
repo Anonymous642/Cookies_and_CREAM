@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "youtube dislike", "version": "0.3", "description": "show dislikes on youtube", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/watch?v=*"], "js": ["index.js"]}], "permissions": ["*://*.googleapis.com/*", "webRequest"]}

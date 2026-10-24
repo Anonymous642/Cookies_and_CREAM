@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Auto-Scroll Pages", "version": "1.0", "description": "Auto-Scroll Pages: Scroll pages automatically.", "action": {"default_popup": "popup.html", "default_icon": "auto-scroll_pages.png"}, "icons": {"128": "auto-scroll_pages.png"}, "permissions": ["activeTab", "scripting", "storage"]}

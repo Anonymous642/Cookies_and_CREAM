@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Keep It Simple", "version": "1.7", "description": "A minimalist new tab featuring a clock and over 450 English and 300 Arabic quotes..", "permissions": ["storage"], "action": {"default_popup": "index.html"}, "chrome_url_overrides": {"newtab": "index.html"}}

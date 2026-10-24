@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tawk Chatbot Popup", "version": "1.0", "description": "Popup to chat with Tawk.ai", "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "applications": {"gecko": {"id": "tawkchatbot@example.com"}}}

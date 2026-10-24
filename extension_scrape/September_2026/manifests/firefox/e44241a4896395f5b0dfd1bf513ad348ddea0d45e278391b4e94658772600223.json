@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PKR to GBP Converter", "version": "1.0", "description": "Convert Pakistani Rupee to British Pound", "browser_action": {"default_popup": "popup.html"}, "permissions": ["https://api.exchangerate.host/"], "browser_specific_settings": {"gecko": {"id": "{23cd5b4b-1dad-4ca4-abad-a6a27744890a}"}}}

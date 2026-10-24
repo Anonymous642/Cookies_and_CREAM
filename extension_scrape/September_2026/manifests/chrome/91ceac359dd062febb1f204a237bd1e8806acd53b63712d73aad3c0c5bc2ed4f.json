@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MV Login Redirection", "version": "1.0", "description": "Redirects to the login page of MV without click the access button", "content_scripts": [{"matches": ["https://mv.mediacionvirtual.ucr.ac.cr/*"], "js": ["content.js"]}], "permissions": ["activeTab"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Github Auto Approve", "description": "Auto Approve PR on click of a button", "version": "2.1", "content_scripts": [{"js": ["content.js"], "css": ["content.css"], "matches": ["https://github.com/*/pull/*", "https://github.com/enterprises/*/sso"]}]}

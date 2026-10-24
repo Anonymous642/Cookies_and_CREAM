@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Shorts Master", "version": "1.0", "description": "Auto-scrolls YouTube Shorts and adds 5s rewind/forward controls.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["content.js"]}]}

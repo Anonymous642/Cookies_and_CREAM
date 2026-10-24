@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Disable Reddit Hovercards", "version": "1.0", "description": "Disables user and subreddit hovercards on Reddit.", "browser_specific_settings": {"gecko": {"id": "disable-reddit-hovercards@example.com"}}, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["content.js"], "run_at": "document_end"}]}

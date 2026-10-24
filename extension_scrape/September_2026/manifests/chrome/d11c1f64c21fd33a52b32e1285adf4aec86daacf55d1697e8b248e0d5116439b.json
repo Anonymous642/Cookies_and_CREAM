@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Romantic Percent Calculator", "version": "1.0.0", "description": "A cute romantic popup to calculate percentages quickly.", "action": {"default_title": "Percent Calculator", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

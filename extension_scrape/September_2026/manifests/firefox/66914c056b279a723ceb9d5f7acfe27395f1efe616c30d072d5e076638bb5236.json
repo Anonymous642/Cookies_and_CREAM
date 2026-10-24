@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dark Mode Scheduler", "version": "1.0", "description": "Automatically toggle dark mode on websites based on a schedule.", "permissions": ["activeTab", "storage"], "background": {"scripts": ["background.js"]}, "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{09ddb61d-79e6-4a91-9cb6-73e51477f183}"}}}

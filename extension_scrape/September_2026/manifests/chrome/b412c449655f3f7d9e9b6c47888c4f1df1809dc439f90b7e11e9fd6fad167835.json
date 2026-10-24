@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab Focus", "version": "1.0", "description": "Automatically brings newly created tabs to the foreground.", "background": {"service_worker": "background.js"}, "icons": {"16": "icons/16.png", "48": "icons/48.png", "128": "icons/128.png"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Keljob TV", "description": "Offres d'emploi en vid\u00e9o", "version": "1.2", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://tv.keljob.com/"], "launch": {"web_url": "http://tv.keljob.com"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Search Tools", "version": "1.0", "description": "Search Wikipedia, Google, and Translate directly from a popup.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{aed3ab6a-151b-4290-bd1e-824457b0cc8c}"}}}

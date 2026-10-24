@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "NID Generator", "version": "2.0", "description": "Dummy NID Generator", "action": {"default_popup": "popup.html"}, "icons": {"16": "nid-logo.png", "32": "nid-logo.png", "48": "nid-logo.png", "128": "nid-logo.png"}}

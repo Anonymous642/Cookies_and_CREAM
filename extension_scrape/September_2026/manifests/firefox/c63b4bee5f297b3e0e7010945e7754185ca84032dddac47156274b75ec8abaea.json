@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Custom Shortcut Toolbar", "version": "1.0", "description": "Quick access toolbar for favorite sites.", "permissions": ["tabs", "storage"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{5706c7a0-6393-44b5-a057-16c7c54cbad2}"}}}

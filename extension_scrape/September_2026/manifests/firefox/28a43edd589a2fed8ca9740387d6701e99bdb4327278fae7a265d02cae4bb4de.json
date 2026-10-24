@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "CopiarNombre", "description": "Copiar nombre de usuario whatsapp", "version": "1.0", "action": {"default_popup": "index.html", "default_icon": "default_icon.png"}, "content_scripts": [{"js": ["content.js"], "matches": ["https://web.whatsapp.com/"]}], "browser_specific_settings": {"gecko": {"id": "{4e39a8d9-2bfa-43c2-b561-8c0f9a265a7a}"}}}

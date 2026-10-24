@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Timer", "version": "1.0", "description": "Tracks how long you spend on each tab during a browsing session.", "permissions": ["tabs", "storage"], "background": {"scripts": ["background.js"]}, "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{6c052b79-4104-4be2-90a2-91c0f5e5cf9b}"}}}

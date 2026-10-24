@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GitHub Homepage Restorer", "version": "1.0.2", "description": "Restore the original GitHub homepage!", "content_scripts": [{"matches": ["*://github.com/*"], "css": ["github-homepage.css"], "js": ["github-homepage.js"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{6c783fa4-8c97-4911-9720-4e7899bcc293}"}}}

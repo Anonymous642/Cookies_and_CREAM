@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pin Video Saver", "version": "1.0", "description": "Download videos from Pin fast and free", "background": {"service_worker": "background.js"}, "content_scripts": [{"matches": ["*://*.pinterest.com/*", "*://savepin.vip/*"], "js": ["content.js"]}]}

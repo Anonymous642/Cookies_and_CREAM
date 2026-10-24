@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bitcoin Fee Rate", "description": "Get the recommended fee rates for Bitcoin Transactions", "version": "0.1", "manifest_version": 3, "icons": {"128": "./fee-rate-icon.png"}, "action": {"default_popup": "index.html", "default_title": "Bitcoin Fee Rates"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "OP-wiki-collapser", "version": "1.1", "permissions": ["activeTab", "scripting"], "description": "Collapses all wiki pages", "icons": {"48": "icons/OP.png"}, "browser_specific_settings": {"gecko": {"id": "{8976ecc4-b2f3-4373-9e19-eee1eb977a11}"}}, "content_scripts": [{"matches": ["*://*/projects/*/wiki/*"], "js": ["collapser.js"]}]}

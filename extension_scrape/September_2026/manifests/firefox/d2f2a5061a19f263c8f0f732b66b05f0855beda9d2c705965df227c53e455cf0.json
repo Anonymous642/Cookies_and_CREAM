@@ -1,0 +1,1 @@
+{"version": "1.1a", "manifest_version": 2, "name": "Githubify", "description": "Adds an option to update Your contrib chart", "content_scripts": [{"matches": ["*://github.com/*"], "js": ["./src/githubify.js"]}], "icons": {"48": "./icons/48.png"}, "author": "Roman Kozin"}

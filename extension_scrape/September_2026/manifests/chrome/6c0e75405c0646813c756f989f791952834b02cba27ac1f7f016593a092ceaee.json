@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AI Album Cover Generator", "version": "1.0", "description": "Generate AI-powered album covers with ease", "action": {"default_popup": "popup.html", "default_title": "AI Album Cover Generator"}, "icons": {"16": "logo.png", "48": "logo.png", "128": "logo.png"}}

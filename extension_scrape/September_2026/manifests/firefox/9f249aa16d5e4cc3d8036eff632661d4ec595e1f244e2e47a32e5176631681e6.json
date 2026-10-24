@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DN.se Enhancer", "version": "1.1resigned1", "description": "Enhances the viewing experience on DN.se", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://*.dn.se/*"], "js": ["enhance.js"]}], "browser_specific_settings": {"gecko": {"id": "{0b758306-9be0-410d-85cf-6bf6e157da3a}"}}}

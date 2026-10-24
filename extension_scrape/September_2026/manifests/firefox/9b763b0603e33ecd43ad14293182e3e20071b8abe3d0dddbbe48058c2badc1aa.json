@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Weather", "version": "1.1resigned1", "icons": {"48": "icon.svg", "96": "icon.svg"}, "browser_action": {"default_title": "Weather", "default_popup": "popup.html", "default_icon": "icon.svg"}, "permissions": ["*://*.openweathermap.org/*", "webRequest"], "browser_specific_settings": {"gecko": {"id": "{c4013236-89d1-4f0d-93e6-902762370984}"}}}

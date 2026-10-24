@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "DataLayer Manager", "description": "Displays dataLayer events from the current page", "version": "1.0", "manifest_version": 3, "permissions": ["scripting", "activeTab"], "host_permissions": ["<all_urls>"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

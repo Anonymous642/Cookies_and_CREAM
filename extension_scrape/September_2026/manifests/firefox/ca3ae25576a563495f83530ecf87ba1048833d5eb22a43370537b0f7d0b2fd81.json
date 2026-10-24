@@ -1,0 +1,1 @@
+{"browser_action": {"browser_style": true}, "description": "Go to Google home when new tab is opened.", "manifest_version": 2, "name": "New Tab Google Home", "permissions": ["tabs"], "background": {"scripts": ["google-tab-url.js"]}, "version": "1.0", "browser_specific_settings": {"gecko": {"id": "{dd629d10-ae72-47f7-a845-66c49b0ef57e}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "BitsURL Shortener", "version": "2.0", "description": "Shorten any link instantly using BitsURL.com!", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["activeTab"], "host_permissions": ["<all_urls>"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Gmail deuglify for inbox zero", "version": "1.0", "description": "Inject CSS into Gmail to fix the ugliness for inbox zero users", "content_scripts": [{"css": ["style.css"], "matches": ["https://mail.google.com/*"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "@gmail-deuglify-for-inbox-zero"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Friendly Support Button", "version": "1.0", "description": "Quick contact button for family tech help.", "permissions": ["tabs"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{79450ab8-2993-4a1f-8519-e97c3bf4a894}"}}}

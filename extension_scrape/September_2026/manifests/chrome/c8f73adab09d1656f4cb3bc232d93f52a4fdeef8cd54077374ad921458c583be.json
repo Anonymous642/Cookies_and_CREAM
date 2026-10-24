@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tofu Table OCR", "version": "1.0", "permissions": ["clipboardWrite", "storage"], "host_permissions": ["https://generativelanguage.googleapis.com/*"], "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Moodle Dark Mode", "version": "3.2", "icons": {"128": "icon.png"}, "description": "Dark Mode for Moodle. This works on any Moodle page.", "content_scripts": [{"css": [], "matches": ["<all_urls>"], "js": ["./content_script.js"]}], "browser_specific_settings": {"gecko": {"id": "{358c3cb4-58f9-4335-a92d-acf22902aa05}"}}}

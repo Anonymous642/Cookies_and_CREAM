@@ -1,0 +1,1 @@
+{"name": "Token Creator", "version": "1.0.0", "description": "Create Token on Ethereum Blockchain", "icons": {"192": "logo192.png", "512": "logo512.png"}, "manifest_version": 3, "action": {"default_popup": "index.html", "default_title": "Token Creator"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "mrsalimian65@gmail.com"}}}

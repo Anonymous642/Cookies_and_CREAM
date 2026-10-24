@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "591 \u79df\u5c4b\u7db2\u512a\u5316", "description": "\u512a\u5316\u4f7f\u7528\u8005\u9ad4\u9a57", "version": "1", "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "content_scripts": [{"matches": ["*://rent.591.com.tw/*"], "js": ["dist/contentScript.js"]}]}

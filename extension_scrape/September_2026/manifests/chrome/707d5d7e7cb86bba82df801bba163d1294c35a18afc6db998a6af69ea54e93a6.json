@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Booking always show available", "version": "1.0", "permissions": ["webNavigation"], "background": {"service_worker": "background.js"}, "icons": {"16": "icons/16x16.png", "48": "icons/48x48.png", "128": "icons/128x128.png"}}

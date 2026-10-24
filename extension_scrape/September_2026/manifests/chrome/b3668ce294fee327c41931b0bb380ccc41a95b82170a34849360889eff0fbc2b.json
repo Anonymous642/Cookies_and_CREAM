@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple Countdown Timer", "version": "1.0.1", "description": "A clean and minimal countdown timer that remembers your timer state.", "permissions": ["storage"], "action": {"default_title": "Countdown Timer", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

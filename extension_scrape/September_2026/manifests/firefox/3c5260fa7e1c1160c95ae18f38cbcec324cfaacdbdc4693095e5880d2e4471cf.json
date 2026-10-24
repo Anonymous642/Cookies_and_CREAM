@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Save Page Button", "version": "1.0", "description": "Save your favorite webpages for later reference.", "icons": {"48": "icon.png"}, "permissions": ["activeTab", "storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{7038b3b5-5db2-4e58-8e9e-c58679114cba}"}}}

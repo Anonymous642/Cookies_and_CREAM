@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LumiClean", "version": "1.2", "description": "Clears the browsing history and download history when Chrome starts and closes.", "permissions": ["browsingData", "windows", "background"], "background": {"service_worker": "background.js"}, "icons": {"128": "icon.png"}}

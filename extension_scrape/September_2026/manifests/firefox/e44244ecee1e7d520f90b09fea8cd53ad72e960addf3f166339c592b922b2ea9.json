@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitter Design Sanitization", "version": "1.0", "description": "Sanitizes the new Twitter design.", "icons": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}, "content_scripts": [{"matches": ["*://*.twitter.com/*"], "css": ["original.css", "sanitize.css"]}]}

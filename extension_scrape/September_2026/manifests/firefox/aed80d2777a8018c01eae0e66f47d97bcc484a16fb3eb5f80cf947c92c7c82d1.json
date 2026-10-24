@@ -1,0 +1,1 @@
+{"name": "Narrative Dark Mode", "version": "1.0", "description": "Dark Mode Extension for Narrative", "manifest_version": 2, "permissions": ["https://*/*", "activeTab", "tabs"], "content_scripts": [{"matches": ["https://*.narrative.org/*"], "css": ["dark_mode.css"], "all_frames": true, "run_at": "document_start"}], "web_accessible_resources": ["dark_mode.css"]}

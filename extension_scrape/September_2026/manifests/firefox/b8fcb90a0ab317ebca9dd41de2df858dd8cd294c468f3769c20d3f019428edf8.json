@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My task", "version": "1.0.1", "description": "A browser tool.", "background": {"scripts": ["background.js"]}, "permissions": ["storage"], "browser_action": {"default_title": "Click Me", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{7a1c2d81-31d6-48f1-8d71-15c7bc617ce1}"}}}

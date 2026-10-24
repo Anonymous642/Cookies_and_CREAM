@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Oodi Average", "version": "0.2resigned1", "permissions": ["https://oodi.aalto.fi/a/*"], "content_scripts": [{"matches": ["https://oodi.aalto.fi/a/omatopinn.jsp?*"], "js": ["average.js"]}], "browser_specific_settings": {"gecko": {"id": "{f9111709-8e12-4fba-9bf0-8e91ad235e81}"}}}

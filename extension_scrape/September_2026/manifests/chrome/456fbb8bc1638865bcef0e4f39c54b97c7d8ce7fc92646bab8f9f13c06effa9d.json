@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Conjuguemos Helper", "version": "1.0", "description": "Draggable helper to auto-fill answers from a custom Q/A list.", "content_scripts": [{"matches": ["https://*/*"], "js": ["content.js"], "run_at": "document_idle"}]}

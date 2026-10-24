@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Nimbus Capture", "version": "1.0", "description": "Capture, edit, and annotate screenshots easily.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{91ebd1dc-5c41-448b-a5d7-836666c9806e}"}}}

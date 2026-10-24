@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Adaapt.ai", "version": "1.0.1", "action": {"default_popup": "index.html"}, "host_permissions": ["https://app.adaapt.ai/", "https://chat.adaapt.ai/"], "permissions": ["cookies"], "icons": {"16": "icon48.png", "32": "icon48.png", "48": "icon48.png", "128": "icon128.png"}}

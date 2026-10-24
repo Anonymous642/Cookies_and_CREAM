@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Redirector", "version": "1.0", "description": "Redirige les vid\u00e9os YouTube vers www.youtube-nocookie.com", "permissions": ["tabs"], "background": {"service_worker": "background.js"}, "host_permissions": ["https://www.youtube.com/*"]}

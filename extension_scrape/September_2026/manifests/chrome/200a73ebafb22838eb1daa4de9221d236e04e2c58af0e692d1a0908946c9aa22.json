@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.3", "name": "myTabSaver", "action": {"default_popup": "index.html", "default_icon": "tab.png"}, "permissions": ["tabs"]}

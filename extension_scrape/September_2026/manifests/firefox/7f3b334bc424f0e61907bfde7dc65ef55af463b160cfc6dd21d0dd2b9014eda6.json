@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "hold-my-timetracking", "version": "1.0.2", "description": "Tired of tracking your time? Let's this extension do it for you", "icons": {"48": "icons/hold.ico"}, "content_scripts": [{"matches": ["https://app.holded.com/employees/timetracking"], "js": ["hold-my-timetracking.js"]}]}

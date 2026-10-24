@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "0.1.0", "name": "NewTab", "short_name": "NewTab", "description": "Simple new tab.", "icons": {"16": "assets/icon_16.png", "48": "assets/icon_48.png", "128": "assets/icon_128.png"}, "permissions": [], "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{0c1e7e71-6d84-4c06-b485-155eaa62ab5e}"}}}

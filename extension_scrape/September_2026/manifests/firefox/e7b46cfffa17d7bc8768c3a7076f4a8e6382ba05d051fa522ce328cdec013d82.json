@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Nouvel Onglet Personnalis\u00e9", "version": "1.2", "description": "Affiche une page personnalis\u00e9e sur le nouvel onglet", "chrome_url_overrides": {"newtab": "index.html"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{4ac1b769-fa3f-4d00-9798-a9b58c23b535}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Rustic Vibe Quote Maker", "version": "1.0.0", "description": "Generate personal vibe quotes from your chosen style in a rustic, minimal popup.", "action": {"default_title": "Vibe Quote Maker", "default_popup": "popup.html"}, "icons": {"128": "icon128.png"}}

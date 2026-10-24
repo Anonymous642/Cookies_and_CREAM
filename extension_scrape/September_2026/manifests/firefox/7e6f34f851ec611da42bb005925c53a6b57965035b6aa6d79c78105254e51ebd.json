@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Golinks", "version": "1.0", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icons/icon48.png", "128": "icons/icon128.png"}, "browser_specific_settings": {"gecko": {"id": "{7e9c140f-3938-4ba8-9d6e-67d9590d7e1b}"}}}

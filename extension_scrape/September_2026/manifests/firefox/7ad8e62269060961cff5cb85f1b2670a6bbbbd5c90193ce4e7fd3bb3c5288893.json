@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "PS /show Big Image", "version": "1.0", "description": "Makes /show images big.", "icons": {"128": "images/icon128.png"}, "content_scripts": [{"matches": ["https://play.pokemonshowdown.com/*"], "js": ["scripts/makeBig.js"]}], "browser_specific_settings": {"gecko": {"id": "{1f46cca7-0cd9-4147-91dc-ed5912c56717}", "strict_min_version": "109.0"}}}

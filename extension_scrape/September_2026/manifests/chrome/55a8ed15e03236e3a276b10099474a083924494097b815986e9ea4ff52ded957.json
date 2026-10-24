@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "NetSuite Environment Checker", "description": "Shows a message above NetSuite's center if you are in a Production environment.", "version": "1.0", "permissions": ["tabs", "activeTab"], "content_scripts": [{"matches": ["*://*.netsuite.com/*"], "js": ["content.js"]}]}

@@ -1,0 +1,49 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "name": "UQ.Rocks; Youtube Queue Manager",
+  "version": "2.1.1",
+  "description": "Manage YouTube video queues with UQ.Rocks. Click videos to add to persistent playlists, save/load queues.",
+  "permissions": [
+    "storage",
+    "contextMenus",
+    "activeTab",
+    "notifications",
+    "scripting",
+    "tabs",
+    "sidePanel"
+  ],
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  },
+  "host_permissions": [
+    "*://*.youtube.com/*",
+    "*://www.youtube.com/*",
+    "*://*.googlevideo.com/*",
+    "*://uq.rocks/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js": ["content-minimal.js"],
+      "css": ["styles.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Redirect YouTube Shorts to YouTube", "version": "1.0", "description": "Redirect YouTube Shorts to YouTube", "icons": {"48": "icons/arrow.png"}, "content_scripts": [{"matches": ["*://www.youtube.com/shorts/*"], "js": ["redirect.js"]}]}

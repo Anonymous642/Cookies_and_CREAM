@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Text-to-Speech Reader", "version": "1.0", "description": "Convert selected text into speech.", "browser_action": {"default_popup": "popup.html", "default_title": "Text-to-Speech Reader"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{2bb6511f-ddc0-4100-99fb-46483db7e2b1}"}}}

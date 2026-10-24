@@ -1,0 +1,1 @@
+{"description": "Blocks reader comments on hs.fi.", "manifest_version": 2, "name": "HS No Comments", "version": "1.4resigned1", "permissions": ["webRequest", "webRequestBlocking", "*://*.hs.fi/rest/articles/*/comments*"], "background": {"scripts": ["blocker.js"]}, "browser_specific_settings": {"gecko": {"id": "{5bf6f82b-2977-4c67-a769-82e873db547a}"}}}

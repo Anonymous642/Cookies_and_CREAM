@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TreeChat Assistant", "version": "0.1.0", "description": "Quote & cite messages and navigate with a table of contents on ChatGPT", "content_scripts": [{"matches": ["https://chatgpt.com/*", "https://chat.openai.com/*"], "js": ["dist/content.js"], "run_at": "document_idle"}]}

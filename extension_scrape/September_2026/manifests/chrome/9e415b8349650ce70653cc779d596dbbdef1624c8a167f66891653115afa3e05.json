@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Generador de Datos Estructurados", "version": "2.0", "description": "Una extensi\u00f3n para generar datos estructurados de 'product' + 'rating'", "action": {"default_icon": {"16": "img/icon16.png", "48": "img/icon48.png", "128": "img/icon128.png"}, "default_popup": "popup.html"}}

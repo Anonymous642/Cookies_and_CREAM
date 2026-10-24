@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "eRep Kills CSV", "version": "2.4", "description": "Converts eRep data into CSV format", "icons": {"16": "images/icon.png", "32": "images/icon.png", "48": "images/icon.png", "128": "images/icon.png"}, "devtools_page": "devtools.html", "permissions": ["downloads"]}

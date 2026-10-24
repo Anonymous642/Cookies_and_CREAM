@@ -1,0 +1,1 @@
+{"name": "LMUABAB", "description": "Let me use adblock aftonbladet", "version": "1.1resigned1", "content_scripts": [{"matches": ["*://*.aftonbladet.se/*"], "css": ["style.css"]}], "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{a02975be-21bc-43ab-a0de-f026016de8b6}"}}}

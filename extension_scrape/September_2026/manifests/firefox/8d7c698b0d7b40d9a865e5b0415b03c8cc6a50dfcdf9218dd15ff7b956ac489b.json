@@ -1,0 +1,1 @@
+{"version": "1.0.0", "manifest_version": 3, "name": "EZAccess", "description": "Easy access to your data in 2 clicks", "action": {"default_popup": "index.html", "default_title": "EZAccess"}, "browser_specific_settings": {"gecko": {"id": "shobhitsnagpal@gmail.com", "strict_min_version": "58.0"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ff-rightclick", "version": "1.0", "description": "reenables right click", "permissions": ["*://*/*"], "browser_specific_settings": {"gecko": {"id": "minimal-ext@example.com", "data_collection_permissions": {"required": ["none"]}}}, "content_scripts": [{"run_at": "document_idle", "matches": ["*://*/*"], "js": ["ff-rightclick.js"]}]}

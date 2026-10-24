@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Auto-Override", "version": "2.0", "description": "Automates toggling controls for Unit Heaters and Emergency Light Testing.", "permissions": ["activeTab", "scripting"], "action": {"default_title": "Auto-Override", "default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "rickroll", "version": "1.0", "description": "Redirige tous les liens vers le vid\u00e9o youtube du rickroll", "content_scripts": [{"matches": ["<all_urls>"], "js": ["rickroll.js"]}], "browser_specific_settings": {"gecko": {"id": "{79299b66-582d-4c20-a73f-93b695f2ef2a}"}}}

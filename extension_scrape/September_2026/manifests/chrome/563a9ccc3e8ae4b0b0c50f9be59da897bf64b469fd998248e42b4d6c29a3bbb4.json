@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Page Clarity Checker", "version": "1.0", "description": "Checks the current page for grammar, punctuation, capitalization, spacing, and confusing wording.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_title": "Check Page Clarity"}}

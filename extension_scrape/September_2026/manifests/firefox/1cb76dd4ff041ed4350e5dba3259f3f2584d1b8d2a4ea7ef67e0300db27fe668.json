@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Text-to-Mindmap Converter", "version": "1.0", "description": "Convert long-form text into structured mind maps directly in your browser.", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": [], "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{f073d355-6e99-4347-b207-cd63a58f3a91}"}}}

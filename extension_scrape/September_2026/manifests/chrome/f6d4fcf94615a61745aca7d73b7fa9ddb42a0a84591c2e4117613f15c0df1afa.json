@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Blank New Tab", "version": "1.0.0", "description": "New tab opens blank page. Respects system light/dark mode preference. Works in Incognito mode.", "icons": {"128": "icon128.png"}, "incognito": "split", "chrome_url_overrides": {"newtab": "newtab.html"}}

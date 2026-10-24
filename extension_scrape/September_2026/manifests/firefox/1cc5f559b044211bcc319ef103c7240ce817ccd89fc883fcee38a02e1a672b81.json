@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OurTube", "version": "1.3resigned1", "description": "Changes YouTube logo to OurTube", "icons": {"48": "48-icon.png", "96": "96-icon.png"}, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["OurTube.js"]}], "browser_specific_settings": {"gecko": {"id": "{01dfc595-1184-42a6-b583-65d524402a46}"}}}

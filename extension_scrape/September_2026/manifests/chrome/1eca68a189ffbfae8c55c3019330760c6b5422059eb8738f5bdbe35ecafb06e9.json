@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Later Alligator-LinkSaver", "version": "1.0", "description": "Save input links and the current tab.", "permissions": ["activeTab", "tabs"], "action": {"default_popup": "index.html", "default_title": "Later Alligator-LinkSaver", "default_icon": "icon.png"}}

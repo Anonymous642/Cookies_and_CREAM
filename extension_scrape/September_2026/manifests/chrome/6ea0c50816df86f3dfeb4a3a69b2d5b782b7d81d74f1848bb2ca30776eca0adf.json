@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AMZ Video Time", "version": "1.1", "description": "Th\u00eam ph\u1ea7n t\u1eed v\u00e0o trang Amazon Shop.", "content_scripts": [{"matches": ["https://www.amazon.com/shop/*"], "js": ["content.js"]}], "icons": {"48": "icon.png"}}

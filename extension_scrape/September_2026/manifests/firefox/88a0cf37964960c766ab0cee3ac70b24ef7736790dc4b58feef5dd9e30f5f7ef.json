@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "elvenar_start", "version": "1.0", "description": "press word select in start elvenar page", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["https://us0.elvenar.com/web/glps*"], "js": ["elvStart.js"]}]}

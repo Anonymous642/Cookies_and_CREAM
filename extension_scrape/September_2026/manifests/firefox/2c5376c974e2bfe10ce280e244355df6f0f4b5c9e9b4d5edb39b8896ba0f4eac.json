@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Personal Dashboard", "version": "1.0.0", "description": "Just for practicing async JS", "action": {"default_icon": "icon.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "scrimba-dashboard@haydendingman.com", "strict_min_version": "58.0"}}}

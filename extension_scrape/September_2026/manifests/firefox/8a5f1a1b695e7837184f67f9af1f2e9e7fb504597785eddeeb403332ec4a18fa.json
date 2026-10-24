@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quick Decode", "version": "1.1", "description": "Decode selected text from context menu", "permissions": ["contextMenus", "activeTab", "storage"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "quick-decode@flan-lc", "data_collection_permissions": {"required": ["none"]}}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Local Time for Lodestone News", "version": "0.1", "content_scripts": [{"matches": ["https://eu.finalfantasyxiv.com/lodestone/news/detail/*"], "js": ["./script.js"], "run_at": "document_idle"}], "manifest_version": 3}

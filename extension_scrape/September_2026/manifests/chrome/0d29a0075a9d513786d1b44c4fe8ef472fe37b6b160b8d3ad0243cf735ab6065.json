@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Slay Button", "description": "A simple sound effect button to bring joy while browsing.", "version": "1.0", "action": {"default_popup": "button.html", "default_icon": "btnimage.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Anti YouTube Shorts", "version": "1.0", "description": "Completely removes the Shorts tab from YouTube", "icons": {"512": "icon.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "css": ["styles.css"], "js": ["content.js"], "run_at": "document_start"}]}

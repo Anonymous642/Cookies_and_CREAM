@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ChatGPT RTL Math Fix", "version": "1.0.1", "description": "Fixes Math display in Hebrew/RTL chats on ChatGPT", "content_scripts": [{"matches": ["https://chatgpt.com/*", "https://chat.openai.com/*"], "css": ["styles.css"], "js": ["content.js"]}]}

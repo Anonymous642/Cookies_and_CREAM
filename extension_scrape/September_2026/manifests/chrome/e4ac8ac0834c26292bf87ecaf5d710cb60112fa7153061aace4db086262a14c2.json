@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "OxyCalc", "version": "1.1.5", "description": "Calcule a autonomia de cilindros de oxig\u00eanio com base em press\u00e3o, vaz\u00e3o e volume.", "action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png"}}, "permissions": [], "icons": {"16": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1", "name": "rhino", "chrome_url_overrides": {"newtab": "index.html"}, "description": "are odd-toed ungulate mammals in the family Rhinocerotidae.", "manifest_version": 3}

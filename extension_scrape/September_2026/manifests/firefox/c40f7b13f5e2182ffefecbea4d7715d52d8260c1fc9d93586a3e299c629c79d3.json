@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Replace Big with Original", "version": "1.0", "description": "Replaces /big/ with /original/ in URLs when opening new tabs", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{748fc720-bf82-4d92-9c97-37673dc74d39}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "User Agent Rotator", "version": "1.0", "description": "Sets a different user agent for each new tab.", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>", "tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{a8866e60-5e0a-484b-99bd-e978c58a93e5}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Page Speed Tester", "version": "1.0", "description": "Test the loading speed of the current page.", "permissions": ["tabs", "activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{0e6a3d3d-f8f6-40d5-b925-3041aef58960}"}}}

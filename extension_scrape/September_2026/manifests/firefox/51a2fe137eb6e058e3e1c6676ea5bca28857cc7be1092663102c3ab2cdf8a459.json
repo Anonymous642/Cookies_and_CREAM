@@ -1,0 +1,1 @@
+{"name": "Weather of Hecone", "version": "1.0.0", "manifest_version": 2, "homepage_url": "https://gihub.com/10hecone", "author": "Hecone", "icons": {"48": "/image/wind.png"}, "browser_action": {"default_popup": "/index.html", "default_title": "Weather of Hecone"}, "browser_specific_settings": {"gecko": {"id": "hecone@hecone.online", "strict_min_version": "57.0a2"}}}

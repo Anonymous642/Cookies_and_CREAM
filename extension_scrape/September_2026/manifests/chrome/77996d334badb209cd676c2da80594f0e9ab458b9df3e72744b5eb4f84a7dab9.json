@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bandcamp Random Album", "version": "1.2", "description": "Adds a Random Album button to Bandcamp Collection and Wishlist, and a Random Artist button to Following.", "content_scripts": [{"matches": ["https://bandcamp.com/*", "https://*.bandcamp.com/*"], "js": ["content.js"]}]}

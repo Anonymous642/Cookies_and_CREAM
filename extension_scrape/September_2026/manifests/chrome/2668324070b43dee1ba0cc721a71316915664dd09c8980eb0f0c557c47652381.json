@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.1.6", "manifest_version": 3, "name": "MySimpleTabs", "description": "Controls position of newly opened tabs.", "background": {"service_worker": "tabs-control.js"}, "icons": {"48": "icon-48.png", "128": "icon-128.png"}, "action": {"default_icon": "icon-128.png"}, "permissions": []}

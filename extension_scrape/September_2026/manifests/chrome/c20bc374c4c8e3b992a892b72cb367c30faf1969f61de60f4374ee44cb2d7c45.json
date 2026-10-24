@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TwitterDeAddictMe", "description": "Puts a text that reduces your time on twitter", "content_scripts": [{"matches": ["*://twitter.com/*", "*://x.com/*"], "js": ["content.js"]}], "version": "1.0"}

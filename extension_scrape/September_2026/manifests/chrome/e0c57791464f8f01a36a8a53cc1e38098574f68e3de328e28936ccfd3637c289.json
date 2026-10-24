@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quick Study Hacks", "version": "1.0.0", "description": "Boost your productivity with instant, bite-sized study tips and learning hacks.", "action": {"default_popup": "popup.html", "default_title": "Get a Study Tip"}, "icons": {"128": "icon128.png"}}

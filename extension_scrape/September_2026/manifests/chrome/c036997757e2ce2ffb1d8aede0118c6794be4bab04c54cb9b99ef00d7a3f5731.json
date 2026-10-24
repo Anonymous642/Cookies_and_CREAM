@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "travelbuddy", "version": "1.2", "description": "Plan your trip by saving hotel, flight, and activity links organized by location.", "permissions": ["storage", "tabs"], "action": {"default_popup": "popup.html", "default_icon": "logo.png"}}

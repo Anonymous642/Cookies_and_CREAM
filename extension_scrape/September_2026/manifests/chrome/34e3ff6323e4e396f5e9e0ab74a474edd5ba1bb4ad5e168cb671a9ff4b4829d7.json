@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Password Generator", "version": "0.1.2", "description": "Generates a strong password based on user-specified length", "action": {"default_popup": "popup.html"}, "icons": {"128": "logo128_3.png"}, "permissions": ["clipboardWrite"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sync Simple Todo List", "version": "1.0", "description": "A simple todo list on the new tab page that syncs across your logged in devices.", "permissions": ["storage"], "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {}}

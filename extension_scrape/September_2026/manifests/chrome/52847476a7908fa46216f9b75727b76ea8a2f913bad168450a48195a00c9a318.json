@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Restore Swipe Navigation", "version": "1.0", "description": "Enables two finger swipe gestures for for/back navigation when a site disables the functionality", "content_scripts": [{"matches": ["<all_urls>"], "css": ["styles.css"], "run_at": "document_start"}]}

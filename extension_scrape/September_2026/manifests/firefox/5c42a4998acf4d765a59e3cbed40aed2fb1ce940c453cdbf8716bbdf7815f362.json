@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Covfefe", "version": "1.1resigned1", "description": "Change part of the text into covfefe", "icons": {"48": "icons/trump-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["covfefe.js"]}], "browser_specific_settings": {"gecko": {"id": "{7bcae9f1-002b-494d-aa79-ec77db377eca}"}}}

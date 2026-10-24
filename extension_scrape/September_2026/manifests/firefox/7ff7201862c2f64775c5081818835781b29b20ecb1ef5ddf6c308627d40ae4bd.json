@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Go Highlighter", "version": "1.0", "description": "Highlights instances of the programming language 'Go' (Golang) on the current website", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{9b5f71cc-20b7-460d-9902-b0f7ab71dcf9}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Dad Jokes", "short_name": "Dad Jokes", "version": "1.0.2", "description": "Good dad joke in every new tab.", "icons": {"32": "icons/32.png", "64": "icons/64.png"}, "author": "ADittude", "chrome_url_overrides": {"newtab": "new-tab.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TikTok Link Cleaner", "version": "1.0", "description": "Automatically removes query parameters from TikTok links.", "permissions": ["webRequest", "webRequestBlocking", "*://www.tiktok.com/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{52436743-9cb9-4940-9ba2-383da687bc38}"}}}

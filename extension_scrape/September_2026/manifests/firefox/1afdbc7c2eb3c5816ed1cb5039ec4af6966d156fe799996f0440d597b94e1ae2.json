@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Weather Peek", "version": "1.0", "description": "Check the current weather quickly.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "permissions": ["geolocation"], "browser_specific_settings": {"gecko": {"id": "{90e273a8-d66b-4624-84d3-7cc464a0ea71}"}}}

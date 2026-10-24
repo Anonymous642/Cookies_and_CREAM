@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Xpai IP Lookup", "description": "A simple IP lookup widget", "version": "1.0.0", "action": {"default_popup": "js/index.html", "default_icon": "ipicon2.png"}, "icons": {"32": "ipicon2.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fix Pitchfork", "version": "1.0", "description": "Helps you enjoy music more by replacing all of Pitchfork's ratings with 8.0", "icons": {"48": "icon-48.png", "96": "icon-96.png"}, "content_scripts": [{"matches": ["*://*.pitchfork.com/*"], "js": ["fix-pitchfork.js"], "css": ["fix-pitchfork.css"]}]}

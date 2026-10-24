@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "0.1", "name": "Fuck Bloat", "content_scripts": [{"all_frames": false, "matches": ["<all_urls>"], "js": ["content_script.js"]}], "icons": {"32": "icon.svg"}, "browser_specific_settings": {"gecko": {"id": "fuck-bloat@fgoogle.com", "data_collection_permissions": {"required": ["none"]}}}}

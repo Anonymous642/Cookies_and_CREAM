@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Dice Roller", "version": "1.0", "description": "Dice Roller: Simulate dice throws.", "action": {"default_popup": "popup.html", "default_icon": "dice_roller.png"}, "icons": {"128": "dice_roller.png"}, "browser_specific_settings": {"gecko": {"id": "ivorirosaleenorla7@hotmail.com", "data_collection_permissions": {"required": ["none"]}}}}

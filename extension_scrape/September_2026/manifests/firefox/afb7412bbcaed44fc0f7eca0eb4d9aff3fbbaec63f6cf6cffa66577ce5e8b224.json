@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BTN to MRU Converter", "version": "1.0", "description": "Convert Bhutanese Ngultrum (BTN) to Mauritanian Ouguiya (MRU).", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_title": "Convert BTN to MRU"}, "browser_specific_settings": {"gecko": {"id": "{abace8d0-8563-4413-9b69-c3b701fe7f9a}"}}}

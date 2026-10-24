@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Stop Trading", "version": "1.0", "permissions": ["tabs", "storage"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html", "default_icon": "logo2.png"}, "web_accessible_resources": [{"resources": ["ExtPay.js"], "matches": ["<all_urls>"]}]}

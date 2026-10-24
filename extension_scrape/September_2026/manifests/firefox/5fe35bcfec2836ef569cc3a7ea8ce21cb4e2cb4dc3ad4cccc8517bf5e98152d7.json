@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CleanView", "version": "1.0", "description": "Remove distracting recommendations and comment sections from websites for a cleaner, more focused browsing experience", "content_scripts": [{"matches": ["https://*.youtube.com/*"], "js": ["blocker.js"]}], "browser_specific_settings": {"gecko": {"id": "{7e44d78c-b39a-4cd7-bf91-8b5f758e855f}"}}}
