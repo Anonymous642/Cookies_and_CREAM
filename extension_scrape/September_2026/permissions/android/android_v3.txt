@@ -1,0 +1,10 @@
+Extension Hash, Name, User Count, URL
+676fe18d23dcf4a9212d23b3504e7f7fed8293215a087c30471c46b0aacbada7, Consent-O-Matic, 130493, https://addons.mozilla.org/firefox/addon/consent-o-matic
+68fcf22cb45e776f1f1583e0a748245d260102561ccb93b8db06bac63ccfab80, SteamDB, 115987, https://addons.mozilla.org/firefox/addon/steam-database
+395d3f7d02b2b9f3e005eccdc0f519f814f0f8e58d690efeb01339719c8748c4, FoxyProxy Standard, 216347, https://addons.mozilla.org/firefox/addon/foxyproxy-standard
+1decf25dc1255452c568ab9bf10c1b05e09849fcb49fc01b9ebdd6d62030cd3e, YouTube High Definition, 161689, https://addons.mozilla.org/firefox/addon/youtube-high-definition
+73a08b44d30cc3dfb6a41d793b4ca04e195988af22f56ad360318d2ead45c57e, Yomitan, 47706, https://addons.mozilla.org/firefox/addon/yomitan
+472e0b1f8e37a2c6403f6fbc262d11792d053309f34f154d976e77cc4e070f83, Tomato Clock - A Simple Pomodoro Timer, 32970, https://addons.mozilla.org/firefox/addon/tomato-clock
+80c5ae21f48c998ad610368e1c864f04fc800afdc647affb2a6fb9a420601990, Decentraleyes, 248409, https://addons.mozilla.org/firefox/addon/decentraleyes
+919197eeb90baf05b477bcc89e9fa36b0d1bd1ecc03336f88749af9ce0e1c439, LeechBlock NG, 111048, https://addons.mozilla.org/firefox/addon/leechblock-ng
+10d333aa5907292bca069d5151ed457e5469c15e5d5561542e398bc3ba9f6c5d, Unhook: Remove YouTube Recommended Videos Comments, 166448, https://addons.mozilla.org/firefox/addon/youtube-recommended-videos

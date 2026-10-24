@@ -1,0 +1,51 @@
+Extension Hash, Name, User Count, URL
+9e075463d46beb01c55a6b3fad3216d85863674feed303c04b00308a77d50ea0, New Statesman Media Group, 0, https://addons.mozilla.org/firefox/addon/new-statesman-media-group
+41f594909e8cfdc29fbb91346650611094f29d8024c9642e6f61d332c278b085, Mirkoczat @ Wykop, 2, https://addons.mozilla.org/firefox/addon/mirkoczat-wykop
+fcc08f2017a8ae1951071454a57c3ccd54c6a42aa914b7244e759c2fc8812693, gemwin8com, 0, https://addons.mozilla.org/firefox/addon/gemwin8com
+0706b4a5bdea92644fcb3e85a553a08e1acbee6f8a547d0407ca2b3d6900593d, Datum Mesero Notifier, 0, https://addons.mozilla.org/firefox/addon/datum-mesero-notifier
+5debec7ce62305fcbb9a2c991bb5e3952ef3a617af905160640bade4d4c05dd4, Wanqara LAN Printer Bridge, 0, https://addons.mozilla.org/firefox/addon/wanqara-lan-printer-bridge
+f74f7bceece60d50ec76995601e180b99a4ab34a424edb86b72ab7c39fc9bb4f, SSL Warning Alert, 1, https://addons.mozilla.org/firefox/addon/ssl-warning-alert
+3e1eec7e3194ae91d44b47a764ca4d6b00c103d8ec38c92667f59aae970985da, Perapera Chinese Popup Dictionary, 1953, https://addons.mozilla.org/firefox/addon/perapera-chinese
+28f482b2b85bc562cde543d731fe46c2b3fb45c3bcf206a00904df133519b956, Collamark, 2, https://addons.mozilla.org/firefox/addon/collamark
+9939d4e6af870c678e8865c4e05149cc0e4fc705e7f8e5ccbb5a573ede680b22, Snapped Padlocks, 4, https://addons.mozilla.org/firefox/addon/snap-http-padlocks
+8077bce719b0c95b9f095a5690411fdfaaa4c7e2a2f3bf701442e4f087b0ec2e, NoHTTP, 1, https://addons.mozilla.org/firefox/addon/no-http
+160eb2c6703c777bab2bcfffcb35aa55a7c360993c9ee070411d85abc7d1b0b5, CS-Tool Extension, 1, https://addons.mozilla.org/firefox/addon/cs-tool-extension
+c0c5be26a4e610b17ed2f5a03e6eeca4ecc48908d855cfe10eb50990fa3951bc, Kerses, 0, https://addons.mozilla.org/firefox/addon/kerses
+6d80f7ca4a5f93408c92740eab30b2cb91196933e5684e5d011499234f9381fc, ReveaLink, 1, https://addons.mozilla.org/firefox/addon/revealink
+18238e22a8e168ad782ba5adf129db4f95537986202738ef712b9c1b9763cfd8, SmartBourse.ir, 20, https://addons.mozilla.org/firefox/addon/smartbourse-ir
+035a5dde05fccaf9cf651fb321018a3c584819d5fd7a25b1f1f7cf46e5293121, Hue Light Controller, 30, https://addons.mozilla.org/firefox/addon/hue-controller_v1-5
+f19d425dd7e56cbbbfd6b5f0b14516b03c1fb8de775b1fd98aec642bddb82bea, Яманета Aliexpress CashBack, 1, https://addons.mozilla.org/firefox/addon/%D1%8F%D0%BC%D0%B0%D0%BD%D0%B5%D1%82%D0%B0-aliexpress-cashback
+adef2cbf0511dd3b2b9b525fba790216ad87e72a41137ab0870f30cfe9b4ff46, LiuChan, 199, https://addons.mozilla.org/firefox/addon/liuchan
+19ba8b2eeca0a1e7f259a1ea616a1bc7111eaafb464fcbeae2c262f28355a40e, TapiCash Plugin, 0, https://addons.mozilla.org/firefox/addon/tapicash-plugin-mobile
+0778087ace612e9d2340936e2eea52710fc8fc7450d05cd270f2c3f9bdfc242d, wow-dpi, 256, https://addons.mozilla.org/firefox/addon/wow-dpi
+23040c54a6dd85f22f6562dd3ca529847e726b6ebe80f94f0d00d4620fcfbd67, MLTSHP, 20, https://addons.mozilla.org/firefox/addon/mltshp2
+2013a306a48103ce3731c4f61d357916d069e299ec1ff2a9438b9fc36d72d26b, Laban dictionary, 261, https://addons.mozilla.org/firefox/addon/laban-dictionary
+8f49ab1bb0ac4bb957d23df566d9a9b14fcbca810c7b861d8f444da867b69a73, Laterl.ink, 0, https://addons.mozilla.org/firefox/addon/laterlink
+3a31a0b111584e1817936e720a0d62c3ccef4010d94e0b383224b9d53f763d33, YourOnlineChoices Plugin, 265, https://addons.mozilla.org/firefox/addon/youronlinechoices-plugin
+b29cb1624053b642231192037b4d1afa34f242ab67b499840d505140797bded4, Hethp Protocol, 1, https://addons.mozilla.org/firefox/addon/hethp-protocol
+b8dc6af343d531608722743e873c03fe81b7ee6702ce6caa9a0d91ff1df8d4d3, BaixarPremium Plugin, 98, https://addons.mozilla.org/firefox/addon/baixarpremium-plugin
+290de67b9655e309d99314b5276166a53a45793e9a7e99319459fd38bdfc9c52, BLJPwdAuto, 1, https://addons.mozilla.org/firefox/addon/bljautopwd
+1d818dac66f0326ced2049c89aeb63389bf1f9a9a6f1cb6dd45b827ad1f1638b, Yamaha AVR Remote, 0, https://addons.mozilla.org/firefox/addon/yamaha-avr-remote
+a22d854b54154889eb561a47158ddde615743948c4b21f542cfdc22564baee5f, tubearchivist-hr, 2, https://addons.mozilla.org/firefox/addon/tubearchivist-hr
+2de17193770b898d97bed3de2ff2c0942bc32007719399b7b1e3f755eee60cd4, tryfox-companion, 5, https://addons.mozilla.org/firefox/addon/tryfox-companion
+92a3716d08a7cd713d6119de382465ff339c80644b85f8563a9acd9040ee2856, Opz.io, 0, https://addons.mozilla.org/firefox/addon/opzio
+e0dec4102970d9416457d4d54dc6604eb7c6cef4bcd1e416532ae0e44ffd7cf3, Coronga Mega Vacina Supimpa, 0, https://addons.mozilla.org/firefox/addon/coronga-mega-vacina-supimpa
+c14182703ed88b60c920fe22753d192f3bd155b8fa6524bab67435599c8d2729, Coin2.shop Extension, 1, https://addons.mozilla.org/firefox/addon/coin2-shop-extension
+07538bb43786f29095fffd96614231a5ccbedc98151f258f303d6363bb603090, Cr!Box, 633, https://addons.mozilla.org/firefox/addon/cr-box
+818b3f1c8372bc35892745afb97d84bcd702092acf8f59cd08426aef02fec9d2, HashIt, 0, https://addons.mozilla.org/firefox/addon/hashit
+da03371fd010ca29a436080ecda06d52f3d789c34ee3ec78c8ab4f282cd0ec82, Jelly2Anki, 1, https://addons.mozilla.org/firefox/addon/jelly2anki
+94c11742ca85c86b5cf837aa3694035192440a216e68e60d1c334dfa45a77c16, Toshiba Legacy Remote, 1, https://addons.mozilla.org/firefox/addon/toshiba-legacy-remote
+1fb8c28f8ab3f80c8a17b6f58f2787ba37c3db898bf88aa0846d2de9553143ba, Jira assign to reporter, 1, https://addons.mozilla.org/firefox/addon/jira-assign-to-reporter
+16ef19770df9ddd50a73458bf77eeefce2bb3c59c90bf0974db86275cfd2223c, PolOnline LensSoapTracer Bridge, 0, https://addons.mozilla.org/firefox/addon/polonline-lstracer-bridge
+bf6dd9e13b081e05df3332eadb1537063cf44ded0d7671a17e2bc45559dc9bb6, Desproteja - Desprotetor de Link, 34, https://addons.mozilla.org/firefox/addon/desproteja-desprotetor-de-link
+a31291a632babf361cb9eb1f95457d7daeede0b882b2b10804328aaab58f98b1, MuISi abiline, 1, https://addons.mozilla.org/firefox/addon/muisi-abiline
+4fa959c2d48243438f9bd0c65d30b4ae60ef2166f243512fc745a69eedaf841e, Simple extension for e1 forums (for firefox 43), 1, https://addons.mozilla.org/firefox/addon/simple-wysiwyg-extension-for1
+335bc1083d37795f1cebf6954e9a2570c3d6ef273399d1a4ba9e3e2880f24a21, Play to Kodi, 566, https://addons.mozilla.org/firefox/addon/play-to-kodi4
+5acdfb1991d9a7ef40860da41fd1fd7a5eca56c4b9e3e392c4d568deeaaf4545, AnIppo, 0, https://addons.mozilla.org/firefox/addon/anippo
+bbff71a0766cbbaf699f83dbf3f3ff4ebb1cfb6157f29279d038eb041cbfcfef, Simple time track, 28, https://addons.mozilla.org/firefox/addon/simple-time-track-v2
+6371c4db9951981743396e2ee92d70c2e6a9366769c4ad8daae3495b073f1987, Logger for Cyberoam, 0, https://addons.mozilla.org/firefox/addon/logger-for-cyberoam
+46521c305c6b2d3251069582cd862aaabf4a226cd40a017de5984e406ea5f9e5, HTTPS Already, 15, https://addons.mozilla.org/firefox/addon/https-already
+95609269ec348a9a5efe6359c1e59c12ce065f848ee1cf83fbc3e763ef1321f4, LSS HP Bridge, 0, https://addons.mozilla.org/firefox/addon/lss-hp-bridge
+e02bbeea21304f3f17636f23cfdd5cea4052c2a57809d3cbe4615923e10cd1ef, Login Page Shortcut Addon, 0, https://addons.mozilla.org/firefox/addon/login-page-shortcut-addon
+ba846ce3ab9844bf4eff62c457c08085eb016c7bbe59fee88a719bc54757e1cf, Myst Node Monitor, 3, https://addons.mozilla.org/firefox/addon/myst-node-monitor
+7e7490de5b29afd8a793315b861f1b9f921ed19b8ba583f340bb66f9f800ee92, HTTP Warner, 0, https://addons.mozilla.org/firefox/addon/http-warner

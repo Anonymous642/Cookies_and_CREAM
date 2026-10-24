@@ -1,0 +1,53 @@
+Extension Hash, Name, User Count, URL
+2b2a0fa5cd11edb665fdc9d2e1b8e117e89dbe7881b760a6d002621b5040a0f0, PolOnline LensSoapTracer Bridge, 8, https://chromewebstore.google.com/detail/polonline-lenssoaptracer/foeidmjponagcecobbggjhmfboolomel
+c2db8d36ea3019096719c9e2814eab72175296f0fe414bf885dc4e39a874aecb, Jotit - Notes and Reminders, 413, https://chromewebstore.google.com/detail/jotit-notes-and-reminders/aoipkhoiccpbmbgbinbplkgdhgmjeiek
+580abddd16f5342e408de631fcc5eba02ab9b3083281665909593235f1354a67, Parking Base Device Bridge, 34, https://chromewebstore.google.com/detail/parking-base-device-bridg/mdiemfchnmahndjdnhfpcgpeppeilgae
+6f838656dd170a9d7c4e3af843dde17e006167036d5f1a73c466ed545c37ecf6, React Click To Component, 289, https://chromewebstore.google.com/detail/react-click-to-component/jjbmjimpbdbkfebkjehjlpfpbeddoeii
+cadc6523cb3a7bb01404092544ab84c171c8ca6038540a8263868774602f1e3a, Rollit Backup, 0, https://chromewebstore.google.com/detail/rollit-backup/cjlglobdmieekgnclbbfhgcaplkllpje
+906551c2f87ba1ecef0b7267cb1a70d4ce1cfa38bff2808f0ef99260c75c5312, Myst Node Monitor, 15, https://chromewebstore.google.com/detail/myst-node-monitor/fpnhffcheflfbpeejbfobjiaadpddbjd
+55656052c63cff8c061c2c506bbb6d10a7c9a612fdf8f7cdb2bcacc1cbfae024, broswer, 53, https://chromewebstore.google.com/detail/broswer/nlbcjockgbpglggiofmjbiigmgljnihf
+a0b4ae708fb497cf98030ab2e19d9eed40b3ef43b6ac74d21a449219a8806910, Andy Printer Extension, 1000, https://chromewebstore.google.com/detail/andy-printer-extension/jmoplolkdkfoeaaaplghoglbnkikejic
+d199040fb3b88b2a35231bfeed34507d7903cd364624da919b0eba2b235123b6, BigCommerce Debugging Tool, 62, https://chromewebstore.google.com/detail/bigcommerce-debugging-too/fonbinfkkjbcbgppboidhhhbacnbmlla
+570829723005970ed56fb52860bb276a015445eac3d3c9a72e394b3303375013, Local Digest Bridge, 62, https://chromewebstore.google.com/detail/local-digest-bridge/nbnggendonjmnghanklnohmggmghcpbe
+ada300b95ffaab8a7f2c68755c79ba0b4cd1013647f92fcb81df61f3c845d7c8, cstoryTool, 0, https://chromewebstore.google.com/detail/cstorytool/ajgeopgfihjedpgfafkdjkjicinolbge
+a35d8384c09e7637cbd310eb9084cfc87e72691eb7f94511757574b9f325a8ba, Localhost Holder Extension, 26, https://chromewebstore.google.com/detail/localhost-holder-extensio/paflemlkipmciabpofacojmilollfkbg
+072c784987172eeb5e084209c69db965c92c034a7d1f5a94e61e19d1f4390722, Sentry Browser SDK Debugger, 579, https://chromewebstore.google.com/detail/sentry-browser-sdk-debugg/agblcahmejbgeheiomlhegpechknanhn
+2a1ccd065a19c5166b2c55c71503b7e0eaead84eb18a71bb0ad5c0f2cabcbdd4, Local Find, 0, https://chromewebstore.google.com/detail/local-find/nadcejbdnbkaihkgbdjooljokcjfdkak
+1bf6d53eeb491d13ab416270edcb843e61ed8362bcf5679a656455fd5ccbab17, Cheapclaws Browser Relay, 0, https://chromewebstore.google.com/detail/cheapclaws-browser-relay/pfmcjgbcikgiadnlhcobghnmpalkndkh
+8ff9125d7a91056fe67cb7b9aa82c7ddba5aca8fa5c057744fd476a52368c821, Kartmanage Tally Sync, 219, https://chromewebstore.google.com/detail/kartmanage-tally-sync/plclbohbbjfoojlkkdododobamfcgnlo
+e39ac59ff680ae28605d3fbf638c6739a59b8ecec85072bd22d35b72f5d1da4a, MedPix Extension, 0, https://chromewebstore.google.com/detail/medpix-extension/fehmhbkckeojejblfmfoplpojnffgndj
+70e312623a0e9169de71d82a55596812f4441cc3c884dbba000563e7bf871bba, Zepto, 70, https://chromewebstore.google.com/detail/zepto/abebanlbngcincdmjedaapgcbmkmmceo
+28cc072112c2055436e483d96c12be050738fc7d2566bcdbd7a89a4c8e33e6d9, Auto-Reload Target URL, 1000, https://chromewebstore.google.com/detail/auto-reload-target-url/fbofpnajkcpnpillmmfhggjandclmjgj
+7ab6e35b3600a8d86da43bdbb238d694d1e231deeca979c57a2668f98281f5a1, Freight Assistant, 7, https://chromewebstore.google.com/detail/freight-assistant/jblhpebaoknjfhnbnhkdpamfphdlhmnc
+e496f43148512541260248362c9fcedc3115bfec1b97a2d415c24705bee8daaf, tango-web-ext, 23, https://chromewebstore.google.com/detail/tango-web-ext/chpnpgnicpgabkhgijdcklgcdghenmil
+c7aa422bcc32e31d133cb79316a2ce66ee711a73d25783cf45da84d17ace37d5, ClipClaw, 21, https://chromewebstore.google.com/detail/clipclaw/lehgalpjhgbjjomdkpmjjjbmnefpmnaj
+80123f05fb561179e16d3266cd0f3e645eb7ab0052a9b20f229f64ce1eeba723, TaxBandits W-9/W-8 Manager, 222, https://chromewebstore.google.com/detail/taxbandits-w-9w-8-manager/bfmijolaiackdicaofidgleciecbjipm
+f6e8f9e6978808d7147f0820230dbb3af48488a4139fa0cb4217b60580f4d406, VM Zebra Printer, 202, https://chromewebstore.google.com/detail/vm-zebra-printer/negkolohppnclgkilkoacenohghpnkec
+d996ea85b02e1f24a2624c71a262567cca57d02a26096ca7a0e2054a543484bc, ServebotAI OTA Agent, 0, https://chromewebstore.google.com/detail/servebotai-ota-agent/hfpafjeelpellnipkchpmgdikiijepap
+14745ccf299660e5c6e7f24b572b42921796862f28fdeb41d132e0f4f54da01e, VideoBack, 12, https://chromewebstore.google.com/detail/videoback/aieokdoidpmkhlcbjdjmmafhbcdnhkkj
+1f66e25bc285c65a7b67603900f342d5117ab4b4d664785649cd56991e00c62f, Alerta de ofertas e descontos, 7000, https://chromewebstore.google.com/detail/alerta-de-ofertas-e-desco/jikhbokinakhjbhoifafpbaemffhomjl
+0833c55df0c036d528f7e7db94922e249084cf76b51b70cf987b8b1bc13b5e2b, Feeless Vault, 108, https://chromewebstore.google.com/detail/feeless-vault/ondleofcljjhfhkkpbkdonbbbjifnpbe
+eddc5c3d0e3d8602930ff5421ffc1912469106f0835510403ab0d6145027b6c5, TextToCam, 23, https://chromewebstore.google.com/detail/texttocam/moejnjfpdngmfkbkdofemdpmhldfcdje
+1d9777cb3a446f79731d42e9744ac8f0202ed5eb1877651c6a8ae215cee8731d, JIRA Notifier, 715, https://chromewebstore.google.com/detail/jira-notifier/pfipgkbjbojfdhhidcomjfgaakehpfdk
+bea0e1250eb7e982662c6f6286d8b90ddfdf865103ac270a51fcacb9e2017742, GeePeeTee - OpenAi ChatGPT + Image assistant, 8000, https://chromewebstore.google.com/detail/geepeetee-openai-chatgpt/dbegpdaninkikfcfodenceojbpdgdoaa
+ec43bf9767528c2e7222d90b5bb678dfb7650372083d1c4459ec3ca8346cf2cb, DaPartyraiser AutoDarts Add-on, 90, https://chromewebstore.google.com/detail/dapartyraiser-autodarts-a/bajdcicddoifkbcellmlaflpcmpakmin
+aa51b600cd29fbad46796677e33488a6a2f48b3a4bc2d8bb205be350f2d80e6b, Mango Helper, 40000, https://chromewebstore.google.com/detail/mango-helper/joioophepbodkfjcjpoeofkgdblahbfe
+b466002b82d04f14f8a6744fdd821e6f7e881e30db67af28d32bafdfa08cc202, WLED Hub, 106, https://chromewebstore.google.com/detail/wled-hub/ioklmhbpkhjlfmobllbmdchmellelmai
+4061764002cd98423d1e49cca4a2e26da80be7bbe53e11d47971d43ed6a49caf, Aurison Toolkit, 15, https://chromewebstore.google.com/detail/aurison-toolkit/oncdabdmlnkllinfidgjjcgihpfnfcna
+fff375ec764c10c92cde1f822745881a6360589b4c3ddecb52e262a52b5a71a4, VantezElevated, 3, https://chromewebstore.google.com/detail/vantezelevated/hanhemcmhkbnjlkaphfefcpmopjpcggm
+527e6a93354d5ecedc4c11e3588362bf78f2083b0ca02b9fd9a2dd37256c940d, BatchPR Reviewer for GitHub, 0, https://chromewebstore.google.com/detail/batchpr-reviewer-for-gith/fgbjkjeckcakecmpalnkehjnihahoggi
+94b517876b30d7ccf3e5c7043badc6d42dd8e9c54d8fd92a81e4c802a9366780, Test Scribe, 21, https://chromewebstore.google.com/detail/test-scribe/fedflbeapignkaflmgeaimbdcgaolbca
+bbde1cf678fb206d304c5ba713f9d517d889fd3baeb9db5b9903e438bf60f244, MPDown Session Extension, 9, https://chromewebstore.google.com/detail/mpdown-session-extension/odanlhhdlecoaffhimegkoigoikhfloh
+c22c2eece72153f3e6d77b6512c06f0fadc913842cbb5f3a94fcea87e6c5ef5b, Laban Dictionary, 50000, https://chromewebstore.google.com/detail/laban-dictionary/kdoofkpcjhkbhedgkdbagobockcmeoeb
+7453b0ddf61adac9f14685b1ce346119e1fa874e694c8e3b0fe20c1e2cf12ddd, StockMate — карточка сотрудника WMS, 0, https://chromewebstore.google.com/detail/stockmate-%E2%80%94-%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B0-%D1%81%D0%BE%D1%82%D1%80/pcnkmdklbajhdkdhnihknenlnccnchak
+fbb87f97ba3414f3ea75ddea350938f3a855b8a0ff5b66f1e13d2229cbf47686, Extension-OS: Your AI Partner, 89, https://chromewebstore.google.com/detail/extension-os-your-ai-part/bahjnakiionbepnlbogdkojcehaeefnp
+34871f0699ab6db6d929ee3ab9c4a3fd151a60a41f36449bb46df521bf2be0c4, Smartcare, 1000, https://chromewebstore.google.com/detail/smartcare/gbibhamoalinmodnmneccmchlhjjbbmh
+a4a71782a6bb7d138e2b5dc93261c7890bcc1399d44cc3408656f4ab43fe780e, Warehouse Search, 28, https://chromewebstore.google.com/detail/warehouse-search/kinnbnpkidjoganknllbakigjfcfeneb
+182d460cfb34d4a1111cfde225751721ac31fec17b1b0ed6e4409ab20d0d809d, MoneySense AI, 89, https://chromewebstore.google.com/detail/moneysense-ai/ljdnlilooimlamgiagfbgoegiojejgcg
+93b106c11d7dd8df75b60102056c01df2dc26991ada789f82766741c71c02198, HeadRush AI Bridge, 19, https://chromewebstore.google.com/detail/headrush-ai-bridge/nkiceojbnmkoddjogiaakgkmlljmgdln
+c14a738d4d1b8e18a370b2b8dcd636d324142ff3a801b317350aefc5217cbbcc, ScrapIT Camera Direct Connection, 428, https://chromewebstore.google.com/detail/scrapit-camera-direct-con/eicaegbdiobgdaofnfdhkgilmkfikjen
+e89d8508fe544aedbc072a5601e67b39873db7b753d20729f8bbe8de99e681e6, Profile Lock, 306, https://chromewebstore.google.com/detail/profile-lock/nhffjjmmlblhjepihckelioaghcaehfh
+e972eb29454c411ab3cd443a1f2023dabde2a839c4e2438cf32da0832c83ec43, ehsanbourse, 61, https://chromewebstore.google.com/detail/ehsanbourse/plnifgcdbjaehgjaneopfmlopfljaafj
+855c0867e6cca7b9fba3a262023727e170cd47102f670aae2a4f70555c8034c2, Hiyr, 36, https://chromewebstore.google.com/detail/hiyr/blpbdjmjpclfckgeinppcnnobhijkdch
+e262fa38561c6eb231019557865ad044bbc40576df0e81b806d9142da34cb6d9, EqualWeb Accessibility Crawler, 1000, https://chromewebstore.google.com/detail/equalweb-accessibility-cr/aopodabomkfakmjghlkojpknemlileil
+606559573b0fc1520c2a9a5935b462714e0fd8798327000710b19874bd3c93e8, Agency Dashboard SEO Extension, 2000, https://chromewebstore.google.com/detail/agency-dashboard-seo-exte/ifnbicdjdgfcnlanmepehagilpdelamo

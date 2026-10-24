@@ -1,0 +1,4 @@
+Extension Hash, Name, User Count, URL
+395d3f7d02b2b9f3e005eccdc0f519f814f0f8e58d690efeb01339719c8748c4, FoxyProxy Standard, 216347, https://addons.mozilla.org/firefox/addon/foxyproxy-standard
+80c5ae21f48c998ad610368e1c864f04fc800afdc647affb2a6fb9a420601990, Decentraleyes, 248409, https://addons.mozilla.org/firefox/addon/decentraleyes
+10d333aa5907292bca069d5151ed457e5469c15e5d5561542e398bc3ba9f6c5d, Unhook: Remove YouTube Recommended Videos Comments, 166448, https://addons.mozilla.org/firefox/addon/youtube-recommended-videos

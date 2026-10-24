@@ -1,0 +1,23 @@
+Extension Hash, Name, User Count, URL
+bb92960417597b3cfc11afa62978e420cf4cdf131400394ed26b1aa3dd5bc50b, Ghostery – Privacy Ad Blocker, 1013442, https://addons.mozilla.org/firefox/addon/ghostery
+adae33594acfcac790b7ab8dc14afa8a1da87f053efb9a3946e6dfb50a2cfb61, Dark Background and Light Text, 24174, https://addons.mozilla.org/firefox/addon/dark-background-light-text
+676fe18d23dcf4a9212d23b3504e7f7fed8293215a087c30471c46b0aacbada7, Consent-O-Matic, 130493, https://addons.mozilla.org/firefox/addon/consent-o-matic
+7d04c35c464a4dd31ff1f2b6552e891651cd3a082d9b1db5b93afcdb426617cf, Time Tracker - Web Habit Builder, 19641, https://addons.mozilla.org/firefox/addon/besttimetracker
+19c4b91e915533afec5395c5d675fd4f7201fd8954bfa85748301df50447cd55, Web Archives, 68256, https://addons.mozilla.org/firefox/addon/view-page-archive
+395d3f7d02b2b9f3e005eccdc0f519f814f0f8e58d690efeb01339719c8748c4, FoxyProxy Standard, 216347, https://addons.mozilla.org/firefox/addon/foxyproxy-standard
+d6d32e514dc479677627f68a458794cc5ab77b44cd75c336d59d3a96858f698f, Chrome Mask, 57570, https://addons.mozilla.org/firefox/addon/chrome-mask
+21e1fb78aa94df6aef7088b9c333fd4b684dc1fe6a59a8c58b1821a50744db56, Dark Reader, 1326368, https://addons.mozilla.org/firefox/addon/darkreader
+a34a36cf3d37a8b6cfe0272d72d90a532dcae5b0f05d043ac7531a67fe3d55cd, Stylus, 135337, https://addons.mozilla.org/firefox/addon/styl-us
+c7a699df7b1ce9248dabb3d8ae49d9e2598f09b213aea4730fd9b4ddb8b925be, uBlock Origin, 11159735, https://addons.mozilla.org/firefox/addon/ublock-origin
+7962f4e01b79e0f24331d2073f8a6bc0425cd633f64e9d61b9cbb3755647a7a9, Google Search Fixer, 99671, https://addons.mozilla.org/firefox/addon/google-search-fixer
+b6c5987dbf78beaf38c26d4f31f9b7d03c3109e56a7a76d14c84f0d87c941b26, Simple Gesture for Android, 2713, https://addons.mozilla.org/firefox/addon/simple-gesture
+1decf25dc1255452c568ab9bf10c1b05e09849fcb49fc01b9ebdd6d62030cd3e, YouTube High Definition, 161689, https://addons.mozilla.org/firefox/addon/youtube-high-definition
+73a08b44d30cc3dfb6a41d793b4ca04e195988af22f56ad360318d2ead45c57e, Yomitan, 47706, https://addons.mozilla.org/firefox/addon/yomitan
+80c5ae21f48c998ad610368e1c864f04fc800afdc647affb2a6fb9a420601990, Decentraleyes, 248409, https://addons.mozilla.org/firefox/addon/decentraleyes
+919197eeb90baf05b477bcc89e9fa36b0d1bd1ecc03336f88749af9ce0e1c439, LeechBlock NG, 111048, https://addons.mozilla.org/firefox/addon/leechblock-ng
+23378ffc11227f587b626e0023c43ca790446b710eba8e1365c21ccf43254594, Search by Image, 456518, https://addons.mozilla.org/firefox/addon/search_by_image
+92a468c556e766167fc9e88cec5cdf03dc6ca42839613a9313842678416c1663, SingleFile, 89931, https://addons.mozilla.org/firefox/addon/single-file
+d4cd2f7eadb1bfc335adfaa5e2afd3a79d4bfcd6e801260bcca70914274f92e5, ClearURLs, 513644, https://addons.mozilla.org/firefox/addon/clearurls
+a22aa7325b8770a379734a275297ffe6f71b779db5d2ae6360642762e8a7447e, NoScript Security Suite, 240414, https://addons.mozilla.org/firefox/addon/noscript
+7d8b4b4107df66b5c786787c21cd26dba417741cd1043c19744377b131cf237e, AdGuard AdBlocker, 1791711, https://addons.mozilla.org/firefox/addon/adguard-adblocker
+b7842b9c1f396de3ce7e6d2956f3ee9e6bad28e7d48f262d47a81ac72b30d369, Privacy Badger, 1865869, https://addons.mozilla.org/firefox/addon/privacy-badger17

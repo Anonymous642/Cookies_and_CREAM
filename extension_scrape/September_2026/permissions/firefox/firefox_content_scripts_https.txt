@@ -1,0 +1,339 @@
+Extension Hash, Name, User Count, URL
+be6c5aee13c8374214b361ce3baf0f8ec39d0224d961fc434f5067e41a616afc, Mpurse, 38, https://addons.mozilla.org/firefox/addon/mpchain_mpurse
+6ad4de5ac6bcbe8a641c60a1fcd92458ee9b75b6c23c29e37e48e621cdefd5a4, Complete ID: Password Manager, 24, https://addons.mozilla.org/firefox/addon/complete-id-password-manager
+96101b91db2c426a6c9cbda87caa7b5f5d52b1a0b0c82d10274d379e88d65e2e, Neofoxify, 1, https://addons.mozilla.org/firefox/addon/neofoxify
+5b1b4501d6e63e795e4e175e3a0615952a32ab15e2b30247a7856de4c9659c9d, SEO-tools, 38, https://addons.mozilla.org/firefox/addon/seo-tools
+23ff4631762870e84100c3a946ecca8587b65a75ccd48d687eb6c34b199e33c7, Currency Converter App, 29, https://addons.mozilla.org/firefox/addon/currency-converter-app
+8e4a0f22db2698bde6043887ba47bf7f0f45fa31f17d317e1e6bfcccb347a9f9, Power+, 12, https://addons.mozilla.org/firefox/addon/dtps
+43ec13b1755c544c423e41bb9bd53bb716ee988c980bab62d7199ce752982839, GO balík, 22, https://addons.mozilla.org/firefox/addon/go-bal%C3%ADk
+9fc2e993599eef393ff1b9c4737aad8c7e3e60aaae5359730ffd3dc90de66895, LoveRu Tools, 1, https://addons.mozilla.org/firefox/addon/loveru-tools
+a8eb41e0c76525e124939a7e00ab12aa42a143d2c64cc041c1e9bfa6bc29c25f, MyAlgorithm, 7, https://addons.mozilla.org/firefox/addon/myalgorithm
+3ed27717a7e199273a94f946123871a72c420962fc2e53f3a3bd0a39e082c7c0, ManageJobApplications - Job Posting Import, 1, https://addons.mozilla.org/firefox/addon/managejobapps-import
+38234d2f5fc288002db688078f134eda3481e5cffb4a48a045b937b74ff90eeb, iSenhas, 1, https://addons.mozilla.org/firefox/addon/isenhasapp
+42aaa850f8397fe64bbff6d9a06e14f7328df48c32701f4a75691fd56765de37, Junk Filter, 31, https://addons.mozilla.org/firefox/addon/junk-filter
+0b402bf8aee7728533f302b0d5646fb03942d83f56a59a8747207677a8421327, Marvel Snap Credit Clicker, 3, https://addons.mozilla.org/firefox/addon/marvel-snap-credit-clicker
+8d7cae21b836bc61bdc3de01f8885a327857ec774221d6c4fadef2ed9285d3b0, CashDeals: AI Coupons & Cashback, 10, https://addons.mozilla.org/firefox/addon/cashdeals-ai-coupons-cashback
+0c7a365709acfc571ee8e40061493fc6534e62a6c306140d942e5081acd70f22, beta-focus-youtube, 0, https://addons.mozilla.org/firefox/addon/beta-focus-youtube
+64a53144f8d504d5b83f35bf9cca486b5d965997d2eb7151f985c8a9cb0a4ec9, Progressive Shopperer, 0, https://addons.mozilla.org/firefox/addon/progressive-shopperer
+34455e4cf3215b845245ddbb2f3b9db392a711830810557afac280a8b911e2b3, Winzos! Web Contests, 0, https://addons.mozilla.org/firefox/addon/winzos-web-contests
+473c155197c710d0383201690ae60633b03ddcc144d7611981f283afd06e0ce2, Ligue 1 - classement, 3, https://addons.mozilla.org/firefox/addon/ligue-1-classement
+78dee7da5ed1c59271fe9f69250464fea823346f1e1c924c5c3bbd4110a0493d, Uverest, 0, https://addons.mozilla.org/firefox/addon/uverest
+ef4f734202b4a2558aeeeaa0a0426c45b3f94a3d3c06eaddcbf4ad4264398128, Neurai Sign, 3, https://addons.mozilla.org/firefox/addon/neurai-sign
+7d7529ec826e0406b453cb02c356c1527a6c74692961da7f700a65ce889a8d95, ConfPass, 0, https://addons.mozilla.org/firefox/addon/confpass
+df287be3822bb19b6c5b0ac8ef7c014fd64331749a29548a960a41d8d593f3bc, xBull Wallet, 30, https://addons.mozilla.org/firefox/addon/xbull-wallet
+87679128fc74fdd684611e9e0db0ddc1526c13f18909d7c2fd3f676ad8f03bcd, Epubespiar - Epub reader, 102, https://addons.mozilla.org/firefox/addon/epubespiar
+349fe9e466d54c235beb0e28a85ba2eb34e4257f50a698756e3c6b4150466f1a, WebBT, 226, https://addons.mozilla.org/firefox/addon/webbt
+d87b87765651a324290520a4f6d0a9a79334ac0677348b4d0f6f9626a162021a, mytrips-discount-assistant, 0, https://addons.mozilla.org/firefox/addon/mytrips-discount-assistant
+b7dec3ddd69e58caa700b1b18042a9cc1ef55d0ed1f4333633ac795e94a3bb11, The Cookery Browser Extension, 1, https://addons.mozilla.org/firefox/addon/the-cookery-browser-extension
+584c18df4cf40da9474e8c4f23a7971e780893c016befe1e04dd4dca6c811748, Poggers, 0, https://addons.mozilla.org/firefox/addon/poggers
+006b425bfa133a05e2849b5eaba34d2468bb190102284b499073ced525852c89, Better Cantonese & Mandarin Subtitles, 35, https://addons.mozilla.org/firefox/addon/langpal-subtitles
+067b1ffd25062e46b4b5bceb73f4038325e05d5479a67ec856e3228583af82d2, Diaspora - Optimizer, 11, https://addons.mozilla.org/firefox/addon/diaspora-optimizer
+ddabd035f505bf32dff590b992e8bf68b580643c4f05733d0d7b8dae1d0860ea, YouTube Intro Skipper, 25, https://addons.mozilla.org/firefox/addon/youtube-intro-skipper
+5d6af70ff4d7e9a5457beacfc3839dcc0368d222eb0d36b3deefa5fb88c654cc, AI Article Summarizer by Bonn, 1, https://addons.mozilla.org/firefox/addon/ai-article-summarizer-by-bonn
+ecccfeb02701447c7752b19ab2487b2eaaeeb77be3e9c004bb066a0fe857cce3, Make Medium Readable Again, 567, https://addons.mozilla.org/firefox/addon/make-medium-readable-again
+789a40b22439213971b6cb8eca595f26f624423039314d773b1a5912fff04a70, CoveTrader Prop Firm Discount Finder, 11, https://addons.mozilla.org/firefox/addon/covetrader-prop-firm-discount
+fbd37577c8deb31de4aea632d18ac5090f46c9bbbde3d222914377f666a2a4a2, Backify, 4, https://addons.mozilla.org/firefox/addon/backify
+6116f606ef5273eebe560d6bc0bcca296af14f59a3b5e91338fecbadc84047aa, Newsletter PDF Downloader - Export Patreon, Medium, 0, https://addons.mozilla.org/firefox/addon/newsletter-pdf-downloader
+fe6b7910cc8f3fb18009677857d50f3035ea236a3f58db30d914dff7437425d1, Squint, 1, https://addons.mozilla.org/firefox/addon/squint
+90911904b936082a50f0198f92eafcb90a38bb959c2c0930008a89a642608428, Hive Page Capture Extension, 1, https://addons.mozilla.org/firefox/addon/hive-page-capture-extension
+c77fd45794e5790c51a24d56ad4997b705b22ca4b4850adc032f7e9197243015, Bridgy Fed Finder, 3, https://addons.mozilla.org/firefox/addon/bridgy-fed-finder
+1c89e03a1c385e22a3539fd0aff8f0e1b2d7e0e0cb5cb1276e8d01acd0d8ffd6, CenseCloud, 1, https://addons.mozilla.org/firefox/addon/censecloud
+428b2a22ca9465203f5ac4165aaac99c1b3c51a3c267547ef722d0764614878f, Search by image on Amazon, 197, https://addons.mozilla.org/firefox/addon/amazon-search-by-image
+a32caea2b158ff7c4f1693b1a7efdabb48fc5ff092fec8fe1bcc2f9abdbae3c9, S.コンテキストガジェット＆ウェブメニュー, 5, https://addons.mozilla.org/firefox/addon/sateraito-context-gadget
+78e142b56bccca2e2c668148043fe6d2370316bbca9888321916d573de945312, DriveOFF, 8, https://addons.mozilla.org/firefox/addon/openfoodfacts
+e9b0fd585d68f716af616535902789c6481e559a10ba9cdafb5846e85bcf9701, Rabattcorner : Cashback & bons d'achat, 783, https://addons.mozilla.org/firefox/addon/rabattcorner
+02284d27a6ffe8bd07dd2d155226a489ecd77a0656a7da5f40479b6fcfc97589, Esfinge, 0, https://addons.mozilla.org/firefox/addon/esfinge
+084498925485a127d86cd34c481d12ea5eab2b47a703b64e79e61361f716f2ff, Marqly – The Ultimate Bookmark & Tab Manager, 7, https://addons.mozilla.org/firefox/addon/marqly
+14fdbb85b7653da260205510b8cb146c1b52a1f351da37b507619576bf3f7d97, CEREMA Passwortmanager, 1, https://addons.mozilla.org/firefox/addon/cerema-passwortmanager
+7687d774884f81fbb48778d52d53389e98bd0eccfaa8399dd77ce11279c35a32, Rookie Cookie Crush, 0, https://addons.mozilla.org/firefox/addon/rookie-cookie-crush
+9f069db1f9c7b408404ebe93328501f70844735e73f2a15ef95079625bb47c06, Let me paste!, 1, https://addons.mozilla.org/firefox/addon/let-me-paste
+8268a548fab87de160e2e0c92a3f30f24002005e90f8e6f7947422824bd0b6ab, DataTool Downloader, 1699, https://addons.mozilla.org/firefox/addon/datatool-downloader
+08b0f773d699e48aea94275b63c61e89e6feccfad417026bcbd86181b9f594d7, Tailwind CSS Media Query Inspector, 27, https://addons.mozilla.org/firefox/addon/tailwind-media-query-inspector
+58f7c204dd3586e99325881020cfaf2a7408054e10a3a6160a588ee6c9f25841, RSShare - Extension, 0, https://addons.mozilla.org/firefox/addon/rsshare-extension
+5d83733cd9e5b73b7bd3114f36e3c868f22c20d0e89964e65b0046d0eb553752, Velatir, 167, https://addons.mozilla.org/firefox/addon/velatir
+103ba8f096fd95cda17fdf5f12c6aaab5396c89b4d7145f151a09448f62e0206, OTПомощь, 0, https://addons.mozilla.org/firefox/addon/otphelper
+d08381bcd8e30af63e711b0a75155888f2530a9d7685e2f27a45055acb68ae8a, Lojacorr, 20, https://addons.mozilla.org/firefox/addon/lojacorr
+9c296b0a4ceefeb14cb9ee9922b7ebb7aa62eb6817539d3858209d8825b033f1, Idiocratify, 0, https://addons.mozilla.org/firefox/addon/idiocratify
+a8bdd54a5e3a256d0bb822a31b097e5bee919e8f736414ef7ef03ed3e980ddde, Slop Sweeper, 19, https://addons.mozilla.org/firefox/addon/slop-sweeper
+3fa5aeb841af076b997ac3af726defa153c6890c4509eb2f3757085e378cdc1e, Signum XT Wallet, 48, https://addons.mozilla.org/firefox/addon/signum-xt-wallet
+dd0533e254b559c1f9e2c1fdc1a04c3c3f286abf84c136c6fcc1d0cf1ed7ba0d, Read My Balance, 1, https://addons.mozilla.org/firefox/addon/9792770c53b048c58e07
+cc9e0c0bce8297f147e6bffad275c4d516aa09069687572d4e8f5da1e7ee6446, Privacy Expert Password Manager, 2, https://addons.mozilla.org/firefox/addon/privacyexpert-password-manager
+7086181705bbee583a61d06daaf26c47d881cabd5c926c9d2da9a8b7a6684055, Google Translate Shortcuts, 1, https://addons.mozilla.org/firefox/addon/google-translate-shortcuts
+3db48ede7f56f64a19f7cf4f54675ec7238e5379be58c482a1993b3b27f81adf, Google-Scholar(SCI-HUB), 5, https://addons.mozilla.org/firefox/addon/google-scholar-sci-hub
+5e8c57af35d26da37a1573319508dced96851d9bd7d1642e33bff1ac432baf08, AI Image & Video Editor - AI Design Sidebar, 25, https://addons.mozilla.org/firefox/addon/ai-design-sidebar
+20900ca421d32a92df7ceca6a4ded1cf922298d498f69dfa940e9024a70ce7a7, KeePassXC-Browser - Passkeys fallback fixer, 53, https://addons.mozilla.org/firefox/addon/kpxc-passkeys-fallback-fixer
+286813f4e8e910b23cc7edce96f26244d3ba2338c6cd1e48b9ed99933ed8ab0d, One Red Maple, 10, https://addons.mozilla.org/firefox/addon/one-red-maple
+31680713f54c8d8a68c42a70077f867ed17546b4fe9234fa4c70551876a55bf9, Alternatives To Big Tech, 3, https://addons.mozilla.org/firefox/addon/alternatives-to-big-tech-now
+9d9039086b23e7fdfc1fd751388babc01794c98c917aec7f82847f1253cc00b1, Reading Mask, 11, https://addons.mozilla.org/firefox/addon/reading-mask
+3e685d952b73691633df444849942283b1cdfeef392bb2c9fb2503e7d25c6324, LimeSpot, 0, https://addons.mozilla.org/firefox/addon/limespot
+b2f0ee5ed0ebe5725f45e543ca46b6bbebab7fe9bf76095e256df0b43d252865, ClipboardEXT, 1, https://addons.mozilla.org/firefox/addon/clipboardext
+4cb165379ceae73dcf844968b020b71afdd93162cdf0ba7a135b618327ff2bfa, KDTP Protocol Helper, 6, https://addons.mozilla.org/firefox/addon/kdtp-protocol-helper
+a2fe07ca58fedba54e19cb4d1da04a1ae526b71331a420cccf9ac8afa989aa39, GitHub (Enterprise Projects) Plus, 4, https://addons.mozilla.org/firefox/addon/github-entprise-projects-plus
+363a14abb8859f06628334c0b8ae51cbe5a3c3e483c268be82db97a3acf1d4e6, CuView, 0, https://addons.mozilla.org/firefox/addon/cuview
+3cccb456be17c609e6c8d6f23116b17cbf02fd947d9e29d9fabd4b470bbe1e96, WebAuthn-eID for Firefox, 167, https://addons.mozilla.org/firefox/addon/webauthn-eid-for-firefox
+0a397edfadc2f641b6dee190eef264e1aaec965ad0a757450379aa22e0c9851c, Progressive Shopperss, 0, https://addons.mozilla.org/firefox/addon/progressive-shopperss
+942af9bded7db41e8c68862d0d0218eb6370352d3d406979f43ac339062a7596, offpage, 0, https://addons.mozilla.org/firefox/addon/offpage
+ac057f81de33132728f81f6c1e6aaeeb81cc08f0aaf447524627b3d62290b121, korea-auth-filler, 8, https://addons.mozilla.org/firefox/addon/korea-auth-filler
+8ce7558a77d5b6c4f05627e15228870cbf11c57c035bfa8bbc34f4da1521a25f, Canvasgotchi, 64, https://addons.mozilla.org/firefox/addon/canvasgotchi
+21db41d270df39060d2ebc60c56f264e841e4f56b79540561703ec06b69842d9, GitHub Projects Plus, 4, https://addons.mozilla.org/firefox/addon/github-projects-plus
+d125478b864109aeed48405cb877d4a48f72d4d618c57bd00670642f5d9c5745, PawCash – Prämien für Tiere in Not, 1, https://addons.mozilla.org/firefox/addon/pawcash
+cf68b2fccc38453262bdc00b50fadf119f03b636aba733d897302efba8e29454, Parsys, 107, https://addons.mozilla.org/firefox/addon/parsys
+4c911ead31d0faf6875b539b4dda9a301a7e89d31008af0dc1a5e9f84ecc23b2, Unshortit.com, 0, https://addons.mozilla.org/firefox/addon/unshortit-com
+b3a8a6d4fd9e631dca3939820873fda81abd18410a2c3ba622548239ae52a989, Autosave8n, 9, https://addons.mozilla.org/firefox/addon/autosave8n
+a7f946795a5cb3fa6b6cf1e85dadf4e2f9b313e9bb03bd81bbba1f9254fb0014, RoA Stream Browser, 0, https://addons.mozilla.org/firefox/addon/roa-stream-browser
+18f7177e4c48a739d2f63546734304a66f0a7da99aa97570d4fe4aba6901214a, Odoo Chatter Manager, 1, https://addons.mozilla.org/firefox/addon/odoo-chatter-manager
+9ce5835a7efd24610ec4d51576ca138f0cd46b2a73f6f1545f0874889c686aa2, Knowledge in a Box, 0, https://addons.mozilla.org/firefox/addon/knowledge-in-a-box
+9860d63b9ff56b7d92dd3621ea6095d37e63caa79d92b7c245a0dc69eabf27b6, BluSky Sentanel Scam Detector, 0, https://addons.mozilla.org/firefox/addon/blusky-sentanel-scam-detector
+99866a5f98e9284e52d4894817173a0f1e26d364796ee0e970e3613cf8f6921a, SkipIt Adblocker for Youtube, 3293, https://addons.mozilla.org/firefox/addon/skipit-adblocker-for-youtube
+e8eaede40295290789b1d3d1694d97efc624c34cf778dc862ae96eb6bc8eb674, MastoPinner, 0, https://addons.mozilla.org/firefox/addon/mastopinner
+9bff406ba517cfd5dcfb89d7d7392086964b49839de804b17ece9fd71122de54, Social visual alt text, 48, https://addons.mozilla.org/firefox/addon/social-visual-alt-text
+ca7bbf65066e3d841b7810c3a0bfb4b480fc82611270fa880e03202d654ee0ca, FACTA: Fact Checker, 8, https://addons.mozilla.org/firefox/addon/facta-fact-checker
+73c74f3b73a3afc7ec03593859e20723b58efd95340ef9bc7595816023d92074, WEB WITH ONLY 1 IMAGE, 0, https://addons.mozilla.org/firefox/addon/web-with-only-1-image
+74d58f838bd17aa2dd2f7de8569e64221a1349e8faa2ab0e0613f0ef2b3a18df, SendWallet, 10, https://addons.mozilla.org/firefox/addon/sendwallet
+0bfe45450c2b1275bbcf61df16d37493910797ea54b23c5a3acb444213d20272, passhash, 1, https://addons.mozilla.org/firefox/addon/passhash
+12192ccd01ebbcb661f4b0ff5b1183505f1b004ab74f41f0e31207163fb3fc7e, WidePlayer, 1, https://addons.mozilla.org/firefox/addon/wideplayer
+b854c7f67e437a42cb5fc4f522b62cc674eb07808cad4c0e4a6c42da857765c2, StackyOps Vault, 1, https://addons.mozilla.org/firefox/addon/stackyops-vault
+d17129bd06eedf57c6607ed9aa0432a7a5efe1d7fabfc2647d5a8c31499f694e, VIDAL, 131, https://addons.mozilla.org/firefox/addon/vidal
+d92b4129ff8a7f88c51622252ad69ebd654818352846164477326bad7489902a, Media Panel_2.8, 4, https://addons.mozilla.org/firefox/addon/media-panel_2-8
+dd33ec9fc3b877f4851fb07fa83dba9ab75039f31ab1f6ae5500bdc037731f67, Zerion Wallet, 258, https://addons.mozilla.org/firefox/addon/zerion-wallet-official
+5eb7d3b2bb94d408436445f288c49d7bb8aea1365b9e4481a27cf148684ba1c7, Mole Deals, 1, https://addons.mozilla.org/firefox/addon/mole-deals
+baaf7a926dc84af82995859f4f226b16ba751a22173d291ce873c34d6eac0067, ODD Devtools, 0, https://addons.mozilla.org/firefox/addon/odd-devtools
+d1d7ab29cd78196fea2b8454f9a18f7ba9f4af244ec8599c42142d372dea2f22, Open Dictionary, 1, https://addons.mozilla.org/firefox/addon/open-dictionary
+0aba8d5bfaf7d226c16947a32fbbe3a6a48ab5a12e460504388b4d75efb17b00, TestRail LivePreview, 1, https://addons.mozilla.org/firefox/addon/testrail-livepreview
+661139a97f6cf2011a3f021f57fa04db52555641478082b8042a2b44d41ac7d2, Linways Redmine Companion, 0, https://addons.mozilla.org/firefox/addon/linwaysredmine-companion
+ebc3e133884615bd07a07e6627e496f481d75f31c41c55aeb45297a17d98e575, Aleph Zero Signer, 45, https://addons.mozilla.org/firefox/addon/aleph-zero-signer
+2b69cb170876891f6aaa2ac7546dbe3e5afd793cd180ffc8af27828a08451bd5, Medium Focus, 0, https://addons.mozilla.org/firefox/addon/medium-focus
+b45a09a21cb0fdddd72cd616871ea2ddcec91a63814b1248c5384529e0b4c6af, SafeBrowz, 12, https://addons.mozilla.org/firefox/addon/safebrowz
+6e14f05b72cd3086d12a3891c78586d7a93e1571280eabc91a258b0cb6bb6eca, See The Truth!, 0, https://addons.mozilla.org/firefox/addon/see-the-truth
+2e263704c2a8b62d2874f684894965a1153c9188731ec74971a56f832ac12858, GoldWallet, 7, https://addons.mozilla.org/firefox/addon/goldwallet
+646da471469d4a7339d52046df28a201296798d438af00acb02d048ff3a582d0, y-AI - Поиск товаров по картинке, 1, https://addons.mozilla.org/firefox/addon/y-ai-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%BE%D0%B2-%D0%BF%D0%BE-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B5
+7ecf16bf073ec89d9832f41416ac3b181797e6e87b64f6ae424a7e50b02e18e0, Arn Manga LLM Translator, 0, https://addons.mozilla.org/firefox/addon/arn-manga-llm-translator
+aeceb27cd7e24f46e84d880faf8470c9ff64cb52b37177dc25547055208d3d10, AbilityWare, 0, https://addons.mozilla.org/firefox/addon/abilityware
+d7e45760d88acc4e1283cc0380bf5850f247a91cc5063e4a08a99b49a4269761, Medium PDF Downloader - Export Medium to PDF, MD, 3, https://addons.mozilla.org/firefox/addon/medium-pdf-downloader-export
+560a48b44b7d1c1091bec3b8db52415893f57cf227d1d498e943468e0031ea97, Button Stealer, 154, https://addons.mozilla.org/firefox/addon/button-stealer
+9060b4ba37282f49582d9a51979b5f4e8539e6d59b5870fdb4d67ef6ebd1fc95, AMS Auto-Fill, 10, https://addons.mozilla.org/firefox/addon/ams-auto-fill
+118c1d23c5b82ea1248b968107f2b3dbdcba4fcb1649fe83165c4004debf00d0, OneKeePass-Browser, 7, https://addons.mozilla.org/firefox/addon/onekeepass-browser
+08a60978b1d73b350bf2baebe5038288f3c770906e2e5e1b3e88c24863de38aa, EcoSurf, 1, https://addons.mozilla.org/firefox/addon/ecosurf
+7a5a25efbab47d612cabda3649422a0aefdecf8a5574ff1788bced057e442421, Skoleom SeSync, 1, https://addons.mozilla.org/firefox/addon/skoleom-sesync
+15569f648c5c342ed259463226a08440e6912cb05b2598a8279c211f314af90b, DC Auth – Passwörter, Codes & More, 1, https://addons.mozilla.org/firefox/addon/dc-auth-passw%C3%B6rter-codes-more
+d789b2cb7e4d8e73248e6a3c0158888ca9043f3406c2a2f7a0ef5a4a0a3b9c74, CanvasU, 26, https://addons.mozilla.org/firefox/addon/canvasu
+5f6ba26940d27108c721297d9f8e66192871ba26a3ff5b8a435ab4bbb328d3fb, youtube-focus, 1, https://addons.mozilla.org/firefox/addon/youtube-focus-pabloq
+de19b9ad5f4d56910709071c7db4df268c5fdaf81e59f3437086269d6fd2721f, Npm to GitHub, 1, https://addons.mozilla.org/firefox/addon/npm-to-github
+cb2021c03fdf2bd0cc762bfdcc95ba4ddcb16b5ec96c37c62aab6f6141842ee4, Progreczssive Shopper, 0, https://addons.mozilla.org/firefox/addon/progreczssive-shopper
+8cf0a2c5f6ef5bdb8361e1240ac99c30817e658be0eb7ad766f1b5dfe1032178, Pause - Stop Impulse Shopping, 6, https://addons.mozilla.org/firefox/addon/pause-stop-impulse-shopping
+c739cb25701cbec8727d2b582fc9aa62363f3212db5191cf7312e9dea9b42cee, ArchiveReplace, 1, https://addons.mozilla.org/firefox/addon/archivereplace
+236153bd8603fb9b5b55b2f71bd805f016822b4a1d859e163b6e7cddf6447aca, PocketToots, 1, https://addons.mozilla.org/firefox/addon/pockettoots
+94794cb237309f12c48f6e270b1178377389a58662cb2f688e1e37ad3c4941f9, Maskerade - Blur your login details, 1, https://addons.mozilla.org/firefox/addon/maskerade
+f6bb2707114b0933e0091421d7d8fb4e90b44589a3174fcc8ddc7dd6c25b5119, CarbonGuru, 1, https://addons.mozilla.org/firefox/addon/carbonguru
+b2c1f90f3118f4d76e4bca22daf8c61754117105e2757bfde8c014a617bb50d1, Rabbithole, 1, https://addons.mozilla.org/firefox/addon/rabbithole
+205e6cc225639a61441655e7d8d85eaf41d48d2e4c29ab038960da14081ed4b5, AMZ Radar — Amazon price tracker, 86, https://addons.mozilla.org/firefox/addon/amz-radar-amazon-price-tracker
+27424906f3ea808ecbd713afef5a70ad01fb5d0d81dddbb2da0ef478f3f8cec7, AdSkipper – Skip Ads Fast, 4597, https://addons.mozilla.org/firefox/addon/adskipper-skip-ads-fast
+5799b32defa5955ab68c82aa249f8d90b410059d62ab498f78290a4e22978473, cherryclipper, 1, https://addons.mozilla.org/firefox/addon/cherryclipper
+2b3f88b55f139745b51e7b65825fa809eb774b0561b00cf00260290c18b1f447, ConsistentHTTPS, 37, https://addons.mozilla.org/firefox/addon/consistent-https
+e6aef9432f2c74dabf36235ef2de94f44539bc599bb2aee5e5345de0ae1eb8b4, Kwish — Ajouter à ma wishlist, 0, https://addons.mozilla.org/firefox/addon/kwish
+ac3b79bc26015780005c4a94cbfdba97ab4f47f4ff82a12d293afdd4da46bdf4, Web Monetization, 17, https://addons.mozilla.org/firefox/addon/web-monetization-extension
+71bb21fc282c46ac09b3930f86aa4c0cf458289a697173f959dc4639a23cc6fa, Password Vault Manager, 1, https://addons.mozilla.org/firefox/addon/password-vault-manager
+e68a016da43a9f96d248b85c144e38155205378a5f8195652bc2be16b50773e5, Zoxrim Security, 0, https://addons.mozilla.org/firefox/addon/zoxrim-security
+d69fb86d22e4cd350f2f6dd9712b05f0f74b6328b2e921ce1dc03bdbd76887ba, Caramel (Open Beta), 843, https://addons.mozilla.org/firefox/addon/grabcaramel
+f40025fa6ba650276ffab8b4da62a7f5afa87cce5249f16ce257555385817fca, KeyIgel Autofill, 1, https://addons.mozilla.org/firefox/addon/keyigel-autofill
+387e7d71e7415e4de621c8688cfa9d6a2dbae4bea72e51c6819f9a9f67efeb91, ScamScan, 1, https://addons.mozilla.org/firefox/addon/scamscan
+bfb45743cfc8e821cd11c3bcb9b6e9f3381d1074d4175e626585618478df4673, gorilla-v4, 0, https://addons.mozilla.org/firefox/addon/gorilla-v4
+7c17f27527b1c53b079fee3fbceedb0f1d90d370fc6f50a7dd1f966438282f64, Translator Extension, 67, https://addons.mozilla.org/firefox/addon/translator-extension
+347cf1c4497af318f41a60fca52a2cc9ddc7455d948b3dfbfcd4934f452524f6, Codepond - quickly find your code snippets, 0, https://addons.mozilla.org/firefox/addon/codepond
+eceeafcd46574cf5370b11452b588afce7b693d363d059efbc964eac75e75b68, UCBee Dashboard extension, 4, https://addons.mozilla.org/firefox/addon/ucbee-click-to-dial-extension
+f2c28c2921f62cf7543d624acff5d343d071b644edfe64d45c3fda0cdce3ed49, Qoala, 340, https://addons.mozilla.org/firefox/addon/qoala
+4af9b80443042ff8453b28917853265b8aec5f4106cec8566fdfba54aa47f208, Rate That Site, 1, https://addons.mozilla.org/firefox/addon/rate-that-site
+82d6d897f25de805c2e03d1dcad1851f2f4c01901e85d0bb0a177bae6b554bca, Pic Locker, 0, https://addons.mozilla.org/firefox/addon/pic-locker
+ef969677d83348c0c2d270ae59e513ade124edd63972efdb4defc78185776b84, KelňAI Bridge, 0, https://addons.mozilla.org/firefox/addon/kelnai-bridge-qes
+cc6819d49212de488ac588aa8c3d2672feb2884cafc3c34318af9ee0d033ff74, Libraté (Librate), 1, https://addons.mozilla.org/firefox/addon/libratee
+962411e26fc04c648f454aa9312095789c78402a11636d2849c19c920571911d, Dark Mode for HackerNews, 1, https://addons.mozilla.org/firefox/addon/dark-mode-hackernews
+63f745e80239aacb3d7ad0173d22ffe2c31cd739b52355a21833df9603b23423, Quick History, 2, https://addons.mozilla.org/firefox/addon/quick-history
+828f52f9d42238136aaf091425f8189253d5d02d732754be3c909fd746592c5e, My Financial Expert Password Manager, 17, https://addons.mozilla.org/firefox/addon/myfinexpert-password-manager
+60959ebc09141d1f9ecdde7933a8709e53ceaa95e94da2cc2bb6c36174017fe6, PSAL extension, 402, https://addons.mozilla.org/firefox/addon/psal-extn
+fb985ceedc1d7d2fbc076b7d9a1355088b17a9f7ceb064d53bc8995125053e1d, PrevencionPro, 1, https://addons.mozilla.org/firefox/addon/prevencionpro
+460d547e2670aac452bb810123da4a2f7ccee46f14e6b22fb14da6f1abbed5ad, MySudo Browser Extension, 125, https://addons.mozilla.org/firefox/addon/mysudo-browser-extension
+cc38ccec345e9cc08a3c65e017c4e17f3594f063b72b4d0b576ed88a12f8e796, TestRail Historian, 2, https://addons.mozilla.org/firefox/addon/testrail-historian
+05cc5c512987c5833ad1fef35dd134255f2d480c7df16d8ec858d851f9637393, Topfenstrudel, 0, https://addons.mozilla.org/firefox/addon/topfenstrudel
+9013832cec2b675b31ac347aa3015c8403acbe10bf4990384ed7c51a3719d13c, Vaulka, 1, https://addons.mozilla.org/firefox/addon/vaulka
+06a2df858e96a9a50ececa74ac6ff08a79219b70a79d588d6f20020a10b60597, ConnectWise Tab Renamer, 3, https://addons.mozilla.org/firefox/addon/connectwise-tab-renamer
+cbd03bce4ab0538bda8c8c1010dc52474d38fff0c8eb38884b6da6526d9c943f, Mark And Note, 1, https://addons.mozilla.org/firefox/addon/mark-and-note
+3d92edb35607a0b7a10c28415a0c2656d87b1cfab67a61c3ad06b84f1adb1fef, AnimeStar Extension, 72, https://addons.mozilla.org/firefox/addon/animestar-extension
+119854d979e88fa3dded76a9a84c54630d7b7f9051b8c666519f744f95cb9f15, Kindle Highlight & Note Fetcher, 6, https://addons.mozilla.org/firefox/addon/kindle-highlight-note-fetcher
+4d6207c843f361d884bfd332951ac1262cde1e997ece37751c7ca50738f3bef7, Agent09, 3, https://addons.mozilla.org/firefox/addon/agent09
+02c987505fc2ded4ccfbf50f10006361504725f0b161544553f2fc792af07063, Subveris Subscription Insights, 1, https://addons.mozilla.org/firefox/addon/subveris-subscription-insights
+4b4969713c4952caf8bfbac9b3b25f1b46a27a62b43fb83e3c492c9a0c3d9ece, G-Script - Scriptwriting in Google Docs, 27, https://addons.mozilla.org/firefox/addon/g-script
+ff9177b44202938630b32cf1e004505c78a5078af800940f7e38d4dba5084726, Glow - Solana Wallet, 178, https://addons.mozilla.org/firefox/addon/glow-solana-wallet
+06db38157a7ae3ef9ab2aab6afad58a86b84263e574165b48a82fa1af4c51fe4, Eye Relief Workouts Plus, 1, https://addons.mozilla.org/firefox/addon/eye-relief-workouts-plus
+604b598ca9dc968e3f0466cab275bcc43bdcaae8b1879ba2f5cb261f8d1370f0, Bark, 0, https://addons.mozilla.org/firefox/addon/bark-nostr
+9edf69849e6552aa2a098407fe7f60b4c4f71189c33595198158eac14c59d98f, 知乎直答, 65, https://addons.mozilla.org/firefox/addon/zhida-extension
+6ca161327c97cf5b52cde06f08fb452c7eb012146b9e09265b38121d587bdaf1, Musa View Font, 0, https://addons.mozilla.org/firefox/addon/musa-view-font
+d3081f375d0d7cf6f07b7aafc15a8a535ab88377f021dfef0e1dbb57976028d8, Progressive Shopper, 227, https://addons.mozilla.org/firefox/addon/progressive-shopper
+0d941794ca5aeb7d84b695b34e0c8fd243d666204310b133c549316302d77267, ARK Connect, 10, https://addons.mozilla.org/firefox/addon/ark-connect
+8cc7e7d27d3a5256c30bce6c2e25d0f22b1c996d2806b36eb81b88a21f0581c4, Cross-Origin Storage, 1, https://addons.mozilla.org/firefox/addon/cross-origin-storage
+1d8c0332915d278b00379b30c688717b9458ced244838c00e823f7ad9b4e2e7c, ARB Scanner Multi-Order, 0, https://addons.mozilla.org/firefox/addon/arb-scanner-multi-order
+5fd471211b140c7bc886110797832d6bfee67361e4e6393db87af0d865b45387, secured-webpage-verifier, 1, https://addons.mozilla.org/firefox/addon/secured-webpage-verifier
+1bc616da50de9371b0420ffee6cd0a7c51a95c4aaad949c4f3661c393b09e5ce, Picky Share, 0, https://addons.mozilla.org/firefox/addon/picky-share
+eee183cb62968d7a5bd584179f298c716b7aedd9d96290c13d293036dd6b8dcc, CashBackStacks, 3, https://addons.mozilla.org/firefox/addon/cashbackstacks
+77d993c27265cac661854baadb2844eacfee18de10cb5ff45f9ef09fadfd12d3, Scrapify, 4, https://addons.mozilla.org/firefox/addon/scrapify
+5dc5bcb2614deddb6ff1964135c14ac853298bb066f378c8a68b2083006cca5f, Progressive Shopperop, 0, https://addons.mozilla.org/firefox/addon/progressive-shopperop
+682ae3c04293cb50175082d3719f44bf5e05943907539ec3b94d47f03969d2be, Show and Copy Image Properties, 20, https://addons.mozilla.org/firefox/addon/show-and-copy-image-properties
+afadc86686d197620860f8403d12ae066692479863f1b54eaac1412489ebea1d, Tasks for Canvas™, 12392, https://addons.mozilla.org/firefox/addon/tasks-for-canvas
+9695804561cffd371edcdc739afa7c3cb3b05c57b26b0f7d3dc9d29178d87259, Misskey TL-Speed Adjuster, 9, https://addons.mozilla.org/firefox/addon/misskey-tl-speed-adjuster
+3728546a19c2c879c4a01a3a4993656bc73a7c761fa2c3534e92dbfdd7186e4d, Smart Terms for Confluence and Jira, 50, https://addons.mozilla.org/firefox/addon/smart-terms-for-confluence
+c8782a4e3fe9bed0486160bcd23da3a2d9835f14c0c5035d4bfd9e6efd16f48f, VocaLini, 0, https://addons.mozilla.org/firefox/addon/vocalini
+0a8674d29b59e414c547bdbeee8465e867e33232fa5b72f2e7b73f96ada6ea78, TypoGuard - AI Spell Checker & Corrector, 1, https://addons.mozilla.org/firefox/addon/typoguard
+6557c0fa9345aaf12156e0882a69d9d8a5a2ee1795a2002f17bf7cf533f6fe55, WebChat, 11, https://addons.mozilla.org/firefox/addon/webchat
+a9c42f6b306b4ff5bf8a5df20ebc48301aefa197391fd4f59874d8864223a8e9, Marcatexto Tradutor PT-EN, 2, https://addons.mozilla.org/firefox/addon/marcatexto-tradutor-pt-en
+cdcb0c5e72d69f465ad6268a97631f75d71339d19a7c3dec925774c590647907, Roles, 0, https://addons.mozilla.org/firefox/addon/roles
+6cedc7311c980944f2462ebe07766b1a911d709613166697498120b820626f0f, LegalEASE Password Manager, 0, https://addons.mozilla.org/firefox/addon/legalease-password-manager
+720fefab0affdd49ee2e8398c21f4da21663ba9e64b5d1196f7458bcdd603556, Theme Explorer for Shopify, 32, https://addons.mozilla.org/firefox/addon/theme-explorer-for-shopify
+4ba81f136ad5ec19a18b079da8d44f4e29bba0dbb2bb7befdd510390548a1bdf, Tootski, 1, https://addons.mozilla.org/firefox/addon/tootski
+ea3f99cf36ae44a37768a77b7bbc71af7c90287ee31884af5a663a826e9e9a9e, Lemonade Password Manager, 0, https://addons.mozilla.org/firefox/addon/lemonade-password-manager
+ce9230c97c46f9c0db666fe46ca3f1371112d92dbdb94558223a7cfb7c7fad6d, Eink Mode, 119, https://addons.mozilla.org/firefox/addon/eink-mode
+9718b320a79285d3d40aba24081a54de41e099a1f31b65736e80cb2dd65eb0e3, Leave, 1, https://addons.mozilla.org/firefox/addon/leave
+d1864ed67ef9f4cae96054504834d76be2424de9fa90652bd55ce905800eb13b, BetterCampus (prev. BetterCanvas), 34708, https://addons.mozilla.org/firefox/addon/better-canvas
+d1b85a6a725cca017d2ffa1b6ff66d279bb93b19d61a2217e4b4035a59ee4717, Costructor, 183, https://addons.mozilla.org/firefox/addon/costructor
+9cf8cffe3d1afee87d94d34b24011b95717a2779799cdb8ff439a44001f954a4, Substack PDF Downloader, Substack to PDF, MD, JSON, 11, https://addons.mozilla.org/firefox/addon/substack-pdf-downloader
+0e27b2e5c1711fe91cbcb7948770cb9b69d07d3c8b95599582cd8753f40396a7, CASHBACK PRO, 0, https://addons.mozilla.org/firefox/addon/cashbackpro-online
+725053ea025c5af0e9d87fe580cc4570a9b1d69460c7d32ed9b516cbb4914ff9, No means Yesn't, 0, https://addons.mozilla.org/firefox/addon/no-means-yesn-t
+ffca895cad626b5034b6b7da9736455cdac5d3a29766487cd528abd134957b95, another share extension, 3, https://addons.mozilla.org/firefox/addon/another-share-extension
+c9f6f69880cfbd7c9346d81a8d1d3a835e936885e3fa5c3011d24c6cb912591d, Sesja bez wylogowania mObywatel, eDoreczenia, sądy, 1, https://addons.mozilla.org/firefox/addon/aktywny-mobywatel-edoreczenia
+a7facc7bbc6d1c273e2302abf45debcd4616f56543bd49d494874dcc4180182c, Euqalizer, 2, https://addons.mozilla.org/firefox/addon/euqalizer
+1100b4adfd29914665135797e0b1b47364677fa44cd145d90a8df76016c726cb, Hucency: Password Manager, 0, https://addons.mozilla.org/firefox/addon/hucency-password-manager
+abd9561c0c1af84c1aa2f403a8ca1914a4c736051cac5b6fb1b5b1b8c4454967, Savely - Price Comparison, 29, https://addons.mozilla.org/firefox/addon/savely-price-comparison
+a91939a6a8fb878cf8144f7305a58e242da397b120ff2c6bf416634b8bc90c88, ScrollJunky, 2, https://addons.mozilla.org/firefox/addon/scrolljunky
+a9acb6703ca7340b5276b77977af057c8728d2f9ce39cf47a24ba9c25464c823, PhabricatorNotificationGroups, 1, https://addons.mozilla.org/firefox/addon/phabricatornotificationgroups
+c9d69ece364752d829b3b65f5d6ea86ff48972cbfa8e951b7db9ce8b20304326, Progrcessive Shopper, 0, https://addons.mozilla.org/firefox/addon/progrcessive-shopper
+88305e1bd9cee664268b1de1c1ec471171b5f16ef4c84b14f77d1ecc41131bdf, Youtrack Time Tracker, 0, https://addons.mozilla.org/firefox/addon/youtrack-time-tracker
+7677b63f4d6d66d8a030df437c5bf36563c56b780ef28be1ecbd0c388a09d30a, WebJourney, 0, https://addons.mozilla.org/firefox/addon/webjourney
+5814ebdb8f0a00a3a03ef826fcbce7df78870329459247df4b3c43789cbb5445, TestRail TestCasesCount, 1, https://addons.mozilla.org/firefox/addon/testrail-testcasescount
+f042713d7fab9d74c080e81ca03b4605e93b295af33b0249041b99fdd74d1c78, AI Summary Generator, 126, https://addons.mozilla.org/firefox/addon/ai-summary-generator
+452d0d0e50ae6b1e19f303f58c96f40e0f96887ae876c362d729222d66af262f, Fenko Vault, 3, https://addons.mozilla.org/firefox/addon/fenko-vault
+135d1353f287b39066463b23c2d96a060466d97fb91113a06d022ea1e3e64383, Braavos - Starknet Wallet, 1110, https://addons.mozilla.org/firefox/addon/braavos-wallet
+08387937d8d2634465a647a256695e6e6dff8f388a3614113b8d6c8ebeda7103, Sleed, 1, https://addons.mozilla.org/firefox/addon/sleed
+3f35062324c48f9e49d39cd52020903f2fb6406c98ce08052176314a11f4d26e, Darkob Patent Search, 1, https://addons.mozilla.org/firefox/addon/darkob
+cff49baaf169ef208bd3d5591f47c9736699b8a109539e3c07f94471914414ff, HDrezka Ratings + Downloader, 3, https://addons.mozilla.org/firefox/addon/hdrezka-ratings-downloader
+01df526314a1a35b0a9fdd4df3f0260e171a3d49544cb84c1eef25f918d0eba5, Average Mark Calculator, 1, https://addons.mozilla.org/firefox/addon/average-mark-calculator
+9deea00015e4bd4e18ca6544ccc5976574a8bbd2e7024d45c8f256aa85f7160c, goodie cashback, 2727, https://addons.mozilla.org/firefox/addon/goodie-cashback
+2d711c1db2edcf85766666941cac2172f6797d3a556ea51a0ce49efe39840cdc, Pixify: Image Scraping Tool, 125, https://addons.mozilla.org/firefox/addon/pixify-image-scraping-tool
+8be3974a8220b43bd68f8772702906e94e864d9f2db0c6e9ca12d0b45343fbb7, Habeas — export receipts & invoices, 9, https://addons.mozilla.org/firefox/addon/habeas
+124c5b51abae489e666c5067ba7a79fa011a40e36064b9c1b775570dd5aca72f, Canvas Refined, 69, https://addons.mozilla.org/firefox/addon/canvas-refined
+6f82bc62e4e01579db5f15137b89cc57e55bdb15d3fb55882623714a50e9325f, EsReal, 2, https://addons.mozilla.org/firefox/addon/esreal
+0b2e094bf65f0880129b0d3af261afdc91d18a59dc4013146f840b49f1e5ea44, UX Enhancer for GitLab, 26, https://addons.mozilla.org/firefox/addon/ux-enhancer-for-gitlab
+b290c55452fc02d940c3fd04c119bd754c3d03884653ca6cf7efb32d67a82f0d, WebTech Private Vault Autofill, 1, https://addons.mozilla.org/firefox/addon/webtech-private-vault-autofill
+937036477c829cd8c2c3b28783003fdc747a3adff83fc5f862a18d706d88f7e8, Block Service Workers, 39, https://addons.mozilla.org/firefox/addon/block-service-workers
+84eea4457ff245f3153eb81d55ebbaccd7eda5e7763870e8491092e31ea85ea8, Reject Service Worker, 89, https://addons.mozilla.org/firefox/addon/reject-service-worker
+03d823cf74e387c976faeb53ac98a88e64eaf621949d05e5995234054f8af454, Klip – Auto Coupon Finder, 7, https://addons.mozilla.org/firefox/addon/klip-auto-coupon-finder
+bee344fc3b7c97abc9c6a1675a937be0124bb8f61644fa32ddd5cbd516d310ad, Progressive Shopperew, 0, https://addons.mozilla.org/firefox/addon/progressive-shopperew
+1c461273e7fa22accbf1b9dc7fc456150a1417cb3fecaeb865586e6fafbb9302, Vaathiyar.ai, 1, https://addons.mozilla.org/firefox/addon/vaathiyar-ai
+18cba178eec8e87a41279e3192ee51f59afbd07060b981b26affbf9b10a2df53, rtlit, 1, https://addons.mozilla.org/firefox/addon/rtlit
+242fea6cfc42ed2e3b0f63757599547ed415fb4d0d6213a80bad38c21a4210e9, Yaq, 0, https://addons.mozilla.org/firefox/addon/yaq
+6026b4710c3f91b9fb9693a3e3cbda29cf2b84ee37e2340984a0eb24f753c190, glow L!VE, 1, https://addons.mozilla.org/firefox/addon/glow-live
+732ac304bb475dc60cac96767cc2402077b6100f45a606ae0ade8d273c802f45, Coronaplaisir, 0, https://addons.mozilla.org/firefox/addon/coronaplaisir
+67e1476030137f5393b3d309f0a211c644182faf4f823eaa44202f60c608455b, SearchCleaner, 4, https://addons.mozilla.org/firefox/addon/searchcleaner
+a7398e0c01184e6bbd46c953212889b3cbb10dda7aa182896bbb70bb6fdf02df, Winvision Dynamics CRM Tools, 47, https://addons.mozilla.org/firefox/addon/winvisioncrmtools
+0716190f7d6ef79ff97c0d22111cec1b7fd2e9d7177fc434ea24d601252796b0, IUT Average Mark Calculator - VF, 1, https://addons.mozilla.org/firefox/addon/iut-average-mark-calculator-vf
+ee107cb45e0abc1c5d0368a2aacba3905db0d9a5cd9abbf8af69623d63cb22b8, RPass, 146, https://addons.mozilla.org/firefox/addon/rpass
+14fc9b1608930a20e48e5f789247b42950ddb6cc05c6fddfd0697a78bbe2f4bc, v-iframe, 21, https://addons.mozilla.org/firefox/addon/v-iframe
+698beadbaeab8ea85b749cd904a15068e634f9acced9c27ab8aafbdf3c75c5e3, OwlCrypt Password Manager, 0, https://addons.mozilla.org/firefox/addon/owlcrypt-password-manager
+d73ad4e9ffd6cd75b791cb177b92743b773b8475e2c45dcec9a3f83d1acb5cd7, Privacy Portal: Privacy for your email, 8, https://addons.mozilla.org/firefox/addon/privacy-portal
+e87570a7979b6ae45f94bd9733a59d42f42aa936375c2cafab33e897870330e4, VimBrowser, 1, https://addons.mozilla.org/firefox/addon/vimbrowser
+db44acb7988d6beb6c4e8fde32ff5007a4a8218f6c42478bb9f58e162ea3f7f0, Search Switch, 3, https://addons.mozilla.org/firefox/addon/search-switch
+005e76e1fe5b0a72860be56f59a3fdd002445fa9850dba1e65222833e9f824ff, The Prime Hunt, 6, https://addons.mozilla.org/firefox/addon/the-prime-hunt
+dbe5f9dd74f841ff5d05c7aaae09f27c4485a8346b4908e0f5e0d72abee9e9e8, FormApps Extension, 2235, https://addons.mozilla.org/firefox/addon/formapps-extension
+8bc60956d76af3e9c7c5c622e790fcedfc8472120ce5eed711454543bb43e5f9, Gamblit +, 0, https://addons.mozilla.org/firefox/addon/gamblit
+8149eb5aa54566c371888ee6362c0935dfeb019d8797299b859e07b92b4821c6, Account Per Container, 47, https://addons.mozilla.org/firefox/addon/account-per-container
+a4bb44d8db7a8b91ef486801938100bcf8d81b6db37fbce621a515dc548281ee, VaultGuard, 0, https://addons.mozilla.org/firefox/addon/e009a8dc2ff145959fe2
+d5fc6c4d88a7582a69eda546eb33f6f025dc159602847f46b02feacfa41d8817, NurseMagic, 0, https://addons.mozilla.org/firefox/addon/nursemagic
+873bb42d8a45a6a7817f4b35ba3c3c14271dd17f58efce9db30c7593971a6767, Cypherdog Encryption, 9, https://addons.mozilla.org/firefox/addon/cypherdog-encryption
+e6375cba0b9a7234c1121fe5504c90cae548dfd2a0046b250081720b93ea8861, Cert Check, 1, https://addons.mozilla.org/firefox/addon/cert-check
+3c3a3a8419b22bbceafedb60df9ba2e37fcb3089652b5d640313b8bf044473bd, Маяк аналитика маркетплейсов, 782, https://addons.mozilla.org/firefox/addon/%D0%BC%D0%B0%D1%8F%D0%BA-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%BF%D0%BB%D0%B5%D0%B9%D1%81%D0%BE%D0%B2
+8dc3c159cdea4ec3b6ec0169ea70b3067eea58eb402d594ebcc7e0bbdf6023ab, Beehiiv PDF Downloader - Export Beehiiv to PDF, MD, 0, https://addons.mozilla.org/firefox/addon/beehiiv-pdf-downloader-export
+ca716153a269a689874d0fee69f2b5aa266897780397848cff853739c33b8909, שם זה זול יותר, 20, https://addons.mozilla.org/firefox/addon/%D7%A9%D7%9D-%D7%96%D7%94-%D7%96%D7%95%D7%9C-%D7%99%D7%95%D7%AA%D7%A8
+45f40d4ffb462cfbfdaa9675a64bb53f3b72648d3cb7829a02b7b21ff2bb3c4b, DevTools Media Panel, 1555, https://addons.mozilla.org/firefox/addon/devtools-media-panel
+6aef8085bcfe6252b22dadd52a68863654a92547055bd90b42fcd43530062b06, Tidy Mastodon, 1, https://addons.mozilla.org/firefox/addon/tidy-mastodon
+a39f0d9303f4badf1042586f582c7c83e944a6d33cc0c9bd633c738f7ee3d97b, True Price - Your Shopping Assistant in Ukraine, 55, https://addons.mozilla.org/firefox/addon/true-price-%D0%BF%D0%BE%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%BA-%D0%BD%D0%B0-rozetka
+9fe304e47b4534a44b17c5a1d69cfab1fe3d35efff7ab07db750558dd87224bf, BioSeek Reader, 6, https://addons.mozilla.org/firefox/addon/bioseek_reader
+4a4e6d14dd25d9f4c34fe7ff0323245fc1b9345b491883c9abec6eb706dc5ee8, Side-by-side Search, 5, https://addons.mozilla.org/firefox/addon/side-by-side-search
+fa122ba67918f6d98f3cb14da96b26aeb9af588a8a08daf2e001e921cb4baf7c, Subtitles Seeker, 8, https://addons.mozilla.org/firefox/addon/subtitles-seeker
+75337dbdb8b454edbe98a835cac427789e74dac61adb81479efa902bc6432595, Progressive Shopperrr, 0, https://addons.mozilla.org/firefox/addon/progressive-shopperrr
+0c419aa7e65090a5d84d9b216b6f7d3ae343ab99a499e359dfcd8f528b70d015, Mastodon Air, 31, https://addons.mozilla.org/firefox/addon/mastodon-air
+d06f301fc90cbfa33ab90a85c222fc5f8888aa81ad96cbcd52d6c5099717c56c, SjzyGrpc, 1, https://addons.mozilla.org/firefox/addon/sjzygrpc
+015700ef52485699aa3ba5d9ced9ba815ad421ab822900975e308a5936f5144b, Lazy Helpers, 0, https://addons.mozilla.org/firefox/addon/lazy-helpers
+adf0698abb4834221db90f3c7b6e3bd29d76c64744dc8c300b640ac59448a9a9, Drumpfinator+, 66, https://addons.mozilla.org/firefox/addon/drumpfinator-plus
+1fa9c1dbe47cc5269d181da902f53acb5e6fd0f154dbcd5de5ef708d5c9ecee1, Débusqueur d'anglicismes, 8, https://addons.mozilla.org/firefox/addon/d%C3%A9busqueur-d-anglicismes
+d6daa31455e08534fda9afc59b1203d80ab695bf2feb294ecacdcd9ef97dd908, Chat Anywhere, 1, https://addons.mozilla.org/firefox/addon/chat-anywhere
+eee5077d6cfb6868b0cc4892197307e935be2321604907e5fa776d5bc541c1ad, Huobi Global Trader Assistant, 2, https://addons.mozilla.org/firefox/addon/huobi-global-trader-assistant
+236af962a7b38b94b62648b6f3ece87cc36c9632ccb9e928ac1fbccaeea15b48, Canvas Ninja, 3, https://addons.mozilla.org/firefox/addon/canvas-ninja
+6ed27140d737fc28c72f27be53f67ca1ee1ad27acfa8147a7eb9b434310ba793, Mostrar Fingerprint  CDV3, 1, https://addons.mozilla.org/firefox/addon/mostrar-fingerprint-cdv3
+b64455a2c6dcfb8c23619daaf22704a64342a8d653c1d9640c302abcc03e31fc, Remember to Smile, 1, https://addons.mozilla.org/firefox/addon/remember-to-smile
+61e48e87be4b87952a847d49117899068230d6ae7e5cf8f976b612ade8f8e6a3, WioKey Companion, 1, https://addons.mozilla.org/firefox/addon/wiokey-companion
+ded48aa59b18c785985ed87a686d6ceb3b4c208d6b26176903254b06b9115712, WebRoom, 0, https://addons.mozilla.org/firefox/addon/webroom
+c31f1fa015f780e6d670ca896fe9942d9a650e2f604518bdb53438786e5f5a84, Interioo Web Clipper, 2, https://addons.mozilla.org/firefox/addon/interioo-web-clipper
+ed1b8a0e2e257898b18cce958be08337c2e3ea0ab87f5e38005b885eb362e17e, CouponPe: Automatic Coupon Code, 0, https://addons.mozilla.org/firefox/addon/couponpe-automatic-coupon-code
+1c7a525d0f33bda90d97b50c55af52dae1f29666aeb27bd2cea07ced0cdaaaaf, Web Input Readline Hotkeys, 1, https://addons.mozilla.org/firefox/addon/web-input-readline-hotkeys
+09874115da70669b5288409e28623b287832994c25f75517688b93c73ba89bc3, Puleri Vault, 0, https://addons.mozilla.org/firefox/addon/puleri-vault
+3ec4f9ff4a76ba898e8d64fa749f23df6fcc09e1cf2cdf6d6ab2103e416ed247, YT Skip AD Keymap, 17, https://addons.mozilla.org/firefox/addon/yt-skip-ad-keymap
+0b851afd3c5ab20bd7a18eef391d05929c4afc781f5a23e6f8e7f38b8437a472, Cycling Try-On - Virtual Fitting Room, 1, https://addons.mozilla.org/firefox/addon/cycling-try-on-virtual-fitting
+3df728da80cdb433f471b7bb38e4a171d45dbae006f04337ca63cefc89a27c7e, CookieBot Remover, 4, https://addons.mozilla.org/firefox/addon/cookiebot-remover
+a3df35877c16dd1dade3422eb0b4e8117d86d4952b0cc771423ad112ee0260be, Deepmarks, 1, https://addons.mozilla.org/firefox/addon/deepmarks
+c3d44ea29e7d4a6ccb89e6a1bbcf48526e78211b6d8c9768b7b9971c190cdaf8, TestRail YTtestCase, 0, https://addons.mozilla.org/firefox/addon/testrail-yttestcase
+87dea4d994734f64fb50fdd8250aea75547f1503275dda91f7595fe557326690, AI Text Detector, 10, https://addons.mozilla.org/firefox/addon/ai_text_detector
+41283d4f170f299d3df015f60288945a0c521662062000bc44a947c438533183, Scientific Calculator, 97, https://addons.mozilla.org/firefox/addon/scientific-calculator
+9ec13429d9a1384b7d89792008ddcaa6d937326033ad1b6780860c7f71199eb1, Nemos: Save Anything, 0, https://addons.mozilla.org/firefox/addon/nemos-save-anything
+953636311ce3e9986cf1c7896ed7af953646cb39e6745c4eafd11c2081136616, Podcast playlist creator, 1, https://addons.mozilla.org/firefox/addon/podcast-playlist-creator
+433d570664129e81afa54c06b8a35f407ba6b79eb8d5eec70aadca0b3c664a7e, BingeFlow, 0, https://addons.mozilla.org/firefox/addon/bingeflow
+cad9f26d8d65b98cdc1640aba79bb77775886e550f080be97889176e5e835184, Resumize — AI Resume & Cover Letter Builder, 1, https://addons.mozilla.org/firefox/addon/resumize-ai-resume-cover-lette
+1cbea6225f53d1dea9f63f7c27ac7e138e95c1692f7fd88a7abcc22b4f7c0848, Video Injector, 336, https://addons.mozilla.org/firefox/addon/video-injector
+c913b2142f45ef7a1924fe3c023fb790b5b7dc327dce7c0f10446d36630ca435, Custia, 0, https://addons.mozilla.org/firefox/addon/custia
+082c68b38bf54ad98b911d8e4ea2d7e6f6389d4bed74fa42521c4f82b3670253, WebFeed-Indicator, 4, https://addons.mozilla.org/firefox/addon/webfeed-indicator
+582c5cf927fa225398abb81f8dca71ae5d3fce58b380b58b9858373fe42699b2, Krypton Authenticator, 108, https://addons.mozilla.org/firefox/addon/krypton-authenticator
+2bba9bfc9c5ee20764ab94cfe1c93a7cdbbd522674c28284e26cc3fe31021f04, StealthMail Link detector, 1, https://addons.mozilla.org/firefox/addon/stealthmail-link-detector
+3b8daf5a697eef5502c14a19dd4e11db5d5ba2dffd2e9ce35d7defda71eafb27, PropSaver 2, 20, https://addons.mozilla.org/firefox/addon/propsaver-2
+573600cfa48412cc371212afba3b41fd3d5a6525a6099230964c161ad9450adf, Better Passwork, 3, https://addons.mozilla.org/firefox/addon/better-passwork
+a4208ad2cdbc3c9105e71d6e062d3899004b7ac28f4ffcd3db452be0705507cd, SLAP LIKE NOW, 1, https://addons.mozilla.org/firefox/addon/slap-like-now
+2f19258effd21d2f612649f195fdcf8d60d028fc0647cb5309979a402dba58f4, Bitcashback, 151, https://addons.mozilla.org/firefox/addon/bitcashback
+5e5eba385c8ab3565f0da2e60a90d0c30f8c8f4eba0341b2a88dfa1a19daec7b, Secritly, 0, https://addons.mozilla.org/firefox/addon/secritly
+54deb847519961de27f2cefc13bf89fe66c8a84f8dd00467c6126d87f2e6881e, Min Log-in Assistent, 1, https://addons.mozilla.org/firefox/addon/min-log-in-assistent
+a3482550983858f5cd8fb5588b5bcfaee2399e4b3eda190a1d5a18d0fb58e34a, Twitterfier, 0, https://addons.mozilla.org/firefox/addon/twitterfier
+840917f62a313e0c18fecc45f4cad7630794b8d42d6d719669f822918ab26301, InStijl.AI Lightspeed Toolbar, 2, https://addons.mozilla.org/firefox/addon/instijl-ai-lightspeed-toolbar
+1baaab99097f420d8405acc748e720141b01b10ece042be41b969662d59eb6bb, SameSame, 9, https://addons.mozilla.org/firefox/addon/samesame
+a2d30e2b116238c85ebc0645d3682554e42c3dafdeb13d3b9162d1ef044ed7bf, ZEIT-IO-AddOn, 3, https://addons.mozilla.org/firefox/addon/zeit-io-addon
+430a6b2524496c6ac235242a59b8d8e1ac57d4b377b43ca9dd7f82e61460adb5, msg.mg, 0, https://addons.mozilla.org/firefox/addon/msg-mg
+3a0a50f53ad1a77ba6e36c0ca16b888296b4f538f765eda47c8dab332bf89e3c, EarnBetter - AI Autofill, 8, https://addons.mozilla.org/firefox/addon/earnbetter-ai-autofill
+588c12eac0f5821187a29359db51a6be1a66b3c92aed37abda6a4615b7ea582e, Vera, 4, https://addons.mozilla.org/firefox/addon/vera
+0af1ce101cee7f6ab8374c2eed6684ccf25114b3bf68342ee952169c40b736d4, Better Jira, 54, https://addons.mozilla.org/firefox/addon/better-jira
+817264983e627d1d3228a22a35ba5390248bcdc8fa76a922720eb242caeafae8, GG.deals – Compare Game Prices, 953, https://addons.mozilla.org/firefox/addon/gg-deals-compare-game-prices
+eff8cf639be7d85b6984cb07ae819ccae2aa02dafc35f6cc9e1a0a22ffd09e10, Froutify, 2, https://addons.mozilla.org/firefox/addon/froutify
+e6315e0d864253d7a43ebdf36e7068e73ac75f4829c6fa77331604fcb7e413ee, PrivacyGuard, 1, https://addons.mozilla.org/firefox/addon/privacy_guard
+4d9af6a80018b4f1566811cc52a46f44fcd62f73bacfca013e36e4ec1060031f, AlgoVoi, 1, https://addons.mozilla.org/firefox/addon/algovoi
+e5c6846b4d534a56f67e20b2f4c8d2e53c11f24639aa05bf35cec0e7e83e4ddd, Codecode Review for GitLab, 7, https://addons.mozilla.org/firefox/addon/codecode-gitlab-code-review
+6a861d7aa8d5c375716037fcffd5120b07ca261358c02519d8e1379c6212864f, Reading Highlighter, 0, https://addons.mozilla.org/firefox/addon/reading-highlighter
+3e3826f5a072b3e0df3d854ccf4cf2acfc9ab4a491446c041b27134daaaa21cd, Patreon PDF Downloader - Export Patreon to PDF, MD, 2, https://addons.mozilla.org/firefox/addon/patreon-pdf-downloader-export
+ed1ea3e699057f3be26d46a04e71b119c532ccf52ce7147164867a2f588ca7cb, Moneyoyo Ingergration Checker, 2, https://addons.mozilla.org/firefox/addon/moneyoyo-ingergration-checker
+310726a727c094cc06719bb6818efab82f336336a14efa074ed89b2f2fd28fa1, Datarag - Keep Your Browser History Forever, 1, https://addons.mozilla.org/firefox/addon/datarag-ai
+ec417b8727225f00796e9a8b518364d25b5763e0755193881d004801540f985f, Meme Stealer-Inator, 0, https://addons.mozilla.org/firefox/addon/meme-stealer-inator
+896675954b05899a357b9b0b84b283fe4247fa1a84e1670ea28872a956f1d159, Epic Fill, 0, https://addons.mozilla.org/firefox/addon/epic-fill
+6cb617a62b99c6b7d4d094ca04eabbcf70b9c119075a92234a13a94f9625ae47, Logito Client Bridge - test v1, 0, https://addons.mozilla.org/firefox/addon/logito-client-bridge-test-v1
+4b83811e52ace4bec0007513835eaa8ef1022135e87097ebdb510939838a5a56, Kotoba Libre OpenID Redirector, 0, https://addons.mozilla.org/firefox/addon/kotoba-libre-openid-redirector
+76383947e169e18bf16d0ddc2fb81c6545f6159701138d694740861f1d090c52, Usop settings, 1, https://addons.mozilla.org/firefox/addon/usop-settings
+517dbab74b0306a0a7ade61408aeb6b0a132822bf3caa7e04489350c456b7df6, YouTrack Plus, 1, https://addons.mozilla.org/firefox/addon/youtrackplus
+7228fde8298d8d1b2c705acb3fdc0e395278f53d0d9f678a31fff68516a94a42, Nyx DotSkip Adds, 1, https://addons.mozilla.org/firefox/addon/nyxdotskipadds
+59cb934b094f023098109d0736657ca7219c9f27cbab15ab456869845fdc4969, OneWolf Guard, 0, https://addons.mozilla.org/firefox/addon/onewolf-guard
+687213571ced9ca272e5a626343fb0363296c12687e11d559dab0beaafbe7062, Proutify, 174, https://addons.mozilla.org/firefox/addon/proutify
+bde2d92358c1072c5b5d3946613d9b05f1f0a0e5a3417af4f9e0babd17cb3c40, SecureInvuller, 1, https://addons.mozilla.org/firefox/addon/secureinvuller
+ed05e0c62fa0ff14ab2fbe4d4b9b7fab243bcd76925b2fff5d22511bf835168b, Myti Local Finder, 17, https://addons.mozilla.org/firefox/addon/myti-local-finder
+17d318e29067c58c62c112dfbf78f61ded05ff359fd69202a6f809d4f3ef5b88, КриптоГОСТ.Плагин 2, 21, https://addons.mozilla.org/firefox/addon/infosysco-crypto-plugin
+c4f97b099d5d90b2e55c47d028db35008d1817173084b54138811298d028b477, Ghost PDF Downloader - Export Ghost to PDF, MD, 1, https://addons.mozilla.org/firefox/addon/ghost-pdf-downloader-export
+361f74b21c5ff62106013379b40d07a262d9b295f9bb677ad8df0361b60e79fd, ThreatAware, 1, https://addons.mozilla.org/firefox/addon/threataware
+7ceb993d28ddc59f909e20688f23a9cbec196617a9a6605a59abde9b21d20a71, Sci-Hub in Google Scholar, 248, https://addons.mozilla.org/firefox/addon/sci-hub-in-google-scholar
+84fecafa501d241b891684c8459ef591499dc2db3d8e170d5e764448370fad5e, Pepega Catch!, 8, https://addons.mozilla.org/firefox/addon/pepega-catch
+9126209c86252aacd0fc4dfde0e9e49baeece8598eb4ee963e7478b294d3337a, Pomelo Productivity, 0, https://addons.mozilla.org/firefox/addon/pomelo-productivity
+d9cb5463c34761c0c8c2bc0227bacd7c2256c251f5e3002b07e494592da9d0c7, ZDialer - Zoho Voice Extension, 169, https://addons.mozilla.org/firefox/addon/zdialer-zoho-voice-extension
+a585141a3e553c8a7cdeeba66be54bba24ed1f6b27cae0838244c28c872e3183, TestRail Tooltips, 0, https://addons.mozilla.org/firefox/addon/testrail-tooltips
+3ce2aeaa14e56c54e50f87f30bd340dff90016578272bdd698e605cdf21e45db, Polidex, 1, https://addons.mozilla.org/firefox/addon/polidex
+8b378ad02cb1ea176cf4df91878512630275c068e4d817047b0d0ed5c3e2a207, JobChef, 0, https://addons.mozilla.org/firefox/addon/jobchef
+59ce32d2433ceeb2bd52d80eff38773663fd73a0448c9685b7c1c99f872781ee, Hatena Keyword Remover, 2, https://addons.mozilla.org/firefox/addon/hatena-keyword-remover
+69fdacc4ba91aae13b8e8abdef6dfe0f15c71447c53addabf78ef5f7a7b067e7, AutoSkipYT for YouTube – Skip Ads Automatically, 740, https://addons.mozilla.org/firefox/addon/autoskipyt
+a11347f17c691dd13c8af885a4b5ea02dcc57d40cf54d73b1b57c14a63a9349c, Manage My Tabs - Tab Manager, 38, https://addons.mozilla.org/firefox/addon/manage-my-tabs
+1c7db3eca09ce0c0c423aba8998e523024b0f90ad31b8e57da9b4642c93752d4, Wtop, 0, https://addons.mozilla.org/firefox/addon/wtop

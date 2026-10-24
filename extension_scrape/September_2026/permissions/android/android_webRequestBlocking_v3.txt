@@ -1,0 +1,2 @@
+Extension Hash, Name, User Count, URL
+80c5ae21f48c998ad610368e1c864f04fc800afdc647affb2a6fb9a420601990, Decentraleyes, 248409, https://addons.mozilla.org/firefox/addon/decentraleyes

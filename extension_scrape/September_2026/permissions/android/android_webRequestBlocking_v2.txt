@@ -1,0 +1,13 @@
+Extension Hash, Name, User Count, URL
+bb92960417597b3cfc11afa62978e420cf4cdf131400394ed26b1aa3dd5bc50b, Ghostery – Privacy Ad Blocker, 1013442, https://addons.mozilla.org/firefox/addon/ghostery
+adae33594acfcac790b7ab8dc14afa8a1da87f053efb9a3946e6dfb50a2cfb61, Dark Background and Light Text, 24174, https://addons.mozilla.org/firefox/addon/dark-background-light-text
+19c4b91e915533afec5395c5d675fd4f7201fd8954bfa85748301df50447cd55, Web Archives, 68256, https://addons.mozilla.org/firefox/addon/view-page-archive
+d6d32e514dc479677627f68a458794cc5ab77b44cd75c336d59d3a96858f698f, Chrome Mask, 57570, https://addons.mozilla.org/firefox/addon/chrome-mask
+a34a36cf3d37a8b6cfe0272d72d90a532dcae5b0f05d043ac7531a67fe3d55cd, Stylus, 135337, https://addons.mozilla.org/firefox/addon/styl-us
+c7a699df7b1ce9248dabb3d8ae49d9e2598f09b213aea4730fd9b4ddb8b925be, uBlock Origin, 11159735, https://addons.mozilla.org/firefox/addon/ublock-origin
+7962f4e01b79e0f24331d2073f8a6bc0425cd633f64e9d61b9cbb3755647a7a9, Google Search Fixer, 99671, https://addons.mozilla.org/firefox/addon/google-search-fixer
+23378ffc11227f587b626e0023c43ca790446b710eba8e1365c21ccf43254594, Search by Image, 456518, https://addons.mozilla.org/firefox/addon/search_by_image
+d4cd2f7eadb1bfc335adfaa5e2afd3a79d4bfcd6e801260bcca70914274f92e5, ClearURLs, 513644, https://addons.mozilla.org/firefox/addon/clearurls
+a22aa7325b8770a379734a275297ffe6f71b779db5d2ae6360642762e8a7447e, NoScript Security Suite, 240414, https://addons.mozilla.org/firefox/addon/noscript
+7d8b4b4107df66b5c786787c21cd26dba417741cd1043c19744377b131cf237e, AdGuard AdBlocker, 1791711, https://addons.mozilla.org/firefox/addon/adguard-adblocker
+b7842b9c1f396de3ce7e6d2956f3ee9e6bad28e7d48f262d47a81ac72b30d369, Privacy Badger, 1865869, https://addons.mozilla.org/firefox/addon/privacy-badger17

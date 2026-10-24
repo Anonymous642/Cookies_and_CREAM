@@ -1,0 +1,3 @@
+Extension Hash, Name, User Count, URL
+bb92960417597b3cfc11afa62978e420cf4cdf131400394ed26b1aa3dd5bc50b, Ghostery – Privacy Ad Blocker, 1013442, https://addons.mozilla.org/firefox/addon/ghostery
+7d8b4b4107df66b5c786787c21cd26dba417741cd1043c19744377b131cf237e, AdGuard AdBlocker, 1791711, https://addons.mozilla.org/firefox/addon/adguard-adblocker
