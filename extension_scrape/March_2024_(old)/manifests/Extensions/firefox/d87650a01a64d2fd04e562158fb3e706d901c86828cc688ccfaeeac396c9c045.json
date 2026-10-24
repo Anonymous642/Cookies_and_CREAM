@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Amasin", "version": "0.0.1", "description": "Amazon ASIN helper", "permissions": ["contextMenus", "clipboardWrite", "activeTab"], "icons": {"48": "icons/amasin_icon_48.png"}, "background": {"scripts": ["amasin_background.js"]}}

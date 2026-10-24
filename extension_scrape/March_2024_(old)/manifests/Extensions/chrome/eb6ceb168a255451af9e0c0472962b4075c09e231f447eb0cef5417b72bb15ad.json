@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Nur Shalgy", "version": "1.0", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "permissions": ["activeTab"], "icons": {"16": "scythe16.png", "48": "scythe48.png", "128": "scythe128.png"}}

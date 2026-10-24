@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Note Pronote", "version": "1.2", "description": "Affiche la moyen g\u00e9n\u00e9rale", "icons": {"48": "icons/pronote-48x48.png"}, "content_scripts": [{"matches": ["*://*.index-education.net/*"], "js": ["code.js"]}], "browser_specific_settings": {"gecko": {"id": "{573d28d3-4cb0-4660-984b-9fd2e1ecd201}"}}}

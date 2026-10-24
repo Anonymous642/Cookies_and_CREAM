@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_appName__", "description": "__MSG_appDesc__", "default_locale": "en", "manifest_version": 2, "version": "0.0.1", "permissions": ["notifications"], "icons": {"128": "128.png"}, "app": {"launch": {"container": "tab", "web_url": "http://www.fuarhome.com/"}, "urls": ["http://www.fuarhome.com/"]}}

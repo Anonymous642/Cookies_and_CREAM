@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Logout social", "version": "0.1", "description": "Logsout of social accounts when the tab is closed", "background": {"scripts": ["bg.js"], "persistent": true}, "permissions": ["tabs", "background", "cookies", "idle", "https://twitter.com/*"]}

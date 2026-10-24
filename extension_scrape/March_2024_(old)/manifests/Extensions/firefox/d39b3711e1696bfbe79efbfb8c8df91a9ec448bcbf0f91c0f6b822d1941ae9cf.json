@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gray Facebook Notifications", "version": "1.0", "description": "Makes Facebook less addictive by making notificatiosn gray instead of red", "icons": {"48": "gray-icon.png"}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["gray-facebook-notifs.js"]}]}

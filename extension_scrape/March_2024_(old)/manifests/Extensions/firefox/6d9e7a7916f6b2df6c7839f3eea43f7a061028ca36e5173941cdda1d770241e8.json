@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dimer", "version": "0.2", "description": "Display local time on discord. Always.", "icons": {"48": "/icon.png"}, "browser_action": {"browser_style": true, "default_icon": {"48": "/icon.png"}, "default_title": "Dimer"}, "content_scripts": [{"matches": ["*://discord.com/*"], "js": ["dime.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Happy Holi 2023", "version": "0.1", "manifest_version": 3, "background": {"service_worker": "background.js"}, "permissions": ["scripting", "activeTab"], "action": {"default_popup": "popup.html"}}

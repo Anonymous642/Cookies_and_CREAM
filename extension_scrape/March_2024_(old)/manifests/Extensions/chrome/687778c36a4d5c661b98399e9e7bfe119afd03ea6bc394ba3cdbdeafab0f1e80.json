@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Mute Yourself", "version": "1.0", "manifest_version": 2, "description": "Remove share facebook textarea", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "permissions": ["*://*.facebook.com/"], "content_scripts": [{"matches": ["*://www.facebook.com/"], "css": ["application.css"]}]}

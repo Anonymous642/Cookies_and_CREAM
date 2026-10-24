@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"launch": {"local_path": "index.html"}}, "description": "Simple Counter App", "icons": {"16": "assets/icon16.png", "48": "assets/icon48.png", "128": "assets/icon128.png"}, "manifest_version": 2, "name": "Simple Counter", "permissions": ["clipboardWrite"], "version": "2.3"}

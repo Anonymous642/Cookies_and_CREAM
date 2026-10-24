@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tatask", "version": "1.0.1", "description": "Take control of your tasks on your new tab page. Use nested tasks to transform your complex life into simple chunks.", "permissions": ["tabs"], "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"48": "icon.png"}}

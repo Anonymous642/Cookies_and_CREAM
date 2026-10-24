@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "IgnoreBilibiliComments", "version": "1.0", "description": "Ignore those comments on Bilibili that '@' others", "icons": {"48": "icons/index.jpg"}, "content_scripts": [{"matches": ["*://*.bilibili.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{271a20a7-26a8-4a39-8afe-bf3660bd9b68}"}}}

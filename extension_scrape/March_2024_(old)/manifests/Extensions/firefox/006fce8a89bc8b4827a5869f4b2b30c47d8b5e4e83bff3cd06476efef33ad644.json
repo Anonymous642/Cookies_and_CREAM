@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quote Generator", "version": "1.1.0", "content_scripts": [{"matches": ["<all_urls>"], "js": ["app.js"]}], "browser_action": {"default_icon": "icon/quote.png", "default_popup": "index.html", "default_title": "Quote Generator"}, "browser_specific_settings": {"gecko": {"id": "{0510db72-cd3e-4e17-a4d5-f65a52f9f433}"}}}

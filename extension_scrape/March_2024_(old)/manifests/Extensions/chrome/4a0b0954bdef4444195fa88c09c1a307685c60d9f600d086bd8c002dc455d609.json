@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Comfort Inn", "description": "Comfort Inn ", "version": "5.0.6", "author": "Comfort Inn", "browser_action": {"default_title": "Find Hotels", "default_icon": "icon.png"}, "background": {"scripts": ["background.js"]}, "permissions": []}

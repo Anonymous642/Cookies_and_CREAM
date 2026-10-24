@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Mahjong Solitaire", "version": "1.1.3", "description": "Mahjong solitaire game, with two players mode (turn based).", "icons": {"48": "images/icon48.png", "128": "images/icon128.png"}, "app": {"background": {"scripts": ["background.js"]}}, "manifest_version": 2, "permissions": ["storage"]}

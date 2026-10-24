@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Wikipedia Context Menu", "developer": {"name": "smt923", "url": "https://github.com/smt923"}, "version": "0.0.3", "description": "Use the context menu to quickly lookup the selected text on Wikipedia.", "permissions": ["contextMenus"], "background": {"scripts": ["bg.js"]}}

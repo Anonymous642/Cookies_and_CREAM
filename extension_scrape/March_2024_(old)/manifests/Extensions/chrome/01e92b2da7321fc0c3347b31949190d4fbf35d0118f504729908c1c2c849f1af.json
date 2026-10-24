@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "\u96f7\u97f3\u7ffb\u8bd1", "description": "\u96f7\u97f3\u6d4f\u89c8\u5668\u63d2\u4ef6\u7ffb\u8bd1\u5de5\u5177.", "version": "1.0", "permissions": ["http://www.yeedt.com"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "JakeNScrape", "action": {}, "manifest_version": 3, "version": "3.1", "description": "Imports linkedIn contact into WinSearch CRM for internal use by DAVRON, LLC.", "icons": {"616": "images/STWS.png"}, "permissions": ["activeTab"], "background": {"service_worker": "background.js"}}

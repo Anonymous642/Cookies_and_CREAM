@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "LootGen", "version": "1.1", "description": "Generates loot for dnd game", "browser_specific_settings": {"gecko": {"id": "ElksStash9829@gmail.com"}}, "icons": {"48": "chest.png"}, "action": {"default_popup": "LootExtension.html"}}

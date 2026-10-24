@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "imdb_sort", "version": "1.0", "permissions": ["http://www.imdb.com/*", "http://www.omdbapi.com/*"], "content_scripts": [{"matches": ["http://www.imdb.com/*"], "js": ["jquery.js", "sorttable.js", "imdb_sort.js"], "run_at": "document_end"}]}

@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "TGRT FM", "description": "\u015eimdilik D\u00fcnya Dinliyor.", "version": "1.4", "manifest_version": 2, "app": {"launch": {"web_url": "http://www.tgrt-fm.com.tr"}}, "icons": {"128": "128x128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TimeTracker", "version": "1.0", "description": "A simple time tracker extension", "homepage_url": "https://github.com/krullmizter/timetracker", "browser_action": {"default_title": "TimeTracker", "default_popup": "popup/popup.html"}}

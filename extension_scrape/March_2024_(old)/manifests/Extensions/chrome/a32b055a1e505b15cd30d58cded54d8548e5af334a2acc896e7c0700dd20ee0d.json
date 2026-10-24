@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.0.0", "name": "Base64 Encoder", "description": "Encode text to Base64 string.", "icons": {"128": "128.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus"], "update_url": "https://clients2.google.com/service/update2/crx"}

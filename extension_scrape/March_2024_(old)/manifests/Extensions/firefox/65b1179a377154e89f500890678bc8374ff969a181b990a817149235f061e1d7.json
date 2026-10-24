@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "EXT-dl", "description": "Press the extension icon while on the webstore page", "version": "0.6", "icons": {"256": "icon.png"}, "background": {"scripts": ["background.js"], "persistent": false}, "browser_action": {"default_icon": "icon.png"}, "permissions": ["https://clients2.google.com/*", "https://*/*", "downloads", "tabs"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "SpeakClient", "version": "1.1", "app": {"background": {"scripts": ["background.js"]}}, "externally_connectable": {"matches": ["*://collinsej.atspace.cc/*"]}, "icons": {"128": "128.png"}, "sockets": {"udp": {"bind": "", "send": ""}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fix Brain.FM", "version": "1.0.2", "description": "Fixes malformed headers sent by brain.fm templates endpoint", "permissions": ["webRequest", "webRequestBlocking", "https://www.brain.fm/"], "background": {"scripts": ["bg.js"]}}

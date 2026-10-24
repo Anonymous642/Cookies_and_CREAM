@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CleanBilibili", "version": "1.0", "description": "This plugin can hide comments/recommendes area of bilibili.", "icons": {"48": "CleanBilibili-48.png"}, "content_scripts": [{"matches": ["*://*.bilibili.com/video/*"], "js": ["clear.js"]}], "browser_specific_settings": {"gecko": {"id": "{28434bdd-601e-4663-9f6a-d3ab2bedfc85}"}}}

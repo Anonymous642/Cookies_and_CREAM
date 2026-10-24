@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No Rune", "version": "0.0.1", "description": "Removes stories about Holger Rune on dr.dk/nyheder", "content_scripts": [{"matches": ["https://www.dr.dk/nyheder"], "js": ["no_rune.js"]}], "browser_specific_settings": {"gecko": {"id": "{bcba62db-da85-40ed-8095-ac0073dc5115}"}}}

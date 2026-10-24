@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Instagram", "version": "1.0", "description": "Change the instagram background to dark theme.", "icons": {"48": "black.jpg"}, "content_scripts": [{"matches": ["*://*.instagram.com/*"], "js": ["instagramdark.js"]}], "browser_specific_settings": {"gecko": {"id": "{2f40edbc-01eb-4563-a656-19dd4a210406}"}}}

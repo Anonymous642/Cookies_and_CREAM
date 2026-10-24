@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "NRVA", "description": "URL Shortener for SPAN", "version": "1.0.0", "permissions": ["tabs", "*://*.nureva.com/*"], "browser_action": {"default_icon": {"16": "span-16.png", "32": "span-32.png"}, "default_title": "NRVA", "default_popup": "popup.html"}}

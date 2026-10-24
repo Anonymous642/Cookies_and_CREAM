@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "MP Field Test for Chrome", "version": "1.201", "app": {"background": {"scripts": ["main.js"], "persistent": false}}, "permissions": ["webview", "tts", "storage", "http://*/", "https://*/"], "icons": {"16": "mp16.png", "128": "mp128.png"}, "kiosk_enabled": true}

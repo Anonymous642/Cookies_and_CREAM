@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "cold hotstar", "version": "1.1", "icons": {"16": "icon/time_19.png", "32": "icon/time_19.png", "64": "icon/time_19.png"}, "browser_action": {"default_icon": "icon/time_19.png", "default_title": "shoot"}, "permissions": ["storage", "browsingData", "activeTab", "tabs"], "background": {"scripts": ["background_script.js"]}}

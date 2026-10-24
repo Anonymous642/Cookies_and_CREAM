@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "banana Reader", "description": "epub reader for ebooks from booksoho.com", "version": "1.5", "icons": {"128": "icon128.png"}, "app": {"urls": ["http://booksoho.com/reader/"], "launch": {"web_url": "http://booksoho.com/reader/"}}}

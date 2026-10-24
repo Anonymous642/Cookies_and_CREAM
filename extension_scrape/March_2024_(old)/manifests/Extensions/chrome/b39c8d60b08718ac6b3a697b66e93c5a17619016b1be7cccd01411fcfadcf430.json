@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Incognito Button", "description": "Simple Incognito toolbar button.", "version": "1.0", "background": {"service_worker": "background.js"}, "permissions": ["storage"], "options_ui": {"page": "options.html", "open_in_tab": false}, "action": {}, "icons": {"128": "assets/icon128.png"}}

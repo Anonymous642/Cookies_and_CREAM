@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VA to PX/EM", "version": "1.0", "description": "An extension that converts Photoshop VA value to PX or EM for web.", "icons": {"48": "48.png", "96": "96.png"}, "browser_action": {"default_popup": "vatopxem.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{d6ba0b93-718d-455b-bf62-9ca259674895}"}}}

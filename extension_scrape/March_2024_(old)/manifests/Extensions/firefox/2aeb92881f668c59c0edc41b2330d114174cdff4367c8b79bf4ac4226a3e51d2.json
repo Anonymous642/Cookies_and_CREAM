@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "modify-page", "version": "1.0", "browser_action": {"default_icon": {"16": "icons/page-16.png", "32": "icons/page-32.png"}, "default_title": "Modify Classes"}, "permissions": ["activeTab"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{d137b52b-3fb0-43c6-a564-051ab7273ae9}"}}}

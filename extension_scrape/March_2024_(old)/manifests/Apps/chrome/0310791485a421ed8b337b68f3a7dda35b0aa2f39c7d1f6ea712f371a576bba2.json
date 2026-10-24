@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Essence E-Services", "description": "Essence E-Services Social Media Marketing", "version": "1.0", "icons": {"128": "icon.png"}, "app": {"urls": ["http://essence-eservices.com/"], "launch": {"web_url": "http://essence-eservices.com/"}}}

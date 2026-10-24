@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove Apply Player From Genius", "version": "1.0", "description": "Removes the screen obscuring Apple Player from Genius.com", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://*.genius.com/*"], "js": ["remove-apple-player-genius.js"]}]}

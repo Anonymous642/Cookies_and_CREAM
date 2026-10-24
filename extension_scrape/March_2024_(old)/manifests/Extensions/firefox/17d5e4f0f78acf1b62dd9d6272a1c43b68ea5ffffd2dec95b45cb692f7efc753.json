@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Kill Swine", "version": "1.2", "description": "Plugin que evitar suinos no forumoff", "icons": {"48": "icons/swine-48.png", "64": "icons/swine-64.png"}, "content_scripts": [{"matches": ["*://*.forumoff.com/*"], "js": ["swine.js"], "run_at": "document_end"}]}

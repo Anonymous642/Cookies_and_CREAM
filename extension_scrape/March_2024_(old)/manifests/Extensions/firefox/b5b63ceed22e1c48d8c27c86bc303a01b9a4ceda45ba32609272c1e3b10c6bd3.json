@@ -1,0 +1,1 @@
+{"name": "Bookmark Xmagic | Truy c\u1eadp nhanh xmagic.vn", "version": "1.0", "manifest_version": 2, "description": "Bookmark truy c\u1eadp nhanh website xmagic.vn", "homepage_url": "https://xmagic.vn", "browser_action": {"default_popup": "popup.html"}, "icons": {"16": "icons/logo16.png", "48": "icons/logo64.png", "128": "icons/logo128.png"}}

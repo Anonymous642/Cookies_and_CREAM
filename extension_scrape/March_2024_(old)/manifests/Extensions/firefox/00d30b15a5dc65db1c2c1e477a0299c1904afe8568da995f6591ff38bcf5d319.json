@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ad-bricoBlocker", "version": "3.0", "description": "Block ads and pop-ups", "icons": {"48": "icons/abricot.png"}, "content_scripts": [{"run_at": "document_start", "matches": ["<all_urls>"], "js": ["main_blocker.js"]}], "browser_specific_settings": {"gecko": {"strict_min_version": "65.0", "id": "{8acf3ae4-6bb4-4cae-99b1-5da239e434ea}"}}}

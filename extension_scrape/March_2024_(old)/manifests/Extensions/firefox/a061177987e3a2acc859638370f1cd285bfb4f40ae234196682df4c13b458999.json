@@ -1,0 +1,1 @@
+{"description": "", "manifest_version": 2, "name": "NoMobile", "version": "1.1", "homepage_url": "https://stevenwebsiteinbox@bitbucket.org/stevenwebsiteinbox/nomobile", "icons": {"48": "icons/icon.png"}, "applications": {"gecko": {"id": "nomobile@mozilla.org", "strict_min_version": "45.0"}}, "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["nomobile.js"]}]}

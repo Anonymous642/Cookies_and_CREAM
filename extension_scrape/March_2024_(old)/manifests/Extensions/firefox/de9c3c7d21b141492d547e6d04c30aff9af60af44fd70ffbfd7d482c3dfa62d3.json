@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Steam Search Popularity FIlter", "version": "1", "description": "Gives the ability to filter search results based on popularity of games.", "content_scripts": [{"js": ["popularity_filter.js"], "css": ["style.css"], "matches": ["http://store.steampowered.com/search/*"]}]}

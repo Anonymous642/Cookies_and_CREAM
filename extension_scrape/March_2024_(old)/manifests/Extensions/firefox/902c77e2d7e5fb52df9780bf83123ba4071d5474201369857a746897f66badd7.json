@@ -1,0 +1,1 @@
+{"description": "A dynamic Firefox theme made for San Francisco Shock fans. Reskins the browser based on time of day.", "manifest_version": 2, "name": "Shock Theme", "permissions": ["alarms", "tabs", "theme"], "background": {"scripts": ["background.js"]}, "version": "1.0", "browser_specific_settings": {"gecko": {"strict_min_version": "55.0a2"}}}

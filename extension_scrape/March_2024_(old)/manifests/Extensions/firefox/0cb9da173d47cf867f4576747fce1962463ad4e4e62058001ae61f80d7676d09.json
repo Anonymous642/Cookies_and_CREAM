@@ -1,0 +1,1 @@
+{"name": "Meetrics-Unmeasurable", "version": "1.0", "manifest_version": 2, "description": "Blocks requests from Meetrics to prevent tracking", "icons": {"48": "Icon_48x48.png"}, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["unread.js"]}}

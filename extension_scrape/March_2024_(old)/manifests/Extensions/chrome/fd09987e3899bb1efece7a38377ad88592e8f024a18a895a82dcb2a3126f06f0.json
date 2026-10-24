@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Ayrton", "description": "Extension officiel du YouTuber Ayrton", "version": "1.0.01", "browser_action": {"default_popup": "index.html"}, "icons": {"64": "img/icon_64.png", "128": "img/128.png"}, "background": {"scripts": ["background.js"]}}

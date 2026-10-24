@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quora nightly", "version": "1.1", "description": "Quora nightly style", "background": {"scripts": ["nightly.js"]}, "page_action": {"default_icon": "icons/icon.png", "browser_style": true}, "permissions": ["activeTab", "tabs", "storage", "*://*.quora.com/*"]}

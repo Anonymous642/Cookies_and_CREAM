@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Magic 8 Ball", "description": "Answers your yes or no question", "version": "1.2", "manifest_version": 2, "app": {"urls": ["http://8ball.appb.in/"], "launch": {"web_url": "http://8ball.appb.in/"}}, "icons": {"128": "icon_128.png"}, "permissions": []}

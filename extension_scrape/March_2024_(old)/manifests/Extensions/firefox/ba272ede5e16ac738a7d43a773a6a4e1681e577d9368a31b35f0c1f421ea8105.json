@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "hltv-no-forum", "version": "1.0", "description": "Removes Forum Sidebar from hltv.org", "content_scripts": [{"matches": ["*://*.hltv.org/*"], "js": ["remove-forum.js"]}]}

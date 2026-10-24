@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fake news Identifier", "version": "1.1.1", "description": "An Add-on for identifying the fake news which are spreading on the internet.", "icons": {}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["script.js"]}]}

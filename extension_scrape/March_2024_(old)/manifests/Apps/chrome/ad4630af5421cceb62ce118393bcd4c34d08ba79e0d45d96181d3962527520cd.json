@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MP3Toolbox.net", "description": "Convert videos to MP3 and MP3 to video", "version": "1.0", "manifest_version": 2, "icons": {"128": "manifest_icon_128.png"}, "app": {"urls": ["http://mp3toolbox.net/"], "launch": {"web_url": "http://mp3toolbox.net/"}}}

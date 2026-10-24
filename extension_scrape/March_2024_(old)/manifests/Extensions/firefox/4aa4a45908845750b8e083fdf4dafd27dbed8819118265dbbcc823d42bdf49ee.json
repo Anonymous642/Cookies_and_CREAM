@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Abstract PDF Switcher", "version": "1.0", "description": "Switch between abstracts and pdfs", "permissions": ["tabs"], "icons": {"48": "icons/outline-compare_arrows-24px.svg"}, "background": {"scripts": ["switch.js"]}, "page_action": {"default_icon": "icons/outline-compare_arrows-24px.svg", "default_title": "ABS-PDF Switcher"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ZapzapAudio2x", "description": "O ZapzapAudio2x possibilita ouvir os \u00e1udios do whatsapp com o dobro de velocidade.", "version": "0.1", "icons": {"128": "128.png"}, "content_scripts": [{"matches": ["https://web.whatsapp.com/"], "css": ["style.css"], "js": ["content.js"]}]}

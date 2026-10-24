@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ApkWires Task Saver", "version": "1.3", "description": "ApkWires task saver to save important tasks for later to work on.", "icons": {"48": "icons/icon.png"}, "action": {"default_popup": "popup.html", "default_icon": {"48": "icons/icon.png"}}, "permissions": ["storage"]}

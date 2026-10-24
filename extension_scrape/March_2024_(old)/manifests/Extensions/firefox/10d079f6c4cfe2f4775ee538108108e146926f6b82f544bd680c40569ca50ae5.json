@@ -1,0 +1,1 @@
+{"name": "Shell Shockers io", "description": "Shell Shockers io. Would you prefer to play Shell Shockers ? Play this sport online totally free.", "version": "1.0", "manifest_version": 2, "permissions": ["tabs", "bookmarks"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_action": {"default_icon": "icon.png", "default_title": "Shell Shockers io"}}

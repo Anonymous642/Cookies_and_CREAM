@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Disallow console.clear", "version": "1.2.1", "description": "Disallows use of the console.clear() function on all websites.", "author": "timmyRS", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_start"}]}

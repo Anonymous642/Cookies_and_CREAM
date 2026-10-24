@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RollBlock", "version": "1.0", "description": "Blocks attempts at rickrolls.", "icons": {"48": "icons/rick-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/watch?v=dQw4w9WgXcQ*"], "js": ["rollblock.js"]}]}

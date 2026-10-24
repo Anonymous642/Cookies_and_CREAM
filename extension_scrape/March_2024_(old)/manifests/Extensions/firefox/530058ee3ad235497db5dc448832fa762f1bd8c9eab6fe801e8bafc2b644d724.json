@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tureng Search Plugin", "description": "description", "version": "0.0.1", "icons": {"16": "icons/icon.png"}, "chrome_settings_overrides": {"search_provider": {"name": "Tureng", "search_url": "https://tureng.com/en/turkish-english/{searchTerms}", "favicon_url": "https://www.google.com/s2/favicons?domain=https://tureng.com/", "keyword": "tur"}}}

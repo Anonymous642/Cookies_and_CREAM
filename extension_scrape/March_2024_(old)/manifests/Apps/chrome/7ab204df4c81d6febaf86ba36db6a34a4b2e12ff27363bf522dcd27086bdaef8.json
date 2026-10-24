@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Stoptimer", "description": "A simple stoptimer", "offline_enabled": true, "version": "0.2", "app": {"background": {"scripts": ["app.js", "jquery.js", "background.js"]}}, "icons": {"128": "img/thumb_128.png"}}

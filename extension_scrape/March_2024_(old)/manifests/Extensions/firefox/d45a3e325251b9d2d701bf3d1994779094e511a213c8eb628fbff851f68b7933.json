@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove_New", "version": "0.1", "description": "Remove the little bubble that says 'New' on the tumblr store icon.", "content_scripts": [{"matches": ["*://*.tumblr.com/*"], "js": ["remove_new.js"]}], "browser_specific_settings": {"gecko": {"id": "{d362e4b8-3d89-44a4-87cd-e0f953b65590}"}}}

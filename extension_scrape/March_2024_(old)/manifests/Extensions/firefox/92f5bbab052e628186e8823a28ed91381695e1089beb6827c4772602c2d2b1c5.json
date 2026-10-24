@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Kompas Banner Remover", "version": "1.0", "description": "Remove annoying kompas site banner.", "icons": {"48": "remover.png"}, "content_scripts": [{"matches": ["*://kompas.id/*"], "js": ["remover.js"]}]}

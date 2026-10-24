@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "3D Anatomy Learning", "description": "FREE Anatomical 3D Real-time viewer .", "version": "1.0.0.2", "manifest_version": 2, "icons": {"16": "icon16.png", "128": "icon128.png"}, "app": {"urls": ["http://AnatomyLearning.com/"], "launch": {"web_url": "http://AnatomyLearning.com/"}}}

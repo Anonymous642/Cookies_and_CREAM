@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"background": {"scripts": ["background.js"]}}, "manifest_version": 2, "name": "Today Is Important", "version": "0.0.1", "permissions": ["storage", "unlimitedStorage"], "description": "To record what you want to do today or pass though", "icons": {"128": "schs.png"}}

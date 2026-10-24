@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Jakttider i Finland", "description": "This extension demonstrates hunting times for Finland.", "version": "1.1", "browser_action": {"default_icon": "deer3.png", "default_popup": "popup.html"}, "permissions": []}

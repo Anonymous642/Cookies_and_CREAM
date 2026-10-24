@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Transliterate", "version": "1.0.1", "description": "transliterate texts", "icons": {"48": "icons/transliterate.svg"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/transliterate.svg", "default_title": "Transliterate", "default_popup": "selector.html"}, "web_accessible_resources": ["NotoSansShavianRegular.ttf"]}

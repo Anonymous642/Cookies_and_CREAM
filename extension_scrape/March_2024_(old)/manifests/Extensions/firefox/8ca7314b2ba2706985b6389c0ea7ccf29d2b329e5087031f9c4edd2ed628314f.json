@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Blind Racer", "version": "1.0", "description": "Removes the racing aspect from type racer, so that you can focus on typing", "icons": {"48": "icons/blind_racer_48.jpg", "96": "icons/blind_racer_96.jpg"}, "content_scripts": [{"matches": ["*://*.typeracer.com/*"], "js": ["blind_racer.js"]}]}

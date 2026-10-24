@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Fair Prices", "version": "1.0.0", "description": "Silpo Prices Equalizer", "content_scripts": [{"matches": ["https://shop.silpo.ua/*"], "js": ["jquery-3.6.0.min.js", "fairprices.js"]}], "action": {"default_icon": "icon.png"}}

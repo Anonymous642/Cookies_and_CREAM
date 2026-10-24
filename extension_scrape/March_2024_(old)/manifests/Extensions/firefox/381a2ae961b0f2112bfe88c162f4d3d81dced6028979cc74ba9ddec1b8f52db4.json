@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Me gusta on Facebook", "version": "1.0", "description": "Zmiena Lubie to! na Facebooku na Me gusta", "icons": {"48": "icons/img.png"}, "content_scripts": [{"matches": ["*://www.facebook.com/*"], "js": ["megusta.js"]}]}

@@ -1,0 +1,1 @@
+{"name": "Daluabari K.A.S Pratisthan Official", "manifest_version": 2, "version": "0.1.2", "description": "This Extion is the official Extionsion of Daluabari K.A.S Pratisthan.", "icons": {"128": "school128128.png"}, "browser_action": {"default_popup": "index.html", "default_icon": "school128128.png"}}

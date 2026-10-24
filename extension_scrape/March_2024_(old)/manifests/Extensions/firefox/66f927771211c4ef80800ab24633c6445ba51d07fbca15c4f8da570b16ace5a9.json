@@ -1,0 +1,1 @@
+{"icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "name": "edump", "version": "1.0.3", "manifest_version": 2, "description": "edump viewer FireFox extension", "short_name": "edump viewer", "devtools_page": "devtools.html", "permissions": ["tabs", "http://*/*", "https://*/*"]}

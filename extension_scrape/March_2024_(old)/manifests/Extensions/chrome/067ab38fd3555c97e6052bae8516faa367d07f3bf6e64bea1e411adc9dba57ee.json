@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Study Tab Save", "description": "Organise and sort your open tabs into folders for later use.", "manifest_version": 3, "version": "1.0", "icons": {"64": "folder.png", "128": "awesomeface.png"}, "action": {"default_popup": "index.html", "default_icon": "awesomeface.png"}, "permissions": ["tabs"]}

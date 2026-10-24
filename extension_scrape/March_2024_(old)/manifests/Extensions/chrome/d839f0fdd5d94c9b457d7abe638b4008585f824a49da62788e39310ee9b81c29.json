@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Flight", "version": "2.3", "description": "A dynamic, visually satisfying flight experience.", "author": "", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"16": "icon16.png", "128": "icon128.png"}}

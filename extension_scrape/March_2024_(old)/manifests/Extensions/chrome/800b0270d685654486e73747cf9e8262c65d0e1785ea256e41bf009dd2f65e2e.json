@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "UFO Auto Quiz", "description": "This extension correctly completes Captain Kirk's Beer Quiz", "version": "1.0", "permissions": ["http://www.saucerknurd.com/glassnite/quiz/"], "content_scripts": [{"matches": ["http://www.saucerknurd.com/glassnite/quiz"], "js": ["ufoAutoQuiz.js"]}]}

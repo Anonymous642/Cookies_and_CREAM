@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Songsterr GP Downloader", "description": "You can download guitar pro files from songsterr with this extension", "version": "1.2", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab"]}

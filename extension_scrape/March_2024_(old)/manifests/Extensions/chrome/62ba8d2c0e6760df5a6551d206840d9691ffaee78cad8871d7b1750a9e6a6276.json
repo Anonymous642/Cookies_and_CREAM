@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "tabook", "version": "1.0.0", "description": "Chrome extension for openBD", "chrome_url_overrides": {"newtab": "tabook.html"}, "permissions": ["storage"]}

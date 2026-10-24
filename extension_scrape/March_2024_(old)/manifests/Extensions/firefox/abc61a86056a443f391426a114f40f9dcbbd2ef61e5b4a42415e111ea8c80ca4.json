@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Simple Amazon Smile Redirect", "version": "1.0", "description": "Redirects www.amazon.(de/co.uk/com) to smile.amazon.(de/co.uk/com)", "icons": {"48": "icons/amznsmile-48.png"}, "content_scripts": [{"matches": ["*://www.amazon.com/*", "*://www.amazon.co.uk/*", "*://www.amazon.de/*"], "js": ["redirect.js"]}]}

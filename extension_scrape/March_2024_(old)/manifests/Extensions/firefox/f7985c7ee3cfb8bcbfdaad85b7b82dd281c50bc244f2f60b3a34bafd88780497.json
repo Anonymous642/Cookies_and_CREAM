@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Find All Links", "version": "1.0", "description": "Lists the href from all <a> links in the current HTML document.", "icons": {"48": "icons/findalllinks-logo.svg"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["linkfinder.js"]}]}

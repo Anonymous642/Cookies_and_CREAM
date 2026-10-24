@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Exam Login", "minimum_chrome_version": "40.0.2214.114", "version": "1.0.13", "icons": {"128": "icon_128.png"}, "app": {"background": {"scripts": ["main.js"]}}, "permissions": ["webview", "fullscreen"], "kiosk_enabled": true}

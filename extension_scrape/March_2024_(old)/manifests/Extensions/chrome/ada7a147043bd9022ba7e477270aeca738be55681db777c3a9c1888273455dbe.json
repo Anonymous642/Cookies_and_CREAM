@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "BitPoet", "version": "1.0.3", "description": "It's a bit poetic.", "permissions": ["activeTab"], "browser_action": {"default_title": "BitPoet", "default_popup": "popup.html"}, "icons": {"16": "bitpoet16.png", "48": "bitpoet48.png", "128": "bitpoet128.png"}, "manifest_version": 2}

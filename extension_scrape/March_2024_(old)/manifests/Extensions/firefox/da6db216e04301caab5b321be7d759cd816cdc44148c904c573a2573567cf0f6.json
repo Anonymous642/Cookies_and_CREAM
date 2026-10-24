@@ -1,0 +1,1 @@
+{"name": "Markbook", "description": "No more hustle with bookmarks. Get free search and mark tab feature.", "version": "0.1", "manifest_version": 3, "permissions": ["tabs", "activeTab", "scripting"], "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "ujjwal.raj.5798@gmail.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sleepy Dev Android Messages QuickCopy", "version": "0.0.0.11", "permissions": ["storage"], "action": {"default_popup": "popup/popup.html"}, "background": {"service_worker": "background.js"}, "content_scripts": [{"matches": ["https://messages.google.com/*"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "IUD Sql", "version": "1.0", "icons": {"48": "icons/sql-logo.jpg"}, "browser_action": {"default_icon": "icons/sql-logo.jpg", "default_title": "IUD Sql", "default_popup": "http://www.akkayahu.com/iudhome.php"}, "content_scripts": [{"matches": ["*://*.mozilla.org/*"], "js": ["index.js"]}]}

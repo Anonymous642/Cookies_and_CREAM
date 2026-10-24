@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Simple New Doc", "action": {}, "manifest_version": 3, "version": "1.1", "icons": {"16": "16.png", "32": "32.png", "48": "48.png", "128": "128.png"}, "description": "Opens a new Google Doc on click. That's it.", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}}

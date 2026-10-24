@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Decline SSKM Cookies", "version": "1.0", "description": "Declines the Cookie consent on sskm", "icons": {"48": "icons/sskm.svg"}, "content_scripts": [{"matches": ["*://*.sskm.de/*"], "js": ["decline_cookie.js"]}], "browser_specific_settings": {"gecko": {"id": "{0d31c76b-ac9d-43d8-9438-e98895e9b208}"}}}

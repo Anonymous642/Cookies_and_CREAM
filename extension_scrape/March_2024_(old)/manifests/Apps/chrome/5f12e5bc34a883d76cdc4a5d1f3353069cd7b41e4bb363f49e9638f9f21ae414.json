@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Quio Teach", "version": "1.2.3", "minimum_chrome_version": "37", "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "permissions": ["webview"], "app": {"background": {"scripts": ["background.js"]}}}

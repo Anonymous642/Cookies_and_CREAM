@@ -1,0 +1,1 @@
+{"name": "Easy Notes Maker", "version": "1.0.0", "manifest_version": 2, "icons": {"16": "East.png", "48": "East.png", "128": "East.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["node_modules/@webcomponents/custom-elements/custom-elements.min.js", "content.js", "working.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "OCW Expander", "description": "Chrome extension that makes ocw.cs.pub.ro full width!", "version": "1.0", "manifest_version": 3, "content_scripts": [{"matches": ["https://ocw.cs.pub.ro/*"], "css": ["styles.css"]}], "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quora Fixer", "version": "1.0.1", "description": "Removes link stories and thumbnail images from quora.", "content_scripts": [{"matches": ["*://*.quora.com/*"], "css": ["fixStuff.css"]}], "applications": {"gecko": {"id": "quora-fixer@pythoncow.github.io"}}}

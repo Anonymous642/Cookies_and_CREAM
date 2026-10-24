@@ -1,0 +1,1 @@
+{"manifest_version": 2, "applications": {"gecko": {"id": "sk2@dictionaries.addons.mozilla.org"}}, "name": "Slovensk\u00e1 kontrola preklepov (bez diakritiky)", "description": "Slovn\u00edk pre kontrolu preklepov diakritiky pre aplik\u00e1cie Mozilla.", "version": "2.4.7", "author": "Zdenko Podobn\u00fd", "dictionaries": {"sk-SK-Ascii": "dictionaries/sk-SK-ascii.dic"}}

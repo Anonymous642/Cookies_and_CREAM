@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Boxana", "version": "1.1", "description": "Transform your browsing experience with our Chrome extension", "chrome_url_overrides": {"newtab": "newTab.html"}, "action": {"default_icon": "logo.png"}, "icons": {"16": "logo.png", "48": "logo.png", "64": "logo.png", "128": "logo.png"}}

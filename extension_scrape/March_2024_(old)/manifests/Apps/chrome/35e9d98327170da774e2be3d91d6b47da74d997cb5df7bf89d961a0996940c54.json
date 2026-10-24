@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Heartland Public Radio", "short_name": "HPR", "description": "Classic Country and Bluegrass Gospel Music", "version": "0.3", "permissions": ["webview"], "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "hpr-16.png", "128": "hpr-128.png"}}

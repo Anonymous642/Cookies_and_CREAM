@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "show-upvotes", "version": "0.2", "description": "Show upvotes on a site by default (must have >= 1000 rep)", "manifest_version": 2, "content_scripts": [{"matches": ["https://*.stackoverflow.com/*"], "js": ["./main.js"]}], "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

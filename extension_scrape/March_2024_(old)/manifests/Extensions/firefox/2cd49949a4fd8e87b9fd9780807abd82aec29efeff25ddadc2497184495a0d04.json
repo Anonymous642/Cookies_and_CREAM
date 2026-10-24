@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Favorita EU!", "version": "1.0", "description": "Seu bot\u00e3o de favorito perfeito.", "icons": {"48": "icons/bookmark-it.png", "96": "icons/bookmark-it@2x.png"}, "permissions": ["bookmarks", "tabs"], "browser_action": {"default_icon": "icons/star-empty-38.png", "default_title": "Favorita EU!"}, "background": {"scripts": ["background.js"]}}

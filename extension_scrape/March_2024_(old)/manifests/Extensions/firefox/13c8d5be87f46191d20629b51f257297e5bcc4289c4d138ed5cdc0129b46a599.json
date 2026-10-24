@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Emoji Keyboard", "version": "1.0", "description": "Emoji Keyboard", "icons": {"32": "icons/icon-512.png"}, "permissions": ["activeTab", "tabs"], "browser_action": {"default_icon": "icons/icon-32.png", "default_title": "Emoji Keyboard", "default_popup": "popup/emoji.html"}}

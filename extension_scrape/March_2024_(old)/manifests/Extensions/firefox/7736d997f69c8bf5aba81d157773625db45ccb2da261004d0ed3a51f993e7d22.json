@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Redirect to Old Reddit", "version": "1.0", "description": "Redirects reddit.com pages to old.reddit.com", "icons": {"48": "icons/arrow.png"}, "content_scripts": [{"matches": ["*://www.reddit.com/*"], "js": ["redirect.js"]}]}

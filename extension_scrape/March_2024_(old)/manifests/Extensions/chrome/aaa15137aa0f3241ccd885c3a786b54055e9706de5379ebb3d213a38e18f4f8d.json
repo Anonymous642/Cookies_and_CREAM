@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Wpp Speed Audios", "version": "1.0", "content_scripts": [{"matches": ["https://web.whatsapp.com/"], "css": ["styles.css"], "js": ["content.js"]}]}

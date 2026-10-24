@@ -1,0 +1,1 @@
+{"description": "Effectuer des recherche sur de nombreux moteurs de recherches facilement", "manifest_version": 2, "name": "Recherche rapide", "version": "1.0", "icons": {"48": "assets/icon-48.png", "300": "assets/icon-300.png"}, "permissions": ["webRequest", "contextMenus", "webRequestBlocking", "<all_urls>", "menus", "activeTab"], "background": {"scripts": ["background.js"]}}

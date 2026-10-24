@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "horus", "version": "1.0", "description": "...", "browser_action": {"default_icon": {"32": "../icon_1.png"}}, "permissions": ["webRequestBlocking", "webRequest", "<all_urls>", "tabs"], "background": {"scripts": ["./src/background.js"]}, "browser_specific_settings": {"gecko": {"id": "{f8aa15af-2021-495d-a2fd-8df6143be2d4}"}}}

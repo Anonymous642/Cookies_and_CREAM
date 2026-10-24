@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Animals Dice", "version": "0.1", "description": "a picture to display one of many images.", "action": {"default_popup": "popup.html", "default_icon": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}

@@ -1,0 +1,1 @@
+{"name": "Top.gg Adblock", "version": "1.0", "description": "Blocks ads when voting on top.gg!", "permissions": ["activeTab"], "content_scripts": [{"matches": ["http://*.top.gg/*", "https://*.top.gg/*"], "css": ["styles.css"]}], "manifest_version": 2}

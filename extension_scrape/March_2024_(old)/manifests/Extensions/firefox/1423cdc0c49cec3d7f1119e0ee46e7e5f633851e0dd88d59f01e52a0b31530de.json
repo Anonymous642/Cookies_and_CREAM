@@ -1,0 +1,1 @@
+{"name": "Midwit meme", "description": "Shows a new midwit meme every time you open a new blank tab", "version": "0.1.0", "chrome_url_overrides": {"newtab": "blank.html"}, "icons": {"48": "midwit.png"}, "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{cc89b068-c381-4513-b4cf-4955868e1d98}"}}}

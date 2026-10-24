@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Lofidoro", "description": "A pomodoro technique timer with lofi music.", "version": "3.2", "author": "Jonathan Polina", "action": {"default_icon": "/img/tomato.png"}, "background": {"service_worker": "background.js"}, "permissions": ["notifications"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Libdata IPP Extension", "version": "0.1.25", "background": {"scripts": ["background.js", "ipp.js", "buffer.js", "jquery-1.11.1.js"]}, "permissions": ["background", "printing"], "browser_action": {"default_icon": "icon.png"}, "storage": {"managed_schema": "settings_schema.json"}}

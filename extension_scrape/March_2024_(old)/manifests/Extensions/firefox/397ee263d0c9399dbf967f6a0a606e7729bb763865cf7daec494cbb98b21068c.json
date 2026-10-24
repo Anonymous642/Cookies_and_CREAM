@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Rott 13", "version": "1.0", "description": "Easily rot13 selected text. Woof woof!", "icons": {"48": "icon.svg", "96": "icon.svg"}, "permissions": ["activeTab", "contextMenus"], "optional_permissions": ["<all_urls>"], "background": {"scripts": ["background.js"]}}

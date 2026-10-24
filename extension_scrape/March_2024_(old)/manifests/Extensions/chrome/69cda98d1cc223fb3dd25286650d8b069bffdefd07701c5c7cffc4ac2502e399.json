@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Avoid the clock time", "description": "Avoid the dreaded clock time by using the sun and moon!", "version": "0.1.1", "icons": {"128": "icon_128.png"}, "chrome_url_overrides": {"newtab": "new-tab/new-tab.html"}, "permissions": ["geolocation"]}

@@ -1,0 +1,1 @@
+{"name": "Kitty Cat Pet Dress Up Baby", "description": "Cat dree-up game funny cute", "app": {"urls": ["http://otomecha-games.com/games/fb/index.html"], "launch": {"web_url": "http://otomecha-games.com/games/fb/index.html"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

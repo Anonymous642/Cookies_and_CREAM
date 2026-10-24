@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Form Filler", "version": "0.2", "description": "Copy form data to another form FMC-CRM", "icons": {"48": "icons/copy.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "permissions": ["menus", "activeTab", "storage", "tabs"], "browser_action": {"default_icon": "icons/copy.png", "default_popup": "form.html"}}

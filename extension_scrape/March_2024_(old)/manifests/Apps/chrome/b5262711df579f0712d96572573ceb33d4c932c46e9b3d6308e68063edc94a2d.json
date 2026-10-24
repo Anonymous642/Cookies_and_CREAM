@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "tic-tac-toe", "description": "Classic game on Tic-tac-toe.", "version": "1", "manifest_version": 2, "app": {"urls": ["http://timepass.appb.in/tictactoe.html"], "launch": {"web_url": "http://timepass.appb.in/tictactoe.html"}}, "icons": {"128": "icon_128.png"}, "permissions": []}

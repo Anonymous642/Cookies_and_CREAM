@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Facebook Post Filter", "version": "1.7", "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{71d3e89b-4346-480b-84ba-16d997b718ac}"}}}

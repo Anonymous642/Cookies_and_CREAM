@@ -1,0 +1,1 @@
+{"name": "tweakgithub", "version": "1.5.1", "manifest_version": 2, "description": "Tweak Github UI", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["https://github.com/*"], "css": ["tweakgithub.css"], "js": ["page.js"]}], "browser_specific_settings": {"gecko": {"id": "{ce89cfae-406b-4084-9ef7-ef0e60374832}"}}}

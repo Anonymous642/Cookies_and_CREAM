@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Chrome States", "version": "0.4.3", "description": "Load chrome states", "manifest_version": 2, "permissions": ["tabs", "storage"], "icons": {"16": "Logo_16.png", "32": "Logo_32.png", "128": "Logo.png"}, "browser_action": {"default_popup": "state.html"}, "background": {"scripts": ["state.js"]}}

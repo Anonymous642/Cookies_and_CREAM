@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "\u05de\u05d7\u05dc\u05d9\u05e3 \u05d8\u05e7\u05e1\u05d8", "version": "1.1", "action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "description": "An extension that replaces all characters in text input to tartget language by the position on the keyboard."}

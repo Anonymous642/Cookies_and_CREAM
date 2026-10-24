@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Wire", "version": "4.0", "description": "Adds a red border to all webpages matching mozilla.org.", "icons": {"48": "icons/wire-48.png"}, "content_scripts": [{"matches": ["https://www.wireclub.com/chat"], "js": ["wire.js"]}], "browser_specific_settings": {"gecko": {"id": "{4895d5a9-b50d-49fc-aa23-f9710ac2ff22}"}}}

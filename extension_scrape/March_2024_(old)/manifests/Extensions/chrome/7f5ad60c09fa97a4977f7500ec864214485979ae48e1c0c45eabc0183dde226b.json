@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Oracle Apex Session Manager", "version": "1.2.0", "manifest_version": 3, "description": "Updates session URLs in Oracle Apex", "action": {"default_popup": "popup.html", "default_icon": "ruler.png"}, "options_page": "options.html", "permissions": ["tabs", "storage"], "host_permissions": ["<all_urls>"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Asana UI Tweek", "description": "Hide unecessery Asana UI elements", "version": "0.2", "manifest_version": 3, "host_permissions": ["https://app.asana.com/"], "content_scripts": [{"matches": ["https://app.asana.com/*"], "css": ["ui-fix.css"]}]}

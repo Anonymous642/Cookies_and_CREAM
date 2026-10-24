@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "minimalist and simple to use to do list", "version": "1.0", "description": "A simple easy to use minimalistic to-do list extension for Chrome", "icons": {"128": "icon128.png"}, "action": {"default_popup": "popup.html"}, "permissions": ["storage"], "storage": {"sync": {}}}

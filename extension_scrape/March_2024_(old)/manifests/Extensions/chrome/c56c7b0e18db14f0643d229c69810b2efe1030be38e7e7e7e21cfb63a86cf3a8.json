@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "LinkedAI App", "description": "Unleash your LinkedIn potential with AI.", "version": "1.1.11", "manifest_version": 3, "action": {"default_title": "LinkedAI", "default_icon": "/icon.png", "default_popup": "index.html"}, "host_permissions": ["https://www.linkedai.app/*"], "permissions": ["cookies"]}

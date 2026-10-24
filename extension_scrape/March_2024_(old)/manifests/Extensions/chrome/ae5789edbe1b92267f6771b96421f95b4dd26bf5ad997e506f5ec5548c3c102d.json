@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MyQR Code", "version": "0.0.2", "description": "click, and than creating My QR Code", "manifest_version": 3, "author": "ElkeQin", "action": {"default_popup": "index.html", "default_title": "MyQR Code"}, "permissions": ["tabs"]}

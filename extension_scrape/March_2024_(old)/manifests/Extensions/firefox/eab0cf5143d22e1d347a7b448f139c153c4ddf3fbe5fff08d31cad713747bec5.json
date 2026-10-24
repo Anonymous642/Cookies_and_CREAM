@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HackerNewsNoDang", "version": "1.0", "description": "Automatically hides unsubstantive comments made by user @dang on HN threads.", "icons": {"48": "nodang.png"}, "content_scripts": [{"matches": ["*://*.ycombinator.com/*"], "js": ["nodang.js"]}], "browser_specific_settings": {"gecko": {"id": "{0900e24b-c99e-4189-b3ac-0067d62e2d84}"}}}

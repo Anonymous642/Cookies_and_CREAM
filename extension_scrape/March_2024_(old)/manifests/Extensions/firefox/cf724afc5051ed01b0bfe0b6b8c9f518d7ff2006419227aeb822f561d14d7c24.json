@@ -1,0 +1,1 @@
+{"manifest_version": 2, "author": "Erik Trogus", "description": "You didn't see anything... right? - Light youtube ad skipper.", "name": "skipper", "version": "1.1", "content_scripts": [{"js": ["./skipper.js"], "matches": ["*://*.youtube.com/*"], "run_at": "document_idle"}], "icons": {"48": "icons/tux_skipper_48.png", "96": "icons/tux_skipper_96.png"}}

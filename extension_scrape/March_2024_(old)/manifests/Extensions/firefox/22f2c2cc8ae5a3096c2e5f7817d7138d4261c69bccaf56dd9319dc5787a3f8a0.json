@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Filmbazis", "version": "1.0", "description": "Remove adf.ly from filmbazis.com .", "content_scripts": [{"matches": ["http://www.filmbazis.org/*"], "js": ["filmbazis.js"]}]}

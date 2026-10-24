@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ZoomAllTabs", "description": "This extension zooms all currently opened tabs and windows", "version": "0.0.1", "browser_action": {"default_icon": "ZoomAllTabsIcon.png", "default_popup": "popup.html"}, "permissions": ["activeTab", "tabs", "https://ajax.googleapis.com/"]}

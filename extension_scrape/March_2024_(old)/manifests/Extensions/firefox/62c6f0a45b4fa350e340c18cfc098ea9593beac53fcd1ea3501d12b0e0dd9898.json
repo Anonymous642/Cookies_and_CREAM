@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Likilter", "description": "Social Media Filter for Likes, Following and Followed by numbers", "version": "1.1", "content_scripts": [{"matches": ["*://twitter.com/*", "*://*.instagram.com/*"], "js": ["filters.js"]}]}

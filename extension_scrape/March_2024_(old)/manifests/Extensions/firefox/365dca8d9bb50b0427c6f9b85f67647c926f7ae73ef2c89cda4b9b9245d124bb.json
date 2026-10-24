@@ -1,0 +1,1 @@
+{"name": "Pikabu Comments", "description": "Automatically expand comments", "version": "0.3", "manifest_version": 2, "content_scripts": [{"matches": ["https://pikabu.ru/story/*"], "js": ["script.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{0685d33b-ff70-443a-ba43-106f7e7e071b}"}}}

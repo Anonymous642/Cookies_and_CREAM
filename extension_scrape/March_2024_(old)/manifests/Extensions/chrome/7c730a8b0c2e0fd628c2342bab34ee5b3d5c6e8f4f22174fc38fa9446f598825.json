@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "\u5fae\u4fe1\u8df3\u8f6c\u6dd8\u5b9d", "description": "\u5fae\u4fe1PC\u7aef\u81ea\u52a8\u8df3\u8f6c\u6dd8\u5b9d", "version": "1.1.0", "content_scripts": [{"matches": ["https://weixin110.qq.com/*"], "js": ["index.js"]}]}

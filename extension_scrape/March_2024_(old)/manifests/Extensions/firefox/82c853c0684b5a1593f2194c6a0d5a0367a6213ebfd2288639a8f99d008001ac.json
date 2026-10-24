@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Button Clicker", "version": "1.0", "description": "Clicks all buttons on the page", "icons": {"48": "icons/cursor.svg", "96": "icons/cursor.svg"}, "applications": {"gecko": {"id": "dishendramishra@gmail.com"}}, "content_scripts": [{"matches": ["*://*.sanfoundry.com/*"], "js": ["button-clicker.js"]}]}

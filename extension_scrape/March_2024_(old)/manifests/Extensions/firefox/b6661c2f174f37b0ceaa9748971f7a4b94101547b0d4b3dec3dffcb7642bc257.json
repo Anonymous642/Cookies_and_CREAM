@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Scroller", "description": "View or hide the scrollbars.", "version": "0.0.1", "icons": {"16": "icons/icon.png"}, "browser_action": {"default_icon": {"16": "icons/icon.png"}, "default_popup": "browserAction/index.html", "default_title": "overflow"}, "permissions": ["activeTab"]}

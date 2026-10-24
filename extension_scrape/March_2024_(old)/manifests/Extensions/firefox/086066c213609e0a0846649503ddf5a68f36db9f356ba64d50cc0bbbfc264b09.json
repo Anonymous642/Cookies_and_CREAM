@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitter 24 hour-clock", "version": "1.0.2", "description": "24-hour clock format for Twitter.", "content_security_policy": "default-src 'self'", "content_scripts": [{"matches": ["*://twitter.com/*"], "js": ["script.js"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{9c20b580-f138-446b-9f1d-a2206cb3d5c7}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Jumper", "version": "1.0.0", "browser_action": {"default_icon": {"32": "assets/icon32.png"}, "default_title": "Platformer", "default_popup": "popup.html"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{91052258-c26e-4d4d-8880-d211e584ef73}"}}}

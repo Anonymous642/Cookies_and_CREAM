@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Git-PP", "version": "1.0", "description": "Adds a button to GitHub homepage that takes you to your profile", "content_scripts": [{"matches": ["*://github.com/"], "js": ["git-pp.js"]}]}

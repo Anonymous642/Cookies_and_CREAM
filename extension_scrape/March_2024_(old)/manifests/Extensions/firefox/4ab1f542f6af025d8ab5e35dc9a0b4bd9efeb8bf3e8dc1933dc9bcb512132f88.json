@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Center RFC", "version": "1.0", "description": "Center RFC content on your monitor, cure neck pain :D", "icons": {"48": "icons/note-48.png", "96": "icons/note-96.png"}, "content_scripts": [{"matches": ["*://datatracker.ietf.org/*"], "js": ["center_rfc.js"]}], "browser_specific_settings": {"gecko": {"id": "{19745385-334e-490e-8a2d-b90e9a2c2cf9}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "AgentSlug.com", "description": "Monitor your website condition!", "version": "1", "manifest_version": 2, "app": {"urls": ["http://agentslug.com/"], "launch": {"web_url": "http://agentslug.com/"}}, "icons": {"128": "icon_128.png"}, "permissions": []}

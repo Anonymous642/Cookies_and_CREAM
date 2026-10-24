@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Chill New Tab", "description": "Chill, this is just a description", "version": "1.1", "manifest_version": 2, "chrome_url_overrides": {"newtab": "chill.html"}}

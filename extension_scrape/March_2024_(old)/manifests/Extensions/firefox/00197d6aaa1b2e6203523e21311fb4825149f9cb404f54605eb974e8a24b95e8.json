@@ -1,0 +1,1 @@
+{"version": "3.4", "manifest_version": 2, "name": "WSS Popup", "icons": {"128": "image/logo.png"}, "browser_action": {"default_icon": "image/logo.png", "default_title": "WSS!", "default_popup": "popup.html"}, "permissions": ["https://www.weshopsmart.com.au/*", "tabs", "activeTab", "https://www.google.com/", "storage"], "background": {"scripts": ["script/background.js"]}}

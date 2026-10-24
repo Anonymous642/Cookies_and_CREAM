@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Borderify", "version": "0.1.0", "description": "Adds a red border to all webpages matching mozilla.org.", "icons": {"48": "Icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/"], "js": ["borderify.js"]}], "browser_specific_settings": {"gecko": {"id": "{0558377c-9c1f-4807-bfd9-e9c038ecba13}"}}}

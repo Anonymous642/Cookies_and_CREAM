@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitch Channel Points Collector", "version": "1.2", "author": "Plamen Kinov", "description": "Auto collect Twitch.tv channel points bonus boxes.", "icons": {"48": "gift-box.svg"}, "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["point-collector.js"]}]}

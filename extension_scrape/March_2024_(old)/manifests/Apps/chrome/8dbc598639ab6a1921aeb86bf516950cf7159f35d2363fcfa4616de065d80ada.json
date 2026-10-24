@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Wizard is not destiny", "description": "Game memory", "version": "1.4", "manifest_version": 2, "homepage_url": "http://grebot.ru", "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "icon-16.png", "128": "icon-128.png"}, "permissions": ["unlimitedStorage"], "offline_enabled": true}

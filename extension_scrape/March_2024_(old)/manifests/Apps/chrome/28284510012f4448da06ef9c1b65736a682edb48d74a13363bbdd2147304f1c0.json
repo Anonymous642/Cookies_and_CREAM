@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "IRC999", "description": "Simple IRC client for Chrome.", "version": "1.1.1", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "/assets/img/IRC999icon16.png", "128": "/assets/img/IRC999icon.png"}, "permissions": ["storage", "tts"], "sockets": {"tcp": {"connect": ""}}}

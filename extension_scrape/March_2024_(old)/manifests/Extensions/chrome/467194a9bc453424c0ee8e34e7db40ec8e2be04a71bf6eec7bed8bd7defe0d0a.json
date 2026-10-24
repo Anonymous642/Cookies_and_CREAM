@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ShareGPT", "description": "Export ChatGPT conversations as an image", "version": "1.0.0", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}, "icons": {"512": "icon512.png"}, "action": {}}

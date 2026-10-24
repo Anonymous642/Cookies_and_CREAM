@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Keep Ctrl+K", "version": "0.1", "description": "Prevents sites from binding Ctrl-K/Cmd-K, allowing you to continue using Firefox's search box.", "icons": {"32": "icons/keepctrlk-32.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["keepctrlk.js"]}]}

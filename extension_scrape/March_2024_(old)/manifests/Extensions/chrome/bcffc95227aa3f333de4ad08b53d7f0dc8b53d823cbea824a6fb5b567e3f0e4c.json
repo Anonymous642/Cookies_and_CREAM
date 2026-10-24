@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "My Sweet New Tab", "short_name": "My Sweet New Tab", "description": "A minimal chrome new tab provided by this extension", "version": "1.1", "manifest_version": 3, "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"512": "icons/smile.png"}}

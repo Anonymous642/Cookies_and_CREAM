@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quotes Extension", "version": "1.0", "description": "A Firefox extension that displays quotes about hard work and passive income.", "icons": {"48": "logo.png"}, "browser_action": {"default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{eb3c7422-8629-4621-98ff-5818f836df4b}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Audio Volume Converter", "version": "1.0", "description": "Converts audio volume from dB to percentage.", "icons": {"48": "icon.png"}, "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{05f4b9f7-a14e-41ba-965f-a462aaadcf6d}"}}}

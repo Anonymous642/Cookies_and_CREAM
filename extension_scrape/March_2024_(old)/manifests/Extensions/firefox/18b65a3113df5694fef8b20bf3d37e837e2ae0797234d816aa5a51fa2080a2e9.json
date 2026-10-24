@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Toss", "description": "Unbookmarks current tab and closes it.", "version": "0.0.0", "icons": {"64": "icon.png"}, "background": {"scripts": ["background_script.js"]}, "browser_action": {"default_area": "navbar"}, "permissions": ["bookmarks", "tabs"], "browser_specific_settings": {"gecko": {"id": "{01f98e35-09da-4f77-b840-7759514703a6}"}}}

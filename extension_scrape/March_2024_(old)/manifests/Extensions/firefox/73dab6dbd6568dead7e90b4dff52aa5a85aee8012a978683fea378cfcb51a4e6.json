@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pakistan Resolution Day", "version": "2.0", "description": "Dedicated to all Pakistanis around the Globe.", "background": {"scripts": ["script.js"]}, "permissions": ["theme"], "applications": {"gecko": {}}}

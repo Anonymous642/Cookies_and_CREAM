@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RedSails Dark Theme", "version": "1.0.1", "description": "Dark theme for redsails.org", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["https://redsails.org/*"], "css": ["style.css"]}], "browser_specific_settings": {"gecko": {"id": "{a647e8ab-1658-4b7c-87d9-8756d5d5d938}"}}}

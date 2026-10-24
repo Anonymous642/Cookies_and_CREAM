@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "EarthViewer", "description": "EarthViewer", "version": "1.0.2", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "icon-16.png", "128": "icon-128.png"}, "permissions": ["<all_urls>", "storage", "https://www.google-analytics.com/"]}

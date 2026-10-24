@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ClipShare", "manifest_version": 2, "version": "0.2", "browser_action": {"default_icon": "ikon.png", "default_popup": "popup.html"}, "permissions": ["clipboardWrite", "clipboardRead"], "icons": {"128": "ikon.png"}}

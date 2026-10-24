@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "antiamp", "version": "1.5", "description": "fu*k off amp", "icons": {"48": "icons/amp.png", "128": "icons/amp_128.png"}, "content_scripts": [{"matches": ["*://*/*/amp/*", "*://*/amp/*"], "js": ["antiamp.js"]}]}

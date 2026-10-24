@@ -1,0 +1,1 @@
+{"name": "Stragerize Github Merge Checks", "version": "0.0.0.3", "manifest_version": 2, "description": "Just gimme the failures at the top of the list", "content_scripts": [{"matches": ["https://github.com/*"], "js": ["content.js"]}]}

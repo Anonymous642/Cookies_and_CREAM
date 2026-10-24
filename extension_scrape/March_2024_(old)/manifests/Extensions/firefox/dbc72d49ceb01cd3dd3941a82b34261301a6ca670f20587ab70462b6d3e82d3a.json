@@ -1,0 +1,1 @@
+{"name": "YT1S Downloader - Yt1s.com", "description": "YT1S downloader & Converter - Yt1s.com", "version": "1.8", "permissions": ["tabs", "https://www.youtube.com/*"], "background": {"scripts": ["background.js"], "persistent": false, "matches": ["https://www.youtube.com/*"]}, "browser_action": {"default_icon": "img/icon.png", "default_popup": "popup.html"}, "manifest_version": 2}

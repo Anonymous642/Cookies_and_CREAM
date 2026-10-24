@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "UTG++", "description": "Enhanced web interface for Gheith project websites.", "version": "1.0.0", "manifest_version": 2, "background": {"scripts": ["./background.js"]}, "permissions": ["tabs", "https://www.cs.utexas.edu/~gheith/"], "icons": {"400": "./logo_128.png"}}

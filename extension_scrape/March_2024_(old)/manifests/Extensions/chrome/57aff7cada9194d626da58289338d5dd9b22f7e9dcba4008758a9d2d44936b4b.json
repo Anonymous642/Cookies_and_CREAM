@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Where's My Video", "version": "0.1", "background": {"scripts": ["background.js"], "persistent": true}, "permissions": ["tabs", "contextMenus"], "browser_action": {"default_icon": "icon_128.png"}, "icons": {"128": "icon_128.png"}}

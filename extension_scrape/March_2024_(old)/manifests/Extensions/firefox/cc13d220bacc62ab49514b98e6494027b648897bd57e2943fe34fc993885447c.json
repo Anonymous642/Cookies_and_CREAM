@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Chan imageboard video fps", "version": "1.0", "description": "View the fps of webms/videos on imageboards such as 4chan.org.", "icons": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}, "content_scripts": [{"matches": ["*://*.4chan.org/*"], "js": ["js/fps.js"]}]}

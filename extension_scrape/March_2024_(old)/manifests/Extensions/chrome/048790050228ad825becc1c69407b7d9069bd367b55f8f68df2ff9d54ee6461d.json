@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Homesync Share Plugin", "description": "This extension will allow a user to share the current page on Homesync", "version": "1.2", "browser_action": {"default_icon": "hs32x32.png"}, "background": {"scripts": ["popup.js"]}, "permissions": ["activeTab"]}

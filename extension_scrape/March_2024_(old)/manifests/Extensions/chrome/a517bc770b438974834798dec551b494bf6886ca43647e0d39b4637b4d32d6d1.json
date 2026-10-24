@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Bitefight Fix", "version": "1.0.0", "description": "Make Bitefight Great Again!", "content_scripts": [{"js": ["dx.js"], "matches": ["https://forum.bitefight.gameforge.com/*"]}]}

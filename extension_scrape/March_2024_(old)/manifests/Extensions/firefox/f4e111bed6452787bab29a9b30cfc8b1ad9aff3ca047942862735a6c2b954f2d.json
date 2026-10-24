@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AdF.ly Bypasser", "version": "1.0", "description": "AdF.ly is known for serving malicious ads. This addon bypasses the timer countdown for AdF.ly links.", "icons": {"48": "icons/index.png"}, "content_scripts": [{"matches": ["*://adf.ly/*", "*://j.gs/*"], "js": ["links.js"]}]}

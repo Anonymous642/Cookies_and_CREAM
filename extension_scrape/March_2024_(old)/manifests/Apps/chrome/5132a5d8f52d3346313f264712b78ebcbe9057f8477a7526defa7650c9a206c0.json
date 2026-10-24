@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Do Diary", "short_name": "Do Diary", "description": "A daily task tracker.", "manifest_version": 2, "version": "0.0.2", "offline_enabled": true, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "images/196x196.png", "128": "images/196x196.png"}}

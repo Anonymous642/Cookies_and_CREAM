@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "googleadblock", "version": "1.0", "description": "Adds a red border to all webpages matching mozilla.org.", "icons": {"48": "icons/nogoogle-48.png"}, "content_scripts": [{"matches": ["*://*.google.com/*"], "js": ["googleadblock.js"]}], "browser_specific_settings": {"gecko": {"id": "{a01721c2-b68d-435c-8fbe-39d4bf0c777e}"}}}

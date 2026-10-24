@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "What is my IP", "version": "1.0", "description": "Determines the IP address of user. Uses l2.io", "icons": {"48": "icons/ip-48.png"}, "browser_action": {"default_icon": {"32": "icons/ip-32.png"}, "default_title": "What is my IP?", "default_popup": "popup/ip.html"}, "applications": {"gecko": {"id": "thtauhid.71@gmail.com"}}}

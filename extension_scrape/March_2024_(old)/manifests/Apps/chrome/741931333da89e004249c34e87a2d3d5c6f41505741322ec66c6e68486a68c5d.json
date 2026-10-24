@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SyncIt", "description": "Sync your files instantly", "version": "1.2", "manifest_version": 2, "minimum_chrome_version": "27", "icons": {"16": "16.png", "128": "128.png"}, "permissions": ["fileSystem", "fileSystem.write", "syncFileSystem"], "app": {"background": {"scripts": ["main.js"]}}}

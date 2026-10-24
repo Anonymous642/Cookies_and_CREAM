@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Taki Tab", "description": "Why open a new tab when you can open a taki tab!", "version": "0.3", "incognito": "split", "chrome_url_overrides": {"newtab": "taki.html"}, "manifest_version": 2}

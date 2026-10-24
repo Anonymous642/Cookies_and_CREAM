@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "INFINITAS Auto Launch", "version": "0.2", "content_scripts": [{"matches": ["https://p.eagate.573.jp/game/infinitas/2/api/login/login.html"], "js": ["main.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{32ff9ad4-b9f2-4c95-adfd-8811b8ad25a2}"}}}

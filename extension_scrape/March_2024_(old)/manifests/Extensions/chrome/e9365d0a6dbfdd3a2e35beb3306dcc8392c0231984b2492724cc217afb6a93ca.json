@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Fayie Blog Launcher", "description": "Opens Fayie's Blog", "short_name": "Fayie Launcher", "version": "1.2", "icons": {"128": "128.png"}, "extension": {"urls": ["https://fayie.net/"], "launch": {"web_url": "https://fayie.net/"}}, "permissions": ["unlimitedStorage", "notifications"]}

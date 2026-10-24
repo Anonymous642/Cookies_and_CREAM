@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SlimJim", "version": "1.1", "description": "You love a slim scrollbar. Don't you?", "icons": {"64": "icons/scroll.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["css.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "VaiEsiLabs.lv", "description": "VaiEsiLabs.lv Chrome aplik\u0101cija", "version": "1.0", "manifest_version": 2, "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.vaiesilabs.lv/"], "launch": {"web_url": "http://www.vaiesilabs.lv/"}}, "permissions": ["unlimitedStorage", "notifications"]}

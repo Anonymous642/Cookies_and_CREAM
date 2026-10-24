@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YoutubeUtils", "version": "2.2.0", "description": "Turn off/on control menu; increase/decrease video speed", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["src/script.js"]}], "browser_specific_settings": {"gecko": {"id": "{6702f09e-8ab9-4733-b1e0-0d505818e1de}"}}}

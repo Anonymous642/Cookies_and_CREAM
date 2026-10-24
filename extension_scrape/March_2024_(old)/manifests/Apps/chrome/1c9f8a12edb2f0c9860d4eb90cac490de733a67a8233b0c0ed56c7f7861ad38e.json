@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Moody Cows", "description": "Defend your farm from herds of attacking cows in this fast-paced shoot 'em up.", "version": "2.2", "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "icon_16.png", "128": "icon_128.png"}}

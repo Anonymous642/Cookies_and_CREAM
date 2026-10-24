@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "XCD to AMD", "version": "1.0", "description": "Convert XCD to AMD", "browser_specific_settings": {"gecko": {"id": "xcd-to-amd@example.com"}}}

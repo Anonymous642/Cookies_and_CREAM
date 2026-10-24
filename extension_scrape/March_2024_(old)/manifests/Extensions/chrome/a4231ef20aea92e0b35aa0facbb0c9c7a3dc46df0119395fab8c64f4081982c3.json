@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "highlight.js", "version": "1.0.1", "description": "Highlight web pages with your own notes.", "icons": {"48": "icons/paperclip.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["highlight/highlight.js", "highlight/purify.min.js"], "css": ["highlight/highlight.css"]}]}

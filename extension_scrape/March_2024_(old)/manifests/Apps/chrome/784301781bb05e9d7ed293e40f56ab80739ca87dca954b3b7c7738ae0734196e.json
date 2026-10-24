@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MathPup Math Games", "description": "Free Online Cool Math Games. Practice your math skills the fun way.", "version": "0.0.0.5", "manifest_version": 2, "icons": {"128": "mathpup.png"}, "app": {"urls": ["http://www.mathpup.com/"], "launch": {"web_url": "http://www.mathpup.com/"}}}

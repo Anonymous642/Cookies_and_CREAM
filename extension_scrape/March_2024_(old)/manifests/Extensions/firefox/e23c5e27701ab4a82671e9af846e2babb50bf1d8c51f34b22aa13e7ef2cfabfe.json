@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quora Login Popup Remover", "version": "1.0", "description": "Removes the pesky login popups from Quora", "icons": {"48": "q.svg"}, "content_scripts": [{"matches": ["https://www.quora.com/*"], "js": ["script.js"]}]}

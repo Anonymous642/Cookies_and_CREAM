@@ -1,0 +1,1 @@
+{"app": {"urls": ["*://finanzblick.de/webapp"], "launch": {"web_url": "http://finanzblick.de/webapp/"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "finanzblick | social finance commerce platform", "name": "finanzblick", "icons": {"128": "128.png"}, "manifest_version": 2, "version": "1.0.0.0"}

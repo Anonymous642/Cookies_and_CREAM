@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LUTV Score Blocker", "version": "1.1", "description": "Removes scorelines from LUTV pages", "icons": {"48": "icons/soccer-ball.png"}, "content_scripts": [{"matches": ["*://video.leedsunited.com/*"], "js": ["lutv-score-blocker.js"]}], "browser_specific_settings": {"gecko": {"id": "{4ec4d99c-d27f-4ff7-91b7-1c8e7ef50836}"}}}

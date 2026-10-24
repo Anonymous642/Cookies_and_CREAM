@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Vecka", "version": "1.0.0", "description": "This week", "manifest_version": 3, "author": "Noel Tesfalidet", "action": {"default_popup": "index.html", "default_title": "Weakly"}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

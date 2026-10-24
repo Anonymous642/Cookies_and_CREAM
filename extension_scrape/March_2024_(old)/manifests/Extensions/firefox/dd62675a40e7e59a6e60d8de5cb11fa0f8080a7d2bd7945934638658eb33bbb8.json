@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PrehrajtoWatch", "version": "4.0.2", "content_scripts": [{"matches": ["*://*.prehraj.to/*", "*://*.prehrajto.cz/*"], "js": ["main.js"]}], "permissions": ["tabs", "storage"], "browser_specific_settings": {"gecko": {"id": "{510385eb-644b-494a-870b-c4fb4576aa2d}"}}}

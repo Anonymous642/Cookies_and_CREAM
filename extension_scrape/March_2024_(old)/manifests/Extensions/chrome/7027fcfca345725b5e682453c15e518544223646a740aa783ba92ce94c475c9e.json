@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SkipMaster", "description": "Click ads automatically without touching them for you", "version": "1.0", "manifest_version": 3, "background": {"service_worker": "background.js"}, "icons": {"128": "images/128.png"}, "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"]}]}

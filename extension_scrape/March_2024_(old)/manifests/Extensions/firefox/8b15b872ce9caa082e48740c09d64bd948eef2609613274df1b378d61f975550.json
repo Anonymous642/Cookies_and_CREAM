@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FoodLogic kcal counter", "version": "1.0", "description": "Counts kcals on the FoodLogic site.", "icons": {"48": "images/icon.jpg"}, "applications": {"gecko": {"id": "flkcalcounter@banyy", "strict_min_version": "45.0"}}, "content_scripts": [{"matches": ["*://*.foodlogic.eu/*/day/*"], "js": ["flkcalcounter.js"]}]}

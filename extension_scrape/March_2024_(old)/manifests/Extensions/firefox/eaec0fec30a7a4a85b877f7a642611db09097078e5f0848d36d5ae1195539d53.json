@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LoL Boards Signature", "version": "0.2", "permissions": ["activeTab", "tabs", "storage"], "page_action": {"default_icon": "quote.png", "default_title": "Whereami?", "default_popup": "signo.html"}, "background": {"scripts": ["background.js"]}, "content_scripts": [{"matches": ["http://*.leagueoflegends.com/*/c/*"], "js": ["main.js"]}]}

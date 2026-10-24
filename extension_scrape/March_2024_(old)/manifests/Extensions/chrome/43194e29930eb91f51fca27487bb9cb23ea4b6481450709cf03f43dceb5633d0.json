@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "RadBook", "version": "1.1", "manifest_version": 2, "description": "Replaces all 'Like' links with 'Dat Shit Rad'", "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["jquery-1.7.2.min.js", "radbook.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"urls": ["http://www.sharesurface.com/"], "launch": {"web_url": "http://www.sharesurface.com/"}}, "name": "ShareSurface", "description": "Simple Enterprise grade Cloud Storage and File Management for any size of business.", "manifest_version": 2, "version": "1.0", "icons": {"128": "icon_128.png"}}

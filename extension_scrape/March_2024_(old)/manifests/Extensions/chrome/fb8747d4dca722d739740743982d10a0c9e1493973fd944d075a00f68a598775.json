@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AEM Navigator Cloud", "description": "Useful for AEM developers for easy navigation.Useful for Touch UI.", "version": "0.1", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab", "storage"]}

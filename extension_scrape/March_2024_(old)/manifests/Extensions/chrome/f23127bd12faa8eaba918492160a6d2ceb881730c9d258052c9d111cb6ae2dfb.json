@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "NV Static Grid", "action": {}, "manifest_version": 3, "version": "1.0.1", "author": "Nitesh Vaidya", "description": "Static grid for the website", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}}

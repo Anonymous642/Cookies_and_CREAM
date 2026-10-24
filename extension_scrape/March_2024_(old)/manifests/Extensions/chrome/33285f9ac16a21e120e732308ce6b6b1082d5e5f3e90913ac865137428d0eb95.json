@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Budget, Income and Expense Calculator", "version": "1.0", "description": "Budget, Income and Expense Calculator Chrome extension.", "action": {"default_popup": "index.html"}, "icons": {"48": "images/budget-calculator-48.png"}}

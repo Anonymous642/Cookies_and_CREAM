@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NeverStop", "version": "4.5", "description": "Never Stop", "icons": {"48": "icons/play_arrow-48px.png", "96": "icons/play_arrow-96px.png"}, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["pause.js"]}]}

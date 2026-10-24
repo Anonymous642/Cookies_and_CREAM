@@ -1,0 +1,1 @@
+{"name": "B\u00e9champ Vision", "version": "1.0", "description": "Helps you read the web through Antoine B\u00e9champ eyes.", "icons": {"96": "icon.png"}, "manifest_version": 2, "content_scripts": [{"matches": ["*://*/*"], "all_frames": true, "js": ["content_script.js"], "run_at": "document_end"}]}

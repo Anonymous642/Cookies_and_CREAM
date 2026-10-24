@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Estat\u00edsticas de texto", "version": "0.0.0.1", "description": "Exibe a quantidade de letras, palavras e linhas em um texto.", "browser_action": {"default_popup": "index.html"}, "manifest_version": 2, "icons": {"128": "128.png"}}

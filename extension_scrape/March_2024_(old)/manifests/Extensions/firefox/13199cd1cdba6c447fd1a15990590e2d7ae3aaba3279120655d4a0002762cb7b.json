@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bazinga(Bulk Image Download)", "version": "1.69", "description": "Download multiple images instantly!", "content_scripts": [{"matches": ["<all_urls>"], "js": ["download_images.js"]}], "icons": {"48": "icon.png"}, "browser_action": {"default_icon": "icon.png", "default_title": "Bazinga - Bulk Image Downloader", "default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Quote Tab", "description": "Opens new tabs at a custom page containing a random quote", "version": "0.0.0.1", "chrome_url_overrides": {"newtab": "index.html"}, "action": {"default_icon": "icon.png"}}

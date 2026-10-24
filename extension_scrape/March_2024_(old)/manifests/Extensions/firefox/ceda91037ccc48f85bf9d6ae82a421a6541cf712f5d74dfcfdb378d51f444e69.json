@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "M-Pack", "description": "Marathi Collection", "version": "1.0.0", "icons": {"128": "JsonImg.png"}, "browser_action": {"default_icon": "BarImg.png", "default_popup": "popup.html"}, "permissions": ["activeTab"]}

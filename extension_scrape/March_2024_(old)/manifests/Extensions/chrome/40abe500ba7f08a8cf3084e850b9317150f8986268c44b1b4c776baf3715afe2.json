@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bookmark List in New Tab", "version": "1.0.0", "description": "Shows bookmark list in new tab page", "chrome_url_overrides": {"newtab": "newtab.html"}, "permissions": ["bookmarks"]}

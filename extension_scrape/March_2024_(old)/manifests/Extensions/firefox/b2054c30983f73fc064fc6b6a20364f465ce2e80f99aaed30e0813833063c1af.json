@@ -1,0 +1,1 @@
+{"manifest_version": 2, "applications": {"gecko": {"id": "arc-darker-theme-we@afnankhan", "strict_min_version": "60.0a1"}}, "name": "Arc Darker Theme (WebExtension)", "version": "2018.9.26", "description": "Arc Darker theme for Firefox", "icons": {"48": "icon.svg", "96": "icon.svg"}, "background": {"scripts": ["background.js"]}, "permissions": ["theme"]}

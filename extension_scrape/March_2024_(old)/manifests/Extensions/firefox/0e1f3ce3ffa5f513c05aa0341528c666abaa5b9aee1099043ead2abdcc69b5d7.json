@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "largepics", "version": "0.1", "description": "Posts large images on not606.com", "permissions": ["*://api.imgbb.com/*", "tabs"], "icons": {"48": "icons/logo.png"}, "browser_specific_settings": {"gecko": {"id": "largepics@fenster.com"}}, "content_scripts": [{"matches": ["*://*.not606.com/*"], "js": ["largepix.js"]}]}

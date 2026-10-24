@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Medium Filter", "description": "Filter medium notifications", "version": "1.1", "content_scripts": [{"js": ["scripts/Chart.js", "scripts/content.js"], "matches": ["https://medium.com/me/notifications"]}]}

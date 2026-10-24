@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Givster", "description": "Narz\u0119dzie do zbi\u00f3rki pieni\u0119dzy przez internet", "version": "0.0.0.1", "manifest_version": 2, "app": {"urls": ["http://givster.pl/"], "launch": {"web_url": "http://givster.pl/"}}, "icons": {"128": "icon_128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Daily Eloquence", "manifest_version": 3, "version": "1.2.0", "chrome_url_overrides": {"newtab": "./index.html"}, "background": {"service_worker": "backgroundScript.js"}, "action": {"default_icon": "./dailyLogo.png"}, "icons": {"16": "./dailyLogo.png", "48": "./dailyLogo.png", "128": "./dailyLogo.png"}}

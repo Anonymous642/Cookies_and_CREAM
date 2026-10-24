@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "container-picker", "description": "lets you pick account-container from omnibox", "version": "0.1.0", "background": {"scripts": ["dist/index.js"]}, "omnibox": {"keyword": "&"}, "permissions": ["contextualIdentities", "cookies"]}

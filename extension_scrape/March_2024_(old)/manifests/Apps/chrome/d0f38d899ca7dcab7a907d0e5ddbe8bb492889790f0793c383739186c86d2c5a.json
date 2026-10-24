@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TVB Player", "description": "Play live TVB iNews channel.", "manifest_version": 2, "version": "2.0", "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["webview", "alwaysOnTopWindows"], "icons": {"128": "icon128.png"}}

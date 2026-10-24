@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Out-of-date Checker", "version": "0.1.1", "description": "Alerts you if a page was last updated more than two years ago.", "content_scripts": [{"matches": ["http://*/*"], "js": ["index.js"]}]}

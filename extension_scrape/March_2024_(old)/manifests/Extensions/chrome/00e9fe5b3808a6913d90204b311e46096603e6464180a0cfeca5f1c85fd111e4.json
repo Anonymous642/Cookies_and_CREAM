@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "QuickResponse", "description": "When it comes to offering timely and extraordinary responses, QuickResponse is the best solution for managers.\n", "version": "1", "manifest_version": 3, "icons": {}, "action": {"default_popup": "popup.html"}, "permissions": [], "background": {}}

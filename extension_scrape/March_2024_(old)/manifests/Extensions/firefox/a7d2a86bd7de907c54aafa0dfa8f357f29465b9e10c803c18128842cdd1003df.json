@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ah3x", "version": "0.0.1", "author": "Caleb Barger", "description": "Ah ah ah", "permissions": ["tabs", "<all_urls>"], "background": {"scripts": ["ah3x.js"]}, "browser_specific_settings": {"gecko": {"id": "{fd6b1810-77ef-4250-b69c-119c7e5f96de}"}}}

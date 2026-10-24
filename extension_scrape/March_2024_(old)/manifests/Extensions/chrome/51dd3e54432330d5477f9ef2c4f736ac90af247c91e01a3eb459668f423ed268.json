@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u6bd4\u7279\u5e01", "description": "\u663e\u793a\u6bd4\u7279\u5e01\u4ef7\u683c\u4fe1\u606f", "version": "1.0", "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["btcData.js"]}], "manifest_version": 2}

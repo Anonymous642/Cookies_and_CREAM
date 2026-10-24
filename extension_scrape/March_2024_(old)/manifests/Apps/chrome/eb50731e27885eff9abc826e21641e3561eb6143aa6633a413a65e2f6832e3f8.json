@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "RMS 9+", "description": "RMS is a feature rich, cloud based, property management system.", "version": "9.2.1.0", "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://app.rmscloud.com/"], "launch": {"web_url": "https://app.rmscloud.com/"}}}

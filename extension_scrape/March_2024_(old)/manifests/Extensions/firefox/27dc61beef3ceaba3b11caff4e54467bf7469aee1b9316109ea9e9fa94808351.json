@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pocket Popup", "version": "0.2", "description": "Show the Pocket page on a pop-up to easy access", "icons": {"48": "icons/pocket.png"}, "browser_action": {"default_icon": "icons/pocket.png", "default_title": "Pocket Popup", "default_popup": "pocket_popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "minCalendar", "description": "Just a simple calendar.", "version": "0.1.1", "permissions": [], "browser_action": {"default_icon": "img/icon-38x38.png", "default_popup": "index.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "English \u3118\u3128\u311a\u02cb", "version": "1.0.3", "description": "\u544a\u8a34\u4f60\u7e3d\u7d71\u540d\u5b57\u7684\u6b63\u78ba\u767c\u97f3", "icons": {"128": "128.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["main.js"], "css": ["style.css"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Boardgamegeek Quick Hide", "version": "0.2", "content_scripts": [{"matches": ["http://boardgamegeek.com/*", "https://boardgamegeek.com/*"], "js": ["content.js"]}], "icons": {}, "web_accessible_resources": ["script.js"]}

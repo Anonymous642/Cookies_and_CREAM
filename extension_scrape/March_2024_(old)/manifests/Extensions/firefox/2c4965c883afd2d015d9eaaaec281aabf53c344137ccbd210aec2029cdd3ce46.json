@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SetStorm", "version": "1.0", "description": "Adds a shortcut to SetStorm to Firefox.", "homepage_url": "https://setstorm.com", "icons": {"48": "icons/setstorm-48.png"}, "permissions": ["activeTab"], "background": {"scripts": ["content_scripts/setstorm.js"]}, "browser_action": {"default_icon": "icons/setstorm-64.png"}}

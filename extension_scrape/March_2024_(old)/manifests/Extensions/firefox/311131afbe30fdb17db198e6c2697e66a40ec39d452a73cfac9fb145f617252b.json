@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Naver Endic Autocomplete (Unofficial)", "version": "1.0.0", "description": "\ub124\uc774\ubc84 \uc0ac\uc804 \uc790\ub3d9\uc644\uc131 \ubaa9\ub85d\uc744 \ubcf4\uc5ec\uc90d\ub2c8\ub2e4", "content_scripts": [{"all_frames": true, "matches": ["<all_urls>"], "js": ["Rx.min.js", "handler.js"]}], "permissions": ["webRequest", "*://ac.endic.naver.com/*"]}

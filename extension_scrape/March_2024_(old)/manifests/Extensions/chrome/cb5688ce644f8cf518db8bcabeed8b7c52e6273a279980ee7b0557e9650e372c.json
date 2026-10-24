@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "short_name": "Meclaim", "name": "Meclaim", "manifest_version": 2, "browser_action": {"default_popup": "index.html", "default_title": "Meclaim"}, "permissions": ["activeTab", "storage"], "icons": {"16": "favicon-16x16.png", "96": "favicon-96x96.png"}, "version": "1.1.2"}

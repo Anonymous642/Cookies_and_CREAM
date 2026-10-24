@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Youtube preview card", "version": "0.0.0.1", "description": "Add the preview card of publisher", "content_scripts": [{"matches": ["https://*.youtube.com/*"], "js": ["scripts/jquery-3.6.4.min.js", "scripts/content.js"], "html": ["card.html"]}], "author": "zk39"}

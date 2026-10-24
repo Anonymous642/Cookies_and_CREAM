@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Search in en.Wiktionary.com", "description": "Search in en.Wiktionary.com.", "version": "0.1", "manifest_version": 3, "background": {"service_worker": "contextmenu.js"}, "icons": {"32": "icon_32.png"}, "permissions": ["contextMenus", "tabs"]}

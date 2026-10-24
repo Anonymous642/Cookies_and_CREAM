@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "QuoteTab", "version": "0.2.3", "description": "Adds quote to new tab page", "permissions": ["topSites", "<all_urls>", "storage"], "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "chrome_url_overrides": {"newtab": "dayquote.html"}, "applications": {"gecko": {"strict_min_version": "54.0a1"}}}

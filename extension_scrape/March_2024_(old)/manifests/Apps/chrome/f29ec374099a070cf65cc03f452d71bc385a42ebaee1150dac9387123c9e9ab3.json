@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "PETS & MEDS DEPOT", "description": "THE BRAND NEW ONLINE STORE FOR YOUR BEST FRIEND.", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["HTTP://WWW.PETSANDMEDSDEPOT.CO.UK/"], "launch": {"web_url": "HTTP://WWW.PETSANDMEDSDEPOT.CO.UK/"}}}

@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "U8", "version": "0.0.0.2", "icons": {"128": "u8.png"}, "app": {"urls": ["http://u8.smalltalking.net/"], "launch": {"web_url": "http://u8.smalltalking.net/"}}, "permissions": ["http://u8.smalltalking.net/"], "manifest_version": 2}

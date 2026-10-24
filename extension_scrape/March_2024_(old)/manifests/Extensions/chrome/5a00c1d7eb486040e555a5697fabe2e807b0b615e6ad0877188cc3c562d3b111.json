@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "mlnl.me", "description": "URL shortener", "version": "1.4", "browser_action": {"default_icon": "icon.png"}, "background": {"scripts": ["script.js"], "persistent": false}, "permissions": ["tabs"]}

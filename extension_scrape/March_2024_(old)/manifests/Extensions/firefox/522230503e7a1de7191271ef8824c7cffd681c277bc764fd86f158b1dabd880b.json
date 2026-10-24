@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UltimateFRCTab", "version": "1.0.1", "description": "Replaces the Newtab page with an image and information on a random FRC team", "chrome_url_overrides": {"newtab": "newtab.html"}, "browser_specific_settings": {"gecko": {"id": "{a72c8b60-1dbf-48d2-b0f4-d4808505efaa}"}}}

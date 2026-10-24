@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Messenger Darkify", "version": "1.14", "description": "Gives a dark theme to the Facebook messenger website.", "icons": {"48": "icons/donut_48dp.png"}, "content_scripts": [{"matches": ["*://*.messenger.com/*"], "css": ["darkify.css"]}]}

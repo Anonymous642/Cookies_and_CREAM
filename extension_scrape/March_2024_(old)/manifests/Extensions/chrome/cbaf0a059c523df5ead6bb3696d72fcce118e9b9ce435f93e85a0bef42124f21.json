@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "N++", "version": "0.0.2", "content_scripts": [{"matches": ["https://www.nhk.or.jp/common/aplayer/ifr.html"], "js": ["content_script.js"], "all_frames": true}]}

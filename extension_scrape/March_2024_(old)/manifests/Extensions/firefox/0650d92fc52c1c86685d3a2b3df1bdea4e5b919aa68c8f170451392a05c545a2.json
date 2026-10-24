@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sponex", "version": "1.0", "description": "Spotify Next", "default_locale": "en", "icons": {"64": "icons/gm.png"}, "permissions": ["menus", "activeTab"], "background": {"scripts": ["test.js"]}, "applications": {"gecko": {"id": "arashmidos@context.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Cloudflared VNC Cursor fix", "version": "0.0.3", "description": "Fixes the cursor in Cloudflared VNC sessions", "background": {"service_worker": "service-worker.js"}, "action": {}, "permissions": ["tabs", "scripting"], "host_permissions": ["https://*/*"], "manifest_version": 3}

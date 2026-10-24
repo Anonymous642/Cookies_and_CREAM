@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Trump to Clown", "description": "This Chrome extension replaces word Trump with 'The Clown \ud83e\udd21'", "version": "1.0", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

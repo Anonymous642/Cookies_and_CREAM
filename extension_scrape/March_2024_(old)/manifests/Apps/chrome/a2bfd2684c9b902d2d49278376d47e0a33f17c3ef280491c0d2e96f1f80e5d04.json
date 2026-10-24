@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "DutchDoge Faucet", "description": "Faucet-site where you can get 1 to 500 FREE Dogecoins every 15 min!", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["HTTP://WWW.DUTCHDOGE.NL/INDEX.PHP"], "launch": {"web_url": "HTTP://WWW.DUTCHDOGE.NL"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NoRedditNewTab", "version": "1.0", "description": "Tiny browser extension that stops Reddit opening clicked notifications in new tabs", "icons": {"48": "icons/icon48.png"}, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["NoRedditNewTab.js"]}], "browser_specific_settings": {"gecko": {"id": "noredditnewtab@reecemercer.dev"}}}

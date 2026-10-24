@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Btech jntuh notes", "description": "This page gives you imp notes.", "version": "5.0", "icons": {"128": "952896-128.png"}, "browser_action": {"default_icon": "952896-128.png", "default_popup": "popup.html"}, "permissions": ["activeTab", "storage"]}

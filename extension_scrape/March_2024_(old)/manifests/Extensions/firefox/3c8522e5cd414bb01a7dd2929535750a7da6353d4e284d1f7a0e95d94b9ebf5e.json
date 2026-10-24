@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MeryLand", "description": "Restez informer quand M3ry est en live !", "version": "1.4", "icons": {"32": "img/32.png", "64": "img/64.png", "128": "img/128.png"}, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}}

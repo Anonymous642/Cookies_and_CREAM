@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Export Cardmarket Want List to CSV", "version": "1.0.0", "description": "Export Cardmarket Want List to CSV", "manifest_version": 3, "author": "Adrian Hernandez-Lopez", "permissions": ["contextMenus", "activeTab", "scripting"], "background": {"type": "module", "service_worker": "bg.js"}}

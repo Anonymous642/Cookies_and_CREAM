@@ -1,0 +1,1 @@
+{"name": "Driver", "description": "Driver.pk is a simple drive guiding extension for internet users", "version": "0.0.0.12", "background": {"scripts": ["background.js"], "persistent": false}, "permissions": [], "browser_action": {}, "manifest_version": 2, "icons": {"128": "icon128.png"}}

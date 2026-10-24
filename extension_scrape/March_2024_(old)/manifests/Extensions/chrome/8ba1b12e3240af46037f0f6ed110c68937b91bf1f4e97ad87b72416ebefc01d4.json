@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "mylumineyes.com", "version": "1", "manifest_version": 2, "description": "HOW DOES YOUR EYE COLOR CHANGE?", "icons": {"16": "icon.png", "128": "icon_128.png"}, "homepage_url": "https://mylumineyes.com", "browser_action": {"default_icon": "icon.png"}, "background": {"scripts": ["script.js"]}}

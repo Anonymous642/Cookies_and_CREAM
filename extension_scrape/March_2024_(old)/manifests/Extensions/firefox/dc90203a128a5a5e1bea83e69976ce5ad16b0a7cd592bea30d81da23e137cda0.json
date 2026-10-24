@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Big Navigation", "version": "2.5", "description": "__MSG_extensionDescription__", "default_locale": "en", "homepage_url": "https://github.com/temnikov/bignavigation", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "css": ["bignavigation.css"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "EveryDollarBoost", "version": "1.0", "description": "Adds some helpful UI elements to the EveryDollar dashboard.", "icons": {}, "content_scripts": [{"matches": ["*://*.everydollar.com/app/budget"], "js": ["every_dollar_boost.js"], "run_at": "document_end"}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Student Stock Trader", "description": "Create and manage your own virtual portfolio.", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://studentstocktrader.com/"], "launch": {"web_url": "http://studentstocktrader.com/"}}}

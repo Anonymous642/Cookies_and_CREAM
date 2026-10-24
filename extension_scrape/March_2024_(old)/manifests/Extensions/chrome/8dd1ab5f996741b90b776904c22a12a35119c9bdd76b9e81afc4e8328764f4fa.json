@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Starchive from BTS", "version": "1.0", "description": "Set a custom new tab page", "chrome_url_overrides": {"newtab": "index.html"}}

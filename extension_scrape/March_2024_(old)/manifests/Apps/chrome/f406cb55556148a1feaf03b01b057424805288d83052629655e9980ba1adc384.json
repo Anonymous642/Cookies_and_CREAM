@@ -1,0 +1,1 @@
+{"name": "taskme", "description": "The simplest task manager on earth for organizing your work.", "app": {"urls": ["http://www.taskme.co/"], "launch": {"web_url": "http://www.taskme.co/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

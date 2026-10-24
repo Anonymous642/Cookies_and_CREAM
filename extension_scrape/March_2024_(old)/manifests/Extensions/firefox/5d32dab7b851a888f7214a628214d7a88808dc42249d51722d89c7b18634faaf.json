@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Milch to Gift", "version": "1.1", "description": "Ersetzt Milch durch Gift", "applications": {"gecko": {"id": "milch-to-gift@bonker.org", "strict_min_version": "57.0"}}, "content_scripts": [{"matches": ["*://*/*"], "run_at": "document_end", "js": ["milch-to-gift.js"]}]}

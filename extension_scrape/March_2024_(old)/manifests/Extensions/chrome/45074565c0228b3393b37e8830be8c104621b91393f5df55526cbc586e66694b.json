@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "YouTube Focus Mode", "description": "", "version": "1.0", "browser_action": {"default_icon": "icon.png"}, "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["extension.js"], "run_at": "document_end"}], "background": {"scripts": ["background.js"]}}

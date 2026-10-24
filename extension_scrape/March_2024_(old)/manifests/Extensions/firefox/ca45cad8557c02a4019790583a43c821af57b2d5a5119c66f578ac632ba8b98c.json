@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FullWPP", "version": "1.1", "description": "Makes whatsapp web fullscreen.", "icons": {}, "content_scripts": [{"matches": ["*://web.whatsapp.com/*"], "js": ["fullwpp.js"]}], "browser_specific_settings": {"gecko": {"id": "{715908f2-d76d-44d3-a3d8-45495adc76c6}"}}}

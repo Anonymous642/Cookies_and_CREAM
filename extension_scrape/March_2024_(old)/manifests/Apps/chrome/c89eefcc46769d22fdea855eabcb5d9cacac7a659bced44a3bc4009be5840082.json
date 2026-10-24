@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TrackTest English Online CEFR Test", "description": "English online assessment centre for companies and individuals- all levels", "version": "1.0.0.3", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://tracktest.eu/"], "launch": {"web_url": "http://tracktest.eu/"}}}

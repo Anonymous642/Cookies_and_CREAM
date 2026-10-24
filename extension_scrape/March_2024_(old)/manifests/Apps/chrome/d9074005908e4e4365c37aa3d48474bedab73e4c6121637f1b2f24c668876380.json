@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "App Press NOW", "description": "App Press allows designers to create apps code free", "version": "1.1.0", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"128": "icon_128.png"}, "permissions": ["webview"]}

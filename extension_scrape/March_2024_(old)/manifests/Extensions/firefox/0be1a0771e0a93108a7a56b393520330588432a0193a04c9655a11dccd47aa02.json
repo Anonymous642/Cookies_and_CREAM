@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ferrante_Realestate 3.3", "version": "3.2", "description": "Changes the background color to Yellow and creates a blue dashed border to all webpages originating from realestate.com.au.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.realestate.com.au/*"], "js": ["realestate_3.3.js"]}]}

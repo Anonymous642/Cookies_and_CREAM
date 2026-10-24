@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sync My Unit", "version": "1.0", "description": "Syncs units from freddybushboy.github.io/unit-cards/ via Firefox Sync", "icons": {"32": "icons/freddy-32.png"}, "content_scripts": [{"matches": ["*://freddybushboy.github.io/unit-cards/"], "js": ["sync.js"]}], "permissions": ["storage"], "applications": {"gecko": {"id": "ammut@syncmyunit.ch"}}}

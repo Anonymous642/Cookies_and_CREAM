@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Autoplay for iDriveSafely", "version": "1.0", "description": "Auto-plays iDriveSafely defensive driving course.", "content_scripts": [{"matches": ["*://*.idrivesafely.com/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{e0dd3fa1-3743-4aef-8514-9687aa58d443}"}}}

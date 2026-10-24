@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clear History", "version": "1.0", "description": "Clears the browsing history for the website you are accessing.", "permissions": ["history"], "browser_specific_settings": {"gecko": {"id": "clearhistoryextension@gmail.com"}}, "background": {"scripts": ["background.js"], "persistent": false}}

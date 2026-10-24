@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Text Recommendation Add-on", "description": "This add-on provides text recommendations when replying to emails", "version": "1.0", "author": "Kaveh Kasaee", "icons": {"64": "images/internet.png"}, "browser_specific_settings": {"gecko": {"strict_min_version": "78.0", "id": "{707a0675-abc5-411a-8264-41594903bbcb}"}}, "main": "scripts/main.js"}

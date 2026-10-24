@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.0.0", "name": "Plant Planet", "description": "Plant Planet - Second nature to nature lovers", "permissions": ["storage", "unlimitedStorage"], "icons": {"128": "img/icon.png"}, "chrome_url_overrides": {"newtab": "search.html"}}

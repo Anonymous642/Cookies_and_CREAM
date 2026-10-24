@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ASN-Subject Area Copy Extension", "version": "1.0", "description": "A Chrome extension to copy text", "action": {"default_popup": "popup.html"}, "permissions": ["clipboardWrite"]}

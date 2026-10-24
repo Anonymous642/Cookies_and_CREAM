@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_appName__", "description": "__MSG_appDescription__", "app": {"launch": {"web_url": "https://script.google.com/a/macros/rashiku1.com/s/AKfycbxWQap3FBIEg7BYNTsAQoHeWs86_EU4jOEiMh3YZBESe-ssDQg/exec"}}, "default_locale": "ja", "icons": {"128": "icon_128.png"}, "manifest_version": 2, "version": "1.1"}

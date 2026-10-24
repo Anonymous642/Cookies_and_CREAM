@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Personality test", "description": "Learn how you perceive the world and make decisions", "version": "3.0.0.0", "icons": {"128": "personality2.png"}, "app": {"urls": ["http://myerbrigg.appspot.com/"], "launch": {"web_url": "http://myerbrigg.appspot.com/"}}}

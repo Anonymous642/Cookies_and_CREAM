@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "RICL", "description": "Redbridge Insurance Company, Ltd.", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "RICL_128_1.png"}, "app": {"urls": ["http://redbridgeinsurance.com/"], "launch": {"web_url": "http://redbridgeinsurance.com/"}}}

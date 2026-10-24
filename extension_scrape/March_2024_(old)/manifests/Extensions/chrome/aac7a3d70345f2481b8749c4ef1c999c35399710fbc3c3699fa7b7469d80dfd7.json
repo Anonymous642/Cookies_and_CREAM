@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Blank New Tab for Dark Mode", "version": "2.0.1", "description": "The blank new tab that we love made for Chrome in dark mode.", "manifest_version": 2, "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"128": "images/moon-phase-outline-invert.png"}}

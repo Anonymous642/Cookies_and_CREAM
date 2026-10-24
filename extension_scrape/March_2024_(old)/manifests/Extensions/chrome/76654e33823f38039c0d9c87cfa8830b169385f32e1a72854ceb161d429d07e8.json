@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Fast Notes", "description": "Prise de note rapide pour navigateur !", "version": "2.5", "icons": {"32": "32.png", "128": "128.png"}, "background": {"service_worker": "app.js"}, "action": {"default_icon": "32.png", "default_popup": "index.html"}}

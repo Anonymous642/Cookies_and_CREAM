@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Unrounded Thumbnails", "version": "1.2", "description": "Removes round corners from YouTube thumbnails.", "icons": {"48": "icons/icon-48.png", "128": "icons/icon-128.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{8be5cb32-8746-4156-8525-d70b535ca0c7}"}}}

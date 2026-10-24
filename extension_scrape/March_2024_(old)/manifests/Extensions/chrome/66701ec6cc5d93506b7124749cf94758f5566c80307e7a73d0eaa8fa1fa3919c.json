@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Div Highlighter", "version": "1.1", "description": "tool to highlight divs!", "content_scripts": [{"js": ["content.js"], "matches": ["<all_urls>"]}], "browser_action": {"default_popup": "popup.html"}, "permissions": ["http://*/", "https://*/"], "manifest_version": 2}

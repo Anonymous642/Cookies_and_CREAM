@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Facebook Album Arranger", "version": "1.0", "background": {}, "permissions": [], "host_permissions": ["https://www.facebook.com/*"], "content_scripts": [{"matches": ["https://www.facebook.com/*"], "js": ["sizer.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Undistruct YouTube", "version": "1.1", "description": "Hides comments and related-videos section of YouTube.", "icons": {"48": "icons/48.png"}, "applications": {"gecko": {"id": "undestructyoutube@bytewar"}}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["app.js"]}]}

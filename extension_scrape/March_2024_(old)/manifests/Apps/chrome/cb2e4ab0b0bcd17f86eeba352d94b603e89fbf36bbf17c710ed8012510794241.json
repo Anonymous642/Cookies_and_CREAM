@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "EdomApp", "description": "EdomApp", "version": "1.0", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "house_folder_16.png", "128": "house_folder_128.png"}, "permissions": ["http://*/", "storage"]}

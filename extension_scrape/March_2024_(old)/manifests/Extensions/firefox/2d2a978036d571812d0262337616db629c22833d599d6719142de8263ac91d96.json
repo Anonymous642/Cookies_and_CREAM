@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DTM Switch", "version": "1.1", "description": "DTM Switch custom", "homepage_url": "http://gwdhost.dk", "icons": {"48": "icons/dtm-icon-48.jpg"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/dtm-icon-32.jpg", "default_title": "DTM Switch", "default_popup": "popup/dtm-switch-popup.html"}}

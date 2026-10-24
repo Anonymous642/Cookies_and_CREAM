@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Length Matters!", "description": "Length Matters.", "version": "1.0.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "E3dIcon.png", "128": "E3dIcon.png"}}

@@ -1,0 +1,1 @@
+{"app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "icon16x16.png", "128": "icon.png"}, "name": "Row Counter", "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "1.2"}

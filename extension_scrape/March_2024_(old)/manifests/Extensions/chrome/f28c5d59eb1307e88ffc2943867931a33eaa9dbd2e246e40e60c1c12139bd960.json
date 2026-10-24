@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "cal", "version": "1.0", "icons": {"16": "logo.png", "48": "logo.png", "128": "logo.png"}, "manifest_version": 2, "browser_action": {"default_popup": "content.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "India Quiz", "description": "To increase Knowledge about India", "version": "1.0", "icons": {"128": "Untitled_128.png"}, "browser_action": {"default_icon": "logo.png", "default_popup": "index.html"}, "permissions": ["activeTab"]}

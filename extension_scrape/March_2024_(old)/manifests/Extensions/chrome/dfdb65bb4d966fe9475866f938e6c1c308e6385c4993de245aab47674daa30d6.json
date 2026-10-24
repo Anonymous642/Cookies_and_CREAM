@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Chapter 3", "short_name": "C 3", "version": "1.0", "manifest_version": 2, "description": "Chapter 3", "browser_action": {"default_icon": "Chapter_3_19.png", "default_title": "Chapter 3", "default_popup": "popup.html"}}

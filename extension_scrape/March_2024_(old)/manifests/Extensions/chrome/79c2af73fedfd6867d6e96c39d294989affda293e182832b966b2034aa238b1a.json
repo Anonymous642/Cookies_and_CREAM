@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "GD008-template", "version": "1.0", "content_scripts": [{"matches": ["https://app.qubit.com/p/2680/experiences/*"], "js": ["jQuery_v321.min.js", "FA.js", "content.js"]}], "description": "Extension to enhance Qubit template behaviour."}

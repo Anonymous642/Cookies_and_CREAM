@@ -1,0 +1,1 @@
+{"name": "Calculatorful", "description": "Calculatorful - N\u00b0 1 Calculators", "version": "0.0.1", "manifest_version": 2, "browser_action": {"default_title": "Calculatorful - N\u00b0 1 Calculators", "default_popup": ""}, "browser_specific_settings": {"gecko": {"id": "{3f4a9704-47a5-426e-a74f-761e7c23ff4e}"}}}

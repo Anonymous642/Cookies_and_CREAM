@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Calculator for Professors", "description": "This is a Simple Calculator for Professors", "manifest_version": 3, "version": "1.0", "action": {"default_popup": "popup.html", "default_title": "Calculator"}, "icons": {"128": "logo.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Weather", "version": "1.0", "description": "Weather Extension", "icons": {"48": "images/48.png"}, "browser_action": {"default_popup": "index.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{4264c427-88ef-45f2-94aa-f4f9b72dbbec}"}}}

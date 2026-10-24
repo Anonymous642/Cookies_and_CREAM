@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "hanopener", "version": "1.0", "description": "Open Top 30 Newest / Top Posts from Hacker News", "browser_action": {"default_icon": "hanopener.png"}, "permissions": ["https://hacker-news.firebaseio.com/*"], "background": {"scripts": ["hanopener.js"]}}

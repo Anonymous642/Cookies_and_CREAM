@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "result-shortcuts", "version": "1.0", "description": "Provides keyboard shortcuts for google results", "icons": {"48": "icons/probably-the-ugliest-logo-the-world-has-ever-seen.png"}, "content_scripts": [{"matches": ["*://*.google.com/search?*"], "js": ["result-shortcuts.js"], "css": ["result-shortcuts.css"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CodeNinja Snips", "version": "1.0.0", "description": "CodeNinja Code Shortcuts", "manifest_version": 3, "author": "Neil Shah", "action": {"default_popup": "index.html", "default_title": "CodeNinja Snips", "default_width": 1000, "default_height": 500, "default_icon": "icon.png"}}

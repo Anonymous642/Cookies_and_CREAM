@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Docy", "version": "1.0", "applications": {"gecko": {"id": "docy@ionllc.rf.gd"}}, "icons": {"48": "docy.png"}, "browser_action": {"default_title": "Docy", "default_popup": "popup.html"}}

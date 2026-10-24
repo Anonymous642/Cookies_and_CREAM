@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "newNewTab", "version": "1.1", "description": "Give your newTab-Page an all new look!", "chrome_url_overrides": {"newtab": "app/newtab.html"}, "icons": {"48": "app/icons/logo48.png"}, "background": {"scripts": ["app/js/clock.js"]}, "permissions": ["storage"]}

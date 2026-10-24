@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "packers movers bangalore", "description": "Packers Movers Bangalore, Local Shifting Relocation in Bangalore.", "version": "0.0.0.2", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://packersmoversbangalore.in/"], "launch": {"web_url": "http://packersmoversbangalore.in/"}}}

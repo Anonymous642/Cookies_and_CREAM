@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "UD Font Applier", "version": "1.0", "description": "Apply UD font to web pages", "permissions": ["activeTab"], "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "background": {"service_worker": "background.js"}}

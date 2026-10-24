@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Real-Debrid download-all", "version": "1.1.4", "description": "Add a 'Download all' button in Real Debrid", "content_scripts": [{"matches": ["https://real-debrid.com/downloader", "https://real-debrid.com/"], "js": ["index.js"], "css": ["stylesDL.css"]}]}

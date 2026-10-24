@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Productivity Tracker V2", "version": "1.0", "description": "Track your productivity by monitoring website usage.", "icons": {"48": "icon.png"}, "action": {"default_popup": "popup.html"}, "permissions": ["storage", "activeTab"], "background": {"service_worker": "background.js"}}

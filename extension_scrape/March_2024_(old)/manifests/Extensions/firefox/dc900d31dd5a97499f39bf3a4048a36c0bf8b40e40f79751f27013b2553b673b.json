@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube", "version": "1.0", "description": "Skip the YouTube video ads.", "icons": {"48": "skip.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["youtubeads.js"]}], "browser_specific_settings": {"gecko": {"id": "{472746d9-21d9-41b1-af9d-88d940c5fca8}"}}}

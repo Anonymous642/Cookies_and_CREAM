@@ -1,0 +1,1 @@
+{"name": "PASTats", "version": "1.1", "manifest_version": 2, "description": "Technology helping exploring your past", "browser_action": {"default_icon": "icon.png", "default_popup": "go.html"}, "icons": {"48": "icon.png", "96": "icon.png"}, "permissions": ["history"]}

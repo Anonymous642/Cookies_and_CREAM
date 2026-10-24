@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Webflow", "description": "Note based application that allows the user to create and drag around small notes.", "version": "0.0.1", "permissions": ["storage"], "action": {"default_popup": "main.html", "default_icon": "cool-text.png"}}

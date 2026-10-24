@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "3.13", "name": "asin", "description": "asin", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "permissions": ["storage", "activeTab", "scripting"], "action": {"default_icon": "icon128.png", "default_popup": "popup.html", "default_title": "asin"}}

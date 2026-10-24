@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "RadioDil.com - Listen Live", "version": "0.3", "icons": {"128": "app_icon.png"}, "permissions": ["storage", "webview"], "app": {"background": {"scripts": ["background.js"]}}, "minimum_chrome_version": "28"}

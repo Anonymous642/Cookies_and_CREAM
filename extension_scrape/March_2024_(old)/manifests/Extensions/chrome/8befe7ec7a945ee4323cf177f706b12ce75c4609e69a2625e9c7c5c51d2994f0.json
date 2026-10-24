@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "anti-phishing", "version": "0.0.1", "description": "Warn if a URL is similar to a whitelisted URL.", "manifest_version": 2, "permissions": ["tabs"], "background": {"scripts": ["bundle.js"]}}

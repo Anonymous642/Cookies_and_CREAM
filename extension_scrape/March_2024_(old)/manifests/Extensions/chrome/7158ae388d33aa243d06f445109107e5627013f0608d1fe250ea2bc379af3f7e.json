@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Live Laurebee Twitch", "description": "Sachez quand la reine des abeilles stream", "version": "1.2", "browser_action": {"default_popup": "index.html"}, "icons": {"64": "img/EnLiveGreenR.png"}, "background": {"scripts": ["jquery.js", "background.js"]}}

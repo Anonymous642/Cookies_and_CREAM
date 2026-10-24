@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Azure DevOps Theme", "version": "0.3.0", "description": "Provide theme to Azure DevOps", "content_scripts": [{"css": ["styles.css"], "js": ["content.js"], "matches": ["https://dev.azure.com/*"]}], "browser_specific_settings": {"gecko": {"id": "{abb4c5cf-651a-4c63-8a15-39582fbba839}"}}}

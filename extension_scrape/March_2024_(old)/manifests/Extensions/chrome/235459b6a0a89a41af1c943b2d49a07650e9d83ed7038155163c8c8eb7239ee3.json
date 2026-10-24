@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Solid Underlines", "version": "0.1", "description": "Prevents descenders breaking underlines for anchor elements in Chrome.", "manifest_version": 2, "content_scripts": [{"matches": ["*://*/*"], "css": ["skipinkno.css"]}]}

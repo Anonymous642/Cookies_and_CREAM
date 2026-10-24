@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Horizon Europe", "description": "Extension to search for EU Grants and Tenders from browser.", "version": "3", "background": {"service_worker": "background.js"}, "icons": {"64": "horizoneurope.png"}, "permissions": ["activeTab"], "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Center docs.rs", "version": "1.0", "description": "Center rust docs's content", "browser_specific_settings": {"gecko": {"id": "saengduanpawat@gmail.com"}}, "content_scripts": [{"matches": ["https://doc.rust-lang.org/*", "https://docs.rs/*"], "exclude_matches": ["https://docs.rs/crates/*"], "js": ["center-docs.js"]}]}

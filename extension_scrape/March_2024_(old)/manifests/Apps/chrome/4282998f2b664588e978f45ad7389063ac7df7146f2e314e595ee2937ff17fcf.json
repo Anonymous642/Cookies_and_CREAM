@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sudoku Guide", "version": "1.3.0.2", "manifest_version": 2, "icons": {"128": "sudoku_icon.png"}, "app": {"urls": ["http://www.gamesguidee.com/guide/sudoku"], "launch": {"web_url": "http://www.gamesguidee.com/guide/sudoku"}}}

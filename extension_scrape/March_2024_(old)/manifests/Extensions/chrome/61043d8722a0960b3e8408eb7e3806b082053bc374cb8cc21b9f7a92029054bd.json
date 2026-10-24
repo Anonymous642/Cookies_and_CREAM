@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "GTFOutside", "description": "Hides Zwift/TrainerRoad/trainer activities on Strava.", "version": "0.5.3", "author": "Jason Friedland <jason@friedland.id.au>", "content_scripts": [{"matches": ["*://www.strava.com/dashboard*"], "js": ["content.js"], "run_at": "document_idle"}]}

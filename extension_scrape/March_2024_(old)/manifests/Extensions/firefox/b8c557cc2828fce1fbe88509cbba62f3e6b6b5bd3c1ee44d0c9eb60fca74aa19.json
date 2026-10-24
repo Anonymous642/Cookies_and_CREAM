@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ampare Search This on Youtube", "version": "1.2", "description": "Search Selection Text on Youtube", "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["script.js"]}, "icons": {"128": "icon.png"}}

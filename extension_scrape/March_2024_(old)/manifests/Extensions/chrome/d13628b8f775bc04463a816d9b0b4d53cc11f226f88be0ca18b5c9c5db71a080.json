@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Christmas Countdown", "version": "1.1", "description": "Count down to joy! Explore our Christmas Day Countdown Clock.", "action": {"default_icon": {"48": "3.png", "96": "2.png", "128": "1.png"}, "default_popup": "popup.html"}, "icons": {"48": "3.png", "96": "2.png", "128": "1.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Test", "version": "1.0", "description": "Twitter Gyotaku", "icons": {"48": "icon/48.png"}, "content_scripts": [{"matches": ["*://twitter.com/*/status/*"], "js": ["js/sample.js"]}]}

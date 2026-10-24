@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Topsites test", "version": "0.2", "chrome_url_overrides": {"newtab": "sites.html"}, "permissions": ["topSites", "tabs", "<all_urls>"], "browser_specific_settings": {"gecko": {"id": "{28bfe96e-27e6-480f-bf1e-e39c80929f58}"}}}

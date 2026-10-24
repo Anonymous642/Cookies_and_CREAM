@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "boncoin-fast-navigation", "version": "1.0", "description": "CTRL + Enter shortcut to quickly submit forms on LeBoncoin", "content_scripts": [{"matches": ["https://www.leboncoin.fr/*"], "js": ["inject-script.js"]}], "web_accessible_resources": ["content.js"]}

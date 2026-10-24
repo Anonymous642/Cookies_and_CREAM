@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "wiki-less", "version": "0.1.0", "description": "Touch up the new Wikipedia design.", "content_scripts": [{"matches": ["*://*.wikipedia.org/*"], "css": ["calm-down.css"]}], "browser_specific_settings": {"gecko": {"id": "{228c692f-379f-4cbf-b9c3-1d415c9d398c}"}}}

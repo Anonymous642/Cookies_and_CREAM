@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "web destroyer", "version": "1.0.0", "content_scripts": [{"matches": ["<all_urls>"], "js": ["Content.js"]}], "browser_action": {"default_popup": "Popup.html", "default_title": "DestroyWeb"}, "browser_specific_settings": {"gecko": {"id": "{f12b0709-d301-4603-a34e-bf2944e5dfac}"}}}

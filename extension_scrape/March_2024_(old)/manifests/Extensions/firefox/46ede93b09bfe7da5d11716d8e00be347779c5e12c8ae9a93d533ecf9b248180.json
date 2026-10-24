@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "lowercase", "version": "1.0", "description": "All text is transformed to lowercase.", "author": "katchov", "icons": {"64": "lowercase.svg"}, "browser_specific_settings": {"gecko": {"id": "lowercase@katchov"}}, "content_scripts": [{"matches": ["<all_urls>"], "css": ["lowercase.css"], "all_frames": true, "run_at": "document_start"}]}

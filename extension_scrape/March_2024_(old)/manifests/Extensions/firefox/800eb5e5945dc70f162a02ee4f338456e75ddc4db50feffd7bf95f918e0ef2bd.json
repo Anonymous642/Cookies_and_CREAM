@@ -1,0 +1,1 @@
+{"description": "Adds an option 'Search with Bing' in the context menu(right click menu), to search for highlighted text", "manifest_version": 2, "name": "Bing Search", "version": "0.2.0.3", "permissions": ["activeTab", "contextMenus"], "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "background": {"scripts": ["background.js"]}}

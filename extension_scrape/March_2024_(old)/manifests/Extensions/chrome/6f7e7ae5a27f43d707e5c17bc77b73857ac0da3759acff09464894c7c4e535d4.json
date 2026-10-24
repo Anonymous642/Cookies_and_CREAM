@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "My Doctor On the Go Bookings", "description": "Book your Doctor appointments online", "version": "1.4", "action": {"default_popup": "index.html", "default_title": "My Doctor On the Go Bookings", "default_icon": "images/favicon.png"}, "manifest_version": 3}

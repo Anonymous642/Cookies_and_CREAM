@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Combo Burger", "description": "Create a Burger by shooting a burger bun at burger toppings! The Ultimate Burger Game!", "version": "2", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "icon_16.png", "128": "icon_128.png"}}

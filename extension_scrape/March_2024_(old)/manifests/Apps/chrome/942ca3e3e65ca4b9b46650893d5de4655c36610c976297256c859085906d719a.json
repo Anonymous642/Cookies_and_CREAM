@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "EasyBox", "description": "Aplicaci\u00f3n para facilitar el cuadre diario del negocio.", "manifest_version": 2, "version": "0.7", "app": {"launch": {"local_path": "index.html"}}, "permissions": ["unlimitedStorage", "notifications", "http://*/"], "icons": {"16": "icon_16.png", "128": "icon_128.png"}}

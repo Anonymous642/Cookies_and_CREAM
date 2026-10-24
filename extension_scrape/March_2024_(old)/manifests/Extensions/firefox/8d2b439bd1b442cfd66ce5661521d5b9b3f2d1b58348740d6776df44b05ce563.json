@@ -1,0 +1,1 @@
+{"name": "JustAnswer", "version": "4.0.0", "manifest_version": 2, "background": {"page": ""}, "action": {}, "browser_specific_settings": {"gecko": {"id": "{db22bb66-069e-4148-83cf-3fb2676118ba}"}}}

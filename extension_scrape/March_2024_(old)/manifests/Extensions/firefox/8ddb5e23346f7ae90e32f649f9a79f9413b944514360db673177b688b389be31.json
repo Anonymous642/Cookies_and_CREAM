@@ -1,0 +1,1 @@
+{"description": "search from sov2ex", "manifest_version": 2, "name": "sov2", "version": "1.0", "icons": {"16": "assets/favicon-16x16.png"}, "chrome_settings_overrides": {"search_provider": {"name": "sov2ex", "search_url": "https://www.sov2ex.com/?q={searchTerms}", "keyword": "v2", "is_default": false}}}

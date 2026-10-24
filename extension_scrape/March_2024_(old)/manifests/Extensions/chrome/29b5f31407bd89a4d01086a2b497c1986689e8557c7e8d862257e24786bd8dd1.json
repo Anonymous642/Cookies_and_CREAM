@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Traffic Cone Youtube Changer", "description": "This extention will help you study by changing all youtube videos", "version": "0.1.0", "manifest_version": 3, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "css": ["styles.css"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "uniegle", "version": "2.0.1", "description": "Better omegle project. Automatically skip annoying people, dark theme. More coming soon.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*.omegle.com/*"], "js": ["js/jq.js", "js/engine.js"], "css": ["css/omegle.css"]}]}

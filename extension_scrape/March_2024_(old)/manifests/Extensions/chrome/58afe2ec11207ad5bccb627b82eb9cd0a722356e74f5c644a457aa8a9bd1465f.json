@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Wikidata search", "description": "Quickly lookup the highlighted text on Wikidata", "version": "1.0.0", "icons": {"32": "icons/wikidata-32.png", "48": "icons/wikidata-48.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "My Jupyter Notebook", "version": "1.0", "description": "Customization of Jupyter Notebooks", "content_scripts": [{"matches": ["*://*/notebooks/*"], "js": ["dark.js"]}]}

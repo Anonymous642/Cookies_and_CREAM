@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "literasee.io", "version": "2.0.0", "short_name": "literasee.io", "description": "View any supported gist on literasee.io.", "icons": {"128": "icon-128.png"}, "content_scripts": [{"matches": ["https://gist.github.com/*"], "js": ["blocks.js"], "run_at": "document_end"}]}

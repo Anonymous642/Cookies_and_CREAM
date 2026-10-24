@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MeLi USD", "description": "Calcula el precio del art\u00edculo en d\u00f3lares a cotizaci\u00f3n blue.", "version": "1.1", "action": {"default_icon": "icon.png"}, "permissions": [], "content_scripts": [{"matches": ["https://*.mercadolibre.com.ar/*"], "js": ["index.js"]}]}

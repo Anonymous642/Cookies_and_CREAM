@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"launch": {"web_url": "http://bn.saifulislam.info/"}, "urls": ["http://bn.saifulislam.info/"]}, "description": "Saiful Islam's Bangla Blog", "icons": {"128": "saifulislam-icon.png"}, "manifest_version": 2, "name": "Saiful Islam's Bangla Blog", "version": "1.0"}

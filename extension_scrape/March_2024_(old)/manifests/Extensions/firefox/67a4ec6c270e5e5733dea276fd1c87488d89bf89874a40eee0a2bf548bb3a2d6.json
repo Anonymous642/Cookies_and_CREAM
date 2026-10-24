@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "[email protected]", "version": "0.2", "description": "Deobfuscate e-mail addresses \"protected\" by Cloudflare", "homepage_url": "https://anomalous.eu/projects/email-protected", "icons": {"48": "icon.svg", "96": "icon.svg"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

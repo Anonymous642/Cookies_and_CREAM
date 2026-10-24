@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Free Online Ruler", "manifest_version": 2, "short_name": "Free Online Ruler", "description": "Ruler with centimeters and inches. Configurable for different screens.", "version": "1", "icons": {"128": "icon.jpg"}, "app": {"launch": {"web_url": "http://online-ruler.hekoru.lol/"}}}

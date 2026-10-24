@@ -1,0 +1,1 @@
+{"manifest_version": 2, "applications": {"gecko": {"id": "arc-theme-we@afnankhan", "strict_min_version": "58.0"}}, "name": "Arc Theme (WebExtension)", "version": "2018.3.7", "description": "Arc theme for Firefox", "icons": {"48": "icon.svg", "96": "icon.svg"}, "background": {"scripts": ["background.js"]}, "permissions": ["theme"]}

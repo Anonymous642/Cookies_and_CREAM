@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "On The Regimen Macros", "description": "A simple reminder everytime you open a new tab that your body is tracking macros even when you don't!", "version": "1.0.1", "manifest_version": 2, "icons": {"128": "Watermark.png"}, "chrome_url_overrides": {"newtab": "otr.html"}}

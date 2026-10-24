@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "remove-ad", "version": "2.0", "description": "Removes annoying and disgusting Linkedin ads", "icons": {"48": "icons/Remove-ad.png"}, "content_scripts": [{"matches": ["https://www.linkedin.com/*/*/"], "js": ["remove-ad.js"]}], "browser_specific_settings": {"gecko": {"id": "{85b0bcc4-51a6-4c3d-ab91-58853514252e}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ChatGPTff", "version": "1.1", "description": "Adds ability to ask question from parameter q", "content_scripts": [{"matches": ["*://chat.openai.com/*"], "js": ["chatgptff.js"]}], "browser_specific_settings": {"gecko": {"id": "{4778ff97-6e8c-40bc-82ae-0d26b814d35f}"}}}

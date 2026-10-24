@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sweeze", "version": "1.2.1", "description": "Sweeze, fork of Breeze++ tailored for usage in tags.", "icons": {"16": "icon.svg", "48": "icon.svg", "96": "icon.svg"}, "content_scripts": [{"matches": ["*://*.nationstates.net/*"], "js": ["jquery-3.1.1.min.js", "content.js"]}]}

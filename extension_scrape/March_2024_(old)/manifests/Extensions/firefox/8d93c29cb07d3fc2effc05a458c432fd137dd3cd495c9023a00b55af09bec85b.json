@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "New Tab Context", "description": "Adds a tab context menu item that opens an adjacent new tab.", "version": "1.0", "developer": {"name": "Luke Baker", "url": "https://www.reddit.com/user/Luke-Baker/"}, "icons": {"48": "icon_48.png", "96": "icon_96.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["menus"]}

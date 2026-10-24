@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Remarque", "version": "0.0.8", "description": "Remarque is a multi files note tool in blank tab.", "icons": {"16": "remarque.png", "48": "remarque.png", "128": "remarque.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["storage"]}

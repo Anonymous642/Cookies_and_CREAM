@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "German Dictionary", "version": "2.1", "author": "Robert Kaiser (dict by Bj\u00f6rn Jacke, Franz Michael Baumann)", "dictionaries": {"de-DE": "dictionaries/de-DE.dic"}, "browser_specific_settings": {"gecko": {"id": "de-DE@dictionaries.addons.mozilla.org"}}}

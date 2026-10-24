@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "HIZLI\u00c7EV\u0130R\u0130", "description": "Online Profesyonel \u00c7eviri Hizmeti", "version": "1.0", "icons": {"128": "128.png"}, "app": {"urls": ["http://hizliceviri.COM/"], "launch": {"web_url": "http://hizliceviri.COM/"}}, "permissions": ["unlimitedStorage", "notifications"]}

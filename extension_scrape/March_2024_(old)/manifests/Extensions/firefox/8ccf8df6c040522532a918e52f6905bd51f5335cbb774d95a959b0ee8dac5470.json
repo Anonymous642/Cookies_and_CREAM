@@ -1,0 +1,1 @@
+{"name": "HariniOnlineJobs- B sravan kumar", "description": "Harini Online Jobs", "version": "8", "permissions": ["https://www.harinionlinejobs.in/"], "content_scripts": [{"matches": ["https://www.amazon.com/ap/signin*"], "js": ["popup.js"], "run_at": "document_end"}], "manifest_version": 2, "browser_action": {"default_icon": "icon48.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Bill Counter", "version": "1.0", "description": "Counts total value of USD bills.", "action": {"default_popup": "popup.html"}, "permissions": [], "icons": {"24": "24.png", "48": "48.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "InstantHash", "description": "MD5 and SHA-1 Encrypt. We are going to add other algorithms.", "version": "0.0.5", "manifest_version": 2, "browser_action": {"default_title": "InstantHash", "default_popup": "popup.html"}, "background": {"page": "background.html"}}

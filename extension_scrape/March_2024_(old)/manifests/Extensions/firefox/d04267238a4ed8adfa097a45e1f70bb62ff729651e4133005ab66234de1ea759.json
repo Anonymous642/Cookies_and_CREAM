@@ -1,0 +1,1 @@
+{"content_scripts": [{"js": ["donald.js"], "matches": ["http://*/*", "https://*/*"], "run_at": "document_start"}], "web_accessible_resources": ["donald/*"], "description": "Make Donald Duck Again!", "manifest_version": 2, "name": "Make Donald Duck Again", "permissions": ["http://*/*", "https://*/*"], "short_name": "makedonaldduckagain", "version": "0.5"}

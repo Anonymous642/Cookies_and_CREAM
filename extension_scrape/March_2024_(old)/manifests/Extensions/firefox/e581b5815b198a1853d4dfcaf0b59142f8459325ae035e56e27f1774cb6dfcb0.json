@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SYDTicketSharePoint", "version": "1.0", "description": "Ouvre le ticket SharePoint en fonction du Nom de client et num\u00e9ro de Ticket", "icons": {"48": "icons/SharePoint-48.png"}, "browser_action": {"default_icon": {"32": "icons/SharePoint-32.png"}, "default_title": "SYD Ticket SharePoint", "default_popup": "popup/SYDTicketSharePoint.html"}}

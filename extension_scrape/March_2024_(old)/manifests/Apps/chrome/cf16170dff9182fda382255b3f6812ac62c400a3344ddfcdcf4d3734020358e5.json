@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Script Installation Services/Website Setup", "description": "Best script installation service, website/blog set up & transfer.", "version": "2.0.1", "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.siteduct.com/index.php"], "launch": {"web_url": "http://www.siteduct.com"}}}

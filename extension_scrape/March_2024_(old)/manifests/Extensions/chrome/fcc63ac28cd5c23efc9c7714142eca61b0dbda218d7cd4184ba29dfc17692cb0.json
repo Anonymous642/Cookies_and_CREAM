@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Extension de Benichouuu", "version": "1.2", "description": "Ne rate plus un live de Benichouuu !", "browser_action": {"default_popup": "index.html"}, "icons": {"64": "img/off.png"}, "background": {"scripts": ["jquery.js", "background.js"]}}

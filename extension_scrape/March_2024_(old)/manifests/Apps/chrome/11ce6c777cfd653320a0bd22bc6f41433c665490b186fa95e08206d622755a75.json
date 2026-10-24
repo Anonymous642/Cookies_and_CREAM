@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Clash", "description": "A mini strategy game", "manifest_version": 2, "version": "0.1.1", "app": {"launch": {"web_url": "http://clashgame.github.io"}}, "icons": {"128": "icon_128.png"}}

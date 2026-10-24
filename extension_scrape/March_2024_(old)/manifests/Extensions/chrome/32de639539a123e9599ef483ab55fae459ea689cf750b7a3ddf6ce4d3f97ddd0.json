@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Important Notes Saver", "version": "1.0", "description": "An extension to save important notes about daily tasks.", "icons": {"48": "icons/icon.png"}, "action": {"default_popup": "popup.html", "default_icon": {"48": "icons/icon.png"}}, "permissions": ["storage"]}

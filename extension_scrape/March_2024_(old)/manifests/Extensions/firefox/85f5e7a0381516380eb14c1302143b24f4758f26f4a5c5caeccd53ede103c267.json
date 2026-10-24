@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Amazon Detail page", "description": "Search on Amazon", "version": "1.0", "icons": {"48": "logo_48.jpg"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}}

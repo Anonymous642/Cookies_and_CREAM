@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Nba Extension", "version": "1.1", "action": {"default_icon": "images/nba-2-icon.png", "default_popup": "popup/popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tyny.To Anonymous URL Shortner", "version": "1.0", "permissions": ["activeTab", "clipboardWrite"], "icons": {"128": "images/favicon.png"}, "action": {"default_popup": "popup.html"}}

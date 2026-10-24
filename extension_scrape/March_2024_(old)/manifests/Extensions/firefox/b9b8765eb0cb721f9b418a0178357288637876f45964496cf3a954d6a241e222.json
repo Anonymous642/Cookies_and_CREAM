@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hide Scrollbar", "version": "0.1.0", "description": "Hide webpage scrollbar.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["main.js"]}], "applications": {"gecko": {"id": "hidescrollbar@jokenngo"}}}

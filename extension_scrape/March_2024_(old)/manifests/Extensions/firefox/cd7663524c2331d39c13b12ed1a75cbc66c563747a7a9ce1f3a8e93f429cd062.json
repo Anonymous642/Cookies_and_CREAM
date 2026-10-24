@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BetterCF", "version": "0.1.1", "description": "Improves UI of CurseForge and adds additional features.", "icons": {"48": "images/48.png"}, "content_scripts": [{"matches": ["*://*.curseforge.com/projects/*/files/*"], "js": ["content.js"]}]}

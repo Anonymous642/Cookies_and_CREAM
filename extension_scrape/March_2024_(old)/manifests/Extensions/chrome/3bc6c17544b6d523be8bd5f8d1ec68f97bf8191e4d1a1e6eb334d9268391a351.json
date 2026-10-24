@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Fix Dialer", "version": "2.1", "description": "", "icons": {"16": "images/fix_dialer16.png", "32": "images/fix_dialer32.png", "48": "images/fix_dialer48.png", "128": "images/fix_dialer128.png"}, "content_scripts": [{"css": ["styles.css"], "matches": ["https://*.scc24.pl/*"]}]}

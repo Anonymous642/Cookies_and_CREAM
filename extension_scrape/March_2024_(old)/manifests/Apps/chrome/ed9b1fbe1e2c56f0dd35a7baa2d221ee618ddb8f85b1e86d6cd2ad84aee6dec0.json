@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Giovanni Ficarra", "description": "il mio blog", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://giovannificarra.wordpress.com/"], "launch": {"web_url": "http://giovannificarra.wordpress.com/"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Motherpipe f\u00fcr Chrome (DE)", "description": "Sch\u00fctze Deine Privatsph\u00e4re. Suche anonym.", "version": "1.0", "permissions": ["https://motherpipe.de/"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Weersverwachting", "short_name": "Weer", "manifest_version": 2, "version": "1.2", "icons": {"128": "weersverwachting.png"}, "app": {"urls": ["http://nedweer.nl/"], "launch": {"web_url": "http://nedweer.nl/"}}}

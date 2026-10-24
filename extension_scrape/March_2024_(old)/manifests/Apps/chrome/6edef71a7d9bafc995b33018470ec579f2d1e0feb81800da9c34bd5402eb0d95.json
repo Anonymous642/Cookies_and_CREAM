@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Wootric", "description": "Measure Net Promoter Score inside your web app and woo your customers.", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://www.wootric.com/"], "launch": {"web_url": "https://www.wootric.com/"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "AI Homepage", "version": "1.0", "description": "Display on new tab", "chrome_url_overrides": {"newtab": "index.html"}, "manifest_version": 3}

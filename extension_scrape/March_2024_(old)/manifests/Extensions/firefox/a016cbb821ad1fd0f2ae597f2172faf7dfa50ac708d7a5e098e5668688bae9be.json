@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ignores SLS Browser Upgrades", "version": "1.2", "description": "Ignores SLS Browser Upgrades", "content_scripts": [{"matches": ["*://vle.learning.moe.edu.sg/browser/upgrade/"], "js": ["ignore.js"]}, {"matches": ["*://vle.learning.moe.edu.sg/"], "js": ["hide.js"]}, {"matches": ["*://vle.learning.moe.edu.sg/*"], "js": ["hide.js"]}]}

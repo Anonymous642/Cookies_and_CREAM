@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Link Shortner - eeb.me", "version": "1.20", "description": "Link Shortner - eeb.me, zpit.us, cvrd.us, eaby.us", "manifest_version": 3, "author": "Gigsix", "action": {"default_popup": "index.html", "default_title": "Link Shortner"}, "permissions": ["storage", "tabs"]}

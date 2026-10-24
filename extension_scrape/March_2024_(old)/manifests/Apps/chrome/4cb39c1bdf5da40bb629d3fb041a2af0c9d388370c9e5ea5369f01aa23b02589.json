@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Eric", "short_name": "Eric", "description": "You are the Blue Block, Use the arrow keys to collect the Green Blocks, Avoid the Red Blocks", "version": "0.151", "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "app": {"background": {"scripts": ["background.js"]}}}

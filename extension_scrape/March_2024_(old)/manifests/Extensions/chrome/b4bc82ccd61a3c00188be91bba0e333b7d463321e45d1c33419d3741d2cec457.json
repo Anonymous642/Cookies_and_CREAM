@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Me Envi\u00f1uela", "version": "0.2.0", "description": "Cambia Me Divierte por Me Envi\u00f1uela", "icons": {"19": "icon19.png", "128": "icon128.png", "200": "icon200.png"}, "content_scripts": [{"css": ["styles.css"], "js": ["content.js"], "matches": ["https://www.facebook.com/*"]}]}

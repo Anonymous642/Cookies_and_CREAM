@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VolumeControl", "version": "1.0", "description": "Controls 9gag volume", "content_scripts": [{"matches": ["*://*.9gag.com/*"], "js": ["jquery/jquery-min.js", "index.js"], "css": ["css/styles.css"]}]}

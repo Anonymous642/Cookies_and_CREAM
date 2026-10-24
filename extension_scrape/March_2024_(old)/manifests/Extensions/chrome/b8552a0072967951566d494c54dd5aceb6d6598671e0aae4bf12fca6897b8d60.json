@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Multiple Image Search", "version": "1.0", "permissions": ["scripting"], "host_permissions": ["http://www.google.com/*", "http://google.com/*", "https://www.google.com/*", "https://google.com/*"], "icons": {"128": "icon.png"}, "action": {"default_popup": "popup.html"}}

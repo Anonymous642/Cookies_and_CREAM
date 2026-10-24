@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "MG Mobile", "description": "Marketing Mobile", "version": "1.1", "icons": {"128": "icone-mg.png"}, "app": {"urls": ["http://www.mgmobile.fr/"], "launch": {"web_url": "http://www.mgmobile.fr/"}}, "permissions": ["unlimitedStorage", "notifications"]}

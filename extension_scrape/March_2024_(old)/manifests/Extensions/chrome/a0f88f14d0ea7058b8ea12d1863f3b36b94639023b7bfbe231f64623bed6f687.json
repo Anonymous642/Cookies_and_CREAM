@@ -1,0 +1,1 @@
+{"background": {"scripts": ["simcreate.js"]}, "description": "Adds a SIM link to the context menu for Sarek issues", "icons": {"16": "icon16.png", "48": "icon48.png"}, "manifest_version": 2, "name": "Sarek Issue Creator", "permissions": ["contextMenus"], "update_url": "https://clients2.google.com/service/update2/crx", "version": "1.0"}

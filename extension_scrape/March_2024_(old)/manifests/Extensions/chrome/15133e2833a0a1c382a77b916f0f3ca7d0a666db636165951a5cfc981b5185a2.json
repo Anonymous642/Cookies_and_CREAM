@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PS! 3D sprites", "description": "Missing SV 3D pokemon sprites/models for Pokemon Showdown.", "version": "1", "content_scripts": [{"matches": ["*://play.pokemonshowdown.com/*", "*://replay.pokemonshowdown.com/*", "*://*.psim.us/*"], "js": ["/shim.js"]}]}

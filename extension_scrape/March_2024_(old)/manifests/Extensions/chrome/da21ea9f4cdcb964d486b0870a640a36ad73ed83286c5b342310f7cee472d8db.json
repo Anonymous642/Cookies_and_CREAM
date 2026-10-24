@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Vocab Tree", "author": "Kirti Gaurav Mishra", "version": "1.0.1", "description": "Replace new tab screen with English word", "icons": {"16": "favicon-16x16.png", "48": "android-icon-48x48.png", "128": "apple-touch-icon-120x120.png"}, "chrome_url_overrides": {"newtab": "index.html"}}

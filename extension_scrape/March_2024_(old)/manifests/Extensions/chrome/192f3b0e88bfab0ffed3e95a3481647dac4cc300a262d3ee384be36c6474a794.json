@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "HC History URLs", "version": "3.0.2", "description": "Check your history, it will show the top ten results, and you go to any page by click the URL.", "permissions": ["history"], "action": {"default_popup": "typedUrls.html", "default_icon": "clock.png"}, "manifest_version": 3}

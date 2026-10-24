@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Dog Cuties", "description": "This is a Dog Cuties New Tab Chrome extension.", "version": "1.2", "chrome_url_overrides": {"newtab": "index.html"}, "update_url": "https://clients2.google.com/service/update2/crx", "content_security_policy": {"extension_pages": "script-src 'self'; object-src 'self'"}}

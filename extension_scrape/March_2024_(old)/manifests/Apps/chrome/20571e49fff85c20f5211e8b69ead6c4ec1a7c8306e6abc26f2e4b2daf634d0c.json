@@ -1,0 +1,1 @@
+{"name": "Select-A-Seat", "description": "Get your tickets here!", "app": {"urls": ["http://www.selectaseat.com/"], "launch": {"web_url": "http://www.selectaseat.com/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "1.0", "icons": {"16": "sas_16.png", "128": "sas_128.png"}}

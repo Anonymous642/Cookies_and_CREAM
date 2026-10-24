@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Awesome IP Finder", "description": "Provides your current ip address, city, postal, weather forecast. You can also query other ip address.", "version": "1.0", "icons": {"128": "icon.png"}, "browser_action": {"default_icon": {"19": "icon.png", "38": "icon.png"}, "default_title": "Awesome IP Finder"}, "background": {"scripts": ["bg.js"]}}

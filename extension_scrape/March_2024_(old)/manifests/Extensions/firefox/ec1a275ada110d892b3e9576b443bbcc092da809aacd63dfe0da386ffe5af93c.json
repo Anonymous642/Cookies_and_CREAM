@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Google Search UI Chooser", "author": "tech234a", "version": "0.4.1", "permissions": ["webRequest", "webRequestBlocking", "https://images.google.com/*", "https://www.google.com/*", "storage"], "background": {"scripts": ["b.js"]}, "options_ui": {"page": "options.html", "open_in_tab": false}}

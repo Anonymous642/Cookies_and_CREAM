@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "EcomCalc", "description": "EcomCalc a calculadora de pre\u00e7os da Amazon feita pela EcomVision", "version": "5", "manifest_version": 3, "content_scripts": [{"matches": ["https://www.amazon.com.br/*"], "js": ["popup.js"], "all_frames": true}]}

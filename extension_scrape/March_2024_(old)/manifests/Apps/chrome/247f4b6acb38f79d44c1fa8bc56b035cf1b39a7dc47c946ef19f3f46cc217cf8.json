@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bryan Test App", "version": "1.0", "manifest_version": 2, "icons": {"16": "16.png", "128": "128.png"}, "app": {"background": {"scripts": ["background.js"], "persistent": false}}, "permissions": ["webview"], "kiosk_enabled": true}

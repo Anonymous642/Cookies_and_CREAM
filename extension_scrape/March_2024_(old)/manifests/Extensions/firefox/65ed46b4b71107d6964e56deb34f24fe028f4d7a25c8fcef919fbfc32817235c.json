@@ -1,0 +1,1 @@
+{"name": "Instagram UnHooked", "version": "1.0", "description": "Hides instagram recommendation", "content_scripts": [{"run_at": "document_start", "matches": ["https://www.instagram.com/*"], "css": ["styles.css"], "all_frames": true}], "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{01d2c847-d33f-49de-8655-5d620888bfe0}"}}}

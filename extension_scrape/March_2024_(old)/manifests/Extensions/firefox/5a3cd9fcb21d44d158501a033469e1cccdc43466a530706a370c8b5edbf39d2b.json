@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OP to Onion Package", "version": "0.2.0", "description": "Replaces 'OP' with 'Onion Package' to add some humour on certain sites. Based off Millennials to Snake People.", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}]}

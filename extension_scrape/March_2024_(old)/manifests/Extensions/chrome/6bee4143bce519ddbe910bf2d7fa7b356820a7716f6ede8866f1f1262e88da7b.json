@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "\u8c46\u74e3\u56fe\u4e66\u8df3\u8f6c\u6210\u90fd\u56fe\u4e66\u9986", "version": "1.0", "content_scripts": [{"matches": ["https://book.douban.com/subject/*"], "js": ["content.js"]}]}

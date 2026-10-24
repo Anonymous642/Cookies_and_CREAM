@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Funny Bird", "version": "2.0.1.9", "author": "Anderson Alves", "offline_enabled": true, "description": "Have fun with Funny Bird!", "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "app": {"background": {"scripts": ["js/main_start.js"]}}}

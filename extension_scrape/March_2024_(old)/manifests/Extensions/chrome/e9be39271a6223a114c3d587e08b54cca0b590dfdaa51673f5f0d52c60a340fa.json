@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Agreement App", "version": "1.1", "description": "an app to practice agreement in language lessons", "icons": {"16": "logo_16.png", "48": "logo_48.png", "128": "logo_128.png"}, "action": {"default_popup": "popup.html"}}

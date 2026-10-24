@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Auto Ad Skipper", "description": "Automatically skips YouTube ads whenever possible in such a way that the content creator gets paid for their work", "version": "0.4.3", "content_scripts": [{"matches": ["https://*.youtube.com/*"], "js": ["script.js"]}], "permissions": ["https://*.youtube.com/*"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "RN", "version": "1.0", "description": "Change le CSS d'observium", "icons": {"48": "icons/rn48.png", "96": "icons/rn96.png"}, "content_scripts": [{"matches": ["*://192.168.245.235/*"], "js": ["changecss.js"]}]}

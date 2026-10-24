@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Knoblr", "version": "1.0.1", "description": "Knoblr Xm ext for Explained message", "icons": {"16": "xm-favicon.png", "48": "icon.png", "128": "icon_128.png"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icon.png"}}

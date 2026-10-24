@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Take a Break", "version": "0.1.0", "permissions": ["notifications", "alarms", "menus"], "icons": {"32": "icons/icon_32.png", "48": "icons/icon_48.png"}, "browser_action": {"default_icon": "icons/icon_32.png", "default_title": "Time to take a break!", "default_popup": "popup/index.html"}, "background": {"scripts": ["background.js"]}}

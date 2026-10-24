@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Fresh IP Analytics", "description": "IP Analytics such as examiner statistics provided directly to your browser by Fresh", "version": "1.4", "icons": {"48": "48.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "48.png", "default_popup": "popup.html"}}

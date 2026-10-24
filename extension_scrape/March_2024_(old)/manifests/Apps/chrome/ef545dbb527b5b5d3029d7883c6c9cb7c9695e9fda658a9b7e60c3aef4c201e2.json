@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Trabi vs Zombies", "version": "1.1", "manifest_version": 2, "description": "3D killer racing", "icons": {"128": "ikona128.png"}, "app": {"urls": ["http://trabivszombies.cenda.cz/"], "launch": {"web_url": "http://trabivszombies.cenda.cz/"}}}

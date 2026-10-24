@@ -1,0 +1,1 @@
+{"name": "TicketBoT", "manifest_version": 2, "version": "1.3", "description": "TicketBoT extension helper to book ticket", "permissions": ["tabs", "cookies", "*://booking.uz.gov.ua/"], "applications": {"gecko": {"id": "ticketbot@mail.com"}}, "browser_action": {"default_icon": "icon.png", "default_title": "TicketBoT", "default_popup": "popup.html"}}

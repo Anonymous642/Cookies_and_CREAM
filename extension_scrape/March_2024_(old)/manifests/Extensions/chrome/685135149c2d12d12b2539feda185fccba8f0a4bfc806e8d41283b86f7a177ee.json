@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "NIWEB redirects for NI", "description": "This extension helps to execute niweb/ redirects without using VPN at NI", "version": "1.0", "manifest_version": 3, "content_scripts": [{"matches": ["*://niweb/*"], "js": ["niweb.js"]}]}

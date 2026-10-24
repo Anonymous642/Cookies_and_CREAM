@@ -1,0 +1,1 @@
+{"description": "hides untrusted and non-vip uploaders", "name": "tpbjs", "manifest_version": 2, "version": "1.1", "content_scripts": [{"matches": ["*://thepiratebay.org/*"], "js": ["jquery/jquery-2.2.4.min.js", "content_scripts/tpb.js"]}]}

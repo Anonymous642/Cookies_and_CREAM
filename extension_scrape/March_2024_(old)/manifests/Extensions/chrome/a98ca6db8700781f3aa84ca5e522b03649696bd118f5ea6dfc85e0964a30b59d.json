@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Queen's Proxy Linker", "version": "0.2.0", "description": "This extension allows off campus links to be automatically generated for preferred pages.", "action": {"default_popup": "src/popup.html", "default_title": "Queen's Proxy"}, "permissions": ["tabs"]}

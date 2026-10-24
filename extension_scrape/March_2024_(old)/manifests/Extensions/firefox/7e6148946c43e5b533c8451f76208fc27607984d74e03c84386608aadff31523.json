@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reddit Comments", "version": "0.21", "content_scripts": [{"matches": ["https://*.reddit.com/r/*/comments/*"], "js": ["comments.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Small Notes", "version": "1.4.4", "description": "A simple web based program for quick notes.", "icons": {"16": "images/icon16.png", "128": "images/icon128.png"}, "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["storage"], "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "QuickGit", "description": "QuickGit is an instant GitHub pages launching extension.", "version": "1.0", "browser_action": {"default_icon": "main.png", "default_popup": "index.html"}}

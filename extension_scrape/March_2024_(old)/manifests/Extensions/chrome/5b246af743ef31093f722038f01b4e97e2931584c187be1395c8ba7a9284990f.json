@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Scientific To Decimal Converter", "description": "Convert scientific notation to decimal notation at anytime while you browsing.", "version": "1.0", "browser_action": {"default_icon": "img/icon.png", "default_popup": "ui.html"}, "content_scripts": [], "permissions": []}

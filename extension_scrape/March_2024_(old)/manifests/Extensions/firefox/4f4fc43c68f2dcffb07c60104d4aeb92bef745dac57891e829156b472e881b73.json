@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "vshare title change", "version": "1.0", "description": "remplaza titulo de vshare. por la del video", "icons": {"48": "icons/border-48.ico"}, "applications": {"gecko": {"id": "wilverhidalgo@outlook.com"}}, "content_scripts": [{"matches": ["*://*.vshare.io/*"], "js": ["borderify.js"]}]}

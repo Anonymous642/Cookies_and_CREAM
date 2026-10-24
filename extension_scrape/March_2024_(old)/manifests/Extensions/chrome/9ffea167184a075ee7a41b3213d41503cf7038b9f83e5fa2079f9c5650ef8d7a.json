@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CS50x Quicktab", "description": "QuickTab - Your all-in-one CS50x new tab experience. Search, plan, and access your favorite CS50x tools effortlessly.", "version": "1.0.0", "incognito": "split", "chrome_url_overrides": {"newtab": "index.html"}, "manifest_version": 3}

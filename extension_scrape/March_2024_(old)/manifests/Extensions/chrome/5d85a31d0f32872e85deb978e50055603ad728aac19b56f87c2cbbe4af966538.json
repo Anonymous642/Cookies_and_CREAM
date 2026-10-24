@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Moons of our Solar System", "description": "Puts a random Moon name and their host planets to the CONSOLE every time you open the browser", "manifest_version": 3, "version": "1.0.2", "permissions": [], "content_scripts": [{"js": ["scripts/content.js"], "matches": ["https://*/*"]}]}

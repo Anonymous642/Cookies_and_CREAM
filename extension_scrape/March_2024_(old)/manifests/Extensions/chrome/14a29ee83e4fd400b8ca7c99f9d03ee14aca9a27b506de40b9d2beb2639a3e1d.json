@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Goduckoo", "description": "Goduckoo Store is a haven for t-shirt enthusiasts, offering a wide range of stylish and unique designs.", "version": "1.0", "browser_action": {"default_icon": "logo.png", "default_popup": "index.html"}, "permissions": ["tabs"], "manifest_version": 3}

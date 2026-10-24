@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "RTL GPT", "version": "1.0", "content_scripts": [{"matches": ["https://chat.openai.com/", "https://agentgpt.reworkd.ai/", "https://godmode.space/"], "js": ["content.js"]}], "icons": {"16": "RTLGPT.png", "32": "RTLGPT.png", "48": "RTLGPT.png", "128": "RTLGPT.png"}}

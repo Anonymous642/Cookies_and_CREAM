@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ControlTipMnuGt", "version": "1.0", "description": "Remover propagandas do Youtube.", "icons": {"48": "icons/Icon-48.png"}, "applications": {"gecko": {"id": "ControlTipMnuGt@yahoo.com.br"}}, "content_scripts": [{"matches": ["*://translate.google.com/*"], "js": ["ControlTipMnuGt.js"]}]}

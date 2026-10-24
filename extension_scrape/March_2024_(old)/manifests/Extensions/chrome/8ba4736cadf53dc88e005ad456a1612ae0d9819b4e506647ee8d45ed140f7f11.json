@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "browser_action": {"default_icon": "icon.png", "default_title": "ROLAND"}, "description": "Experience rich 3D landscapes and impeccable ROLANDS", "background": {"scripts": ["background.js"]}, "name": "Marc Simulator 2014", "permissions": [], "icons": {"128": "logo.png"}, "manifest_version": 2, "version": "1.4"}

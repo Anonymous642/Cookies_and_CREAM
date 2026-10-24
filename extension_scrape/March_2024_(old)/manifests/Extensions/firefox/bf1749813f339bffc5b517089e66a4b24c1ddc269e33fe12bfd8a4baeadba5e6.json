@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Window Title Hider", "version": "0.2", "description": "Hides the browser window title on the task bar (shows a text first)", "background": {"scripts": ["background.js"]}, "options_ui": {"page": "options.html"}, "permissions": ["menus", "storage", "tabs"]}

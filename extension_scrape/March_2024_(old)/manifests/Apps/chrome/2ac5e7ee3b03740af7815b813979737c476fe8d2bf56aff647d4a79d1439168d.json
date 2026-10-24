@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Mosne_velib", "description": "Where is my bike?", "version": "1", "app": {"urls": ["http://www.mosne.it/"], "launch": {"web_url": "http://www.mosne.it/webapps/mosne_velib/"}}, "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Divar Price Reader", "description": "An Extention For Read Price From Divar.ir", "version": "0.3", "background": {"scripts": ["jquery.min.js", "background.js"]}, "content_scripts": [{"matches": ["https://*.divar.ir/*"], "css": ["content.css"], "js": ["jquery.min.js", "content.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VoidlinuxEUtoVoidlinuxORG", "version": "1.0", "description": "Redirects voidlinux.eu to voidlinux.org", "icons": {"18": "icons/icon18.png", "36": "icons/icon36.png"}, "background": {"scripts": ["redirector.js"]}, "permissions": ["webNavigation"]}

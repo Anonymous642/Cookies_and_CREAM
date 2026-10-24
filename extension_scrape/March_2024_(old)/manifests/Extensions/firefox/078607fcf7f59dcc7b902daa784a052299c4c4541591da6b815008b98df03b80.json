@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FoxNewTab", "version": "1.0", "description": "Open fixed new tab", "applications": {"gecko": {"id": "pers@mail.ru"}}, "chrome_url_overrides": {"newtab": "empty.html"}}

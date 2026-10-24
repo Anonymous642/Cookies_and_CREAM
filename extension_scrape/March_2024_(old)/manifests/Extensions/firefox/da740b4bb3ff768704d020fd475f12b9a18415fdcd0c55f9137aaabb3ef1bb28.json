@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Responsive dev", "version": "0.1", "description": "Easy development tool that shows your website on multiple screens", "content_scripts": [{"matches": ["<all_urls>"], "js": ["index.js"]}], "web_accessible_resources": ["background.html", "test.html", "device.min.css"]}

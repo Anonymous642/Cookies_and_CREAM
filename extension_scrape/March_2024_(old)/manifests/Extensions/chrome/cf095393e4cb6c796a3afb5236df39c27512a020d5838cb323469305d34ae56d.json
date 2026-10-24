@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Ludus dark mode", "version": "0.2.0", "description": "Dark theme til LUDUS Web p\u00e5 Herningsholm Erhvervsskole & Gymnasier", "content_scripts": [{"css": ["styles.css"], "matches": ["https://ludusweb.herningsholm.dk/*"], "run_at": "document_idle"}]}

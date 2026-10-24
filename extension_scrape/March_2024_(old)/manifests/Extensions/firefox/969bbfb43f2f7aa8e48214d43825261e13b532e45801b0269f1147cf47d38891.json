@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sleepy Joe", "version": "1.2", "description": "Replaces 'Joe' or 'Joe Biden' by 'Sleepy Joe'", "content_scripts": [{"matches": ["<all_urls>"], "js": ["joe.js"]}]}

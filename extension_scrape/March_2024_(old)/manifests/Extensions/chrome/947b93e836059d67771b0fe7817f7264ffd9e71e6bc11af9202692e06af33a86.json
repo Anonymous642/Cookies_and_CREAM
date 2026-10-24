@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "\u6211\u7684\u9875\u9762", "description": "chrome extension", "version": "23.12.31", "background": {"service_worker": "/background.js"}, "action": {"default_popup": "popup.html"}, "options_page": "options.html", "permissions": ["tabs", "storage"]}

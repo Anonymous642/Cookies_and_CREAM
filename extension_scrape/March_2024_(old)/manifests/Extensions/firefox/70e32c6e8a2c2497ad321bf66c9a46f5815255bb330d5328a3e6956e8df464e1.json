@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Focus left tab on close", "description": "When the current tab is closed, focus the tab on the left.", "version": "0.4", "browser_specific_settings": {"gecko": {"strict_min_version": "65.0"}}, "icons": {"48": "icons/close-16.svg"}, "background": {"scripts": ["focus-on-close-background.js"]}, "permissions": ["tabs"]}

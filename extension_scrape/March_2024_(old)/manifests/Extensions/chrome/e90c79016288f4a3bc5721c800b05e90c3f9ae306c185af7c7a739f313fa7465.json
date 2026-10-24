@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Memeologie", "description": "Inlocuieste pagina alba si plictisitoare a browserului tau cu poza amuzanta.", "version": "1.2", "action": {"default_icon": "icon.png"}, "chrome_url_overrides": {"newtab": "pic.html"}}

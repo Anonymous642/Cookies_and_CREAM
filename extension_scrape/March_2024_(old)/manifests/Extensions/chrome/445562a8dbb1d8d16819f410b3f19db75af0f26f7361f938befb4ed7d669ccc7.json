@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Media Keys for Youtube\u2122", "description": "Improve hardware media key handling!", "version": "0.0.1", "manifest_version": 3, "content_scripts": [{"all_frames": true, "js": ["content.js"], "matches": ["https://www.youtube.com/*"]}], "host_permissions": ["https://www.youtube.com/*"]}

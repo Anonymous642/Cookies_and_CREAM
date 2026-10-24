@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Desalvinizer", "description": "Sostituisce il nome dell'onnipresente Leader della Lega con un termine pi\u00f9 appropriato.", "version": "1.0", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

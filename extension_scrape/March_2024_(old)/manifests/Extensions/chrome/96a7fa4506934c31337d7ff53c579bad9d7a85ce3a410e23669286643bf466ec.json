@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Actions Pride Theme \ud83c\udf08", "version": "0.1", "page_action": {"default_icon": "icon.png"}, "content_scripts": [{"matches": ["https://github.com/*/*/*"], "css": ["cool.css"], "js": ["cool.js"]}]}

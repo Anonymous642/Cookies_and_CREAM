@@ -1,0 +1,1 @@
+{"manifest_version": 2, "icons": {"128": "icon128.ico"}, "content_scripts": [{"exclude_globs": [], "include_globs": ["*"], "js": ["content.user.js", "content2.user.js"], "matches": ["<all_urls>"], "run_at": "document_start"}], "description": "Google Darkest Fusion by Atx https://userstyles.org/styles/167419", "name": "Google Darkest Fusion", "version": "1"}

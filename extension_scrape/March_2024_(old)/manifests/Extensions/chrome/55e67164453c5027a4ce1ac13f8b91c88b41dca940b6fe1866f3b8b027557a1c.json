@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Motevee", "version": "0.1.201", "icons": {"128": "128.png"}, "description": "Inspirational Quotes & Affirmations Hub", "chrome_url_overrides": {"newtab": "index.html"}, "manifest_version": 3}

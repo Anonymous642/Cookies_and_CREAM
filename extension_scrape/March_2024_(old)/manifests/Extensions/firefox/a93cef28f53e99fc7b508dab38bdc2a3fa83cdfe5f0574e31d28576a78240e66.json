@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Lingueet", "version": "1.0", "description": "Download .mp3 files from linguee pages", "icons": {"48": "icons/video-player.png"}, "permissions": ["downloads"], "background": {"scripts": ["background-script.js"]}, "content_scripts": [{"matches": ["*://www.linguee.de/*"], "js": ["content-script.js"]}]}

@@ -1,0 +1,1 @@
+{"name": "Jisho.org Search", "version": "1.0.1", "description": "Search for English-Japanese translations on Jisho.org", "icons": {"16": "icon/icon16.png", "48": "icon/icon48.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus", "tabs"], "manifest_version": 2}

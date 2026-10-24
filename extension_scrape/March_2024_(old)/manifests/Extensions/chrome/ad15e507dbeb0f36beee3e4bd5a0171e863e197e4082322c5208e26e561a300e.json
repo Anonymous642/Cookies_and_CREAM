@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gerador de Dados", "description": "Um gerador de dados fake com intuito \u00fanico de testar aplica\u00e7\u00f5es de forma facilitada no browser.", "version": "4.0", "action": {"default_icon": "icon.png", "default_popup": "popup.html"}}

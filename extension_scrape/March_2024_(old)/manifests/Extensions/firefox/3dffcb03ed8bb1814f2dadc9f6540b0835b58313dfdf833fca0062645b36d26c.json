@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FreeQuora", "version": "1.0", "description": "Read quora without signing in", "background": {"scripts": ["background.js"]}, "permissions": ["tabs"], "browser_action": {"default_icon": "icons/BLUE-48.png", "default_title": "FreeQuora"}}

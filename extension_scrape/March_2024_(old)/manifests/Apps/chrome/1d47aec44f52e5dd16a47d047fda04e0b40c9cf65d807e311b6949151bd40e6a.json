@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Sugester", "version": "1.2", "icons": {"24": "sugester24.png", "128": "sugester128.png"}, "app": {"urls": ["http://sugester.pl/"], "launch": {"web_url": "http://sugester.pl/"}}}

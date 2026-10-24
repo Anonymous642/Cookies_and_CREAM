@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "analyticsLink", "version": "1.0", "description": "Useful links for Analysis", "homepage_url": "https://giovannifulin.com", "icons": {"48": "icons/beasts-48.png"}, "permissions": ["activeTab", "tabs"], "browser_action": {"default_icon": "icons/beasts-32.png", "default_title": "analyticsLink", "default_popup": "popup/popup.html"}}

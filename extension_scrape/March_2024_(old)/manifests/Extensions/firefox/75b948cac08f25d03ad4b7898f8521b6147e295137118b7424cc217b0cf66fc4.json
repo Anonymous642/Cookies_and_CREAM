@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ENDGAME SPOILER PROTECTOR 9000", "description": "what do u think it does?", "version": "1.0", "content_scripts": [{"matches": ["*://*.reddit.com/*", "*://*.youtube.com/*"], "js": ["content.js"], "run_at": "document_end"}]}

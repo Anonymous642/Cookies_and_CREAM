@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "LENS", "description": "LENS", "version": "1.0.5", "manifest_version": 3, "action": {"default_icon": "images/login_logo.png", "default_title": "LENS", "default_popup": "KR/dispatcher.html"}, "permissions": ["unlimitedStorage"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.0.0", "manifest_version": 3, "name": "Link Saver", "description": "Save your links which you paste everywhere.", "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "action": {"default_popup": "js/index.html", "default_title": "Link Saver"}, "permissions": ["storage", "activeTab"]}

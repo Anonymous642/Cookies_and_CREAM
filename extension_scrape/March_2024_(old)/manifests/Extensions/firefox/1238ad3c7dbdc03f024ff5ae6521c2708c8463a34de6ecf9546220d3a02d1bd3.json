@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Shell Smart total points", "version": "1.0", "description": "Adds a total points of filtered transactions to transaction pages on shellsmart.com", "icons": {"48": "icons/shell-48.png"}, "content_scripts": [{"matches": ["*://*.shellsmart.com/smart/account/transactions*"], "js": ["jquery-3.1.1.min.js", "shell-smart-total-points.js"]}]}

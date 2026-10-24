@@ -1,0 +1,1 @@
+{"name": "Five Nights at Freddy\u2019s", "description": "Five Nights at Freddy\u2019s game. Have a fun!", "version": "1.0", "manifest_version": 2, "permissions": ["tabs", "bookmarks"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_action": {"default_icon": "icon.png", "default_title": "Five Nights at Freddy\u2019s"}}

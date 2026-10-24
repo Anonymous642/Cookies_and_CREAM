@@ -1,0 +1,1 @@
+{"name": "rohitnaeusearch", "version": "1.0", "manifest_version": 2, "description": "Provides multiple search options", "permissions": ["contextMenus"], "background": {"scripts": ["rohiee.xml"]}}

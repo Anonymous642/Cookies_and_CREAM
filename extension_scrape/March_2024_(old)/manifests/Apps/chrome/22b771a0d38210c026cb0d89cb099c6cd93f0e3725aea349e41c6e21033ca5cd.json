@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "eVibe.me", "version": "2", "manifest_version": 2, "description": "A Google Chrome App, which listen live all Radio Stations!", "icons": {"16": "radio-ico-16.ico", "48": "radio-ico-64.ico", "128": "radio-ico-128.ico"}, "app": {"urls": ["http://evibe.me/"], "launch": {"web_url": "http://evibe.me/"}}}

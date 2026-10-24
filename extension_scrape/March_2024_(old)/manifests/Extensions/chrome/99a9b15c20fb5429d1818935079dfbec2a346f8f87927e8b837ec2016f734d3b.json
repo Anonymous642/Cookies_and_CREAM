@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Random Password Generator", "description": "Your security is important to us!", "version": "1.0.0", "manifest_version": 3, "icons": {"128": "icon_128.png"}, "action": {"default_icon": "icon_128.png", "default_popup": "popup.html"}}

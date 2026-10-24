@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Divi", "description": "La mejor extensi\u00f3n para ser t\u00f3xic@ m\u00e1s r\u00e1pido, Tambi\u00e9n disponible para Android.", "version": "0.0.2", "icons": {"128": "128.png"}, "browser_action": {"default_icon": "divi.png", "default_popup": "divi.html", "default_title": "DIVI :D"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "killfullscreenmode", "version": "1.0", "description": "Exits fullscreen mode for the first window once per second. A horrible hack I wrote to work around a bug in which my Firefox browser will automatically enter fullscreen mode randomly.", "background": {"scripts": ["killfullscreenmode.js"]}}

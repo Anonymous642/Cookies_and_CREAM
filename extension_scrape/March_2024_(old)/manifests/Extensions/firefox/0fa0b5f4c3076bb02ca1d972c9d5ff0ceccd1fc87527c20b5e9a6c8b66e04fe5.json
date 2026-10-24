@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NoEvent", "version": "0.1.0", "description": "Prevent [some] mouse events to be captured", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content_scripts/noevent.js"]}], "options_ui": {"page": "ui/options.html", "browser_style": true}, "permissions": ["storage", "<all_urls>"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Pause Resume Adviser", "description": "Pauses / resumes JavaScript execution", "version": "1.7", "permissions": ["debugger"], "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "debuggerPause.png", "default_title": "Pause Resume Adviser"}, "manifest_version": 2}

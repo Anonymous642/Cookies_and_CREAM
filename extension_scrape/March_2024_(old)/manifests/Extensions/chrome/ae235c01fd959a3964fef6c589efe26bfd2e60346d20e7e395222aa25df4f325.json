@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Extension LaCrypte", "version": "1.0", "description": "Pour Savoir quand La Crypte est En Stream !", "browser_action": {"default_popup": "index.html"}, "icons": {"64": "img/icon_title.png"}, "background": {"scripts": ["jquery-3.3.1.min.js", "background.js"]}}

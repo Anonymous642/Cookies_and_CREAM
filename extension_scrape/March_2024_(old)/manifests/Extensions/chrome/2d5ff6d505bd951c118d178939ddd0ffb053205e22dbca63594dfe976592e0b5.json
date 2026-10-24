@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Fuck Facebook", "description": "\ud398\uc774\uc2a4\ubd81 \uc811\uc18d\uc744 \ub9c9\ub294 Chrome Extensions", "version": "1.0", "permissions": ["activeTab", "tabs"], "background": {"scripts": ["popup.js"], "persistent": false}}

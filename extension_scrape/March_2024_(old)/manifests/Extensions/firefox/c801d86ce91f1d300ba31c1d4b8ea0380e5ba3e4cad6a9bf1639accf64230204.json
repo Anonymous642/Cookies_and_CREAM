@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BetterGoogleMeet", "description": "Get rid of Google Meet's annoying \"You can't create a meeting yourself\" screen.", "version": "1.0", "content_scripts": [{"matches": ["*://meet.google.com/*"], "js": ["content.js"], "run_at": "document_end"}]}

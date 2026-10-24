@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Email It In", "description": "Email files directly to Google Drive, Dropbox or Skydrive", "version": "1.0.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://emailitin.com/"], "launch": {"web_url": "https://emailitin.com/#signIn"}}}

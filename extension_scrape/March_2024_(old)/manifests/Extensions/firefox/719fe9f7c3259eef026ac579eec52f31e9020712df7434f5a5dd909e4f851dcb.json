@@ -1,0 +1,1 @@
+{"name": "Purge Mask", "description": "Purge Mask Extension, A simple extension of mask choosing", "version": "0.0.0.5", "background": {"scripts": ["background.js"], "persistent": false}, "permissions": [], "browser_action": {}, "manifest_version": 2, "icons": {"128": "PurgeMask.png"}}

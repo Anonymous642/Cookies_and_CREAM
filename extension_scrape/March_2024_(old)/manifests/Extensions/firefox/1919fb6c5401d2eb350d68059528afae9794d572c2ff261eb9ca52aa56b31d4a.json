@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Short Redirector", "description": "Redirects YouTube shorts to the corresponding full video page", "version": "1.0", "background": {"scripts": ["background.js"]}, "permissions": ["webNavigation"], "browser_specific_settings": {"gecko": {"id": "{ddf0a78d-a236-44f9-9205-812248c58847}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BC-MultiItem", "version": "1.2", "description": "Mod for box critters. Lets you change item types in-game.", "icons": {"48": "icons/multi-item-48.png"}, "content_scripts": [{"matches": ["*://boxcritters.com/*"], "js": ["multi-item.js"]}]}

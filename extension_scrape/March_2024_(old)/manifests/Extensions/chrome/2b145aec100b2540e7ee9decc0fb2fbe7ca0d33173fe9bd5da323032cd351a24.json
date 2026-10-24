@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Spin the Finn!", "description": "Spin the finn!", "version": "1.1", "icons": {"16": "stf-icon16.png", "48": "stf-icon48.png", "128": "stf-icon128.png"}, "browser_action": {"default_icon": "stf-icon16.png", "default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Janvas - Online SVG Editor", "version": "6.3.1", "icons": {"32": "janvas_32x32.png", "64": "janvas_64x64.png", "128": "janvas_128x128.png"}, "app": {"urls": ["https://www.janvas.com/janvas-app"], "launch": {"web_url": "https://www.janvas.com/janvas-app"}}, "permissions": [""], "manifest_version": 2}

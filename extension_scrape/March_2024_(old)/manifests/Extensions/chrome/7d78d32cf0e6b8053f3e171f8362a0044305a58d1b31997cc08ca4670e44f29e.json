@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Tab Closer", "version": "1.2", "description": "Closes any tab that navigates to YouTube", "permissions": ["tabs", "contextMenus"], "background": {"service_worker": "background.js"}, "action": {"default_icon": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "RPN Calculator", "short_name": "rpncalc", "description": "Reverse polish notation (RPN) calculator", "version": "0.0.0.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "minimum_chrome_version": "36", "offline_enabled": true, "icons": {"16": "16.png", "128": "128.png"}}

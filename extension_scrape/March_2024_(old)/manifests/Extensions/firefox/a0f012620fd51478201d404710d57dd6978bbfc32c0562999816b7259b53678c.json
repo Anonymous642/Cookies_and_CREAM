@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Music Tab", "version": "1.0", "description": "Allows you to mute / unmute and quickly jump to and from the first tab", "content_scripts": [{"matches": ["*://*/*"], "js": ["index.js"]}], "background": {"scripts": ["background.js"]}, "permissions": ["tabs"]}

@@ -1,0 +1,1 @@
+{"description": "Shows the last downloaded item, and lets you open or delete it", "manifest_version": 2, "name": "FreshDownload", "version": "1.0", "permissions": ["downloads", "downloads.open"], "browser_action": {"browser_style": true, "default_title": "FreshDownload", "default_popup": "popup/fresh.html"}}

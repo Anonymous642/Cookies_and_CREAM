@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MeetSoup", "version": "1.0.0.1", "description": "Herramientas para meet", "homepage_url": "https://github.com/ndazeo/meetsoup", "icons": {"48": "icons/icon-48.png"}, "permissions": ["activeTab", "notifications"], "content_scripts": [{"matches": ["*://meet.google.com/*"], "js": ["inject.js"]}], "background": {"scripts": ["background.js"]}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TabQR", "version": "1.2", "description": "Genera un c\u00f3digo QR para la pesta\u00f1a actual del navegador y contin\u00faa la navegaci\u00f3n f\u00e1cilmente en tu m\u00f3vil.", "icons": {"128": "icon.png"}, "action": {"default_popup": "popup.html"}, "permissions": ["activeTab"]}

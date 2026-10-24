@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "mike", "version": "1.0", "description": "miku > mike", "content_scripts": [{"matches": ["<all_urls>"], "js": ["mike.js"], "run_at": "document_idle"}], "browser_specific_settings": {"gecko": {"id": "{603ef6ae-35e6-494b-8c2a-6157d4392c84}"}}}

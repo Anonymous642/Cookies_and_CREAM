@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ilo", "version": "1.1", "description": "Adds a context menu item to send text to ilo", "homepage_url": "https://0xdstn.site/projects/ilo", "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "contextMenus"], "browser_specific_settings": {"gecko": {"id": "{f931734a-2cda-40d2-847b-c9e6d9919ca3}"}}}

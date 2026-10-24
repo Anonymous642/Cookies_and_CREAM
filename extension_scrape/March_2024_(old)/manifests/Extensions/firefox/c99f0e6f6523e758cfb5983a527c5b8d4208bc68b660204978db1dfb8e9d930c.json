@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove Page Titles", "version": "1.4", "description": "Firefox web extension to remove the title of any page.", "permissions": ["<all_urls>", "tabs"], "background": {"scripts": ["remove-title.js"]}, "browser_specific_settings": {"gecko": {"id": "{0948dc04-cbab-42e8-8ee2-15feba5a54a2}"}}}

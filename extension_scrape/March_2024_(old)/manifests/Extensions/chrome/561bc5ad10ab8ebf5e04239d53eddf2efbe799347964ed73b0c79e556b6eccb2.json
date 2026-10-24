@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Youtube Lyrics Translator", "version": "1.0", "manifest_version": 3, "content_scripts": [{"matches": ["https://music.youtube.com/*"], "js": ["content.js"]}], "background": {"service_worker": "background.js"}, "host_permissions": ["https://translate.googleapis.com/*"]}

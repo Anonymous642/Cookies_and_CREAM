@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouNote", "description": "YouNote is a simple chrome extension that uses ChatGPT to summarise youtube videos for you", "version": "1.0", "action": {"default_popup": "popup.html"}, "icons": {"512": "logo512.png"}, "permissions": ["tabs"]}

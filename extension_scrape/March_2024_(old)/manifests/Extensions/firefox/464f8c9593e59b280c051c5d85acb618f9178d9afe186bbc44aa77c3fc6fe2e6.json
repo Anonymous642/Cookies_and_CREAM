@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Roatta Waaayyyy!!!", "version": "1.0.0.17", "description": "Chess AddIn for Firefox", "icons": {"32": "icons/roatta_32_32.jpg"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{7af910b8-6021-4392-9fe6-1e3f32ad3d64}"}}}

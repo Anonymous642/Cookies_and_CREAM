@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "slack-redir", "description": "Rplaces the slack-redir.net links in Slack with direct links", "author": "Vladimir Borisov", "icons": {"64": "slack-redir-64.png", "128": "slack-redir-128.png"}, "version": "1.3", "content_scripts": [{"matches": ["https://*.slack.com/*"], "js": ["main.js"]}]}

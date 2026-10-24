@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Disable Red Message on Immigrer.com", "version": "1.0", "description": "Disable the red message displayed on the top of the website forum.immigrer.com", "icons": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}, "content_scripts": [{"matches": ["*://*.forum.immigrer.com/*"], "js": ["disable.js"]}]}

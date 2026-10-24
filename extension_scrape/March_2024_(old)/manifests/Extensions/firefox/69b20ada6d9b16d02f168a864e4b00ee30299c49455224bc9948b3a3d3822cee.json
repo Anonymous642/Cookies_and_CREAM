@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Firescroll", "version": "1.9.3", "description": "Auto scroll for pages", "browser_specific_settings": {"gecko": {"id": "vam80@mail.ru", "strict_min_version": "80.0"}}, "icons": {"48": "icon.svg"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["firescroll.js"]}]}

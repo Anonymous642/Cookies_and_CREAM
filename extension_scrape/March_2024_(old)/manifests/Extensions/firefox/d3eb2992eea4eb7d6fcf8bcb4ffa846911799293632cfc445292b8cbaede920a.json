@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Kitten Block", "description": "Replaces the Daily Mail and Express with Tea and Kittens", "version": "2.0.1", "applications": {"gecko": {"id": "kittenblock@tomroyal.com"}}, "permissions": ["tabs"], "icons": {"32": "icon.png"}, "background": {"scripts": ["kittenblock.js"]}}

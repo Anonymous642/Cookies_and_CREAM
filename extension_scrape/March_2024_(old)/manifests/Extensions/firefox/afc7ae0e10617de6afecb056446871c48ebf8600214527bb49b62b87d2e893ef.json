@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "USD to IRR", "version": "1.0", "description": "Convert US Dollars to Iranian Rials", "browser_specific_settings": {"gecko": {"id": "usd-to-irr@example.com"}}}

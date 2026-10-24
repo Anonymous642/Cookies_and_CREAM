@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "8\u670832\u65e5", "version": "1.0.0", "manifest_version": 2, "description": "\u3059\u3079\u3066\u306e9\u67081\u65e5\u30928\u670832\u65e5\u306b\u3057\u3066\u590f\u4f11\u307f\u3092\u5ef6\u9577\u3057\u307e\u3059", "content_scripts": [{"matches": ["https://twitter.com/*"], "js": ["script.js"]}]}

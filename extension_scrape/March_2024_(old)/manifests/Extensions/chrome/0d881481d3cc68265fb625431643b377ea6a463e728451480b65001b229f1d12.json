@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "background": {"service_worker": "js/background.js"}, "icons": {"192": "img/icon128.png"}, "action": [], "manifest_version": 3, "name": "__MSG_name__", "description": "__MSG_description__", "default_locale": "en", "permissions": [], "version": "1.0.3"}

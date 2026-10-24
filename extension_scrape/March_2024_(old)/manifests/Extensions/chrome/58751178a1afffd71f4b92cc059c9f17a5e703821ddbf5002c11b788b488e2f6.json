@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Placeholder Button Extension", "version": "1.0", "description": "Adds a button next to an input with autofill from placeholder.", "content_scripts": [{"matches": ["https://*.amazon.com/*", "https://console.cloud.google.com/*"], "js": ["content.js"]}], "icons": {"48": "icon.png"}}

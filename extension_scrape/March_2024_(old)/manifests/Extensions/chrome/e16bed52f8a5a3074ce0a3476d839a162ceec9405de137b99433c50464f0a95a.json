@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Alura Rank", "description": "Monsta seu Ranking", "version": "1.11", "author": "Luis Dias", "browser_action": {"default_title": "Ranking", "default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["*://*.alura.com.br/"]}

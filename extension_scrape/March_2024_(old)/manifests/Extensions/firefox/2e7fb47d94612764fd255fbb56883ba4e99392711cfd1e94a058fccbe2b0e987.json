@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "wfm", "version": "1.2", "description": "Reformats the profile page of wfm.", "content_scripts": [{"matches": ["*://writeforme.org/user.php*"], "js": ["wfm.js"]}], "applications": {"gecko": {"id": "chastity.virgin.wfm@google.com"}}}

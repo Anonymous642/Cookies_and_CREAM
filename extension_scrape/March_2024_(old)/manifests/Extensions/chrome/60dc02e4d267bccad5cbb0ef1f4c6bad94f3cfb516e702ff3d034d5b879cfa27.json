@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Sean Spicer vs. Live Toasty", "description": "Replace the ubiquitous and senseless phrase 'Sean Spicer' with the tasty and meaningful phrase 'Quiznos Delicious Subs'", "version": "1.2.1", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

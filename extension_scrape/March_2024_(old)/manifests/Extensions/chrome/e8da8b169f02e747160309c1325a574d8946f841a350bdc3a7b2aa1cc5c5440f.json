@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Remove Videos", "version": "1.0.0", "description": "Remove home videos to reduce distraction", "manifest_version": 3, "author": "Shubham Jain", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["index.js"]}]}

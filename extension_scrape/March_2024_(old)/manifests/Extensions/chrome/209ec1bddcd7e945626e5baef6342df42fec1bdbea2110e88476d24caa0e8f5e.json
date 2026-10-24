@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "twitter-switch-to-latest", "version": "1.0.0", "manifest_version": 2, "content_scripts": [{"matches": ["https://twitter.com/home"], "js": ["content.js"]}]}

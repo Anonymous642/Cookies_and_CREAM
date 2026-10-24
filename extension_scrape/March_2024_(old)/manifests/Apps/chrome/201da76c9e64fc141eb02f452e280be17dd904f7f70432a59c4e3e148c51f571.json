@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Easil", "description": "The easiest way to create graphics for digital & print. Select a template and drag & drop to update in just minutes!", "version": "1.2.0.2", "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://easil.com/"], "launch": {"web_url": "https://easil.com/"}}}

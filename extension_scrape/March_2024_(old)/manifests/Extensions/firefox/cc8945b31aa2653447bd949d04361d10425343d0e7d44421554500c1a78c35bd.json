@@ -1,0 +1,1 @@
+{"name": "Marky Bookmarklet", "version": "0.3", "description": "Easy bookmarking from Chrome for marky.app", "browser_action": {"default_popup": "html/popup.html"}, "permissions": ["tabs", "storage"], "manifest_version": 2}

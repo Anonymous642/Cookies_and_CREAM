@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Context Search", "description": "Search for a highlighted word on selected websites", "version": "1.0", "permissions": ["contextMenus", "storage"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "options.html"}, "options_page": "options.html"}

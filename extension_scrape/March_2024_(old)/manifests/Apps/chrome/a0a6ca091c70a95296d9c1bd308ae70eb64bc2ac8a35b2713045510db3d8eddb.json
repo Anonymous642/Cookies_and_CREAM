@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Mars", "version": "1", "permissions": [], "app": {"background": {"scripts": ["main.js"]}}, "icons": {"16": "16.png", "128": "128.png"}}

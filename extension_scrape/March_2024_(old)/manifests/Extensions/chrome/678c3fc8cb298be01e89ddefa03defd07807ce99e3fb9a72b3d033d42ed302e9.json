@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MBN DarkTheme", "description": "Apply a custom theme to MBN", "version": "1.3", "manifest_version": 3, "content_scripts": [{"matches": ["https://*.monbureaunumerique.fr/*"], "exclude_matches": ["https://*.moodle.monbureaunumerique.fr/*"], "css": ["style.css"]}], "icons": {"128": "icons/128.png"}}

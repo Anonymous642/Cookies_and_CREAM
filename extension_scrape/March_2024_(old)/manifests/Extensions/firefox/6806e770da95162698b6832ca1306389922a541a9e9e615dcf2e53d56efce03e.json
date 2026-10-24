@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Amazon Smile Reminder", "version": "1.0", "description": "Adds header at the top of Amazon pages with redirect link to smile.amazon.com", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.amazon.com/*"], "js": ["add_header.js"], "css": ["add_header.css"]}]}

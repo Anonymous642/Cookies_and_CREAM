@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Domain in Title", "version": "1.1", "description": "Add the domain to the page title", "icons": {"48": "icons/window.svg", "96": "icons/window.svg"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["domaintitle.js"], "run_at": "document_end"}], "applications": {"gecko": {"strict_min_version": "57.0"}}}

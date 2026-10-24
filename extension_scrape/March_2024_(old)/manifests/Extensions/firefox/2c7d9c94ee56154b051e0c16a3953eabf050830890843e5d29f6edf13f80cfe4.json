@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Tab Saver", "version": "1.0.3", "description": "Tab Saver is a minimalist extension, for easily saving active tabs.", "permissions": ["tabs", "downloads"], "action": {"default_icon": {"48": "icons/tab-saver-48.png"}, "default_popup": "popup/tab-saver.html"}, "browser_specific_settings": {"gecko": {"id": "{b35c4b78-f513-43e7-9a60-3066a4480ae8}"}}}

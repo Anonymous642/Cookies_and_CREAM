@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ComicSnas", "version": "1.0", "manifest_version": 2, "content_scripts": [{"js": ["contentscript.js"], "matches": ["http://*/*", "https://*/*"]}], "icons": {"16": "icon.png"}, "web_accessible_resources": ["script.js"]}

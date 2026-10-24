@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "mURLin", "short_name": "mURLin", "description": "Mearl's URL Input", "version": "0.2.41", "author": "MEarl <michael@michaelearl.me>", "applications": {"gecko": {"id": "murlin@michaelearl.me"}}, "chrome_url_overrides": {"newtab": "html/newtab.html"}, "web_accessible_resources": ["css/main.css", "js/main.js"], "permissions": ["storage"]}

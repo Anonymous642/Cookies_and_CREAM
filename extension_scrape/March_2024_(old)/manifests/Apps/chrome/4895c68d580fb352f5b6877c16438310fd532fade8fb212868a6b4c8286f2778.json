@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "rigrr", "version": "0.37.8", "description": "A free BPMN 2.0 editor", "app": {"launch": {"local_path": "Rigrr.html"}}, "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "offline_enabled": true}

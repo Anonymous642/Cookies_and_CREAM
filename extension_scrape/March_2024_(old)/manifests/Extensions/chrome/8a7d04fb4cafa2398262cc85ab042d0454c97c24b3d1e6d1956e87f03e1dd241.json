@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "google-meet-quick-comment", "description": "You can comment quickly", "version": "0.3.3", "manifest_version": 3, "content_scripts": [{"matches": ["https://meet.google.com/*"], "js": ["content.js"]}]}

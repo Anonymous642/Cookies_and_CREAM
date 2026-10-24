@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube playback rate", "version": "3.4", "description": "Youtube playback rate", "icons": {"16": "16.png", "48": "48.png", "128": "128.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["script.js"], "css": ["style.css"]}]}

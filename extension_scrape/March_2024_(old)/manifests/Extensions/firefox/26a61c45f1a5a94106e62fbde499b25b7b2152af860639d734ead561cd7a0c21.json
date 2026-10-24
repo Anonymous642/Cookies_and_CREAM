@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "oneStone", "version": "1.0", "description": "Closes all twitter tabs if you ever attempt to open a second while one is already open.", "icons": {"48": "icons/oneStone.svg", "96": "icons/oneStone.svg"}, "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"id": "oneStone@example.com"}}}

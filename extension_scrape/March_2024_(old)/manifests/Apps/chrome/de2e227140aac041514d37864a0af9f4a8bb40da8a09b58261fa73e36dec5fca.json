@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "INE - All Access Pass", "description": "Experience the best in network training with INE\u2019s All Access Pass.", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.ine.com/"], "launch": {"web_url": "http://streaming.ine.com/"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Wide Twitter", "version": "1.0", "description": "the world needs it", "icons": {"48": "icons/wide-48.png"}, "content_scripts": [{"matches": ["*://*.twitter.com/*"], "css": ["css/block.css", "css/widen.css"]}], "browser_specific_settings": {"gecko": {"id": "{912af789-fe7a-4346-a8c3-b1b9326cad50}"}}}

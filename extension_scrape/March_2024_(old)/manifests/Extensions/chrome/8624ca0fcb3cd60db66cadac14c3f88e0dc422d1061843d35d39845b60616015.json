@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Brush", "description": "json formatter and notes", "version": "1.0", "manifest_version": 3, "action": {"default_title": "Brush", "default_popup": "index.html", "default_icon": {"16": "brush.png", "128": "brush.png"}}, "chrome_url_overrides": {"newtab": "index.html"}}

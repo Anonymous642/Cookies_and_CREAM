@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "tratu", "description": "E-V dictionary", "version": "1.1", "background": {"scripts": ["main.js"]}, "permissions": ["activeTab", "contextMenus", "clipboardWrite", "http://tratu.soha.vn/*", "webRequest", "tabs"]}

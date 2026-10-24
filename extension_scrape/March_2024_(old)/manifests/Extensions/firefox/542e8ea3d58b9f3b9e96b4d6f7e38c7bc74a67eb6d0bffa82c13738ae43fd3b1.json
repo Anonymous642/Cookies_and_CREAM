@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Random Color Changer", "version": "1.0", "description": "Changes the color of the current webpage", "browser_action": {"default_popup": "popup.html"}, "permissions": ["<all_urls>"], "browser_specific_settings": {"gecko": {"id": "{be749041-a562-4a12-836d-038504d793db}"}}}

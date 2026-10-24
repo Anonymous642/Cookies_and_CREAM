@@ -1,0 +1,1 @@
+{"name": "360 Voucher Codes", "description": "Voucher codes and discounts from 1000's of UK Stores.", "app": {"urls": ["http://www.360vouchercodes.co.uk/"], "launch": {"web_url": "http://www.360vouchercodes.co.uk/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "360_icon.png"}}

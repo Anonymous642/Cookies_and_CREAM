@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NexusMods No Premium", "version": "1.2.0", "description": "Hides premium advertisements on Nexus Mods", "content_scripts": [{"matches": ["*://www.nexusmods.com/*"], "js": ["nopremium.js"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{59b6a60b-f372-46a0-b181-7a9d3691aeba}"}}}

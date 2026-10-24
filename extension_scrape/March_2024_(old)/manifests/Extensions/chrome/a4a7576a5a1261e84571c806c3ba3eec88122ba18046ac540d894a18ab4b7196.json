@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "NewTab Clock", "version": "1.1", "icons": {"16": "clock16.png", "32": "clock32.png", "48": "clock48.png", "128": "clock128.png"}, "manifest_version": 2, "permissions": ["storage"], "chrome_url_overrides": {"newtab": "index.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "nolikes", "author": "Daniel Hofstetter (@dhofstet)", "version": "1.0", "description": "Hides liked tweets in your Twitter timeline", "icons": {"48": "icons/nolikes.svg"}, "content_scripts": [{"matches": ["https://twitter.com/*"], "css": ["nolikes.css"]}]}

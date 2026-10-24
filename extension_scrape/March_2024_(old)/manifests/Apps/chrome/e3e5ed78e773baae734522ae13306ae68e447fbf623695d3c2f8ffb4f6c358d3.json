@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ACTIONS-WEB-APP for GTD", "description": "ACTIONS-WEB-APP is a web application tool for GTD (Getting Things Done).", "version": "0.0.0.2", "manifest_version": 2, "app": {"launch": {"web_url": "https://actions-web-app.appspot.com/"}}, "icons": {"128": "icon_128.png"}}

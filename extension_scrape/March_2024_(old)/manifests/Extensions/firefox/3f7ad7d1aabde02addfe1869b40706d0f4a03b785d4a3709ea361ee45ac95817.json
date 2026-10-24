@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "3", "name": "Shooting Stars", "permissions": ["alarms", "theme"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"strict_min_version": "55.0a2"}}}

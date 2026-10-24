@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Atomic Brawl", "description": "The free multiplayer game of strategy, collection, and jack-assery.", "version": "1.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"launch": {"web_url": "https://play.atomicbrawl.com/"}}, "permissions": ["unlimitedStorage", "notifications"]}

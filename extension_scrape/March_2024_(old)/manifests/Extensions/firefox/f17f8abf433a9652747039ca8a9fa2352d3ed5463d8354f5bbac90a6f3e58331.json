@@ -1,0 +1,1 @@
+{"name": "Remove HBO loading dots", "description": "HBO player has a bug that makes the loading dots appear continuously. This extension simply removes them.", "version": "1.0", "permissions": ["https://play.hbomax.com/*"], "content_scripts": [{"matches": ["https://play.hbomax.com/*"], "run_at": "document_end", "js": ["content-script.js"]}], "manifest_version": 2}

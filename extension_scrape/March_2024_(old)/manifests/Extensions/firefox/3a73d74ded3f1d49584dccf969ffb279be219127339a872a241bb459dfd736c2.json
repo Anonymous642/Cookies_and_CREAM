@@ -1,0 +1,1 @@
+{"chrome_settings_overrides": {"search_provider": {"name": "ALC on the Web", "search_url": "https://eow.alc.co.jp/search?q={searchTerms}", "favicon_url": "https://eow.alc.co.jp/favicon.ico", "keyword": "@alc"}}, "manifest_version": 2, "name": "Add ALC Search Engine", "version": "1", "browser_specific_settings": {"gecko": {"id": "{34f7ae63-c89c-42c3-98fb-a9d5df01b868}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "short_name": "todo-list", "name": "DEV Todo List", "description": "Organize o seu dia e contole as suas tarefas.", "manifest_version": 3, "version": "1.0", "action": {"default_icon": {"16": "icon.png", "24": "icon.png", "32": "icon.png"}, "default_title": "DEV Data Mock", "default_popup": "index.html"}}

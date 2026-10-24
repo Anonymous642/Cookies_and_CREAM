@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "KML \u7522\u751f\u5668", "version": "1", "minimum_chrome_version": "23", "icons": {"16": "kml_16.png", "128": "kml_128.png"}, "app": {"background": {"scripts": ["main.js"]}}, "permissions": [{"fileSystem": ["write"]}]}

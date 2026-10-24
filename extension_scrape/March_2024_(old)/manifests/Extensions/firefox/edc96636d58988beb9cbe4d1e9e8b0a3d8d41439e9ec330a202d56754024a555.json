@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Context menu: Open with DocSec", "description": "Add a context menu option to document links to open the document via DocSec.EU.", "version": "1.0", "homepage_url": "https://order.docsec.eu", "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "contextMenus", "*://*.docsec.eu/*", "tabs", "webRequest"]}

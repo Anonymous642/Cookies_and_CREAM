@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Amazon Search Focus", "version": "1.0", "description": "Sets focus on the search on Amazon.com", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["https://www.amazon.com/"], "js": ["content.js"]}], "manifest_version": 2}

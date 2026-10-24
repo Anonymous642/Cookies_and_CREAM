@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Cyber Cafe da Mata", "description": "Cafe e Tecnologia na Medida Certa", "version": "1", "manifest_version": 2, "app": {"urls": ["*://www.damatacafe.com.br/"], "launch": {"web_url": "http://www.damatacafe.com.br/"}}, "icons": {"128": "icon_128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "HockeyTutorial.com", "description": "Hockey Tutorial Community for Skaters!", "manifest_version": 2, "version": "1", "app": {"urls": ["*://hockeytutorial.com/"], "launch": {"web_url": "http://HockeyTutorial.com/"}}, "icons": {"128": "128.png"}, "permissions": ["notifications"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Google Meet Auto Admit", "manifest_version": 3, "version": "0.7", "description": "Automatically admit join requests from external guests to Google Meet", "icons": {"128": "icon128.png"}, "content_scripts": [{"matches": ["*://meet.google.com/*"], "js": ["content_script.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "LGPredict", "version": "0.1", "manifest_version": 2, "description": "LandGrab Battle Prediction System", "content_scripts": [{"matches": ["http://landgrab.net/landgrab/*"], "js": ["LGPredict.js"]}], "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

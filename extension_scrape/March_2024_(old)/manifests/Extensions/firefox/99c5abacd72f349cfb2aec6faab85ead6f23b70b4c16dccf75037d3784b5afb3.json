@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Spelling Eh?", "version": "1.1", "description": "Our neighbour down south likes to drop their u's and their l's. This extension fixes all of American spelling mistakes on the internet!", "icons": {"48": "icons/flag.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["./wordDict.js", "./wordSub.js"]}]}

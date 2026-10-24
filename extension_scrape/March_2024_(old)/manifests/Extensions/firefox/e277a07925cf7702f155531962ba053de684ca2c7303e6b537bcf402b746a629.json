@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "kia", "description": "for kia", "version": "1.0.3", "browser_action": {"default_icon": "images/fav.png", "default_popup": "index.html"}, "permissions": ["activeTab", "storage", "*://*.shorturls.link/*"], "browser_specific_settings": {"gecko": {"id": "{2dfa7404-2d2f-42ce-8eff-162fdfb4ce1c}"}}}

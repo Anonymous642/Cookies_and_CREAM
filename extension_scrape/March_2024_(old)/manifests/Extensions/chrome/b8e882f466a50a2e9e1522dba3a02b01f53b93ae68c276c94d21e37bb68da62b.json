@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Findslog", "description": "URL export", "version": "1.0.1", "browser_action": {"default_icon": "icon.png", "default_popup": "test.html"}, "icons": {"128": "icon.png"}, "permissions": ["tabs"]}

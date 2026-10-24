@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Trellis Bug Catcher", "version": "1.0", "description": "Removes single quote marks from download strings in Trellis.", "background": {"scripts": ["background.js"], "persistent": false}, "permissions": ["downloads"], "browser_action": {"default_icon": "images/icon-128.png"}, "manifest_version": 2}

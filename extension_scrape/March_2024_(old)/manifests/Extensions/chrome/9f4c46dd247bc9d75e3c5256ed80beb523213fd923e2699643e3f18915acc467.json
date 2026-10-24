@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Nuxt Assistant", "version": "1.15", "description": "Nuxt Assistant for cozy debugging Nuxt sites", "devtools_page": "nuxt-assistant.html", "icons": {"128": "images/icon128.png"}, "permissions": ["tabs"]}

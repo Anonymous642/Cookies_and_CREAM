@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Notes", "version": "1.0", "description": "Make notes on any web page, any position.", "background": {"service_worker": "service-worker.js"}, "permissions": [], "manifest_version": 3}

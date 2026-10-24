@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "MedalMania", "description": "Medal pusher game.", "version": "1.0.0", "app": {"urls": ["http://kajirin.com/html5/MedalMania/"], "launch": {"web_url": "http://kajirin.com/html5/MedalMania/"}}, "icons": {"128": "icon_128.png"}, "permissions": ["notifications"]}

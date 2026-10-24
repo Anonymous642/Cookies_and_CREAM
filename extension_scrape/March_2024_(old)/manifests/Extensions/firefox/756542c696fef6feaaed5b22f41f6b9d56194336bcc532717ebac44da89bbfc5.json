@@ -1,0 +1,1 @@
+{"name": "LMUABAB", "description": "Let me use adblock aftonbladet", "version": "1.0", "content_scripts": [{"matches": ["*://*.aftonbladet.se/*"], "css": ["style.css"]}], "manifest_version": 2}

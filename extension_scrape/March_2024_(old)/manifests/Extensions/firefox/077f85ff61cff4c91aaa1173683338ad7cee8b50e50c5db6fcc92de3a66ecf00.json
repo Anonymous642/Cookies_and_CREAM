@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Was ist das f\u00fcr 1 Add-on?", "version": "2.0", "description": "1 nices Add-on.", "applications": {"gecko": {"id": "@wasistdasfuer1addon", "strict_min_version": "42.0"}}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["1.js"]}]}

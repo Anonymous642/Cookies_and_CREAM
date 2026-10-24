@@ -1,0 +1,1 @@
+{"author": "Jakub Koziol", "content_scripts": [{"css": ["style.css"], "matches": ["https://hangouts.google.com/*"]}], "description": "Hide the background and unnecessary clutter from the hangouts.google.com.", "manifest_version": 2, "name": "Simple Hangouts", "version": "0.5"}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NXTCHPTR", "version": "1.0", "description": "Permette di cambiare capitolo alla pressione di un tasto ( N )", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.readmanganato.com/*"], "js": ["nxtchptr.js"]}]}

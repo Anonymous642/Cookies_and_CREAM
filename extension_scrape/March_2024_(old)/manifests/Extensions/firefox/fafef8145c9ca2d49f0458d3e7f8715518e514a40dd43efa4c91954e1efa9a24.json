@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Smartforms Data Guard", "version": "1.0", "description": "Protect your SmartSheet form data from accidental loss.", "icons": {"48": "icons/smart.png"}, "content_scripts": [{"matches": ["*://*.smartsheet.com/*"], "js": ["smart.js"]}], "browser_specific_settings": {"gecko": {"id": "{3dac74cd-bd42-4d8b-bb47-b1a4269642f0}"}}}

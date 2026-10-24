@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Hacer Curriculum (CV)", "manifest_version": 2, "short_name": "Hacer Curriculum (CV)", "description": "Consejos para la creaci\u00f3n de tu Curriculum", "version": "1", "icons": {"128": "icon.png"}, "app": {"launch": {"web_url": "http://cv-online.hekoru.lol/es/"}}}

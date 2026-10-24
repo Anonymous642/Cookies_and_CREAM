@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search weibo", "version": "0.1", "description": "A menu option to search selected text on weibo, by yun.", "icons": {"16": "icons/weibo.png"}, "permissions": ["contextMenus"], "chrome_settings_overrides": {"search_provider": {"name": "weibo", "search_url": "https://s.weibo.com/weibo/{searchTerms}", "keyword": "wb"}}}

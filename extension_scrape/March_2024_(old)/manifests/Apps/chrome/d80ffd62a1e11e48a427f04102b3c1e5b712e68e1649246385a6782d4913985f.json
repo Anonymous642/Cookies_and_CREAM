@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GBS Library To Go", "description": "Get the GBS Library's official Chrome app!", "version": "1.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://gbslibguides.glenbrook225.org/index.php"], "launch": {"web_url": "http://gbslibguides.glenbrook225.org/index.php"}}}

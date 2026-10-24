@@ -1,0 +1,1 @@
+{"name": "Maximize All Windows (Minimalist Version)", "version": "0.1", "background": {"scripts": ["js/runtime-startup.js"]}, "browser_specific_settings": {"gecko": {}}, "manifest_version": 2}

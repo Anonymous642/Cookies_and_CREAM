@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mute New Tabs", "version": "1.0", "description": "Mutes opened new tabs", "icons": {"48": "icons/shut-up-48.png"}, "background": {"scripts": ["shut-up.js"]}}

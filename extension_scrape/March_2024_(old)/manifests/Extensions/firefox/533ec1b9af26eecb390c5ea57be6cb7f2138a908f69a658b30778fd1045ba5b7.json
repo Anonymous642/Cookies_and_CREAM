@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "srcAddon", "version": "1.0", "description": "Adds a red border to all webpages on srcmake.com", "icons": {"48": "fav-ls.png"}, "content_scripts": [{"matches": ["*://*.srcmake.com/*"], "js": ["srcborder.js"]}]}

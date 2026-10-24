@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "DeJobVu Bookmark Similarity Checker", "description": "DeJobVu analyzes current page URL and your bookmarks to find most similar items", "version": "0.0.0.2", "permissions": ["bookmarks", "tabs"], "manifest_version": 3, "action": {"default_popup": "popup.html", "default_icon": "mainIcon.png"}}

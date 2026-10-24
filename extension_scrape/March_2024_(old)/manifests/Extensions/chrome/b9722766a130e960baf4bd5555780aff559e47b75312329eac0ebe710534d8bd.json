@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Skipforce", "version": "1.0", "description": "Best in Class Skip Tracing Solution | Skip Tracing for Real Estate", "host_permissions": ["https://skipforce.com/*"], "browser_action": {"default_popup": "index2.html", "default_title": "Skipforce"}}

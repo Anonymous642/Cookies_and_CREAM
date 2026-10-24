@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Diceware by nuhdge", "action": {"default_title": "Diceware by Nuhdge", "default_icon": "images/icon.png", "default_popup": "popup.html"}, "manifest_version": 3, "version": "0.3", "description": "Simple and Easy to Remember Password Generator", "permissions": [], "background": {}}

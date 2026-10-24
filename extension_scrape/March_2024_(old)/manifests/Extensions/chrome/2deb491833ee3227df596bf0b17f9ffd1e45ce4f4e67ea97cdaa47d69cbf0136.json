@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Localhoster", "description": "change url hostname to localhost", "version": "1.1", "manifest_version": 3, "permissions": ["tabs", "storage"], "action": {"default_popup": "popup.html"}, "icons": {"16": "16.png", "48": "48.png", "128": "128.png"}}

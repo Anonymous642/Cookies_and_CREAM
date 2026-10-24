@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sci-Map", "short_name": "Sci-Map", "description": "Web extension for sci-map", "version": "1.0.0", "manifest_version": 2, "permissions": ["cookies", "tabs", "https://*.sci-map.org/"], "browser_action": {"default_title": "Sci-Map", "default_popup": "index.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "BetterYT", "description": "Enhancement features for going through your YT subscribed channels.", "icons": {"128": "BetterYT-Logo.png"}, "version": "1.1", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["script.js", "script.js"]}]}

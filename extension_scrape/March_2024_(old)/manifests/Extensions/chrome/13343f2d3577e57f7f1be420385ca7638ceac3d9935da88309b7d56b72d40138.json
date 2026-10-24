@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Nodegrid Web Access Extension", "version": "1.2", "description": "Access and manage remote devices' Web interface through the ZPE Nodegrid.", "permissions": ["webRequest", "webRequestBlocking", "tabs", "<all_urls>"], "background": {"scripts": ["background.js"]}, "manifest_version": 2}

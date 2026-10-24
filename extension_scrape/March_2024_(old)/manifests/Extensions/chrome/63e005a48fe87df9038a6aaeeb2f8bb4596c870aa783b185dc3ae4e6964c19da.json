@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Odyssey Quests Counter", "version": "0.0.0.1", "icons": {"128": "128_icon.png"}, "content_scripts": [{"matches": ["https://odyssey.wildcodeschool.com/*"], "js": ["content.js"]}]}

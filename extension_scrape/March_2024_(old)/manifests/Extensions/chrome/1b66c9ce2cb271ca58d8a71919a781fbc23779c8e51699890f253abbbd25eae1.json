@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Oracle 5E", "short_name": "Oracle 5E", "version": "1.2.2", "description": "A quick reference tool for Dungeons & Dragons 5th edition", "browser_action": {"default_icon": "40.png", "default_popup": "index.html"}, "icons": {"40": "40.png", "128": "128.png"}}

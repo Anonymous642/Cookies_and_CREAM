@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Simple Task", "version": "1.1", "icons": {"24": "img/icon24.png", "36": "img/icon36.png", "48": "img/icon48.png", "128": "img/icon.png"}, "browser_action": {"default_icon": "img/icon.png", "default_popup": "index.html"}, "permissions": ["storage", "identity", "identity.email"]}

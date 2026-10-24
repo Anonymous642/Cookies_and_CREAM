@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Dark Univer", "version": "1.0", "description": "Dark theme for uniner.dvfu.ru!", "manifest_version": 2, "content_scripts": [{"matches": ["*://*.univer.dvfu.ru/*"], "css": ["univer_dark.css"]}]}

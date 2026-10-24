@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Shorts Shaft", "version": "1.01", "description": "Hides specific elements on YouTube and Facebook.", "permissions": [], "content_scripts": [{"matches": ["https://www.youtube.com/*", "https://www.facebook.com/*"], "js": ["content.js"]}]}

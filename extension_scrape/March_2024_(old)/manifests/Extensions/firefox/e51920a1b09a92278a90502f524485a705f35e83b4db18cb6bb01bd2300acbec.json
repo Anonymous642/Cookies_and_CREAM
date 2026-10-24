@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Save Private Tabs", "version": "1.0", "description": "Save all your Private Windows.", "icons": {"48": "icons/border-48.png", "96": "icons/border-96.png"}, "permissions": ["storage", "tabs"], "browser_action": {"browser_style": true, "default_title": "Save Private Tabs", "default_popup": "tabs.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Regex Checker - Educationnal Extension", "description": "Check Regex with Bubble", "version": "1", "icons": {"128": "lettre-r.png"}, "action": {"default_icon": "lettre-r.png", "default_popup": "regexChecker.html"}}

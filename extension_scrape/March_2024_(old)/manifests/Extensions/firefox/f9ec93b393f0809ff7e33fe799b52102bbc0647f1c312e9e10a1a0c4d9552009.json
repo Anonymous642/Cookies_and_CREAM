@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GoogleDarkThemeByMax", "version": "1.0", "description": "Extension qui met un th\u00e8me sombre sur google.fr, cette extension est encore incompl\u00e8te", "icons": {"48": "icons/monstre.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["script.js"]}]}

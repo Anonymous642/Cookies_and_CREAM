@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "input-dropdown-replacer", "version": "1.0.0.1", "description": "Replaces all text input with dropdowns", "icons": {"48": "icons/input-dropdown-48.png", "96": "icons/input-dropdown-96.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["dropdown.js"]}]}

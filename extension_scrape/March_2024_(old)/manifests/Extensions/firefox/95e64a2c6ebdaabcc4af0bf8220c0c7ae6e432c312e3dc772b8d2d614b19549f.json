@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reddit Sidebar Toggle", "version": "1.0.2", "description": "Toggle the sidebar on reddit.com", "permissions": ["activeTab"], "icons": {"48": "icons/reddit-48.png"}, "browser_action": {"default_icon": "icons/reddit-48.png", "default_title": "Reddit: Toggle Sidebar"}, "background": {"scripts": ["scripts/background.js"]}}

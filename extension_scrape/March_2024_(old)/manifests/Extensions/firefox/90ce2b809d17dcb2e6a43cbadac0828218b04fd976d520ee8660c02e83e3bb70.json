@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ligue des fus\u00e9es", "version": "1.0", "description": "Parce que Ligue des fus\u00e9es est quand m\u00eame mieux que Rocket League", "icons": {"96": "icons/96.jpg"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Random Quote Everyday : Productivity", "description": "A simple , lightweight random quote generator.", "version": "1.0.1", "icons": {"128": "todo-128.png"}, "browser_action": {"default_icon": "todo-19.png", "default_popup": "popup.html"}, "permissions": ["activeTab"]}

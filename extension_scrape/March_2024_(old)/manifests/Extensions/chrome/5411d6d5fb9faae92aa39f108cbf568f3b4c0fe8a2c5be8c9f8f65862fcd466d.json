@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Programme TV du soir", "version": "1.1", "description": "Programme TV du soir", "content_scripts": [{"matches": ["https://tv-programme.com/*"], "css": ["popup.css"], "js": ["popup.js"]}], "action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GazoRepKiller", "version": "1.0.0", "description": "Remove Gazo reply from Tweet reply tree.", "content_scripts": [{"matches": ["*://twitter.com/*"], "js": ["entrypoint.js"]}], "web_accessible_resources": ["./*"]}

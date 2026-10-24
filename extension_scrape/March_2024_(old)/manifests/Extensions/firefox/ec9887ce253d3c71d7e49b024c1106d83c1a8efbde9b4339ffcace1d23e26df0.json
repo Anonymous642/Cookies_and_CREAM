@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "twitch-remove-linethrough", "version": "0.0.2", "content_scripts": [{"matches": ["https://www.twitch.tv/popout/moderator/*/unban-requests"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{abe73659-f8a9-4a15-9742-75d4ba3e4fba}"}}}

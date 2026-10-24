@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Amazon Same Tab", "version": "1.0", "description": "Opens product pages on Amazon.in search in the same tab instead of defaulting to a new tab.", "icons": {"48": "icons/ast-48.png", "96": "icons/ast-96.png"}, "content_scripts": [{"matches": ["*://*.amazon.in/*"], "js": ["removeTargetByAttribute.js"]}]}

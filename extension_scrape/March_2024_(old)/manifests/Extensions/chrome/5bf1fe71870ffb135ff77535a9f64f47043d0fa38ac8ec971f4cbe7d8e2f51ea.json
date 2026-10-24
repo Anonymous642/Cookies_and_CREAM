@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Chrome_OCR_Entry", "version": "0.0.1", "manifest_version": 2, "description": "Chrome OCR Entry Add-On", "background": {"scripts": ["background.js"], "persistent": true}, "web_accessible_resources": ["macro.js"], "browser_action": {}, "permissions": ["https://*/*", "http://*/*", "tabs"]}

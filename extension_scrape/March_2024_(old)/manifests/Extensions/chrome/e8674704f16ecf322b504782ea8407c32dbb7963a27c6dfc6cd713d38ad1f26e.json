@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Youtube Ad Skipper", "version": "0.0.0.1", "icons": {}, "description": "A simple Browser-Extension that skips YouTube Ads if possible. If an Ad cannot be skipped, it will be muted.", "manifest_version": 3, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["content.js"]}]}

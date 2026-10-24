@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "HVAC Converter", "version": "0.1", "icons": {"32": "icon.png"}, "description": "Extension that converts most common units used by HVAC professionals from the american system to the metric system", "action": {"default_popup": "index.html"}, "manifest_version": 3}

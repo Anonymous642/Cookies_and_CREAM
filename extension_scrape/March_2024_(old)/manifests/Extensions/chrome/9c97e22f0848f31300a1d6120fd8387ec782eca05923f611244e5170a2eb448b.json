@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ZIO to ScalaZ", "version": "1.0.3", "description": "Replaces the text 'ZIO' with 'ScalaZ', to make it easier to identify.", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}]}

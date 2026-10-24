@@ -1,0 +1,1 @@
+{"name": "Material Mathgreen", "version": "1.0.6", "description": "A better mathgreen", "permissions": [], "content_scripts": [{"js": ["injector.js"], "matches": ["*://mathgreen.fr/*", "*://www.mathgreen.fr/*"]}], "web_accessible_resources": ["css/*"], "icons": {}, "manifest_version": 2}

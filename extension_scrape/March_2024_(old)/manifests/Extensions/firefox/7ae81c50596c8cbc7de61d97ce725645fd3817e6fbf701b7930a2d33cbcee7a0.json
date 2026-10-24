@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Substack Banner Fixer", "author": "Russell Chestnut", "description": "Prevents the Substack banner from re-appearing when you scroll.", "icons": {"48": "SS-icon-48.png"}, "version": "1.0.0", "content_scripts": [{"matches": ["https://*.substack.com/*"], "css": ["substackbannerfixer.css"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "PP\u65f6\u95f4", "description": "\u76fc\u76fc\u4e13\u7528\u54e6", "version": "5.2.1.20", "manifest_version": 2, "browser_action": {"default_popup": "index.html", "default_icon": "logo.png"}, "icons": {"16": "logo16.png", "48": "logo.png", "128": "logo128.png"}}

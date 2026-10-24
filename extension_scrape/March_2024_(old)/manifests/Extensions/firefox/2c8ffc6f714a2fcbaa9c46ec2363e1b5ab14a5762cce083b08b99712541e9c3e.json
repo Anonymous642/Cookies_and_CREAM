@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Stalker Mode ON", "version": "1.0", "description": "Allows you to see people's Linkedin profile without an account.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*.linkedin.com/*"], "js": ["script.js"]}]}

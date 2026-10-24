@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Major Command Enhancer", "author": "Slippery Gun Productions", "version": "1.0.0", "description": "Enhance your major command experience.", "content_scripts": [{"matches": ["https://www.majorcommand.com/games/*", "http://www.majorcommand.com/games/*"], "js": ["content.js"]}], "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clean Ekstra Bladet", "version": "1.0", "description": "Removes all the bullshit from eb.dk.", "content_scripts": [{"matches": ["*://*.ekstrabladet.dk/*"], "js": ["eb.js"]}]}

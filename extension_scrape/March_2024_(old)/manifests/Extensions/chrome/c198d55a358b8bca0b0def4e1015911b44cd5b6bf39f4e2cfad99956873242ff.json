@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "NoNoPremium", "description": "This extension removes premium posts in itemmania.", "version": "1.1", "manifest_version": 2, "content_scripts": [{"matches": ["http://trade.itemmania.com/*"], "js": ["a.js"], "run_at": "document_end"}]}

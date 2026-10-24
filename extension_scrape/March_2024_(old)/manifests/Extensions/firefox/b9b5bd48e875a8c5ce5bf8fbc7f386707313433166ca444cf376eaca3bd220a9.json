@@ -1,0 +1,1 @@
+{"description": "Saves the current URL to webzalozky.cz - online bookmark manager", "manifest_version": 2, "name": "WebZalozky", "version": "1.2", "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": {"16": "Icons/page-16.png", "32": "Icons/page-32.png"}}, "permissions": ["tabs", "<all_urls>"]}

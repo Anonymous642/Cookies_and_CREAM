@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Yesdil Online", "description": "Yesdil Online Ingilizce Egitim Seti", "version": "1.1", "permissions": ["webview"], "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "icon_16.png", "48": "icon_48.png", "128": "icon_128.png"}}

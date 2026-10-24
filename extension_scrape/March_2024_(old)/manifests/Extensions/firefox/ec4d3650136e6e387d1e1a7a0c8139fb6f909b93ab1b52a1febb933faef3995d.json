@@ -1,0 +1,1 @@
+{"name": "Not My Type", "description": "Makes the typography of the web just a little bit worse \ud83d\udc98", "version": "1.1", "permissions": ["*://*/*", "tabs"], "content_scripts": [{"matches": ["*://*/*"], "css": ["style.css"], "js": ["script.js"], "run_at": "document_end"}], "manifest_version": 2, "icons": {"128": "imgs/logo_128.png", "1000": "imgs/logo_1000.png"}}

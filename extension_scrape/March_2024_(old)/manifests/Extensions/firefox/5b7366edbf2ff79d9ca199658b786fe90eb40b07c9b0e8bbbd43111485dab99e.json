@@ -1,0 +1,1 @@
+{"description": "Youtube Shorts Redirect", "manifest_version": 2, "name": "ytb_shorts_redirect", "version": "1.0", "permissions": ["webRequest", "webRequestBlocking", "https://www.youtube.com/"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{845aaf46-b893-4ae0-a5c9-15934210dbe2}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Puzzle Domain", "description": "Solve crosswords and sudokus online. Easy, Medium and Hard levels each day. Save as you go.", "version": "1.24", "manifest_version": 2, "icons": {"128": "pd.png"}, "app": {"urls": ["http://puzzledomain.com/"], "launch": {"web_url": "http://puzzledomain.com/"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "YTShortsRemover", "version": "1.0", "manifest_version": 3, "description": "Remove completely the Youtube Shorts from your sub feed", "icons": {"128": "YSR.png"}, "content_scripts": [{"matches": ["https://www.youtube.com/feed/subscriptions"], "js": ["main.js"]}]}

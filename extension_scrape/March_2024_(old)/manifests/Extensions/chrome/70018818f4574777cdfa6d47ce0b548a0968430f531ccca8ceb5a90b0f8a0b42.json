@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "No X", "version": "0.1.0", "description": "No X. Remove x.com links on the Twitter UI when copying a link.", "icons": {"128": "icons/icon_128.png"}, "content_scripts": [{"matches": ["https://twitter.com/*", "https://x.com/*"], "js": ["content.js"]}]}

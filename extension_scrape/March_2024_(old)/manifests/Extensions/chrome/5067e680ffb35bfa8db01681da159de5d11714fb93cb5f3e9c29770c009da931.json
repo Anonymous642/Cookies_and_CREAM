@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Office Saigon", "description": "Office Saigon - Cho thu\u00ea v\u0103n ph\u00f2ng chuy\u00ean nghi\u1ec7p t\u1ea1i TPHCM.", "version": "1.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "browser_action": {"default_popup": "popup.html"}}

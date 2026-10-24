@@ -1,0 +1,1 @@
+{"name": "Lingualia", "description": "Lingualia - The Social Network for Online Language Learning", "app": {"urls": ["http://www.lingualia.com/"], "launch": {"web_url": "http://www.lingualia.com/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"24": "icon_24.png", "128": "icon_128.png"}}

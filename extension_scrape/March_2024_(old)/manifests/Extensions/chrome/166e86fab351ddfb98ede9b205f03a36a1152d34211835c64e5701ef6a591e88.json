@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "SumMe - AI Article Summarizer", "description": "Summarize web articles in a professional, concise format using OpenAI's GPT-4 powered AI.", "version": "1.1.0", "action": {"default_popup": "index.html"}, "icons": {"48": "icon48.png"}}

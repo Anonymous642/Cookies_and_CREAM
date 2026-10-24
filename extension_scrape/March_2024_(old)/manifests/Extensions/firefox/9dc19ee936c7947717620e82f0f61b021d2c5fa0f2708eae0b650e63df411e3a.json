@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Spotify-Focus", "version": "1.0", "description": "Removes focus from the play button after clicking it. Removes the space-click conflict - music starts, and pauses again.", "icons": {"72": "icons/72.png"}, "content_scripts": [{"matches": ["*://open.spotify.com/*"], "js": ["lib/play.js"]}]}

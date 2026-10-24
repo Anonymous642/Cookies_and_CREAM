@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Urban Dictionary", "manifest_version": 3, "version": "1.0.1", "permissions": [], "host_permissions": [], "action": {"default_popup": "index.html"}, "incognito": "split", "icons": {"16": "logo.png", "48": "logo.png", "128": "logo.png"}}

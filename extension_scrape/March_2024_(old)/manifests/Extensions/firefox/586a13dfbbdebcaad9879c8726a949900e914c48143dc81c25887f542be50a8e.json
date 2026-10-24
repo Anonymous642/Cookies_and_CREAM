@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Shuffle Tabs", "version": "1.0", "description": "Rearrange tabs, in random order.", "browser_action": {"browser_style": false, "default_icon": "icons/shuffle-icon-32.png", "default_title": "Shuffle Tabs"}, "background": {"scripts": ["shuffle_tabs.js"]}}

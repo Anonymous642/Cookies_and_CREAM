@@ -1,0 +1,1 @@
+{"name": "AH!", "version": "0.1", "manifest_version": 2, "description": "AH!", "browser_action": {"default_icon": "128.png"}, "background": {"scripts": ["AhLaunch.js"]}, "content_scripts": [{"matches": ["*://*/*"], "js": ["AhScript.js"], "css": ["AhStyle.css"]}], "permissions": ["activeTab"], "web_accessible_resources": ["Ah.png", "Ah.mp3"]}

@@ -1,0 +1,1 @@
+{"name": "GutscheinLike Exklusiv", "description": "Exklusiv GutscheinLike", "app": {"urls": ["https://exklusiv.gutscheinlike.de/"], "launch": {"web_url": "https://exklusiv.gutscheinlike.de/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.3", "short_name": "Exklusiv Gutscheinlike", "icons": {"128": "icon.png"}}

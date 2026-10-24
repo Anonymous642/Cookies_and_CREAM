@@ -1,0 +1,1 @@
+{"browser_action": {"default_popup": "popup.html", "default_title": "Filter Vila", "default_icon": "icon.png"}, "description": "Get the best information related to canister filters, aquarium filters, top picks, and how to.", "icons": {"128": "icon.png"}, "name": "Filter Vila", "version": "1.1", "manifest_version": 2}

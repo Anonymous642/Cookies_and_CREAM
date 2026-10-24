@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Froggie Jump", "version": "2.5.19", "manifest_version": 2, "description": "3D Platformer jumping game", "icons": {"128": "ikona128.png"}, "app": {"urls": ["http://froggiejump.cenda.cz/"], "launch": {"web_url": "http://froggiejump.cenda.cz/"}}}

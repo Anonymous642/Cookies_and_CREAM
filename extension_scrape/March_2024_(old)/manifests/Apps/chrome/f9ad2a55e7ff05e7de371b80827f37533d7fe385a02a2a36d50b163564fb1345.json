@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GameFoundry", "version": "5.0.3", "icons": {"128": "128.png"}, "app": {"urls": ["http://gamefoundry.projects.fraunhofer.pt/"], "launch": {"web_url": "https://gamefoundry.projects.fraunhofer.pt:8080/FacebookContainer2.0/"}}, "permissions": ["geolocation"], "manifest_version": 2}

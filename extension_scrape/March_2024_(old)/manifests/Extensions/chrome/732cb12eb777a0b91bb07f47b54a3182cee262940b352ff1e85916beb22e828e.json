@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CheckMyLeads", "version": "4.0", "manifest_version": 3, "description": "Welcome to Check My Leads...!!!", "action": {"default_title": "Check My Leads", "default_popup": "../html/login.html"}}

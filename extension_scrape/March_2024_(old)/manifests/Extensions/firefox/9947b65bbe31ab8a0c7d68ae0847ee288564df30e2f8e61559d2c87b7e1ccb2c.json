@@ -1,0 +1,1 @@
+{"description": "Log Mixpanel Events", "manifest_version": 2, "name": "Mixpanel Log", "version": "2", "author": "EsaRK", "icons": {"48": "icons/star.png"}, "devtools_page": "devtools/devtools-page.html"}

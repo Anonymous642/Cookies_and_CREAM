@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "REmindR", "description": "This extension will help you manage your day by never forgetting anything !", "version": "1.0", "background": {"service_worker": "background.js"}, "action": {}, "icons": {"64": "assets/128.png"}}

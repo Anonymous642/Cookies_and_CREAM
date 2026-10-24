@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fire Whats Fox App", "version": "1.0", "description": "Opens a new window for web.whatsapp.com, as if it where a stand alone application.", "icons": {"512": "icon.svg"}, "browser_action": {"default_icon": "icon.svg", "default_title": "Fire Whats Fox App"}, "background": {"scripts": ["background.js"]}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitch Clip Dash", "version": "1.0", "description": "get yer clips in herr", "homepage_url": "https://github.com/paradox1st/twich_clip_dash", "permissions": ["activeTab"], "background": {"scripts": ["background/background-script.js"]}, "browser_action": {"default_title": "Dash", "default_popup": "popup/index.html"}}

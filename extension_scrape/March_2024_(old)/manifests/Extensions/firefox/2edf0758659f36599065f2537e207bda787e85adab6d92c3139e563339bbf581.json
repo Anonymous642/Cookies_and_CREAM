@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Currency", "version": "1.0", "description": "Shows Updated Currency Values Base as US Dollar", "permissions": ["<all_urls>"], "browser_action": {"browser_style": true, "default_title": "CurrencyRates", "default_popup": "popup.html"}}

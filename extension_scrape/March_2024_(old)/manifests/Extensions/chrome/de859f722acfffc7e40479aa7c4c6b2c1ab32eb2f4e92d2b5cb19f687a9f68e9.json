@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Meme X Memes", "version": "1.0", "description": "Join memex for diverse memes, chats, and sorted channels of fun content! \ud83c\udf89 Experience why we're a top meme community \ud83e\udd29", "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Command Crisis", "manifest_version": 2, "version": "1.8.85", "icons": {"128": "128.png"}, "app": {"urls": ["http://www.commandcrisis.com/"], "launch": {"web_url": "http://www.commandcrisis.com/"}}, "permissions": ["unlimitedStorage"]}

@@ -1,0 +1,1 @@
+{"name": "Reload Tab by Double Middle Click", "version": "1.0", "manifest_version": 2, "description": "Reload tab by double middle clicking anywhere on the page.", "icons": {"48": "icon.svg", "96": "icon.svg"}, "permissions": ["<all_urls>", "contextMenus", "tabs"], "background": {"page": "background.html"}}

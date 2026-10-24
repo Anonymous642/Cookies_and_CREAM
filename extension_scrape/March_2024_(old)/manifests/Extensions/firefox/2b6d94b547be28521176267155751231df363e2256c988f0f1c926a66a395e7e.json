@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AliExpress Time Running Out Checker", "version": "1.1", "description": "Check if Order is running out and you can make dispute. Red for running out, orange for 10 days left. Days left printed under 'Open Dispute'", "icons": {"48": "icons.png"}, "content_scripts": [{"matches": ["*://trade.aliexpress.com/*"], "js": ["aliexpress.js"]}]}

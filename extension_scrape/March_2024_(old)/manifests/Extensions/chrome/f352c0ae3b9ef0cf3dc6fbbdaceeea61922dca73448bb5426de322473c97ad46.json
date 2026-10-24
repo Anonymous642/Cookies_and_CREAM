@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Bloq", "description": "Esta extensi\u00f3n permite leer noticias sin la necesidad de registrarte en Ol\u00e9 y Clar\u00edn", "version": "1.0.4", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab"]}

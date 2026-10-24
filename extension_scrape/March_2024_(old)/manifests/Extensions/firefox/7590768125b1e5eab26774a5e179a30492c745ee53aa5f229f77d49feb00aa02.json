@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DN.se Enhancer", "version": "1.0", "description": "Enhances the viewing experience on DN.se", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://*.dn.se/*"], "js": ["enhance.js"]}]}

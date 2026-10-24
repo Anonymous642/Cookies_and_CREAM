@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Jogando PS2 no Pendrive", "manifest_version": 2, "description": "Tutoria para jogar PS2 no pendrive", "version": "1.1.0", "icons": {"16": "package-assets/16X16-chrome.png", "128": "package-assets/128X128-chrome.png"}, "app": {"background": {"scripts": ["background.js"]}}}

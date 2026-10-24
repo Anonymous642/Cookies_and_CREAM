@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dia-cr\u00edtica", "version": "0.1.1", "description": "Elimina todas las tildes diacr\u00edticas de una p\u00e1gina web.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["dia-critica.js"]}]}

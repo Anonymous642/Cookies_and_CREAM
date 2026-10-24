@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Weer", "description": "Een simpele weer app ", "manifest_version": 2, "version": "1.0.7", "minimum_chrome_version": "23", "app": {"background": {"scripts": ["main.js"]}}, "icons": {"16": "img/icon.png", "64": "img/icon.png", "128": "img/icon.png"}, "permissions": ["geolocation", "storage", "<all_urls>"]}

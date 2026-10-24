@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No Bad Marks", "version": "1.0", "description": "Removes bad marks from GISEO daybook.", "content_scripts": [{"matches": ["*://giseo.rkomi.ru/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{bf56963d-2e29-4972-8bbc-2caf478edca5}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Openspace", "version": "1.0.3", "description": "Openspace", "short_name": "Openspace", "icons": {"128": "assets/openspace_logo.png"}, "browser_action": {"default_title": "Openspace", "default_popup": "index.html", "default_icon": "assets/openspace_logo.png"}}

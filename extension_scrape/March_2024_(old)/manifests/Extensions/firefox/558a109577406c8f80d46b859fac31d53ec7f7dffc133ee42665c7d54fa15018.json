@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "nHighSchoolReportProgress", "short_name": "nProgress", "version": "0.1.0.1", "content_scripts": [{"matches": ["https://secure.nnn.ed.jp/mypage/result/pc/list/index?studentTermId=*"], "js": ["./main.js"]}]}

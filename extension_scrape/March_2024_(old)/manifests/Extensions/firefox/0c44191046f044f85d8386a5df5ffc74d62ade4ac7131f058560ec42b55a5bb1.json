@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clock", "version": "0.1", "description": "Clock, Quote and image", "permissions": ["<all_urls>"], "browser_action": {"browser_style": true, "default_title": "Clock", "default_popup": "clock.html"}}

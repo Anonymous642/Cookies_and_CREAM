@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "neometal", "version": "1.1.5", "description": "Tudo que eu n\u00e3o gosto \u00e9 culpa do heavy metal.", "permissions": [], "icons": {"64": "assets/64.png", "128": "assets/128.png", "256": "assets/256.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["./lib/index.js"]}]}

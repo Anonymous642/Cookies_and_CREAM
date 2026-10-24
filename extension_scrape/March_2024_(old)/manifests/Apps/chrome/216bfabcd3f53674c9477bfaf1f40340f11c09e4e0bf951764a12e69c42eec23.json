@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": " aVers iBookkeep", "short_name": "iBookkeep", "description": "App for Auth", "version": "1.0.1", "manifest_version": 2, "icons": {"16": "16x16.png", "128": "icon_128.png"}, "app": {"urls": ["https://aibk.com.au/"], "launch": {"web_url": "https://aibk.com.au/login/gapp_auth.php"}}}

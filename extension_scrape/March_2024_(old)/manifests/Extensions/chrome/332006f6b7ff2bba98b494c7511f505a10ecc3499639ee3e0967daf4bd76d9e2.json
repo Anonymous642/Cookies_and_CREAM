@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tab Closer", "version": "0.0.1", "description": "Close all tabs from a given site", "permissions": ["tabs"], "action": {"default_popup": "popup.html", "default_icon": {"128": "/images/tab-closer-128.png"}}, "icons": {"128": "/images/tab-closer-128.png"}, "manifest_version": 3}

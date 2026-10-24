@@ -1,0 +1,1 @@
+{"name": "Advanced Font Settings", "version": "4.4.4", "manifest_version": 2, "description": "Customize per-script font settings.", "options_page": "options.html", "icons": {"16": "fonts16.png", "128": "fonts128.png"}, "permissions": ["fontSettings"], "browser_specific_settings": {"gecko": {"id": "{10635e3b-dcff-45db-ad84-98d6492b8613}"}}}

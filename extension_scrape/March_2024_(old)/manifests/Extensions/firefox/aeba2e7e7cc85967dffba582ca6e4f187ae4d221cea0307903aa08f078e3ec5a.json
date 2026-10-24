@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube - Continue Watching", "version": "1.0", "description": "Gets rid of the annoying \"Video paused. Continue watching?\" popup.", "icons": {"48": "icons/play-48.png"}, "content_scripts": [{"matches": ["https://www.youtube.com/*", "https://music.youtube.com/*"], "js": ["script.js"]}]}

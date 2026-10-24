@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OwO TWANSWATOW", "description": "This is a beautiful translator that turns your internet into absolute shit.", "version": "1.0", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

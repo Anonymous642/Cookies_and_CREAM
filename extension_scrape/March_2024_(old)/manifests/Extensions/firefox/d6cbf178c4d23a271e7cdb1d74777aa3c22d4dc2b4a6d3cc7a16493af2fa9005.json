@@ -1,0 +1,1 @@
+{"name": "Home Remedies", "description": "Know Everything, How to, Home Remedies, Get rid.", "app": {"urls": ["https://www.homeremedies.site/"], "launch": {"web_url": "https://www.homeremedies.site/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

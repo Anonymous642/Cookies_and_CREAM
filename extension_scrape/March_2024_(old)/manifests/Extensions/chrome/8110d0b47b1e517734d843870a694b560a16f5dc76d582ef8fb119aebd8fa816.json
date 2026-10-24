@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Chunkyfy for ChatGPT", "version": "3.0", "manifest_version": 3, "description": "An extension to divide large texts into chunks for ChatGPT", "permissions": ["storage", "clipboardWrite"], "action": {"default_popup": "popup.html", "default_title": "Chunkify for ChatGPT"}}

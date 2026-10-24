@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Jira Issue: Full Width", "version": "0.0.1", "browser_action": {"default_icon": "tab-icon.png"}, "description": "Expand issue window using the full window width.", "content_scripts": [{"css": ["main.css"], "matches": ["*://issues.cambio.se/*"]}]}

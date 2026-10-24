@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "UBC Course Timezone Localizer", "description": "Changes the UBC course schedule pages to show courses in the local timezone", "version": "1.0", "content_scripts": [{"matches": ["*://courses.students.ubc.ca/cs/*"], "js": ["js/vendor.js", "js/content_script.js"]}], "permissions": []}

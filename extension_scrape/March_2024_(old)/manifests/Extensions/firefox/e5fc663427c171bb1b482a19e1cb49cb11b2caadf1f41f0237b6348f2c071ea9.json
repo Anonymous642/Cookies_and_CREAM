@@ -1,0 +1,1 @@
+{"name": "Hide Twitch Extensions", "version": "1.3", "description": "Just hide twitch extensions on Chrome and Firefox", "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["hide.js"], "run_at": "document_idle"}], "permissions": ["tabs", "*://*.twitch.tv/*"], "manifest_version": 2}

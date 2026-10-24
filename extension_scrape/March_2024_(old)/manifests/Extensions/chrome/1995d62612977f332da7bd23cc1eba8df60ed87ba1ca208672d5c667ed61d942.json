@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Twitch Tchat Generator", "version": "1.0.0", "description": "Extension pour les cr\u00e9ateurs de contenu qui veulent cr\u00e9er des montages de leurs VOD", "action": {"default_popup": "popup.html"}, "icons": {"48": "icon48.png", "128": "icon128.png"}}

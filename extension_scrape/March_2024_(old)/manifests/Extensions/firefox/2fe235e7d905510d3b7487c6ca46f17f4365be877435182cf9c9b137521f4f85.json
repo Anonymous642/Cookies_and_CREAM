@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dark theme fast.com", "description": "Dark theme for the site https://fast.com/", "version": "1.0", "icons": {"16": "/images/fast_logo_dark.svg", "48": "/images/fast_logo_dark.svg", "128": "/images/fast_logo_dark.svg"}, "content_scripts": [{"matches": ["*://*.fast.com/*"], "css": ["main.css"]}]}

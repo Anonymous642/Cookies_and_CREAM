@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "EASY 4 You: The New Smart NoteTaker", "description": "Take handy notes with just a click using this new notetaker website. ", "version": "1.0", "browser_action": {"default_icon": "logo.png", "default_popup": "window.html"}}

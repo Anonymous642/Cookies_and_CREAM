@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Paper Pets [FREE TRIAL]", "description": "This is a Paper model printing App. There are 12 animal models, 24 Print drawings.  Kids love. ", "version": "3.5", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "mainicon.png", "128": "mainicon.png"}}

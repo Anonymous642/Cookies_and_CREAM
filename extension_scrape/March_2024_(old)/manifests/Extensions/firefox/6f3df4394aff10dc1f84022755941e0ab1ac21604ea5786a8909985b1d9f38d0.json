@@ -1,0 +1,1 @@
+{"background": {"scripts": ["opendiscarded.js"]}, "description": "Adds 'Open link in new discarded tab' option", "manifest_version": 2, "permissions": ["contextMenus", "bookmarks"], "name": "Open link in new discarded tab", "version": "1.4", "author": "def00111", "applications": {"gecko": {"id": "{a134ba68-4aac-41e0-9141-9f8d00373d93}", "strict_min_version": "63.0a1"}}}

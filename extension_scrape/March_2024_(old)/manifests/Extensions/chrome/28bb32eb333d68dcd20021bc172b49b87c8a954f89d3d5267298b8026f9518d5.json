@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Photo Editor", "description": "Photo Editor provides a photo editing tool via a widget on your toolbar.", "version": "1.0.0", "action": {"default_popup": "index.html"}, "background": {"service_worker": "./js/background.js"}, "icons": {"48": "./images/logo-icon.png"}}

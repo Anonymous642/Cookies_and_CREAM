@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Highlight HTTP Links", "version": "1.0", "manifest_version": 3, "description": "Esta extension resalta los enlaces que no utilizan HTTPS.", "host_permissions": ["<all_urls>"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

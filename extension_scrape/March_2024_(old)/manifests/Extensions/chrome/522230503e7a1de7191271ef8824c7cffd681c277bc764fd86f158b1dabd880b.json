@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "UltimateFRCTab", "version": "1.0", "description": "Replaces the Newtab page with an image and information on a random FRC team", "chrome_url_overrides": {"newtab": "newtab.html"}}

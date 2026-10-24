@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Doodler", "version": "0.2", "manifest_version": 2, "description": "Helps you practice your drawing skills.", "icons": {"128": "icon_128.png"}, "app": {"urls": [], "launch": {"web_url": "http://bitbof.com/doodler/"}}, "permissions": ["unlimitedStorage"]}

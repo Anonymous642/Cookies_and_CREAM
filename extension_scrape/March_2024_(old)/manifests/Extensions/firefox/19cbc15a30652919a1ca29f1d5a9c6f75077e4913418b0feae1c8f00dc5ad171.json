@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Chrometa Add on", "version": "1.0", "description": "Chrometa tools.", "icons": {"48": "icons/Chrometa_logo-48x48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["chrometa.js"]}]}

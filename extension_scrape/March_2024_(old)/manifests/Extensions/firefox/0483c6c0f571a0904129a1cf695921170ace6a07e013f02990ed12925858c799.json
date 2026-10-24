@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Display Stack Levels", "version": "1.0", "description": "Displays the z-index stack levels of elements on the current webpage.", "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "displaystacklevels@gmail.com"}}, "background": {"scripts": ["background.js"], "persistent": false}}

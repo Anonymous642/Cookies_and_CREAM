@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Discord Powersave", "version": "1.0.1", "description": "Disables spinner animations in Discord", "content_scripts": [{"matches": ["https://discordapp.com/*"], "css": ["powersave.css"]}]}

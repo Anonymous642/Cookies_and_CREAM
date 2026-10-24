@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TTB Tab Zoom", "version": "1.0", "description": "Isolate zoom functionality to individual tabs when working with multiple tabs on the same domain", "background": {"scripts": ["background.js"], "persistent": false}, "manifest_version": 2, "icons": {"128": "ttbIcon.png"}}

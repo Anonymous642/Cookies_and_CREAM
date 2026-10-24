@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Minesweeper", "version": "1.2.4", "description": "Can change the number of columns/lines/mines, and has an independent high-score for each combination.", "icons": {"128": "images/icon128.png"}, "app": {"background": {"scripts": ["background.js"]}}, "manifest_version": 2, "permissions": ["storage"]}

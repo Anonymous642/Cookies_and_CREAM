@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ConvertMoney", "description": "Simple tool to convert money. 145 currencies, can work offline", "version": "0.1", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"128": "app-128.png"}, "permissions": ["storage", "unlimitedStorage", {"fileSystem": ["write"]}, "<all_urls>"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "JokeGPT", "version": "1.1", "description": "Add jokes to Github Pull Requests.", "content_scripts": [{"matches": ["https://github.com/*"], "js": ["content.js"]}], "icons": {"128": "icon128.png"}}

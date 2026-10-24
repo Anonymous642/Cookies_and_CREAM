@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "What's it worth? (UK)", "description": "What's your stuff worth on eBay? Find out!", "version": "1.0.4", "manifest_version": 2, "app": {"urls": ["http://uk.evaluator-online.com/index.php"], "launch": {"web_url": "http://uk.evaluator-online.com"}}, "icons": {"128": "icon_128.png"}, "permissions": []}

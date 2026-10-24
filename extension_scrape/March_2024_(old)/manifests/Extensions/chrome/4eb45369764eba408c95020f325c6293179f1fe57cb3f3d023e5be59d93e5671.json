@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube - Square Player", "version": "1.0.1", "description": "Customizes YouTube player style by making it square again.", "icons": {"16": "yt-16.png", "48": "yt-48.png", "128": "yt-128.png"}, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["content.js"]}]}

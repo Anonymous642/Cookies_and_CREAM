@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "AWS Cloud Cost Saver", "version": "1.0", "description": "Check your AWS Account unused services", "action": {"default_popup": "popup.html"}, "permissions": ["tabs"], "background": {"service_worker": "background.js"}}

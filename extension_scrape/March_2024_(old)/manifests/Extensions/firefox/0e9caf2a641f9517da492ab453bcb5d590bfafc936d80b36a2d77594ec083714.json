@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YTFix", "version": "1.0", "description": "Fixes the youtube \"Invalid Response Received\" error by reloading page in background.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["main.js"]}]}

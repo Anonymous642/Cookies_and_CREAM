@@ -1,0 +1,1 @@
+{"name": "Emerald anti-spam", "version": "0.0.1", "manifest_version": 2, "description": "Mutes people who spam in emerald for a little bit", "permissions": ["webRequest", "https://emeraldchat.com/app", "tabs"], "icons": {"48": "no_spam.png"}, "content_scripts": [{"matches": ["*://*.emeraldchat.com/app"], "js": ["script.js"], "run_at": "document_end"}]}

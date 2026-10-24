@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Better Media Tab", "version": "1.0", "description": "Betters the media tab", "content_scripts": [{"matches": ["*://twitter.com/*"], "js": ["jquery-3.3.1.min.js", "waitForKeyElements.js", "mediabetter.js"]}], "permissions": ["*://twitter.com/*", "activeTab", "tabs", "webNavigation"], "background": {"scripts": ["background.js"]}}

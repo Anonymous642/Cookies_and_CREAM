@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Linkedin EndorseAll", "description": "It endorse all the skills with a single click", "version": "1.0", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"js": ["content.js"], "matches": ["*://*.linkedin.com/*"]}], "page_action": {"default_icon": "icons/icon.png"}, "background": {"scripts": ["bg.js"]}}

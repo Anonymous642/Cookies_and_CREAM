@@ -1,0 +1,1 @@
+{"name": "Old Rustlang Redirect", "description": "Ensure Rustlang always loads the old design", "version": "1", "manifest_version": 2, "background": {"scripts": ["background.js"]}, "permissions": ["webRequest", "webRequestBlocking", "*://rust-lang.org/*", "*://www.rust-lang.org/*"]}

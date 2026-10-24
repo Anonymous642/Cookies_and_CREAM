@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RemoveAward", "version": "1.0", "description": "Removes Reddit Awards", "icons": {"1": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "css": ["RemoveAward.css"]}]}

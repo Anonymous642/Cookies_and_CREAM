@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HideMyFbFeed", "version": "1.0", "description": "Hides your facebook timeline", "homepage_url": "https://github.com/adrienbrunet/hidemyfbfeed", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["hidemyfbfeed.js"]}]}

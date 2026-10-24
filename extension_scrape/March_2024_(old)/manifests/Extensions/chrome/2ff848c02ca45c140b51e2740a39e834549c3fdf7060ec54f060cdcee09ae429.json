@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "content_scripts": [{"css": ["style.css"], "matches": ["https://trello.com/*"]}, {"js": ["ensureVisibility.js"], "matches": ["https://trello.com/*"]}], "description": "Hides the continue button on trello", "manifest_version": 2, "name": "Trello Hider", "version": "0.1.0"}

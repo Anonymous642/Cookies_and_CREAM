@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "nonyabusiness.com", "description": "Great prices on games, movies, music, and more.", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["HTTP://nonyabusiness.com/catalog"], "launch": {"web_url": "HTTP://nonyabusiness.com/catalog"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MS Team Quote Maker", "version": "1.3", "description": "Make quote on Selection (MS Team)", "icons": {"48": "icons/firefox-logo-focus-48.png"}, "content_scripts": [{"matches": ["*://teams.microsoft.com/*"], "js": ["borderify.js"]}], "background": {"scripts": ["background.js"]}, "permissions": []}

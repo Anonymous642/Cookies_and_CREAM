@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AdBlocker complement", "version": "1.3.2", "description": "Deshace el protector que evita el Adblocker en varios peri\u00f3dicos digitales", "icons": {"48": "icons/adbc.png"}, "content_scripts": [{"matches": ["https://elpais.com/*", "https://*.abc.es/*"], "js": ["adbc.js"]}]}

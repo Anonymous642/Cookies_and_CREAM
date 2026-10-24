@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hey QA", "version": "1.1", "description": "Identifies QA so we don't test on live .", "content_scripts": [{"matches": ["*://qa.swiftdental-app.com/*"], "js": ["hey-qa.js"]}], "browser_specific_settings": {"gecko": {"id": "{e0d1d10c-6fed-4e7c-9be5-3042e8d57235}"}}}

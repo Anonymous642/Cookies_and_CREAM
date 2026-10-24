@@ -1,0 +1,1 @@
+{"description": "Locations de vacances en monnaie libre \u011e1", "manifest_version": 2, "name": "Airbnjune", "version": "1.0", "homepage_url": "https://airbnjune.org", "icons": {"128": "images/get_started128.png"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "images/get_started128.png"}}

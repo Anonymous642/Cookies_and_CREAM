@@ -1,0 +1,1 @@
+{"name": "Instalang", "version": "0.7.0", "manifest_version": 2, "description": "Incremental Reading for Language Learning.", "homepage_url": "https://github.com/derjoker/instalang", "content_scripts": [{"matches": ["https://www.instapaper.com/read/*"], "js": ["./src/check.js", "./src/index.js"], "css": ["./src/index.css"]}]}

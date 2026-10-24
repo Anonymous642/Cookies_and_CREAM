@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "XAF to SHP", "version": "1.0", "description": "Convert XAF to SHP", "browser_specific_settings": {"gecko": {"id": "XAF-to-shp@example.com"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BlueSky Image URL Fullsizer", "version": "1.0", "description": "Replaces feed_thumnbail with feed_fullsize.", "permissions": ["webRequest", "webRequestBlocking", "https://cdn.bsky.app/img/*"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "kinseykinderkinset@kinseykins.kin"}}}

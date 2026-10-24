@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "OpaSopa.com.br", "version": "1.0", "description": "Opasopa.com.br", "browser_action": {"default_popup": "opasopa.html"}, "icons": {"128": "img/icon128.png"}}

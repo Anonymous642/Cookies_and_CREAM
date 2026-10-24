@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Module trompette", "version": "1.0", "description": "Donald Trompette", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["trompette.js"]}]}

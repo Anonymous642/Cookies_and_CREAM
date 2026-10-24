@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Stackage inspector", "version": "1.1", "description": "Type >> to inspect stackage", "icons": {"48": "icons/inspect-48.png"}, "applications": {"gecko": {"strict_min_version": "52.0a1"}}, "omnibox": {"keyword": ">>"}, "background": {"scripts": ["background.js"]}, "permissions": ["https://www.stackage.org/"]}

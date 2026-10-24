@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ezaccess Chrome", "description": "Converts link to ezaccess.libraries.psu.edu for institutional access.", "version": "1.0", "manifest_version": 2, "background": {"scripts": ["background.js"]}, "permissions": ["tabs"], "browser_action": {}, "icons": {"128": "icon.png"}}

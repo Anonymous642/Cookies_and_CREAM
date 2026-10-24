@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "kka", "description": "\u7c21\u6f54\u6613\u7528\u7684\u7e2e\u7db2\u5740\u670d\u52d9", "version": "1.1.1", "manifest_version": 3, "action": {"default_popup": "home.html"}, "icons": {"16": "./icon.png", "32": "./icon.png", "48": "./icon.png", "128": "./icon.png"}, "permissions": ["tabs"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Conversor BRL", "description": "Conversor de BTC, EUR e USD para BRL.", "version": "0.1", "manifest_version": 3, "action": {"default_popup": "conversor.html", "default_icon": "icon128.png"}, "icons": {"128": "icon128.png"}}

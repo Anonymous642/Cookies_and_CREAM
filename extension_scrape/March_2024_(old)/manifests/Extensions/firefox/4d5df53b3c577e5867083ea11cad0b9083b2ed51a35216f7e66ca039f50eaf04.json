@@ -1,0 +1,1 @@
+{"name": "MarkPal", "version": "0.0.4", "manifest_version": 2, "icons": {"48": "markpal-48.png"}, "sidebar_action": {"default_icon": {"32": "markpal-32.png"}, "default_title": "MarkPal", "default_panel": "index.html", "open_at_install": true}, "browser_specific_settings": {"gecko": {"id": "{269ccc29-df29-4a71-870e-1d568b641f1d}"}}}

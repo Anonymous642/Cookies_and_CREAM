@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Techlara Point", "version": "1.2", "description": "Adds a browser action that monitors resource usage of all browser processes.", "permissions": ["processes"], "browser_action": {"default_title": "Techlara Point", "default_icon": "icon.png", "default_popup": "popup.html"}, "manifest_version": 2}

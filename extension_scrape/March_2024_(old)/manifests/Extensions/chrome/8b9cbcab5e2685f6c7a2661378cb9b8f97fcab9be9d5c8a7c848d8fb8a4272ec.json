@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "mk carsales unique", "version": "6.9", "content_scripts": [{"matches": ["https://*.carsales.com.au/*"], "js": ["script.js"]}]}

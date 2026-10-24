@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Indie Music", "version": "1.0", "description": "Pop-up which plays Indie music from Spotify.", "icons": {"16": "flower.png", "48": "flower.png", "128": "flower.png"}, "browser_action": {"default_icon": "flower.png", "default_popup": "popup.html"}}

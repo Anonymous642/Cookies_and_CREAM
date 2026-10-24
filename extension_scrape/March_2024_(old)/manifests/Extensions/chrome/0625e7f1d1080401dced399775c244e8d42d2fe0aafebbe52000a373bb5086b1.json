@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Legalpioneer Search", "description": "Right-click Legalpioneer.org search functionality.", "version": "1.0", "permissions": ["contextMenus"], "icons": {"16": "logo_16.png", "48": "logo_48.png", "128": "logo_128.png"}, "background": {"scripts": ["main.js"]}}

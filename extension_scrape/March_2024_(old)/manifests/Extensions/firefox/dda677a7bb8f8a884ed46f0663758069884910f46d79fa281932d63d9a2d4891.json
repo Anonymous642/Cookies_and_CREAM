@@ -1,0 +1,1 @@
+{"description": "", "manifest_version": 2, "name": "Start", "version": "1.0", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["start.js"]}]}

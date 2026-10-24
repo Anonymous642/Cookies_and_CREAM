@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Software eats AI", "description": "Replaces every mention of 'AI' and 'Artificial Intelligence' with 'Software'", "version": "1.0", "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

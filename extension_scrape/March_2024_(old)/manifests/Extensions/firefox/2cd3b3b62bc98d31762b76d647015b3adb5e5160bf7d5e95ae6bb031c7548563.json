@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reddold", "version": "2", "description": "Redirects www.reddit.com to old.reddit.com", "icons": {"48": "icons/icon2_48.png", "96": "icons/icon2_96.png"}, "permissions": ["webRequest", "webRequestBlocking", "*://www.reddit.com/"], "background": {"scripts": ["redirect_to_old.js"]}}

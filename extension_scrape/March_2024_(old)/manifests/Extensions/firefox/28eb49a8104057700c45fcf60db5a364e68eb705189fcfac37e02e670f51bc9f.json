@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Aktu Circular", "description": "Aktu circular browser extension Created by sanjutech", "version": "1.0.0", "browser_action": {"defaul_title": "An Aktu Circular Browser Extension", "default_popup": "html/popup.html"}, "permissions": ["downloads", "http://*.ext.dtornado.com/", "tabs"]}

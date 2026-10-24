@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UnwallQuora", "version": "1.0", "description": "Removes signup wall from quora pages.", "icons": {"48": "icons/UnwallQuora-48.png"}, "content_scripts": [{"matches": ["*://*.quora.com/*"], "js": ["UnwallQuora.js"]}], "applications": {"gecko": {"id": "unwallquora00@dryairship"}}}

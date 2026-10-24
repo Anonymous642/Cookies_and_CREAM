@@ -1,0 +1,1 @@
+{"name": "His Girl Friday", "author": "vintageclassics", "version": "0.2", "manifest_version": 2, "description": "Watch the great Comedy Classic film His Girl Griday", "browser_action": {"default_icon": "hgf.png", "default_title": "Watch the great Comedy classic", "default_popup": "extension.html"}, "icons": {"128": "hgf.png"}}

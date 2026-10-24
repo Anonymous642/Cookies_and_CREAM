@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "shrugged", "version": "1.1", "content_scripts": [{"matches": ["*://*/*"], "js": ["/js/shrugged.js"]}], "permissions": ["webRequest", "<all_urls>"]}

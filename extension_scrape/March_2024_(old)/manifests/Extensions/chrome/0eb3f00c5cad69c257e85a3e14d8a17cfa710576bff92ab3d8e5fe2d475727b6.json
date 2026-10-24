@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Simplicity", "version": "0.0.1", "description": "It's just another customization option for New Tab pages.", "chrome_url_overrides": {"newtab": "index.html"}}

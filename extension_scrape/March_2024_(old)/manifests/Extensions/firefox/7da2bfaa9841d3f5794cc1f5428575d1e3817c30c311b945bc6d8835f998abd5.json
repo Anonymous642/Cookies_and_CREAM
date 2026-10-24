@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Carlin", "version": "1.1", "description": "Elimina el popup de clar\u00edn que pide que te registres", "icons": {"48": "icons/icono_48.jpg", "96": "icons/icono_96.png"}, "content_scripts": [{"matches": ["*://*.clarin.com/*"], "js": ["carlinExt.js"]}]}

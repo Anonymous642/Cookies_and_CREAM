@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Real Estate Comp Calculator", "description": "This extensions helps quickly calculate the sqft dimension for comparison homes.", "version": "1.0", "action": {"default_icon": "home.png", "default_popup": "popup.html", "default_title": "Comp Calculator"}}

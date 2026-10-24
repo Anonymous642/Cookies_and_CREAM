@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Shifted", "description": "Shifted", "version": "14.0", "manifest_version": 2, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "requirements": {"3D": {"features": ["css3d", "webgl"]}}, "offline_enabled": true, "app": {"launch": {"local_path": "WebPlayer.html"}}}

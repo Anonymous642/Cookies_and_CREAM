@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Diigo outliner", "description": "diigo outlienr chrome app", "version": "0.1", "manifest_version": 2, "permissions": ["webview"], "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "16.png", "48": "48.png", "128": "128.png"}}

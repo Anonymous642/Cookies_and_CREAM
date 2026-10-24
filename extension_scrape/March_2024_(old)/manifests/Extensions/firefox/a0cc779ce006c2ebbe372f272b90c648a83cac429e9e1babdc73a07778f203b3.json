@@ -1,0 +1,1 @@
+{"name": "CSS Filters Editor", "short_name": "Filters", "version": "1.0.0", "manifest_version": 2, "devtools_page": "devtools.html", "applications": {"gecko": {"id": "@FiltersEdit", "strict_min_version": "54.0"}}, "permissions": ["tabs", "activeTab", "<all_urls>"]}

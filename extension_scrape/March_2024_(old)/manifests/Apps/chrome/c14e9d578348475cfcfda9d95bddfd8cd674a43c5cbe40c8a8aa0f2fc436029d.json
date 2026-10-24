@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Kerika", "description": "Kerika is work management for remote teams", "version": "181", "manifest_version": 2, "icons": {"128": "icons/Kerika_128x128.png"}, "app": {"urls": ["https://a.kerika.com/login?s=google"], "launch": {"web_url": "https://a.kerika.com/login?s=google"}}}

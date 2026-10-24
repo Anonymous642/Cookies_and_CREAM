@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "datamatic.io", "manifest_version": 2, "description": "Beautiful data visualizations for anyone.", "version": "1.1", "app": {"urls": ["http://d3.datamatic.io/"], "launch": {"web_url": "http://d3.datamatic.io/"}}, "icons": {"128": "icon_128.png"}}

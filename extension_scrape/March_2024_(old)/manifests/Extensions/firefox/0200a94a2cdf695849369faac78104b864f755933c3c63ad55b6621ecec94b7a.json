@@ -1,0 +1,1 @@
+{"description": "Permite imprimir duas notas de venda em uma folha s\u00f3 no Tiny ERP", "manifest_version": 2, "name": "Tiny ERP better print options", "version": "1.0", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["*://erp.tiny.com.br/vendas*"], "js": ["better_print.js"]}]}

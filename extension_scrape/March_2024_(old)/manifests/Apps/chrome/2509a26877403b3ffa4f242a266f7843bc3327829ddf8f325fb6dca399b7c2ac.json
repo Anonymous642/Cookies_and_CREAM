@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"background": {"scripts": ["main.js"]}}, "icons": {"128": "128.png"}, "manifest_version": 2, "name": "Puzzle", "version": "1"}

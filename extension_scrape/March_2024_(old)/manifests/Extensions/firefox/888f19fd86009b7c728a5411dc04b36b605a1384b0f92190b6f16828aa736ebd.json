@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Whichward", "version": "1.1", "description": "Finds the ward associated with an address on Zillow.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.zillow.com/*"], "js": ["whichward.js"]}]}

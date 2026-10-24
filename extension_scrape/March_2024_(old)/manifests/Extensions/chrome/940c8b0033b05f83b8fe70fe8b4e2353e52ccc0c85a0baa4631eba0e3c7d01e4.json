@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Ethereum Gas Tracker", "version": "0.1.0", "manifest_version": 3, "icons": {"1024": "icon.png"}, "action": {"default_icon": {"1024": "icon.png"}}, "background": {"service_worker": "background.js"}, "permissions": ["alarms"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "order connect", "version": "1.1.0", "permissions": ["activeTab"], "manifest_version": 3, "description": "OrderConnect - connects Optionstrat and the TWS.", "action": {}, "icons": {"128": "icon.png"}, "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hribi Google Maps", "version": "1.2", "description": "Addon ki doda povezavo na Google Maps s koordinatami izhodi\u0161\u010da", "content_scripts": [{"matches": ["*://*.hribi.net/izlet/*"], "js": ["hribi-googlemaps.js"]}]}

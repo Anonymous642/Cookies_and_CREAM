@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "COPY-SHA", "description": "Click icon -> Write password -> Click Hash -> Paste -> ... -> Profit", "version": "1.0", "icons": {"170": "crypto.png"}, "browser_action": {"default_icon": "crypto.png", "default_title": "COPY-SHA", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "copysha@test.com"}}}

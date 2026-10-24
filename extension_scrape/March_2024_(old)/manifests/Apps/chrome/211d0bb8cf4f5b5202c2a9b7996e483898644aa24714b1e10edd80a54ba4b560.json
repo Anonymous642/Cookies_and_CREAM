@@ -1,0 +1,1 @@
+{"app": {"launch": {"web_url": "http://www.wantgame.net/games/blocks/blocks.html"}, "urls": ["http://www.wantgame.net/games/blocks/blocks.html"]}, "description": "See Further", "icons": {"128": "icon128.png"}, "manifest_version": 2, "name": "Block", "update_url": "http://clients2.google.com/service/update2/crx", "version": "1.0.1"}

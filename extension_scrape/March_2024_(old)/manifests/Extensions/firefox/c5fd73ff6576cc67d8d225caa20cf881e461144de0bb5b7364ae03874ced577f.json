@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "goodbye-seekbar", "version": "1.0", "description": "Hide seekbar on YouTube", "icons": {"64": "icon.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["main.js"]}], "applications": {"gecko": {"id": "addon.goodbye-seekbar@sweshelo.jp"}}}

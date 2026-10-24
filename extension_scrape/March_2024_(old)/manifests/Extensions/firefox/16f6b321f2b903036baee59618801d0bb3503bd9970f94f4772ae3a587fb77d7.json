@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Marsify", "version": "1.0", "description": "Add cute cat pictures to your favourite forums!", "icons": {"48": "icons/marsey.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["marsify.js"]}], "browser_specific_settings": {"gecko": {"id": "{d3d849de-4866-4380-be34-193edd578f44}"}}}

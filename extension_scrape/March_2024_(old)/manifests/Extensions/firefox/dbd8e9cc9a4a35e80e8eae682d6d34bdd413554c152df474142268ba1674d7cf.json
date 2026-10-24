@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Simple MP3 Player", "version": "1.0", "description": "An add-on to listen to MP3 audio files.", "icons": {"48": "icon.png"}, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{46546472-6003-457d-b451-943645335acf}"}}}

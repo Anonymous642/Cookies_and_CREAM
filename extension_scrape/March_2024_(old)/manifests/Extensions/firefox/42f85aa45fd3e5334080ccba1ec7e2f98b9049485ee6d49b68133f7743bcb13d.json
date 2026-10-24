@@ -1,0 +1,1 @@
+{"name": "JPValet", "version": "0.1.1", "manifest_version": 2, "icons": {"48": "sakura-48x48.png", "96": "sakura-96x96.png"}, "permissions": ["tabs", "contextMenus", "https://learnjapanese.onl/*"], "background": {"scripts": ["background.js"]}}

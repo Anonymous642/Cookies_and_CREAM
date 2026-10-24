@@ -1,0 +1,1 @@
+{"name": "Booking Flights & Hotels Deals", "description": "Travel More, Spend Less When You Book Vacations via Booking Flights & Hotels Deals", "version": "1.0", "manifest_version": 2, "browser_action": {"default_popup": "frame.html", "default_icon": "cheapflight.png"}, "web_accessible_resources": ["frame.html"]}

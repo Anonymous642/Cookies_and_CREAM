@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tinder view like", "description": "Look face of your tinder likes", "version": "1.0", "permissions": ["tabs", "activeTab", "contextMenus"], "background": {"scripts": ["src/back.js"]}, "icons": {"50": "img/icon-active-50.png"}}

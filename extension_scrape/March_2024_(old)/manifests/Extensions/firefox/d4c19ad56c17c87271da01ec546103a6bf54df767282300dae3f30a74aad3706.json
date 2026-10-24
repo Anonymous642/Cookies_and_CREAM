@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fuck West Taiwan ", "description": "Tired of dick holes trying to come after our freedoms. Now you can have them signaled out by using the offical Fuck West Taiwan.", "version": "1.17", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Colour Dots", "offline_enabled": true, "permissions": ["storage"], "description": "Colour Dots", "version": "0.0.0.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "img/colourdots-16.png", "128": "img/colourdots-128.png"}}

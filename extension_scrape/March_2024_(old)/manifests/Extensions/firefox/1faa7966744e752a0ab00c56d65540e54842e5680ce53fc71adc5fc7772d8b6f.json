@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TGMobilizer", "version": "0.0.2", "description": "Responsive design of TGM Forum Metro Into The Grey theme on mobile devices.", "content_scripts": [{"matches": ["*://*.thegamesmachine.it/forum/*"], "js": ["tgmobilizer.js"]}]}

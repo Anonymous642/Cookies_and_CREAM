@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "RampStock", "version": "1.0.3", "app": {"background": {"scripts": ["main.js"]}}, "permissions": ["storage", "http://download.finance.yahoo.com/"], "icons": {"128": "icon.png", "129": "DeleteRed.png", "130": "addPortf.png"}}

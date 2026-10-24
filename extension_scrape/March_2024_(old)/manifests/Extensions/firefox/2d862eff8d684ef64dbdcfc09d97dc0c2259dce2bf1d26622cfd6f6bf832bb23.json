@@ -1,0 +1,1 @@
+{"name": "Filek.TV", "description": "Wtyczka informacyjna kana\u0142u Filek.TV", "version": "1.0.1", "manifest_version": 2, "icons": {"19": "icon19.png", "48": "icon48.png"}, "applications": {"gecko": {"id": "marcin.filek@gmail.com"}}, "browser_action": {"default_icon": "icon19.png", "default_popup": "popup.html"}, "permissions": ["activeTab"]}

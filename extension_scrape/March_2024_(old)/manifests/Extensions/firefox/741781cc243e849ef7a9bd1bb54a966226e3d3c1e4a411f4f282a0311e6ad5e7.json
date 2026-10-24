@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Created Date OLX", "version": "0.0.1", "description": "Mostra a data que foi criado o anuncio na OLX", "content_scripts": [{"matches": ["*://*.olx.com.br/*"], "js": ["olx.js"]}], "browser_specific_settings": {"gecko": {"id": "{54f3f251-ad7e-4ef9-bbc2-6458c83d744f}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Display ARIA Roles", "version": "1.0", "description": "Identifies and displays ARIA roles on the current webpage.", "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "displayariaroles@gmail.com"}}, "background": {"scripts": ["background.js"], "persistent": false}}

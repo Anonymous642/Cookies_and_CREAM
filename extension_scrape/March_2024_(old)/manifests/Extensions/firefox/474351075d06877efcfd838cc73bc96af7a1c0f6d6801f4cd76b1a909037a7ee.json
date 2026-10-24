@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FuckZN", "version": "1.1", "description": "Make GDZ Great Again", "content_scripts": [{"matches": ["*://znanija.com/*"], "js": ["fuckzn.js"]}]}

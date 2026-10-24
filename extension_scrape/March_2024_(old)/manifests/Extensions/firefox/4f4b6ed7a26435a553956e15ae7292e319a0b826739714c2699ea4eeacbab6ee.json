@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No Movie Censorship", "version": "1.0", "description": "It shows a red flag for persian websites which censor movies", "icons": {"16": "icons/green.png", "32": "icons/green.png"}, "background": {"scripts": ["main.js"]}, "browser_action": {"default_icon": {"16": "icons/green.png", "32": "icons/green.png"}}, "permissions": ["tabs"]}

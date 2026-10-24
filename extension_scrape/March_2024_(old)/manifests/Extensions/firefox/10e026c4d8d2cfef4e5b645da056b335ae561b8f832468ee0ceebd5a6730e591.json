@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ascunde avatarul lui Zombie", "version": "1.0", "description": "Extensie care ascunde avatarul lui DarthZombie pe forumul Nivelu'2", "content_scripts": [{"matches": ["*://*.nivelul2.ro/*"], "css": ["zombie.css"]}]}

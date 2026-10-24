@@ -1,0 +1,1 @@
+{"name": "Ukryj Czarnolisto", "description": "Wtyczka ca\u0142kowicie ukrywaj\u0105ca komentarze u\u017cytkownik\u00f3w Wykopu, kt\u00f3rych masz na #czarnolisto.", "version": "0.1", "manifest_version": 2, "content_scripts": [{"js": ["remove.js"], "css": ["hide.css"], "matches": ["https://www.wykop.pl/*", "https://wykop.pl/*"]}]}

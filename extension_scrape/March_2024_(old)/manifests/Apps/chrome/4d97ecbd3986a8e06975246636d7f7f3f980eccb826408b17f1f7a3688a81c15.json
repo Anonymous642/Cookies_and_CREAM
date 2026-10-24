@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "AmeriCommerce", "description": "AmeriCommerce Chrome App", "version": "0.1", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "ac.png", "128": "ac.png"}, "permissions": ["webview", "storage"]}

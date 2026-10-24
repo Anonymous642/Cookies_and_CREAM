@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Rampes Desch\u00eanes", "description": "Lien vers le site web de Rampes Desch\u00eanes.", "version": "1.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.rampesdeschenes.ca/"], "launch": {"web_url": "http://www.rampesdeschenes.ca/"}}}

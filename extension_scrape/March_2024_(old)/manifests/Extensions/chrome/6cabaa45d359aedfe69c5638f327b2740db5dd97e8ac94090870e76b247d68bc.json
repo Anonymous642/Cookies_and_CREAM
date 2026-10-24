@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Remove FB Ads", "description": "Removes \"Sponsored\" posts on Facebook", "version": "1.0.0", "content_scripts": [{"matches": ["https://www.facebook.com/*"], "js": ["modules.js", "script.js"]}]}

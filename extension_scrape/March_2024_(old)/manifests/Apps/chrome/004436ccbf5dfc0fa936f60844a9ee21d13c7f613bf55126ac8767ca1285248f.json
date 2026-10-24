@@ -1,0 +1,1 @@
+{"app": {"urls": ["https://elionnx.ais.psu.edu/eLionStudent/secure/elionHome.seam"], "launch": {"web_url": "https://elionnx.ais.psu.edu/eLionStudent/secure/elionHome.seam"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Links to Penn State eLion", "name": "eLion", "icons": {"128": "128.png"}, "manifest_version": 2, "version": "1.2"}

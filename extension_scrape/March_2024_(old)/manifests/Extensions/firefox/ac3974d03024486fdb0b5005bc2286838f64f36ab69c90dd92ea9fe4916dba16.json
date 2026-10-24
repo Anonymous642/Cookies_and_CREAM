@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "JOD to AUD", "version": "1.0", "description": "Convert Jordanian Dinar to Australian Dollar", "browser_specific_settings": {"gecko": {"id": "jod-to-aud@example.com"}}}

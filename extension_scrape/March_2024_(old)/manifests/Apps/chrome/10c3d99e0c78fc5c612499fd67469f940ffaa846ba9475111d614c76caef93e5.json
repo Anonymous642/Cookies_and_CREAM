@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "bombermaaan", "description": "a little game of bomberman", "version": "1.6.1", "icons": {"16": "bomberman_16.png", "128": "bomberman_128.png"}, "app": {"launch": {"local_path": "game.html"}, "container": "panel"}}

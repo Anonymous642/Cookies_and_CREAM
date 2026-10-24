@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Extension Menu", "version": "0.0.1", "manifest_version": 3, "action": {"default_popup": "default_popup.html"}, "permissions": ["management"], "icons": {"128": "icon/128.png"}, "author": "Solomon Kinard", "description": "List and search for your favorite extensions with ease."}

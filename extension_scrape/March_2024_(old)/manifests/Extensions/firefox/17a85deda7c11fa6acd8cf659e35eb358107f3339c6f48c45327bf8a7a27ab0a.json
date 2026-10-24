@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Smile Redirect", "version": "1.0", "description": "Redirects all amazon.com urls to smile.", "icons": {"48": "icons/redirect-48.png"}, "content_scripts": [{"matches": ["*://www.amazon.com/*", "*://www.amazon.co.uk/*"], "js": ["smile.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ModerationHelper", "version": "1.3", "description": "Helpfull small improvements for phpbb forums", "permissions": ["menus"], "content_scripts": [{"matches": ["*://*.formel1.de/forum/*"], "js": ["js/functions.js"]}], "background": {"scripts": ["js/background.js"]}}

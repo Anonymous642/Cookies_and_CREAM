@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Wiktionary Suggestions by Language", "version": "1.0.0", "description": "Allows user to easily go to a Wiktionary entry in a specific language.", "icons": {"48": "icons/icon48.ico", "96": "icons/icon96.ico"}, "background": {"scripts": ["background.js"]}, "omnibox": {"keyword": "w"}, "permissions": ["*://en.wiktionary.org/*"]}

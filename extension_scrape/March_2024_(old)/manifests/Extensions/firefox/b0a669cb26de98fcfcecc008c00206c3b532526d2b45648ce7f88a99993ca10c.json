@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "yt-declutter", "version": "1.0", "description": "Removes annoying recommendations from YT landing page", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["yt-declutter.js"]}]}

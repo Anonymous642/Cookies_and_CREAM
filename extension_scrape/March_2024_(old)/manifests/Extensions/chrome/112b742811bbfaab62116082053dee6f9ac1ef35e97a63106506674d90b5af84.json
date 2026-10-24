@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Active Land", "description": "Active Land - Home to endless opportunities to make your life more active", "version": "3.1", "manifest_version": 3, "background": {"service_worker": "background.js"}, "chrome_url_overrides": {"newtab": "search.html"}, "icons": {"128": "img/logo_128.png"}}

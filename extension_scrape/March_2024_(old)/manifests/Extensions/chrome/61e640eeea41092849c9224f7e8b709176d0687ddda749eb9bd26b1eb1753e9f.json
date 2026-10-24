@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "A+ Buddy", "version": "0.1.0", "description": "Your buddy for quickly calculating Grades!", "action": {"default_icon": {"16": "assets/gpa_icon.png", "24": "assets/gpa_icon.png", "32": "assets/gpa_icon.png"}, "default_title": "GPA Calculator", "default_popup": "popup.html"}, "manifest_version": 3}

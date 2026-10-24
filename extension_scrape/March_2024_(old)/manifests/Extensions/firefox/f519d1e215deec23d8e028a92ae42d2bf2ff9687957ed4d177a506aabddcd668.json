@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reaser", "author": "Fabio Forni", "version": "1.0.0", "permissions": ["history", "tabs", "webNavigation"], "icons": {"48": "icon/reaser.svg", "96": "icon/reaser.svg"}, "background": {"scripts": ["background.js"]}, "content_scripts": [{"js": ["content.js"], "matches": ["http://*/*", "https://*/*"], "run_at": "document_end"}]}

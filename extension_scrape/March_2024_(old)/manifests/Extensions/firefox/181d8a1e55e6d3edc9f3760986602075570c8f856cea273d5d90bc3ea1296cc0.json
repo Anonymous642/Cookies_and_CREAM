@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reading Progress Bar", "version": "1.0", "description": "Adds a reading bar to webpages.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["jquery-3.2.1.min.js", "progress-bar-extension.js"], "css": ["progress-bar-extension.css"]}]}

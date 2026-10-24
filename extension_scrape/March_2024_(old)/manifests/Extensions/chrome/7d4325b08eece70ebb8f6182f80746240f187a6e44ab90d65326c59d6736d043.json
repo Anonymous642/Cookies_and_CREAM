@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Github \"Add single comment\" shortcut", "description": "Shortcut to \"Add single comment\"", "version": "0.0.3", "content_scripts": [{"matches": ["*://github.com/*/pull/*/files"], "js": ["content.js"]}]}

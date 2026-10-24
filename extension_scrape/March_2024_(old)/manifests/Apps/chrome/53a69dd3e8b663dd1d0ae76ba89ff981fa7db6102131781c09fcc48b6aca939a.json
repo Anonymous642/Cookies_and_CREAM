@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "All Cheat Sheets", "version": "1.1", "manifest_version": 2, "description": "Collecting All The Cheat Sheets", "app": {"launch": {"web_url": "http://overapi.com/?chrome"}}, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}

@@ -1,0 +1,1 @@
+{"description": "Adds some extra functionality to turntable.fm", "manifest_version": 2, "name": "TTFM Extras", "version": "1.6", "homepage_url": "https://github.com/dejanGH/TTFMExtras", "icons": {"48": "icons/icon.png", "96": "icons/icon@x2.png"}, "content_scripts": [{"matches": ["*://turntable.fm/*"], "js": ["lib/jquery.js", "main.js"], "css": ["main.css"]}]}

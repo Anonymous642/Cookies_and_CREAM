@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sparkk TV", "description": "Streaming Service for Web Series + Web Movies from independent content creators", "version": "5.6.5", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://www.sparkk.tv/"], "launch": {"web_url": "https://www.sparkk.tv"}}}

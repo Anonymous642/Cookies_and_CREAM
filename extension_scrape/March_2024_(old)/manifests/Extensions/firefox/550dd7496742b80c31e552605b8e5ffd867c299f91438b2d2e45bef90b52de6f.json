@@ -1,0 +1,1 @@
+{"description": "Simple tab manager.", "manifest_version": 2, "name": "OverTab", "version": "2.2", "icons": {"128": "icon.png"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icon.png"}, "permissions": ["tabs", "contextualIdentities"], "browser_specific_settings": {"gecko": {"id": "{f0b4af6c-7659-4336-8e95-dcc4b5195ee7}"}}}

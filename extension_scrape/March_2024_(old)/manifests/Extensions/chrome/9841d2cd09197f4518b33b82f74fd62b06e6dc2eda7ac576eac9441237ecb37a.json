@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "HolaSoyGoku", "version": "2.7", "description": "Frases del universo Dragon Ball", "manifest_version": 2, "icons": {"128": "/esfera.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "browser_action": {"default_icon": "/esfera.png", "default_popup": "popup.html"}}

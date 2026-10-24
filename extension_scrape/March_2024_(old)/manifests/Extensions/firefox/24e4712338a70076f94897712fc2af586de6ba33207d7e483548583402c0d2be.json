@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Updoot", "version": "1.0", "description": "Upvotes all comments in an old reddit post.", "icons": {}, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["updoot.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "top 7 trending games", "version": "1.0", "manifest_version": 2, "browser_action": {"default_popup": "popup.html"}}

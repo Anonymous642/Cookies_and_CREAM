@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "CameraTag", "version": "1.1", "description": "Easily Capture Videos From Your Users' Webcams", "icons": {"128": "128.png"}, "app": {"urls": ["http://cameratag.com/"], "launch": {"web_url": "http://cameratag.com/"}}, "permissions": [], "manifest_version": 2}

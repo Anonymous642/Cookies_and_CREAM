@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Memeify (\ud83c\udd71)", "description": "Replace all instances of 'b' with \ud83c\udd71.", "version": "1.1", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

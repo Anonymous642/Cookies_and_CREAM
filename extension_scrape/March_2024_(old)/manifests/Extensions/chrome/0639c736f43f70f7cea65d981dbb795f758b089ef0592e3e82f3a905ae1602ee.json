@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "FESCO Bill Checker", "version": "1.0", "description": "Check your FESCO Electricity bill by entering reference number", "icons": {"48": "icons/48.png"}, "action": {"default_popup": "popup.html", "default_title": "Check Bill Status"}}

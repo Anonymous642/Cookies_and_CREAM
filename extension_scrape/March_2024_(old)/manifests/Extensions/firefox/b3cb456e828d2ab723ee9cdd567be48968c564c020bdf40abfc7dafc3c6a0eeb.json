@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SteamURLOpenInSteam", "version": "1.0", "description": "Opens steamURLs in the steam app", "icons": {"48": "Steam.png"}, "content_scripts": [{"matches": ["*://*.steampowered.com/*", "*://steamcommunity.com/*"], "js": ["SteamURL.js"]}], "browser_specific_settings": {"gecko": {"id": "{712bf039-9af0-49f6-9eed-8d1a7e252680}"}}}

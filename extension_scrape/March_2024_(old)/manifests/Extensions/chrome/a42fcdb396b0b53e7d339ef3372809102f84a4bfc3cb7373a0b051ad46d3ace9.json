@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Funimation Dark Mode", "version": "1.02", "description": "Dark Mode for Funimation", "icons": {"16": "funicon16.png", "48": "FUN48.png", "128": "funicon128.png"}, "content_scripts": [{"css": ["styles.css"], "matches": ["*://*.funimation.com/*"]}]}

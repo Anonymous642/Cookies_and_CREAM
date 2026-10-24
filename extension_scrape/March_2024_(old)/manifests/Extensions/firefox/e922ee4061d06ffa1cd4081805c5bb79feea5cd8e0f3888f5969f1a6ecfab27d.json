@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ZongTeng NetWork Logger", "version": "2.0", "description": "ZongTeng NetWork Logger.", "icons": {"48": "icons/1.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["jquery-3.3.1.min.js", "des.js", "js.js"]}]}

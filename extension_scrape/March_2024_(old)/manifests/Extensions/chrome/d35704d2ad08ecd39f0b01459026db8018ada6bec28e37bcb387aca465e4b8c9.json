@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TreasuryDirect keyboard enabler", "version": "0.0.1", "description": "Removes readonly attribute from TreasuryDirect password field", "content_scripts": [{"js": ["script.js"], "matches": ["https://www.treasurydirect.gov/RS/PW-Display.do"]}]}

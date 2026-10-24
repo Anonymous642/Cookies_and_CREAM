@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "123 V\u00e9lo", "description": "Vendez et trouvez un v\u00e9lo", "version": "1", "app": {"urls": ["http://www.123velo.fr/"], "launch": {"web_url": "http://www.123velo.fr/", "container": "tab"}}, "icons": {"128": "icon_128.png"}, "permissions": ["unlimitedStorage", "notifications"], "manifest_version": 2}

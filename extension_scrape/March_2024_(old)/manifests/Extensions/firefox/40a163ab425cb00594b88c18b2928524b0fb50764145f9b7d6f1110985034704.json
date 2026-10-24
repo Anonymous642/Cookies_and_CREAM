@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Name Changer", "version": "2.0", "description": "Rename your tab title on every website you like <created by ilias balhi in 2021 -> contact on balhi.ilias@gmail.com>", "icons": {"48": "Icon/icon1.png", "96": "Icon/icon1.png"}, "permissions": ["<all_urls>", "tabs"], "content_scripts": [{"matches": ["*://*/*"], "js": ["code.js"]}]}

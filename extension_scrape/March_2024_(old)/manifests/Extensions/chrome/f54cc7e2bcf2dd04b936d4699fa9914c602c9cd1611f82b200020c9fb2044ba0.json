@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Dice Roll Simulator", "version": "1.0", "description": "Simulates rolling a dice", "manifest_version": 3, "icons": {"128": "dice png.png"}, "action": {"default_icon": {"128": "dice png.png"}, "default_title": "Dice Roll Simulator", "default_popup": "index.html"}}

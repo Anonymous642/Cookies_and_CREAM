@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "kiszamolo-comments", "version": "1.1", "content_scripts": [{"matches": ["https://kiszamolo.hu/*"], "js": ["comments-addon.js"]}], "permissions": ["storage", "activeTab", "scripting"], "browser_specific_settings": {"gecko": {"id": "{c0788159-36d9-44a2-951b-4c6752fd2f76}"}}}

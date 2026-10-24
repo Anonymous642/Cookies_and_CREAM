@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "News", "version": "1.0", "description": "Get Latest News. Paksitan News, International News, World News, Current Affairs News", "icons": {"48": "icon/news.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icon/news.png", "default_title": "News", "default_popup": "popup/index.html"}}

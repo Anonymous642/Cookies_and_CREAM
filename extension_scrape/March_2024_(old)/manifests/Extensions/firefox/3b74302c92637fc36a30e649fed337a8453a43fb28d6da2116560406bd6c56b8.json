@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dicoding Submission Date", "description": "Display Dicoding Challenge/Academy Submission Date", "version": "1.0", "icons": {"48": "icons/icon48.png", "96": "icons/icon96.png"}, "applications": {"gecko": {"id": "dicodingsubmissiondate@shidec.com"}}, "content_scripts": [{"matches": ["*://*.dicoding.com/*"], "js": ["dicoding_ext.js"]}]}

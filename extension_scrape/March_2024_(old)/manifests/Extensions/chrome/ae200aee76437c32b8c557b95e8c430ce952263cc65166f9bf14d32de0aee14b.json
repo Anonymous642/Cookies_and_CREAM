@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "clean gmail", "version": "1.3.4", "author": "koji takeuchi", "manifest_version": 3, "description": "clean style for gmail", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["https://mail.google.com/mail/*"], "css": ["css/style.css"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Grease", "version": "1", "description": "Never forget to grease the groove!", "manifest_version": 2, "permissions": ["storage"], "chrome_url_overrides": {"newtab": "index.html"}, "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'", "icons": {"48": "favicon.png"}}

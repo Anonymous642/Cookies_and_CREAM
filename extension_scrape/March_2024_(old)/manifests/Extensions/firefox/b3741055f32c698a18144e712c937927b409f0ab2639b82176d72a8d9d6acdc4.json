@@ -1,0 +1,1 @@
+{"description": "IM AWSOME", "manifest_version": 2, "name": "WykopAwsomer3", "version": "1.0", "homepage_url": "http://wykop.pl", "applications": {"gecko": {"id": "wykopawsomer3@mozilla.org", "strict_min_version": "45.0"}}, "content_scripts": [{"matches": ["*://*.wykop.pl/*"], "run_at": "document_idle", "js": ["jquery-3.1.0.min.js", "awsomer.js"]}]}

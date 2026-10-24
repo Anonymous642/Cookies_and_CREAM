@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "audioSuite", "description": "Audible suite for Self Publishers", "version": "0.0.0.8", "content_scripts": [{"matches": ["http://www.audible.com/*", "https://www.audible.com/*"], "js": ["jquery.js", "myscript.js"], "run_at": "document_end"}], "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

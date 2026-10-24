@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "clarin-nologin", "version": "1.1", "description": "no login for clarin.", "applications": {"gecko": {"id": "{73248dc9-1f67-438f-a68a-b7a300df4669}", "strict_min_version": "42.0", "strict_max_version": "50.*"}}, "content_scripts": [{"matches": ["*://*.clarin.com/*"], "js": ["jquery.js", "nologin.js"]}]}

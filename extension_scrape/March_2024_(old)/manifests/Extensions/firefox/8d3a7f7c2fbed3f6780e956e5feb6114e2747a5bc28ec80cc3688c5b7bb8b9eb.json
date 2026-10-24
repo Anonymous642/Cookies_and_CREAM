@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AmazonMultiItemAlert", "version": "1.0", "description": "Check if More Than Two Items are in the Amazon Cart", "icons": {"48": "icons/check2.png"}, "content_scripts": [{"matches": ["*://*.amazon.co.jp/gp/cart/view.html*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{eaf64c8b-3495-41b6-88c0-3c3aec24e3bd}"}}}

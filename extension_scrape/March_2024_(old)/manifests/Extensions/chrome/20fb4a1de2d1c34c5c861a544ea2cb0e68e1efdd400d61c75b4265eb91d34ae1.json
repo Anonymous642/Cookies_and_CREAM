@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Loki", "version": "2.0.3", "description": "GDPR Website Crawler", "manifest_version": 3, "author": "Daniel Martins", "action": {"default_popup": "index.html", "default_title": "Loki Crawler", "default_icon": "loki.png"}, "permissions": ["tabs"]}

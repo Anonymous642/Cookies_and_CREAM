@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.0.1", "name": "Random Joke", "description": "When you're feeling bored and in need of a quick laugh!", "author": "Ammar Khaled Haddad", "action": {"default_title": "Random Joke", "default_popup": "index.html"}}

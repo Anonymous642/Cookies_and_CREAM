@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Career4hub", "version": "1.0", "description": "Predict you career.", "manifest_version": 2, "browser_action": {"default_icon": "circle-cropped.png", "default_popup": "mypopup.html"}, "content_security_policy": "script-src 'self' https://cdn.jsdelivr.net/npm/sweetalert2@10; object-src 'self'"}

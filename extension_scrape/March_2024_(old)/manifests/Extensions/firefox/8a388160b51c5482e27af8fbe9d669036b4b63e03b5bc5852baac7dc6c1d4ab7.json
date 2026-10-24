@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "sketchtrick", "version": "0.1.1", "description": "Makes the copy trick.", "icons": {"32": "icons/icon.png"}, "content_scripts": [{"matches": ["https://garyc.me/sketch/"], "js": ["contentscript.js"]}], "web_accessible_resources": ["tehcodez.js"], "applications": {"gecko": {"id": "sketchtrick@nodomain.me"}}}

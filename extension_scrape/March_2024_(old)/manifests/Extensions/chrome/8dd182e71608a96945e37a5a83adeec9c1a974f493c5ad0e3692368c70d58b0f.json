@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Pro Coffee Measure", "description": "Measure Your Coffee in a Simple and Quick Way.", "version": "1.0.1", "icons": {"20": "icon.jpg", "48": "icon48.png", "126": "icon_128.png"}, "browser_action": {"default_icon": "icon48.png", "default_popup": "popup.html"}}

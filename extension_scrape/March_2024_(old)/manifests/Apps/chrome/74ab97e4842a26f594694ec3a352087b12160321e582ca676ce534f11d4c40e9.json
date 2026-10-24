@@ -1,0 +1,1 @@
+{"name": "Xclusive Yachts", "description": "Luxury Yacht Rental company in Dubai with more than 16 Fleets to offer.", "app": {"urls": ["http://xclusiveyachts.com/"], "launch": {"web_url": "http://xclusiveyachts.com/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

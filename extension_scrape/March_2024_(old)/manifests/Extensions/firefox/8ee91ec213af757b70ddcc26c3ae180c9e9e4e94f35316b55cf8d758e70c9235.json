@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ISIS Enhancer", "description": "Imporves ISIS CSS and Drawer", "version": "1.0", "content_scripts": [{"matches": ["https://isis.tu-berlin.de/*"], "js": ["jquery.js", "isis_enhancer.js"], "css": ["isis.css"], "run_at": "document_end"}], "icons": {"100": "icon.png"}, "permissions": ["https://isis.tu-berlin.de/*"]}

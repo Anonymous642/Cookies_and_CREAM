@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Krust", "version": "1.0", "description": "Krust Launcher", "browser_action": {"default_popup": "popup.html"}, "icons": {"16": "icon.png"}, "manifest_version": 2}

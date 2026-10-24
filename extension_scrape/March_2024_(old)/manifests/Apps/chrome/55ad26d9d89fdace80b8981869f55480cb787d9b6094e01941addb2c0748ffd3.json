@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Daily Dashboard", "description": "Manage Your Tasks, Dynamically", "version": "5.12", "manifest_version": 2, "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "app": {"background": {"scripts": ["eventPage.js"]}}, "permissions": ["storage"]}

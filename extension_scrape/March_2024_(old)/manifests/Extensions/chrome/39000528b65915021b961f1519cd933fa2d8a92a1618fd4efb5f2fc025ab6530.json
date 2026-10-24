@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "hiihat", "description": "hiihat.com makes the search for all things Black more useful, social, and equal.", "version": "5.0", "author": "Culture Moves Group", "action": {"default_icon": "icon.png", "default_popup": "popup.html", "default_title": "hiihat"}}

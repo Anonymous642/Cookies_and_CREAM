@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hipsum generator", "version": "1.1.0", "description": "Fetches hipster ipsum for your personal needs and joy", "icons": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}, "browser_action": {"default_icon": "icons/icon-48.png", "default_title": "Hipsum", "default_popup": "popup.html"}}

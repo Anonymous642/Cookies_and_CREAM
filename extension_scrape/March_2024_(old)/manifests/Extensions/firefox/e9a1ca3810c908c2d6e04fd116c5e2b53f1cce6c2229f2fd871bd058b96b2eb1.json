@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bravo, vous \u00eates sur internet", "version": "1.1.0", "description": "Vous f\u00e9licite \u00e0 chaque lancement de votre navigateur d'\u00eatre sur internet.", "icons": {"48": "icon.png"}, "background": {"scripts": ["bravo.js"]}, "web_accessible_resources": ["bravo.wav"]}

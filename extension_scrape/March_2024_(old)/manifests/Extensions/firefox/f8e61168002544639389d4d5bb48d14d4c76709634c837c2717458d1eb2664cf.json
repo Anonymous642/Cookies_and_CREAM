@@ -1,0 +1,1 @@
+{"description": "A pop up shows up after spending 5 min on facebook and then all every 2 min.", "manifest_version": 2, "name": "fbtimer", "version": "1.1", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["fbtimer.js"]}], "browser_specific_settings": {"gecko": {"id": "{5bf7f841-7102-4bed-b41a-c4f2d8776439}"}}}

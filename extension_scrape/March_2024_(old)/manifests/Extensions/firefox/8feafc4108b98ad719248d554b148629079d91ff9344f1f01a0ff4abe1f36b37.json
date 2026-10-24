@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Save Windows", "description": "Save all tabs in a window to check it later", "version": "1.0.2", "background": {"scripts": ["background.js"]}, "permissions": ["tabs", "http://*/*", "https://*/*"], "browser_action": {"default_icon": "media/icon.png", "default_popup": "panel.html"}}

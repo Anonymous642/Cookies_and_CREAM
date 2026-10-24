@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Product Yellow", "version": "0.0.2", "manifest_version": 3, "description": "Yellow is better than Blue. Get rid of Blue subscribers in your feeds and enjoy your time online again.", "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["js.js"]}], "icons": {"48": "48.png", "128": "128.png"}}

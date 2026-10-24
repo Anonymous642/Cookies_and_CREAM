@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Foofa", "version": "0.0.1", "manifest_version": 2, "browser_action": {"default_popup": "popup2.html", "default_icon": "logo.png"}, "background": {"scripts": ["background.js"], "persistant": false}, "icons": {"128": "logo.png"}}

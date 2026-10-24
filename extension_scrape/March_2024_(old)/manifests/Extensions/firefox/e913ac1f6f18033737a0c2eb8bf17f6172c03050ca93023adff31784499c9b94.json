@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ohiensis", "version": "0.2.0", "description": "block Noto Fonts JP", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["ohiensis_background.js"]}, "browser_specific_settings": {"gecko": {"id": "{74642687-7e8d-4adc-b0ae-cd88d375e3f3}"}}}

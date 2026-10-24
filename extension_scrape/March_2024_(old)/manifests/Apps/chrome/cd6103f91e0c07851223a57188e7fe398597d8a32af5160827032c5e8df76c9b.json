@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bons Plans et Bonnes Affaires", "manifest_version": 2, "short_name": "Bons Plans", "description": "Tous les bons plans et les bonnes affaires du jour !", "version": "1.2", "icons": {"128": "Bons-Plans.png"}, "app": {"launch": {"web_url": "http://www.bons-plans-malins.com/"}}}

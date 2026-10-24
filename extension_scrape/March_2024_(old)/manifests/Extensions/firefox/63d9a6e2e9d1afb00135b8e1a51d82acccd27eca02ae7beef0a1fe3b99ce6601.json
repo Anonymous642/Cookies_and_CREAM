@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "debian.live", "version": "1.0.1", "description": "Notify about man-in-the-middle attacks", "icons": {"32": "mitm-32.png", "48": "mitm-48.png", "64": "mitm-64.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["webRequest", "webRequestBlocking", "notifications", "https://debian.live/*"]}

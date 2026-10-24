@@ -1,0 +1,1 @@
+{"name": "GuiltyGoons Discord", "version": "1.3.1", "description": "Mafia.gg with a Guilty Twist!", "permissions": ["activeTab", "webNavigation", "tabs", "https://mafia.gg/*"], "background": {"scripts": ["background.js"], "persistent": false}, "icons": {"128": "images/guilty_goon.png"}, "manifest_version": 2}

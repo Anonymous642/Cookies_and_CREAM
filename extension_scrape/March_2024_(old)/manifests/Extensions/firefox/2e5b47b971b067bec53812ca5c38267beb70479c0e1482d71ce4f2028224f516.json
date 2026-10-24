@@ -1,0 +1,1 @@
+{"description": "Auto Fullscreen for Firefox ", "manifest_version": 2, "name": "My AutoFullscreen", "version": "1.0.0.2", "background": {"scripts": ["2full.js"]}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Nonnon Grab N Drag", "version": "0.8", "description": "Nonnon Grab N Drag", "icons": {"96": "icons/96.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["nonnon_grab_n_drag.js"], "all_frames": true}], "browser_specific_settings": {"gecko": {"id": "{d098ffd2-6209-4218-91b1-c6536b6f19f7}"}}}

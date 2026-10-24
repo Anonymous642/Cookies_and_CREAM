@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitter Bad", "version": "0.1", "description": "Twitter is bad. This extension replaces twitter with a message telling you that twitter is bad, thus preventing you from using twitter, because it is bad.", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["bad.js"]}]}

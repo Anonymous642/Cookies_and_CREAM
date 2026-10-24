@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Kg Jobs", "version": "1.0.1", "action": {"default_title": "Find Your Dream Job with Our AI-Powered Solutions", "default_popup": "index.html", "persistent": true}, "permissions": ["tabs"]}

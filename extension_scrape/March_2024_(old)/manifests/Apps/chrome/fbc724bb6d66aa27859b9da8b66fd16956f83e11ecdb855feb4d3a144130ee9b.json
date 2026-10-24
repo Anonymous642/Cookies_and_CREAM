@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Kids Love Puzzles", "version": "1.1", "icons": {"128": "128.png"}, "app": {"urls": ["http://eerylab.com/klpjs/"], "launch": {"web_url": "http://eerylab.com/klpjs/index.php"}}, "manifest_version": 2}

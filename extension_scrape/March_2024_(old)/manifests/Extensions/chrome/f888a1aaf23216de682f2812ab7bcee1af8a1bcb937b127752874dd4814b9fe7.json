@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "EMS-CC 2023", "description": "Function detail", "version": "1.0.4", "icons": {"128": "mipbx-new.png"}, "action": {"default_icon": "mipbx-new.png"}, "background": {"service_worker": "js/background.js"}, "permissions": ["contextMenus", "storage", "notifications"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Lyrics Scroller", "version": "1.5", "manifest_version": 2, "description": "Scrolls page down automatically to help musicians read lyrics while recording songs", "browser_action": {"default_popup": "popup.html", "default_title": "app", "default_icon": "icon.png"}, "permissions": ["tabs", "<all_urls>"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "0.0.1", "name": "people_search", "icons": {"16": "images/people_search_16.png", "48": "images/people_search_48.png", "128": "images/people_search_128.png"}, "description": "People Search", "action": {"default_title": "people_search", "default_popup": "popup.html"}}

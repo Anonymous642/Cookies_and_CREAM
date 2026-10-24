@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u5927\u74e3", "description": "\u628a\u8c46\u74e3\u77ed\u8bc4\u6846\u53d8\u5927", "version": "1.0", "manifest_version": 3, "permissions": ["scripting", "tabs", "activeTab"], "action": {"default_popup": "popup.html", "default_icon": {"128": "/images/logo.png"}}, "icons": {"128": "/images/logo.png"}}

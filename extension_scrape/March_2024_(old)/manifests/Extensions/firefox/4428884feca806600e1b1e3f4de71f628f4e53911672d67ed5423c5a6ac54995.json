@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "smtshowID", "version": "1.0", "description": "Show the item id ,seller id and catalog id for result page in aliexpress site.", "icons": {"48": "icons/smtidicon.png"}, "content_scripts": [{"matches": ["*://*.aliexpress.com/*"], "js": ["smtshowid.js"]}]}

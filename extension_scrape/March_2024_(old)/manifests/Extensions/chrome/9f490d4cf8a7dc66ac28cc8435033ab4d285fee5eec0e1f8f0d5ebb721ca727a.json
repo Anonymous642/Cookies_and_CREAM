@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "VelaDash", "version": "1.91", "description": "Vela One Click Trading (1CT) and live order tracking", "manifest_version": 3, "action": {"default_popup": "index.html"}, "icons": {"128": "assets/media/veladash-logo.png"}}

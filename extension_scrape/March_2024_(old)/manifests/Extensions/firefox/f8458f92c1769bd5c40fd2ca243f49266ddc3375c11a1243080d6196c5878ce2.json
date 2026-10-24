@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Notify w3 link", "version": "1.0", "description": "Highlight all w3 links in stack overflow answers", "content_scripts": [{"matches": ["*://*.stackoverflow.com/*"], "js": ["src/swap.js"]}]}

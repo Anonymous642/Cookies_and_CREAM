@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Change Twitter icons + Favicon", "version": "420.6.9", "description": "Bring back birdie Twitter", "content_scripts": [{"matches": ["*://twitter.com/*", "*://mobile.twitter.com/*"], "js": ["logo.js"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{ca9af0aa-a55c-4a4f-930a-54fa629b269d}"}}}

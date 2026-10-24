@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "New Window Offset Zero", "description": "A magic extension for removing the default left offset positioning for new (non-full-sized) windows.", "version": "1.0.2", "background": {"service_worker": "background.js"}}

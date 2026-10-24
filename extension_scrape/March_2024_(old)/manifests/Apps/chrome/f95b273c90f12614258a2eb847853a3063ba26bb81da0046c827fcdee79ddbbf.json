@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "TimeCalculator", "version": "1.0.5", "offline_enabled": true, "description": "", "icons": {"16": "nsb/images/16.png", "128": "nsb/images/128.png"}, "author": "Copyright 2013 ABC Company", "app": {"background": {"scripts": ["background.js"]}}}

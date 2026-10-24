@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Load Organizer", "description": "Load Management System", "version": "1", "manifest_version": 2, "app": {"urls": ["http://www.loadorganizer.com/"], "launch": {"web_url": "http://www.loadorganizer.com/"}}, "icons": {"128": "icon_128.png"}, "permissions": []}

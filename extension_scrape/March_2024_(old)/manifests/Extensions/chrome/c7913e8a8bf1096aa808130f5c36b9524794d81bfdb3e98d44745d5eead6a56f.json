@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Gounn+ Demo", "version": "0.1.0", "description": "Gounn+ Demo extension", "content_scripts": [{"css": ["styles.css"], "js": ["content.js"], "matches": ["https://edu.gounn.ru/*"]}]}

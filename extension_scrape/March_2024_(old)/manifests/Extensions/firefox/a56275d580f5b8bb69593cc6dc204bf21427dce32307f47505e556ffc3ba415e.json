@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube-Loop", "version": "1.0", "description": "Description here.", "icons": {"18": "icons/baseline_replay_black_18dp.png"}, "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["youtube-loop.js"]}]}

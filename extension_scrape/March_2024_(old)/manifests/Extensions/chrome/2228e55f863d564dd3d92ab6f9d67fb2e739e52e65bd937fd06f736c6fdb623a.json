@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Memetor", "version": "1.4", "manifest_version": 3, "description": "Generates random meme on the go from your new-tab", "permissions": [], "icons": {"128": "icon.png"}, "background": {"service_worker": "background.js"}, "chrome_url_overrides": {"newtab": "new-tab.html"}}

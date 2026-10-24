@@ -1,0 +1,1 @@
+{"description": "Redirect www.reddit to old.reddit", "manifest_version": 2, "name": "oldReddit-redirect", "version": "0.1", "permissions": ["webRequest", "webRequestBlocking", "https://www.reddit.com/*"], "background": {"scripts": ["redditRedirect.js"]}}

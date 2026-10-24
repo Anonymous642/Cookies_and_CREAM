@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Manipulist 3DViewer", "description": "Quick link to Manipulist 3DViewer, the web-based 3D viewer.", "version": "1.1", "homepage_url": "https://www.manipulist.com/", "icons": {"48": "icons/logo-48.png", "96": "icons/logo-96.png"}, "browser_action": {"default_icon": "icons/logo-32.png"}, "background": {"scripts": ["background.js"]}}

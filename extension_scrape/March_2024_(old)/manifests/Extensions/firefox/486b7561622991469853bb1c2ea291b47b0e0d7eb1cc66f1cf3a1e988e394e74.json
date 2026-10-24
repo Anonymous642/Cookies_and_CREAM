@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Outline Images Without Dimensions", "version": "1.0", "description": "A Firefox extension to outline images without dimensions.", "permissions": ["<all_urls>"], "browser_specific_settings": {"gecko": {"id": "yourrandomidImages@gmail.com"}}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["contentScript.js"]}]}

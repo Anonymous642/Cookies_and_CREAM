@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "XS4ALL WebTV", "description": "XS4ALL WebTV. Overal in en om het huis live TV kijken op laptop, tablet of smartphone.", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://webtv.xs4all.nl/"], "launch": {"web_url": "https://webtv.xs4all.nl/"}}}

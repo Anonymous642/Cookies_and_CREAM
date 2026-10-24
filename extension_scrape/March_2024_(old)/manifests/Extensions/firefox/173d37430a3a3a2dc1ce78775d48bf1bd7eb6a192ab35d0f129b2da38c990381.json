@@ -1,0 +1,1 @@
+{"description": "Enhances speedrun.com user pages with race results", "manifest_version": 2, "name": "SRDC Enhanced", "version": "0.2", "homepage_url": "https://habs.sdf.org/srapi/", "icons": {"48": "icons/icon-48.png"}, "permissions": ["<all_urls>"], "content_scripts": [{"matches": ["*://*.speedrun.com/*"], "js": ["jquery-3.3.1.min.js", "enhance.js"]}]}

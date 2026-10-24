@@ -1,0 +1,1 @@
+{"manifest_version": 2, "author": "Seth White", "name": "Gab", "description": "The full gab experience on any webpage!", "version": "0.3", "browser_action": {"default_icon": "icons/gab.png", "default_popup": "popup/popup.html"}, "icons": {"192": "icons/gab.png"}, "permissions": ["webRequest", "webRequestBlocking", "*://*.gab.ai/"], "commands": {}}

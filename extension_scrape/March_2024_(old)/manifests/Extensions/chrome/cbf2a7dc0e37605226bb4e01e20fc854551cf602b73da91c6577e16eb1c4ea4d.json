@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "P-H-M Staff Links", "version": "1.0.4", "description": "P-H-M Staff Links", "manifest_version": 3, "author": "Richard Lester", "action": {"default_title": "P-H-M Staff Links", "default_popup": "index.html"}, "icons": {"48": "icon-48.png"}}

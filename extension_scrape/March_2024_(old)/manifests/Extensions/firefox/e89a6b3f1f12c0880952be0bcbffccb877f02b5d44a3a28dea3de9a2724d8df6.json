@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "pvpoke_for_free", "version": "1.0", "description": "Firefox extension to disable the PvPoke pop-up", "icons": {"48": "images/icon.jpg"}, "browser_specific_settings": {"gecko": {"id": "pvpoke_for_free@axdelafuen"}}, "content_scripts": [{"matches": ["https://*.pvpoke-re.com/*"], "js": ["pvpoke_for_free.js"]}]}

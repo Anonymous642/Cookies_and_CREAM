@@ -1,0 +1,1 @@
+{"description": "Internetpositif >:(", "manifest_version": 2, "name": "anippo", "version": "0.3.4.1", "permissions": ["webRequest", "webRequestBlocking", "http://*/*"], "background": {"scripts": ["anippo.js"]}}

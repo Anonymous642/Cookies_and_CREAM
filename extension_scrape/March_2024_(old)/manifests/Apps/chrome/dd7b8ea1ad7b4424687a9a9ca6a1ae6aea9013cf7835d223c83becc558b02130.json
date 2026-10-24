@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ThingLink", "description": "Make media come alive.", "app": {"urls": ["http://www.thinglink.com/"], "launch": {"web_url": "http://www.thinglink.com/"}}, "author": "ThingLink", "manifest_version": 2, "version": "0.1", "icons": {"128": "icon.png"}}

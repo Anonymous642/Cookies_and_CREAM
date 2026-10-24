@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Emesa helper", "short_name": "Emesa helper", "description": "Emesa helper", "version": "0.0.0.1", "browser_action": {"default_icon": "icon17.png", "default_popup": "popup.html", "default_title": "Open page"}, "permissions": ["activeTab", "https://ajax.googleapis.com/"]}

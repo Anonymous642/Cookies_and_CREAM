@@ -1,0 +1,1 @@
+{"description": "Adds a solid red border to all webpages containing Dhar Mann", "manifest_version": 2, "name": "dharmannify", "version": "1.0", "homepage_url": "https://www.facebook.com/dharmannofficial", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["dharmannify.js"]}]}

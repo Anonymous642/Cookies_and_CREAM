@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Leboncoin Immo", "version": "1.1", "description": "Affiche le prix/m^2 sur la page de d\u00e9tail des annonces immobili\u00e8res.", "icons": {"48": "icons/fr.leboncoin.png"}, "content_scripts": [{"matches": ["https://www.leboncoin.fr/ventes_immobilieres/*.htm"], "js": ["display_price_ratio.js"]}]}

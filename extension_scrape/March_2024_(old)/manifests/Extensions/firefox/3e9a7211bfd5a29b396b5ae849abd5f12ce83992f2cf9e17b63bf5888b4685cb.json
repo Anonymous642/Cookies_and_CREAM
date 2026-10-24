@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AnonReddit", "version": "1.1", "description": "Removes unnecessary Reddit bloat.", "icons": {"48": "icons/anonreddit-48.png"}, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["anonreddit.js"]}], "browser_specific_settings": {"gecko": {"id": "{42c77b27-a8ac-438a-82cf-5d0341c35f9e}"}}}

@@ -1,0 +1,1 @@
+{"background": {"scripts": ["background.js"]}, "description": "Automatically close tabs that haven't been accessed in over 3 hours.", "manifest_version": 2, "name": "Auto Tab Close", "permissions": ["tabs"], "version": "1.1.1"}

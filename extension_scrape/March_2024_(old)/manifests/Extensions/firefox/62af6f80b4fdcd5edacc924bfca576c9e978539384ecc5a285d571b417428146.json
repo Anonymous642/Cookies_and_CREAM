@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Regex Crossword Reader", "version": "1.1", "description": "Rotates vertical regexes to be readable", "content_scripts": [{"matches": ["*://*.regexcrossword.com/*"], "css": ["styles.css"]}], "browser_specific_settings": {"gecko": {"id": "{98aba61b-c6fd-4c54-893f-dda5e266bb6c}"}}}

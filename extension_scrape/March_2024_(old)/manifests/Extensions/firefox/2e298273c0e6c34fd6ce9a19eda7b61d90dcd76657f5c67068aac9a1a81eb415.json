@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CVE Searcher", "version": "1.0", "description": "Search a piece of highlighted text in either nvd.nist.gov or cve.mitre.org", "icons": {"48": "icons/logo_48.png"}, "permissions": ["clipboardWrite", "contextMenus", "menus"], "background": {"scripts": ["background.js"]}}

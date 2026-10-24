@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Facebook Marketplace Hider", "version": "1.0.1", "description": "hide facebook marketplace adds from your home page", "icons": {"48": "icons/hide-48.png", "96": "icons/hide-96.png"}, "applications": {"gecko": {"id": "zicoreal@ymail.com"}}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "css": ["hider.css"], "js": ["hider.js"]}]}

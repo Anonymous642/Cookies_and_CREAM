@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "The old chat gpt dark mode", "version": "1.0", "description": "Changes the background color back to the original.", "background": {"service_worker": "background.js"}, "content_scripts": [{"matches": ["https://chat.openai.com/*"], "js": ["content_script.js"]}]}

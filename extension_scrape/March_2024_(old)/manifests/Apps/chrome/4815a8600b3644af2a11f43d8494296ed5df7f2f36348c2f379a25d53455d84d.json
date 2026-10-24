@@ -1,0 +1,1 @@
+{"name": "FullForms", "description": "Free Online Library of Full Forms, Abbreviations, Acronyms, Initialisms, References and much more.", "app": {"urls": ["http://fullforms.com/"], "launch": {"web_url": "http://fullforms.com/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "1.0", "icons": {"128": "icon.png"}}

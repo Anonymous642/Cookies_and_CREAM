@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MasterNews", "version": "1.2", "manifest_version": 2, "description": "Go straight to the MasterNews homepage and enjoy!!", "app": {"urls": ["http://masternewsnow.weebly.com/"], "launch": {"web_url": "http://masternewsnow.weebly.com/"}}, "icons": {"128": "icon.png"}}

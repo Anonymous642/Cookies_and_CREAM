@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube Shorts Annihilator", "author": "Kiwi Soup", "version": "1.0.0", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*.youtube.com/shorts*"], "js": ["ytstvMain.js"]}], "browser_specific_settings": {"gecko": {"id": "{4983e6f0-f667-4d80-9cd4-791b688e7a1f}"}}}

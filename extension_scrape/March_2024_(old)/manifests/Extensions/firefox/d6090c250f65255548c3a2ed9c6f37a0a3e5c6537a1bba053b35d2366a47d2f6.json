@@ -1,0 +1,1 @@
+{"name": "NoPhish", "version": "1.0", "description": "Block potentially harmful websites", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "icons": {"128": "icon128.png"}, "background": {"scripts": ["index.js"]}, "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{e741a9ec-87ad-41a2-86ef-13a495ef2817}"}}}

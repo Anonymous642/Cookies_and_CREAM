@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Chemo for YouTube", "author": "se7t", "version": "1.6.1", "description": "Removes cancerogenic content from YouTube.", "icons": {"48": "icons/pile-of-dung.svg"}, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["Chemotherapy.js"]}]}

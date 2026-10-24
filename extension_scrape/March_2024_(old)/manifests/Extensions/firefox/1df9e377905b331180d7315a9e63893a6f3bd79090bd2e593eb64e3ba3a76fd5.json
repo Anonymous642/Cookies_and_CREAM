@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.0.1", "name": "__MSG_extensionName__", "description": "__MSG_extensionDescription__", "default_locale": "en", "icons": {"16": "icons/keep-16.png", "32": "icons/keep-32.png", "48": "icons/keep-48.png", "96": "icons/keep-96.png"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icons/keep-32.png"}}

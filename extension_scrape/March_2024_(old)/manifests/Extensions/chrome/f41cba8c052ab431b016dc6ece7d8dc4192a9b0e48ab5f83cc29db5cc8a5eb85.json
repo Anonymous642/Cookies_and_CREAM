@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "WikiDonateCloser", "version": "1.0", "description": "WikiDonateCloser", "permissions": ["http://ja.wikipedia.org/*", "https://ja.wikipedia.org/*"], "content_scripts": [{"matches": ["http://ja.wikipedia.org/*", "https://ja.wikipedia.org/*"], "js": ["content_script.js"]}]}

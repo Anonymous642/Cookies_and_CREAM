@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Amber Alert", "version": "1.0", "description": "The only alarm that lets you know when it's 3:11 so you always know what color your energy is!", "icons": {"48": "icons/icon.png"}, "background": {"scripts": ["background.js"]}}

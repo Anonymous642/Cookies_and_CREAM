@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\ubc40\uc744 \uc704\ud55c \uc601\ud654 \uc2dc\uac04\ud45c", "version": "1.1", "manifest_version": 2, "description": "Instantly check movie schedule in your default tab.", "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "chrome_url_overrides": {"newtab": "default.html"}}

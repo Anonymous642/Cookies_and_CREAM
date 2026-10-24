@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Animatron Video Maker", "description": "Make animated explainer videos, create animations, infographics and design pro looking banners", "version": "1.2", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://animatron.com/"], "launch": {"web_url": "http://animatron.com/"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "World of Shady", "description": "Eminem's unmatched bars.", "version": "1.0", "author": "Pieter33", "browser_action": {"default_title": "Experience Bars"}, "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["activeTab"]}

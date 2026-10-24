@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "author": "Vladyslav Tkachenko", "name": "side-copy", "version": "1.0", "content_scripts": [{"matches": ["<all_urls>"], "js": ["side-copy.js"]}], "permissions": ["storage", "clipboardWrite"]}

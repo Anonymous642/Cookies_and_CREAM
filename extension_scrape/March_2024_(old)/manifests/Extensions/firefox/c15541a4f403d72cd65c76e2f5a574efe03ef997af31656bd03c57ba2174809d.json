@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Brighteon Tab Renamer", "version": "1.2", "description": "Sets video & channel page titles on Brighteon.com", "icons": {"48": "icon.png"}, "permissions": ["tabs", "<all_urls>"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{95345342-24d1-4f14-b7b7-685ca25d4f3f}"}}}

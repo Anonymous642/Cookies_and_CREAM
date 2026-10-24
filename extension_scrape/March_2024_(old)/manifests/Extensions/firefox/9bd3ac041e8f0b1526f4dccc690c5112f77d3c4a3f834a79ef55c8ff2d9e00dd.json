@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "youtube-timer", "version": "1.0", "description": "Adds an annoying timer", "browser_action": {"default_icon": "icons/YTT2.png", "default_title": "Youtube Timer", "default_popup": "popup/youtubetimer.html"}, "icons": {"196": "icons/YTT2.png"}, "background": {"scripts": ["background/script.js"]}, "permissions": ["*://www.youtube.com/*"]}

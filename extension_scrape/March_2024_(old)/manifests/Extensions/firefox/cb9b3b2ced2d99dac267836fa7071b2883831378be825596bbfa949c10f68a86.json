@@ -1,0 +1,1 @@
+{"name": "POI pocket", "description": "Create new POI in www.poipocket.com. Select text (address, GPS coordinates...),right click and choose Create POI.", "version": "0.1", "manifest_version": 2, "icons": {"48": "icons/ico48.png", "128": "icons/ico128.png"}, "background": {"persistent": true, "scripts": ["bg.js"]}, "permissions": ["contextMenus"]}

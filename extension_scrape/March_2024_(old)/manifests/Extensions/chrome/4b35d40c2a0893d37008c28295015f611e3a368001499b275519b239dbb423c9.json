@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Pocket Barista - Daily Brew", "description": "Get a random coffee recipe from PocketBarista.uk", "version": "1.0", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}, "host_permissions": ["https://pocketbarista.uk/*"]}

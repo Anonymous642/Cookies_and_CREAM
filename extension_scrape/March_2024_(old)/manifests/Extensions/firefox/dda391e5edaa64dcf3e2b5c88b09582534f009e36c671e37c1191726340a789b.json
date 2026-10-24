@@ -1,0 +1,1 @@
+{"description": "Adds a download link where its missing on http://opac.crzp.sk website.", "manifest_version": 2, "name": "CRZP-download", "version": "1.0", "homepage_url": "https://github.com/ppiliar/crzp-dl-extension", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://opac.crzp.sk/*"], "js": ["download.js"]}]}

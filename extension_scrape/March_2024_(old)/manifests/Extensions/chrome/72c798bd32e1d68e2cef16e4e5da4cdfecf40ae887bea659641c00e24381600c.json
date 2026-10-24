@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Classement Joueurs d'\u00e9checs - Echec et Mat", "version": "1.1", "manifest_version": 3, "action": {"default_title": "Click to view a popup", "default_popup": "popup.html", "default_icon": {"16": "icon16.png", "32": "icon32.png"}}}

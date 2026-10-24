@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "0.2", "browser_specific_settings": {"gecko": {"id": "new-tab-indicator@chrischen.me"}}, "name": "New Tab Indicator", "description": "Adds an icon next to the mouse cursor when hovering over a link that will open in a new tab or window.", "content_scripts": [{"matches": ["*://*/*"], "js": ["new-tab-indicator.js"]}]}

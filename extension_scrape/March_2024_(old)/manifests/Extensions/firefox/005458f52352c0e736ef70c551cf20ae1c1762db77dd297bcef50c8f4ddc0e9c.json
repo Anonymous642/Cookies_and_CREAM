@@ -1,0 +1,1 @@
+{"description": "Adds little text styles for Websites, currently for Spring Framework Documentation Website.", "manifest_version": 2, "name": "Style It", "version": "1.0", "homepage_url": "https://github.com/Ganapathi004/StyleIt", "icons": {"48": "icons/styleit-48.png"}, "content_scripts": [{"matches": ["*://docs.spring.io/*"], "js": ["js/styleit.js"]}]}

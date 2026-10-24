@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ligmafy", "version": "1.0", "description": "What is Ligma?", "icons": {"48": "icons/ligma-48.png"}, "content_scripts": [{"matches": ["*://www.google.com/search*"], "js": ["ligmafy.js"]}]}

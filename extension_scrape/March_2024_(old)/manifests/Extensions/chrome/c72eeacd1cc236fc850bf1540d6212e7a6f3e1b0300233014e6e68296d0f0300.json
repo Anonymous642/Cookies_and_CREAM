@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ProxySwitch", "description": "This extension disable/enable proxy with one click.", "version": "1.0", "browser_action": {"default_icon": "toggle-on-48.png"}, "background": {"scripts": ["popup.js"]}, "permissions": ["proxy", "storage"], "icons": {"128": "ProxySwitch-128.png"}}

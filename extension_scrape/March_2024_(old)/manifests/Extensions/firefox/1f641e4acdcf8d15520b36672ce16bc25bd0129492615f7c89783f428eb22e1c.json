@@ -1,0 +1,1 @@
+{"name": "WowheadPains", "description": "Auto-clicks the 'expand site' button, hiding the ad panes. This is not an adblocker.", "version": "1.0", "manifest_version": 2, "icons": {"16": "WHPicon_small.png", "48": "WHPicon_medium.png", "128": "WHPicon_large.png"}, "content_scripts": [{"matches": ["https://www.wowhead.com/*"], "js": ["content.js"]}]}

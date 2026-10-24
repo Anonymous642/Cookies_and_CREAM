@@ -1,0 +1,1 @@
+{"name": "__MSG_ExtensionName__", "version": "1.0.0.8", "default_locale": "en", "description": "__MSG_ExtensionDescription__", "background": {"page": "/background/main.html", "persistent": true}, "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{d00a9edf-5a09-4e02-82db-5100550d3d02}"}}}

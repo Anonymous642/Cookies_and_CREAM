@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Koolsol", "description": "Quick solitaire patience game resolvable", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://www.koolsol.com/"], "launch": {"web_url": "https://www.koolsol.com/"}}}

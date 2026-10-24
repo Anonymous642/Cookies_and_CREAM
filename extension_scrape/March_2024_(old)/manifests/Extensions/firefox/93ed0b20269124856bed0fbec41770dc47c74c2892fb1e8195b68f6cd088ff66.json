@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Stop Huffington Post Video AutoPlay", "version": "7.0", "description": "Stop videos from huffington post (huffpo) from autoplaying", "content_scripts": [{"matches": ["*://*.huffingtonpost.com/*", "*://*.huffpost.com/*"], "js": ["jquery-3.3.1.min.js", "background.js"]}]}

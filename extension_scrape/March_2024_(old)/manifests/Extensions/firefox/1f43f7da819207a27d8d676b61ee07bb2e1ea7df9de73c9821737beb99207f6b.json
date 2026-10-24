@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove", "version": "1.0", "description": "Removes the Create Button on FaceBook", "icons": {"48": "removeIcon.png"}, "applications": {"gecko": {"id": "solonoodleOficial@gmail.com"}}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["remove.js"]}]}

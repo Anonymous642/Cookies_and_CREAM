@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Daily Standup Helper", "version": "2.5", "description": "Hilft bei der Verwaltung von Daily Standup-Meetings", "permissions": ["storage"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{7d3eff67-1a8b-449a-8ded-7d92169d0658}"}}}

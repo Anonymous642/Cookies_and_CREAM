@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Harish Main", "description": "Testing my First Chrome App.", "version": "0.1", "manifest_version": 2, "default_locale": "en", "permissions": ["<all_urls>"], "icons": {"16": "images/ApplicationLogo.png", "128": "images/ApplicationLogo.png"}, "app": {"background": {"scripts": ["scripts/background.js"]}}}

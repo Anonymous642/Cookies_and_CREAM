@@ -1,0 +1,1 @@
+{"name": "Access To Freedom", "description": "We are a Southern California stairlifts and home elevator company.", "app": {"urls": ["http://www.socalstairlifts.com/"], "launch": {"web_url": "http://www.socalstairlifts.com/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

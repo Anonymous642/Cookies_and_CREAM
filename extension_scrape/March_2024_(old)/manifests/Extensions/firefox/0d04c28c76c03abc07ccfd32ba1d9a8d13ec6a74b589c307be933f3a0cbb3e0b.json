@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tweet to Fart", "description": "Changes instances of the word \"tweet\" to the word \"fart\".", "version": "1.1.0", "author": "@explodedsoda", "icons": {"48": "icons/icon48.png", "128": "icons/icon128.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["./tweet-to-fart.js"]}]}

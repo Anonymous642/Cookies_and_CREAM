@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "La Paz", "version": "0.0.3", "manifest_version": 3, "action": {"default_popup": "LaPaz.html", "default_icon": "jester.png", "default_title": "La Paz"}, "icons": {"128": "jester.png"}}

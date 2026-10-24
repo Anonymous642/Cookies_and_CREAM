@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "WRMS enhancer", "version": "1.5", "manifest_version": 2, "description": "Enhancemenets to WRMS", "content_scripts": [{"matches": ["https://wrms.catalyst.net.nz/*"], "js": ["lib/jquery-1.7.2.min.js", "contentscript.js"]}], "permissions": ["https://wrms.catalyst.net.nz/"]}

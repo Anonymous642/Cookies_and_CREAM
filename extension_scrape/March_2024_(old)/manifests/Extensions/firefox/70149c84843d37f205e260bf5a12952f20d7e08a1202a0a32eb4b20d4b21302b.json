@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Customizable New Tab", "version": "1.0", "description": "Customizes your new tab", "chrome_url_overrides": {"newtab": "tab.html"}, "browser_specific_settings": {"gecko": {"id": "{26088eb4-0b75-420e-ad1e-8daf3c528c1b}"}}}

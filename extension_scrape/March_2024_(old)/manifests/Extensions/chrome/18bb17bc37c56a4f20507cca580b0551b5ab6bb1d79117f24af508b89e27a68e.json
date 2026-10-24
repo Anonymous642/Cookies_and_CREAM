@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Stop Facebook Spam", "version": "1.1", "description": "Hides 'suggested for you' pages, reels, and short videos on Facebook.", "manifest_version": 3, "content_scripts": [{"matches": ["https://www.facebook.com/*"], "js": ["content.js"], "run_at": "document_end"}]}

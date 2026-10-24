@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Extensify BE", "author": "Vishnuteja", "version": "1.0", "description": "A cool browser extension that let's you manage your daily task with soothing background and inspiring quotes", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{de6768fd-63f4-484d-ab27-547d718dd860}"}}}

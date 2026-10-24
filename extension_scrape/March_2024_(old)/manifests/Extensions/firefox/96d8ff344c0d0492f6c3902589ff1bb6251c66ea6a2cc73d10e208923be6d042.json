@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Open or save link in archive.org", "version": "1.0.1", "description": "Adds 'Open in archive.org' and 'Save in archive.org' items to the right-click context menu of a link", "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus"], "browser_specific_settings": {"gecko": {"id": "{934ccfc8-1e6a-45ef-b1cf-10037c6ea955}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dappercob", "version": "1.2", "description": "I'm not owned", "id": "dragondildo@horsefucker.org", "content_scripts": [{"matches": ["*://twitter.com/*"], "js": ["corncobify.js"]}]}

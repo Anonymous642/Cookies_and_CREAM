@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "\u307e\u3044\u30ec\u30dd", "description": "\u8208\u5473\u3084\u611f\u60f3\u3092\u307e\u3068\u3081\u3066\u7ba1\u7406", "version": "0.4", "app": {"urls": ["http://myrepo.biz/"], "launch": {"web_url": "http://myrepo.biz/"}}, "icons": {"128": "icon_128.png"}, "permissions": []}

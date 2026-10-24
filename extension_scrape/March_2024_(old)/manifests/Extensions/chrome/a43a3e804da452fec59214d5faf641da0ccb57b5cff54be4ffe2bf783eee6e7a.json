@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Minimal Home", "version": "0.1.1", "manifest_version": 2, "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["storage"], "options_page": "options.html", "icons": {"16": "minimal_home_16.png", "48": "minimal_home_48.png", "128": "minimal_home_128.png"}}

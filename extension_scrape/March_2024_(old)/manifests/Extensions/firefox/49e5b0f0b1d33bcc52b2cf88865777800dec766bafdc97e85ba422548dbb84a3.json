@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "timegram", "description": "timegram Companion Extension", "version": "1.2.0", "action": {"default_popup": "index.html", "default_icon": "tg_logo.png"}, "background": {"scripts": ["index.js"]}, "permissions": ["tabs", "storage"], "browser_specific_settings": {"gecko": {"id": "ext@timegram.io"}}}

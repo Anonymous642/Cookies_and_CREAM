@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "arXiv-Vanity", "version": "1.2", "description": "Automatically redirect abstracts from arXiv to arxiv-vanity.", "icons": {"48": "icons/icon.svg"}, "background": {"scripts": ["main.js"]}, "permissions": ["*://arxiv.org/abs/*", "webRequest", "webRequestBlocking"]}

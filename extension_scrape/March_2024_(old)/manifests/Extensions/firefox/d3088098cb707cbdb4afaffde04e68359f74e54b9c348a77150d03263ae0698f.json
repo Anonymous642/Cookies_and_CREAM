@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Comic Sans Plague", "version": "1.0", "description": "Changes some fonts on websites to Comic Sans MS. It's just annoying.", "icons": {"48": "icons/hFF37B2DC.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["fontifier.js"]}]}

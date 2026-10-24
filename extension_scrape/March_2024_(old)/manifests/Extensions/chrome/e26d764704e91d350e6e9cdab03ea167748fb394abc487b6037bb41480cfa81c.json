@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "browser_action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["https://offerup.com/search/*"], "js": ["content_script.js"]}], "description": "Hide ads in OfferUp search results.", "manifest_version": 2, "name": "Hide Ads For OfferUp", "permissions": ["tabs"], "version": "0.0.1"}

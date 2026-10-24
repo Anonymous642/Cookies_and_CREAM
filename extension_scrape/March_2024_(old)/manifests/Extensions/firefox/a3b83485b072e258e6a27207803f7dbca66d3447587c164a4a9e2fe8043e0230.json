@@ -1,0 +1,1 @@
+{"name": "Peace cursor", "description": "Changes cursor to a peace sign", "version": "1.0", "homepage_url": "https://peace.no", "icons": {"48": "icons/hand-48.png"}, "web_accessible_resources": ["icons/hand-32.svg"], "content_scripts": [{"all_frames": true, "matches": ["*://*/*"], "js": ["peace.js"]}], "manifest_version": 2}

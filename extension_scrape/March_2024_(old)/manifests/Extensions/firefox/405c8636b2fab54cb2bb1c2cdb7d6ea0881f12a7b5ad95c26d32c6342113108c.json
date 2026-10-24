@@ -1,0 +1,1 @@
+{"name": "GraphQL Network", "version": "1.5", "manifest_version": 2, "applications": {"gecko": {"id": "@graphqldevtools", "strict_min_version": "57.0"}}, "devtools_page": "devtools.html", "icons": {"48": "icons/icon48.png", "128": "icons/icon128.png"}, "permissions": ["tabs", "http://*/*", "https://*/*"]}

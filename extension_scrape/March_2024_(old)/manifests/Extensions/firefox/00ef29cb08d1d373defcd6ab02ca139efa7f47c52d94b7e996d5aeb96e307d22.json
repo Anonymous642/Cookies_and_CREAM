@@ -1,0 +1,1 @@
+{"name": "Ad Blocker", "version": "1.0", "description": "This extension blocks ads on webpages. Made by Tria!", "manifest_version": 2, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>", "storage"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{b07cae7b-fce4-4ebc-b9c2-e65ee9272d15}"}}}

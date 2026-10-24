@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Spermatoz Adventure", "description": "Get the eggs and avoid the viruses !", "version": "1.0.0.0", "manifest_version": 2, "app": {"urls": ["http://www.insomniak-dev.com/sp/"], "launch": {"web_url": "http://www.insomniak-dev.com/sp/"}}, "icons": {"128": "sp_128.png"}}

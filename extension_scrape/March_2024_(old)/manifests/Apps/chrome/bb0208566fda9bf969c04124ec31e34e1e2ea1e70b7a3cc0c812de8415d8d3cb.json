@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "echarts.datamatic.io", "manifest_version": 2, "description": "Build and publish Enterprise Charts (ECharts)", "version": "1.0", "app": {"urls": ["http://echarts.datamatic.io/"], "launch": {"web_url": "http://echarts.datamatic.io/"}}, "icons": {"128": "icon_128.png"}}

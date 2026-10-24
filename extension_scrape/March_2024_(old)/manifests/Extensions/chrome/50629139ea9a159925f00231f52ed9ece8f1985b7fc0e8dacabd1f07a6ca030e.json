@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "purify", "version": "3.1", "web_accessible_resources": ["sw.js"], "content_scripts": [{"matches": ["https://www.facebook.com/*"], "js": ["db.js", "hash-proto.js", "observe.js", "api.js", "post-class.js", "content.js", "dom.js"], "css": ["ui.css"]}]}

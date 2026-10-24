@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Grand QAnon Party", "version": "0.1.4", "description": "Replace every mention of the GOP with their new acronym, GQP.", "icons": {"16": "images/Q-thumbnail.jpg"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

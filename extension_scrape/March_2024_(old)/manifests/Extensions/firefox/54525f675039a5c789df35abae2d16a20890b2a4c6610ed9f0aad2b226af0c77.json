@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Som2.0", "version": "0.1.0", "description": "SomToday improvements", "content_scripts": [{"css": ["styles.css"], "js": ["content.js"], "matches": ["*://elo.somtoday.nl/*"]}], "browser_specific_settings": {"gecko": {"id": "{1cbb14c2-4ffc-41a9-b0e0-5553fbd9d900}"}}}

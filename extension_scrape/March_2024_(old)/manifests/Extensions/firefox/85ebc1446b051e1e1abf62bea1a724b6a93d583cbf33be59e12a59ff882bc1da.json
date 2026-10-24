@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Whatsapp Contacts Panel Hider", "version": "0.2.2", "description": "Allows you to hide contacts side panel at will.", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["https://web.whatsapp.com/"], "js": ["content-script.js"]}], "browser_specific_settings": {"gecko": {"id": "{e533d8e4-8a76-49fc-be8b-1dfc5e35a9c9}"}}}

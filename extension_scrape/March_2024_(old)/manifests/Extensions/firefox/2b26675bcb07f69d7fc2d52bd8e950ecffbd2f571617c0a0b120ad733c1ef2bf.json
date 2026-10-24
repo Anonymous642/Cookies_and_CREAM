@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Instagram Hashtag Generator", "description": "Upload your Instagram Pics to Generate the Most popular Niche Hashtags for your Instagram Post", "version": "1.0", "browser_action": {"default_icon": "logo.png", "default_popup": "popup.html", "default_title": "Instagram Hashtag Generator"}, "permissions": ["activeTab", "storage"]}

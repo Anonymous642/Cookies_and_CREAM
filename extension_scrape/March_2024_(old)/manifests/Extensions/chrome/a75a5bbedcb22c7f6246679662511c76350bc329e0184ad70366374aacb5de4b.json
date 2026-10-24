@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "B\u00f6cek \u0130la\u00e7lama", "version": "1.0", "manifest_version": 2, "description": "B\u00f6cek \u0130la\u00e7lama Firmas\u0131", "browser_action": {"default_icon": "logo.png", "default_popup": "bocek-ilaclama.html"}, "background": {"scripts": ["js.js"]}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mastery Lookup", "version": "1.6.0", "description": "Adds a link to see users Mastery Points from OP.gg", "icons": {"48": "icons/logo-icon.png"}, "content_scripts": [{"matches": ["*://www.op.gg/*"], "js": ["masterylookup.js"]}]}

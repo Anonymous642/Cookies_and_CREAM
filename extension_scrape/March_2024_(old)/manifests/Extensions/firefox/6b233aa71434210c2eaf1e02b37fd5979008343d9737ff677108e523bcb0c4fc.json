@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AROWeb link fixer", "version": "1.0", "description": "Fixes AROWeb anchor elements with href=\"#\" and data-url=\"actual href\" to be working links.", "content_scripts": [{"matches": ["*://www.aro.lfv.se/*", "*://aro.lfv.se/*"], "js": ["linkfixer.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Address Book UI", "version": "2.0", "description": "A simple way to connect to the Address Book UI webpage!", "icons": {"48": "images/get_started48.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": "images/get_started48.png", "default_title": "Address Book UI"}}

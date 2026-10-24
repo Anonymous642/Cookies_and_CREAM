@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "2ch design", "version": "1.0", "description": "Design for 2ch by Kompoman32", "content_scripts": [{"matches": ["*://2ch.hk/*"], "js": ["ext.js"], "css": ["./style.css"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "c0micsans43v3r", "version": "1.1", "description": "Turns everything into Comic Sans", "icons": {"48": "icon-48.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["c0micsans43v3r.js"]}]}

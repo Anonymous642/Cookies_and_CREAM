@@ -1,0 +1,1 @@
+{"applications": {"gecko": {"id": "jid0-ePBKtqqSeez8ThB1NInNoY7B0xc@jetpack"}}, "background": {"scripts": ["redirect-to-dxr.js"]}, "description": "Redirect MXR to DXR", "icons": {"64": "icon64.png"}, "manifest_version": 2, "name": "Better MXR", "permissions": ["https://mxr.mozilla.org/*", "webRequest", "webRequestBlocking"], "version": "0.4.1"}

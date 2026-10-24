@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Canvas Reminder", "version": "0.1", "action": {"default_popup": "index.html", "default_title": "Reminders", "default_icon": "assets/canvas-logo.png"}, "permissions": ["storage", "alarms", "notifications"], "background": {"service_worker": "background.js"}}

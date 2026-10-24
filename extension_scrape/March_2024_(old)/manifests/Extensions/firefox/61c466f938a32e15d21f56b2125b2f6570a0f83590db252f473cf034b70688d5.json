@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Old Reddit Redirect", "version": "1.0", "description": "Automatically redirect to old Reddit", "icons": {"48": "icons/oldRedditRedirect48.png", "96": "icons/oldRedditRedirect96.png"}, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["index.js"]}]}

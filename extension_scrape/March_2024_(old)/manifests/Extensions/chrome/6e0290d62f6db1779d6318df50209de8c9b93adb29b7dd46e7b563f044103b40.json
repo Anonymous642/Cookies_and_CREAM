@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LOL", "version": "1.0", "description": "Displays a joke on every new tab", "permissions": ["https://api.unsplash.com/*"], "chrome_url_overrides": {"newtab": "popup.html"}, "icons": {"48": "icon.png"}}

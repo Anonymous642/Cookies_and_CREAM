@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Link Previewer", "version": "1.0", "description": "Display A full page quick preview of any link", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"]}]}

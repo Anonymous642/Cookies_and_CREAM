@@ -1,0 +1,1 @@
+{"author": "sasa cocic-banjanac", "manifest_version": 2, "name": "tab-killer", "version": "0.1.0", "description": "discard all tabs except the active one", "permissions": ["*://*/*", "tabs"], "background": {"scripts": ["background.js"]}}

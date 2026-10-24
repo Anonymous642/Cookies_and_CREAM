@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "View Color Information", "version": "1.0", "description": "Displays information about colors used on the website you are accessing.", "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "viewcolorinfo.extension@gmail.com"}}, "background": {"scripts": ["background.js"], "persistent": false}}

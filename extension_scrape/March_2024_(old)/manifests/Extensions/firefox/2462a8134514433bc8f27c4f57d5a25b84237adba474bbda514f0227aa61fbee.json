@@ -1,0 +1,1 @@
+{"background": {"scripts": ["background.js"]}, "description": "Save current page as PDF", "developer": {"name": "Didier Lafleur"}, "icons": {"64": "icon.png"}, "manifest_version": 2, "name": "Save PDF", "version": "0.1", "browser_action": {"default_title": "Save page as PDF", "default_icon": "icon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Steamspy stats in steam store", "version": "1.0", "description": "Loads stats from steam spy and show them on steam store", "icons": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}, "permissions": ["*://steamspy.com/*", "webRequest"], "content_scripts": [{"matches": ["*://store.steampowered.com/app/*"], "js": ["steamspy.js"]}]}

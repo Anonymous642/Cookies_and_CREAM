@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Todo List Manager", "version": "1.0", "description": "A Mozilla add-on to create and manage online todo lists.", "icons": {"48": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{982dba09-e273-459f-a110-9155e3546b40}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bank Transactions", "author": "thinkingalaud@gmail.com", "icons": {"128": "bank.png"}, "action": {"default_popup": "popup.html"}, "manifest_version": 3, "version": "0.1", "description": "Extracts bank transactions", "permissions": ["activeTab", "scripting", "tabs"]}

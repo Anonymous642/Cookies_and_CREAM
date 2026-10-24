@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fixing Canvas", "version": "1.0", "description": "Allows filtering just assignments in Canvas/Instructure calendar mode. More features may come in the future", "icons": {"48": "icons/CanvasIcon@0.5x.png", "96": "icons/CanvasIcon.png"}, "content_scripts": [{"matches": ["*://*.instructure.com/calendar*"], "js": ["addFiltering.js"]}]}

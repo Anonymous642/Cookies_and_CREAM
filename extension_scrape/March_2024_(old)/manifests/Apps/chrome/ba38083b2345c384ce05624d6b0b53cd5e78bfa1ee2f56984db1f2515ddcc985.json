@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Finanza per Tutti", "description": "Il forum di trading e finanza per tutti.", "version": "1.0.0", "manifest_version": 2, "icons": {"128": "fpt.png"}, "app": {"urls": ["http://finanzapertutti.com/"], "launch": {"web_url": "http://finanzapertutti.com/"}}, "permissions": ["unlimitedStorage", "notifications"]}

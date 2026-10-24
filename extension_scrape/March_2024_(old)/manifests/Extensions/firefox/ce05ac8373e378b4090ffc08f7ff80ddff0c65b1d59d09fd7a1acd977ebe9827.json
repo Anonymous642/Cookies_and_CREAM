@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SauceNAO Fetcher", "version": "1", "description": "Get's SauceNAO's results for an image.", "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["background.js"]}}

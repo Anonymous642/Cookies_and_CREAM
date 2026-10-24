@@ -1,0 +1,1 @@
+{"app": {"launch": {"web_url": "http://www.sellsy.com"}}, "default_locale": "en", "description": "__MSG_application_description__", "icons": {"24": "24.png", "128": "128.png"}, "manifest_version": 2, "name": "__MSG_application_title__", "update_url": "http://clients2.google.com/service/update2/crx", "version": "1.2"}

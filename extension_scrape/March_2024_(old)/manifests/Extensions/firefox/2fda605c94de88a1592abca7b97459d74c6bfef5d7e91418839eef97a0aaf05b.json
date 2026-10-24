@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Beautify Hacker News", "version": "0", "description": "Beautify Hacker News website", "content_scripts": [{"matches": ["https://news.ycombinator.com/*"], "js": ["app.js"], "css": ["normalize.css", "style.css"]}]}

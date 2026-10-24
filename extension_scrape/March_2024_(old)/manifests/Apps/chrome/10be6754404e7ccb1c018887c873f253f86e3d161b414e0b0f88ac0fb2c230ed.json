@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Whiteboard Lite by Lesson Monkey", "description": "Whiteboard Lite", "version": "0.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["storage"], "icons": {"16": "whiteboard_16.png", "128": "whiteboard_128.png"}}

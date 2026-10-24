@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "IG Profile Picture Viewer", "version": "1.1", "description": "Allows user to see others Instagram's profile picture in full resolution.", "icons": {"48": "icons/IGPicture.png"}, "content_scripts": [{"matches": ["*://*.instagram.com/*"], "js": ["IGPP.js"]}], "browser_specific_settings": {"gecko": {"id": "99tavy.d@gmail.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Color Picker by Magephe", "description": "You can find colors on any website with Color Picker by Magephe.", "version": "1.0", "manifest_version": 3, "action": {"default_title": "Color Creator", "default_icon": "Screenshot_2.png", "default_popup": "index.html"}, "icons": {"128": "Screenshot_2.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Chinese Character Quizzer", "description": "Learn Chinese characters with flashcard quizzes.", "version": "1.1", "app": {"urls": ["http://studykanji.net/chinesequiz/"], "launch": {"web_url": "http://studykanji.net/chinesequiz/chrome/"}}, "icons": {"128": "icon_128.png"}, "manifest_version": 2}

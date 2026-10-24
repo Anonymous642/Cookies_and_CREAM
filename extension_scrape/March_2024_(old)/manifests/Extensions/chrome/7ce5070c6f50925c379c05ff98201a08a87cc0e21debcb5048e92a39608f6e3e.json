@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Thomsen", "version": "0.9", "description": "", "content_scripts": [{"matches": ["https://*.wktransportservices.com/*"], "run_at": "document_end", "js": ["main.js"], "all_frames": true}]}

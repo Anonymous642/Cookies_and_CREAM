@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Music Only for YouTube", "version": "1.0", "permissions": ["scripting", "activeTab"], "action": {"default_popup": "popup.html"}, "icons": {"16": "musiconly-16_x_16.png", "48": "musiconly-48_x_48.png", "128": "musiconly-128_x_128.png"}}

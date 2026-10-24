@@ -1,0 +1,1 @@
+{"name": "A.U.S.T.R.I.N.I.X | Safe Browsing", "version": "1.5", "description": "Block dangerous sites!", "permissions": ["webRequest", "webRequestBlocking", "http://*/", "https://*/"], "background": {"scripts": ["blocked_domains.js", "background.js"]}, "browser_action": {"default_popup": "popup.html"}, "manifest_version": 2}

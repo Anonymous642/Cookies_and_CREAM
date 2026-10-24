@@ -1,0 +1,1 @@
+{"name": "CemeteryRegistry.US", "description": "CemeteryRegistry.US provides a means of locating a cemetery in the United States.", "app": {"urls": ["https://www.cemeteryregistry.us/"], "launch": {"web_url": "https://www.cemeteryregistry.us/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.2", "icons": {"128": "icon.png"}}

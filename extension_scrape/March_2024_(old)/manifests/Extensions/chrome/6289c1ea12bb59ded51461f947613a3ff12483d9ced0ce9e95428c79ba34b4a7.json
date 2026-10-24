@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ZTodo", "version": "1.0.0", "manifest_version": 2, "description": "Your daily list of todo's", "icons": {"32": "./icons/todo32.png", "48": "./icons/todo48.png", "128": "./icons/todo128.png"}, "browser_action": {"default_icon": "./icons/todo128.png", "default_popup": "index.html"}}

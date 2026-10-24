@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Tabutler", "version": "1.8.1", "description": "sweep / order tabs", "icons": {"128": "icons/tabutler128.png"}, "browser_action": {"default_popup": "popup.html"}, "permissions": ["tabs"]}

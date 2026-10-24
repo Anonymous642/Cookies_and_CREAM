@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Body Mass Index Calculator", "description": "V\u00fdpo\u010det va\u0161eho Indexu t\u011blesn\u00e9 hmotnosti.", "version": "1.2", "minimum_chrome_version": "31", "icons": {"16": "plain-heart-16.png", "128": "plain-heart.png"}, "app": {"background": {"scripts": ["main.js"]}}}

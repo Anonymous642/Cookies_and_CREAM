@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Disaster Volunteers Notifications", "description": "Receive notification when a disaster happens so you can help!", "version": "1.0", "manifest_version": 2, "background": {"scripts": ["socket.io.js", "background.js"], "persistent": true}, "permissions": ["notifications"]}

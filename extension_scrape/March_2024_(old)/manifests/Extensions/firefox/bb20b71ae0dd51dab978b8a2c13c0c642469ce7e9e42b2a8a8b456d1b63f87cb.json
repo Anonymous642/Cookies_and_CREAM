@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Robux Changer", "version": "1.0", "description": "Changes the amount of robux you have locally.", "icons": {}, "content_scripts": [{"matches": ["https://*.roblox.com/*"], "js": ["change.js"]}], "browser_specific_settings": {"gecko": {"id": "{0dce8429-bdf7-4610-b3cf-72d0f86278d5}"}}}

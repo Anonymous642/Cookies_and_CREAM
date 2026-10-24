@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube video title", "description": "Detects the links to youtube videos on the current page, then automatically replaces it with target video's title.", "version": "1.0", "browser_action": {"default_popup": "popup.html"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["god.js"]}]}

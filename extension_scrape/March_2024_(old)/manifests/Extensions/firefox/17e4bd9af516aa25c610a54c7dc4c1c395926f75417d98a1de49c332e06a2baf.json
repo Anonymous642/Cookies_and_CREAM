@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Wikipedia Stable", "version": "1.0.1", "description": "Redirects to the stable version of Wikipedia page.", "content_scripts": [{"matches": ["*://*.wikipedia.org/*"], "js": ["main.js"]}]}

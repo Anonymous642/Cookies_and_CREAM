@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Focus to search bar", "version": "1.0.3", "description": "you can use the extenssion for to focus to search bar of any website by simply pressing Ctrl + Space.", "icons": {"48": "icons/search-icon.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["focus-to-search-bar.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Image Counter", "version": "1.0", "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "image-counter@example.com"}}}

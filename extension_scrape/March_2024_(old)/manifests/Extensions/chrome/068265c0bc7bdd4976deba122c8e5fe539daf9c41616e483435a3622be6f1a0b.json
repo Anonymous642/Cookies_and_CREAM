@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Details expander", "action": {}, "manifest_version": 3, "version": "0.1", "description": "Expands all details elements on web page", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "script.js"}}

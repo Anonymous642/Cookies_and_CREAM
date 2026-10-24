@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hidecomment", "version": "1.0", "description": "Superficially hides the comment link from Reddit's feed.", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["hidecomment.js"]}], "browser_specific_settings": {"gecko": {"id": "{ec60753c-112c-491e-b46a-330aef845d5e}"}}}

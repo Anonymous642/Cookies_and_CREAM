@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tr\u00e2nsito Brasil 0.4.6", "description": "Busca Avan\u00e7ada de Noticias sobre Mudan\u00e7as no Tr\u00e2nsito", "version": "0.4.6", "icons": {"128": "128.png"}, "action": {"default_popup": "transito044.html"}}

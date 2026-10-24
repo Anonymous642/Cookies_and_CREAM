@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "BBCode fix", "version": "1.2", "description": "Stylish SADOC Forums", "permissions": ["tabs", "storage", "*://doc.lsgov.us/*"], "browser_action": {"default_popup": "default.html"}, "content_scripts": [{"matches": ["*://*.doc.lsgov.us/*"], "js": ["jquery.min.js", "style.js"]}]}

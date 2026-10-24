@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MinimizedOffline", "version": "0.8.1", "description": "Blocks all connections when the browser window is minimized. The request is blocked if its parent window is minimized.", "permissions": ["*://*/*", "webRequest", "webRequestBlocking"], "background": {"scripts": ["MinimizedOffline-bgScript.js"]}}

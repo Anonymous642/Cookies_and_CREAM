@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Easy Shortcuts For Facebook", "description": "The fast \u2728 way to use facebook", "version": "0.8", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}}

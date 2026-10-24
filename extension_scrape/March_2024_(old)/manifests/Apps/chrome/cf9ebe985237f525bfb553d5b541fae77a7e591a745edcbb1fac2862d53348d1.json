@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Fonix", "short_name": "Fonix", "description": "TheFonix Agile Solutions Chrome Package", "version": "2.2", "manifest_version": 2, "icons": {"480": "getVendorLogo.png"}, "permissions": ["notifications"], "app": {"background": {"scripts": ["background.js"]}}}

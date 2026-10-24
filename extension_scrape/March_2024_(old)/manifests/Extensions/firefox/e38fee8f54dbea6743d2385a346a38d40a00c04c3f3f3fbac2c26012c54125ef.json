@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Old Reddit Redirect", "version": "1.0", "description": "Redirects new reddit pages to old reddit", "content_scripts": [{"matches": ["*://www.reddit.com/*"], "js": ["redirect.js"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{cd1cb6b6-2ad8-4cf2-be49-a727a04af747}"}}}

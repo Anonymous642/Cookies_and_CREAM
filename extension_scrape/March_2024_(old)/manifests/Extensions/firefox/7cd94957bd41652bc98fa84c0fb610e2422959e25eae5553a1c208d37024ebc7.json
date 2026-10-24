@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Next/Previous Crossword", "version": "1.0", "description": "Adds a next and previous button to the crossword welcome and finish screen", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*.nytimes.com/crosswords/game/*"], "js": ["nyt.js"]}], "browser_specific_settings": {"gecko": {"id": "{8e22dfd1-c9e0-4480-a62f-6560c53bd33c}"}}}

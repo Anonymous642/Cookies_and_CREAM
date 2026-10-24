@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "D\u00fcnya Namaz Vakitleri", "description": "D\u00fcnya \u015eehirleri \u0130\u00e7in Namaz Vakitleri", "version": "1.0", "manifest_version": 2, "icons": {"128": "icon.png"}, "browser_action": {"default_icon": "icon.png", "default_title": "D\u00fcnya Namaz Vakitleri", "default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Time Converter", "version": "1.0", "description": "asdasd", "content_scripts": [{"matches": ["<all_urls>"], "js": ["replacer.js", "timeconverter.js"]}]}

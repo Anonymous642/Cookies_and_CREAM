@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "extension for Planio", "version": "3.0.0", "manifest_version": 2, "description": "Input tool for Planio", "icons": {"128": "icon_128.png"}, "content_scripts": [{"matches": ["https://*.planio.jp/*", "https://*.planio.com/*"], "js": ["index.js"]}]}

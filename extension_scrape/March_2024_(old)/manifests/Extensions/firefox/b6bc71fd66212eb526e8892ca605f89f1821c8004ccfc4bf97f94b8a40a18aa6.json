@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Better Neverthink.tv", "version": "1.0.0", "author": "p8tgames", "description": "Removes the obnoxious splash screen from Neverthink.tv", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "content_scripts": [{"js": ["content.js"], "matches": ["https://neverthink.tv/"]}]}

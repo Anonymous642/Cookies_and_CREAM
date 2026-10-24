@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u30b0\u30eb\u30c9\u30f3\u62e1\u5f35", "description": "\u30b0\u30eb\u30c9\u30f3\u306e\u753b\u9762\u3092\u4fbf\u5229\u306b\u3059\u308b\u3084\u3064", "version": "0.6", "manifest_version": 3, "content_scripts": [{"matches": ["https://mstdn.guru/*"], "css": ["style.css"], "js": ["content_script.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VND to USD Currency Converter", "version": "1.0", "description": "Add on Convert VND to USD", "icons": {"48": "icon.png"}, "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "browser_specific_settings": {"gecko": {"id": "{54f63532-06cf-42f5-842a-c3db7305d6da}"}}}

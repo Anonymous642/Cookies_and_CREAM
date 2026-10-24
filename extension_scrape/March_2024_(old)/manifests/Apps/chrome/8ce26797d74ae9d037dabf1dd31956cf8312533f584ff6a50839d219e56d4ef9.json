@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "gScholar for Google Apps & Chrome", "description": "Access gScholar Admin, Teacher or Student Dashboard", "version": "4", "manifest_version": 2, "app": {"launch": {"web_url": "http://promevogscholar.appspot.com"}}, "icons": {"128": "icon_128.png"}, "permissions": []}

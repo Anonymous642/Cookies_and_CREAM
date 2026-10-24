@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Font Ocean", "version": "1.1", "manifest_version": 2, "description": "Professional font for css web development", "icons": {"128": "fontocean.png"}, "app": {"urls": ["http://www.fontocean.com/"], "launch": {"web_url": "http://www.fontocean.com/"}}, "permissions": ["notifications"]}

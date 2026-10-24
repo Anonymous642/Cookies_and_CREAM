@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "2020 Census Kiosk", "version": "1.0", "description": "Only allows access to http://2020Census.gov.", "background": {"scripts": ["background.js"]}, "permissions": ["<all_urls>", "webRequest", "webRequestBlocking"]}

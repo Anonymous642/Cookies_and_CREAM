@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "b-charts - bitcoin charts", "description": "Order book charts, cluster charts and volume charts of cryptocurrency exchanges", "version": "3.0.0.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://b-charts.com/"], "launch": {"web_url": "http://b-charts.com/"}}}

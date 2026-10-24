@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Omni Ve\u00edculos - Jira", "manifest_version": 3, "version": "0.0.2", "description": "Abre Card no Jira pelo numero", "action": {"default_title": "Abrir Card:", "default_popup": "index.html"}, "icons": {"16": "board16.png", "32": "board32.png", "128": "board128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PlaybackRate for WhatsApp", "description": "Aumente ou diminua a velocidade dos audios do whatsapp", "version": "0.1", "icons": {"128": "128.png"}, "content_scripts": [{"matches": ["https://web.whatsapp.com/"], "css": ["styles.css"], "js": ["content.js"]}]}

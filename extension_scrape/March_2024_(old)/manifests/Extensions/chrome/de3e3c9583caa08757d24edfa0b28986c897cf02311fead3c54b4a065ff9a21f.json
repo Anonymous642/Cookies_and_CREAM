@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "To-Do List by Jolly", "description": "Yes Honey, I remember buying groceries, it's on my To-Do List.", "version": "1.0.0", "icons": {"128": "tasklist.png"}, "browser_action": {"default_icon": "tasklist.png", "default_popup": "index.html"}, "permissions": ["storage"]}

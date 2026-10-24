@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Speed control, Autoplay, Spacebar", "version": "2.0", "description": "Disables Autoplay. Use [ to speed down, ] to speed up and backslash to set to default.", "content_scripts": [{"matches": ["https://*.youtube.com/*"], "js": ["autoandpause.js", "jquery-3.2.0.slim.min.js", "speed.js"], "run_at": "document_end"}]}

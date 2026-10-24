@@ -1,0 +1,1 @@
+{"description": "2021\u5e74\u5ea6\u7b56\u7565\u4e09\u570b\u5927\u4f5c\uff0c\u9996\u5145\u9001\u6975\u54c1\u7d05\u5c07", "manifest_version": 2, "name": "\u653b\u57ce\u4e09\u570b\u8a8c", "version": "1.0", "homepage_url": "http://www.panguhy.com/", "icons": {"48": "icons/icon.png"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icons/icon.png"}}

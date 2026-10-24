@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "autoCode-forTongji", "manifest_version": 2, "version": "1.0", "description": "auto input code login tongji", "browser_action": {"default_icon": "key.png"}, "content_scripts": [{"matches": ["https://ids.tongji.edu.cn:8443/*"], "js": ["script.js"]}]}

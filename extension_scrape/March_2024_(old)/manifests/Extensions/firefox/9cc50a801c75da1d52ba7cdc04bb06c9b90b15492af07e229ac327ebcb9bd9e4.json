@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SKY Wallet", "description": "SKY Wallet", "version": "1.1.0", "background": {"persistent": true, "scripts": ["/lib/jquery-3.6.0.min.js"]}, "browser_action": {"default_icon": "/img/sky/sky-logo-196-pur.png", "default_popup": "view/dispatcher.html"}, "browser_specific_settings": {"gecko": {"id": "{61ed3518-f789-401d-9aef-0f166857d168}"}}}

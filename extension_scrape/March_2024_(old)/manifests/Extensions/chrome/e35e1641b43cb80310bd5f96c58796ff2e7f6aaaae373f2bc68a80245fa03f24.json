@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Impossible Tic Tac Toe", "description": "Tic Tac Toe game that is impossible to win", "version": "2", "manifest_version": 3, "background": {"service_worker": "background.js"}, "icons": {"16": "x.png", "128": "x128.png"}, "action": {"default_title": " "}}

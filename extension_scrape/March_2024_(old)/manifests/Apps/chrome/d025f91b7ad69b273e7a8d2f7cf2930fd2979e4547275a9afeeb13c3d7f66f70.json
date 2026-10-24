@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Pectra Client", "version": "0.3", "manifest_version": 2, "description": "Pectra BPM web client for users to test Pectra process BPM templates.", "app": {"launch": {"local_path": "window.html"}}, "permissions": ["tabs", "*://*/*", "unlimitedStorage"], "icons": {"16": "icon16.png", "128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"description": "", "manifest_version": 2, "name": "Pocket Sidebar", "version": "1.0.0", "permissions": [], "sidebar_action": {"browser_style": false, "default_title": "Pocket", "default_icon": {"52": "resources/icon.svg"}, "default_panel": "popup.html"}}

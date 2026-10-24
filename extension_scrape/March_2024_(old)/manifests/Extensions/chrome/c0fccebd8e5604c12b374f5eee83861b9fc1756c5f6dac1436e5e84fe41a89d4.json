@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ShmerkoQuotesExtension", "version": "1.0.2", "description": "An extention to present a random famous quote!", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["http://api.forismatic.com/*"]}

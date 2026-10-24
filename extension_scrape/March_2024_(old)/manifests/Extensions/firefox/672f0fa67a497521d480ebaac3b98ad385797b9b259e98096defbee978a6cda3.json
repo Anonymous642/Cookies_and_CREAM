@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Selection-Clip", "description": "Firefox WebExtension for writing selected text to clipboard", "version": "1.0", "homepage_url": "https://github.com/yakaas/webextensions-selection-clip", "icons": {"48": "icons/clipboard-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content-script.js"]}]}

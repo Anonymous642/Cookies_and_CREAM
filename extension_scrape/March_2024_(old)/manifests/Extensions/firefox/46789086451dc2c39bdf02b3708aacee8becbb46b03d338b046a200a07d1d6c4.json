@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "QRLinkify", "version": "1.0.3", "description": "Instanly share links via QR code", "background": {"scripts": ["main.js"]}, "icons": {"48": "icons/ic_launcher.svg", "96": "icons/ic_launcher.svg"}, "browser_action": {"default_icon": "icons/ic_launcher.svg", "default_popup": "index.html"}, "permissions": ["activeTab"]}

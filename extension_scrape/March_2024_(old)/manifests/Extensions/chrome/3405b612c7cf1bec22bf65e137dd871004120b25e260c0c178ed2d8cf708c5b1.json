@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Rent A Car", "version": "5.2", "manifest_version": 2, "description": "Crome icin rent a car eklentisi.", "browser_action": {"default_icon": "icon.png", "default_popup": "pencere.html"}, "icons": {"16": "icon-16.png", "48": "icon-48.png", "128": "icon-128.png"}, "background": {"scripts": ["share.js"]}}

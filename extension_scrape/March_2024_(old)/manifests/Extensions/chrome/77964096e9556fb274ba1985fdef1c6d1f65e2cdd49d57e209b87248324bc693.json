@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Copy All URLs", "description": "An extension to copy all the URLs or refresh all open tabs on Chrome.", "version": "3.0", "permissions": ["tabs"], "action": {"default_title": "Copy All URLs", "default_icon": "CopyAllURLsIcon.png", "default_popup": "popup.html"}, "manifest_version": 3}

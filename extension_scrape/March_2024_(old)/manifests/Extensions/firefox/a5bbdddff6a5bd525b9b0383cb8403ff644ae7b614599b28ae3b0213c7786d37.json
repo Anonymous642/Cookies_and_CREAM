@@ -1,0 +1,1 @@
+{"name": "Open Existing", "version": "4.0", "manifest_version": 2, "description": "Opens existing tab of clicked links", "homepage_url": "https://gitlab.com/losnappas/Open-Existing", "icons": {"64": "icons/lmao.svg"}, "background": {"scripts": ["background.js"]}, "permissions": ["tabs", "webNavigation"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Extension Twitch THZ", "description": "Vous informe si il y a un live", "version": "1.0", "browser_action": {"default_popup": "index.html"}, "icons": {"64": "img/icon_red.png"}, "background": {"scripts": ["jquery.js", "background.js"]}}

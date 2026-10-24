@@ -1,0 +1,1 @@
+{"description": "Orbital Clock OTC (Gregorian)", "manifest_version": 2, "name": "Orbital Clock (Gregorian)", "version": "212.17G", "homepage_url": "http://tvmiller.com/otc", "icons": {"128": "oicon128.png"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "o_icon.png"}}

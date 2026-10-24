@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Commits are poops", "version": "1.0", "description": "Replaces 'commits' with 'poops'.", "icons": {"48": "logo.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}]}

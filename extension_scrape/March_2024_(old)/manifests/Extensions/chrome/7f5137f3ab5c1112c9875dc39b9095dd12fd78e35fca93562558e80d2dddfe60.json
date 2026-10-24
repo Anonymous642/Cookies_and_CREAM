@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Character Counter SEO Tool", "version": "1.0", "description": "Counts characters, words, and sentences on web pages.", "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

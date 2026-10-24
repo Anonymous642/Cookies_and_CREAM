@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Canvas Sidebar Adjustment", "version": "0.0.2", "description": "Sets the Canvas sidebar back to the default color", "icons": {"48": "icon48.png"}, "content_scripts": [{"css": ["styles.css"], "matches": ["https://*.instructure.com/*"]}]}

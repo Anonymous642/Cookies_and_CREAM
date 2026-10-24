@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Herald Syndication Snoop", "version": "0.3", "description": "Never get baited again - clearly see where an article really came from", "icons": {"16": "icon_16.png", "48": "icon_48.png", "128": "icon_128.png"}, "content_scripts": [{"matches": ["http://www.nzherald.co.nz/"], "js": ["headlines.js"]}]}

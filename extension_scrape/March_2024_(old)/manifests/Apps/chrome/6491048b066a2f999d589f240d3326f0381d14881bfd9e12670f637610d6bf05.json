@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Dark Eras", "description": "__MSG_appDesc__", "default_locale": "de", "version": "10", "manifest_version": 2, "icons": {"128": "darkeras_logo_128x128.png"}, "app": {"urls": ["http://www.darkeras.com/"], "launch": {"web_url": "http://portal.darkeras.com/"}}}

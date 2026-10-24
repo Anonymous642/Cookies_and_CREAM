@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Close Multiple Tabs", "version": "1.0.1", "description": "Close tabs besides the one you currently have up.", "manifest_version": 2, "permissions": ["contextMenus"], "background": {"scripts": ["TabClose.js"], "persistent": false}, "icons": {"128": "icons/icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Zoometre", "version": "0.0.1", "description": "Zoo metre ruler to estimate", "manifest_version": 3, "author": "Rodrigo Molina", "permissions": ["scripting", "activeTab"], "action": {"default_popup": "index.html", "default_title": "Zoometre"}, "icons": {"128": "giraffe_resized_icon.png"}}

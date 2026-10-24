@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Terminal Blue", "version": "1.1", "description": "A #233354 theme.", "author": "Jovan Lanik", "homepage_url": "https://github.com/JovanLanik", "icons": {"48": "icon.png"}, "permissions": ["theme"], "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"id": "terminal@blue.theme", "strict_min_version": "60.0"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "noticiasmil", "description": "Toda la actualidad, prensa, noticias, el tiempo", "version": "2", "manifest_version": 2, "icons": {"128": "noticiasmil.png"}, "app": {"urls": ["http://noticiasmil.com/"], "launch": {"web_url": "http://noticiasmil.com/"}}}

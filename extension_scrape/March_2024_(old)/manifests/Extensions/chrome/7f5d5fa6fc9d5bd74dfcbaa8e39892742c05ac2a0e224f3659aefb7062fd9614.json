@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Lucid Gen Feed", "version": "1.0", "description": "\u0110\u1ecdc b\u00e0i m\u1edbi t\u1ea1i LucidGen.com ti\u1ec7n l\u1ee3i h\u01a1n!", "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}, "host_permissions": ["*://*/*"]}

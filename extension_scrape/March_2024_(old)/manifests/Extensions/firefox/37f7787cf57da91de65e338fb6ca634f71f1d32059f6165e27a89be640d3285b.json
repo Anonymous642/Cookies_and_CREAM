@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search Jisho", "version": "1.0", "description": "Adds a context menu item to search Jisho.org for the selected text.", "icons": {"48": "icons/jisho-search-48.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "tabs", "contextMenus"]}

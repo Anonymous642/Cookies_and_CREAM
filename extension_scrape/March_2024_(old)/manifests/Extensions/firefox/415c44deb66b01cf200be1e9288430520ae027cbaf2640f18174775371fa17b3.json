@@ -1,0 +1,1 @@
+{"description": "View pins without login.", "manifest_version": 2, "name": "PinView", "version": "1.2", "homepage_url": "https://codextent.com", "icons": {"48": "icons/pin-48.png"}, "content_scripts": [{"matches": ["*://*.pinterest.com/*", "*://*.pinterest.co.uk/*", "*://*.in.pinterest.com/*"], "js": ["jquery-2.1.1.min.js", "pinview.js"]}]}

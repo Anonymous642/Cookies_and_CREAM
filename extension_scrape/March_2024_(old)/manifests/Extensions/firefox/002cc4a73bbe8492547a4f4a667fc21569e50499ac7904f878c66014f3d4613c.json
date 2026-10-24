@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Omnibox Youtube Search", "version": "0.1", "description": "Search Youtube directly from the omnibox", "icons": {"48": "icons/border-48.png"}, "omnibox": {"keyword": "b"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{96067238-8c3c-4720-ac2b-de682a4cc4c9}"}}}

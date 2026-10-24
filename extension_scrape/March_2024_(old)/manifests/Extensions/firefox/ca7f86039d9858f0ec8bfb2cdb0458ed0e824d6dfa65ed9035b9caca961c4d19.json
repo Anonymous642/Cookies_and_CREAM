@@ -1,0 +1,1 @@
+{"name": "URL Alarm", "version": "1.0", "description": "Set alarms to open up designated urls", "permissions": ["alarms", "storage", "tabs"], "background": {"scripts": ["scripts.js"]}, "manifest_version": 2, "options_ui": {"page": "options/setAlarm.html", "browser_style": true}, "browser_action": {"default_title": "URL Alarm"}}

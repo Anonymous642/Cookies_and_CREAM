@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bhaskar-unblock", "version": "1.0", "description": "Allow to read news on Dainik Bhaskar without disabling adblocker or moving out of private browsing.", "icons": {"48": "icons/bhaskar.png"}, "content_scripts": [{"matches": ["*://www.bhaskar.com/*"], "js": ["app.js"]}]}

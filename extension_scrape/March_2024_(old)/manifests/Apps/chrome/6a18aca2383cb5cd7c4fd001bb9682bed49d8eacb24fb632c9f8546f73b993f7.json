@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_appName__", "version": "1.0.0.8", "app": {"launch": {"web_url": "http://wwww.empireuniverse.com/?rid=7699"}}, "default_locale": "en", "description": "__MSG_appDesc__", "icons": {"128": "icon_128.png"}, "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Rastreador de supermercados", "version": "0.1.0", "description": "Hist\u00f3rico de precios de productos de supermercados Espa\u00f1oles", "content_scripts": [{"js": ["chart.min.js", "script.js"], "run_at": "document_end", "matches": ["https://tienda.mercadona.es/*"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "stopRick", "version": "0.1", "permissions": ["https://www.reddit.com/*"], "content_scripts": [{"matches": ["https://www.reddit.com/*"], "js": ["jquery-3.3.1.min.js", "content.js"]}]}

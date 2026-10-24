@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Auto Order", "version": "0.3", "manifest_version": 2, "description": "Auto Order For Jd .", "options_page": "options.html", "permissions": ["http://*/*", "https://*/*", "storage"], "content_scripts": [{"matches": ["http://*/*"], "js": ["js/jquery.js", "js/load_script.js"]}]}

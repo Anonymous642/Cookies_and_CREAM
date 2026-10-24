@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "112meldingen kopieer knop", "description": "Een knop om meldingen te kopi\u00ebren vanaf 112meldingen.nl.", "version": "1.3", "manifest_version": 2, "content_scripts": [{"matches": ["http://www.112meldingen.nl/*"], "css": ["style.css"], "js": ["jquery.js", "app.js"]}]}

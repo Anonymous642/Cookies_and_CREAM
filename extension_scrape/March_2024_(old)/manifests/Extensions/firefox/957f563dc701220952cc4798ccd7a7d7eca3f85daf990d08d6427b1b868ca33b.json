@@ -1,0 +1,1 @@
+{"description": "Whilst: Be Gone!", "manifest_version": 2, "name": "WhilstBeGone", "version": "1.0", "content_scripts": [{"matches": ["*://*/*"], "js": ["while.js"]}]}

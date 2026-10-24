@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Counterium", "version": "0.2", "minimum_chrome_version": "23", "icons": {"128": "icon.png"}, "app": {"background": {"scripts": ["scripts/main.js"]}}, "permissions": ["storage"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "version": "1", "name": "AutoGift - Twitch", "description": "If you're bored to click each times on gift button, so this extension is made for you !", "author": "Lucas Estrade", "icons": {"128": "128.png"}, "content_scripts": [{"matches": ["https://*.twitch.tv/*"], "js": ["index.js"]}]}

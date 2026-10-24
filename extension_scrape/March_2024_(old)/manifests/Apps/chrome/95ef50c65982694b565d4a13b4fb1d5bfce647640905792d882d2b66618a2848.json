@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Flashlight Online", "manifest_version": 2, "short_name": "Flashlight Online", "description": "Free online flashlight light for your computer or phone.", "version": "1", "icons": {"128": "icon.jpg"}, "app": {"launch": {"web_url": "http://flashlight.hekoru.lol/"}}}

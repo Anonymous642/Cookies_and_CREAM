@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube'da Ara", "version": "1.0", "description": "Se\u00e7ili metni youtube \u00fczerinde arama eklentisi", "icons": {"48": "icon.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{572867dd-1602-4b1c-ab43-499055fa7888}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "rym2lfm", "version": "0.2", "description": "Creates a button on a rateyourmusic.com release page that links to the corresponding Last.fm page.", "icons": {"48": "icons/48.png", "64": "icons/64.png"}, "content_scripts": [{"matches": ["*://*.rateyourmusic.com/release/*"], "js": ["script.js"]}]}

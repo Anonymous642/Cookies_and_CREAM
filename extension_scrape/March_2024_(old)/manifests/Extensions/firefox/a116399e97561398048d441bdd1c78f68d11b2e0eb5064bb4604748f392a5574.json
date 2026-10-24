@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.0", "name": "twitch_carousel_remover", "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["main.js"]}], "permissions": ["twitch.tv"], "browser_specific_settings": {"gecko": {"id": "{f002b06b-6aca-4335-9655-cb9b8b57410f}"}}}

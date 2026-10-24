@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Moza+", "version": "0.0.1", "description": "A tool for mozanaplo", "icons": {"48": "icons/moza.png"}, "content_scripts": [{"matches": ["*://*.mozanaplo.hu/jegy.php*"], "js": ["jquery.js", "m_atlag.js"]}]}

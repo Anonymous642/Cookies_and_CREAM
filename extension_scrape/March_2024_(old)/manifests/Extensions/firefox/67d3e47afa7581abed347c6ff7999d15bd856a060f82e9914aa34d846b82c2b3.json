@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ext-cool", "version": "0.1", "browser_action": {"default_popup": "popup.html"}, "permissions": ["management"]}

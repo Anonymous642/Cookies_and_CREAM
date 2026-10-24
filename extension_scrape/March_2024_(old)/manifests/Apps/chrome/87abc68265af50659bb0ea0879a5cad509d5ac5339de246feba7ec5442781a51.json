@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "JBQ Buzz Right", "description": "Play a game to help quizzers perfect their buzzing", "version": "2", "app": {"launch": {"local_path": "buzzright.htm"}}, "icons": {"16": "icon16.png", "128": "icon.png"}, "permissions": ["http://pfjbq.com/*"]}

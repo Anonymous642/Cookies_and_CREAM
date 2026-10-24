@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No Music on Youtube", "version": "1.0", "description": "No Music on Youtube Extention", "icons": {"48": "icons/yt.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["nmy.js"]}], "browser_specific_settings": {"gecko": {"id": "{09d265b5-9c69-46b2-bd0a-a0780f476f86}"}}}

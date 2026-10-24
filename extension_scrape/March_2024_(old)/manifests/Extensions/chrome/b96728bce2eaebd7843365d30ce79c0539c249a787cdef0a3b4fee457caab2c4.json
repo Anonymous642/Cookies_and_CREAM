@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Opioid Documentation Tool", "version": "0.4", "manifest_version": 2, "icons": {"16": "odticon_icon.png", "48": "odticon_icon.png", "128": "odticon_icon.png"}, "browser_action": {"default_popup": "popup.html", "default_title": "Opioid Documentation Tool"}}

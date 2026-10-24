@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://www.abukass.com.sa/"], "launch": {"web_url": "http://www.abukass.com.sa/"}}, "update_url": "https://clients2.google.com/service/update2/crx", "name": "Abukass World", "permissions": ["geolocation"], "icons": {"24": "24.png", "128": "128.png"}, "manifest_version": 2, "version": "1"}

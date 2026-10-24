@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "downloadCambridgeAudio", "version": "1.2", "description": "used to download Mp3 Audio From Dictionary Cambridge Page", "permissions": ["notifications"], "background": {"scripts": ["background-script.js"]}, "content_scripts": [{"matches": ["*://dictionary.cambridge.org/*"], "js": ["content-script.js"]}], "default_locale": "en"}

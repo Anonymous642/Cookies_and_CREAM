@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Find Research Papers", "description": "Get papers for any topic in any webpage. Opens a new tab with research papers.", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "index.html"}, "permissions": ["activeTab", "scripting", "search"]}

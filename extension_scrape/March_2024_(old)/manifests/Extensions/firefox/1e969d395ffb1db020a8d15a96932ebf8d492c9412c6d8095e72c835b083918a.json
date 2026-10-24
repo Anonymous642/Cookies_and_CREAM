@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reddit Programming Mode", "version": "1.0", "description": "Disallows browsing of reddit, but allows viewing direct links", "icons": {"48": "programming_mode48.png"}, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["reddit_block.js"]}]}

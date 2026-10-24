@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Glitch Checkmark", "version": "1.0", "icons": {"48": "assets/icon.png"}, "permissions": ["*://*.glitch.com/*", "http://verapi.glitch.me/v.txt"], "content_scripts": [{"matches": ["*://glitch.com/*"], "js": ["js/inject.js"]}], "browser_specific_settings": {"gecko": {"id": "{82c47833-7d4b-443e-9a6d-d9e19883412d}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Block Party", "version": "1.0", "description": "Blocks specified websites", "permissions": ["activeTab", "storage"], "action": {"default_popup": "popup.html"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"]}], "icons": {"128": "icon128.png"}}

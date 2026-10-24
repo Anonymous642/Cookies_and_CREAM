@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Bio-Med to Garreg Mach", "version": "1.2.1", "description": "Makes Bio-Med all the more holy.", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end", "permissions": ["active_tab"]}]}

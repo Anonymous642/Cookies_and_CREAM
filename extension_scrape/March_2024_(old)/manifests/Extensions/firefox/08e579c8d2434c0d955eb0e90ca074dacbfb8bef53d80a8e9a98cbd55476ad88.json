@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FSE Fuel in Gallons", "version": "1.1.0", "description": "Utility to show fuel in gallons on Goods page.", "permissions": [], "content_scripts": [{"matches": ["*://server.fseconomy.net/goods.jsp"], "js": ["content-script.js"]}], "browser_specific_settings": {"gecko": {"id": "{dbd93ff7-7f1b-4623-a5df-d8a6e6f94adc}"}}}

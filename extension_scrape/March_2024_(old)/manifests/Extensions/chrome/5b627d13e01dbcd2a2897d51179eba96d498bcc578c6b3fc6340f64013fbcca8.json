@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MM Language Detector", "description": "Detects 3 languages and their percentages of the provided data", "version": "1.0.1", "browser_action": {"default_icon": "myicon.png", "default_popup": "popup.html"}, "manifest_version": 3}

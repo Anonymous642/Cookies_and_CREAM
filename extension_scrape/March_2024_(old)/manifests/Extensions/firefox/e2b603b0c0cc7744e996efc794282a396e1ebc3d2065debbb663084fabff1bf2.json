@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Parler", "version": "1.0", "description": "Toolbar for Parler social media", "background": {"scripts": ["parler.js"]}, "browser_action": {"default_icon": {"16": "icons/parler-16.png", "32": "icons/parler-32.png"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UWorld2Anki", "version": "1.1", "content_scripts": [{"matches": ["https://apps.uworld.com/courseapp/usmle/*/testinterface/launchtest/*"], "js": ["index.js"], "css": ["btn.css"], "run_at": "document_end"}], "icons": {"48": "icon48.png", "128": "icon128.png"}, "browser_specific_settings": {"gecko": {"id": "{9db752d5-62cd-41da-9308-bbd1d87aad30}"}}}

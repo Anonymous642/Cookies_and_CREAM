@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Thaifreundin.de", "description": "Thail\u00e4ndische Freundin", "version": "1.0", "manifest_version": 2, "app": {"urls": ["http://www.Thaifreundin.de/"], "launch": {"web_url": "http://www.Thaifreundin.de/"}}, "icons": {"128": "thaifreundin-128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

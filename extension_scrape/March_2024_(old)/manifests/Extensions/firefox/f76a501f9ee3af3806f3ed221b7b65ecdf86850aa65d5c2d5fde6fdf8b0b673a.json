@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FB LikeCounter", "version": "1.0", "description": "Show all likes on any webpage of facebook website.", "icons": {"48": "icons/icon-48.png"}, "permissions": [], "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["CountLikesCore.js"]}], "applications": {"gecko": {"id": "fblikescounter@nadirlaskar.in", "strict_min_version": "48.0"}}}

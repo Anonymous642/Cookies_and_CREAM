@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "app": {"launch": {"container": "tab", "web_url": "http://www.manhuabudang.com"}}, "default_locale": "zh_CN", "description": "__MSG_appDesc__", "icons": {"128": "128.png"}, "name": "__MSG_appName__", "version": "1.0"}

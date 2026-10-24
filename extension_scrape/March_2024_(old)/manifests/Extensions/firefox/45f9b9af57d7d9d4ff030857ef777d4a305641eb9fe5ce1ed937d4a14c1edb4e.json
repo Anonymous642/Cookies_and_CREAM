@@ -1,0 +1,1 @@
+{"name": "ConditionalRun", "version": "0.0.3", "manifest_version": 2, "description": "Run custom scripts on different cases", "content_scripts": [{"matches": ["*://*/*"], "js": ["inject.js"]}], "options_ui": {"page": "options.html", "browser_style": true}, "permissions": ["storage", "https://*/*", "http://*/*", "tabs"]}

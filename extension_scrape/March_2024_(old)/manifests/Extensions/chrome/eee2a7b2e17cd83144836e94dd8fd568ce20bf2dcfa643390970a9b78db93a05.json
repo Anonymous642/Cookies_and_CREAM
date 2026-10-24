@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Currency Exchanger", "version": "1.0", "manifest_version": 3, "description": "Exchange your currency, with Currency Exchanger", "action": {"default_icon": "currency_exchanger.png", "default_popup": "index.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ruler", "version": "1.1", "description": "Adds a ruler below your mouse to help read long lines. Fired by ctrl+click", "icons": {"48": "icons/ruler-48.png", "96": "icons/ruler-96.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["ruler.js"]}]}

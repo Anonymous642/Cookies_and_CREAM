@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Google Search Shortcuts", "description": "Adds shortcuts to the Google Search results", "version": "0.9", "icons": {"64": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.google.com/search*"], "js": ["content_script.js"]}]}

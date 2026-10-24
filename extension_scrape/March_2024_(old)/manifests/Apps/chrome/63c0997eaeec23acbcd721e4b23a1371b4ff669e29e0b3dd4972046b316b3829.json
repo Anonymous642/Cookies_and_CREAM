@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://www.benego.com/", "https://www.benego.com/"], "launch": {"web_url": "http://www.benego.com"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Get Free Translations by Native Speakers", "name": "Benego Free Translations", "icons": {"128": "ChromeApp_128.png"}, "manifest_version": 2, "version": "1.0.1"}

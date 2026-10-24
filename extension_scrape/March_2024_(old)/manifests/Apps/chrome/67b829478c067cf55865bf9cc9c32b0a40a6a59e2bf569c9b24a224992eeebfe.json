@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Aniguay", "description": "Funny animated gifs sharing", "version": "0.0.0.6", "icons": {"128": "128.png"}, "app": {"urls": ["http://www.aniguay.com/"], "launch": {"web_url": "http://www.aniguay.com/"}}, "permissions": ["unlimitedStorage", "notifications"]}

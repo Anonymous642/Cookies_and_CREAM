@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Kya Dekhu?", "version": "1.0.0", "description": "A Chrome extension that suggests you dramas and series to watch!", "icons": {"48": "icon48.png", "128": "icon128.png"}, "action": {"default_popup": "popup.html"}}

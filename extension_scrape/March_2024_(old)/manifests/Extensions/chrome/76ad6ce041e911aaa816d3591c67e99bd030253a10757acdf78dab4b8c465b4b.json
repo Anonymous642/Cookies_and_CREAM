@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Aternos 24-7", "version": "0.1", "browser_action": {}, "content_scripts": [{"matches": ["*://aternos.org/server/*"], "js": ["index.js"]}]}

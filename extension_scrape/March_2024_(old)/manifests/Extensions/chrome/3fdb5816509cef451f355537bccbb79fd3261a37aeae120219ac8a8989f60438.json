@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Keyword Matchtype Wrapper", "version": "1.0", "action": {"default_popup": "popup.html"}, "icons": {"16": "keyword-wrapper-16_x_16.png", "48": "keyword-wrapper-48_x_48.png", "128": "keyword-wrapper-128_x_128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Yobama Image Replacer", "version": "1.0", "action": {"default_popup": "hello.html", "default_icon": "yobama.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["script.js"]}]}

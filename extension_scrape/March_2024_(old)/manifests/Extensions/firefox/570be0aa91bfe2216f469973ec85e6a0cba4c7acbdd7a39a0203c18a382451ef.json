@@ -1,0 +1,1 @@
+{"name": "Das Omin\u00f6se Add-On", "manifest_version": 2, "version": "1.0.1", "description": "Browser Addon to support the ominous podcast", "icons": {"48": "icons/methodisch-inkorrekt-48.png", "96": "icons/methodisch-inkorrekt-96.png"}, "permissions": ["webRequest", "webRequestBlocking", "https://www.amazon.de/*"], "background": {"scripts": ["bundle.js"]}}

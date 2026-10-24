@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Alii", "version": "1.0", "description": "Search for the cheapest items on Amazon, AliExpress and Ebay all with one click", "icons": {"48": "icons/alii-48.png", "96": "icons/alii-96.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["menus", "activeTab"]}

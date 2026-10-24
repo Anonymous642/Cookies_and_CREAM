@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Palestine Tab", "description": "Change your new Tab window with a Palestinian background", "version": "3.5", "manifest_version": 3, "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["storage", "topSites"], "icons": {"512": "./logo.png"}}

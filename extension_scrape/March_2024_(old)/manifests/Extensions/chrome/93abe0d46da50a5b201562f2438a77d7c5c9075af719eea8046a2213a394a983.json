@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Jira Time Tracker", "version": "1.0.0", "action": {"default_popup": "index.html"}, "host_permissions": ["<all_urls>"], "permissions": ["tabs", "cookies"], "icons": {"16": "src/assets/time.png", "48": "src/assets/time.png", "128": "src/assets/time.png"}}

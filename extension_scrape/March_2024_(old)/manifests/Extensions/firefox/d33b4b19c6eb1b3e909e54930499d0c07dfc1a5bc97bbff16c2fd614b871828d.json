@@ -1,0 +1,1 @@
+{"description": "Fixes new Vector theme of WikiMedia", "manifest_version": 2, "name": "WikiFixer", "version": "0.4", "homepage_url": "https://github.com/fcalvet/WikiFixer", "icons": {}, "content_scripts": [{"matches": ["*://*.wikipedia.org/*", "*://*.wiktionary.org/*"], "js": ["fixer.js"]}], "browser_specific_settings": {"gecko": {"id": "{8c20f48c-99a7-4e25-977f-908148b5de1b}"}}}

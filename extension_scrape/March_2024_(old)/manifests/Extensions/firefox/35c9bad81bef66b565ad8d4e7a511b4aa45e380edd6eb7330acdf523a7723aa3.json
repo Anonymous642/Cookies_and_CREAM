@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FumbblMissingIcons", "version": "2.0.1", "description": "Adds the missing logos for Underworld Denizens and Chaos Renegades to Fumbbl.", "icons": {"48": "images/pactuw.png"}, "content_scripts": [{"matches": ["*://*.fumbbl.com/p/*"], "js": ["missingicons.js"]}]}

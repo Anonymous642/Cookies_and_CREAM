@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LOL Boards notifications", "version": "0.3", "content_scripts": [{"matches": ["*://*.leagueoflegends.com/*"], "js": ["main.js"]}]}

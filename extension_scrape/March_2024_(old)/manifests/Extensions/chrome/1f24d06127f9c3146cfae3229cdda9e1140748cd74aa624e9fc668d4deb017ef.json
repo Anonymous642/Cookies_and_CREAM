@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "WebControl", "version": "24.02.07", "description": "Student WebControl", "background": {"service_worker": "WebControl.js"}, "icons": {"128": "WebControl.png"}, "host_permissions": ["http://web-control/*"], "permissions": ["tabs"]}

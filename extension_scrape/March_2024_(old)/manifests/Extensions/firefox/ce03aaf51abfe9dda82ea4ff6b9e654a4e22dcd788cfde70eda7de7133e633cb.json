@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Append Domain", "author": "Richard Adenling", "version": "1.2", "description": "Appends the current domain name to the tab title.", "homepage_url": "https://github.com/radenling/append-domain", "content_scripts": [{"matches": ["*://*/*", "file:///*"], "js": ["content.js"], "run_at": "document_end"}]}

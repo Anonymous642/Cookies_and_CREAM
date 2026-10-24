@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Donald Trump Facebook Removal", "version": "0.1", "description": "Remove Donald Trump from your Facebook posts", "author": "umbodifa", "content_scripts": [{"matches": ["https://www.facebook.com/", "https://www.facebook.com/*"], "js": ["jquery-3.1.1.min.js", "content.js"]}]}

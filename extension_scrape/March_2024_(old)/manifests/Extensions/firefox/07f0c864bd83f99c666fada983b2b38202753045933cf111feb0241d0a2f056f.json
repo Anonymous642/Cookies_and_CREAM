@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reddit Helper", "version": "1.0", "description": "Removes erroneous \"welcome\" message that pops up on reddit.", "icons": {"48": "rh-48.png"}, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["rh.js"]}], "applications": {"gecko": {"id": "rh@reddit.com"}}}

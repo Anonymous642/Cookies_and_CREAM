@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "MASH", "version": "1.1.0.0", "icons": {"24": "24.png", "128": "128.png"}, "app": {"urls": ["http://mashapp.com/app-info/"], "launch": {"web_url": "http://mashapp.com/play-mash-online-free/"}}, "permissions": ["unlimitedStorage", "notifications"]}

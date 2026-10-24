@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Amazon Cart Hider", "description": "Hides the Amazon cart sidebar", "version": "1.0", "icons": {"64": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.amazon.com/*"], "js": ["content_script.js"]}]}

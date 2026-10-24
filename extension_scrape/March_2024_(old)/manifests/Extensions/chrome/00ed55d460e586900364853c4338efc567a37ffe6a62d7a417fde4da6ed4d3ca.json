@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Snot", "description": "les donn\u00e9es quotidiennes des manifestations allergiques.. En un seul clic!", "version": "1.1", "browser_action": {"default_icon": "icon.png", "default_popup": "index.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "author": "https://github.com/temannin", "name": "StackAtNight", "version": "1.2", "description": "Extension that turns your StackOverflow to night mode. ", "content_scripts": [{"all_frames": true, "run_at": "document_start", "matches": ["*://*.stackoverflow.com/*"], "css": ["night.css"]}]}

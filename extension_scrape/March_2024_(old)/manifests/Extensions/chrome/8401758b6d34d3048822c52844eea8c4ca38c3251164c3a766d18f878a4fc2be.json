@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Mapakin", "version": "0.1", "description": "Make Mapakin as start page", "manifest_version": 3, "permissions": ["tabs"], "icons": {"16": "icon16.png", "32": "icon32.png", "48": "icon48.png", "128": "icon128.png"}, "background": {"service_worker": "background.js", "type": "module"}}

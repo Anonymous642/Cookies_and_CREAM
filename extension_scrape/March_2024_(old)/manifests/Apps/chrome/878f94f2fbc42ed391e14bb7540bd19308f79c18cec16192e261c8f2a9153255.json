@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "\uc0bc\uad6d\uc9c0\ub97c \ud488\ub2e4", "version": "1.0", "description": "\uc0bc\uad6d\uc9c0\ub97c \ud488\ub2e4", "app": {"launch": {"web_url": "http://3p.nexon.com"}}, "icons": {"128": "3p_icon.png"}, "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YYYY-MM-DD Github", "version": "1.0", "description": "Makes github display absolute times.", "icons": {"48": "48.png"}, "content_scripts": [{"matches": ["*://*.github.com/*"], "js": ["github.js"]}], "browser_specific_settings": {"gecko": {"id": "{51ead48b-c98c-4b77-88f4-bc7b1450fecf}"}}}

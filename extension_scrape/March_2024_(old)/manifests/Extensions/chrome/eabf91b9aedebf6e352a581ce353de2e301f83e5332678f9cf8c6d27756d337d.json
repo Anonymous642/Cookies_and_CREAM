@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Reversor CC", "version": "1.1", "description": "Reversor de CC", "browser_action": {"default_popup": "index.html"}}

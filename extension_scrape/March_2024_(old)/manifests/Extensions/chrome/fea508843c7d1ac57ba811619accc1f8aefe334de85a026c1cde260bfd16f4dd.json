@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WDT Plus", "version": "0.0.5", "manifest_version": 2, "description": "Web development tools", "icons": {"32": "./icons/128.png", "48": "./icons/128.png", "64": "./icons/128.png", "128": "./icons/128.png"}, "permissions": ["activeTab"], "browser_action": {"default_popup": "html/popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitter", "version": "1.0", "description": "Download the images and videos.", "icons": {"48": "download.png"}, "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["twitterdownload.js"]}], "browser_specific_settings": {"gecko": {"id": "{bc27f847-e09a-4339-9da9-d11a16c50ee8}"}}}

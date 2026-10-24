@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ISpokeToMyAdvisor", "version": "1.0", "description": "Hide the \"Have you spoken to your advisor?\" message on SIO.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://s3.andrew.cmu.edu/*"], "js": ["deleter.js"]}], "manifest_version": 2}

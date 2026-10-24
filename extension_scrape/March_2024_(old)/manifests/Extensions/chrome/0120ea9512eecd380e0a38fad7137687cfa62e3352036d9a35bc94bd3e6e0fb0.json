@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Roll20 Toggle Mute", "version": "1.0", "description": "Press ` (backtick/tilde) to toggle mute in Roll20 games.", "content_scripts": [{"js": ["content.js"], "matches": ["https://app.roll20.net/editor/*", "http://app.roll20.net/editor/*"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Manager Plus", "version": "1.0", "description": "A simple tab manager for Firefox", "icons": {"48": "logo.png"}, "permissions": ["tabs"], "browser_action": {"default_popup": "popup.html", "default_icon": {"48": "logo.png"}}, "browser_specific_settings": {"gecko": {"id": "{a4956a20-ecdb-444c-a110-45069f8a7a61}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Not visible .ru in search", "description": "This extension hides all sites with the .ru domain from search results", "version": "1.01", "manifest_version": 3, "icons": {"64": "icon.png"}, "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["script_in_content.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Codeforces Solutions", "version": "0.3", "content_scripts": [{"matches": ["https://codeforces.com/*", "http://codeforces.com/*"], "js": ["jquery-3.5.0.min.js", "content.js"]}], "action": {"default_icon": "icon.png"}, "background": {"service_worker": "background.js"}}

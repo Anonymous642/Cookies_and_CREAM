@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "description": "TinyIpsum is a Chrome Extension for quickly generating Lorem Ipsum dummy text", "version": "1.0", "manifest_version": 3, "name": "TinyIpsum", "action": {"default_popup": "popup.html", "default_icon": "icon-48.png"}, "icons": {"16": "icon-16.png", "48": "icon-48.png", "128": "icon-128.png"}}

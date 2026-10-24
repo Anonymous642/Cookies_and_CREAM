@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Code Search", "description": "A Code Search Google Chrome Extension", "version": "1.0.0", "permissions": [], "action": {"default_icon": {"19": "Code_19.png", "128": "Code_128.png"}, "default_title": "Click Me", "default_popup": "index.html"}}

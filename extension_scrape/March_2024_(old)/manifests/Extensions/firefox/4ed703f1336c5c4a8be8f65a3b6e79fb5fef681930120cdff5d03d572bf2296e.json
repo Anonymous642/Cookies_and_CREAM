@@ -1,0 +1,1 @@
+{"description": "Removes those whos watching comments on youtube", "manifest_version": 2, "name": "WhosWatching", "version": "1.0", "homepage_url": "https://github.com/Cerkal/whoswatching", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*", "*://*.youtu.be/*"], "js": ["jquery-3.3.1.min.js", "main.js"]}]}

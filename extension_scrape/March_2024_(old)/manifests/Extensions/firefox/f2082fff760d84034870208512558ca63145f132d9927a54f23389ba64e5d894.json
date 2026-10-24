@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "trackr.sh", "version": "1.1", "description": "Integrates trackr.sh in Mozilla Firefox", "homepage_url": "https://trackr.sh", "icons": {"48": "icons/trackr-48.png", "96": "icons/trackr-96.png"}, "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["background-script.js"]}}

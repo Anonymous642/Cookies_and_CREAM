@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Personal-shop", "version": "1.0.2", "manifest_version": 3, "description": "Personal-shop", "icons": {"512": "ps512.png"}, "action": {"default_icon": "ps192.png", "default_popup": "popup.html"}}

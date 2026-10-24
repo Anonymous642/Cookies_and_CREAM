@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "__MSG_extensionName__", "description": "__MSG_extensionDescription__", "version": "1.0", "content_scripts": [{"js": ["content.js"], "matches": ["https://atcoder.jp/contests/*/tasks/*"]}], "default_locale": "en"}

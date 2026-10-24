@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TextAndBackgroundColorChanger", "version": "1.0", "description": "Change text or background color of any open tab", "homepage_url": "https://github.com/RP99/TextAndBackgroundColorChanger", "permissions": ["activeTab"], "browser_action": {"default_title": "Color Changer", "default_popup": "popup/colorChanger.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Exchange Rates", "version": "1.0", "manifest_version": 3, "description": "Extension to convert currencies", "action": {"default_icon": "Exchange.png", "default_popup": "index.html"}}

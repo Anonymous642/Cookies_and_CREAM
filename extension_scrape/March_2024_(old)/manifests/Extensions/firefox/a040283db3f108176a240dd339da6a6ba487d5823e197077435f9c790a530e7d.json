@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sai do Facebook e v\u00e1 para o Wikipedia", "version": "1.0", "description": "Ao entrar no site do Facebook o usu\u00e1rio \u00e9 redirecionado para uma p\u00e1gina aleat\u00f3ria do Wikipedia", "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["redireciona.js"]}]}

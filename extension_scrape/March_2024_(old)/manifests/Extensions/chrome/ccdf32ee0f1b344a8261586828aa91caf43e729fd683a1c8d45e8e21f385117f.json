@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Salty Jabber", "description": "Improvements to saltalk.com", "version": "0.0.2", "icons": {"48": "icon48.png", "128": "icon128.png"}, "content_scripts": [{"matches": ["https://*.saltalk.com/*"], "js": ["content.js"]}]}

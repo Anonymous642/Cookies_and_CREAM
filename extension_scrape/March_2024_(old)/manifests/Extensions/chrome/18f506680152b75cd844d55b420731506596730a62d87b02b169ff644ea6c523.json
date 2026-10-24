@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "New Look Time mostrar pre\u00e7o", "description": "O site New Look Time esconde o pre\u00e7o a vista de certos modelos.", "version": "0.0.1", "content_scripts": [{"matches": ["https://www.newlooktime.com.br/*"], "css": ["damnbro.css"]}]}

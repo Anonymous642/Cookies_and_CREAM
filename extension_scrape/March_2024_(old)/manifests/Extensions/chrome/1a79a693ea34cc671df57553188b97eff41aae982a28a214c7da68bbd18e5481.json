@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "DragonRipEnhancementSuite", "description": "Press ~ to attack in dungeons.", "version": "0.1", "content_scripts": [{"all_frames": true, "matches": ["*://*.dragonrip.com/game/dungeons*"], "js": ["content.js"], "run_at": "document_end"}]}

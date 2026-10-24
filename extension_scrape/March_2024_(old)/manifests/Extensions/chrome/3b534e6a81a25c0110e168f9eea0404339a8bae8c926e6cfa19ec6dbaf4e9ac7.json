@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Draft PRs only!", "version": "0.1.0", "description": "Enforce creating Draft PRs only on GitHub", "content_scripts": [{"css": ["styles.css"], "js": ["script.js"], "matches": ["https://github.com/*"]}]}

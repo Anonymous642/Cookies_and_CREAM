@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tamil Letter Type", "action": {"default_title": "Tamil Letter Type", "default_icon": "icon.png", "default_popup": "popup.html"}, "manifest_version": 3, "version": "1.1", "description": "Type and copy Tamil letters in your browser", "permissions": ["scripting"]}

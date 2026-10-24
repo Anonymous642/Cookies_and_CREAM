@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "0T Reverse", "author": "ZcnS", "description": "Zero Tracking Reverse Image Searches", "version": "1.0.5", "background": {"page": "reverse.html"}, "icons": {"32": "i/priv.png"}, "permissions": ["menus"]}

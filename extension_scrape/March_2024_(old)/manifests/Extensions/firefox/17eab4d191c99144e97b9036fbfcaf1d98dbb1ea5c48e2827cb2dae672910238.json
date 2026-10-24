@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "2.2", "name": "youtube watch time limiter", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["main.js"]}], "options_ui": {"page": "options.html"}, "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "watchTimeLimiter@example.com", "strict_min_version": "57.0"}}}

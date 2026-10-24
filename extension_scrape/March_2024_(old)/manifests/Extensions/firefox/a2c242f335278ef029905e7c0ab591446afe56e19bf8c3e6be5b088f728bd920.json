@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dictionario de neolatino", "version": "2.1.2", "description": "Correctore ortogr\u00e0fico de neolatino", "dictionaries": {"neolatino": "dictionaries/nt.dic"}, "author": "Alexis Tudela i Casanovas", "homepage_url": "http://neolatino.eu", "browser_specific_settings": {"gecko": {"id": "nt@neolatino.eu"}}}

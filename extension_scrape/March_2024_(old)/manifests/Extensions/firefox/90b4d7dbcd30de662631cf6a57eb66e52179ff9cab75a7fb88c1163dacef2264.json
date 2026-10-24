@@ -1,0 +1,1 @@
+{"name": "Youtube clickbait thumbnail remover", "version": "0.0.1", "description": "A plugin to remove clickbait thumbnails from youtube and replace them with default ones.", "manifest_version": 2, "content_scripts": [{"js": ["yt-thing.js"], "css": ["nomorehidden.css"], "matches": ["https://*.youtube.com/*"]}]}

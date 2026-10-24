@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "I Need To Sell My House", "description": "We are House buyers-We offer cash,foreclosure,liens,unwanted properties.", "version": "0.0.0.1", "icons": {"128": "icon128.png"}, "app": {"urls": ["http://usabuyingteam.com/"], "launch": {"web_url": "http://usabuyingteam.com/"}}}

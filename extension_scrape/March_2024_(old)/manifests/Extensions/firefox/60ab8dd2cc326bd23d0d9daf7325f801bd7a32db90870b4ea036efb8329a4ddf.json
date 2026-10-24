@@ -1,0 +1,1 @@
+{"description": "Hooktube", "manifest_version": 2, "name": "hooktube", "version": "1.0", "permissions": ["webRequest", "webRequestBlocking"], "background": {"scripts": ["background.js"]}}

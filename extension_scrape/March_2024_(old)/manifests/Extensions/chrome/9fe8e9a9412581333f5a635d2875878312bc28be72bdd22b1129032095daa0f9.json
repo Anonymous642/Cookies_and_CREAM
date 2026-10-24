@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Fast GCP", "version": "1.0", "description": "Build an Extension to Easy access GCP serivices!", "browser_action": {"default_title": "GCP Fast Access", "default_popup": "popup.html"}, "icons": {"16": "icon.png", "32": "icon.png", "48": "icon.png", "128": "icon.png"}, "manifest_version": 2}

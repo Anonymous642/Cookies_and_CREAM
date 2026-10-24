@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Soundcloud-Stats-Hider", "version": "2.2", "description": "Hides soundcloud stats.", "icons": {"48": "icons/play.png"}, "content_scripts": [{"matches": ["*://*.soundcloud.com/*"], "js": ["soundcloud-stats-hider.js"]}], "browser_specific_settings": {"gecko": {"id": "{e8cc97a8-b7df-46d8-9581-b4d9dd7cf265}"}}}

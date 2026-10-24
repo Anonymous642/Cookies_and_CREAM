@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "content_scripts": [{"js": ["js/contentScript.js"], "matches": ["https://*.koalabeast.com/*", "http://*.jukejuice.com/*", "http://*.newcompte.fr/*"], "run_at": "document_start"}], "manifest_version": 2, "name": "TagPro Stuff 2", "version": "0.1.0", "web_accessible_resources": ["js/injectedScript.js"]}

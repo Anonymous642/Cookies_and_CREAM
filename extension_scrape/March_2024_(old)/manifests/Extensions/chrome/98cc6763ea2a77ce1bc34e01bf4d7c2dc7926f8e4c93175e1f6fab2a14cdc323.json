@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "GRE Practice", "version": "0.1", "permissions": [], "background": {"scripts": ["backgroundScript.js"]}, "chrome_url_overrides": {"newtab": "newpage.html"}, "browser_action": {"default_icon": {"32": "gre_icon.png"}}}

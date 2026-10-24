@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u591a\u73a9\u6e38\u620f\u7f51", "description": "\u591a\u73a9\u6e38\u620f \u591a\u4ea4\u670b\u53cb", "version": "1.0.0", "manifest_version": 2, "icons": {"128": "128.png"}, "app": {"launch": {"web_url": "http://www.duowan.com/"}}, "permissions": ["unlimitedStorage", "notifications"]}

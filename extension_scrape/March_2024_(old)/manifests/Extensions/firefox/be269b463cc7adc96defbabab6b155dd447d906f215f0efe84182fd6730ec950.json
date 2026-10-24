@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FaEn", "version": "0.1.0", "description": "Converts mistyped Fa text to En text and vice versa", "icons": {"48": "icons/faen.svg"}, "browser_action": {"default_icon": "icons/faen.svg", "default_title": "FaEn", "default_popup": "popup/index.html"}, "browser_specific_settings": {"gecko": {"id": "{5b3d924c-eca9-44a7-aa6a-c49cfb7cca5f}"}}}

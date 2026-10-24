@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Better Logging", "version": "1.1", "description": "A better logging format tool thing for Agilefant", "browser_action": {"default_popup": "popup.html"}, "manifest_version": 2, "permissions": ["clipboardWrite"]}

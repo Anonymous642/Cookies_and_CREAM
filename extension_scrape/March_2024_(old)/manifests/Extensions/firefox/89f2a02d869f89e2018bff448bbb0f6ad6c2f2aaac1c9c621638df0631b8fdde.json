@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "twitch-filter-messages-by-username", "version": "1.2", "description": "Displaying messages from user you double clicked.", "content_scripts": [{"matches": ["*://*.twitch.tv/popout/*/chat"], "js": ["twitch-chat-username-filter.js"]}]}

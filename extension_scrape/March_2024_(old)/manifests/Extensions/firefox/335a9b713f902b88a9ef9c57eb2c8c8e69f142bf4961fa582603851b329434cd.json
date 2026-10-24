@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Dark Mode", "version": "1.2", "description": "Adds a dark mode to youtube", "icons": {"256": "icons/DarkMode1.png"}, "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["darkening.js"]}]}

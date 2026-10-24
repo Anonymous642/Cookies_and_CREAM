@@ -1,0 +1,1 @@
+{"name": "Castlot", "description": " Castlot, a free-to-play online Browser-based MMORPG. ", "app": {"urls": ["http://castlot.playvision.ru/reg/landing19?agent=chrome_store&camp=chrome"], "launch": {"web_url": "http://castlot.playvision.ru"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon_128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SS NoteMaker", "version": "6.0", "description": "NoteMaker for SafeStreets USA", "manifest_version": 2, "browser_action": {"default_icon": "NoteIcon.png"}, "background": {"scripts": ["background.js"], "persistent": false}}

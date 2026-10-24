@@ -1,0 +1,1 @@
+{"name": "Abject Auto Correct", "version": "0.6", "manifest_version": 2, "description": "Vous reprendriez bien un peu de lacrymo", "icons": {"128": "128.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["js/correct.js"]}], "browser_specific_settings": {"gecko": {"id": "{9e9896fd-2fea-47fd-9374-18d5119e423a}"}}}

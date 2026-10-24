@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SSC Classic", "version": "0.547", "content_scripts": [{"matches": ["https://www.skyscrapercity.com/*"], "css": ["ssc.css"], "js": ["jquery-3.4.1.min.js", "ssc.js"]}], "browser_specific_settings": {"gecko": {"id": "{467fd62c-8009-4a0f-8eae-a225668711a7}"}}}

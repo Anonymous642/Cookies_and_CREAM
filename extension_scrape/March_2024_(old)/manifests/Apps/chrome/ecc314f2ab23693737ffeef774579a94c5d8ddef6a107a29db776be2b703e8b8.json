@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WhirlArt", "short_name": "WhirlArt", "version": "0.0.0.1", "description": "WhirlArt is a digital version of the popular 60's 'Spin Art' painting toy.", "icons": {"128": "icon128.png"}, "app": {"launch": {"web_url": "http://www.whirlart.com/"}}, "manifest_version": 2}

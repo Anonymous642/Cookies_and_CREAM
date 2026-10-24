@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "States New Tab", "description": "States New Tab", "version": "0.1", "manifest_version": 2, "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"16": "newtab-16.png", "128": "newtab-128.png"}}

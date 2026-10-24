@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "KISaD JSON Viewer", "description": "Viewer for large json files using cloud9's ace editor", "version": "1.0", "author": "Manuel Kaufmann", "developer": {"name": "KISaD GmbH", "url": "https://www.kisad.de"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["json-viewer.js"]}]}

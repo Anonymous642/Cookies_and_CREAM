@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Markdown Link", "description": "Get a markdown link to the current tab", "version": "4.1", "action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "options_ui": {"page": "options.html", "open_in_tab": false}, "permissions": ["tabs", "storage"]}

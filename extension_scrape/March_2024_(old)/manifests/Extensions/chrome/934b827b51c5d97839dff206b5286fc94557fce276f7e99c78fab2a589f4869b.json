@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Motivational Quote Generator", "version": "1.2", "manifest_version": 3, "description": "Get inspired anytime, anywhere with our Motivational Quote Generator. The perfect tool for a quick boost of motivation!", "chrome_url_overrides": {"newtab": "popup.html"}}

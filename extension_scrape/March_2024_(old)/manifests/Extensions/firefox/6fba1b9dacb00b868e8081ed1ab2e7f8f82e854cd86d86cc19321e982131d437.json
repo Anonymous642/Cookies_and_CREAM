@@ -1,0 +1,1 @@
+{"name": "RAC Document Scanning", "version": "1.1", "manifest_version": 2, "minimum_chrome_version": "37", "app": {"background": {"scripts": ["background.js"]}}, "permissions": [], "optional_permissions": ["documentScan"]}

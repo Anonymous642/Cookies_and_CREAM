@@ -1,0 +1,1 @@
+{"name": "VeilMyActivity", "description": "An extension to hide the forum activity while visiting webpages on Inforge (http://inforge.net). https://github.com/archerhush/veilmyactivity", "version": "2", "manifest_version": 2, "background": {"scripts": ["background.js"]}, "permissions": ["tabs", "https://www.inforge.net/xi/"]}

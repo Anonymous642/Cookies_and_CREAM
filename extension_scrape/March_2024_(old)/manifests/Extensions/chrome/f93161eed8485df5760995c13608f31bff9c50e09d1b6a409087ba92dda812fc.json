@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "TripAdvisor number of reviews", "version": "0.11", "description": "Shows number of reviews for TripAdvisor places", "author": "Mohamed Oun", "content_scripts": [{"matches": ["*://*.tripadvisor.com/*"], "js": ["content-script.js"], "run_at": "document_end"}]}

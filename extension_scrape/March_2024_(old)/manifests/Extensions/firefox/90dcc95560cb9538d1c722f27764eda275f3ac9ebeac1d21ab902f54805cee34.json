@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BulbaHelper", "version": "1.0", "description": "Adds filter buttons to Bulbapedia", "content_scripts": [{"matches": ["*://bulbapedia.bulbagarden.net/wiki/*"], "js": ["js/jquery-3.3.1.min.js", "js/bhelper.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Midokuni Fixer", "version": "1.0", "description": "Fixes Midokuni site so the 'What to do without' badge doesnt overlap the text", "icons": {"48": "icons/brick.png"}, "content_scripts": [{"matches": ["*://hina.loves.midokuni.com/*"], "css": ["fixer.css"]}], "browser_specific_settings": {"gecko": {"id": "{111c6337-2b30-475b-88d6-199592099cf4}"}}}

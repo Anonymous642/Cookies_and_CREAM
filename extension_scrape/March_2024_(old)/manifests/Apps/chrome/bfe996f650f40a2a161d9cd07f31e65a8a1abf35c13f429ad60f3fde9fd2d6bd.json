@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ClueMe", "description": "Learn and remember anything with quizzes.", "version": "1.1", "app": {"urls": ["http://www.clueme.net/"], "launch": {"web_url": "http://www.clueme.net/"}}, "icons": {"128": "128.png"}, "manifest_version": 2}

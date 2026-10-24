@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Lastik Sanayi", "description": "Lastiklerle alakal\u0131 t\u00fcm bilgi merkezi", "version": "1.0", "manifest_version": 3, "action": {"default_title": "Lastik Sanayi", "default_icon": "logo.png", "default_popup": "plugin.html"}, "icons": {"128": "logo.png"}}

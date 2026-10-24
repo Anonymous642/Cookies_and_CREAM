@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "0.0.1", "manifest_version": 3, "name": "SnapCall Dashboard", "description": "SnapCall in your browser", "action": {"default_popup": "chrome-extension.1a5fb9c0.html"}, "icons": {"32": "32.a852005c.png", "64": "64.1b9f50d1.png", "128": "128.f0be551d.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "meeting adhd", "description": "focus in your virtual meetings with this extension.", "version": "1.0.1", "permissions": ["tabs", "windows"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

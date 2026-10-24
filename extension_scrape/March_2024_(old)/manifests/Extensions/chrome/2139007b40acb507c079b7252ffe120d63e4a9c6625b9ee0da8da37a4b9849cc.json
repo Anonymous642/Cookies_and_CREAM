@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GitCut", "version": "0.1.2", "description": "Copy links from github issues and pull requests easily", "content_scripts": [{"css": ["styles.css"], "js": ["content.js"], "matches": ["https://github.com/*"]}]}

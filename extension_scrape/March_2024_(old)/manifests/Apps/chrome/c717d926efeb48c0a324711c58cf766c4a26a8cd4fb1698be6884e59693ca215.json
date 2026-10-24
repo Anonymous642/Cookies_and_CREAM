@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Kevserin Mutfa\u011f\u0131", "description": "T\u00fcrk ve D\u00fcnya Mutfaklar\u0131ndan Tarifler", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.kevserinmutfagi.com/"], "launch": {"web_url": "http://www.kevserinmutfagi.com/"}}}

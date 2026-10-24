@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "timer", "version": "1.7.1", "description": "A simple timer with a count down, and count up watch.", "icons": {"16": "random/icon16.png", "128": "random/icon128.png"}, "app": {"background": {"scripts": ["background.js"]}}, "manifest_version": 2, "permissions": ["storage"]}

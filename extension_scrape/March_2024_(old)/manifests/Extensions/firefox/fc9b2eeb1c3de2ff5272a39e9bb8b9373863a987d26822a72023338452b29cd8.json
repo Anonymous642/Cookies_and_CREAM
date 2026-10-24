@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Convert to UTF-8", "description": "Add a context menu option to convert to UTF-8", "version": "1.0", "homepage_url": "https://github.com/mdn", "background": {"scripts": ["background.js"]}, "icons": {"16": "icons/fred.svg", "32": "icons/fred.svg"}, "permissions": ["activeTab", "contextMenus", "clipboardWrite"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Twitter to Outrage Machine", "version": "1.1", "description": "Replaces the text 'Twitter' with 'Outrage Machine'.", "browser_action": {"default_icon": "logo.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}]}

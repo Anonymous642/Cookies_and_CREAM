@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Blur page", "description": "Blurs the current page", "version": "1.0", "manifest_version": 3, "background": {"service_worker": "background.js"}, "permissions": ["scripting", "activeTab"], "action": {"default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WarpZone", "version": "0.3", "manifest_version": 3, "background": {}, "action": {}, "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "permissions": ["bookmarks", "history", "topSites"]}

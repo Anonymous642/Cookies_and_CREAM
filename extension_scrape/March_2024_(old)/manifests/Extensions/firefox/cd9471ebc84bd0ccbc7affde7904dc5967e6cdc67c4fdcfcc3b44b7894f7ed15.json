@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TabPage", "version": "1.0", "description": "Changes the New Tab page to a page with date and time", "icons": {"48": "icons/48.png"}, "chrome_settings_overrides": {"homepage": "index.html"}, "chrome_url_overrides": {"newtab": "index.html"}}

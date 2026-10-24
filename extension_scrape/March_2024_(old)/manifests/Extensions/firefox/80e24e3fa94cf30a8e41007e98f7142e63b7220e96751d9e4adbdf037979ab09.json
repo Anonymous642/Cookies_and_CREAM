@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ROOSTER LINGQ OBSERVER", "description": "GUI Menu of Words in your LingQ lesson", "version": "1.52", "content_scripts": [{"matches": ["https://www.lingq.com/*/learn/*/web/*"], "js": ["content.js"]}], "host_permissions": ["https://www.lingq.com/*"], "browser_specific_settings": {"gecko": {"id": "{bc10ca2f-f856-4626-afe8-3bf1ac31eb5a}"}}}

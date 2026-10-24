@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Separator (spacer) for toolbar icons", "short_name": "Separator", "version": "1.1", "manifest_version": 3, "description": "Purpose of this extension is create spacer between other extension icons", "browser_action": {"default_icon": "icon.png"}}

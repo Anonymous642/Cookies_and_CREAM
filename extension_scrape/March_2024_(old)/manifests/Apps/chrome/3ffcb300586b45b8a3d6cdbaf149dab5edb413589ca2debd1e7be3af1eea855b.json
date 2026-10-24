@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Super Simpatias - Simpatias para todos", "description": "A Maior rela\u00e7\u00e3o de Simpatias para voc\u00ea na Internet", "version": "1.0.1", "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.supersimpatias.com/"], "launch": {"web_url": "http://www.supersimpatias.com/"}}}

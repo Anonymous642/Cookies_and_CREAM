@@ -1,0 +1,1 @@
+{"description": "Adds a grayscale filter to all webpages", "manifest_version": 2, "name": "Grayscale Filter", "version": "1.0", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["grayscale.js"]}], "browser_specific_settings": {"gecko": {"id": "{5d1a00e0-bdaa-4a47-a5f6-95bfa65a50ad}"}}}

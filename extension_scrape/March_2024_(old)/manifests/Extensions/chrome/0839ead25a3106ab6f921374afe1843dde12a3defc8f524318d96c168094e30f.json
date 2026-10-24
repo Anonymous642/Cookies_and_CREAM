@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Quote generator", "version": "0.0.1", "manifest_version": 2, "description": "Motivational quote generator to inspire you throughout the day.", "icons": {"16": "quoteIcon.png", "48": "quoteIcon.png", "128": "quoteIcon.png"}, "browser_action": {"default_icon": "quoteIcon.png", "default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"browser_specific_settings": {"gecko": {"id": "{64f703fd-dc6d-49f3-a3c2-98490d9e50b9}", "strict_min_version": "42.0"}}, "manifest_version": 2, "name": "Borderify", "version": "3.5", "description": "Adds a red border to all webpages matching mozilla.org.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.mozilla.org/*"], "js": ["borderify.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Felspire", "description": "Felspire DE", "version": "0.0.0.3", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://play.37.com/felspirede/"], "launch": {"web_url": "http://playgame.37.com/server_list/pid/4/gid/23?cid=51&scid=gg_store"}}}

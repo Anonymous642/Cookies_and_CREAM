@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SyleMeUp", "description": "Make your pages more exciting.", "version": "1.0", "permissions": ["activeTab", "storage"], "options_page": "options.html", "browser_action": {"default_icon": "icon.png", "default_title": "Stylize!", "default_popup": "popup.html"}, "manifest_version": 3}

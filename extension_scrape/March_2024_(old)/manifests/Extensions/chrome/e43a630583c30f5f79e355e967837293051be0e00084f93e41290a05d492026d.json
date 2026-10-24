@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Gament_Test", "manifest_version": 2, "short_name": "Gament_Test", "description": "Free_Casino_Test_App", "version": "1.02", "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "cards.png", "kiosk_enabled": true, "kiosk_only": true}, "icons": {"128": "867864_uVY_icon.ico"}}

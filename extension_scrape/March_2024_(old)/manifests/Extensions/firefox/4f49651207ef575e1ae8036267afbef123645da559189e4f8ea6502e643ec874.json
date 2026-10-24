@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VKMeOnlineUsers", "version": "1.0", "description": "Will add the ability to view online users of VKontakte when hidden mode is activated. Update every 5 seconds.", "applications": {"gecko": {"id": "KseniMailwow@Gmail.com", "strict_min_version": "48.0"}}, "content_scripts": [{"matches": ["*://vk.com/*"], "js": ["VkUpdate.js"]}]}

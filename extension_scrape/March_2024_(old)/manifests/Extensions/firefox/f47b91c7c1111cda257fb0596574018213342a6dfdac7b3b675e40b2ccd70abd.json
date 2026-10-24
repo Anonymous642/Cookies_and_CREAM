@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FETCH_APK_FILE_DOWNLOAD_URL", "version": "1.2", "description": "Fetch a apk download url to this page  head element of document ", "icons": {"48": "icons/border-48.png"}, "permissions": ["<all_urls>", "tabs", "activeTab", "webRequest", "webRequestBlocking"], "background": {"scripts": ["background.js"]}}

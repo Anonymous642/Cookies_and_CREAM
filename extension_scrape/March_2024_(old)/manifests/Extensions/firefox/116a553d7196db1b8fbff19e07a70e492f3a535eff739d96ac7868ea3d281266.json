@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MC Tools", "author": "LDprg", "version": "1.2", "description": "Makes the MC website more useful", "content_scripts": [{"matches": ["*://fr.monsieur-cuisine.com/*/create-recipe*"], "js": ["mcTools.js"]}], "browser_specific_settings": {"gecko": {"id": "{bc31b98b-69a1-4cac-bcde-94286456903c}"}}}

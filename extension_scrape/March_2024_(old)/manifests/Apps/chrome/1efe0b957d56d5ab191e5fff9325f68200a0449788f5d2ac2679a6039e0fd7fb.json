@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "monical", "description": "monical is a real-time, multi-channel communication tool", "version": "1.0.1", "manifest_version": 2, "permissions": ["webview"], "app": {"background": {"scripts": ["background.js"]}}, "icons": {"48": "48.png"}}

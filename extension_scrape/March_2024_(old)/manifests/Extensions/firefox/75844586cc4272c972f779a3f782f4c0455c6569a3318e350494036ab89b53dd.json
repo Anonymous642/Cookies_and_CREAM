@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "KooraTimeFormatter", "version": "1.0", "description": "FixesKooraTime", "content_scripts": [{"matches": ["*://*.kooora.com/*"], "js": ["Format.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SearchSubtitle", "version": "2.0", "description": "Making it easier to find subtitles.", "icons": {"48": "page-48.png", "96": "page-96.png"}, "permissions": ["tabs"], "browser_action": {"default_icon": {"19": "icon-19.png", "38": "icon-38.png"}, "default_title": "Subtitle_Search", "default_popup": "page.html"}}

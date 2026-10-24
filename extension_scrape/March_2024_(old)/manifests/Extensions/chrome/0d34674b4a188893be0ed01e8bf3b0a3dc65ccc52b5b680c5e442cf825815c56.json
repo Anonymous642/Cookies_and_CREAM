@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "version": "1.1", "name": "Tiny Url", "description": "Get hasslefree from sharing longurls which fill up the whole space. Create a shorter version of the urls with this extension", "browser_action": {"default_popup": "popup.html"}, "permissions": ["activeTab"]}

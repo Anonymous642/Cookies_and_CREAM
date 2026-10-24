@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ThumbnailBusterYT", "version": "0.1", "description": "View Youtube video thumbnails with max resolution \nRight click a video link and press 'View thumbnail'", "permissions": ["contextMenus", "activeTab", "tabs"], "background": {"scripts": ["viewtn.js"]}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["findurl.js"]}]}

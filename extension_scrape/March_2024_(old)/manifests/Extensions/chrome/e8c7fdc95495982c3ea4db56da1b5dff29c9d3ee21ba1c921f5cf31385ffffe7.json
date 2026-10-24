@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ButtonPic JS", "version": "1.0", "description": "ButtonPic", "authors": [{"name": "Alex S Aguiar"}], "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "run_at": "document_idle", "all_frames": true, "js": ["ButtonPic.js"]}], "manifest_version": 2}

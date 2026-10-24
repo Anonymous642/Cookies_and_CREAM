@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "TT-Live Helper", "version": "1.0.1", "description": "Helper for TT-Live", "icons": {"48": "/images/48.png", "128": "/images/128.png"}, "content_scripts": [{"matches": ["https://luebeck.tischtennislive.de/*"], "css": ["main.css"], "js": ["js/script.js"]}], "browser_specific_settings": {"gecko": {"id": "{7b0142ee-8c51-4d03-92e8-566fe7a328fb}"}}}

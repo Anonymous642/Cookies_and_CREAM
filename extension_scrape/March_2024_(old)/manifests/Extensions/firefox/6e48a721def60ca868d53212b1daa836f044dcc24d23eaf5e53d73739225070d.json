@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "srcAddon", "version": "1.0", "description": "likes every Youtube Video", "icons": {"48": "instalike.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/watch?v=*"], "js": ["instalike.js"]}]}

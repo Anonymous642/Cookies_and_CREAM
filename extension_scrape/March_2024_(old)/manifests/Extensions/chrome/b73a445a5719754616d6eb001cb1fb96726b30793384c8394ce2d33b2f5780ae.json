@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Dough.", "description": "You start a bakery. You want to be like your ancestors, the greatest bakers of all.", "version": "1.2.0", "action": {"default_popup": "main.html", "default_icon": "bread.png"}, "icons": {"128": "bread.png"}}

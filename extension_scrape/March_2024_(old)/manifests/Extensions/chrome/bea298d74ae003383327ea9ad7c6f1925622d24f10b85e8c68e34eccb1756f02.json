@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YT Annotation Deleter", "version": "2.0.0", "description": "Delete annoying annotations from YT", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "css": ["styles.css"]}]}

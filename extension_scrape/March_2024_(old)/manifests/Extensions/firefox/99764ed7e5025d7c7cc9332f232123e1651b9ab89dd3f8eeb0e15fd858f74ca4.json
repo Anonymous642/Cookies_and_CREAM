@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Anti-Genderer", "version": "0.9.1", "description": "Entfernt m\u00f6glichst alles Gendern", "content_scripts": [{"matches": ["<all_urls>"], "js": ["antigender.js"]}], "permissions": ["<all_urls>"], "browser_specific_settings": {"gecko": {"id": "{5d3daf63-ae93-4112-8c71-cb892b73edec}"}}}

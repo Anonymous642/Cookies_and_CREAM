@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Job Counter", "description": "Bug Fix: Count vanish issue fixed.", "version": "1.0.2", "icons": {"128": "Jobcount.png"}, "browser_action": {"default_icon": "Jobcount.png", "popup": "popup.html", "default_popup": "popup.html"}}

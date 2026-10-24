@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fast Social", "version": "1.0", "description": "Opens The Social Networks Quickly .", "icons": {"96": "icons/96.png"}, "browser_action": {"default_icon": {"96": "icons/96.png"}, "default_title": "SC-NET", "default_popup": "popup/popup.html"}, "web_accessible_resources": ["beasts/frog.jpg", "beasts/turtle.jpg", "beasts/snake.jpg"]}

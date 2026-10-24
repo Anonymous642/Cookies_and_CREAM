@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Lookup Acronym", "description": "Opens a search tab for the selected acronym on abbreviations.com", "version": "1.0", "manifest_version": 3, "background": {"service_worker": "background.js"}, "permissions": ["contextMenus"]}

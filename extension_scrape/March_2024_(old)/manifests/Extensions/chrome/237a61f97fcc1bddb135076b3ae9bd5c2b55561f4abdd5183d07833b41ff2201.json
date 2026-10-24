@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Weeronline actueel Nederland", "version": "3.3.1", "manifest_version": 2, "description": "De offici\u00eble Weeronline extensie. Altijd het laatste weer en buienradar met \u00e9\u00e9n druk op de knop!", "browser_action": {"default_icon": "images/icon.png", "default_popup": "popup.html"}, "permissions": []}

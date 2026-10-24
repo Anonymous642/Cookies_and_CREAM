@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Instalamb", "description": "Customise Instagram to be the way you want it.", "version": "0.1", "icons": {}, "content_scripts": [{"matches": ["https://www.instagram.com/*"], "js": ["dom-utils.js", "page.js", "main.js"]}], "host_permissions": ["https://www.instagram.com/*"], "browser_specific_settings": {"gecko": {"id": "instalamb@flourish.org"}}}

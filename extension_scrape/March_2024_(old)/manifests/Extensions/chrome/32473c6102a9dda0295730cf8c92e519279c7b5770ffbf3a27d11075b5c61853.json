@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "eddi", "description": "The ultimate side-cook", "version": "0.0.1", "manifest_version": 3, "action": {"default_popup": "popup/index.html", "default_icon": "eddi_icon.png"}, "icons": {"16": "eddi_icon.png"}, "permissions": ["tabs"]}

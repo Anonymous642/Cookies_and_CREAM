@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MangaDex Reddit Button", "version": "1.4", "description": "Adds a button to MangaDex chapter pages that lets you easily search for the chapter on r/manga.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.mangadex.org/chapter/*"], "js": ["add.js"]}]}

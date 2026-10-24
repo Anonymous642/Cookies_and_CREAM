@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Block-It -- Light weight adblocker ever", "version": "1.0", "description": "Get rid of unwanted Ads and focus on your work!!", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "manifest_version": 2}

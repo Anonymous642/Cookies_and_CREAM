@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "chrome_url_overrides": {"newtab": "random.html"}, "description": "Each tab delivers a patriotic American cat. Inspired by the Meow Met extension.", "manifest_version": 2, "name": "AmeriCats", "version": "1"}

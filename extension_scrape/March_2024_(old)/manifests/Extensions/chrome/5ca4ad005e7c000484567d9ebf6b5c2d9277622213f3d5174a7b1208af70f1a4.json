@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Nicks Gifts", "description": "Get a different new tab page", "version": "1.0.0.1", "manifest_version": 3, "icons": {"16": "./icons/face_16.png", "32": "./icons/face_16.png", "48": "./icons/face_16.png", "128": "./icons/face_16.png"}, "chrome_url_overrides": {"newtab": "my.html"}}

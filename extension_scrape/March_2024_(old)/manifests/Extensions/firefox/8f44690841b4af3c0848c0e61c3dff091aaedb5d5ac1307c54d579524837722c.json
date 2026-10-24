@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Shorts Removed", "version": "1.0.2", "description": "Removes shorts from Youtube", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "css": ["remover.css"]}], "browser_specific_settings": {"gecko": {"id": "{2d5c618f-7979-4c0d-ac9c-c30e2e43ad2d}"}}}

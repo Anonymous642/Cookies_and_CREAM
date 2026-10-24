@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Empty New Tab Page 2.0", "version": "0.0.1", "description": "Open simple and thumbnail-free new tabs.", "icons": {"128": "icon128.png"}, "chrome_url_overrides": {"newtab": "empty.html"}}

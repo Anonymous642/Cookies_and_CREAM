@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "V\u00e9io da Havan", "description": "Arruma a internet", "version": "0.1", "icons": {"48": "icon48.png", "128": "icon128.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

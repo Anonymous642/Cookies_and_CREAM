@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "24NewTab", "version": "1.2", "description": "Opens Videos from OE24.tv in a new tab, or remove Ads in-place.", "content_scripts": [{"matches": ["https://www.oe24.at/video/*"], "js": ["content.js"]}], "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Motivational Quotes Add-on", "version": "1.0", "description": "Display motivational quotes as a pop-up.", "icons": {"48": "icon.png"}, "browser_action": {"default_icon": {"48": "icon.png"}, "default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{049d4c47-07e1-4afa-b9d4-03a67ede911d}"}}}

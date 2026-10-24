@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Wine Searcher", "description": "This extension will take highlighted text and look for a wine in wine-searcher.com", "version": "1.0", "browser_action": {"default_icon": "wine.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["activeTab"]}

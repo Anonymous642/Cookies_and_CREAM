@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sherdog Results Hider", "version": "1.0", "description": "Remove the results for individual fights on a fighter's record", "content_scripts": [{"matches": ["*://*.sherdog.com/*"], "js": ["main.js"]}]}

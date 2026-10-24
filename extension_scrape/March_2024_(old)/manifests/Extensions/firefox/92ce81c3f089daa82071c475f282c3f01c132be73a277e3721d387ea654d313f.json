@@ -1,0 +1,1 @@
+{"name": "Advanced search popup", "version": "1.0", "manifest_version": 2, "browser_action": {"default_popup": "./popup.html"}, "icons": {"16": "./img/16.png", "48": "./img/48.png", "128": "./img/128.png"}, "browser_specific_settings": {"gecko": {"id": "{567c73bd-7966-4afd-8c8c-53401f8bcdff}"}}}

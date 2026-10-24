@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "description": "jumps you to outdated comments.", "manifest_version": 2, "name": "Github Jumper Plugin", "version": "1.0", "content_scripts": [{"matches": ["*://github.cerner.com/*"], "js": ["Script.js"]}]}

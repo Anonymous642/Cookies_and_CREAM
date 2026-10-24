@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Gotanda", "description": "OSINT addon", "version": "1.8.2", "icons": {"128": "image/128.png"}, "background": {"scripts": ["background.js"], "persistent": false}, "permissions": ["contextMenus", "background"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bookmarks for YouTube", "version": "0.2", "description": "See and skip to key moments in YouTube videos", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "css": ["styles.css"], "js": ["index.js"]}], "icons": {"48": "icon48.png", "128": "icon128.png"}, "manifest_version": 2}

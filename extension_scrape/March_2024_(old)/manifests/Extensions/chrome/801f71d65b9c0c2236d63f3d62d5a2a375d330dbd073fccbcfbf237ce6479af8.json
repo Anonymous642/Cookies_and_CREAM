@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Tab-Away", "description": "This extension will help users manage out of control tab usage", "version": "2.0", "browser_action": {"default_icon": "icon64.png", "default_popup": "popup.html"}, "background": {"scripts": ["js/background.js"]}, "permissions": ["activeTab"]}

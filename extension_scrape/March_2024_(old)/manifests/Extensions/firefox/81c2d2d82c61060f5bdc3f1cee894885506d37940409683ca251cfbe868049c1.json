@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MTG Art Newtab", "short_name": "MTG Art Tab", "version": "1.0.2", "description": "Replaces the newtab with art from card game Magic the Gathering.", "permissions": ["storage", "bookmarks"], "icons": {"16": "icons/icon16.png", "48": "icons/icon48.png", "128": "icons/icon128.png"}, "chrome_url_overrides": {"newtab": "index.html"}}

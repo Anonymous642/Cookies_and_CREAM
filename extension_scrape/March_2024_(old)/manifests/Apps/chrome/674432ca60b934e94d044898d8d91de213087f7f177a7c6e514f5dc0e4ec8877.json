@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CasualLight", "version": "1.0", "manifest_version": 2, "app": {"background": {"scripts": ["main.js"]}}, "icons": {"128": "icon_128.png"}, "permissions": ["audioCapture", {"socket": ["udp-send-to::50000"]}]}

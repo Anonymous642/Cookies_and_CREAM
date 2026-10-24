@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "PSM-CAN", "version": "0.1", "browser_action": {}, "content_scripts": [{"matches": ["https://duproprio.com/*", "https://www.centris.ca/*"], "js": ["jquery-3.5.0.js", "content.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Picrew Antiporn", "version": "1.0", "description": "Removes porn adds from picrew", "icons": {"48": "icons/48x48.png"}, "content_scripts": [{"matches": ["*://picrew.me/*"], "js": ["picrew-antiporn.js"]}], "browser_specific_settings": {"gecko": {"id": "{2c6b8969-b30a-40fd-830c-bfae063b0f32}"}}}

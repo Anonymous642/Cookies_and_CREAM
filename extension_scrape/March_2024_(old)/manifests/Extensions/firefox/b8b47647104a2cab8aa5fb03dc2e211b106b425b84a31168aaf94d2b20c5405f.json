@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No Dumb TLDs", "version": "1.1.2", "description": "Prevents loading of webpages with Google's new .zip and .mov TLDs.", "permissions": ["webRequest", "webRequestBlocking", "*://*.zip/*", "*://*.mov/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{ddd72949-de80-44de-b1cc-f85d1bcef6d5}"}}}

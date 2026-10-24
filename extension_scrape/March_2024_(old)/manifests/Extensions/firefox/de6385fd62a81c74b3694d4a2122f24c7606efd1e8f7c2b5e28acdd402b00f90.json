@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ASS Youtube ads", "version": "1.0.0", "description": "Automatically skip skippable Youtube ads (attempts to click the skip button for you).", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{eba5ec50-5e17-4c37-bc99-d2c7d3e312c1}"}}}

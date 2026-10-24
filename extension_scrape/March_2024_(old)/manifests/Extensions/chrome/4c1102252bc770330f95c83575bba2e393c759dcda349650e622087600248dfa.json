@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "HackerNews No Pressure", "description": "Use HackerNews without scores", "version": "0.1.0", "content_scripts": [{"matches": ["*://news.ycombinator.com/*"], "css": ["src/styles.css"], "run_at": "document_start"}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "To-Do List", "version": "0.0.1", "description": "A todo list extension", "chrome_url_overrides": {"newtab": "index.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "\ud558\ub8e8 \ud589\ubcf5", "description": "1\uc77c 1\ud589\ubcf5", "version": "1.0", "action": {"default_popup": "quote.html", "default_icon": "leaf_icon.png"}, "host_permissions": ["*://*.google.com/*"], "background": {"service_worker": "background.js"}}

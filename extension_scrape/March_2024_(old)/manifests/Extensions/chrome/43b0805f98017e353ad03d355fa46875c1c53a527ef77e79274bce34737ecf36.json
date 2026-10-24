@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Aktiedysten Dark Mode", "version": "0.2.5", "description": "G\u00f8r at aktiedysten bliver dark mode", "icons": {"128": "icon128.png"}, "content_scripts": [{"css": ["styles.css"], "matches": ["https://aktiedysten.dk/*"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "CryptoCount", "description": "Browser extension to realized Tezos", "version": "0.0.1", "browser_action": {"default_popup": "index.html", "default_title": "Delegate"}, "icons": {"16": "logo.png", "48": "logo.png", "128": "logo.png"}, "permissions": ["*://*.cryptocount.co/*"]}

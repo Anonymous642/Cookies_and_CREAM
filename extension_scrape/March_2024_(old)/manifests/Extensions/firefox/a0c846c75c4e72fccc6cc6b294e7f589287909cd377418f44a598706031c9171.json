@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TDLoader Extension", "version": "1.0", "description": "TDLoader for steam.", "icons": {"48": "icmn.png"}, "content_scripts": [{"matches": ["*://steamcommunity.com/sharedfiles/filedetails/*"], "js": ["tdloader.js"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{db30abff-cbe5-412d-8b69-207ef138f33c}"}}}

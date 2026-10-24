@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clean the page", "version": "1.0.10", "author": "Shaohua Guan", "description": "Remove the ads from page", "icons": {"48": "icon.png"}, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>", "tabs"], "background": {"page": "background.html"}}

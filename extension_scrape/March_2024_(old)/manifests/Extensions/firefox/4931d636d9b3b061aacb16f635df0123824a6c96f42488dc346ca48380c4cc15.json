@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Yet Another Tab Counter", "author": "Daniel Hofstetter (@dhofstet)", "version": "1.0.2", "description": "Shows the number of open tabs", "icons": {"48": "icons/tabcounter.svg"}, "browser_action": {"browser_style": true, "default_icon": {"16": "icons/empty.svg"}}, "background": {"scripts": ["tabcounter.js"]}}

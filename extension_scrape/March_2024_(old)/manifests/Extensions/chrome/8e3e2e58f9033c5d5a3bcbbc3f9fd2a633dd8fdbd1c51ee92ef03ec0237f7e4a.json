@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Ads Block- Free ad blocker", "version": "1.6", "icons": {"128": "image.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["Content.js"]}], "background": {"service_worker": "worker_container.js"}, "permissions": ["storage", "tabs"]}

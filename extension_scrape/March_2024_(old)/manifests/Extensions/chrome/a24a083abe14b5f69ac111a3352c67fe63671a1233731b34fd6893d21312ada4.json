@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CS Word Of The Day", "description": "Displays a new computer science term and definition every day", "version": "1.1", "icons": {"48": "/icons/icons8-dictionary-48.png", "96": "/icons/icons8-dictionary-96.png"}, "action": {"default_popup": "popup.html"}}

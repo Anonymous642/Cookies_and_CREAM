@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ISkipForYou - Youtube Ad Skip", "version": "1.0", "description": "Youtube Ad Skip", "icons": {"48": "icon.png"}, "content_scripts": [{"js": ["adskip.js"], "matches": ["https://www.youtube.com/*"]}]}

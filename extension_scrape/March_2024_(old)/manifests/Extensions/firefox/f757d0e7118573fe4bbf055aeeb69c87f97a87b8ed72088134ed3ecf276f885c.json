@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "better autoscroll", "version": "1.0", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["app.js"], "css": ["app.css"]}], "icons": {"32": "auto-scroll.svg"}, "web_accessible_resources": ["auto-scroll.svg"], "browser_specific_settings": {"gecko": {"id": "{2a12425a-e060-43e0-9da0-99c033a27a46}"}}}

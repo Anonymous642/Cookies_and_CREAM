@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fextralife Stream Blocker", "version": "1.0", "description": "Removes the annoying fextralife stream from all fextralife pages", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.fextralife.com/*"], "js": ["removal.js"]}], "browser_specific_settings": {"gecko": {"id": "{51ec8dd3-50ba-4d0c-8c46-90694a65a72a}"}}}

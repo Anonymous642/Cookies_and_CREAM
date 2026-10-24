@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Keep Page Active", "version": "0.5", "description": "Keeps chosen page active.", "icons": {"48": "icons/infinity-48.png"}, "permissions": ["alarms", "tabs", "storage"], "browser_action": {"default_icon": "icons/infinity-48.png", "default_title": "Keep Page Active", "default_popup": "options.html"}, "background": {"scripts": ["background.js"]}}

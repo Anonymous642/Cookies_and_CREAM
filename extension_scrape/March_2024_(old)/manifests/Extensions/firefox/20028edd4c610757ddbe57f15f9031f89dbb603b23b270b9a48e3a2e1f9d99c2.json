@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Chengyu", "version": "1.0.6", "icons": {"64": "icon.png"}, "description": "Show a chengyu when you open a tab.", "homepage_url": "https://github.com/royzwambag/chengyu", "chrome_url_overrides": {"newtab": "index.html"}}

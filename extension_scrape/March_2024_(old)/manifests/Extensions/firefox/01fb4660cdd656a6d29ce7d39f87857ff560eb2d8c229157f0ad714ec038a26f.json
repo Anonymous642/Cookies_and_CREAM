@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Noice", "version": "1.2", "manifest_version": 2, "description": "Michael Rosen. Some call him a Hero, i call him Father...", "browser_action": {"default_icon": "michaelrosenicon.png", "default_popup": "mypopup.html"}}

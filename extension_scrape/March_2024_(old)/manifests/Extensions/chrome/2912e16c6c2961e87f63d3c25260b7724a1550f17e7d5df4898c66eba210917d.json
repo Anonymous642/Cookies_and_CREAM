@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "canvas-export", "description": "Export users from canvas.", "version": "1.0.1", "manifest_version": 3, "action": {"default_popup": "popup.html"}, "permissions": ["activeTab", "scripting"]}

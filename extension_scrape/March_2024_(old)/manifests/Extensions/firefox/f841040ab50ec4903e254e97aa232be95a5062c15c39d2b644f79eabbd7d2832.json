@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search JustWatch", "version": "1.0", "description": "Search JustWatch.com/tr for any highlighted text.", "icons": {"48": "icon.png"}, "permissions": ["activeTab", "contextMenus"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{f970a9fc-a283-4151-ae04-a097a0f440d5}"}}}

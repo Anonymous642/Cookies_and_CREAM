@@ -1,0 +1,1 @@
+{"name": "Jumbotweet", "description": "Write longer Tweets with the help of Jumbotweet", "app": {"urls": ["http://www.jumbotweet.com/"], "launch": {"web_url": "http://www.jumbotweet.com/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

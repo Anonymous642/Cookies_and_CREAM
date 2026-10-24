@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Panos", "description": "Daily Bible verses to enrich the soul.", "version": "1.0.0", "icons": {"128": "img/panos_logo.PNG"}, "browser_action": {"default_icon": "img/panos_logo.PNG", "default_popup": "popup.html"}, "permissions": []}

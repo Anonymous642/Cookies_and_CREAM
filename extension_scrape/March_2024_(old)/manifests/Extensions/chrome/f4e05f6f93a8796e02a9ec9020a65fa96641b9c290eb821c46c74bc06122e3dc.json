@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "kintone Ctrl Enter", "short_name": "kintoneCtrlEnter", "manifest_version": 2, "version": "0.3.3", "content_scripts": [{"all_frames": true, "matches": ["https://*.cybozu.com/k/*", "https://*.cybozu-dev.com/k/*"], "js": ["scripts/contentScript.js"]}]}

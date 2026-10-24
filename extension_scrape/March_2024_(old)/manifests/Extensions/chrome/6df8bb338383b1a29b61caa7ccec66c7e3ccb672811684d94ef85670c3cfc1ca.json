@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "SendToKindle", "version": "1.0", "description": "Send books to kindle", "permissions": ["contextMenus", "activeTab", "tabs"], "background": {"scripts": ["sendtokindle.js"]}}

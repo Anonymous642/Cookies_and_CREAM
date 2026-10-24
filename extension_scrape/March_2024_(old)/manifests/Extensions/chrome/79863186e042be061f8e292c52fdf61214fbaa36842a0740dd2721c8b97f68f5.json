@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "personalReddit", "description": "displays reddit on private extension", "version": "1.0.0", "action": {"default_popup": "adsPage.html"}, "background": {"service_worker": "background.js"}, "permissions": ["tabs"]}

@@ -1,0 +1,1 @@
+{"description": "List audio and video sources so you can open them in new tab.", "manifest_version": 2, "name": "List and Open Media", "version": "0.1", "homepage_url": "https://www.example.org", "page_action": {"browser_style": true, "default_title": "List Audio and Video", "default_popup": "popup.html", "show_matches": ["<all_urls>"]}, "permissions": ["activeTab"]}

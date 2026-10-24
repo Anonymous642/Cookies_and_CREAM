@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AniWatch OP Skipper", "version": "1.7", "description": "Skip anime openings on AniWatch.me easily.", "icons": {"48": "/icon.png"}, "browser_action": {"browser_style": true, "default_icon": {"48": "/icon.png"}, "default_title": "AniWatch OP Skip"}, "content_scripts": [{"matches": ["*://aniwatch.me/*"], "js": ["skip.js"]}]}

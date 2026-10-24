@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Full Width Git Hub", "description": "Adds full page width to git hub", "version": "2.1", "browser_action": {"default_icon": "icon.png"}, "content_scripts": [{"css": ["styles.css"], "matches": ["https://github.com/*"]}]}

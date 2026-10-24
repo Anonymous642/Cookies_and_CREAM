@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.8.2", "name": "(3,3) NFTiers", "browser_action": {"browser_style": true, "default_popup": "popup.html", "default_icon": "assets/img/nftiers-logo.svg"}, "icons": {"128": "assets/img/nftiers-logo.svg"}}

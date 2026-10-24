@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "\u8702\u9e1f New Tab", "version": "3.0.1", "description": "\u8702\u9e1f\u5373\u914d\u5927\u524d\u7aefChrome\u63d2\u4ef6\u767e\u5b9d\u7bb1", "icons": {"16": "images/icon.png", "48": "images/icon.png", "128": "images/icon.png"}, "chrome_url_overrides": {"newtab": "main.html"}}

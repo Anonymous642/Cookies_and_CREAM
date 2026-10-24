@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.0.1", "name": "Tabular", "description": "Tame your browser tabs.", "permissions": ["tabs", "bookmarks"], "browser_action": {"default_icon": "./bolt-purple.png", "default_title": "Tabular"}, "background": {"scripts": ["listener.js"], "persistent": false}}

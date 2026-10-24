@@ -1,0 +1,1 @@
+{"description": "Search all open Tabs", "manifest_version": 2, "name": "TabSearch", "version": "1.0", "browser_action": {"browser_style": true, "default_popup": "tablist.html", "default_icon": {"32": "popup.png"}}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{71acdf07-84fd-4d94-bb5e-069e949dc597}"}}}

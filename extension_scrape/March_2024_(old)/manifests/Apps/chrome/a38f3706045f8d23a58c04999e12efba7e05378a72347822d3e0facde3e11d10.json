@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Monografis - Orientador de TCC", "description": "Guia da Monografia", "version": "2.1", "manifest_version": 2, "app": {"background": {"scripts": ["main.js"]}}, "icons": {"16": "logo16.png", "128": "logo128.png"}}

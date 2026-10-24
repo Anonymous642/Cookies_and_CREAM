@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Oodi Average", "version": "0.1", "permissions": ["https://oodi.aalto.fi/a/*"], "content_scripts": [{"matches": ["https://oodi.aalto.fi/a/omatopinn.jsp?*"], "js": ["average.js"]}]}

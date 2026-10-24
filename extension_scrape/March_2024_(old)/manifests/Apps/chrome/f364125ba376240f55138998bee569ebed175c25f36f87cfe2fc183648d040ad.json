@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Lost Future", "description": "Gioca a Lost Future", "version": "3", "icons": {"128": "128.png"}, "app": {"urls": ["http://www.lostfuture.net16.net/"], "launch": {"web_url": "http://www.lostfuture.net16.net"}}, "permissions": ["unlimitedStorage", "notifications"]}

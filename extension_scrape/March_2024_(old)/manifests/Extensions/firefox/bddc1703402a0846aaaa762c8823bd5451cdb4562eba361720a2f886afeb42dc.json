@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "wokeEmpathique", "version": "1.2", "description": "Remplace woke par empathique dans tous les textes lors de votre navigation.", "icons": {"48": "icons/wokeEmpathique-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["wokeEmpathique.js"]}], "browser_specific_settings": {"gecko": {"id": "{314a6135-0a2b-463d-afff-c2274f1505b4}"}}}

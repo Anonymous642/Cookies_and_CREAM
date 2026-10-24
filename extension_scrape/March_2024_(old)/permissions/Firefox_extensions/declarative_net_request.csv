@@ -1,0 +1,67 @@
+Name,Hash,Users,Version,All Hosts,Permissions
+Norton AntiTrack,218bc43a406c8e83ff3dcfbd57778d9a8ee43b6107d0f0be809cc7cf7bb6e71c,43669,3,True,"['tabs', 'webNavigation', 'storage', 'unlimitedStorage', 'nativeMessaging', 'declarativeNetRequest', 'scripting', 'alarms', 'webRequest']"
+Native MPEG-Dash + HLS Playback,fb949315af181fea11344ba13c763ee8291ec643267fbf0189f439f5d3095399,5935,3,True,"['tabs', 'declarativeNetRequest', 'storage', 'contextMenus']"
+movie-web extension,e01f0710411453d8d2983e50c14b75bc8b346b333dc4ead339a9fef43f3cd764,3231,3,True,"['storage', 'declarativeNetRequest', 'activeTab', 'cookies']"
+uBlock Origin Lite,580fdfe1c0db4e0bdcc25b34356d83400f0648021793eb0da787abfefc8be845,3116,3,True,"['activeTab', 'declarativeNetRequest', 'scripting', 'storage']"
+OpenVideo - ad-free streaming,94856e7d15c47ba0146d67ac046043c53e0d3f9428aa16829e78769982f8b07f,2504,3,True,"['storage', 'tabs', 'unlimitedStorage', 'declarativeNetRequest']"
+Yomitan,1e1919f0d1e056b5eb632341966e563337963a66dd3fef9383ae6183e1124fa1,2201,3,True,"['storage', 'clipboardWrite', 'unlimitedStorage', 'declarativeNetRequest', 'scripting']"
+Skinport Plus,1550df4ec3674427388298bfde32cedcb3169903eee6b8ef790e307f736bd192,1489,3,True,"['storage', 'declarativeNetRequest', 'scripting']"
+Internet Archive Downloader,d321c9e7b8885a2cc7fe256e332576b6a605676c49d027c5a4046250d683ac3f,1134,3,True,"['declarativeNetRequest', 'downloads', 'scripting', 'storage', 'tabs']"
+GaiaUpgrade,d0d2f4569c544d6a9cbc031db578c905a8c035e66716b30e2dfbfeeeffa5dd9f,920,3,False,"['alarms', 'downloads', 'notifications', 'storage', 'declarativeNetRequest']"
+Music Mode for YouTube™,e1216139b2a4a6adb4964c533c00b1e335d1f244eb1513d5b23de7b4ea724fc7,773,3,True,"['declarativeNetRequest', 'tabs', 'storage', 'unlimitedStorage']"
+New Minecraft Wiki Redirect,9b1a0d12f3c378f0ed138a7d1ed13c713f0e5023d37520d09162bc205ebe2141,654,3,False,"['declarativeNetRequest', 'storage']"
+FastStream Video Player,5d6d588692090170239ea3c0c5f080e2427766e2439c64c8f6485e1f85b41d99,620,3,True,"['storage', 'tabs', 'webRequest', 'declarativeNetRequest']"
+ChartFox Browser Extension,53baa73396292f4bbeab2f41381a64c2adeec4fe0e0759c5cd11ffb05d8062ed,507,3,True,['declarativeNetRequest']
+네이버 카페 패스,a16227ea43dac7e9cf681d77323d06da54f1aac2971e8a4ec41794799a424e38,418,3,False,"['declarativeNetRequest', 'declarativeNetRequestWithHostAccess']"
+hektCaptcha: hCaptcha Solver,413e5c5bd942d453b65a8b116e9c943bbe47f3679f4a537a81157f6620e7da40,374,3,True,"['storage', 'declarativeNetRequest']"
+UI Changer for Reddit,866d39d79a23e08be75929ce41e312ed4226df6db933bfb531a235cc5cbf0687,351,3,False,['declarativeNetRequest']
+uBypass,74ec661990b914e5104338d3332d9ae4dfd26c03a7722066935cc075d5304127,335,3,False,"['tabs', 'declarativeNetRequest']"
+Rikaitan,d160339ee6ecf586fb8de2259ae5f8b62c8c0ad6e96e30d78a7030f17ab89c88,282,3,True,"['storage', 'clipboardWrite', 'unlimitedStorage', 'declarativeNetRequest', 'scripting']"
+ModernDeck,8589f577c7a418843953023913df66071dcb59108577d0c4fbb5f54d6ad19904,251,3,False,['declarativeNetRequest']
+Novel Speech,bbebd82185930bd3f4cbee3be1247a795a8f18e8470aa7d155c01191ae971238,239,3,True,"['declarativeNetRequest', 'tabs', 'storage']"
+Twitch Embed Blocker,51b1c7dd8f260f9c85f12514194fd15386ce2e9d15eaa67206c80e8b805b3623,221,3,False,['declarativeNetRequest']
+BiliMini,024663701ed8e1499ca8587c1e03bca34b8a1d0ba61fb7973caace4de380ad11,218,3,False,"['declarativeNetRequest', 'alarms', 'cookies', 'storage']"
+GrabzIt Web Scraping Assistant,c915f4ee86c2a8c1221203f22b3d621b93fe4fe8f00e4cf152fb323822930518,194,3,True,"['tabs', 'webRequest', 'declarativeNetRequest', 'notifications', 'storage']"
+Zip and Mov Domain Blocker,a973d8375e852c68916e91a70cab415441bef39ee32e14a58ad88b04d32b55af,114,3,False,['declarativeNetRequest']
+Trufflepiggy - Quick Search,fddc9867a56a1cf9bacab4a32b6f6b465fe4d382a8addc72ada0d58ed89c2916,77,3,True,"['tabs', 'activeTab', 'contextMenus', 'storage', 'declarativeNetRequest']"
+Leetcode torture,e3e7c64cdead07fc4ee1e9ddf7a7641d79e6c5d84065e5acd066c88a5c149794,73,3,True,"['storage', 'declarativeNetRequest', 'declarativeNetRequestFeedback', 'tabs', 'activeTab', 'alarms', 'webRequest']"
+Dashy: Sidebar and New Tab Dashboard,05737249c7768fdd5388df76fc65cb71b92d4303bdf1701fc7e37ee7311166fc,69,3,True,"['storage', 'unlimitedStorage', 'history', 'declarativeNetRequest', 'declarativeNetRequestWithHostAccess', 'topSites']"
+Pure motion,faac45274a6a498948c4970c492916ebfd130b72b3e831745b0f362a0a0a4200,66,3,True,"['declarativeNetRequest', 'declarativeNetRequestWithHostAccess', 'scripting']"
+Predirect,b0c51e7448d2f5ef3792337295f245b4d6aa616bc6ef3d3ce59914311bfaa604,56,3,False,"['declarativeNetRequest', 'storage', 'alarms']"
+wechat-need-web,6943f03e6e2ae313d62a5983a6c8bc53421d7cc7dfaa15361b91f817cc5e6f38,34,3,False,"['declarativeNetRequest', 'scripting']"
+Readup,a197adfc94beba3288d6091f260409b7e2aba7a45b747fee80ac12aacea3fe7f,28,3,True,"['cookies', 'scripting', 'storage', 'declarativeNetRequest']"
+Open Reddit images directly,9b254791a8e4525bf0ff611f909b32270e7ac1adb3433c020aa7b06e18615b6b,27,3,False,['declarativeNetRequest']
+Casca: New Tab with ChatGPT and Widgets,5dd47cf085c7d8cf91bf973ad4ab9b592e28c18c94c422ce97b7fe94e9609a04,26,3,True,"['bookmarks', 'topSites', 'declarativeNetRequest']"
+AdBlox - Ad Blocker,1bff4fc28fa0819a86ab6c63100879ed1759df263513d9ca61877c07f6c3b4f4,19,3,True,"['activeTab', 'declarativeNetRequest', 'webRequest', 'scripting', 'storage']"
+BetterMint Chess,cb41a8885a00881dd9f023c07cbdb127acd102f11fffb88e0d6830268c65599c,17,3,False,"['storage', 'declarativeNetRequest']"
+MarketApp P2P,7aeb5899b6cbe07588c349ad1b02208d7ca53b5449cbf545d6ba19ce0d0417fa,16,3,False,"['notifications', 'storage', 'webRequest', 'cookies', 'tabs', 'activeTab', 'declarativeNetRequest', 'alarms']"
+One Click Checkout for WHMCS,12f7edad3f6b370b466a77b824a9fdd51d4cc7d82a2c42b53bcbd7bc0be9e010,15,3,True,"['background', 'declarativeNetRequest']"
+Mudfish AdClean,403ad8d5e80228f65fc8234b378d685c20c3c9a74b12fe86050932f86d7830a7,13,3,True,"['activeTab', 'declarativeNetRequest', 'declarativeNetRequestFeedback', 'storage']"
+SideHN,1d95472e5456353a9a5f5e20c5c43cd78604dc9fa63b5fd76256c7022d18f695,12,3,True,"['activeTab', 'tabs', 'storage', 'declarativeNetRequest', 'cookies']"
+sad,45c9a6614fccd4f9592d8283a4f25bff84076fd43ee9f90eaa07746ebbed02ca,12,3,False,"['declarativeNetRequest', 'activeTab', 'storage', 'webNavigation', 'tabs', 'scripting', 'history']"
+Rubric,f13a785009892b1ff4947cd8783c47784bc6fa736ce7c22e193431a5b9ef966a,10,3,True,"['storage', 'declarativeNetRequest', 'declarativeNetRequestFeedback', 'downloads']"
+Surf Security,56526d73950bb269d9a5f59c116b74f97b0263addbbc6527f43035676b3df0c8,10,3,True,"['scripting', 'storage', 'activeTab', 'tabs', 'alarms', 'declarativeNetRequest', 'webNavigation', 'management', 'downloads', 'cookies', 'idle', 'proxy', 'webRequest', 'webRequestBlocking', 'permissions', '<all_urls>']"
+Adblock - 1Block,f00dabc98b015c1c091fb7b76b9cdbe2b1af70ffaa034ab60f9c6f5f2791798a,8,3,True,"['activeTab', 'declarativeNetRequest', 'scripting', 'storage']"
+HFT - CHPP,cd9fe2967d33c95b04cb9a767192e36236bdc7e20f3d70122bf8c9538dcd6e9a,8,3,False,"['storage', 'declarativeNetRequest']"
+LinkLift,d50c680c919f646904aaed74f5c4ddfab1a6d36cb1181cb5355158b064ef13a4,5,3,True,"['tabs', 'declarativeNetRequest', 'scripting', 'activeTab', 'webNavigation']"
+Search & Link Preview,a286a2490498da61bd908ea866fd7967f2f6538c782f5fa0a594d7c28466b1ad,3,3,True,"['storage', 'declarativeNetRequest', 'contextMenus']"
+Stream Bridge - Watch everyone on Twitch,bb37f5d514d1178d5d3d6cdda498122837f50bcab7ab9a0ee0fbe4cb9a5158e6,2,3,False,"['declarativeNetRequest', 'storage']"
+Oakley's Everything Blocker,261a0bbead6fb1822c86b8570bbdad9eb7116eb8f89e4c3229e6c2e2a2b4420c,2,3,True,"['declarativeNetRequest', 'storage']"
+Twitterfier,a83acac930392fb339814e9c406554edf3d1e197b2544f5c8a014ccd3cedb735,2,3,True,['declarativeNetRequest']
+Youtube Ads Blocker,de4fff69ace48e24beeb02e8ca8faa201846a6da070a009965c2e6bba867bb67,2,3,True,"['declarativeNetRequest', 'declarativeNetRequestWithHostAccess', 'declarativeNetRequestFeedback', 'storage', 'scripting', 'tabs', 'alarms']"
+Blocker_2,f5f0c486ae67c59dc2e8a424983b02061a760fc8ab1c29d2c757a4be3efc9c01,1,3,True,"['tabs', 'scripting', 'declarativeNetRequest', 'declarativeNetRequestFeedback', 'declarativeNetRequestWithHostAccess']"
+Clipcentric Ad Detector,a123ee09875406281f1462dc55b6a77d887cd0878f72ac19d859394afb1040c2,1,3,True,"['webRequest', 'webNavigation', 'declarativeNetRequest', 'scripting', 'storage', 'tabs']"
+Anonymous Extension,41080be663a5e58436d968c21706a96b1e3816b596b6eb03ff76edf891d54368,1,3,True,"['declarativeNetRequest', 'storage']"
+No Shorts_1,2f52b3d5d0dd335bd9cf0ef79cab5bd9d5acda036cf1e676fc9120901272c747,1,3,False,"['declarativeNetRequest', 'tabs', 'activeTab']"
+Hackernews Userscript,ec5d06a63fce16536fcb1606407e6d78a3ece8fc92d490926bc9c1d04e4d50dc,1,3,False,['declarativeNetRequest']
+BookMarkMannger,94335e663d5915926b4db24bc24ceb4f603d5517c50e71e65a390436a72e8bde,1,3,True,"['declarativeNetRequest', 'declarativeNetRequestFeedback', 'scripting', 'activeTab', 'bookmarks', 'tabs', 'notifications', 'storage']"
+IP2.Network,a3ad0190603d62aaa0452404e7fe4691d4cb9c37bf3c3cb933c545c9be6038cf,1,3,True,"['storage', 'scripting', 'declarativeNetRequest', 'webNavigation']"
+EnterLearning,b5554d0ccbfc04647fde649e81a16d2f7cd000f81dfae124eb473152bcc44379,1,3,False,['declarativeNetRequest']
+BookMark-mannger,af346ef0aaada2392900fc0f4236827fdb41ca3795321bab7a5f7352e1109b35,1,3,True,"['declarativeNetRequest', 'declarativeNetRequestFeedback', 'scripting', 'activeTab', 'bookmarks', 'tabs', 'notifications', 'storage']"
+Manager Friends Request,f538bc74f6b9a6f4bfe7917c89e9896093be30c1f7c6c844863750dea1e944aa,1,3,True,['declarativeNetRequest']
+Kiosk Extension,3c14c0bb4d57d2608d797a659fde0cc874f57012d304478bc7ad6b3691938280,1,3,True,"['storage', 'scripting', 'webNavigation', 'declarativeNetRequest', 'downloads', 'tabs']"
+zium.app Helper,0d4684164905dd51f077f5bbb4428cd96d908cce03e4cd8794c85c8f59a57eeb,1,3,False,"['declarativeNetRequest', 'storage', 'cookies', 'alarms', 'notifications']"
+Script Control,a98cc6d41332ca5e8e5a4b05777cc903fe63559e3329ad1c7166e5c1bb91de4d,0,3,True,"['browsingData', 'declarativeNetRequest', 'declarativeNetRequestFeedback', 'scripting', 'storage', 'tabs']"
+AdBrick,f72eb53e416de92a8859f5ab1698109e1bf3332eb5fd352ae5fe466e40474a75,0,3,False,['declarativeNetRequest']
+Flixzilla,7ef726eec5e0109d852f5cc87cfe9bf39988baffde678375cc664132fe292b95,0,3,True,"['storage', 'declarativeNetRequest', 'tabs']"
+Social Meet,83ef09f5761b0a0d3cf7aba70eb76af5ef2566d584eb723c277b63ef1da3d5f7,0,3,True,"['storage', 'background', 'declarativeNetRequest', 'cookies']"

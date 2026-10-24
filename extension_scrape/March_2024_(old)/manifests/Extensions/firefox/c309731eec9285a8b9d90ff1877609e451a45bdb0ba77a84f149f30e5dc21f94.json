@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Better Mixer Chat", "version": "1.0.9", "description": "Blurs deleted chat messages", "icons": {"16": "bremix16.png", "32": "bremix32.png", "48": "bremix48.png", "128": "bremix128.png"}, "content_scripts": [{"css": ["styles.css"], "js": ["content.js"], "matches": ["https://mixer.com/*"]}]}

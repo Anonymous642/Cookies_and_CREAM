@@ -1,0 +1,1 @@
+{"name": "IFSC Codes Finder", "version": "2.0", "description": "Find IFSC Code", "browser_action": {"default_icon": "icons/icon.png", "default_popup": "popup/ifsccode.html"}, "icons": {"48": "icons/icon.png"}, "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "New Tab Redesign", "version": "1.0", "description": "Get a beautiful image daily and manage ToDo list", "icons": {"48": "icons/icon-48.ico"}, "permissions": ["tabs", "storage"], "chrome_url_overrides": {"newtab": "newtabtodo.html"}, "browser_specific_settings": {"gecko": {"id": "vksoni64@gmail.com"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "extention", "author": "vaishnavi", "version": "1.0.2", "description": "replace new tab with this", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{3c7ef9ba-e63b-4fa9-81b3-4d7afb0ff5d9}"}}}

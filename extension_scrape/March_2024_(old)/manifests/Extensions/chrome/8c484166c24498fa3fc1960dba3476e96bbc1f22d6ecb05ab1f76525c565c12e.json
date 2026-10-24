@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Zuo GPT Plugin", "version": "1.0", "description": "Customized My GPT CSS", "permissions": [], "content_scripts": [{"matches": ["*://chat.openai.com/*"], "js": ["content.js"], "run_at": "document_end"}]}

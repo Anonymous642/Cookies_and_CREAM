@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Playback Speed", "description": "An easy way to change video playback speed", "version": "0.2.5", "manifest_version": 2, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab", "tabs"]}

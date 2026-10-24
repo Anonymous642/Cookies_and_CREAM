@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Jira panels hider", "description": "", "version": "0.0.2", "manifest_version": 2, "content_scripts": [{"matches": ["https://*.atlassian.net/*"], "run_at": "document_start", "js": ["panel_hider.js"]}]}

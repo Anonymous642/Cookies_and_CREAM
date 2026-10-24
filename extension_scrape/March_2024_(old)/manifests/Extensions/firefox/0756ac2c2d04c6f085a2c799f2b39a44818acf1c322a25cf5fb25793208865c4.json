@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Toggle Pixiv Recommended", "version": "1.0", "author": "Ao", "description": "Adds a button to toggle the obstructive 'Recommended Users' bar on Pixiv without closing it completely.", "content_scripts": [{"matches": ["*://*.pixiv.net/*"], "js": ["PixivRecs.js"]}]}

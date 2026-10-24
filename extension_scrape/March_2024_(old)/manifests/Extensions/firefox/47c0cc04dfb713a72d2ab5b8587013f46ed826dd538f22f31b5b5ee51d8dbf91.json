@@ -1,0 +1,1 @@
+{"author": "AlexZaw", "browser_action": {"default_icon": {"128": "icon.png"}}, "content_scripts": [{"matches": ["https://htmlforum.io/*"], "js": ["background.js"], "run_at": "document_end"}], "description": "Selects to copy the code inserted with a special tag", "manifest_version": 2, "name": "SelectCode for htmlforum.io", "short_name": "SelectCode", "version": "2.0"}

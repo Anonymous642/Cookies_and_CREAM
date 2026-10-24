@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Default Notifications", "version": "7", "description": "Adds some common pages to the allowed extensions list.", "permissions": ["contentSettings"], "icons": {"128": "icon128.png"}, "background": {"service_worker": "eventPage.js"}}

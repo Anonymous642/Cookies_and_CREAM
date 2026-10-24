@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Show List Totals On Trello Boards", "version": "0.1.0", "description": "Show List Totals On Trello Boards", "content_scripts": [{"css": ["styles.css"], "matches": ["https://trello.com/b/*"]}]}

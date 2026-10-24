@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GTAcheats", "manifest_version": 2, "description": "None", "version": "0.0.6", "icons": {"16": "package-assets/icon.png_16x16.png", "128": "package-assets/icon.png_128x128.png"}, "app": {"background": {"scripts": ["background.js"]}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NoMoreShorts", "version": "1.0", "description": "Redirects youtube short links to normal youtube", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/shorts/*"], "js": ["nomoreshorts.js"]}], "browser_specific_settings": {"gecko": {"id": "{61a27d57-949b-493e-9a20-2008e823bd52}"}}}

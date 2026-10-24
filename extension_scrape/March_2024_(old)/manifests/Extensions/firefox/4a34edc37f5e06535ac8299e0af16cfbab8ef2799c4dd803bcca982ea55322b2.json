@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube SpeedUp", "version": "1.0.5", "description": "A simple firefox extension to speed up youtube videos", "icons": {"48": "icons/logo.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["index.js"]}], "browser_specific_settings": {"gecko": {"id": "{05528bd5-3341-4084-bac0-c3a61d568e44}"}}}

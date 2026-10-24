@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "News filter for news247.gr", "version": "0.6", "description": "News filter for news247.gr", "permissions": ["storage"], "content_scripts": [{"matches": ["https://*.news247.gr/*"], "js": ["jquery.js", "content.js"]}]}

@@ -1,0 +1,1 @@
+{"name": "InstaLove", "version": "0.0.2", "description": "Auto-like for instagram posts", "permissions": ["activeTab", "contextMenus"], "background": {"scripts": ["background.js"]}, "manifest_version": 2}

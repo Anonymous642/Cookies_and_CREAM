@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Image conv to eps", "description": "\u753b\u50cf\u3092eps\u5f62\u5f0f\u30d5\u30a1\u30a4\u30eb\u306b\u5909\u63db", "version": "0.1", "permissions": ["contextMenus"], "background": {"scripts": ["main.js"]}, "icons": {"128": "128.png"}, "manifest_version": 2}

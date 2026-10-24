@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "short_name": "New Tab Markdown", "name": "New Tab Markdown", "version": "1.0.5", "author": "Helge Ahrens", "description": "Store your thoughts, todos, goals easily on every tab.", "manifest_version": 3, "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"128": "logo128.png"}}

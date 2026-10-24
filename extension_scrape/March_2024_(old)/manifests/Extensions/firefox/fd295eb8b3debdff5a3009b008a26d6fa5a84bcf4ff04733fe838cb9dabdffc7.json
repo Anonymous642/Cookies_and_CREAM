@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "New Brand Tab", "version": "1.2", "description": "Firefox Brand styled new tab page with clock and date.", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{f034f303-e4be-4b27-9f8a-5fb389b7496e}"}}}

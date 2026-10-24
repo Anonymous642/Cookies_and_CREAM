@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CacheCleaner Pro", "description": "CacheCleaner Pro offers one-click cache clearing and hard reloads, eliminating the need for manual interventions. ", "version": "1.0.2", "permissions": ["contextMenus"], "background": {"service_worker": "background.js"}}

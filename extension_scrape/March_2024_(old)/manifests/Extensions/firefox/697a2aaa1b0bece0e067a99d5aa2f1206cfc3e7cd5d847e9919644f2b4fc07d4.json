@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "KBFinder for Firefox", "version": "1.1", "description": "Finds KB identifier for you on Microsoft support pages.", "icons": {"48": "kb48.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "kb32.png", "default_title": "KBFinder", "default_popup": "popup/kb.html"}}

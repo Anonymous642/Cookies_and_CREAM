@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Speed Linker FREE", "version": "1.0.0", "description": "Free version of Speed Linker.  The fastest and easiest way to find and share links from your Chrome browser.", "manifest_version": 2, "browser_action": {"default_popup": "demo.html", "default_icon": "logo.png"}, "permissions": ["storage"]}

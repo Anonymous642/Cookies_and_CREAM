@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "red-green-prs", "version": "1.0", "description": "A silly little project to swap the green and red on PRs in GitHub. Added lines bad. Deleted lines goood.", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.github.com/*"], "js": ["better-github.js"]}]}

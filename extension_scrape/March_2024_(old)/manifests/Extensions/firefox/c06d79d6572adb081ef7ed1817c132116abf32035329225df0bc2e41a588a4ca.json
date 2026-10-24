@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Monospacifier", "version": "1.2", "description": "page font family change to monospace", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["main.js"]}], "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "monospacifier@paledega", "strict_min_version": "52.0"}}}

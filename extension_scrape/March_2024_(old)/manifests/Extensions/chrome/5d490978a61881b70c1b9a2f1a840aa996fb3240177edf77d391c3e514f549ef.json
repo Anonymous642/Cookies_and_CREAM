@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "License checker", "description": "This extension will check the current extension license of a user.", "version": "0.0.0.2", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}}

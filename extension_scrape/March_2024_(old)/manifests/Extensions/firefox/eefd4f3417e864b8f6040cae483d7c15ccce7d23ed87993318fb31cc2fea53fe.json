@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "goo.ne\u691c\u7d22", "version": "1.1", "description": "goo.ne\u8f9e\u5178\u3092\u3001\u3069\u3053\u304b\u3089\u3067\u3082\u3002", "icons": {"48": "icons/48.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{c468dd3f-2057-49a0-9930-9e3576c45c77}"}}}

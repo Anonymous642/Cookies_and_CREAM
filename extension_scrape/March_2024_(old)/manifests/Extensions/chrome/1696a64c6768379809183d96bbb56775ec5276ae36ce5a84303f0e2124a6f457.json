@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Euler Submit Referral", "description": "Quickly submit referrals to your partners.", "version": "1.0", "action": {"default_popup": "chrome.html", "default_icon": "euler-favicon-color.png"}}

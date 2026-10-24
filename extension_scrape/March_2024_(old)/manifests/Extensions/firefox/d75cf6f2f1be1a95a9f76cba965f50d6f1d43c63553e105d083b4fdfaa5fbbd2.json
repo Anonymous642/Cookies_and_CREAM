@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SafeSearchOn", "version": "1.0", "description": "Turn on SafeSearch on Google without using cookies or accounts", "content_scripts": [{"matches": ["*://*.google.com/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{529545ec-f9cf-47d8-8c90-c797d79d28f5}"}}}

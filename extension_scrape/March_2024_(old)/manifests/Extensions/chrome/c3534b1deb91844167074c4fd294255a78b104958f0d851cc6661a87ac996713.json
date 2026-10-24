@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Facebook AdBlock", "manifest_version": 3, "version": "1.0", "description": "Block Facebook ads", "permissions": [], "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["adblock.js"], "run_at": "document_end", "all_frames": true}]}

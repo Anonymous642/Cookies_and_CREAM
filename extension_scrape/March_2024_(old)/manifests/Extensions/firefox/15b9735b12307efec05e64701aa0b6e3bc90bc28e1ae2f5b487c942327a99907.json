@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "xkcd_doodle", "version": "1.0", "content_scripts": [{"matches": ["https://www.google.cl/*"], "js": ["page_eater.js"], "css": ["page_eater.css"]}], "permissions": ["https://xkcd.com/*", "storage"], "options_ui": {"page": "options.html"}}

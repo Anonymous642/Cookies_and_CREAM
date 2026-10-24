@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SPOJ-ToDo", "version": "1.0", "description": "Easily add problems to a ToDo list and view them in profile.", "content_scripts": [{"matches": ["*://*.spoj.com/myaccount/"], "js": ["profile.js"]}, {"matches": ["*://*.spoj.com/problems/*"], "js": ["problem.js"]}]}

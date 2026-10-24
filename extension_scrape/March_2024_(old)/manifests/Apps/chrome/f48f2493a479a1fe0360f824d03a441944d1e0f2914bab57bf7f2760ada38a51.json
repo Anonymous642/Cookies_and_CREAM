@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "DetCalc", "description": "This app does one simple thing. It calculates determinant and x, y, z for small systems.", "version": "0.5.5", "offline_enabled": true, "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "detlogo5.png", "128": "detlogo5.png"}}

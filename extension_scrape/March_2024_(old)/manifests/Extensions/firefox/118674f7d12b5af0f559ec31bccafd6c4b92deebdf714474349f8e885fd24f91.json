@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Soporific Player", "version": "1.0", "content_scripts": [{"matches": ["*://www.youtube.com/watch*"], "js": ["extension.js"], "run_at": "document_start"}]}

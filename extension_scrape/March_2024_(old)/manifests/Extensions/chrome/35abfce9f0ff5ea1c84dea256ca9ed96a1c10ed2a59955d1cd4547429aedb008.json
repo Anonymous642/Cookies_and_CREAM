@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Image Copier For Instsgram", "version": "1", "images": {"128": "128.png"}, "description": "Copies url of instagram image when clicked on an instagram image", "content_scripts": [{"matches": ["https://www.instagram.com/*"], "js": ["copySrc.js"], "css": ["styles.css"]}]}

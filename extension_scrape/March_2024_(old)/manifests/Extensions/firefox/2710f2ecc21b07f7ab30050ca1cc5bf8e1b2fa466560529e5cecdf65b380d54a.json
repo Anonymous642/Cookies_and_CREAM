@@ -1,0 +1,1 @@
+{"description": "Adds night mode to Wuxiaworld", "manifest_version": 2, "name": "Wuxia Night", "version": "1.0", "icons": {"48": "icons/border-48.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/border-48.png", "default_title": "Wuxia Night"}, "content_scripts": [{"matches": ["*://*.wuxiaworld.com/*"], "js": ["borderify.js"]}]}

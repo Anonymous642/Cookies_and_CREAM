@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Delete Page", "version": "5.0", "description": "Delete front pages.", "content_scripts": [{"matches": ["https://www.twitch.tv/*"], "js": ["main.js"]}]}

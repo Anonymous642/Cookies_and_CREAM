@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Send SMS from Google Sheet", "version": "8.0", "description": "Automation Send SMS from Google Sheet", "icons": "icon.png", "api_console_project_id": "821472267781"}

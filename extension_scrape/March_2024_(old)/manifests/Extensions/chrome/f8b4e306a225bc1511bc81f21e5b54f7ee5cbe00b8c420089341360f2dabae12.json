@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Spotify Bookmark", "version": "1.1", "description": "A chrome extension that instantly opens Spotify Web Player when clicked", "icons": {"16": "spotify.png", "48": "spotify.png", "128": "spotify.png"}, "browser_action": {"default_icon": "spotify.png", "default_popup": "popup.html"}}

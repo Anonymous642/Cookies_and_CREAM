@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Imgkk.com Remote Upload", "version": "2.1", "description": "Quickly and easily remote upload images to imgkk.com", "permissions": ["contextMenus"], "background": {"scripts": ["imgkk.js"]}, "icons": {"16": "icon16.png", "128": "icon128.png"}}

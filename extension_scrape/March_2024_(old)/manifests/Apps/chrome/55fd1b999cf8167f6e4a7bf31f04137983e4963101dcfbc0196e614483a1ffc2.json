@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Reformas Arias", "description": "Relaci\u00f3n de obras actuales para poder seguir en tiempo real desde la obra", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "arias_icon.png"}, "app": {"urls": ["http://reformasarias.es/"], "launch": {"web_url": "http://reformasarias.es/clientes.php"}}}

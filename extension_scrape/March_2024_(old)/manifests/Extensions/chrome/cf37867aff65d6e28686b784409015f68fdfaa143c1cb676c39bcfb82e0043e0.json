@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Abmatrix Jenkins Button", "version": "1.2", "description": "Add jenkins button to gitlab page", "icons": {"48": "icons/worker-48.png"}, "content_scripts": [{"matches": ["*://*.gitlab.com/abmatrix/*"], "js": ["button.js"]}]}

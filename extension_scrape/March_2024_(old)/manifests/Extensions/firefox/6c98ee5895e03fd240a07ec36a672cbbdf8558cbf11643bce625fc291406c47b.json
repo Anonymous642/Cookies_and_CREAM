@@ -1,0 +1,1 @@
+{"name": "Remove YouTube\u2122 Tab Number", "version": "0.5", "description": "Removes the number of notifications in parentheses that YouTube displays on tabs", "content_scripts": [{"js": ["content.js"], "matches": ["*://*.youtube.com/*"]}], "icons": {"48": "rytn-icon-48.png", "96": "rytn-icon-96.png"}, "manifest_version": 2}

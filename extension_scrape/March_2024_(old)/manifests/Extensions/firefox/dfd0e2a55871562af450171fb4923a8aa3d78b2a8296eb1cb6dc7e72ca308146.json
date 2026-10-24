@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Background Changer", "version": "1.0", "description": "Changes the background color of a webpage.", "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{0b0c6e82-b7c6-4d3b-9411-2799d93dc126}"}}}

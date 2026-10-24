@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WLG - Link Generator", "description": "Converse com a pessoa desejada atrav\u00e9s da rede social verdinha da meta! Apenas colocando o telefone do contato desejado :)", "version": "1.0.2.1", "manifest_version": 3, "icons": {"128": "128_2.png"}, "action": {"default_popup": "popup.html"}}

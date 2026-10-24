@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Best Pics Tab", "manifest_version": 3, "version": "1.4", "description": "This Extension changes the background on the new tab.", "icons": {"16": "logo.png", "48": "logo.png", "128": "logo.png"}, "chrome_url_overrides": {"newtab": "newimg.html"}}

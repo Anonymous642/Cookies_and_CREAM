@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mangatown Reader", "version": "1.0.2", "description": "An add-on to make reading manga on mangatown more pleasant.", "content_scripts": [{"matches": ["http://www.mangatown.com/manga/*/c*"], "css": ["styles.css"], "js": ["./js/lib.js", "./js/reader.js"], "run_at": "document_start"}], "icons": {"16": "icon-16.ico", "48": "icon-48.png"}}

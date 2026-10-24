@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "YMLI - Youtube Music Like Inverter", "description": "Invert Youtube Music like and dislike button to be like Youtube (Like first and dislike second).", "version": "1.1", "manifest_version": 3, "content_scripts": [{"matches": ["https://music.youtube.com/*"], "css": ["ymli.css"]}]}

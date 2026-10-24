@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Voyager Search", "description": "Voyager Search Extension", "version": "1.0", "manifest_version": 2, "icons": {"128": "icon.png"}, "content_scripts": [{"all_frames": true, "matches": ["*://*/*"], "js": ["content.js"]}], "background": {"scripts": ["background.js"], "persistent": false}}

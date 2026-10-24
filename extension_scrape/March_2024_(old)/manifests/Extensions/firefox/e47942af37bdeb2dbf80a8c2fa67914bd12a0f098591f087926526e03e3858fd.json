@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MyRoutes Routeplanner", "short_name": "MyRoutes", "description": "Routeplanning tool for hikers, runners, cyclists, who want to follow their own specific path on a more detailed map", "version": "1.0.1", "icons": {"128": "icon.png"}, "browser_action": {"default_icon": "icon.png"}, "permissions": ["tabs"], "background": {"scripts": ["app.js"]}}

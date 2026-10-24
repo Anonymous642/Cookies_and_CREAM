@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "AtCoder Opener", "version": "1.0", "browser_action": {"default_popup": "window.html"}, "permissions": ["tabs"], "background": {"matches": ["https://atcoder.jp/contests/*"], "scripts": ["bg.js"]}}

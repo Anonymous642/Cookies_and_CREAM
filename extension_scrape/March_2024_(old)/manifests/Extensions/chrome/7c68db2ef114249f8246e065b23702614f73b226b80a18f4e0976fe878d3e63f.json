@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ClickUp GFM Editor", "description": "Replace clickup editor with GFM.", "version": "1.0.1", "manifest_version": 2, "content_scripts": [{"matches": ["https://app.clickup.com/*"], "js": ["./clickup.js"], "css": ["./style.css"]}]}

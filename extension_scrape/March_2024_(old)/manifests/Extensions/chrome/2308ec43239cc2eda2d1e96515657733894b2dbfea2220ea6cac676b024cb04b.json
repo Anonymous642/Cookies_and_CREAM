@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "image maker", "description": "image maker", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "image_maker.html", "default_icon": "hello_extensions.png"}}

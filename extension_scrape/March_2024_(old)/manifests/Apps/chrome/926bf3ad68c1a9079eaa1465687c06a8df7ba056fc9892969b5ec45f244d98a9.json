@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Image'n'it", "description": "Create all sorts of images by just imagining and creating it.", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "Image'n'it128.png"}, "app": {"urls": ["http://imagenit.surge.sh/"], "launch": {"web_url": "http://imagenit.surge.sh/"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "VidF", "version": "1.0", "description": "Control+F for Youtube", "action": {"default_icon": {"128": "/vidf_logo.png"}, "default_popup": "index.html"}, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["content-script.js"]}], "permissions": ["tabs", "storage"]}

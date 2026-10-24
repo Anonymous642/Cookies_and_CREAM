@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Like Shortcut", "version": "1.0", "description": "Create\u00b4s a shortcut to like a Youtube Video", "icons": {"48": "border-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["sidebar/main.js"]}]}

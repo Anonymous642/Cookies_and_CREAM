@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Gerador de dados", "version": "1.0", "description": "Gerador de dados simples para teste de aplica\u00e7\u00f5es.", "action": {"default_popup": "app/index.html"}, "icons": {"128": "app/assets/image/icon128.png"}, "manifest_version": 3}

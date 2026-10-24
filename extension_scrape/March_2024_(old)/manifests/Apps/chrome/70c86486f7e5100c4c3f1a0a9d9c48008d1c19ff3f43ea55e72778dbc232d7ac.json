@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Swadesiya", "description": "News & Media: Make In India, Made in India, Swachh Bharat News n more!", "version": "0.0.0.4", "icons": {"128": "icon_128.png"}, "app": {"urls": ["HTTP://WWW.blog.swadesiya.com/"], "launch": {"web_url": "HTTP://WWW.blog.swadesiya.com/"}}}

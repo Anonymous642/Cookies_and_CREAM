@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "steam-account-history-to-csv", "version": "1.0.0", "description": "Convert Steam account history table into csv file for further edits in Excel", "icons": {"32": "icon-32.png", "48": "icon-48.png"}, "content_scripts": [{"matches": ["https://store.steampowered.com/account/history/"], "js": ["index.js"]}]}

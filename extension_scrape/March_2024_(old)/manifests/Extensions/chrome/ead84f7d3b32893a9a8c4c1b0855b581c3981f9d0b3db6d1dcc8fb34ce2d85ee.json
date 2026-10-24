@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Form to Sheets Extension", "description": "Submit form data to Google Sheets", "version": "1.0.0", "manifest_version": 3, "action": {"default_popup": "index.html"}, "background": {"service_worker": "background.js"}, "permissions": ["identity", "tabs", "activeTab"]}

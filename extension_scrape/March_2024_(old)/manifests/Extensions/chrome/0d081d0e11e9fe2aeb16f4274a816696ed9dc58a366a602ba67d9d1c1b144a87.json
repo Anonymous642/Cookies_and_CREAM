@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Music Player", "description": "This extension is developed by smart techi", "version": "1.1", "browser_action": {"default_icon": "images/Music.png", "default_popup": "popup.html"}}

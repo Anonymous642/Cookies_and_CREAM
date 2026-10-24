@@ -1,0 +1,1 @@
+{"app": {"launch": {"local_path": "index.html"}}, "description": "Find a great resources for your creative projects. Sell your talent and create new art", "icons": {"16": "icon_16.png", "48": "icon_48.png", "128": "icon_128.png"}, "manifest_version": 2, "name": "Art-Fu", "offline_enabled": true, "update_url": "http://clients2.google.com/service/update2/crx", "version": "1.0"}

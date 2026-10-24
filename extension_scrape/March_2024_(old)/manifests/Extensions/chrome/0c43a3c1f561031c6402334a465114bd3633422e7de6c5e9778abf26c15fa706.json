@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "La Chasse", "description": "A quoi reconnait-on un bon chasseur ?", "version": "0.0.1", "manifest_version": 3, "author": "crasse", "content_scripts": [{"matches": ["*://*/*"], "all_frames": true, "js": ["content_script.js"], "run_at": "document_end"}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Auto open replies in Microsoft Teams Web", "version": "1.0", "description": "Auto opens 'See more' and 'replies from' when running Microsoft Teams Web.", "manifest_version": 2, "content_scripts": [{"matches": ["https://teams.microsoft.com/*"], "js": ["index.js"]}]}

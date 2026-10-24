@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quote Popup", "version": "1.0", "description": "Shows a popup with a quote about hard work or passive income when clicked.", "icons": {"48": "icon.png"}, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{06b232de-45c7-4760-ac02-f9263d7f9b8c}"}}}

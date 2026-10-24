@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "forceRefresh", "version": "1.0", "description": "adds forceRefresh=1 to end of url and refreshes the page", "icons": {"64": "icons/icon.png"}, "permissions": ["<all_urls>", "tabs"], "background": {"scripts": ["forceRefresh.js"]}, "browser_action": {"default_icon": {"64": "icons/icon.png"}}}

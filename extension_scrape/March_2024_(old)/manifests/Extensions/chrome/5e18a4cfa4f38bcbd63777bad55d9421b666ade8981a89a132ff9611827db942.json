@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "browser_action": {"default_icon": "popn.png"}, "icons": {"128": "popn.png"}, "background": {"scripts": ["script.js"]}, "name": "popn", "version": "1.1", "description": "Atalho para o website https://www.popn.com.br/", "manifest_version": 2}

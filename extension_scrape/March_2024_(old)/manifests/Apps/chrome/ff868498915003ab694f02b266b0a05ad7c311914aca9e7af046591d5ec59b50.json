@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"background": {"scripts": ["background.js"]}}, "manifest_version": 2, "name": "Okuma 360\u02da", "version": "1.0.6", "offline_enabled": true, "permissions": ["fullscreen"], "icons": {"16": "icon-16.png", "128": "icon-128.png"}}

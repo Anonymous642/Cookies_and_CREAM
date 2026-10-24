@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Roblox Pre Sep 2022 Logo", "version": "1.0", "description": "Brings back the pre september 2022 roblox logo.", "icons": {}, "content_scripts": [{"matches": ["*://*.roblox.com/*"], "js": ["app.js"]}], "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{2666ae03-efe4-4e92-9f71-b2857b83e821}"}}}

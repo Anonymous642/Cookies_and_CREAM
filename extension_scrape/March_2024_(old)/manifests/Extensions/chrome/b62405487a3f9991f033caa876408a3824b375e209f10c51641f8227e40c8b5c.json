@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Decitab", "description": "Do more with less and limit yourself to 10 tabs.", "version": "1.1", "manifest_version": 3, "background": {"service_worker": "background.js"}, "permissions": ["notifications"], "icons": {"128": "images/10.png"}}

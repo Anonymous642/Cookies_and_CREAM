@@ -1,0 +1,1 @@
+{"name": "YouTubeMP4", "description": "Watch YouTube videos, without all the bs.", "version": "4.1", "manifest_version": 2, "background": {"scripts": ["background.js"]}, "icons": {"256": "youtubemp4.png"}, "permissions": ["webRequest", "webRequestBlocking", "*://*.youtube.com/watch?v=*"], "browser_specific_settings": {"gecko": {"id": "{3a2964f4-e8a6-46a9-8124-fbe21d133e33}"}}}

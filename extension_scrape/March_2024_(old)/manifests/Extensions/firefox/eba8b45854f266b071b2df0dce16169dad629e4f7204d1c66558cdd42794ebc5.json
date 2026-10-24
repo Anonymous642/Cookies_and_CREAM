@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "no-image-tooltip", "version": "1.0", "description": "Remove the tooltip on images", "icons": {"48": "icons/noAlt-48.svg"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["no-image-tooltip.js"]}], "browser_specific_settings": {"gecko": {"id": "{9ec3062c-526d-4a55-801d-a9383e19838d}"}}}

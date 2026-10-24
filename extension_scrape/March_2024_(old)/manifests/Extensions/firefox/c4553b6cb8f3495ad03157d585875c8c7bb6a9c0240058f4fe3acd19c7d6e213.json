@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Entreguistas", "version": "1.0.0", "description": "O navegador mostra quem \u00e9 'Golpista' de verdade.", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}], "icons": {"128": "icon128.png"}}

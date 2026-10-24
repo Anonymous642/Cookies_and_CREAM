@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Explee", "description": "Create animated videos easily and explain everything to everyone !", "version": "1.1.4", "app": {"urls": ["*://explee.com/"], "launch": {"web_url": "https://explee.com/"}}, "icons": {"128": "export-128-128.png"}}

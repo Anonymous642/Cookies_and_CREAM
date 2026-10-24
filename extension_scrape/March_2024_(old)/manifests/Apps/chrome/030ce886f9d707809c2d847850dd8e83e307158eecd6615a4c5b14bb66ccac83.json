@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Learn Russian", "version": "1", "icons": {"128": "128.png", "256": "256.png"}, "app": {"urls": ["http://polymath.org/russian.php"], "launch": {"web_url": "http://polymath.org/russian.php"}}, "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "etaoBuy", "version": "1.0", "description": "\u7528etao\u7684\u4f18\u60e0\u8d2d\u4e70\u6dd8\u5b9d\u5929\u732b\u5546\u54c1", "background": {"scripts": ["background.js"]}, "permissions": ["tabs"], "page_action": {"default_icon": "etao.png", "default_title": "etaoBuy"}}

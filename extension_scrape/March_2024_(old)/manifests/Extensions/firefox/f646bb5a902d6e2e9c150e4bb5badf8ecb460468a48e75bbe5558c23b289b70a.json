@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube to MP3 Converter - YTMP3.EU", "description": "Youtube to MP3 Converter - YTMP3.EU", "version": "4.5", "background": {"scripts": ["popup.js"]}, "icons": {"48": "icon.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icon.png"}}

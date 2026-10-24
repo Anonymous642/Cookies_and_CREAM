@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Your tasks", "description": "This extension helps you organize your tasks", "version": "3.2", "browser_action": {"default_popup": "index.html", "default_title": "Open the popup"}, "permissions": [], "icons": {"48": "48.png"}}

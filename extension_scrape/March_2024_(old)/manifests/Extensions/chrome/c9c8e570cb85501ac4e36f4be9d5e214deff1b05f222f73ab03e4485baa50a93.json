@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "FastFinderWeb", "version": "0.5.1", "description": "Display an interactive summary for webpage. Navigate easier thanks to this extension", "permissions": ["activeTab"], "browser_action": {"browser_style": true, "default_title": "FastFinderWeb", "default_popup": "index.html"}}

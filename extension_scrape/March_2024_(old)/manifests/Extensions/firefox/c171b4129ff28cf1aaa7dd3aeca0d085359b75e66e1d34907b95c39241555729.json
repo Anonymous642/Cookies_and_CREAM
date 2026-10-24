@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clear Cache", "version": "1.0", "description": "Clears the cache for the website you are accessing.", "permissions": ["storage", "webRequest", "webRequestBlocking", "<all_urls>"], "browser_specific_settings": {"gecko": {"id": "clearcachextension@gmail.com"}}, "background": {"scripts": ["background.js"], "persistent": false}}

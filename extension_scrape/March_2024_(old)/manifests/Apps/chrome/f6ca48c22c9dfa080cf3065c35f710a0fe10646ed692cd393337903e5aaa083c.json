@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Cape Cod Food Pantries", "description": "Map and List of Cape Cod Food Pantries", "version": "5", "app": {"urls": ["http://big.capecodfoodpantries.appspot.com/"], "launch": {"web_url": "http://big.capecodfoodpantries.appspot.com/"}}, "icons": {"48": "48.png", "128": "128.png"}, "manifest_version": 2}

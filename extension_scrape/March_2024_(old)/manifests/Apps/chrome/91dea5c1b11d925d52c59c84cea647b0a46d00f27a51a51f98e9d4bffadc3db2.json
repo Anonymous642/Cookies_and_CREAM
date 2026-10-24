@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Action Story", "manifest_version": 2, "description": "Action Story is a free interactive app to improve English comprehension.", "version": "0.3.6", "offline_enabled": true, "icons": {"16": "icon16.png", "128": "icon.png"}, "permissions": ["storage"], "app": {"background": {"scripts": ["background.js"]}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Text to Speech", "description": "Enable text to speech functionality", "version": "1.0", "icons": {"48": "icons/speak-48.png"}, "background": {"scripts": ["speak.js"]}, "permissions": ["menus", "activeTab", "tabs", "<all_urls>"], "browser_action": {"default_icon": {"48": "icons/speak-48.png"}, "default_title": "Text to Speech"}}

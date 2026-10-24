@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Stadia MOD Cyberpunk", "version": "0.1.2", "description": "Trasforma Stadia con i colori e il logo di Cyberpunk 2077!", "content_scripts": [{"css": ["styles.css"], "matches": ["https://stadia.google.com/*"]}]}

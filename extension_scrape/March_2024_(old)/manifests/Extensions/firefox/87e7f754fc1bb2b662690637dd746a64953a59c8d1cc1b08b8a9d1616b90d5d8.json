@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Go-Links", "version": "1.0.1", "description": "Go to your urls faster by typing go ...", "icons": {"48": "icons/go-links-48.png", "96": "icons/go-links-96.png"}, "omnibox": {"keyword": "go"}, "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{1588642b-61c9-4189-932e-3d419195da6e}"}}}

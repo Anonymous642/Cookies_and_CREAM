@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TU EZ ACCESS", "description": "EASILY NAVIGATE THROUGH TU SITES", "version": "1.0.0", "manifest_version": 3, "icons": {"128": "icon128.png"}, "action": {"default_popup": "appear.html", "default_icon": {"128": "icon-logo.png"}}, "permissions": []}

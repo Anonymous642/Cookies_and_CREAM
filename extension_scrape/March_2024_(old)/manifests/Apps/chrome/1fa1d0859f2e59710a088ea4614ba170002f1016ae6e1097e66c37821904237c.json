@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Chrotheme - Chrome Theme Creator", "description": "A simple theme creator for Chrome and Chromium browsers.", "version": "1.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://chrothemeapp.appspot.com/"], "launch": {"web_url": "http://chrothemeapp.appspot.com/"}}}

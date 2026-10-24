@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Social media controller", "version": "3", "manifest_version": 3, "permissions": ["storage"], "icons": {"48": "well.png"}, "action": {"default_popup": "popup.html", "default_icon": "well.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["redirect.js"]}]}

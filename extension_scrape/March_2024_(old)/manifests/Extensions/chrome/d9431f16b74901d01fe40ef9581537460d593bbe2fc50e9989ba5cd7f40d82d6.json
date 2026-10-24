@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "CopyFace", "version": "1.0", "description": "Copies \u00af\\_(\u30c4)_/\u00af to the clipboard.", "icons": {"48": "icons/copyface-48.png"}, "browser_action": {"default_icon": "icons/copyface-32.png", "default_title": "CopyFace"}, "background": {"scripts": ["copyface.js"]}}

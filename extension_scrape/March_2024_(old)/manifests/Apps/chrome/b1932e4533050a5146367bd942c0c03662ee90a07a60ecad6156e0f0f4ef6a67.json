@@ -1,0 +1,1 @@
+{"name": "Zoho Chat", "description": "__MSG_appDesc__", "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "default_locale": "en", "version": "1.3", "app": {"urls": ["https://chat.zoho.com/"], "launch": {"web_url": "https://chat.zoho.com/"}}, "icons": {"128": "chat_icon_128.png"}}

@@ -1,0 +1,1 @@
+{"content_scripts": [{"css": ["src/main.css"], "js": ["src/main.js"], "matches": ["*://livestreamfails.com/*"]}], "description": "Hide streamers from livestreamfails, keep the drama out.", "icons": {"48": "icon.svg", "96": "icon.svg"}, "manifest_version": 2, "name": "LSF Filter", "permissions": ["storage"], "version": "0.0.1", "web_accessible_resources": ["icon-rm.svg"]}

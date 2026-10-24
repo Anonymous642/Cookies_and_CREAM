@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove HaHa Emo from Facebook", "version": "2.0.2", "description": "Removes Visibility of HaHa react from Facebook pages. Under construction. May not work on all pages. Please feedback. N.B. It only removes visibility.", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["kick-haha.js"]}]}

@@ -1,0 +1,1 @@
+{"name": "Mabna-Toolbar-Notification", "version": "1.0", "description": "Show notifications", "manifest_version": 2, "permissions": ["activeTab", "http://*/*", "https://*/*"], "web_accessible_resources": ["toolbar.html"], "content_scripts": [{"matches": ["*://*/*"], "js": ["add-toolbar.js"]}]}

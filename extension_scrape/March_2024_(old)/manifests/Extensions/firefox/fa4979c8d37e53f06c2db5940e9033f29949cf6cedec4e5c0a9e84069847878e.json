@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Startpage.com Title Changer", "version": "1.0", "description": "Change the title to what you are searching, useful if you have a lot of tabs", "content_scripts": [{"matches": ["*://*.startpage.com/*"], "js": ["renamer.js"]}], "browser_specific_settings": {"gecko": {"id": "startpage@squapedev"}}}

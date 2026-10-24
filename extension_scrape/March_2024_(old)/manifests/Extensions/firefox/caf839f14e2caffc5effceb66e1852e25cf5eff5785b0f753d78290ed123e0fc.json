@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "showModalDialog Shim", "version": "1.1", "description": "showModalDialog shim rewrites deprecated showModalDialog() to window.open() function so it works in newer browsers", "icons": {"128": "icon.png"}, "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["shim.js"]}]}

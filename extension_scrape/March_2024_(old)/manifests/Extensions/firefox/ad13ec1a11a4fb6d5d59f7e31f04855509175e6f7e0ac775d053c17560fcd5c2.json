@@ -1,0 +1,1 @@
+{"description": "A list of 10+ best bitcoin faucets, where satoshis can be earned for free.", "manifest_version": 2, "name": "Top 10+ Bitcoin Faucets ...and more", "version": "3.8", "icons": {"225": "bit.png"}, "permissions": ["activeTab", "storage"], "browser_action": {"default_icon": "bit.png", "default_title": "Best Bitcoin Faucets", "default_popup": "index.html"}}

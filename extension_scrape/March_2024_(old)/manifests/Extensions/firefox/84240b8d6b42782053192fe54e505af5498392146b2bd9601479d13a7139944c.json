@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Move unloaded tabs for Tree Style Tab", "version": "2.4", "applications": {"gecko": {"strict_min_version": "57.0", "id": "{731bf636-c808-4c86-b02f-af462eccc963}"}}, "default_locale": "en", "permissions": ["storage"], "options_ui": {"page": "options/options.html"}, "background": {"scripts": ["common.js", "background.js"]}}

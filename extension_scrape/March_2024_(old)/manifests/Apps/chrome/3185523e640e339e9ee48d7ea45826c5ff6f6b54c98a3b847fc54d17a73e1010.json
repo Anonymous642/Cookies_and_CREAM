@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Chalkup", "description": "Learning made easy. A new learning, communication, and social studying platform for the modern class.", "version": "1.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.chalkup.co/"], "launch": {"web_url": "http://www.chalkup.co/"}}}

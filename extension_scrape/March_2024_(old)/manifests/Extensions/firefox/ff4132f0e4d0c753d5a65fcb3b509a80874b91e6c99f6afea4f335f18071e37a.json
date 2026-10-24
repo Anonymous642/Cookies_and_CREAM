@@ -1,0 +1,1 @@
+{"name": "Chat", "description": "Cool chatGPT", "version": "1.0.2", "manifest_version": 3, "icons": {"16": "icons/16.png", "32": "icons/32.png", "48": "icons/48.png", "128": "icons/128.png"}, "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{bb29a424-8c75-4713-a5a2-7fc9b356adc4}"}}}

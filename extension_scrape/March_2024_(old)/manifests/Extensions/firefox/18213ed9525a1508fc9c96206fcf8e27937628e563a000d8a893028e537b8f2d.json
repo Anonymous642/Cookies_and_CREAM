@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Miv", "version": "1.5", "description": "Some vim like keymappings for Firefox.", "icons": {"48": "icons/bgcolor-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["miv.js"]}], "browser_specific_settings": {"gecko": {"id": "minivim@mathiashh.dk"}}}

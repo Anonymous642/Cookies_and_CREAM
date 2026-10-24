@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Sound Muter", "version": "1.0", "description": "Automatically mutes sound in background tabs", "icons": {"48": "icon.png"}, "permissions": ["tabs"], "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{603c3381-9b80-4c47-a4fb-838c7831dc29}"}}}

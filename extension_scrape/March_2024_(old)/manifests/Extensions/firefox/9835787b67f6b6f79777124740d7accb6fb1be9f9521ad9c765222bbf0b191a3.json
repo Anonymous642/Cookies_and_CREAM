@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Trovocator", "version": "0.1", "description": " Trovocator is experimental addon that helps to support emoji in Trovo chat. ", "icons": {"48": "icons/logo-48.png", "64": "icons/logo-64.png"}, "content_scripts": [{"matches": ["https://trovo.live/drKiray"], "js": ["main.js"]}], "web_accessible_resources": ["smiles/*.png"]}

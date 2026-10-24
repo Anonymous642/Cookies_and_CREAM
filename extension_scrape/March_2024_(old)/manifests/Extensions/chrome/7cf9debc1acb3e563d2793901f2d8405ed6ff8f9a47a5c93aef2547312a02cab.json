@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Google Cached link SERP Checker", "version": "1.0", "description": "Check if a URL is indexed on Google.", "permissions": ["activeTab"], "action": {"default_icon": {"48": "icon.png"}, "default_popup": "popup.html"}}

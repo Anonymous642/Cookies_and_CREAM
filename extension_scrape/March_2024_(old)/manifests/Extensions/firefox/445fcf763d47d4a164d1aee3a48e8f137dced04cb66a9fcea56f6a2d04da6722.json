@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SalesForce Link Grabber", "version": "1.1", "description": "Opens SalesForce Links in Existing Tab", "permissions": ["webNavigation", "*://*.force.com/*", "tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{7fa91da9-9433-4eaf-816e-07721587d29a}"}}}

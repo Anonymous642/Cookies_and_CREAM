@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Whois Tool", "description": "Whois is a tool used to retreive domain or ip address owner information", "version": "1.0.0.0", "manifest_version": 2, "app": {"urls": ["http://www.adminkit.net/whois.aspx"], "launch": {"web_url": "http://www.adminkit.net/whois.aspx"}}, "icons": {"128": "icon_128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Old Reddit", "author": "Jesse Stolwijk", "developer": {"name": "Jesse Stolwijk", "url": "https://github.com/JesseStolwijk"}, "version": "1.0", "description": "Automatically redirect to the old.reddit.com page.", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["background.js"]}]}

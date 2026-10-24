@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "roam-autolink", "version": "1.3", "description": "track and automate words that have been made into links/pages on roam research", "manifest_version": 2, "permissions": ["storage"], "content_scripts": [{"matches": ["https://roamresearch.com/*"], "js": ["content.js"], "run_at": "document_end"}]}

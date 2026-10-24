@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Enhanced Microsoft Planner URL", "version": "1.1", "description": "a tool to allow links to specific microsoft planner tasks and buckets", "manifest_version": 2, "content_scripts": [{"matches": ["https://tasks.office.com/*"], "js": ["content.js"], "run_at": "document_end"}]}

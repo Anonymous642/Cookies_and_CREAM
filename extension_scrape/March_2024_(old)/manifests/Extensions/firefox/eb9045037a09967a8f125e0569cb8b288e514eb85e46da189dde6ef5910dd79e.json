@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bulk Buy", "version": "0.1", "description": "Allows searching in bulk in stores from LigaMagic.com", "browser_action": {"default_icon": {"24": "/icon/search.svg", "48": "/icon/search.svg", "96": "/icon/search.svg"}}, "permissions": ["activeTab"], "background": {"scripts": ["bulk.js"]}}

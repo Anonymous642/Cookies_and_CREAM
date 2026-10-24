@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "HKUST Timetable Addon", "version": "0.5", "description": "Extends the timetable availability", "action": {"default_icon": "icon128.png"}, "permissions": [], "content_scripts": [{"matches": ["https://admlu65.ust.hk/"], "js": ["content-script.js"], "run_at": "document_idle"}]}

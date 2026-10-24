@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clean Username", "version": "0.0.1", "description": "Makes usernames in social-media appear in monotone", "content_scripts": [{"matches": ["*://twitter.com/*"], "js": ["mono-user.js"]}], "browser_specific_settings": {"gecko": {"id": "{02f056ce-90e9-4d8b-8fa5-2fc70c36abaa}"}}}

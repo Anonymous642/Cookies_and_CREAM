@@ -1,0 +1,1 @@
+{"applications": {"gecko": {"id": "removefacebookhello@pavlos.com"}}, "manifest_version": 2, "name": "Facebook Remove Hello Feature", "version": "1.0", "description": "Remove 'Hello Feature' from your chat contacts on facebook.", "permissions": ["https://www.facebook.com/*"], "content_scripts": [{"matches": ["https://www.facebook.com/*"], "css": ["style.css"]}]}

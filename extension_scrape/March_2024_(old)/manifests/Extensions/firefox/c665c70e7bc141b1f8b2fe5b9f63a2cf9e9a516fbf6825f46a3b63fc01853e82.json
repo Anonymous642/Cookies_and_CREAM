@@ -1,0 +1,1 @@
+{"name": "0wikipedia", "version": "1.0.1", "manifest_version": 2, "description": "Otomatik olarak 0wikipedia.org'a y\u00f6nlendiren eklenti.", "permissions": ["*://*.wikipedia.org/*", "webRequest", "webRequestBlocking"], "background": {"scripts": ["background.js"]}}

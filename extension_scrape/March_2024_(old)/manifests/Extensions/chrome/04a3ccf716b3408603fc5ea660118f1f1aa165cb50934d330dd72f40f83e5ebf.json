@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouYong Chinese", "version": "1.1.1", "description": "Speak Chinese like a native!", "action": {"default_popup": "popup.html", "default_icon": {"16": "6.png", "48": "6.png", "128": "1.png"}}, "icons": {"16": "6.png", "48": "6.png", "128": "1.png"}}

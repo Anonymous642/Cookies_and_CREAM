@@ -1,0 +1,1 @@
+{"name": "AstroBox", "version": "0.2.2", "manifest_version": 2, "description": "The AstroBox extension supplies you with the best tools for browsing.", "browser_action": {"default_popup": "popup/popup.html"}, "icons": {"16": "icons/icon16x16.png", "32": "icons/icon32x32.png", "64": "icons/icon64x64.png", "128": "icons/icon128x128.png"}}

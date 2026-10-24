@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "__MSG_appName__", "description": "__MSG_appDesc__", "version": "1.2.1", "default_locale": "es", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.redalumnos.com/"], "launch": {"web_url": "http://www.redalumnos.com/"}}, "permissions": ["unlimitedStorage", "notifications"], "manifest_version": 2}

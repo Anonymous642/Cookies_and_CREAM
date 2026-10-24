@@ -1,0 +1,1 @@
+{"description": "Mute Tab add-on.", "manifest_version": 2, "name": "Mute Tab", "version": "0.2.8", "applications": {"gecko": {"id": "{d3d46ca0-999d-11da-a72b-0800200c9a66}"}}, "permissions": ["menus"], "background": {"scripts": ["background.js"]}}

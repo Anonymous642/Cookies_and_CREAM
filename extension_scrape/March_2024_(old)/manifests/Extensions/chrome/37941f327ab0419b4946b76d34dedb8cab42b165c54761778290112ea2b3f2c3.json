@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Edify - Daily Bible Verse", "version": "1.1.4", "description": "A beautiful new-tab extension.", "author": "Kendal Percimoney", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": [], "icons": {"16": "icon16.png", "128": "icon128.png"}}

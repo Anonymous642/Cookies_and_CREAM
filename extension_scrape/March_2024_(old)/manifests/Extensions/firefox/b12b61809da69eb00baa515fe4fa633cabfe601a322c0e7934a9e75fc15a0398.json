@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "cubari Link Replacer", "version": "1.0", "description": "Replaces links with cubari.moe links", "icons": {"48": "icon48.png", "96": "icon96.png"}, "permissions": ["activeTab", "menus"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{83ca56f8-b06e-4bfc-a604-0d62e284c6b6}"}}}

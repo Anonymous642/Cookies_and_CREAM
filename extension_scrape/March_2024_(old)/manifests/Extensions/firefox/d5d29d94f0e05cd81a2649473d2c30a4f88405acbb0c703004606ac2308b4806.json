@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Quote Popper", "version": "1.0", "description": "Displays quotes about hard work and passive income.", "icons": {"48": "icon.png"}, "browser_action": {"default_icon": {"48": "icon.png"}, "default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{9800eeb9-7af7-4892-ab9d-a3aa1a47e3eb}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Can Explore BIBA Google Extension", "version": "1.0", "description": "Can Explore BIBA Google Extension.", "permissions": ["tabs"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "", "default_icon": "images/icon16.png"}}

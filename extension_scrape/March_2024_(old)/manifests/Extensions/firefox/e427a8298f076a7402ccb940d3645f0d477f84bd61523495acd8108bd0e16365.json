@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Autosort Tabs", "version": "3.1.8", "description": "sorts Tabs automatically", "background": {"scripts": ["background-script.js"]}, "permissions": ["activeTab", "tabs"], "browser_specific_settings": {"gecko": {"id": "{b06f7a31-562f-4013-a21c-a52ba66f859f}"}}}

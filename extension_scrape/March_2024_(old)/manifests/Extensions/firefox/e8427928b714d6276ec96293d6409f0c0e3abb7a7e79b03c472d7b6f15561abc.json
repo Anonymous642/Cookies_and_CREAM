@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "F1TV Spoilers", "version": "2.3", "description": "Removes spoilers from F1 TV", "content_scripts": [{"matches": ["*://f1tv.formula1.com/*"], "js": ["f1tvspoilers.js"], "all_frames": true, "run_at": "document_start"}]}

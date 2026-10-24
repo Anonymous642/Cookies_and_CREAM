@@ -1,0 +1,1 @@
+{"app": {"launch": {"local_path": "main.html"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Gospel Puzzles Romans Road Memory Verse Game For ages 6 and under.", "name": "Kids Memory verse Game", "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "manifest_version": 2, "version": "1.0"}

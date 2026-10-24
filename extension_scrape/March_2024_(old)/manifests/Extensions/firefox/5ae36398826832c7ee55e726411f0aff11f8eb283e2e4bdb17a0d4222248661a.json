@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "\u5fae\u535a\u56fe\u7247\u53cd\u67e5", "description": "\u67e5\u770b\u5fae\u535a\u56fe\u7247\u7684po\u4e3b", "version": "0.1", "icons": {"16": "icon16.png", "128": "icon128.png"}, "permissions": ["contextMenus", "tabs"], "background": {"scripts": ["background.js"]}}

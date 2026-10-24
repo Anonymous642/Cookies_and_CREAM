@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Margin Calculator Extension", "version": "1.0", "description": "Calculators and tutorials on how to calculate finance and math problems.", "permissions": ["activeTab"], "icons": {"48": "logo.png"}, "action": {"default_popup": "popup.html", "default_icon": {"48": "logo.png"}}}

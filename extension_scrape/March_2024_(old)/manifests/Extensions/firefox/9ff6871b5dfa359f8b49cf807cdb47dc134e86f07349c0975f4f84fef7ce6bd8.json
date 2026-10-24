@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NoMod", "version": "1.0", "description": "Remove moderation alert counts from ZesteDeSavoir", "icons": {"48": "icons/nomod.svg"}, "content_scripts": [{"matches": ["*://*.zestedesavoir.com/*"], "js": ["nomod.js"]}]}

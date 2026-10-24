@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Fly", "description": "Software engineer quicklinks.", "version": "1.1.0", "manifest_version": 3, "omnibox": {"keyword": "fly"}, "icons": {"16": "img.png", "32": "img.png", "64": "img.png"}, "permissions": ["storage"], "background": {"service_worker": "background.js", "type": "module"}}

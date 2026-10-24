@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YoutubeDisableHotkeys", "version": "0.3", "description": "Disable Youtube's hotkeys", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["youtube-disable-hotkeys.js"]}]}

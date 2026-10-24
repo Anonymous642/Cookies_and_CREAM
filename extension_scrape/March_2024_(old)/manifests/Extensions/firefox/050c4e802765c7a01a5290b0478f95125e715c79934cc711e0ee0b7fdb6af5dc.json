@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitch chat old chatbox height", "version": "1.1", "description": "Updates the rows to 3 instead of 1 in twitch chat textarea", "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["extension.js"]}]}

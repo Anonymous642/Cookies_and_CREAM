@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "__MSG_appName__", "version": "2.5.32", "description": "__MSG_appDesc__", "author": "Gus Gaidelevicius", "default_locale": "en", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["geolocation", "storage"], "icons": {"128": "favicon.png"}, "browser_specific_settings": {"gecko": {"id": "{9282bc49-b1b4-4f46-b135-1dfe00f182c9}"}}}

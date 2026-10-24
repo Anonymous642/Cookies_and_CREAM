@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Calculatorre", "version": "1.1.1", "description": "Basic calculator, nice design.", "manifest_version": 3, "author": "Torrextension", "icons": {"128": "icon128.png"}, "action": {"default_popup": "index.html", "default_icon": "icon128.png"}, "permissions": ["storage"]}

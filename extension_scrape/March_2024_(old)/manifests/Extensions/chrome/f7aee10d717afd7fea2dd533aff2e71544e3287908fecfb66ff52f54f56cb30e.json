@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "CSS Coffee", "description": "Learn a little bit of CSS every day", "version": "0.1", "permissions": ["alarms", "notifications"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "index.html", "default_icon": "css-coffee.png"}}

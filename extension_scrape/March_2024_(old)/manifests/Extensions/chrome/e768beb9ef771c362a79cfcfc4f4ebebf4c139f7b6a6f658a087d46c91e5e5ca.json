@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab of Chaos", "version": "1.0.1", "description": "A relaxing simulation of chaotic bouncy balls in your new tab browser.", "icons": {"16": "assets/16.png", "48": "assets/48.png", "128": "assets/128.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hangman Chrome Extension", "version": "2.0", "description": "A simple Hangman game as a Chrome extension", "action": {"default_popup": "popup.html"}, "permissions": ["storage"], "host_permissions": ["https://api.datamuse.com/"]}

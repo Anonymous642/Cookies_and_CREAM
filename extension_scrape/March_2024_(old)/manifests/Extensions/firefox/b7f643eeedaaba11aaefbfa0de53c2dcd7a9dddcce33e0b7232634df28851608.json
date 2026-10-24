@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fast Reader", "author": "Siegfried Keller", "version": "1.1", "description": "source available at github: github.com/k3ll3x", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["main.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "HOC haifa Bag", "version": "1.0.0", "description": "top used websites for CS student", "manifest_version": 3, "author": "Mohammad Yosef", "icons": {"128": "bagicon.png"}, "action": {"default_popup": "main.html", "default_title": "HOC haifa Bag"}}

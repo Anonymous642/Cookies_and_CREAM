@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "What Today? Extension", "description": "", "version": "0.5", "chrome_url_overrides": {"newtab": "./public/index.html"}}

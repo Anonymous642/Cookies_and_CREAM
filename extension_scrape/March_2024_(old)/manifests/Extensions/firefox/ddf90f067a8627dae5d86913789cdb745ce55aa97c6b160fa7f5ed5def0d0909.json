@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Treehouse Video Big", "version": "1.0", "description": "Makes Treehouse videos bigger on small screens.", "icons": {"48": "icons/videobig-48.png", "96": "icons/videobig-96.png"}, "content_scripts": [{"matches": ["*://teamtreehouse.com/*"], "js": ["jquery.js", "videobig.js"]}]}

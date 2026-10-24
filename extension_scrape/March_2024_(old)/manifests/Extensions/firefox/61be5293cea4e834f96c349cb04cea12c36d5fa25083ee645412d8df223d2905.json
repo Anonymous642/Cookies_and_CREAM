@@ -1,0 +1,1 @@
+{"name": "Pure URL", "version": "1.3.0a", "description": "Removes garbage like \"utm_source\" from URLs", "author": "Evgeny Vrublevsky", "homepage_url": "http://veg.by/", "icons": {"48": "icon48.png"}, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "manifest_version": 2}

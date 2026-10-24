@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "pikmin", "version": "1.0.0", "description": "pikmin", "manifest_version": 3, "author": "pikmin", "action": {"default_popup": "index.html", "default_title": "pikmin"}, "icons": {"16": "icon16.png", "32": "icon32.png", "64": "icon64.png", "128": "icon128.png"}}

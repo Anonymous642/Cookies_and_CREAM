@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "unBlurd. by wumbl3.", "version": "69.420.3", "content_scripts": [{"matches": ["*://twitter.com/*", "*://x.com/*"], "js": ["main.js"], "run_at": "document_idle"}], "icons": {"128": "128.png"}}

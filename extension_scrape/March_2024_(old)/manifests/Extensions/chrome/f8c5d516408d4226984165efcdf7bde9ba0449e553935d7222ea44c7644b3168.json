@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "monkeytype steno assist", "version": "0.1.0", "description": "shows steno translation for each word", "manifest_version": 3, "author": "Autumn Variation", "host_permissions": ["https://monkeytype.com/"], "content_scripts": [{"matches": ["https://monkeytype.com/"], "js": ["contentScripts.js"]}]}

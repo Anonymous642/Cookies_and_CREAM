@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "No Horizon", "version": "1.0.0", "description": "Remove horizontal scroll from pages by scaling them to fit in the current window.", "content_scripts": [{"css": ["style.css"], "js": ["app.js"], "matches": ["*://*/*"]}]}

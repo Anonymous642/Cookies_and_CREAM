@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "StudyBetter", "description": "Upgrade your studies with StudyBetter!", "version": "1.0", "content_scripts": [{"js": ["inject.js"], "matches": ["*://*.study.com/*"]}], "icons": {"16": "images/16 x 16.png", "48": "images/48 x 48.png", "128": "images/128 x 128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Hctuan Live Alert", "description": "Rejoins moi en live \u00e0 tout moment !", "version": "2.0", "background": {"scripts": ["background.js"]}, "action": {"default_popup": "popup.html"}, "icons": {"64": "/img/icon.png"}, "browser_specific_settings": {"gecko": {"id": "FirefoxWebExtension@hctuan.fr"}}, "permissions": ["alarms", "notifications"]}

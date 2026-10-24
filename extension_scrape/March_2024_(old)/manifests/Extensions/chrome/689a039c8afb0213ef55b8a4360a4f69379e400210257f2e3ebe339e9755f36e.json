@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Mailway - temporary email address generator", "description": "Temporary email address generator", "version": "1.0.2", "browser_action": {"default_popup": "popup.html"}, "permissions": ["clipboardWrite", "cookies", "storage", "https://api.mailway.app/*", "https://dash.mailway.app/*"]}

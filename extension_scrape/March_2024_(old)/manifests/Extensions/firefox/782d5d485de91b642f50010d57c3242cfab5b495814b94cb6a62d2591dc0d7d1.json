@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MTM revealer", "description": "Lenovo MTM revealer", "version": "1.2", "icons": {"48": "icons/image-48.png"}, "permissions": ["menus", "activeTab", "https://download.lenovo.com/bsco/public/allModels.json"], "background": {"scripts": ["script.js"]}, "browser_specific_settings": {"gecko": {"id": "{cf778d64-33dc-40ff-8803-e81681a98a86}"}}}

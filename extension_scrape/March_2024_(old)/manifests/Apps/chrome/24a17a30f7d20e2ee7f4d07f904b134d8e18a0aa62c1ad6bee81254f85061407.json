@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Room 77", "version": "1.0.3", "manifest_version": 2, "description": "Save up to 50% on more than 200,000 hotels worldwide.", "icons": {"128": "icon.png"}, "app": {"launch": {"web_url": "http://www.room77.com/?utm_source=chrome&utm_medium=app"}}}

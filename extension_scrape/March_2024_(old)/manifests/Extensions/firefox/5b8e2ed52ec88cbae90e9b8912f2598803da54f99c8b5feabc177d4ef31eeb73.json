@@ -1,0 +1,1 @@
+{"name": "Route Mark", "version": "1.0", "description": "Firefox extension for makking bookmarks easier to access", "permissions": ["storage", "tabs", "unlimitedStorage"], "browser_action": {"default_title": "Google Mail", "default_popup": "pop.html"}, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "manifest_version": 2}

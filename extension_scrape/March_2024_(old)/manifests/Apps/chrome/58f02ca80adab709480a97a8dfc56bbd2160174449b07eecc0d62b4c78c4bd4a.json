@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://www.kcgames.com/games/playing-with-fire-2.html?p"], "launch": {"web_url": "http://www.kcgames.com/games/playing-with-fire-2.html?p"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "__MSG_appDesc__", "default_locale": "en", "name": "__MSG_appName__", "icons": {"128": "128.png"}, "manifest_version": 2, "version": "1.2.2"}

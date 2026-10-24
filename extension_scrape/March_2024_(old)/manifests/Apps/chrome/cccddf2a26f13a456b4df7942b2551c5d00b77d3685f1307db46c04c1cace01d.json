@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\uc815\ub2e4\uc6b4\uc758 \uc790\uae30\uc18c\uac1c\uc11c", "description": "\ub108\ubb34\ub098\ub3c4 \uc798\uc0dd\uae34 \ub098\ub97c \uc18c\uac1c\ud569\ub2c8\ub2e4.", "manifest_version": 2, "version": "0.1", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"128": "icon128.png"}}

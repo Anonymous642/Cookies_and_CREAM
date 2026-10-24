@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Github wide view", "version": "0.0.1", "manifest_version": 2, "description": "Change Github body content to be responsive to your browser width", "content_scripts": [{"matches": ["https://github.com/*/files*", "https://github.com/*/blob*"], "js": ["re-style.js"], "css": ["style.css"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Clock Extreme", "version": "0.0.1", "description": "A simple clock extension for Chrome", "action": {"default_popup": "index.html"}, "icons": {"16": "./assets/icon16.png", "48": "./assets/icon48.png", "128": "./assets/icon128.png"}}

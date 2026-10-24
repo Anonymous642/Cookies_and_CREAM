@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "author": "fearOfCode", "name": "Blank", "description": "Stay focused", "version": "1.3.0", "chrome_url_overrides": {"newtab": "views/index.html"}, "icons": {"16": "icons/16.png", "48": "icons/48.png", "128": "icons/128.png"}, "default_locale": "en", "offline_enabled": true, "manifest_version": 2}

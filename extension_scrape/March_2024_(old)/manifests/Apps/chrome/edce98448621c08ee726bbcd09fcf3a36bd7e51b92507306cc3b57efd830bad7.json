@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Italiansubs", "description": "Accesso rapido ad Italiansubs.net", "version": "1.0.0", "manifest_version": 2, "app": {"urls": [], "launch": {"web_url": "http://www.italiansubs.net/"}}, "icons": {"128": "logo-128.png"}, "permissions": []}

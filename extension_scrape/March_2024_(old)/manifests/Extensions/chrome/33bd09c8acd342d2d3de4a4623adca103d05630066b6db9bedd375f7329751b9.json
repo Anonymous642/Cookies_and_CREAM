@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tab Manager Pro", "description": "Tab Manager Pro - save tabs as groups and revisit them in the future", "version": "0.0.4", "icons": {"128": "images/icon-128.png"}, "action": {"default_popup": "popup.html"}, "host_permissions": [], "permissions": ["tabs", "storage"]}

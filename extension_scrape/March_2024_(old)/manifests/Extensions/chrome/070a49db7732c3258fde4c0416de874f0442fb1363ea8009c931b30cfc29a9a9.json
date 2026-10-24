@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MiniCal", "description": "A pop-up calendar for quick reference", "version": "0.01", "author": "Thomas Hammerlund", "icons": {"128": "images/icon128.png"}, "action": {"default_icon": "images/icon128.png", "default_popup": "calendar.html"}}

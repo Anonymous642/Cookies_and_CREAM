@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No Notifications on Tab Mute", "version": "1.0", "description": "When Muting a Tab, this extension disables the pop-up notifications as well", "homepage_url": "https://github.com/kidsil/no-notify-on-mute.git", "background": {"scripts": ["no-notify-on-mute.js"], "persistent": true}, "permissions": ["<all_urls>"]}

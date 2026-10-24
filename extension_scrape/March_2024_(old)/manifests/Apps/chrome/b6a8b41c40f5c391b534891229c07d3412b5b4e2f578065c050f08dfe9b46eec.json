@@ -1,0 +1,1 @@
+{"app": {"launch": {"local_path": "Quizoteria.html"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Quizoteria (Trivia Game)", "name": "Quizoteria", "icons": {"16": "Quizoteria-16.png", "48": "Quizoteria-48.png", "128": "Quizoteria-128.png"}, "requirements": {"3D": {"features": ["css3d", "webgl"]}}, "manifest_version": 2, "version": "1.3.1"}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MVCharts", "description": "Music Video Charts - www.mvcharts.com", "version": "0.1", "manifest_version": 2, "minimum_chrome_version": "24.0.1307.0", "app": {"background": {"scripts": ["chromeApp.js"]}}, "permissions": ["storage", "webview"], "icons": {"16": "logo16.png", "128": "logo128.png"}}

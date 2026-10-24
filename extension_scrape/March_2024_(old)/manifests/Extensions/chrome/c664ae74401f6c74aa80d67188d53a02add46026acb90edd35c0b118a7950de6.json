@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "action": {"default_icon": {"128": "favicon.png"}}, "chrome_url_overrides": {"newtab": "build/index.html"}, "description": "Troyan Citation Weather Tab", "icons": {"128": "favicon.png"}, "host_permissions": [], "manifest_version": 3, "name": "Troyan Citation Weather Tab", "permissions": [], "version": "1.2.0"}

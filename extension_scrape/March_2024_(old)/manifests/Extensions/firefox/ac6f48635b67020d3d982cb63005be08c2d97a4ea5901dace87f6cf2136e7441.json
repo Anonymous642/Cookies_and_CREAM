@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Willmehrhaben", "version": "1.10.0", "description": "Adds publication date for adverts on willhaben.at", "content_scripts": [{"matches": ["*://www.willhaben.at/iad/*"], "js": ["willmehrhaben.js"], "css": ["css/fix.css", "css/willmehrhaben.css"]}], "browser_specific_settings": {"gecko": {"id": "{3bfa1f80-6345-4998-bdc1-a2343c20357d}"}}}

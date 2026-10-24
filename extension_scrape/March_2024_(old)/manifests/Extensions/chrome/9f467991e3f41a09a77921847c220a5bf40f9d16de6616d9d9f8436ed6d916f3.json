@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Codeforces Regular Contest Remainder", "description": "This extension reminds you about upcoming Codeforces contests", "version": "1.0", "browser_action": {"default_icon": "codeforces.png", "default_popup": "popup.html"}, "permissions": ["activeTab", "http://codeforces.com/*/"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Free Cloud Spell Checker", "version": "1", "icons": {"24": "24.png", "128": "128.png"}, "app": {"urls": ["http://static.spellrich.com/english/"], "launch": {"web_url": "http://static.spellrich.com/english/"}}, "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Cari Nama Bayi - CariNamaBayi.com", "description": "Cari nama terbaik untuk calon buah hati anda di carinamabayi.com", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://carinamabayi.com/"], "launch": {"web_url": "http://carinamabayi.com/"}}}

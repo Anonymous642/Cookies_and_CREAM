@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Royal Flush", "version": "1.0", "description": "Automatically removes unimportant information concerning monarchies from most news agencies.", "content_scripts": [{"matches": ["*://*.abc.net.au/*", "*://*.bbc.com/*", "*://*.bbc.co.uk/*", "*://*.dailymail.co.uk/*"], "js": ["dist/main.js"]}]}

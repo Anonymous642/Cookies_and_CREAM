@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Revolution K12", "description": "Revolution K12 Online Courses and Dashboard", "version": "4", "app": {"urls": ["http://online.revolutionprep.com/"], "launch": {"web_url": "http://online.revolutionprep.com"}}, "icons": {"128": "icon_128.png"}, "permissions": ["unlimitedStorage"], "manifest_version": 2}

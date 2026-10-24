@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "NCLab", "description": "Coding and 3D Modeling Courses with NCLab", "version": "0.2", "icons": {"128": "128.png"}, "app": {"urls": ["http://www.nclab.com/"], "launch": {"web_url": "http://desktop.nclab.com/"}}, "permissions": ["unlimitedStorage", "notifications"]}

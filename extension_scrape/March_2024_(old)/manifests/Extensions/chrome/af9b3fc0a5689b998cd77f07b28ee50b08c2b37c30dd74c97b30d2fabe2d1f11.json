@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Hello Extensions", "description": "Base Level Extension", "version": "1.0", "action": {"default_title": "\u8ca1\u795e\u723a", "default_popup": "hello.html", "default_icon": "hello.png"}}

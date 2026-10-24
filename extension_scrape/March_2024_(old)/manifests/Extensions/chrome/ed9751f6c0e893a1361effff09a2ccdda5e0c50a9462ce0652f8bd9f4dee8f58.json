@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "new tab timer", "version": "1.0", "description": "Opens a new tab when the timer exceeds. Example usage: set the timer before open a social media to limit the time you spent.", "manifest_version": 2, "browser_action": {"default_popup": "popup.html"}, "background": {"scripts": ["background.js"]}}

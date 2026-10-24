@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Lectio RPG", "version": "1.0.4", "description": "\u00c6ndrer lectios tema s\u00e5 den passer med et RPG tema.", "icons": {"48": "Images/Icon.png"}, "content_scripts": [{"matches": ["*://www.lectio.dk/lectio/*"], "css": ["style.css"], "js": ["lectioRPG.js"]}]}

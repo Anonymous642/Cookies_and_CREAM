@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Cambiador de carne a carne vegana", "description": "Esta extensi\u00f3n reemplaza todas las ocurrencias de la palabra 'carne' en una p\u00e1gina web con 'carne vegana'.", "version": "1.0", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

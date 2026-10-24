@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Kifier", "version": "0.4.0", "description": "The missing tool to turn your Web 2.0 services into Wiki", "manifest_version": 3, "permissions": ["tabs", "clipboardWrite"], "icons": {"16": "img/edit-copy.png"}, "action": {"default_popup": "popup.html"}}

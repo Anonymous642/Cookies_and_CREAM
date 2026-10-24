@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Truco Argentino", "description": "Truco Argentino", "version": "1.1", "manifest_version": 2, "short_name": "Truco", "app": {"launch": {"web_url": "http://truco.blyts.com"}}, "icons": {"128": "128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

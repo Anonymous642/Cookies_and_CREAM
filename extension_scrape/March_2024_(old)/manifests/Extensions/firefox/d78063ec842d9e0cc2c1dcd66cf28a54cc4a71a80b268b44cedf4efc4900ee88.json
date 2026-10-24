@@ -1,0 +1,1 @@
+{"name": "Time Out", "manifest_version": 2, "description": "Stay focused on what you do!!. Set a timer for the daily tasks to increase productivity", "version": "0.2", "icons": {"128": "favicon.ico"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "favicon.ico", "default_title": "Show the contents"}}

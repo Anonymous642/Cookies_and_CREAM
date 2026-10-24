@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "EPHEC old colors :)", "version": "0.1.1", "icons": {"16": "ephec_logo.png", "32": "ephec_logo.png", "48": "ephec_logo.png", "128": "ephec_logo.png"}, "content_scripts": [{"matches": ["*://eperso.ephec.be/*"], "css": ["styles.css"]}]}

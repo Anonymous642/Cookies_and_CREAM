@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "A\u011fa -> Zibidi D\u00f6\u00fc\u015ft\u00fcr\u00fcc\u00fc", "description": "beyefendinin ad\u0131n\u0131 bir daha g\u00f6rmeyin.", "icons": {"32": "icon1.png"}, "version": "1.0", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "AWS Omnibar", "version": "1.0", "description": "AWS console extension: search services and regions, hotkeys, tab management and so on.", "manifest_version": 2, "content_scripts": [{"matches": ["https://*.aws.amazon.com/*"], "js": ["./content.js"]}]}

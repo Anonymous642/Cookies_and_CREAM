@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "SendRegning - N\u00e5 med elektronisk EHF-faktura", "description": "Gj\u00f8r det enkelt", "version": "2.0.0", "app": {"urls": ["http://www.sendregning.no/"], "launch": {"web_url": "http://www.sendregning.no/"}}, "icons": {"128": "icon_128.png"}}

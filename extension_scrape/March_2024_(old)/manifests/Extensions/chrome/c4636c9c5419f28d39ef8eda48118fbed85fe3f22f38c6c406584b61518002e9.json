@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "BetterBookmarks", "description": "Simple, compact app for managing bookmarks gracefully", "version": "0.2.0", "manifest_version": 3, "permissions": ["storage", "tabs"], "action": {"default_popup": "index.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Marmara UES Download Button", "version": "1.0", "description": "Download button for UES Marmara lecture videos.", "content_scripts": [{"matches": ["*://ues.marmara.edu.tr/Video/Play/*"], "js": ["index.js"]}], "web_accessible_resources": ["ues-download.js"]}

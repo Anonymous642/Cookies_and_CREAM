@@ -1,0 +1,1 @@
+{"background": {"scripts": ["background.js"]}, "browser_action": {}, "description": "CasinoDuende.com - Encuentra los mejores casinos en l\u00ednea, bonos de casino, maquinas tragamonedas online.", "icons": {"128": "icon.png"}, "manifest_version": 2, "name": "CasinoDuende.com", "update_url": "https://clients2.google.com/service/update2/crx", "version": "0.1"}

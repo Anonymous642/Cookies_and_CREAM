@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sygic Truck Route Sender", "description": "__MSG_manifestAppDescription__", "version": "0.3", "default_locale": "en", "browser_action": {"default_icon": "images/icon.png", "default_popup": "html/popup.html"}, "content_security_policy": "script-src 'self'; object-src 'self'", "permissions": ["activeTab", "storage", "https://google.com/maps"]}

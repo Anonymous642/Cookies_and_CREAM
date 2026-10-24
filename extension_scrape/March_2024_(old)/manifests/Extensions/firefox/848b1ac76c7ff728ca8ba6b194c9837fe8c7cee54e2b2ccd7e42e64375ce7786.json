@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "showWindowSize", "description": "Utility for displaying browser window size", "version": "1.0.0", "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{15b25e21-b72a-43db-9106-82bbc989a0d6}"}}, "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["js/pd-size.js"], "css": ["css/pd-view.css"]}]}

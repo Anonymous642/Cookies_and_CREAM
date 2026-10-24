@@ -1,0 +1,1 @@
+{"name": "Bing ad results", "description": "Make Bing ad results brighter and more distinguishable", "version": "1.0", "permissions": ["https://*.bing.com/*"], "content_scripts": [{"matches": ["https://*.bing.com/*"], "run_at": "document_end", "css": ["bing_style.css"]}], "web_accessible_resources": ["bing_style.css"], "manifest_version": 2}

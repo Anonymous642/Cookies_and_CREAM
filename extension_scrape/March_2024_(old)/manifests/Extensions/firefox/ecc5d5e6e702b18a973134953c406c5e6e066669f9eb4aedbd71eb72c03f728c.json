@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Post to HackerNews", "version": "1.0", "description": "Submits the current tab url to HackerNews", "permissions": ["tabs"], "browser_action": {"default_icon": {"48": "icons/post-to-hn-48.png", "96": "icons/post-to-hn-96.png"}, "default_title": "Post to HN!"}, "background": {"scripts": ["background.js"]}}

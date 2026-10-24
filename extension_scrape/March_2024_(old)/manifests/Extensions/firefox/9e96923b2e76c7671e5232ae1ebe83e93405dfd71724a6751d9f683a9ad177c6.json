@@ -1,0 +1,1 @@
+{"short_name": "Afterglow", "manifest_version": 2, "version": "1.0.3", "name": "AfterGlow - A Focus Dashboard", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{54ef7404-8fe3-4c96-be88-6ce1db8c2e30}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tab To Do", "description": " ", "version": "2.0", "manifest_version": 3, "chrome_url_overrides": {"newtab": "index.html"}, "browser_action": {"default_icon": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ProLife Words", "description": "Replaces pro-abortion words with more accurate terminology", "version": "0.3", "content_scripts": [{"matches": ["file://*/*", "http://*/*", "https://*/*"], "js": ["content.js"], "run_at": "document_start"}]}

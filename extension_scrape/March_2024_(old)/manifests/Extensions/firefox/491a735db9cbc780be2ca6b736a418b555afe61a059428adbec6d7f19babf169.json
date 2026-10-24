@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Domain Expirationdate Colorizer", "version": "1.0", "description": "Changes the color of the expiration date on the list view of your registrar", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["https://www.inwx.de/de/domainlist"], "js": ["inwx.js"]}]}

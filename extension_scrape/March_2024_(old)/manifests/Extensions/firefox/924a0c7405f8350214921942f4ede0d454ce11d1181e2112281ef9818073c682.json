@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RemindMe", "version": "1.1", "description": "Adds a reminder to specific events", "icons": {"48": "./timetable.png"}, "background": {"page": "remind-me.html"}, "browser_action": {"default_icon": "./timetable.png", "default_title": "RemindMe", "default_popup": "remind-me-popup.html"}, "permissions": ["alarms", "notifications", "storage"]}

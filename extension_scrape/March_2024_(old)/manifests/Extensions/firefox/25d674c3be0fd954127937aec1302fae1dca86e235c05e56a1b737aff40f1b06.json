@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "bgsuite", "version": "1.1", "description": "ignore. quote collapse.", "icons": {"16": "inv.png"}, "content_scripts": [{"matches": ["*://*.badgame.net/*"], "js": ["bgsuite.js"], "css": ["bgsuite.css"], "run_at": "document_end"}], "permissions": ["storage"]}

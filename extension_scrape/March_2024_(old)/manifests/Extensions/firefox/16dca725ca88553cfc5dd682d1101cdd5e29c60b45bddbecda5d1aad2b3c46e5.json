@@ -1,0 +1,1 @@
+{"name": "Ceron comments (Unofficial)", "manifest_version": 2, "version": "1.0.0", "description": "Show the number of Ceron comments", "icons": {"128": "resources/icon128.png"}, "browser_action": {"default_title": "Ceron link", "default_icon": "resources/icon128.png"}, "background": {"scripts": ["dist/background.bundle.js"]}, "permissions": ["tabs", "https://ceron.jp/url/*"]}

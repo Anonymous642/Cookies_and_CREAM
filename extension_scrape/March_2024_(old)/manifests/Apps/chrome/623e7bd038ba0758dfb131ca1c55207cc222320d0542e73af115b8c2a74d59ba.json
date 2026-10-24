@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "UNO", "short_name": "UNO", "version": "2.0.1", "manifest_version": 2, "offline_enabled": true, "icons": {"128": "images/icons/icon-128x128.png"}, "app": {"background": {"scripts": ["background.js"]}, "height": 600, "width": 750}}

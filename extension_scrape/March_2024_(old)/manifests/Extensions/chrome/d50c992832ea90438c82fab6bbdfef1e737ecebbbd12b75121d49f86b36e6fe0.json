@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Summary Extension", "description": "Summarize website and translate it to different languages", "version": "1.0.0", "action": {"default_popup": "index.html", "default_title": "Open"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Viewler", "version": "1.0", "description": "Viewport based (vh & vw) page ruler.", "action": {"default_popup": "popup.html", "default_icon": {"320": "icon.png"}}, "permissions": ["scripting", "activeTab"], "icons": {"320": "icon.png"}}

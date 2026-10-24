@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"urls": ["http://www.uhren-shop.ch/de/wanduhren-schweiz"], "launch": {"web_url": "http://www.uhren-shop.ch"}}, "icons": {"128": "icon_128.png"}, "manifest_version": 2, "description": "Online Shop fuer Taschenuhr Wecker Wanduhren", "name": "Schweizer Uhren Shop", "version": "1.1"}

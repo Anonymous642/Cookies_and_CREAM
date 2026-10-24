@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Trello WWT India", "version": "0.1.0", "description": "Used to adjust Trello Board to Fit TV", "content_scripts": [{"css": ["styles.css"], "js": ["content.js"], "matches": ["https://trello.com/*"]}]}

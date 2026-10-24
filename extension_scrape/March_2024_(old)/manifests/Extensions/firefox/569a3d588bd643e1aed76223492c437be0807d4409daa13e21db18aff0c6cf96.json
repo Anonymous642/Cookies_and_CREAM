@@ -1,0 +1,1 @@
+{"name": "PSStore Header Patch", "version": "1.1", "manifest_version": 2, "permissions": ["webRequest", "webRequestBlocking", "https://store.playstation.com/*", "https://static.playstation.com/*"], "background": {"scripts": ["background.js"], "persistent": true}}

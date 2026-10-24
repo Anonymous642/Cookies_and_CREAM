@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Skip Skip Intro", "version": "1.0", "manifest_version": 2, "content_scripts": [{"matches": ["*://*.netflix.com/*", "*://*.primevideo.com/*"], "js": ["content.js"]}]}

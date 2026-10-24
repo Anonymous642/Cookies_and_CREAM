@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TZM.fi RBE Edu", "version": "1.0.2", "description": "", "icons": {"48": "icons/main-logo.png"}, "permissions": ["activeTab", "tabs"], "browser_action": {"default_icon": "icons/main-logo.png", "default_title": "TZM.fi RBE edu", "default_popup": "popup/redirect.html"}}

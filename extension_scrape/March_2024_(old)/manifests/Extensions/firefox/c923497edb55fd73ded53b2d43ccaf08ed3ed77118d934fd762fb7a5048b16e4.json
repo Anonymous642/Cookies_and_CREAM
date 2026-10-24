@@ -1,0 +1,1 @@
+{"description": "Provides a context menu for opening links as text/plain", "homepage_url": "https://github.com/midgleyc/open-as-text", "manifest_version": 2, "name": "Open as Text", "version": "1.2", "icons": {"48": "icons/icon.svg"}, "permissions": ["webRequest", "webRequestBlocking", "contextMenus", "<all_urls>"], "background": {"scripts": ["background.js"]}}

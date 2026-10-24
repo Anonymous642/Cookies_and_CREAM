@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dark Mode", "version": "1.0", "description": "Let's you take screen shots", "permissions": ["activeTab"], "browser_action": {"default_title": "Screen Snipe"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{53830215-ed10-4407-ae62-dcc3f24abd70}"}}}

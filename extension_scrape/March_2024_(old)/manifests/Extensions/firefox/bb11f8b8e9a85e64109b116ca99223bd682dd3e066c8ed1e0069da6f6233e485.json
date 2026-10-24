@@ -1,0 +1,1 @@
+{"name": "Black Lives Matter", "version": "1.0.2", "description": "Show your support against racism and view anti-racism quotes. #BlackLivesMatter", "manifest_version": 2, "icons": {"16": "images/icon_16.png", "32": "images/icon_32.png", "48": "images/icon_48.png", "128": "images/icon_128.png"}, "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html"}}

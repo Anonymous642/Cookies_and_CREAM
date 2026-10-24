@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "twitter-alt-text", "description": "Show alt-text on Twitter for screen-readers.", "version": "1.0", "manifest_version": 2, "content_scripts": [{"matches": ["https://*.twitter.com/*"], "js": ["jquery.js", "arrive.min.js", "contentScript.js"], "css": ["styles.css"]}]}

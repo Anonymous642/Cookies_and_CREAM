@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "F1tv-view", "description": "", "version": "1.1", "icons": {"16": "icon16.png", "32": "icon32.png", "48": "icon48.png", "128": "icon128.png"}, "content_scripts": [{"js": ["f1tv-view.js"], "matches": ["https://f1tv.formula1.com/*"]}]}

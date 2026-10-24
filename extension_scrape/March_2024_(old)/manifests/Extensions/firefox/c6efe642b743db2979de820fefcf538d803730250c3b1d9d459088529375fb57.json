@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Doug Toolz", "version": "2.1.2", "description": "To help you do SEOzzzzzzzz", "icons": {"48": "icons/on.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "tabs", "<all_urls>"], "browser_action": {"default_icon": "icons/on.png", "default_title": "Doug Toolz", "default_popup": "popup/popup.html"}}

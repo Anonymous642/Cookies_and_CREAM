@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Twitch Channel Points Collector", "description": "Automatically collect channel points on twitch.tv", "version": "0.1", "action": {"default_popup": "start.html", "default_icon": "icon.png"}, "content_scripts": [{"js": ["twitch_script.js"], "matches": ["*://*.twitch.tv/*"]}], "browser_specific_settings": {"gecko": {"id": "tcpc@leroyn.de"}}}

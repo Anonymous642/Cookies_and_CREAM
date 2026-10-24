@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Kirka Mirror Challenge", "description": "Kirka game matches are flipped horizontally.", "version": "1.0", "manifest_version": 3, "content_scripts": [{"matches": ["https://kirka.io/*"], "css": ["kirka.css"]}], "icons": {"128": "icon128.png"}}

@@ -1,0 +1,1 @@
+{"browser_action": {"default_icon": "logo.png", "default_popup": "popup.html"}, "description": "Quick access to getpo.st", "icons": {"48": "logo.png"}, "manifest_version": 2, "name": "getpo.st", "version": "4.0"}

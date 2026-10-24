@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Kredi Bulma ve Taksit Hesaplama", "description": "Finanscepte kalitesiyle ", "version": "0.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["webview", "http://www.finanscepte.com/"], "icons": {"16": "appico16.png", "128": "appico128.png"}}

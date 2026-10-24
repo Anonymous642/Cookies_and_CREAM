@@ -1,0 +1,1 @@
+{"description": "Accept all invitations from google meet", "manifest_version": 2, "name": "Accept invitations meet auto", "version": "1.4.1", "homepage_url": "https://nullx.me", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.meet.google.com/*"], "js": ["accept.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MP Change Icon", "version": "0.0.1", "description": "Replace the confusing 'bomb' icon with an alternate emoji", "manifest_version": 2, "web_accessible_resources": ["images/*"], "content_scripts": [{"matches": ["*://*.mountainproject.com/*"], "css": ["mp-change-icon.css"]}]}

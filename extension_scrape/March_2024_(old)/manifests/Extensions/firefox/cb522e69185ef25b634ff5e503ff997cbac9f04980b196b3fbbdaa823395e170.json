@@ -1,0 +1,1 @@
+{"browser_action": {"default_popup": "popup.html", "default_title": "Car Battery Delivery", "default_icon": "icon.png"}, "description": "TBS car battery delivery is your one stop car battery specialist center.", "icons": {"128": "icon.png"}, "name": "Car Battery Delivery", "version": "1.1", "manifest_version": 2}

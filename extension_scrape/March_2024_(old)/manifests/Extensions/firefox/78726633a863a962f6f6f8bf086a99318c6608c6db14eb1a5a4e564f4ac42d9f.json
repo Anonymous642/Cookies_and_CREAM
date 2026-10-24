@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sites", "version": "1.0", "permissions": ["tabs"], "description": "Adds a red border to all webpages matching mozilla.org.", "browser_action": {"default_icon": "2.jpg", "default_title": "Tabs", "default_popup": "b.html"}, "content_scripts": [{"matches": ["*://*.mozilla.org/*"], "js": ["popup3.js"]}]}

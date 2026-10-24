@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PlaceID Getter", "version": "1.0.1", "description": "PlaceID\u3092\u53d6\u5f97\u3057\u307e\u3059", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "permissions": ["<all_urls>"], "action": {"default_title": "PlaceID Getter", "default_popup": "popup.html"}}

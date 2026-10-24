@@ -1,0 +1,1 @@
+{"description": "Hide the feed from facebook when visiting.", "manifest_version": 2, "name": "Hide facebook feed.", "version": "1.0", "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["remove_feed.js"]}]}

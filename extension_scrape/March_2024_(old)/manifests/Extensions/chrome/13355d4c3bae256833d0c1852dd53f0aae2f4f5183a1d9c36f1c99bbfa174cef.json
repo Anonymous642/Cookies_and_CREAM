@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "RVRB Auto Liker", "version": "0.2", "description": "Automatically like new songs playing on https://app.rvrb.one", "content_scripts": [{"js": ["scripts/content.js"], "matches": ["https://app.rvrb.one/*"]}]}

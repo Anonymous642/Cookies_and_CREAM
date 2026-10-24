@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SkribbliOhMy", "version": "1.0", "description": "Enhancements for skribbl.io", "manifest_version": 2, "content_scripts": [{"matches": ["https://skribbl.io/*"], "run_at": "document_idle", "js": ["content.js"]}]}

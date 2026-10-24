@@ -1,0 +1,1 @@
+{"description": "Loads all tracks from Chillhop music player without scrolling need.", "manifest_version": 2, "name": "Chillhop Tracks Loader", "version": "0.1.0", "content_scripts": [{"matches": ["*://chillhop.com/user/*"], "js": ["content-script.js"]}]}

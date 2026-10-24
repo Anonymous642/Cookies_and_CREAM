@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TabFilter", "version": "1.0", "description": "Recherche parmi les onglets ouverts.", "icons": {"48": "icons/browser.png"}, "permissions": ["tabs"], "browser_action": {"default_icon": "icons/browser.png", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{2b66df15-0ed7-4659-aba8-94f0a0566ad6}"}}}

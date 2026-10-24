@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "onlymaths.gr unlock", "version": "0.3", "description": "Removes ad link from the pdf files ( when its bold its ad-free )", "content_scripts": [{"matches": ["*://*.onlymaths.gr/*"], "js": ["onlymaths.js"]}], "permissions": ["<all_urls>"]}

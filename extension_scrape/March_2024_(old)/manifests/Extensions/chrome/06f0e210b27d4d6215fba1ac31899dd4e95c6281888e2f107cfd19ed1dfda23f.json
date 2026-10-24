@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Turn off", "description": "Turn off the namu.wiki", "version": "1.0", "browser_action": {"default_icon": "\ub098\ubb34\uc704\ud0a4.png", "default_popup": "testing.html"}, "permissions": ["tabs"], "background": {"scripts": ["turnoff.js"], "persistent": true}}

@@ -1,0 +1,1 @@
+{"name": "Reddit Video Url", "description": "Get urls for embedded reddit videos", "version": "1.0.6", "manifest_version": 2, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["content-script.js", "scripts/sanitizer.js", "scripts/stretchy.js"], "run_at": "document_end"}], "icons": {"48": "icons/logo48.png", "96": "icons/logo96.png"}}

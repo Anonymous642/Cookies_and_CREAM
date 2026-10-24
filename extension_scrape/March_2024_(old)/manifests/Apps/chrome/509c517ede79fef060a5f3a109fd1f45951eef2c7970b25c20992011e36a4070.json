@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Zoom", "description": "A secure Zoom wallet for friends and companies", "version": "0.0.2", "permissions": ["storage", "notifications", "videoCapture"], "app": {"background": {"scripts": ["initial.js"]}}, "icons": {"128": "img/icons/icon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "publishable", "version": "1.0", "description": "Activate wordpress disabled publish button.", "icons": {"48": "icons/check.png"}, "content_scripts": [{"matches": ["*://rouzegaremadan.ir/*/*"], "js": ["core.js"]}]}

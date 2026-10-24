@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Google Podcasts Themes", "version": "1.1", "description": "Allows the user to apply themes to Google Podcasts", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://podcasts.google.com/*"], "js": ["podcasts_theme.js"], "css": ["podcasts_theme.css"]}]}

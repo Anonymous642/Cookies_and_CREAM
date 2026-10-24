@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Viva Engage Rebrand", "version": "1.3", "description": "Automatically renames 'Viva Engage' to 'Yammer' on *.yammer.com", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*.yammer.com/*"], "js": ["contentScript.js"], "run_at": "document_end"}]}

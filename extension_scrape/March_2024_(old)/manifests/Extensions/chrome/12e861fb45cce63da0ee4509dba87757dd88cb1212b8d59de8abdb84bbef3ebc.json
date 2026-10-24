@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "twitch easy chat", "description": "\ud2b8\uc704\uce58 \ucc44\ud305 \uc785\ub825\ucc3d \uc138\ub85c\uae38\uc774 \uc81c\ud55c", "version": "1.0", "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["content.js"]}], "icons": {"128": "128.png"}}

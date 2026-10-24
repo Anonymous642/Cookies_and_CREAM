@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "EPL Games for Arsenal, Liverpool & Tottenham", "version": "1.2", "content_scripts": [{"matches": ["https://www.starhub.com/personal/bundles/premier-league/fixtures.html"], "js": ["pageeater.js"]}], "browser_specific_settings": {"gecko": {"id": "{fcc8d6b0-a4c5-437e-8bed-63d9de5c274c}"}}}

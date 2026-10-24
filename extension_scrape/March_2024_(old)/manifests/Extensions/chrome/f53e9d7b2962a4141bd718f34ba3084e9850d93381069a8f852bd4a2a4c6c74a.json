@@ -1,0 +1,1 @@
+{"browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "description": "A bored extension", "manifest_version": 2, "name": "Sorry Steve, I was bored.", "update_url": "https://clients2.google.com/service/update2/crx", "version": "1.0"}

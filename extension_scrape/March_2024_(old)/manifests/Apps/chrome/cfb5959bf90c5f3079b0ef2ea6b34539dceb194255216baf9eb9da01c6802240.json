@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "T shirt Design Maker", "version": "5.2", "manifest_version": 2, "description": "T shirt Design Maker", "app": {"urls": ["https://tshirt.familyhealth-ar.com/"], "launch": {"web_url": "https://tshirt.familyhealth-ar.com/"}}, "icons": {"128": "icon.png"}}

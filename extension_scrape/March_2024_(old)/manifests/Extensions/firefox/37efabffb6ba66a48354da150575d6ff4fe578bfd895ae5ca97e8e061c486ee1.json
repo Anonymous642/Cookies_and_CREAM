@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Parrot", "version": "0.0.3", "description": "Add parrot to context menu.", "icons": {"48": "icon.png"}, "background": {"scripts": ["background.js"]}, "content_scripts": [{"matches": ["*://parrot.eng.citrite.net/*"], "js": ["content.js"]}], "permissions": ["contextMenus", "activeTab", "*://parrot.eng.citrite.net/*"]}

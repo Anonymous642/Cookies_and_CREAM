@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TV Bingo", "description": "an app that helps you play LOTS of bingo cards!", "version": "1.9", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["storage", "unlimitedStorage"], "icons": {"16": "bingo-16.jpg", "128": "bingo-128.png"}}

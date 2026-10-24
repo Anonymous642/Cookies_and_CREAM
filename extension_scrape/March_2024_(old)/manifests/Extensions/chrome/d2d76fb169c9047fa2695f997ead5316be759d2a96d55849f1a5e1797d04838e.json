@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MS Docs lang switching extension", "version": "1.0.0", "manifest_version": 2, "description": "Microsoft Docs language switching extension", "content_scripts": [{"matches": ["https://docs.microsoft.com/ja-jp/*"], "js": ["content.js"]}]}

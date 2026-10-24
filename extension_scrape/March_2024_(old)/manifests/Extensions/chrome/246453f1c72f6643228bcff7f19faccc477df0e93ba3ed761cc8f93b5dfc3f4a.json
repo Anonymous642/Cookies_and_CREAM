@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Linux To GNU Plus Linux", "version": "1.2", "description": "Replaces the text 'linux' with 'GNU Plus Linux'.", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}]}

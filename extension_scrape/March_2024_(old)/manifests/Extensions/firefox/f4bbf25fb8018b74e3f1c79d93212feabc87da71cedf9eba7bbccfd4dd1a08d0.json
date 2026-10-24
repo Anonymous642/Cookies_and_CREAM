@@ -1,0 +1,1 @@
+{"name": "linguAid", "version": "2.0", "manifest_version": 2, "description": "Add-on that provides an aid for understanding the meanings of unknown technical terms.", "background": {"scripts": ["linguAid.js"]}, "permissions": ["contextMenus", "<all_urls>"], "icons": {"48": "icons/cloud-48.png"}}

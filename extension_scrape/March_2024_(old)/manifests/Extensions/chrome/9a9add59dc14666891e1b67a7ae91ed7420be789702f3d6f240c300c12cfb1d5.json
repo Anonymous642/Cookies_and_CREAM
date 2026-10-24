@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "HappyAlvaro", "version": "0.2.3", "description": "Extensi\u00f3n para modificar la apariencia de la web www.carreteros.org", "browser_action": {"default_icon": "iconos/icon16.png"}, "content_scripts": [{"matches": ["*://*.carreteros.org/*"], "css": ["estail.css"]}]}

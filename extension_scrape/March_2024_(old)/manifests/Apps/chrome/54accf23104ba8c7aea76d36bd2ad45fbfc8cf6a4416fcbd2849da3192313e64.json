@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "BeingSo", "description": "Christmas 2015 Animated Greeting Cards creator", "version": "0.2015.11.18", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://www.beingso.com/", "https://fr.beingso.com/"], "launch": {"web_url": "https://www.beingso.com/christmas"}}}

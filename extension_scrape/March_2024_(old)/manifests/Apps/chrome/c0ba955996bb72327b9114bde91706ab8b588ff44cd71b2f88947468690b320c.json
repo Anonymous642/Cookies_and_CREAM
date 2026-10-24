@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Pernambuco Vagas", "description": "Vagas de emprego, artigos e dicas.", "version": "0.1.2", "manifest_version": 2, "app": {"background": {"scripts": ["js/main.js"]}}, "permissions": ["tabs", "http://*/*", "https://*/*"], "icons": {"16": "img/icons/icon-16.png", "128": "img/icons/icon-128.png"}}

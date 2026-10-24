@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Sangaku Lerni", "description": "La nueva forma de aprender entre todos", "version": "1.0", "short_name": "Sangaku Lerni", "icons": {"16": "chrome16.png", "48": "chrome48.png", "128": "chrome128.png"}, "app": {"launch": {"web_url": "http://www.lerni.academy"}}}

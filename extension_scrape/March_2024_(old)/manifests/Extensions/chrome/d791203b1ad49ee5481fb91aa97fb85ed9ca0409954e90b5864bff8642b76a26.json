@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Emoji replacer", "description": "Replaces emoji in the text with another emoji", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "index.html", "default_title": "Emoji replacer"}, "content_scripts": [{"matches": ["https://*/*", "http://*/*"], "js": ["inject.js"]}]}

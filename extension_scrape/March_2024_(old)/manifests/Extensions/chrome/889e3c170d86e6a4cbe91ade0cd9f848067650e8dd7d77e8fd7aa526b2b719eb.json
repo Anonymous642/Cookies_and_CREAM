@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Test Get Post", "version": "1.0.0", "description": "an app to send GET or POST request to test api", "manifest_version": 3, "author": "Devashish Priyadarhsi", "action": {"default_popup": "index.html", "default_title": "Test Get Post"}}

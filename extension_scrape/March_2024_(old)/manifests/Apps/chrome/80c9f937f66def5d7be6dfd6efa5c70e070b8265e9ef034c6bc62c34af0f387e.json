@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "AirConsole", "version": "1.0", "permissions": ["webview", "pointerLock", "geolocation", "videoCapture", "fullscreen", "power"], "icons": {"128": "icon.png"}, "app": {"background": {"scripts": ["main.js"]}}}

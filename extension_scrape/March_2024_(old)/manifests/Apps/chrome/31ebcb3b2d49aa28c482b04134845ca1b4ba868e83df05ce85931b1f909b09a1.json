@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "shikhvu j chhe", "description": "shikhvu j chhe", "version": "1.0", "manifest_version": 2, "offline_enabled": true, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "requirements": {"3D": {"features": ["css3d", "webgl"]}}, "app": {"launch": {"local_path": "shikhvu_nacl.html"}}}

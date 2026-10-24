@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Seat-Numbers", "version": "1.0", "description": "Prints the selected seat numbers in console", "icons": {"48": "icons/icon-48.png"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://tickets.staatstheater-braunschweig.de/phoenix/webticket/seatmap?eventId=*"], "js": ["seat-numbers.js"]}]}

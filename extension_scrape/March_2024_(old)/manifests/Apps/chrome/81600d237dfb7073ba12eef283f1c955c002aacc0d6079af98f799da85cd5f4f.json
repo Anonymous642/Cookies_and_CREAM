@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ChromeOS Visual", "version": "1.0", "manifest_version": 2, "description": "This app takes you straight to ChromeOS Visual homepage!", "app": {"urls": ["http://chromevisual.blogspot.com/"], "launch": {"web_url": "http://chromevisual.blogspot.com/"}}, "icons": {"128": "icon.png"}}

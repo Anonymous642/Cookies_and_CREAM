@@ -1,0 +1,1 @@
+{"content_scripts": [{"js": ["jquery.min.js", "block.js"], "matches": ["<all_urls>"]}], "description": "", "icons": {"128": "icons/blueBlock128.png"}, "manifest_version": 2, "name": "Bloqueador de Redes Sociais", "version": "1.6"}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "NanoSignage Manager(free)", "version": "1.0", "description": "NanoSignage Manager(free)", "app": {"launch": {"web_url": "https://altered7th.nobworks.co.jp/cds3/"}}, "icons": {"128": "NanoSignageManager128.png"}, "permissions": ["background"]}

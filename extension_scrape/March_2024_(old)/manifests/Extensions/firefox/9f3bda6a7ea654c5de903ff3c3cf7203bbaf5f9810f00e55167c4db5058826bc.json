@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SCRIPT", "version": "1.0.1", "description": "KNOW IF SOME ONE IS CONNECTED EVEN IF HE IS TURNING OF ", "icons": {"48": "icons/hbz-48.png", "96": "icons/hbz-96.png"}, "applications": {"gecko": {"id": "PRODEVTEAM@gmail.com"}}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["SetOnline.js"]}]}

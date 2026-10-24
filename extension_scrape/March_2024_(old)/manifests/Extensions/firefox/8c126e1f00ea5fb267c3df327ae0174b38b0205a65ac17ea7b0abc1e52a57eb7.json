@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Text Highlighter", "description": "This extension allows you to highlight text on any website.", "version": "1.0", "permissions": ["activeTab"], "content_scripts": [{"js": ["content.js"], "matches": ["<all_urls>"], "run_at": "document_end"}], "browser_specific_settings": {"gecko": {"id": "{3d082eec-7a27-4ca4-bded-5fcb48015e93}"}}}

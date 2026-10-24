@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "New Tabs - Random Oncology Journals", "version": "1.0", "description": "Loads a random URL when a new tab is opened.", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{886f26ae-6314-482a-8765-cc82442a14ab}"}}}

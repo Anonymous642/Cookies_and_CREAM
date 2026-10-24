@@ -1,0 +1,1 @@
+{"name": "ESEA Ranks", "version": "1.2", "description": "Shows player ranks & MMR on match pages", "permissions": ["webNavigation", "*://play.esea.net/*"], "background": {"scripts": ["background.js"], "persistent": false}, "content_scripts": [{"matches": ["*://play.esea.net/*"], "js": ["esea.js"]}], "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Screenshot Assistant", "version": "1.0", "action": {"default_popup": "popup.html"}, "permissions": ["activeTab", "storage"], "icons": {"16": "16.png", "128": "128.png"}}

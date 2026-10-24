@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Credit Card Generator", "description": "This extension generate test credit cards", "version": "1.2", "browser_action": {"default_icon": "cc-generator-icon.png", "default_popup": "index.html"}, "permissions": [], "content_security_policy": "script-src 'self'; object-src 'self'"}

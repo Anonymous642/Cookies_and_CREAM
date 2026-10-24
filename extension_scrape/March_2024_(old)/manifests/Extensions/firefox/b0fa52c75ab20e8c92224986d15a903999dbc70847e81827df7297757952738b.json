@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "fullscreen-clock", "version": "1.0", "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["fullscreen-clock.js"], "css": ["fullscreen-clock.css"]}]}

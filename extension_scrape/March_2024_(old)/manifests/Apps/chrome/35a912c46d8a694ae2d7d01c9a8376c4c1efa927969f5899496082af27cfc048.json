@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "FASTQ to FASTA Converter", "description": "Converts FASTQ data to FASTA data.", "version": "1.0.0", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.BlastStation.com/"], "launch": {"web_url": "http://www.BlastStation.com/util/q2a/"}}}

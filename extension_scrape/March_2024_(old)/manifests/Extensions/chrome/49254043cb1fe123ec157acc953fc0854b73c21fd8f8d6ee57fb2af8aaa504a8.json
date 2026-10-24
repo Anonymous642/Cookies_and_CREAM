@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MDS pour HAL", "description": "Affiche le MDS sur les notices HAL", "version": "1.0", "manifest_version": 3, "content_scripts": [{"matches": ["https://hal.archives-ouvertes.fr/*"], "js": ["background.js"]}], "permissions": []}

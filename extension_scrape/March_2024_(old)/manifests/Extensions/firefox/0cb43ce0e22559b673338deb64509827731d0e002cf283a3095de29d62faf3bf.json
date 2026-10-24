@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pitchify", "version": "1", "background": {"scripts": ["background.js"]}, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["page.js"]}], "permissions": ["storage", "webNavigation", "*://*.youtube.com/*", "https://www.youtube.com/*"]}

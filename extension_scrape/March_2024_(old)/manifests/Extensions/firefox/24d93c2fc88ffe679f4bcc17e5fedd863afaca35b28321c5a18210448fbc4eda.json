@@ -1,0 +1,1 @@
+{"name": "ghfix", "description": "Fix Github stuff", "version": "0.1.2", "content_scripts": [{"matches": ["https://github.com/*"], "js": ["loader.js"]}], "web_accessible_resources": ["main.js"], "browser_action": {"default_title": "ghfix", "default_icon": "logo.png", "default_popup": "popup.html"}, "manifest_version": 2, "short_name": "ghfix"}

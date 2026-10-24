@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Merge Tabs", "version": "1.0", "description": "Merges all tabs into one window.", "icons": {"48": "assets/icon.svg", "96": "assets/icon.svg"}, "background": {"scripts": ["script.js"]}, "browser_action": {"default_icon": "assets/icon.svg", "default_title": "Merge Tabs"}}

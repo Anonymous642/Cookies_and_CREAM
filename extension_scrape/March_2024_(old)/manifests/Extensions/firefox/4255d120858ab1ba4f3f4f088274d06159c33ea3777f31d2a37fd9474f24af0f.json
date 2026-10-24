@@ -1,0 +1,1 @@
+{"description": "Redirects s3Uris to correct s3 location (required google as default search engine", "manifest_version": 2, "name": "s3Direct", "version": "1.0", "homepage_url": "https://github.com/", "background": {"scripts": ["s3Direct.js"]}, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"]}

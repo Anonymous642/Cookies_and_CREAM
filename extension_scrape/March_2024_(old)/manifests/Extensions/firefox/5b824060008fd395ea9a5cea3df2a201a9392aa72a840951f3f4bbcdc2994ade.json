@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search KCLS Catalog", "description": "Adds Context Menu to search highlighted text in the King County Library System Catalog", "version": "1.0", "developer": {"name": "Ranvijay Kumar"}, "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus", "activeTab"], "icons": {"128": "icons/kcls-128.png"}}

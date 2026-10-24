@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Basecamp Personal", "version": "0.4.1", "description": "Provide a shortcut to the new Basecamp (personal)", "options_page": "options.html", "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "manifest_version": 2}

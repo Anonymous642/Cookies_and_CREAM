@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ttop5\u7684\u65f6\u949f", "version": "1.02", "description": "\u6211\u7684\u7b2c\u4e00\u4e2aChrome\u62d3\u5c55\u3002", "browser_action": {"default_icon": "img/icon.png", "default_popup": "index.html"}}

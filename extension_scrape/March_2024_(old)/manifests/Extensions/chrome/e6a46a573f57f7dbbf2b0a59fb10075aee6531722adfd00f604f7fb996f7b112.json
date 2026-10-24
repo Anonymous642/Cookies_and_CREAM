@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Myle", "version": "1.0", "description": "Make your life easier", "author": "Helix", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"16": "icon.png", "24": "icon.png", "32": "icon.png", "128": "icon.png"}}

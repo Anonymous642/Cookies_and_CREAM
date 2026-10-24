@@ -1,0 +1,1 @@
+{"app": {"launch": {"local_path": "index.html"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Absorb as many blue circles as you can while avoiding the red spikes!", "name": "KROOG", "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "manifest_version": 2, "version": "2"}

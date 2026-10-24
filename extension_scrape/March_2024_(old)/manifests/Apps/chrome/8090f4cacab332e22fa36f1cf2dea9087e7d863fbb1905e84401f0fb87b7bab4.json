@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "SqueakJS", "version": "0.7.1", "minimum_chrome_version": "23", "icons": {"16": "img/icon16.png", "128": "img/icon128.png"}, "app": {"background": {"scripts": ["js/background.js"]}}, "permissions": ["storage", "clipboardRead", "clipboardWrite"], "sandbox": {"pages": ["sandbox.html"]}}

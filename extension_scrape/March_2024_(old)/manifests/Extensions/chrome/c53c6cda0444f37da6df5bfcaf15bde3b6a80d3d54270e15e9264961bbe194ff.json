@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Billpocket Currents Customization", "description": "Billpocket Currents Customization", "version": "1.5", "manifest_version": 3, "permissions": [], "content_scripts": [{"matches": ["https://currents.google.com/*"], "js": ["currentsInjector.js"], "run_at": "document_end"}]}

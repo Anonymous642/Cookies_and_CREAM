@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Nepal News Adblock", "version": "1.0", "description": "Hide Ads in Nepali news sites", "content_scripts": [{"matches": ["*://*.onlinekhabar.com/*", "*://*.setopati.com/*", "*://*.ratopati.com/*"], "js": ["hideads.js"]}]}

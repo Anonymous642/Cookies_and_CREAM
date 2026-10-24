@@ -1,0 +1,1 @@
+{"name": "Borstension", "description": "Quick access to Borke in your browser!", "version": "1.0", "manifest_version": 2, "browser_action": {"default_popup": "popup.html"}, "icons": {"16": "icon16.jpg", "32": "icon32.jpg", "48": "icon48.jpg", "128": "icon128.jpg"}, "default_icon": {"16": "icon16.jpg", "32": "icon32.jpg"}}

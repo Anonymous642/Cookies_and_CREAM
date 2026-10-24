@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "MeWePlus", "description": "meweplus Education", "version": "1.1", "icons": {"128": "128.png"}, "app": {"urls": ["http://meweplus.blogspot.com/"], "launch": {"web_url": "http://meweplus.blogspot.com/"}}, "permissions": ["unlimitedStorage", "notifications"]}

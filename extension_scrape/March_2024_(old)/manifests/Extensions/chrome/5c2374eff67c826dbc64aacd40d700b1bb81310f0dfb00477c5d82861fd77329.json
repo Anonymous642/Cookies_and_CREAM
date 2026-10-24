@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "content_scripts": [{"js": ["js/content.js"], "matches": ["https://trello.com/*"]}], "description": "Sets colors on Trello cards", "icons": {"128": "img/icon128.png"}, "manifest_version": 3, "name": "Trello Bug Feature Colors", "version": "3.0"}

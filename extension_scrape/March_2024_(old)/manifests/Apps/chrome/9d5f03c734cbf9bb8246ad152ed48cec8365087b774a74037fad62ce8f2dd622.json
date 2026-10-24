@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "DoorStop Kiosk App", "version": "1.0.5", "manifest_version": 2, "icons": {"128": "button-red.png"}, "app": {"background": {"scripts": ["background.js"], "persistent": false}}, "permissions": ["webview"], "kiosk_enabled": true}

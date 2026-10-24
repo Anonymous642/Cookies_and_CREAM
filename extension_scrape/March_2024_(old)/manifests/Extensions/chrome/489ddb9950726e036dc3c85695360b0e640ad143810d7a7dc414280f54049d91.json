@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "QRcode Generator", "manifest_version": 2, "version": "1.0", "description": "Generate qrcode for current page", "author": "Judastree", "browser_action": {"default_icon": "icon.png", "default_title": "QRCode Generator", "default_popup": "popup.html"}, "permissions": ["tabs"]}

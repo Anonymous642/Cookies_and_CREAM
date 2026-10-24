@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "\u0414\u043e\u043c\u0438\u043d\u043e", "version": "1", "icons": {"128": "128.png"}, "app": {"urls": ["http://minigames.mail.ru/domino"], "launch": {"web_url": "http://minigames.mail.ru/domino"}}, "permissions": ["notifications"], "manifest_version": 2}

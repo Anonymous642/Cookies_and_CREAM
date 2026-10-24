@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Skisport.ru forum Ext", "description": "Skisport.ru forum Ext", "version": "1.4", "icons": {"128": "128.png"}, "content_scripts": [{"matches": ["https://www.skisport.ru/forum/*/*"], "css": ["mystyles.css"], "js": ["jquery.js", "moment.js", "myscript.js"]}], "permissions": ["activeTab"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Give my head peace", "author": "michaelomichael", "version": "1.1", "description": "Removes any HTML elements with 'fixed' or 'static' positioning from the page", "permissions": ["<all_urls>", "activeTab"], "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icons/broom.svg"}}

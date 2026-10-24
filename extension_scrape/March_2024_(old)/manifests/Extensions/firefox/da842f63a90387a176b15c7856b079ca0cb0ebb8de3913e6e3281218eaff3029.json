@@ -1,0 +1,1 @@
+{"name": "WaterSoftenerIdeas", "version": "0.0.0.3", "manifest_version": 2, "description": "A chromium extension to Update to with Water Softener Ideas for you.", "icons": {"16": "icons/16.png", "32": "icons/32.png", "48": "icons/48.png", "128": "icons/128.png"}, "browser_action": {"default_popup": "popup/popup.html"}}

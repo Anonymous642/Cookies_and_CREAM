@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Letterboxd minutes to hours", "version": "1.0.1", "description": "Converts minutes to hours on letterboxd", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://letterboxd.com/film/*"], "js": ["Program.js"]}]}

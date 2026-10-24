@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "DeBlur Web Pages", "description": "DeBlur Certain Web Pages", "version": "1.0.3", "manifest_version": 3, "permissions": ["activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_icon": {"48": "/images/get_started48.png"}}, "icons": {"48": "/images/get_started48.png"}}

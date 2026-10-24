@@ -1,0 +1,1 @@
+{"description": "Copy the text of the image.", "manifest_version": 2, "name": "Copy Image Text", "version": "1.1.0", "default_locale": "en", "applications": {"gecko": {"id": "{b224be59-6bdc-41e0-9141-9f8d00373d93}", "strict_min_version": "63.0"}}, "icons": {"128": "image.png"}, "permissions": ["activeTab", "clipboardWrite", "menus"], "background": {"scripts": ["background.js"]}}

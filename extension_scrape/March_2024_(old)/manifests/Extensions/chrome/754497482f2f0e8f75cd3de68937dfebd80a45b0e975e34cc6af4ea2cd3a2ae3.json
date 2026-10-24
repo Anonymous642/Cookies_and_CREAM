@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Vaadin Theme Assistant", "description": "A utility for theming Vaadin components", "version": "1.1", "devtools_page": "devtools_page.html", "background": {"scripts": ["build/background.js"]}, "permissions": ["http://*/*", "https://*/*"]}

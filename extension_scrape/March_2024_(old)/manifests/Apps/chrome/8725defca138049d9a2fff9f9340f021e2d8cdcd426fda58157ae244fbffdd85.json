@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "SpaceRace", "description": "We come in Death...", "version": "0.1", "manifest_version": 2, "app": {"background": {"scripts": ["main.js"]}}, "icons": {"16": "16.png", "128": "128.png"}}

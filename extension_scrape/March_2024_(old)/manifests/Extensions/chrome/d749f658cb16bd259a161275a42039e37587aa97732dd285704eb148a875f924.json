@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "short_name": "ViewMate", "name": "ViewMate", "version": "1.0.0", "manifest_version": 3, "permissions": ["activeTab"], "action": {"default_popup": "index.html", "default_title": "ViewMate"}, "icons": {"16": "viewmate-website.png", "48": "viewmate-website.png", "128": "viewmate-website.png"}}

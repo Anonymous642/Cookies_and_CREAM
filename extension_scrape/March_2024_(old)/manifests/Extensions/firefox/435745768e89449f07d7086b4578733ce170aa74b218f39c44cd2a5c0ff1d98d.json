@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube View Like Ratio", "version": "1.0", "description": "Display view-like ratio.", "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["main.js"]}]}

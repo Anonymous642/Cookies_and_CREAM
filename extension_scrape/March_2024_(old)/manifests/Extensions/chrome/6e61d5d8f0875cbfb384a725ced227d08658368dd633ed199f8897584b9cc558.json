@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Man Runner 2048", "version": "3.0", "description": "Your mission is to skillfully run and merge to attain the coveted number 2048", "permissions": ["activeTab"], "action": {"default_popup": "popup.html"}, "icons": {"128": "icon.png"}}

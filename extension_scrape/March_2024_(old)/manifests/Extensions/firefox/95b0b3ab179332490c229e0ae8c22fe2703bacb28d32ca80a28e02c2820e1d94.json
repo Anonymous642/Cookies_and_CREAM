@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Simone", "version": "0.1", "icons": {"150": "icon/icon.png"}, "description": "Filters out filthy words from document titles", "content_scripts": [{"matches": ["<all_urls>"], "js": ["filter.js"]}]}

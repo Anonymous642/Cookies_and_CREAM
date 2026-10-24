@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "mysearch", "version": "0.2", "author": "aread", "description": "Perform a search based on the highlighted text", "icons": {"48": "icons/logo.jpg"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{8d8db08a-7293-4119-a1a0-2027ad97e774}"}}}

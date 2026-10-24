@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "illegaal", "version": "1.0", "description": "Toy extension to replace every occurence of the string 'al' with 'aal'.", "icons": {"96": "icons/aal96.png"}, "content_scripts": [{"js": ["index.js"], "matches": ["*://*/*"]}]}

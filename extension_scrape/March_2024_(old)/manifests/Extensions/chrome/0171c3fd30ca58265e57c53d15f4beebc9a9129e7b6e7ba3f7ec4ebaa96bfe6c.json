@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Lightning To Reckless", "version": "1.0", "description": "Replaces the text \u2018Lightning Network\u2019 with \u2018Reckless Network\u2019.", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Filter", "version": "1.0", "description": "Filter for custom video length", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["ytfilter.js"]}], "permissions": [], "browser_specific_settings": {"gecko": {"id": "{affc8ac6-c36f-4f33-abba-b7c751b2030b}"}}}

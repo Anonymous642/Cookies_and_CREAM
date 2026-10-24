@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Average", "version": "1.0", "description": "Dodaje sredni\u0105 do dzienniczka.", "content_scripts": [{"matches": ["*://uonetplus-opiekun.vulcan.net.pl/*"], "js": ["Average.js"]}]}

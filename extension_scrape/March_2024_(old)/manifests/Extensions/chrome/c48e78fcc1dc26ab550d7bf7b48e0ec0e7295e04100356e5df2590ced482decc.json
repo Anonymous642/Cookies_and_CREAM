@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bad Joke", "version": "1.0.0", "manifest_version": 3, "description": "Bad Joke", "action": {"default_icon": "logo.png", "default_popup": "popup.html"}, "icons": {"16": "logo.png", "48": "logo.png", "128": "logo.png"}, "permissions": []}

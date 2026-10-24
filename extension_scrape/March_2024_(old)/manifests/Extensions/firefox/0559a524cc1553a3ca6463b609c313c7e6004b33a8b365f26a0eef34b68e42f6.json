@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dark Mode for all Websites", "version": "0.3.1", "description": "This is a simple chrome extension which allows you to make any website turn dark.", "content_scripts": [{"css": ["style.css"], "js": ["script.js"], "matches": ["<all_urls>"]}]}

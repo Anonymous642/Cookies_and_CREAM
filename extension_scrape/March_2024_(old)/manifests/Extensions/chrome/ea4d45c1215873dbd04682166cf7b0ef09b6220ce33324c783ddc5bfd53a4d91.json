@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "description": "Demonstrating toolbar buttons", "manifest_version": 2, "name": "Phonetic Alphabet", "version": "1.0", "browser_action": {"browser_style": true, "default_popup": "Phonetic.html", "default_icon": {"16": "Icon.png"}}}

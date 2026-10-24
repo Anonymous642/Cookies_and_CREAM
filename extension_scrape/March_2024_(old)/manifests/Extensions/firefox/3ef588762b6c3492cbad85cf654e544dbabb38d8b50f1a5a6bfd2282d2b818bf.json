@@ -1,0 +1,1 @@
+{"name": "h-extract", "version": "1.0", "description": "Download buncha gelbooru image at once!", "manifest_version": 2, "background": {"scripts": ["background_script.js"]}, "permissions": ["tabs", "downloads", "*://gelbooru.com/*"], "browser_action": {"default_icon": {"48": "Fingerprinters.svg"}, "default_title": "h-extract"}}

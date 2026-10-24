@@ -1,0 +1,1 @@
+{"description": "View elePHPant in the header of browser", "manifest_version": 2, "name": "theme elePHPant", "version": "1.0.2", "homepage_url": "https://github.com/hellosct1/theme-dynamic", "background": {"scripts": ["background/background.js"]}, "web_accessible_resources": ["resource/*"], "permissions": ["theme"]}

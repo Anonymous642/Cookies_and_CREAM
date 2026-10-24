@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "IP Location Lookup", "description": "IP Location Lookup by ipwhois.io", "version": "1.1.6", "author": "IPWHOIS.io", "icons": {"128": "icon_128.png"}, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{3cc4ec19-12d7-4081-9d88-a6082b71e5ec}"}}}

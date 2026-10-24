@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MetroLink Search", "description": "Search MetroLink by Department", "version": "1.0", "manifest_version": 3, "icons": {"16": "metrologo16.png", "48": "metrologo48.png"}, "background": {"service worker": ["popup.js"]}, "action": {"default_popup": "popup.html", "default_icon": "metrologo16.png"}}

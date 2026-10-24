@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Best Dog", "description": "Bestdog.in is a blog based on dog price in India, dog breeds in India and other dog related queries.", "version": "1.0", "browser_action": {"default_action": "icon.png", "default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "AIBlock", "version": "1.0", "description": "Removes AI-related content from your LinkedIn Feed.", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*.linkedin.com/*"], "js": ["blocker.js"]}], "browser_specific_settings": {"gecko": {"id": "aldoziflaj95@gmail.com"}}}

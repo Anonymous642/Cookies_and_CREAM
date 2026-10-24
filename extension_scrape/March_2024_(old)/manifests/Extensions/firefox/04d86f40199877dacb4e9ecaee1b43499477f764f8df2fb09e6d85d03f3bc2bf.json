@@ -1,0 +1,1 @@
+{"applications": {"gecko": {"id": "extension@flinkary.com"}}, "manifest_version": 2, "name": "Flinkary", "version": "0.1", "browser_action": {"default_icon": {"19": "icon.png", "38": "icon.png"}, "default_title": "Flinkary", "default_popup": "popup.html"}, "description": "Save pages in flinkary.com", "icons": {"48": "icon.png", "96": "icon.png"}, "permissions": ["activeTab"]}

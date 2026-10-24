@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Was ist das fuer 1 Life?", "short_name": "1Life?", "description": "(C) @matesteinforth 2018", "version": "0.2", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

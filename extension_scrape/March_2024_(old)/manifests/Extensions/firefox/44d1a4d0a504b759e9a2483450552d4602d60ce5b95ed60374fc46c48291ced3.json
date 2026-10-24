@@ -1,0 +1,1 @@
+{"name": "Stay Productive", "version": "1.0.0", "minimum_chrome_version": "46", "description": "A to-do list that keeps you productive throughout the day!", "browser_action": {"default_title": "Stay Productive", "default_popup": "popup.html"}, "manifest_version": 2}

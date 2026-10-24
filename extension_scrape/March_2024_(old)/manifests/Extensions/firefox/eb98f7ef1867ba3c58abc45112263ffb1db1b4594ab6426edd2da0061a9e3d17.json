@@ -1,0 +1,1 @@
+{"name": "__MSG_extName__", "description": "__MSG_extDescription__", "default_locale": "en", "version": "1.1", "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "contextMenus", "tabs"], "browser_action": {"default_title": "__MSG_defaultTitle__", "default_icon": "pgb.png"}, "manifest_version": 2}

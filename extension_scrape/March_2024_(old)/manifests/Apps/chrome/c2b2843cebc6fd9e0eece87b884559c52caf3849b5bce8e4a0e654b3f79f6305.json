@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Dialogos Radio 24/7", "description": "Listen live to Dialogos Radio 24/7", "version": "1.0.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.dialogosmedia.org/?page_id=25"], "launch": {"web_url": "http://www.dialogosmedia.org/?page_id=25"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SmileRedirect for Amazon", "version": "1.0", "description": "Automatically redirect to smile.amazon.com when using amazon.com.", "icons": {"48": "logo.png"}, "content_scripts": [{"matches": ["*://www.amazon.com/*"], "js": ["redirect.js"]}], "browser_specific_settings": {"gecko": {"id": "{48b109ed-58f2-4ace-a778-6c883301f0e9}"}}}

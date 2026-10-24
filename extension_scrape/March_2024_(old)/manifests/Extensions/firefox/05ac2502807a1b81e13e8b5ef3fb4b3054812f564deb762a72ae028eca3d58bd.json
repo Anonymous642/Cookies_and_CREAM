@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Old Reddit Redirect", "version": "1.0.0", "description": "Redirects all www.reddit.com page loads to old.reddit.com", "icons": {}, "permissions": ["webRequest", "webRequestBlocking", "*://www.reddit.com/*"], "background": {"scripts": ["redirect.js"]}, "browser_specific_settings": {"gecko": {"id": "{2f08031f-996a-4c6e-b24a-ef555d3e5dfb}"}}}

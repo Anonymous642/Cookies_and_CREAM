@@ -1,0 +1,1 @@
+{"description": "Disables the Slack Unified client.", "manifest_version": 2, "name": "SlackRevert", "version": "1.0", "homepage_url": "https://apimade.com", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["https://app.slack.com/client/*"], "js": ["revert.js"]}], "browser_specific_settings": {"gecko": {"id": "{12ad54a6-f20d-4d99-8d5a-efb8828800fd}"}}}

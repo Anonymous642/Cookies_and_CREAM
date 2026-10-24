@@ -1,0 +1,1 @@
+{"name": "Tab Numbering", "description": "This extension writes the tab number to the first eight tabs, the ones accessible with ctrl/cmd + number", "version": "0.1.1", "permissions": ["tabs", "http://*/*", "https://*/*"], "icons": {"128": "tab-numbering.png"}, "manifest_version": 2, "background": {"scripts": ["tab-numbering.js"]}}

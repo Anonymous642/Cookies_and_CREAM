@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Marvin", "version": "1.0", "description": "Plays a Marvin dialogue every time you open Marvin", "icons": {"48": "/icons/Marvin_48.jpg"}, "content_scripts": [{"matches": ["*://marvin.uni-marburg.de/*"], "js": ["Marvin.js"]}]}

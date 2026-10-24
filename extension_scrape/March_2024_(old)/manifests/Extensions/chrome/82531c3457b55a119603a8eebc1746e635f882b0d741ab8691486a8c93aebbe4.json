@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Noponet Redirect", "version": "1.0", "manifest_version": 3, "background": {"service_worker": "background.js"}, "permissions": ["webRequest"], "host_permissions": ["*://*/*"], "icons": {"128": "logo.png"}}

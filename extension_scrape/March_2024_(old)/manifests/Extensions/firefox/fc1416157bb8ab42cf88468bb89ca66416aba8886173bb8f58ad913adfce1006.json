@@ -1,0 +1,1 @@
+{"name": "ipfs stat viewer", "description": "view the data stored on a local ipfs node", "version": "1.0", "manifest_version": 2, "browser_action": {"default_popup": "index.html", "default_title": "Open the popup"}, "browser_specific_settings": {"gecko": {"id": "{58b83c6b-68dc-4c6e-9a3a-7379449fcc49}"}}}

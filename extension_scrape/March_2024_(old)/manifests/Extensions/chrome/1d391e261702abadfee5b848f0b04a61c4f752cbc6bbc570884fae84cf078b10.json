@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "GuadianGone", "description": "Epic Vector replaces GoGuardian block screen", "version": "1.0.3", "action": {"default_title": "NoGuardian", "default_popup": "NoGuardian_Window.html"}, "permissions": ["management"]}

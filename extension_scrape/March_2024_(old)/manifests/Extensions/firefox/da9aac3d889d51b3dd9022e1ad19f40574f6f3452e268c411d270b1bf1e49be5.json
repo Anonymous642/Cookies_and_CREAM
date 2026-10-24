@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Le SEUM", "version": "1.0", "description": "Remplace le mot SEUM par le drapeau de la belgique", "icons": {"48": "be.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["seum.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "VakioMax 3", "description": "Submit Vakioveikkaus wagers in bulk", "version": "0.5", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["https://www.veikkaus.fi/"], "icons": {"16": "soccer-ball-16.png", "128": "soccer-ball-128.png"}}

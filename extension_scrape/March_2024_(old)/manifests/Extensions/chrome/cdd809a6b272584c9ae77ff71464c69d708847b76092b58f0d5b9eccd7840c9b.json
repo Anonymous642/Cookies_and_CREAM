@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Majuscules avec accents", "version": "1.5", "manifest_version": 3, "description": "Extension qui permet de copier coller les lettres accentu\u00e9es fran\u00e7aises", "icons": {"128": "icon.png"}, "permissions": ["clipboardWrite"], "action": {"default_popup": "popup.html"}}

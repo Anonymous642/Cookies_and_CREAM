@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WinCleaner", "version": "2.2.2", "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["browsingData", "storage", "tabs"], "browser_action": {"default_icon": "icon_19.png", "default_title": "WinCleaner"}, "applications": {"gecko": {"id": "WinCleaner@crx-to-xpi"}}}

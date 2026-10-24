@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "2048 Game", "version": "1.0", "description": "It is a simple game.. 2048 Game", "icons": {"42": "images.png"}, "browser_action": {"default_title": "2048 Game", "default_popup": "index.html"}}

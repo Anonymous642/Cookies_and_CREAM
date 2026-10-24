@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TimetableForWeb", "version": "25.1", "description": "Simple timetable for web.", "icons": {"32": "tt32.png"}, "action": {"default_icon": "tt32.png", "default_title": "TimetableForWeb"}, "background": {"service_worker": "background.js"}}

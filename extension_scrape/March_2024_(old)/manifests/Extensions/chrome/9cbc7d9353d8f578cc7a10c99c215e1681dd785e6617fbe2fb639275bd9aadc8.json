@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "0.0.3", "name": "Sunyoo", "short_name": "Sunyoo", "manifest_version": 3, "default_locale": "en", "description": "__MSG_desc__", "icons": {"16": "Logo16.png", "48": "Logo64.png", "128": "Logo144.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "host_permissions": ["<all_urls>"]}

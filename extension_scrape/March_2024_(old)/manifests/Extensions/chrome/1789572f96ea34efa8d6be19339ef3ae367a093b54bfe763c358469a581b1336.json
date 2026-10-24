@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Foodify", "description": "Foodify - Your gateway to the world's tastiest recipes, cooking tips, and gourmet delights.", "background": {"service_worker": "background.js"}, "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"128": "img/128.png"}, "version": "1.0"}

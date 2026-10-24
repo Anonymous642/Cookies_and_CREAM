@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "MSteam", "version": "1.0.0.2", "description": "shows steam id64, and account creation date.", "icons": {"48": "icons/border-48.png"}, "applications": {"gecko": {"id": "{c63f4313-92b9-4ee5-95db-7d300a1e9f7f}"}}, "content_scripts": [{"matches": ["*://*.steamcommunity.com/profiles/*", "*://*.steamcommunity.com/id/*"], "js": ["MSteam.js"]}]}

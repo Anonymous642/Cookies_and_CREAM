@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "$TSLA Pre Stock Split Stock Price", "description": "Adds a line of text to Yahoo finance to show what the current stock price would be Pre 5:1 Stock Split", "version": "1.0", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

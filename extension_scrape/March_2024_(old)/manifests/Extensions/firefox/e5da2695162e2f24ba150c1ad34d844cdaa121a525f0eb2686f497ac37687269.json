@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sphere Calculator", "version": "1.0", "description": "Calculates the surface area and volume of a sphere.", "icons": {"48": "icon.png"}, "browser_action": {"default_icon": "icon.png", "default_title": "Sphere Calculator", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{b0e81ad4-c29d-4673-9863-57fc54d043e6}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Early Bird Edit", "version": "1.0", "manifest_version": 3, "action": {"default_title": "Open Early Bird Edit", "default_icon": {"128": "icon.png"}}, "permissions": [], "background": {"service_worker": "sw.js"}}

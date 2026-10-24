@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Fastoodle", "description": "Fastoodle - draw it your way", "permissions": ["storage"], "icons": {"128": "img/icon.png"}, "chrome_url_overrides": {"newtab": "search.html"}, "background": {"service_worker": "background.js"}, "version": "1.0.0"}

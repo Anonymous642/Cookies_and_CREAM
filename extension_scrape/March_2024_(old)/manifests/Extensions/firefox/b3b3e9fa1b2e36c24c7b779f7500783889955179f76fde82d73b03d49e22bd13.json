@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Visu", "version": "1.1", "description": "Github page with the best font.", "icons": {"48": "icons/icon48.png"}, "content_scripts": [{"matches": ["*://*.github.com/*"], "css": ["better.css"]}]}

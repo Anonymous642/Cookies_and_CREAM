@@ -1,0 +1,1 @@
+{"name": "CheharaTime", "author": "Prasanna", "version": "0.2", "manifest_version": 2, "minimum_firefox_version": "33", "description": "Capture full-screen or specific application's screen on any HTTPs domain!", "homepage_url": "https://www.cheharatime.com/", "content_scripts": [{"js": ["bootstrap.js"]}], "icons": {"48": "icon.png"}, "web_accessible_resources": ["icon.png"]}

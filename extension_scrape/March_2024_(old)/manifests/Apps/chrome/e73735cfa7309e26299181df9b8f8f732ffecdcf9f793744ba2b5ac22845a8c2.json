@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Particles", "description": "My first Chrome App.", "version": "0.1", "app": {"background": {"scripts": ["background.js"]}}}

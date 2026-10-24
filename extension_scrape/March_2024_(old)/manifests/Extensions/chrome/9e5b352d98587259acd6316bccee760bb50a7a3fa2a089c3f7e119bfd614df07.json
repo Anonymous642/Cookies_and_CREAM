@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.0.15", "manifest_version": 3, "name": "YouTube Chat Overlay", "background": {"service_worker": "background.js"}, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["vendor.js", "content.js"]}], "action": {"default_popup": "popup.html"}, "permissions": ["tabs", "storage"]}

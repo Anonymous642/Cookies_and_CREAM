@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tab List", "description": "List view for all your tabs. Access your tabs with efficiency.", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "index.html"}, "permissions": ["tabs"], "icons": {"128": "icon-128.png"}}

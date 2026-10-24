@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Apotheken Preisvergleich Grey Background", "version": "1.0", "description": "Adds a gray background to apotheken-preisvergleich.com", "permissions": ["tabs", "https://apotheken-preisvergleich.com/"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{79dba0df-097f-4905-8f7b-14df0b1de809}"}}}

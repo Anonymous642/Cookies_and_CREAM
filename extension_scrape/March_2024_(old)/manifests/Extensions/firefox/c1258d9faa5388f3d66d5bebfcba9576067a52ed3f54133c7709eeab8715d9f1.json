@@ -1,0 +1,1 @@
+{"version": "1.0", "applications": {"gecko": {"id": "rtm-sidebar@mikeconley.ca", "strict_min_version": "54.0"}}, "description": "Opens Remember The Milk in the Firefox sidebar.", "manifest_version": 2, "name": "Remember the Sidebar", "sidebar_action": {"default_title": "Remember the Sidebar", "default_panel": "sidebar.html", "browser_style": false}}

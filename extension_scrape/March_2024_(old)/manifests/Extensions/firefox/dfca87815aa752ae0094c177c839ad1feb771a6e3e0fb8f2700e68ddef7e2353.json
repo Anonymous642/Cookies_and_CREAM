@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SessionResize", "version": "1.0", "description": "Simply open a new window and close it to force Firefox to resize his window. Useful when restoring session on a tilling manager (such as i3).", "icons": {"48": "icons/border-48.png"}, "background": {"scripts": ["background-script.js"]}}

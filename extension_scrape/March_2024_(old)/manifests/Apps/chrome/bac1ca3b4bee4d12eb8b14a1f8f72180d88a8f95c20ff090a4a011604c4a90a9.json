@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Appreiz", "description": " Appreiz is a social recognition platform that enab,kes culture, drives productivity and employee engagement", "app": {"urls": ["http://www.appreiz.com/"], "launch": {"web_url": "http://www.appreiz.com/"}}, "manifest_version": 2, "version": "0.2", "icons": {"128": "icon.png"}}

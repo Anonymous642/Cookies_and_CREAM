@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Doge-Killer", "version": "1.0.1", "description": "Deletes the doge from twitter dot com.", "icons": {"48": "icons/doge-killer.png"}, "content_scripts": [{"matches": ["*://*.twitter.com/*"], "run_at": "document_end", "js": ["doge-killer.js"]}], "browser_specific_settings": {"gecko": {"id": "{99ea6f24-4b0f-4d70-b324-c36e2fac8f60}"}}}

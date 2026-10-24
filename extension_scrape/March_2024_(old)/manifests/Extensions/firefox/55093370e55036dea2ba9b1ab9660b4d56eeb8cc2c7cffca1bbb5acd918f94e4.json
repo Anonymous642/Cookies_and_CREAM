@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Trello progress", "version": "1.1", "description": "Adding progressbar to the card's background based on completet tasks count", "icons": {"48": "icons/trello-progress-48.png"}, "content_scripts": [{"matches": ["*://trello.com/*"], "js": ["trello-progress.js"]}]}

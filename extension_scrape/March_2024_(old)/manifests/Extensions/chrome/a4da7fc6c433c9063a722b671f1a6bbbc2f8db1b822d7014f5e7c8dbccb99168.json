@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Romaji To Japanese", "description": "Type kana alphabets without japanese keyboard.", "version": "1.0", "icons": {"48": "images/romajiToJapanese.png"}, "content_scripts": [{"js": ["katakana.js", "hiragana.js", "romajiToJapanese.js"], "matches": ["https://*/*"]}]}

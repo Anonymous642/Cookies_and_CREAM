@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Straight Pride corrector", "version": "1.0", "description": "Replaces all instances of \"straight pride\" to \"pride for boring cunts\"", "manifest_version": 2, "permissions": ["activeTab", "declarativeContent"], "content_scripts": [{"matches": ["*://*/*"], "js": ["main.js"], "run_at": "document_end"}]}

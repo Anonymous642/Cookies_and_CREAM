@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Izbolj\u0161aj VIS@FGG", "version": "1.0", "description": "Doda gumb za izvoz v koledar na VIS FGG.", "content_scripts": [{"matches": ["*://visfgg.uni-lj.si/profesor_pregled_1.asp"], "all_frames": true, "js": ["FGG-VIS-izboljsevalnik.js"]}]}

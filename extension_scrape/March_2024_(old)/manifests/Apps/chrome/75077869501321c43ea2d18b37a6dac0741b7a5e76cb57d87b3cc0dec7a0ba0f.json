@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_app_name__", "short_name": "Stencil", "description": "__MSG_app_desc__", "version": "1.31.0.0", "manifest_version": 2, "default_locale": "en", "icons": {"128": "icon-128.png"}, "app": {"urls": ["https://salon.stencilapps.com/"], "launch": {"web_url": "https://salon.stencilapps.com/"}}}

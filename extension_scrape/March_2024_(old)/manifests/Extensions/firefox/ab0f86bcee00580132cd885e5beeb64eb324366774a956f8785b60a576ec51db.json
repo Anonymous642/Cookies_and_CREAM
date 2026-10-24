@@ -1,0 +1,1 @@
+{"name": "CS-Tool Extension", "version": "1.0.6", "description": "Select your text and right click to go to the page", "manifest_version": 2, "icons": {"16": "icon16.png"}, "browser_action": {"default_icon": "icon16.png", "default_title": "Tracer"}, "permissions": ["contextMenus", "tabs", "http://*/*"], "background": {"scripts": ["jqeury.js", "background.js"]}}

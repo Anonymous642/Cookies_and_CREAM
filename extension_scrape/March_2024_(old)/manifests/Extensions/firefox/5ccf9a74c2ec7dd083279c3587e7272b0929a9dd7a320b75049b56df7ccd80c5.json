@@ -1,0 +1,1 @@
+{"author": "igorlogius", "background": {"scripts": ["background.js"]}, "icons": {}, "manifest_version": 2, "name": "Copy Link Extras", "options_ui": {"page": "options.html"}, "permissions": ["storage", "menus", "clipboardWrite", "activeTab"], "version": "1.1.5", "browser_specific_settings": {"gecko": {"id": "{a10c98c0-894c-4cca-a88a-61966a3e480e}"}}}

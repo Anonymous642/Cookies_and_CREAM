@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YT Promo auto remove", "version": "1.0.1", "description": "Removes the purchase youtube premium popup from youtube", "author": "perjohan98@outlook.com", "content_scripts": [{"js": ["promptRemove.js"], "matches": ["*://*.youtube.com/*"]}], "host_permissions": ["*://*.youtube.com/*"]}

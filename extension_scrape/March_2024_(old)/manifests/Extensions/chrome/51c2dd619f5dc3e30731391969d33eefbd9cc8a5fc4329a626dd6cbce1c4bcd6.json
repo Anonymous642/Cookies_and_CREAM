@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Bing Click Search", "description": "Select text, rightclick and search on bing.com", "version": "1.0.1", "manifest_version": 3, "action": {"default_icon": "def_icon.png"}, "background": {"service_worker": "background.js"}, "permissions": ["contextMenus"]}

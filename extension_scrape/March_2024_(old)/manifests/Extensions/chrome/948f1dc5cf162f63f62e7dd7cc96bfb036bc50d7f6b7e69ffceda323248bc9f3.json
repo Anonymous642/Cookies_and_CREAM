@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "TJPE SICASE GAMBI", "description": "Corrigir os campos de valor fiscal e valor declarado na GUIA SICASE", "version": "0.4", "content_scripts": [{"matches": ["https://www.tjpe.jus.br/sicase/*"], "js": ["content.js"]}]}

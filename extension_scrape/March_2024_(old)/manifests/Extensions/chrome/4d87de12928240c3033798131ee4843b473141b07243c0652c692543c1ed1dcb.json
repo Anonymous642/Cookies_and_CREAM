@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Address Services Tool", "version": "0.0.1", "manifest_version": 3, "action": {"default_popup": "index.html", "default_title": "Address Services Tool"}, "icons": {"16": "/assets/icon.png", "48": "/assets/icon.png", "128": "/assets/icon.png"}}

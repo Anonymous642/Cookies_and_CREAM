@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Taboon", "description": "Tab autoswitcher", "version": "0.0.1", "background": {"scripts": ["bg.js"]}, "permissions": ["tabs", "storage"], "browser_action": {"default_icon": "icon.png"}, "options_ui": {"page": "properties.html", "chrome_style": true}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "srcAddon", "version": "1.0", "description": "Scroller Addon For Mozilla", "icons": {"48": "fff.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["srcborder.js"], "css": ["style.css"]}]}

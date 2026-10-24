@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "short_name": "Geevi \u2013 Temp Email", "name": "Geevi \u2013 Temp Email", "icons": {"16": "favicon.ico", "48": "48x48.png", "128": "128x128.png"}, "permissions": [], "manifest_version": 3, "version": "0.0.2", "action": {"default_popup": "index.html", "default_title": "Geevi"}}

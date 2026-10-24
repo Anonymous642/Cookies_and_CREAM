@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "App Idea Generator", "version": "1.0", "description": "Provides new app ideas for mobile app developers and entrepreneurs.", "action": {"default_popup": "popup.html"}, "icons": {"48": "trango-tech-logo-48x48.png", "128": "trango-tech-logo-128x128.png"}}

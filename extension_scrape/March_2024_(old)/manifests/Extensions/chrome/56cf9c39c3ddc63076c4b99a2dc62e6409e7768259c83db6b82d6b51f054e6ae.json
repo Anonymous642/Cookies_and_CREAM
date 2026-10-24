@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Remaining time", "description": "count down your life time", "version": "1.0", "manifest_version": 2, "icons": {"128": "./assets/favicon/sand-clock.png"}, "chrome_url_overrides": {"newtab": "index.html"}}

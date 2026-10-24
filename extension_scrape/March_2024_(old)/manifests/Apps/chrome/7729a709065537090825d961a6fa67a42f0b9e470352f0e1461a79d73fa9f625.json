@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "EmailMe", "description": "Email To Me", "version": "2.0", "icons": {"128": "icon.png"}, "manifest_version": 2, "app": {"urls": ["http://emailtomememe-2.appspot.com/EmailToMe.html"], "launch": {"web_url": "http://emailtomememe-2.appspot.com"}}}

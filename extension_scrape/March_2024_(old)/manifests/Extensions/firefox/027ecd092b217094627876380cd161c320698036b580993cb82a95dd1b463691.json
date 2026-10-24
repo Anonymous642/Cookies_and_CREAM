@@ -1,0 +1,1 @@
+{"description": "first theme", "manifest_version": 2, "name": "dyl-first-theme", "permissions": ["theme"], "background": {"scripts": ["theme.js"]}, "version": "1.0", "applications": {"gecko": {}}}

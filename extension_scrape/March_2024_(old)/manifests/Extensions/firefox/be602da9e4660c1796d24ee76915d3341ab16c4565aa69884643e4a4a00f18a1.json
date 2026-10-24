@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HasteIt", "version": "0.1", "description": "Uploads highlighted text to Hastebin", "background": {"scripts": ["code.js"]}, "commands": {"get-selected-text": {"suggested_key": {"default": "Ctrl+Shift+Y"}, "description": "Uploads the selected text to Hastebin"}}, "permissions": ["activeTab", "contextMenus", "clipboardWrite"]}

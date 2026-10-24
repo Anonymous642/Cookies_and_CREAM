@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Url Video Player", "version": "1.0", "description": "Allows To Play File Urls", "manifest_version": 3, "author": "SnakySeek", "permissions": ["downloads"], "action": {"default_title": "Url Video Player", "default_icon": "assets/icon.png"}, "background": {"service_worker": "servicework.js"}}

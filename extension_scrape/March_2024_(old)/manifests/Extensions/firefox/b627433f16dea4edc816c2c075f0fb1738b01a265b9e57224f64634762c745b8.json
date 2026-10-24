@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "__MSG_appName__", "version": "4.1", "description": "__MSG_appDesc__", "default_locale": "en", "browser_action": {"default_icon": "icon0.gif"}, "background": {"scripts": ["event.js"], "persistent": false}, "permissions": ["tabs", "<all_urls>"]}

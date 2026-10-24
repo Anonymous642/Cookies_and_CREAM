@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "When.io", "description": "When.io is a date math extension that provides many calculators for date-specific math, and jokes to make your day a little better.", "version": "2.7", "action": {"default_popup": "index.html", "default_icon": "W.png"}, "permissions": ["storage"]}

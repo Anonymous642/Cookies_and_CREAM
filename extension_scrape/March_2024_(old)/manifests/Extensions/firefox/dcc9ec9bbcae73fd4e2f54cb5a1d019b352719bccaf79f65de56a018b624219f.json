@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab rename", "version": "1.0", "description": "Adds a context menu item to rename tabs", "permissions": ["activeTab", "menus", "tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "moz-tab-rename@git.segundo.io"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Fish Eater", "description": "A simple game featuring fish, where you must eat the smaller fish to become big and rule the pond.", "version": "4.0.0", "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "img/icon_16.png", "128": "img/icon_128.png"}, "manifest_version": 2}

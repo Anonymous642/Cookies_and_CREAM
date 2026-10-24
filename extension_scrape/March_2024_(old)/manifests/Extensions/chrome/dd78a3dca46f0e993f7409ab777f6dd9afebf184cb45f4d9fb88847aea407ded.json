@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "New Tab GRE", "version": "0.5", "description": "Learn a random GRE word everytime you open a new tab", "icons": {"128": "icon_128.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}, "background": {}, "short_name": "GRE New tab", "author": "Rohit Gandhi"}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Closing Time", "version": "1.0.2", "description": "Why does Amazon have to be open 24/7? This add-on makes it so you can't access Amazon after business hours.", "icons": {"48": "icons/closing-48.png"}, "content_scripts": [{"run_at": "document_start", "matches": ["*://*.amazon.com/*"], "js": ["closing-time.js"]}]}

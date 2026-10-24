@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "tab-controller", "description": "Easy tabs move.", "version": "2.0.0", "manifest_version": 3, "icons": {"48": "images/48.png", "128": "images/128.png"}, "action": {"default_title": "Control tab", "default_popup": "popup/index.html"}, "background": {"service_worker": "background.js"}}

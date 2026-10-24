@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Spelling Coach", "description": "A place to store, practice, and master commonly misspelled words through spaced-repetition.", "version": "1.0.1", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "browser_action": {"default_popup": "popup.html"}}

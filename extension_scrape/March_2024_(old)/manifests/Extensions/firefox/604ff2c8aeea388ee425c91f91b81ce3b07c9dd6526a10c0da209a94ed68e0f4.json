@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Radio Button Unchecker", "version": "2.0", "description": "This extension allows users to uncheck radio buttons!  Right-click any radio button to uncheck.", "icons": {"48": "icons/unradio-48.png", "96": "icons/unradio-96.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["unradio.js"]}]}

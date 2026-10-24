@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Delete Videos From DailyMail Articles (Beta)", "version": "2.0", "description": "Delete videos from dailymail articles (Beta)", "content_scripts": [{"matches": ["*://*.dailymail.co.uk/*"], "js": ["jquery-3.3.1.min.js", "background.js"]}]}

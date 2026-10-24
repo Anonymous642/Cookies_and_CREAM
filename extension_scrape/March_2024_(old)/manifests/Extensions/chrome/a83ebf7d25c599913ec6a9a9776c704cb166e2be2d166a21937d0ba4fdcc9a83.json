@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "New Tab", "version": "5.0.0", "author": "Bengt Brodersen <bengt.brodersen@gmail.com>", "icons": {"48": "newtab.png", "128": "newtab.png"}, "offline_enabled": true, "chrome_url_overrides": {"newtab": "newtab.html"}}

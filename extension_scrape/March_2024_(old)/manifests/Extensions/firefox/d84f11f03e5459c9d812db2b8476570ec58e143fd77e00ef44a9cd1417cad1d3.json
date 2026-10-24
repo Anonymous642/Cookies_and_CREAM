@@ -1,0 +1,1 @@
+{"name": "Wisexplore Extension", "version": "0.0.7", "description": "Wisexplore Extension", "permissions": ["activeTab", "cookies", "*://*.wisexplore.com/", "tabs", "storage"], "browser_action": {"default_icon": "wisexplore.png", "default_title": "\u4fdd\u5b58\u81f3Wisexplore", "default_popup": "popup.html"}, "manifest_version": 2}

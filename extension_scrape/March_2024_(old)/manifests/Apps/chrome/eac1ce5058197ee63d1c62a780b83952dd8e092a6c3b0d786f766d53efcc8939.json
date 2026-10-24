@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ECE Plots", "short_name": "ECE Plots", "description": "Energy conversion equations plots ...", "version": "1.12.1", "manifest_version": 2, "offline_enabled": true, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"128": "icon_128.png"}}

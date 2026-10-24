@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Space Battle!", "description": "Become a master of the universe in this fast paced space shooter! Play against a friend in two player mode.", "version": "0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"launch": {"web_url": "http://gamedevhost.nfshost.com/tag9/battle.html"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Alert-Blocker", "version": "1.0", "description": "Transform alert to console.log", "icons": {"48": "icons/blocker.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["alert-blocker.js"]}]}

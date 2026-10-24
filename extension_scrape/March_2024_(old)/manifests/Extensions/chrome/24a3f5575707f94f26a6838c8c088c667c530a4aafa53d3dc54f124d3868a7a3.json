@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Desmos: Dark Mode", "version": "0.1.3", "manifest_version": 3, "description": "Dark Mode for Desmos", "content_scripts": [{"matches": ["https://*.desmos.com/calculator"], "css": ["dark.css"]}], "icons": {"128": "iconhlf.png"}}

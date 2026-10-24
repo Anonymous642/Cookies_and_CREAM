@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Open Image in This Tab", "version": "1.0", "description": "Open image in this tab.", "homepage_url": "https://github.com/mrpronr/open-image-in-this-tab", "icons": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["contextMenus"]}

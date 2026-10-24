@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube History Downloader", "version": "0.1", "description": "Saves entire youtube watch history as a file", "content_scripts": [{"matches": ["*://*.youtube.com/feed/history"], "js": ["downloadYoutubeHistory.js"]}]}

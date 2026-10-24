@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "GNF to ISK", "version": "1.0", "description": "Convert Guinean franc to Icelandic kr\u00f3na", "browser_specific_settings": {"gecko": {"id": "gnf-to-isk@example.com"}}}

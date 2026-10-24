@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Bad Goat Racing", "description": "NMCA Drag Racing Team. Sponsors wanted.Please visit us for more information", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"urls": ["HTTP://badgoatracing.com/"], "launch": {"web_url": "HTTP://badgoatracing.com/"}}}

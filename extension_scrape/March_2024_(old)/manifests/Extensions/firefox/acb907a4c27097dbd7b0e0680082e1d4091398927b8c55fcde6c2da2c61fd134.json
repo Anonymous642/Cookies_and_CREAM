@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GNUify", "version": "1.1", "description": "Replaces all occurrences of the word \"Linux\" with \"GNU/Linux\".", "icons": {"48": "icons/logo-48.png"}, "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["gnuify.js"], "run_at": "document_end"}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "aTool.org", "version": "0.1", "app": {"launch": {"web_url": "http://www.aTool.org/"}, "urls": ["http://www.aTool.org/"]}, "description": "Google Plugin for Site www.aTool.org", "icons": {"16": "logo.png", "48": "logo.png", "128": "logo.png"}}

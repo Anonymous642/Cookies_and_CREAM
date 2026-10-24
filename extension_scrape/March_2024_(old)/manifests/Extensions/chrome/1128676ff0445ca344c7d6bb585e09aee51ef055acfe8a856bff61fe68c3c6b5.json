@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Daily Bible Encouragement", "description": "This extension will provide people with daily encouragement from God's Word", "version": "1.0.0", "chrome_url_overrides": {"newtab": "index.html"}}

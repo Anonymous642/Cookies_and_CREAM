@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Instagram Comments Loader", "description": "Load all Instagram comments", "version": "1.0", "manifest_version": 3, "content_scripts": [{"matches": ["https://*.instagram.com/*"], "js": ["content.js"], "css": ["explode.css"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Background Check", "description": "Lookup criminal records and history from a huge database of criminals", "version": "2.1.3", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://ibackgroundcheck.info/"], "launch": {"web_url": "http://ibackgroundcheck.info/"}}}

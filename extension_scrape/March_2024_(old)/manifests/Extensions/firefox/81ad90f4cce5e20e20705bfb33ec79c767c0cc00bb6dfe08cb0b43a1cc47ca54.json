@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pixel Drawing Extension", "version": "1.0", "description": "Draw with pixels in a popup window", "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "browser_action": {"default_popup": "popup.html"}, "permissions": ["activeTab"], "browser_specific_settings": {"gecko": {"id": "{a0e6ec48-2a32-4429-8cca-8381fe9affb1}"}}}

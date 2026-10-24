@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "findgo", "version": "1.0", "description": "find quickly info!", "icons": {"48": "icon.png", "96": "icon.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["findgo.js"]}]}

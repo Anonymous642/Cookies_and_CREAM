@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GreyKeep", "version": "2.0", "description": "Sets background in Google Keep to light grey", "icons": {"48": "icons/greykeep-48.png"}, "content_scripts": [{"matches": ["*://keep.google.com/*"], "js": ["greykeep.js"]}], "applications": {"gecko": {"id": "madeupmail@gmail.com"}}}

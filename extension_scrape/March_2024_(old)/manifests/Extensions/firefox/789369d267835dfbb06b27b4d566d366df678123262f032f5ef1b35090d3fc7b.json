@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Achavi button", "version": "0.2.1", "description": "Add button links to Achavi webpage on changesets of the OpenStreetmap web history sidebar", "content_scripts": [{"matches": ["*://www.openstreetmap.org/*"], "js": ["achavi.js"]}]}

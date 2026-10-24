@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Lark", "version": "1.1", "description": "Fixes input boxes on dark themes.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["lark.js"]}], "icons": {"96": "icons/icon-96.png"}, "applications": {"gecko": {"id": "lark@webionite.com"}}}

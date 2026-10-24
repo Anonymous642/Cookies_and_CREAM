@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "github-easy-edit", "description": "make editing pr description/comment on GitHub easier", "version": "0.1", "manifest_version": 3, "content_scripts": [{"matches": ["https://github.com/*/pull/*", "https://github.com/*/issues/*"], "run_at": "document_idle", "js": ["index.js"], "css": ["index.css"]}]}

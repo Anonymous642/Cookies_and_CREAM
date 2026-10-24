@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.0", "name": "Fast Language Extension", "description": "A Chrome extension to learn languages faster whenever you open a new tab.", "manifest_version": 3, "icons": {"16": "logo/logo.png", "48": "logo/logo.png", "128": "logo/logo.png"}, "chrome_url_overrides": {"newtab": "./index.html"}}

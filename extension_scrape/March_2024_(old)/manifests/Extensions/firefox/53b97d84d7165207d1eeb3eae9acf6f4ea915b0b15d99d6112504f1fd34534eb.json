@@ -1,0 +1,1 @@
+{"name": "Ph\u00f4i g\u1ed7 cao su", "version": "0.0.1", "manifest_version": 2, "description": "phoigocaosu.com", "homepage_url": "https://www.phoigocaosu.com/", "icons": {"48": "icons/48.png"}, "background": {"scripts": ["main.js"]}, "browser_action": {"default_icon": {"48": "icons/48.png"}, "default_title": "C\u01b0\u1eddng b\u00ea \u0111\u00ea"}}

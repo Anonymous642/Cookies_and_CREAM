@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ImmuneFiles", "version": "2.2.0", "content_scripts": [{"matches": ["<all_urls>"], "js": ["index.js"]}], "icons": {"48": "logo.png"}, "browser_action": {"default_popup": "index.html", "default_icon": "logo.png"}, "permissions": ["<all_urls>"], "browser_specific_settings": {"gecko": {"id": "{7457a262-baa4-4861-8463-cc1cdc745960}"}}}

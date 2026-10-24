@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "A Simple Chrome theme", "chrome_url_overrides": {"newtab": "override_page.html"}, "description": "A simple chrome theme that will give you a better experience and give your chrome a fresh look.", "version": "0.1.0", "manifest_version": 3, "icons": {"128": "logo.png"}}

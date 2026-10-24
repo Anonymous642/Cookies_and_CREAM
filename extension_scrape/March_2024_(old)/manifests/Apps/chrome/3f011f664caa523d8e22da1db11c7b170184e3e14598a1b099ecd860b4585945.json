@@ -1,0 +1,1 @@
+{"app": {"launch": {"web_url": "http://dealfinder.altervista.org/"}}, "description": "Cerca Sconti fino al 99%. Un tool che permette di cercare sconti nascosti su Amazon.", "icons": {"128": "icon-128.png"}, "name": "Amazon International Shopping", "short_name": "Amazon EU", "update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "version": "1.0.4"}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "clean-read", "version": "1.0", "description": "Hides refs on science direct articles", "icons": {"48": "icons/lucidify.svg"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/lucidify.svg", "browser_style": true, "default_title": "Lucidify", "default_popup": "popup/menu.html"}}

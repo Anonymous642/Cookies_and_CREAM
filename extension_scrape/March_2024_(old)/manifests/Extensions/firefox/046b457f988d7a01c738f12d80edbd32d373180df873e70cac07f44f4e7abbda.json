@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Netflix Auto-Skip", "author": "se7t", "version": "1.3", "description": "The simpliest addon out there that does what the name says and nothing more.", "icons": {"48": "./icons/skip48.png", "96": "./icons/skip96.png"}, "content_scripts": [{"matches": ["https://www.netflix.com/*"], "js": ["netflix-skip.js"]}]}

@@ -1,0 +1,1 @@
+{"name": "Personal Finance Guru", "description": "Your Own Financial Planner", "app": {"urls": ["http://pfguru.com/"], "launch": {"web_url": "http://pfguru.com/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

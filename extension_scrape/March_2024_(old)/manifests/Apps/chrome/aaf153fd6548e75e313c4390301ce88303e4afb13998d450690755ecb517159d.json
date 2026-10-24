@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Gaming-God Forums", "description": "Gaming - God forums!", "version": "0.3", "icons": {"128": "128.jpg"}, "app": {"launch": {"web_url": "http://god.codymorton.us"}}}

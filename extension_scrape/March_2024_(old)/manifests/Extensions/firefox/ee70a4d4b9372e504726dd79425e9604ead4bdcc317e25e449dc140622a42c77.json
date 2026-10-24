@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "yt-nhp", "version": "1.0", "description": "YouTube no hover-preview on videos", "icons": {"48": "icons/yt-nhp-48.png", "96": "icons/yt-nhp-96.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/watch*"], "js": ["yt-nhp.js"]}]}

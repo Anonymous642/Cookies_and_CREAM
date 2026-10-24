@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "domada", "description": "Efficient Usage of Time", "version": "0.0.1", "app": {"urls": ["http://domada.jonasw.de/"], "launch": {"web_url": "http://domada.jonasw.de/"}}, "icons": {"16": "icon_x16.png", "48": "icon_x48.png", "128": "icon_x128.png"}, "manifest_version": 2, "offline_enabled": true}

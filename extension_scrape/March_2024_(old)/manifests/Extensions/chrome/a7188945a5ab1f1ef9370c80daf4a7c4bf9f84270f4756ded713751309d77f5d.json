@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Sendero Chrome Extension for WebflowGPT", "version": "1.0", "description": "A simple Chrome extension using vanilla JavaScript", "content_scripts": [{"matches": ["https://webflow.com/design/*"], "js": ["content-scripts.js"]}], "permissions": ["activeTab"]}

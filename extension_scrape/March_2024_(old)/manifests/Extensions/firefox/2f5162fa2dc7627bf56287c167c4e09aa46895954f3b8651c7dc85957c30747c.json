@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Close Tab Button", "version": "1.1", "description": "Adds a button to the toolbar to close the current tab.", "icons": {"48": "images/CloseTabButton.svg", "96": "images/CloseTabButton.svg"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": {"16": "images/CloseTabButton.svg", "32": "images/CloseTabButton.svg"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "RESUMate Web Profile Tool", "version": "1.11.0", "description": "Easily add candidate data", "icons": {"16": "content/icon16.png"}, "browser_action": {"default_popup": "popup.html"}, "permissions": ["activeTab", "clipboardWrite"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Filestage", "description": "The easiest way review videos, documents, audio files and images.", "version": "1.39.2.0", "manifest_version": 2, "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "app": {"launch": {"web_url": "https://app.filestage.io/#!/projects"}}}

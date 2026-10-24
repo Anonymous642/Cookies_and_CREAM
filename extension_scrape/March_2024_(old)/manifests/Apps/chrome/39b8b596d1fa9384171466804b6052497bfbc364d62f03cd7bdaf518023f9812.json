@@ -1,0 +1,12 @@
+{
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "name": "Whiteboardr Web",
+  "version": "0.0.1",
+  "manifest_version":2,
+  "description": "Collaborative educational whiteboarding app.",
+  "app": {
+    "launch": { "web_url": "http://www.whiteboardr.org"}
+  },
+  "permissions": ["webview","audioCapture", "videoCapture"],
+  "icons": {"128": "128x128.png" }
+}

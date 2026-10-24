@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WideGitHub", "version": "1.0", "description": "Wide GitHub", "icons": {"128": "icons/fit.png"}, "content_scripts": [{"matches": ["*://*.github.com/*"], "js": ["wide_github.js"]}]}

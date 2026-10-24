@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Coder's Toolbox", "description": "A collection of the best resources for coders.", "manifest_version": 2, "version": "1.0.0", "icons": {"48": "icon_48.png", "128": "icon_128.png"}, "browser_action": {"default_icon": "icon_16.png", "default_popup": "toolbox.html"}, "permissions": [""]}

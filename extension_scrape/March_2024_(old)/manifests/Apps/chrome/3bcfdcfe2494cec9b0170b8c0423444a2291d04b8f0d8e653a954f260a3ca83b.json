@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "NKonnect Infoway", "description": "Internet of Things | Mobile & Cloud | Embedded Mobile | Human Machine Interface", "version": "1.0.0", "manifest_version": 2, "icons": {"128": "NK_logo.png"}, "app": {"urls": ["http://www.nkonnect.com/"], "launch": {"web_url": "http://www.nkonnect.com/"}}}

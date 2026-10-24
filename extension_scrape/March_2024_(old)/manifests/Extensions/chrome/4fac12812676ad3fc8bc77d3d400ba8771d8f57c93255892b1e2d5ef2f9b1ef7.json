@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Guru Cycling Tips", "version": "1.5", "description": "THE BEST TIPS AND ADVICE FOR CYCLISTS", "icons": {"256": "images/icon-256.png"}, "chrome_url_overrides": {"newtab": "new_tab.html"}, "manifest_version": 3}

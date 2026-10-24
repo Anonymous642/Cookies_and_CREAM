@@ -1,0 +1,1 @@
+{"description": "Naprawia strone Bajeczki.org", "manifest_version": 2, "name": "BajeczkiOrgFix", "version": "1.0", "icons": {"48": "icons/bajeczkiorgfix-48.png"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*.bajeczki.org/*"], "js": ["main.js"]}], "browser_specific_settings": {"gecko": {"id": "{dabd0eba-4b48-4600-b785-a2115f5a89f4}"}}}

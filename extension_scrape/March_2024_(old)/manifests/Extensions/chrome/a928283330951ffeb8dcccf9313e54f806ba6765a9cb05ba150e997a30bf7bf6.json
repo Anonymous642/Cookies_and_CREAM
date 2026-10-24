@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "HLX Studios Extension", "description": "HLX Studios chrome extension to show related links", "version": "0.1", "manifest_version": 3, "background": {"service_worker": "background.js"}, "action": {"default_popup": "index.html", "default_icon": {"16": "/images/hlx.png"}}, "icons": {"16": "/images/hlx.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Moonriver price tracker", "description": "By installing this extension anyone can follow latest Moonriver price by just one click", "version": "1.1", "manifest_version": 3, "action": {"default_popup": "popup.html"}, "icons": {"16": "16.png", "32": "32.png", "48": "48.png", "128": "128.png"}}

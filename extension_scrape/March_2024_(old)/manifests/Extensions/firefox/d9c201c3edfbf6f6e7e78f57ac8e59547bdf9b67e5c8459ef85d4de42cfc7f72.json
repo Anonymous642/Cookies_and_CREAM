@@ -1,0 +1,1 @@
+{"name": "YTAB", "description": "Youtube adblocker that works by speeding up the ads' video player", "version": "1.0", "manifest_version": 3, "content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["ytab.js"]}], "browser_specific_settings": {"gecko": {"id": "ytab@hafnium780.github.io"}}}

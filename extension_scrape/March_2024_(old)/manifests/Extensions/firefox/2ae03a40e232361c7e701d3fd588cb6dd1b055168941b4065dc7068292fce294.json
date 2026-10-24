@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Google Slide IMG extractor", "version": "1.2.1", "description": "Permite ver las im\u00e1genes incrustadas en los slides de Google en una pesta\u00f1a independiente", "icons": {"48": "icons/googleSLideIMG.png"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://docs.google.com/*"], "js": ["jquery-3.3.1.js", "content.js"]}]}

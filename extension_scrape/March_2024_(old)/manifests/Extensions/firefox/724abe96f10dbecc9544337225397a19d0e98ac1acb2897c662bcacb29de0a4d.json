@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Lasource Helper", "description": "Lasource Helper", "version": "2.0.1", "author": "JustOff", "icons": {"32": "icon.png", "48": "icon.png"}, "applications": {"gecko": {"id": "helper@live.lasource.ru", "strict_min_version": "55.0a1"}}, "background": {"scripts": ["background.js"]}, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"]}

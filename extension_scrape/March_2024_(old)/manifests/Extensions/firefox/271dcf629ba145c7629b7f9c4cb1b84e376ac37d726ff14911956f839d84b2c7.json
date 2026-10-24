@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SeeVotes", "version": "1.0", "description": "See the number of votes on twitter polls", "icons": {"48": "icons/sv-48.png"}, "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["seevotes.js"]}], "applications": {"gecko": {"id": "theozmic@gmail.com"}}}

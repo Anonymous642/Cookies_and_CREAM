@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DN Fixer", "description": "This fixes the paywall on DN.se", "version": "3", "content_scripts": [{"js": ["fixer.js"], "matches": ["http://www.dn.se/*", "https://www.dn.se/*"], "run_at": "document_end"}], "icons": {"16": "icons/16.png", "48": "icons/48.png", "128": "icons/128.png"}}

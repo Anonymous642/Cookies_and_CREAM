@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Disable Twitch Vodcast", "version": "0.4", "content_scripts": [{"matches": ["https://*.twitch.tv/directory/following*"], "js": ["jquery-3.2.1.min.js", "content.js"]}]}

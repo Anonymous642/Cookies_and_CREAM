@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Captions Extractor", "version": "0.0.1", "description": "Extract caption text of vedio if it is a .srt file", "icons": {"48": "icons/travel.png"}, "browser_action": {"default_icon": "icons/travel.png", "default_title": "Captions Extractor", "default_popup": "popup/popup.html"}, "permissions": ["devtools"], "devtools_page": "devtools/devtool.html"}

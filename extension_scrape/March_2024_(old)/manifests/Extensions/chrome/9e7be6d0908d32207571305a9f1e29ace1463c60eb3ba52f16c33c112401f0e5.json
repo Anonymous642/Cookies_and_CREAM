@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u5feb\u901f\u641c\u7d22", "description": "bing\u548c\u767e\u5ea6\u7684\u8bcd\u5212\u641c\u7d22", "version": "0.1", "permissions": ["contextMenus", "pageCapture", "tabs"], "background": {"scripts": ["sample.js"]}, "manifest_version": 2}

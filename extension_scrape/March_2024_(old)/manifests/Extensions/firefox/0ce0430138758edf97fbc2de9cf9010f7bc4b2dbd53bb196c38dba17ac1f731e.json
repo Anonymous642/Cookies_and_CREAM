@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Hide Squad Chat", "version": "1.0.0", "description": "Hide Twitch chat in squad mode", "icons": {"48": "icon.png", "96": "icon@2x.png"}, "content_scripts": [{"matches": ["*://*.twitch.tv/*"], "js": ["script.js"]}]}

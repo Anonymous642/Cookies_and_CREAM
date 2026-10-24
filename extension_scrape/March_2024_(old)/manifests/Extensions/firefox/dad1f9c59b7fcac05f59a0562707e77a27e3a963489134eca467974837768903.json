@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sort Bookmarks", "version": "1.2", "author": "Catalan Luc", "description": "Sort bookmarks by date. The most recent ones appear at the top of the list.", "icons": {"48": "icon.png"}, "permissions": ["bookmarks"], "background": {"scripts": ["background.js"]}}

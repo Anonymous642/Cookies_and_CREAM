@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Karl's F1TV fix", "version": "1.0", "description": "Adds english option for f1tv in belgium.", "background": {"scripts": ["f1tv.js"], "persistent": true}, "permissions": ["https://*.formula1.com/*", "webRequest", "webRequestBlocking", "activeTab"], "applications": {"gecko": {"id": "marco@nenni.ws"}}}

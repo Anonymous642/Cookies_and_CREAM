@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "DS TimeZone Converter", "description": "Web Application to easily convert between various Time zones.", "version": "1.9", "app": {"launch": {"web_url": "http://timezoneconverter.directionalstar.com/"}}, "icons": {"128": "icon_128.png"}, "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"name": "Twitch Bonus Redeemer", "description": "Redeems Channel Points Bonus.", "version": "1.2", "manifest_version": 2, "permissions": ["https://www.twitch.tv/*"], "content_scripts": [{"matches": ["https://www.twitch.tv/*"], "js": ["main.js"], "all_frames": true}], "icons": {"128": "icon_128.png"}}

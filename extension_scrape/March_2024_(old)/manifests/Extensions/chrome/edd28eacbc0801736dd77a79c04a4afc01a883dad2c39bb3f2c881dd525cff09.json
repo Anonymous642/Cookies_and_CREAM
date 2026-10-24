@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.0", "name": "Quicktab", "description": "Quicktab removes the new tab site and replaces it with a new background.", "icons": {"32": "img/32x32_quicktab.png", "64": "img/64x64_quicktab.png", "128": "img/128x128_quicktab.png"}, "chrome_url_overrides": {"newtab": "quicktab.html"}}

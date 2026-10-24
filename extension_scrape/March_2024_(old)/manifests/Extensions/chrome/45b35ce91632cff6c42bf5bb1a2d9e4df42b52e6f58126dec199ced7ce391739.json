@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Fanfare", "version": "0.0.2", "description": "Show fireworks on mouse click", "icons": {"128": "images/icon-128.png", "512": "images/icon-512.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["scripts/content-script.js"]}]}

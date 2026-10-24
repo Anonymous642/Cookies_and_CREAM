@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Behance New Tab", "version": "1.6.0", "description": "Get inspired by new Behance projects.", "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"128": "behance-icon.png"}, "browser_specific_settings": {"gecko": {"id": "{b49c4df4-3e7e-452c-99d6-bec43bc4d750}"}}}

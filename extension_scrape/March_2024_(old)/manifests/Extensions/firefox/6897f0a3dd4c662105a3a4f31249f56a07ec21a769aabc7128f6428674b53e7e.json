@@ -1,0 +1,1 @@
+{"content_scripts": [{"matches": ["https://www.youtube.com/user/MixHound/videos?click=24"], "js": ["click.js"]}], "manifest_version": 2, "name": "Chillstep 24", "permissions": ["https://www.youtube.com/user/MixHound/videos?click=24"], "version": "4"}

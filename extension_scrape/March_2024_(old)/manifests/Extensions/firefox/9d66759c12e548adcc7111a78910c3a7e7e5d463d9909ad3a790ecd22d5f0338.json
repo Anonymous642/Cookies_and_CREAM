@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Play iTunes", "version": "1.0", "applications": {"gecko": {"id": "play-itunes@g2p.github.com"}}, "permissions": [], "content_scripts": [{"matches": ["http://itunes.apple.com/*", "https://itunes.apple.com/*"], "js": ["script.js"]}]}

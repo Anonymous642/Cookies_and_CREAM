@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GEEK DAD", "version": "0.1", "manifest_version": 2, "description": "YOUR COMPUTER GUY", "app": {"urls": ["http://geekdadtech.com/"], "launch": {"web_url": "http://geekdadtech.com/"}}, "icons": {"128": "icon.png"}}

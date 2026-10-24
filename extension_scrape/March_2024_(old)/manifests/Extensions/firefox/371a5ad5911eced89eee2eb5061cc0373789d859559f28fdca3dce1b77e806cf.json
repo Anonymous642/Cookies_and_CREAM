@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search in Youtube", "description": "Select some text, right-click and choose \"Search in YouTube\" in the menu, a new tab will open with the searched text.", "version": "1.1.1", "icons": {"128": "icon128.png"}, "permissions": ["tabs", "contextMenus", "http://*/*", "https://*/*"], "background": {"scripts": ["background.js"]}}

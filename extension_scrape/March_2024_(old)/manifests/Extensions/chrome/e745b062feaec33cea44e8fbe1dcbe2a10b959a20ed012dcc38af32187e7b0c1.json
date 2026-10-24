@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ReBot 11x11 helper", "version": "1.0.1", "description": "\u0421ompares the score in the Inter Union match", "content_scripts": [{"css": ["styles.css"], "js": ["content.js"], "matches": ["https://*.11x11.ru/*", "https://*.11x11.com/*"]}]}

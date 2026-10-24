@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LINE Message Validator", "description": "LINE Message Validator", "version": "24.3.1", "action": {"default_icon": "./dist/icon.png", "default_popup": "./dist/index.html"}, "permissions": ["storage"], "host_permissions": ["https://api.line.me/v2/bot/message/validate/*"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Regra de Tr\u00eas", "version": "1.0", "action": {"default_popup": "popup.html", "default_icon": {"32": "favicon-32x32.png"}}, "permissions": [], "background": {"service_worker": "popup.js"}, "icons": {"32": "favicon-32x32.png"}}

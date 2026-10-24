@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Keypirinha Tab Switcher", "version": "1.0", "description": "Used by Keypirinha plugin to switch to open tab.", "background": {"scripts": ["redirect.js"], "persistent": false}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{a392eb25-7c48-4b75-9fea-10a421e19211}"}}}

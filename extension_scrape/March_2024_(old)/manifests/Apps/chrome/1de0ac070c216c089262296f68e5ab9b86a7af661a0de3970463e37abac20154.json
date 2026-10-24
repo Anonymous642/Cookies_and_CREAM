@@ -1,0 +1,1 @@
+{"name": "Coolidea.ru", "description": "\u0416\u0443\u0440\u043d\u0430\u043b \u0431\u0438\u0437\u043d\u0435\u0441-\u0438\u0434\u0435\u0439", "app": {"urls": ["http://www.coolidea.ru/"], "launch": {"web_url": "http://www.coolidea.ru/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.1", "icons": {"128": "icon.png"}}

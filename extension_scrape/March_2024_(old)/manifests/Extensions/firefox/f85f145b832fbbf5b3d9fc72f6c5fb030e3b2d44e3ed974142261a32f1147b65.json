@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "__MSG_extensionName__", "description": "__MSG_extensionDescription__", "version": "1.0", "icons": {"48": "icons/linuxacademy_autoload_link.png"}, "content_scripts": [{"matches": ["*://linuxacademy.com/cp/courses/lesson/*"], "js": ["linuxacademy-autoload.js"]}], "default_locale": "en"}

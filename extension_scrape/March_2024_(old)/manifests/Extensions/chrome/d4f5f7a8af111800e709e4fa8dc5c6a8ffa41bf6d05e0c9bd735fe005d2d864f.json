@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple text alarm", "description": "Base Level Extension", "version": "1.0", "background": {"service_worker": "background.js"}, "permissions": ["storage", "notifications", "alarms"], "action": {"default_popup": "popup.html", "default_icon": "hello_extensions.png"}}

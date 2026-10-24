@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Dark mode for Side by Side - Mind.org.uk", "version": "0.1.0", "description": "Adds dark mode to the Side by Side website", "content_scripts": [{"css": ["style.css"], "matches": ["https://sidebyside.mind.org.uk/*"]}]}

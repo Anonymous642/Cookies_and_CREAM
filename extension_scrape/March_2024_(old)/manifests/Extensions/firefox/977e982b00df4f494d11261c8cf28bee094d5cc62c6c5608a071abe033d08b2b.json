@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Display Div Order", "version": "1.0", "description": "Identifies and displays the order of <div> elements on the current webpage.", "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "displaydivorder@gmail.com"}}, "background": {"scripts": ["background.js"], "persistent": false}}

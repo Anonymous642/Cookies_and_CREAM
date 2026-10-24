@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Strong Password maker", "version": "0.0.3", "description": "Make a strong password and secure your account", "icon": "/images/lock.jpg", "browser_action": {"default_popup": "index.html", "default_icon": "/images/lock.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LinkedIn Feed Remover", "version": "1.0", "description": "Removes news feed from LinkedIn home page", "content_scripts": [{"matches": ["*://www.linkedin.com/*"], "js": ["content.js"], "run_at": "document_start"}]}

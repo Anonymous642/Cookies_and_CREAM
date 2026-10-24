@@ -1,0 +1,1 @@
+{"description": "Super simple Firefox WebExtension to change the profile image link to point to a larger profile picture instead.", "manifest_version": 2, "name": "9simp", "version": "1.0", "homepage_url": "https://github.com/maestr0d/9simp", "icons": {"48": "icons/9gag-48.png"}, "content_scripts": [{"matches": ["*://*.9gag.com/*"], "js": ["9gag.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RX3b", "version": "1.0", "homepage_url": "https://www.rx3b.com/", "description": "Handler for the RX3B site!", "icons": {"48": "icons/icon_48.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/icon_32.png", "default_title": "RX3b", "default_popup": "popup/rx3b.html"}}

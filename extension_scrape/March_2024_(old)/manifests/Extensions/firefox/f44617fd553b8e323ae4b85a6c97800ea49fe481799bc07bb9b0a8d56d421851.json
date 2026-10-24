@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Page Number for AutoPagerize", "version": "1.1", "description": "Adds display now page number for AutoPagerize .", "icons": {"48": "icons/border-48.png", "96": "icons/border-96.png", "128": "icons/border-128.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["PageNumber.js"]}]}

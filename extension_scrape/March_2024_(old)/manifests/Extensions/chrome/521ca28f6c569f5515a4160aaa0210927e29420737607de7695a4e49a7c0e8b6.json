@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Selection Arena", "version": "1.0", "description": "Fight to the death!", "manifest_version": 2, "permissions": ["storage"], "browser_action": {"default_popup": "popup.html", "default_icon": "./icons/flame.png"}}

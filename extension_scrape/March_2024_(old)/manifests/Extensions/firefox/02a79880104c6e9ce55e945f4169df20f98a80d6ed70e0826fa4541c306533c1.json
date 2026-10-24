@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PHP Doc Arrow Key Navigation", "version": "0.1", "applications": {"gecko": {"id": "ahmetelgn@gmail.com"}}, "description": "Navigate with arrow keys in PHP Documentation", "icons": {"48": "php_logo.png"}, "content_scripts": [{"matches": ["*://www.php.net/manual/*"], "js": ["src.js"]}]}

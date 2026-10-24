@@ -1,0 +1,1 @@
+{"app": {"urls": ["http://www.plz-suche.org/"], "launch": {"web_url": "http://www.plz-suche.org/"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "Postleitzahlen und Ortsuche f\u00fcr Deutschland, \u00d6sterreich und der Schweiz.", "name": "Plz-Suche.org", "icons": {"128": "icon_128.png"}, "manifest_version": 2, "version": "1.0.1"}

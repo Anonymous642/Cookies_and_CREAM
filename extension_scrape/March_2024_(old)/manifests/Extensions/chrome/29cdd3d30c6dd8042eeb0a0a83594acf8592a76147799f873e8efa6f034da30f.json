@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Calcula DV", "version": "1.0", "description": "Obtiene el d\u00edgito verificador a partir de la mantisa de un RUT", "manifest_version": 2, "browser_action": {"default_icon": "rut.png", "default_popup": "popup.html", "default_title": "Calcula DV"}, "permissions": ["activeTab"]}

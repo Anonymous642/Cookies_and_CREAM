@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "smth images helper", "version": "1.0", "manifest_version": 2, "description": "show images of newsmth.net", "icons": {"128": "image_heart.png"}, "content_scripts": [{"matches": ["http://*.newsmth.net/*"], "js": ["jquery.min.js", "smimghelper.js"]}]}

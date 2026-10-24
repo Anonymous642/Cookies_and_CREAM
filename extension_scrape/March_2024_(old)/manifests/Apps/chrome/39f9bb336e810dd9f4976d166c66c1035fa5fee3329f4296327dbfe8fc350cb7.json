@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Friends Quiz", "description": "Do you know your Facebook friends?", "version": "1.6", "app": {"urls": ["http://friends-quiz.appspot.com/"], "launch": {"web_url": "http://friends-quiz.appspot.com/"}}, "icons": {"128": "icon128.png"}}

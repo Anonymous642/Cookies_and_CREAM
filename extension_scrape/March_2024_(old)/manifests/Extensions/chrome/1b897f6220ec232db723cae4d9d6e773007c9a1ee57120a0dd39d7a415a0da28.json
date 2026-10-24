@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Ofertas De Hoje", "description": "Todo o Dia este Aplicativo ira informar as melhores Ofertas que esta acontecendo na Web", "version": "1.0", "permissions": ["http://agoralevo.com/home/index.php"], "browser_action": {"default_icon": "wi.png", "default_popup": "popup.html"}}

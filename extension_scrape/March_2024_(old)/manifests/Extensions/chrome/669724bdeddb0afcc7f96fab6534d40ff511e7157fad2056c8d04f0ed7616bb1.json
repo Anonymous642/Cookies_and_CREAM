@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "PassLock", "version": "1.0", "manifest_version": 2, "description": "Generates Passwords", "icons": {"48": "icon1.png"}, "browser_action": {"default_icon": "icon1.png", "default_popup": "popup1.html"}, "permissions": []}

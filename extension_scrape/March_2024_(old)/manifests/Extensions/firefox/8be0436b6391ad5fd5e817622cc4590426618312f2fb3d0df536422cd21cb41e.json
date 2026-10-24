@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Image Upload Search", "version": "1.0.0", "description": "Adds the option to search for an image via Google when right clicking.", "permissions": ["contextMenus", "<all_urls>"], "background": {"scripts": ["dist/background.js"]}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ReadabilityCopy", "description": "\u4f7f\u7528Readability\u590d\u5236\u7f51\u9875\u5185\u5bb9", "version": "0.5", "manifest_version": 2, "background": {"scripts": ["background.js"]}, "icons": {"16": "copyIcon.png", "48": "copyIcon.png", "128": "copyIcon.png"}, "permissions": ["contextMenus", "activeTab"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Simple Markdown Memo", "author": "Ryo Iida", "version": "1.0.1", "description": "Take a note by opening a new tab", "icons": {"16": "memoPencil16.ico", "48": "memoPencil48.ico", "128": "memoPencil128.ico"}, "chrome_url_overrides": {"newtab": "index.html"}}

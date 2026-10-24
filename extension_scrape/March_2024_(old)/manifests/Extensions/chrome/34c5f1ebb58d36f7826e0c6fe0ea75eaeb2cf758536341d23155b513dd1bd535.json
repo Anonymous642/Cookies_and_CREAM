@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Tweaks for TopMeteo.eu", "description": "Usability enhancements for topmeteo.eu", "version": "2.3", "content_scripts": [{"matches": ["https://*.topmeteo.eu/*"], "js": ["topmeteo.js"], "run_at": "document_end"}]}

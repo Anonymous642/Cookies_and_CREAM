@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Global Stike", "description": "News Stike", "version": "1.0.1", "homepage_url": "http://www.wave33.com/", "content_security_policy": "script-src 'self' https://api-maps.yandex.ru; object-src 'self'"}

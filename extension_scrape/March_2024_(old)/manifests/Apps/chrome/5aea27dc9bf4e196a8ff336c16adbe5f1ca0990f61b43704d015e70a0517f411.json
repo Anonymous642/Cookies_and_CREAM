@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "\u0420\u0443\u0441\u0441\u043a\u043e\u0435 \u043b\u043e\u0442\u043e", "version": "1", "icons": {"128": "128.png"}, "app": {"urls": ["http://minigames.mail.ru/loto"], "launch": {"web_url": "http://minigames.mail.ru/loto"}}, "permissions": ["notifications"], "manifest_version": 2}

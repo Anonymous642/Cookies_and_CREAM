@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "IIRSM Training - Trainer Chrome Extension", "version": "1.0", "description": "Pre-download your IIRSM courses from our CMS so you can deliver them without internet.", "manifest_version": 2, "browser_action": {"default_popup": "index.html", "default_icon": "iirsm-logo.png"}}

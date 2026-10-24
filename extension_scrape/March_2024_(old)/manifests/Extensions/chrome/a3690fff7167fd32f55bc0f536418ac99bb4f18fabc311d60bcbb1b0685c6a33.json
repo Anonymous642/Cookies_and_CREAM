@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "BetterCSGL", "version": "0.1.0", "description": "Better CSGOLounge by Shea", "icons": {"16": "icon.png", "32": "icon.png", "48": "icon.png"}, "content_scripts": [{"css": ["styles.css"], "matches": ["https://csgolounge.com/*"]}]}

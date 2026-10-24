@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GitHub Expand All Commit Notes", "version": "1.0", "description": "Adds ability to expand/collapse all commit notes on GitHub.", "applications": {"gecko": {"id": "github-expand-all-commit-notes@jetpack", "strict_min_version": "45.0"}}, "content_scripts": [{"matches": ["https://github.com/*/*/commits/*"], "js": ["expandify.js"]}]}

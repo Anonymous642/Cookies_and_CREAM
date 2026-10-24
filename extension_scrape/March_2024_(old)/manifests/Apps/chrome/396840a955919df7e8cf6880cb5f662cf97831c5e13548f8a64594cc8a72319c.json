@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Slimtimer", "description": "All your timesheet are belong to us.", "version": "2", "manifest_version": 2, "app": {"urls": ["http://www.omnibase.com.br/slimtimer/"], "launch": {"web_url": "http://www.omnibase.com.br/slimtimer/"}}, "icons": {"128": "slimtimer.png"}}

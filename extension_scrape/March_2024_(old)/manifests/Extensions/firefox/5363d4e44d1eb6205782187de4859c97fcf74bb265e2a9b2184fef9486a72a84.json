@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Linkdown", "version": "1.0", "description": "A simple button to copy links for markdown", "icons": {"48": "icons/linkdown48.png", "96": "icons/linkdown96.png"}, "background": {"scripts": ["app.js"]}, "permissions": ["tabs", "clipboardWrite"], "browser_action": {"default_icon": "icons/linkdown32.png", "default_title": "Linkdown"}}

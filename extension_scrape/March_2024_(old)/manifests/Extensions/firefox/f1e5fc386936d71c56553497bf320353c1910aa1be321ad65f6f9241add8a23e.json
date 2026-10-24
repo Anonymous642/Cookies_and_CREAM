@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Midjourney Photo Images Prompt Generator", "version": "1.0", "description": "Generate prompts based on user input", "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "browser_action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{cf603d10-443a-4004-aca2-5de7ea03e62e}"}}}

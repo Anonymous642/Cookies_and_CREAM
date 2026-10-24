@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "IRCTC-helper", "version": "1.0", "description": "Helps browse Indian Railways online booking system in an easier manner", "content_scripts": [{"matches": ["*://www.irctc.co.in/*"], "js": ["app.js"]}], "browser_specific_settings": {"gecko": {"id": "{9227297d-4ebc-44bf-a16f-dd2fd7cc9e16}"}}}

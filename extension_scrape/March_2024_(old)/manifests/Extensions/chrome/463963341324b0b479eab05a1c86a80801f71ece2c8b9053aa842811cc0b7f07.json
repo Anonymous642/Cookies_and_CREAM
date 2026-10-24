@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Demofy", "version": "2.0", "manifest_version": 3, "content_scripts": [{"matches": ["https://calendar.google.com/*"], "js": ["background.js"]}], "action": {"default_title": "Demofy"}}

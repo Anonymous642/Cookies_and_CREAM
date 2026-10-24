@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "fruux", "description": "Your contacts, calendars and tasks on every device", "manifest_version": 2, "version": "1", "app": {"urls": ["*://fruux.com/"], "launch": {"web_url": "https://fruux.com/account/login"}}, "icons": {"128": "fruux_icon_128.png"}, "permissions": ["unlimitedStorage", "notifications"]}

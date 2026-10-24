@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "KeepMyTabs", "description": "Save and restore the state of your tabs", "version": "1.0", "permissions": ["tabs", "storage", "activeTab"], "action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

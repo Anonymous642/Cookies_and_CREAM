@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ManageBac Grade Changer", "version": "1.2", "description": "Gives you all A* on ManageBac", "icons": {"874": "icons/Interesting.png"}, "content_scripts": [{"matches": ["*://*.managebac.cn/*"], "js": ["main.js"]}]}

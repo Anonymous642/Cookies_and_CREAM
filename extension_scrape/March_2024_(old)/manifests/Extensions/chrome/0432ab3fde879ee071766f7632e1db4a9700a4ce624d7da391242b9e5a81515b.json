@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Date/Time Tools", "description": "Extension to convert between time zones,Calculate Date Difference", "version": "1.0.1", "manifest_version": 3, "background": {"service_worker": "bg.js"}, "action": {}, "icons": {"48": "tzicon48.png"}}

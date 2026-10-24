@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "CL-Pro Tools", "description": "Reporters Management", "version": "0.3.3", "manifest_version": 3, "icons": {"16": "cl_logo_16.png", "128": "cl_logo_128.png"}, "action": {"default_popup": "popup.html"}, "permissions": ["storage", "scripting"], "host_permissions": ["http://clprofessional.com/"]}

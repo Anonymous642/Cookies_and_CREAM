@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Nick Presta Homepage", "description": "The homepage of Nick Presta.", "version": "0.0.1", "icons": {"128": "logo.png"}, "app": {"urls": ["http://nickpresta.ca/"], "launch": {"web_url": "http://nickpresta.ca/?referrer=chrome-web-store"}}}

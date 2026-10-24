@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Guardar directo / Guardado r\u00e1pido", "description": "Agrega la opci\u00f3n guardar una imagen o video de forma r\u00e1pida en el men\u00fa contextual a la carpeta descargas del sistema", "version": "1.1.1", "icons": {"48": "icons/savicon.png"}, "permissions": ["contextMenus", "downloads"], "background": {"scripts": ["background.js"]}}

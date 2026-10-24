@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pomodoro timer", "version": "1.2", "description": "Pomodoro timer", "icons": {"48": "tomato-icon.png"}, "browser_action": {"default_title": "pomodoro timer", "default_popup": "index.html"}}

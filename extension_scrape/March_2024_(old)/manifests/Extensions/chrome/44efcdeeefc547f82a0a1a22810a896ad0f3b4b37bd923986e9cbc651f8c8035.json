@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "\u682a\u63a2\uff13\u5206\u5272", "description": "\u682a\u63a2\u30923\u5206\u5272\u3057\u307e\u3059\u3002", "version": "1", "content_scripts": [{"matches": ["https://kabutan.jp/stock/*"], "js": ["onload.js"], "run_at": "document_end"}]}

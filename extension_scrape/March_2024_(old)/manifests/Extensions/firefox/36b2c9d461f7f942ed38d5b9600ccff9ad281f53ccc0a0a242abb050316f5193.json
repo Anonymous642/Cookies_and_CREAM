@@ -1,0 +1,1 @@
+{"name": "Deurchin", "version": "1.2", "description": "Strips various analytics fragments from URIs.", "background": {"scripts": ["deurchin.js"]}, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "applications": {"gecko": {"id": "deurchin@rahulg.io"}}, "manifest_version": 2}

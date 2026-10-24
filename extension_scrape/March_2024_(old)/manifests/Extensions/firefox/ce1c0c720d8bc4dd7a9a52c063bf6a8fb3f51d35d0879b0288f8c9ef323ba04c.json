@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Display Title Attributes", "version": "1.0", "description": "Displays information about elements with title attributes on the current webpage.", "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "displaytitleattributes@gmail.com"}}, "background": {"scripts": ["background.js"], "persistent": false}}

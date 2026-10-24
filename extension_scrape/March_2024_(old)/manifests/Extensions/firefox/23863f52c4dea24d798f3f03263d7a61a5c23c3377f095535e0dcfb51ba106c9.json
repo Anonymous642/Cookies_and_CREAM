@@ -1,0 +1,1 @@
+{"description": "Pokazuje pole z wag\u0105 gabarytow\u0105", "manifest_version": 2, "name": "Sendit Gabaryt", "version": "0.2", "content_scripts": [{"matches": ["*://*.sendit.pl/*"], "js": ["gabaryt.js"]}]}

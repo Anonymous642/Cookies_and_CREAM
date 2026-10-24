@@ -1,0 +1,1 @@
+{"dictionaries": {"yi": "dictionaries/yi.dic"}, "version": "0.0.3.2webext", "browser_specific_settings": {"gecko": {"id": "yi@dictionaries.addons.mozilla.org"}}, "name": "Yiddish spell checker (YIVO)", "manifest_version": 2}

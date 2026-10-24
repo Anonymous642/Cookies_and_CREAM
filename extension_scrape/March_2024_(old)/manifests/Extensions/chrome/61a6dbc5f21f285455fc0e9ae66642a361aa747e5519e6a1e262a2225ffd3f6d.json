@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Men\u00fa imprimir imagen", "description": "Se agrega la opci\u00f3n 'Imprimir imagen' en el men\u00fa contextual.", "version": "1.0", "manifest_version": 2, "background": {"scripts": ["paralapapiricoipi.js"]}, "permissions": ["contextMenus", "http://10.8.163.30/*"], "icons": {"128": "icon128.png"}}

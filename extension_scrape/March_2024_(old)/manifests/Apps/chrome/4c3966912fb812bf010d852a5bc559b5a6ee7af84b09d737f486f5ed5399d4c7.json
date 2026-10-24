@@ -1,0 +1,1 @@
+{"app": {"launch": {"local_path": "index.html"}}, "description": "Fun decoding game for kids", "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "manifest_version": 2, "name": "First Step", "offline_enabled": true, "permissions": ["unlimitedStorage"], "update_url": "http://clients2.google.com/service/update2/crx", "version": "1.2.0.3"}

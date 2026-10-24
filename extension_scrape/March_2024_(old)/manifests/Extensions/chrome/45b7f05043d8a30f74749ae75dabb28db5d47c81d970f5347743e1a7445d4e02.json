@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TALNT Profile AI", "description": "", "version": "1.1.5", "manifest_version": 3, "action": {"default_popup": "index.html", "default_icon": "pb_favicon.ico"}, "permissions": ["scripting", "storage"], "host_permissions": ["https://www.linkedin.com/*"]}

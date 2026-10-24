@@ -1,0 +1,1 @@
+{"description": "Go directly to 0wiki :)", "manifest_version": 2, "name": "go0wiki", "version": "1.1", "author": "zonguc", "icons": {"48": "48.png"}, "permissions": ["webRequest", "webRequestBlocking", "*://*.wikipedia.org/*"], "background": {"scripts": ["background.js"], "persistent": true}}

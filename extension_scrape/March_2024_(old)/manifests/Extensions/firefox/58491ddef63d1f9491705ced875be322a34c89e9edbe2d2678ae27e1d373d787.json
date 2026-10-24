@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dexter dark mode", "version": "0.1", "description": "Just a small project/theme for my schools website :)", "content_scripts": [{"matches": ["*://dexter.live/*"], "js": ["content.js"], "css": ["content.css"]}]}

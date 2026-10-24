@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Radiance", "action": {"default_title": "LostTime", "default_popup": "popup.html"}, "permissions": ["storage"], "version": "1.0.5", "content_scripts": [{"matches": ["https://*.facebook.com/marketplace/*"], "js": ["script.js"]}]}

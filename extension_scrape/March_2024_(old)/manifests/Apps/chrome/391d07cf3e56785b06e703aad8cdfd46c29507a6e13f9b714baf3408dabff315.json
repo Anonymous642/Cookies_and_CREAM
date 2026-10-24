@@ -1,0 +1,1 @@
+{"name": "Nudd og Vell\u00ed\u00f0an", "description": "B\u00f3ka\u00f0u t\u00edma \u00ed nudd hj\u00e1 Nudd og vell\u00ed\u00f0an", "app": {"urls": ["http://www.nuddogvellidan.is/"], "launch": {"web_url": "http://www.nuddogvellidan.is/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "1.0", "icons": {"128": "icon.png"}}

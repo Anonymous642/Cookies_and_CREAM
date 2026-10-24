@@ -1,0 +1,1 @@
+{"description": "A web extension to automatically keep the session on pkorg.ch active.", "manifest_version": 2, "name": "pkorg-session-keep-alive", "version": "0.0.1", "homepage_url": "https://github.com/bn4t/pkorg-session-keep-alive", "content_scripts": [{"matches": ["*://*.pkorg.ch/*"], "js": ["background.js"]}], "permissions": ["https://*.pkorg.ch/*"]}

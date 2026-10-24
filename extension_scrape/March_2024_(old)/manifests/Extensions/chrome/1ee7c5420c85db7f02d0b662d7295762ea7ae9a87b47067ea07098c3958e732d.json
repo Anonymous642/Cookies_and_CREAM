@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Kerjaan", "description": "Aplikasi yang memudahkan mengelola pekerjaan", "version": "0.0.1", "manifest_version": 3, "action": {"default_popup": "./popup.html"}, "icons": {"128": "./Desain_tanpa_judul-removebg-preview.png"}}

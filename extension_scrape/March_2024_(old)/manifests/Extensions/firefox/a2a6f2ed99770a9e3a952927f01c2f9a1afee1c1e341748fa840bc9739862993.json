@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TwitchRaidAsViewer", "version": "4", "description": "When getting raided to a channel remove the raid flag so you count as a viewer", "content_scripts": [{"matches": ["*://www.twitch.tv/*"], "js": ["TRAV.js"]}]}

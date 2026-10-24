@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "URL Tracker", "version": "1.0", "permissions": ["storage", "webRequest"], "host_permissions": ["<all_urls>"], "background": {"service_worker": "background.js"}, "action": {"default_popup": "popup.html", "default_icon": "images/appicon.png"}, "icons": {"48": "images/appicon.png"}}

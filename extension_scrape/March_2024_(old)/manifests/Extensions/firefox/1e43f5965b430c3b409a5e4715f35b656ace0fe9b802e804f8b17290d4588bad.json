@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FireGather", "description": "Looks up MTG cards on Gatherer", "homepage_url": "https://github.com/mmcru/firegather", "author": "Matt Crupi", "version": "1.0.2", "default_locale": "en", "background": {"scripts": ["cards.js", "lookup.js"]}, "permissions": ["menus"], "icons": {"64": "icons/64.png"}}

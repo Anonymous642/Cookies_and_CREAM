@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Marketing SM", "description": "Internal use only.", "version": "1.0", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "ic_alarm_black_24dp_1x.png", "128": "ic_alarm_black_48dp_2x.png"}}

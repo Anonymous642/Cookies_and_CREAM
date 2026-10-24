@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "ToDo Planner", "version": "1.002", "description": "The todo.blue ToDo Planner for Chrome Browser. Manage or create new Tasks very fast.", "manifest_version": 2, "icons": {"128": "logo.png"}, "browser_action": {"default_popup": "popup.html", "default_title": "ToDo Planner"}}

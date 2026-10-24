@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "certificate Maker Free", "version": "1.0", "manifest_version": 2, "description": "certificate Maker Free", "app": {"urls": ["http://tech-tops.com/cert"], "launch": {"web_url": "http://tech-tops.com/cert"}}, "icons": {"128": "icon.png"}}

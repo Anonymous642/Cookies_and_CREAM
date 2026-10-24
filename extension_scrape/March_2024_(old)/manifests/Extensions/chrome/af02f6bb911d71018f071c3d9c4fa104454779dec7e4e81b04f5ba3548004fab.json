@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Spacial Tab", "version": "1.0", "description": "Spacial Tab", "permissions": ["storage"], "background": {"scripts": ["background.js"], "persistent": false}, "chrome_url_overrides": {"newtab": "newtab.html"}, "manifest_version": 2, "author": "Monica Carvajal"}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "comparizon.eu: Right-Click Amazon QuickSearch", "description": "QuickSearch Amazon products using the right-click context menu.", "version": "1.0.0", "manifest_version": 3, "icons": {"128": "128.png"}, "permissions": ["contextMenus"], "background": {"service_worker": "search.js"}}

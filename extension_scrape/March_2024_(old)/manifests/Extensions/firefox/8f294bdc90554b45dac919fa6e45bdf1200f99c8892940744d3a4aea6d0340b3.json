@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "UnityAnswersAnonymousFix", "version": "1.0", "description": "Fixes the $$anonymous$$ hack on Unity Answers", "icons": {"96": "icons/anonymousHiconFF.jpg"}, "content_scripts": [{"matches": ["*://answers.unity.com/*"], "js": ["anonymousFix.js"]}], "browser_specific_settings": {"gecko": {"id": "{162ffa2d-201d-4333-a1ef-01617109d8a7}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u71b1\u8840\u6c5f\u6e56web", "description": "\u71b1\u8840\u6c5f\u6e56web", "version": "0.0.0.3", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.gm99.com/hot/"], "launch": {"web_url": "http://www.gm99.com/login?forward=/hot/server_list&cid=155&scid=gg_store"}}}

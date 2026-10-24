@@ -1,0 +1,25 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "name": "LENOVO VIRTUAL RACK APP",
+  "version": "8.0",
+  "manifest_version": 3,
+  "description": "LENOVO VIRTUAL RACK APP Test",
+  
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "LENOVO VIRTUAL RACK APP Test",
+    "default_icon": {
+        
+        "32": "images/chrome-icon.png"
+    }
+    
+  },
+  "content_security_policy": {
+    "extension_pages":  "script-src 'self' 'wasm-unsafe-eval'"
+    
+ },
+  "permissions": ["system.display"]
+}

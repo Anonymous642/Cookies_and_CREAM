@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Disney+ Skipper", "version": "1.1", "description": "Automatic skips the intro, summary & automatically plays the next episode on fullscreen.", "icons": {"48": "icons/logo.png"}, "content_scripts": [{"matches": ["*://www.disneyplus.com/*-*/video/*"], "js": ["skipper.js"]}]}

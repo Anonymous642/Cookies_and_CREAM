@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Taringa Shout!", "version": "1.0", "description": "Accede a MI desde un popup.", "browser_action": {"default_icon": "taringa.png", "default_popup": "popup.html"}}

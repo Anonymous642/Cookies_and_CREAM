@@ -1,0 +1,1 @@
+{"background": {"scripts": ["background.js"]}, "description": "Open bookmarks in a new tab", "developer": {"name": "Didier Lafleur"}, "icons": {"64": "icon64.png"}, "manifest_version": 2, "name": "Open bookmarks in new tab", "version": "0.1", "permissions": ["browserSettings"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "description": "\u53bb\u9664\u8d34\u5427\u79fb\u52a8\u7aef\u4e09\u56fe\u9650\u5236", "name": "\u8d34\u5427\u4e09\u56fe\u9650\u5236", "version": "1.1.2", "icons": {"48": "icons/tieba-48.png", "96": "icons/tieba-96.png"}, "permissions": ["*://*.baidu.com/*", "webRequest", "webRequestBlocking"], "background": {"scripts": ["Main.js"]}}

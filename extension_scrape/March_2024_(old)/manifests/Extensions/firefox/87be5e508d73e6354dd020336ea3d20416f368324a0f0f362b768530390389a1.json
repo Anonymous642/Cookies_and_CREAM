@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "StartpageTitle", "version": "1.0", "content_scripts": [{"matches": ["*://*.startpage.com/*"], "js": ["main.js"]}]}

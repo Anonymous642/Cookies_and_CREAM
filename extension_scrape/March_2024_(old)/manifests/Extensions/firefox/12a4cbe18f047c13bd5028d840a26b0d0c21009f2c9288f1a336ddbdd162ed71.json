@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "plgn", "version": "1.0", "description": "Adds an icon based on file extension while browsing a repository.", "icons": {"48": "icons/logo.png", "64": "icons/logo.png"}, "content_scripts": [{"matches": ["*://*.github.com/*"], "js": ["github-icons.js"]}], "web_accessible_resources": ["icons/*.svg"]}

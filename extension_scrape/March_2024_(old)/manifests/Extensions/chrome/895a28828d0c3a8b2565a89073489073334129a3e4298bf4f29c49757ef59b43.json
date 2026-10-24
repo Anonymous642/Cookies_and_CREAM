@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Convert 'Bernie Bros' to 'Rowdy Peasants'", "description": "Converts the phrase 'Bernie Bro' to 'Rowdy Peasant.' Now you can finally understand what pundits are saying!", "version": "1.0", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

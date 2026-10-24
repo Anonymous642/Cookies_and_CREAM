@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "0.3.1", "name": "Hesla", "description": "Display today's Hesla (Losungen, Watchwords) from Bible.", "icons": {"128": "icon-128.png"}, "app": {"urls": ["http://hesla.ceplovi.cz/"], "launch": {"web_url": "http://hesla.ceplovi.cz/"}}, "manifest_version": 2}

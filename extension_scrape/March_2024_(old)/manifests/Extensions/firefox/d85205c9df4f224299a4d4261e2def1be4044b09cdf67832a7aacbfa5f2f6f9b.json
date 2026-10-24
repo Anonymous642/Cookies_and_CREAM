@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No More Irrelevant Twitter Notifications!", "version": "0.0.1", "description": "Colors Twitter's \"In case you missed it\" notifications and promoted tweets to make them easy to skim over. Mouse over to read.", "content_scripts": [{"matches": ["*://*.twitter.com/*"], "css": ["src/style.css"]}]}

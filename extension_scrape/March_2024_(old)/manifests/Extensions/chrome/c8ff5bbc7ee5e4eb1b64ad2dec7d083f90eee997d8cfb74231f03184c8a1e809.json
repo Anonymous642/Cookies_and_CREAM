@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "chatgpt2json", "description": "Click on the plugin icon to download your ChatGPT chats to JSON format.", "version": "0.2", "manifest_version": 3, "permissions": ["activeTab", "scripting"], "background": {"service_worker": "chatgpt2json.js"}, "action": {}, "icons": {"128": "icon128.png"}}

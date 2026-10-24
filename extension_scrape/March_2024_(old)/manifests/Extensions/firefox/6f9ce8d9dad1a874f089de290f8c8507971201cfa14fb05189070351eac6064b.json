@@ -1,0 +1,1 @@
+{"description": "Selects a random color for YouTube", "manifest_version": 2, "name": "YouTube Colors", "version": "1.2", "icons": {"48": "icons/color.png"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://*.youtube.com/*"], "js": ["colorTube.js"], "css": ["color.css"]}], "background": {"scripts": ["background.js"]}}

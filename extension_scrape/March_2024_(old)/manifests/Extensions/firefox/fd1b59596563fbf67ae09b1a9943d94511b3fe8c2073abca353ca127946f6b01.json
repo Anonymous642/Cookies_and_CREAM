@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Click&Scroll", "version": "0.1", "description": "Lets you right click anywhere on the page and scroll, as if you clicked on the scrollbar.", "icons": {"48": "icon.svg", "96": "icon.svg"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["clickandscroll.js"]}]}

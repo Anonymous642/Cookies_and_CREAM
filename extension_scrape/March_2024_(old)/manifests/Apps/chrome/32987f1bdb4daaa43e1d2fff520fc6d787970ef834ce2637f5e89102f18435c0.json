@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "clinApps", "description": "Clinical Apps from Stony Brook University's Medical Center", "version": "0.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"48": "shield48.png"}}

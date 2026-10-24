@@ -1,0 +1,1 @@
+{"description": "Skips YouTube video ads.", "manifest_version": 2, "name": "AdFreeTube", "version": "1.0", "homepage_url": "https://donovan.v6.rocks", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["aftBlock.js"]}]}

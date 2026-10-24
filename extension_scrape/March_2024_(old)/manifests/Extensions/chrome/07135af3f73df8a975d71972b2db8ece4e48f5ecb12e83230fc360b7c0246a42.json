@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "My Notes", "description": "Save your notes in the browser", "version": "1.1.5", "manifest_version": 3, "permissions": ["storage", "downloads"], "action": {"default_popup": "popup.html", "default_icon": {"128": "images/notes.png"}}, "icons": {"128": "images/notes.png"}}

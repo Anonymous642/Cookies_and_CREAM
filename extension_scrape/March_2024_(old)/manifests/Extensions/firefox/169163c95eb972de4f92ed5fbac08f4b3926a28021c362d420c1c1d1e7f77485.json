@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Change Twitter Logo Back", "version": "1.0.8", "description": "Change Back to Twitter Logo", "content_scripts": [{"matches": ["*://twitter.com/*", "*://mobile.twitter.com/*"], "js": ["logo.js"], "run_at": "document_start"}], "browser_specific_settings": {"gecko": {"id": "{7900ad8a-6f15-461b-9b83-79b5bf0bf464}"}}}

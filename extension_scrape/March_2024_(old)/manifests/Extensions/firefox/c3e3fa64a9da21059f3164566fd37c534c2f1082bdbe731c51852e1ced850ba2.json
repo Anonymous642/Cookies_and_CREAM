@@ -1,0 +1,1 @@
+{"description": "Keep satsang at the center of your life.", "version": "4.0.0a", "manifest_version": 2, "name": "My Guru My Life", "chrome_url_overrides": {"newtab": "newtab.html"}, "icons": {"34": "icon-34.png", "128": "icon-128.png"}}

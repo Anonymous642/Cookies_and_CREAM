@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "InstaCalc", "version": "1.0", "description": "WebExtension for instantly calculating expressions on a webpage", "homepage_url": "https://github.com/matrizx/instacalc", "icons": {"128": "logo.png"}, "permissions": [], "content_scripts": [{"matches": ["<all_urls>"], "js": ["dist/ext.js"]}]}

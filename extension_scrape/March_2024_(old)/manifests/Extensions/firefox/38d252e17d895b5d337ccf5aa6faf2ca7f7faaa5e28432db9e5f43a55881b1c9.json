@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Find Duplicate IDs", "version": "1.0", "description": "Finds duplicate IDs on the website you are accessing.", "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "findduplicateids.extension@gmail.com"}}, "background": {"scripts": ["background.js"], "persistent": false}}

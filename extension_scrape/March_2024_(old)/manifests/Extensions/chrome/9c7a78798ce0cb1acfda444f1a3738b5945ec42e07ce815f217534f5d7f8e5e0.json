@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Kalkuler.no Minikalkulator", "version": "1", "manifest_version": 2, "browser_action": {"default_icon": {"19": "img/icon19.png", "38": "img/icon38.png"}, "default_title": "\u00c5pne kalkulator", "default_popup": "popup.html"}, "icons": {"128": "icon_128.png"}}

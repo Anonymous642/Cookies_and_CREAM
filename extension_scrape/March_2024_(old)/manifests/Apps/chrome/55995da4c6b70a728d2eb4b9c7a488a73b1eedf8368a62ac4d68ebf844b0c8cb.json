@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "IQTI Education", "description": "We provide professional result oriented learning environment, which fosters innovation and creativity", "version": "1.0.0.2", "manifest_version": 2, "app": {"launch": {"web_url": "http://iqtiedu.com/"}}, "icons": {"16": "IQTI.png", "128": "logo.gif"}}

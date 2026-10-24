@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "0rakul0_voice", "author": "Jefferson Silva dos Anjos", "version": "0.0.1", "description": "plugin destinado a sintetizar texto em voz", "action": {"default_icon": "img/iconSond.png", "default_popup": "index.html"}, "host_permissions": ["<all_urls>"]}

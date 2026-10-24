@@ -1,0 +1,1 @@
+{"description": "Vigia Elite - Plugin - Suntech", "manifest_version": 2, "name": "vigia-elite-remount-page", "version": "2.0", "homepage_url": "http://www.suntech.com.br", "icons": {"48": "chrome/content/logo.png"}, "content_scripts": [{"matches": ["*://*.mozilla.org/*"], "js": ["lib/main.js", "data/listener.js", "chrome/content/HTTP.js", "chrome/content/IOUtil.js"]}]}

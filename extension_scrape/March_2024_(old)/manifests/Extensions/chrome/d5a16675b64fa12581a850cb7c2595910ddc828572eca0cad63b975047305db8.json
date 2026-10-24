@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "version": "1.0", "manifest_version": 2, "name": "Patrick Minion", "description": "The best photograph of Patrick, ever.", "icons": {"48": "48patrickicon.png", "128": "128patrickicon.png"}, "browser_action": {"default_icon": "128patrickicon.png", "default_popup": "popup.html"}}

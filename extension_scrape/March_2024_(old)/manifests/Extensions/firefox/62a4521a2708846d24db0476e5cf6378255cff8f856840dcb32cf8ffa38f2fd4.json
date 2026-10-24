@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Blank New Tab", "description": "Use a blank page as your new tab page.", "author": "xofe", "version": "2.1.0", "browser_specific_settings": {"gecko": {"id": "blanknewtab@goodthings", "strict_min_version": "54.0a1"}}, "chrome_url_overrides": {"newtab": "blank-page.html"}}

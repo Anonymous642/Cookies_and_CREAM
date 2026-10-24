@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "web-uwu", "version": "1.0.0", "description": "Improve the browsing experience with happiness uwu", "icons": {"48": "lol-web-48.png", "96": "lol-web-96.png"}, "content_scripts": [{"css": ["style.css"], "matches": ["https://*/"]}]}

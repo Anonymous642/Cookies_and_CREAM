@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Instant Duck", "description": "As you type DuckDuckgo and uses I'm feeling lucky to go to first result", "version": "0.0.1", "author": "Matthew Felgate", "omnibox": {"keyword": "d"}, "background": {"persistent": false, "scripts": ["background.js"]}, "permissions": ["activeTab"]}

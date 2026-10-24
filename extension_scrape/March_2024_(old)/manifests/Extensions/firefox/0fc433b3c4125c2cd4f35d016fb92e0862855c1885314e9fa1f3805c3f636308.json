@@ -1,0 +1,1 @@
+{"name": "Close Right Tabs Button", "version": "0.1", "manifest_version": 2, "description": "Adds close right tabs button.", "icons": {"16": "close_right.png", "48": "close_right_48.png", "128": "close_right_128.png"}, "browser_action": {"default_icon": "close_right.png", "default_title": "Close Right"}, "background": {"scripts": ["close_right.js"]}, "permissions": ["tabs"]}

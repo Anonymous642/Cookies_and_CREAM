@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "1xSlot Access", "description": "Safe access to sites", "version": "1.0.3", "icons": {"128": "images/favicon.png"}, "browser_action": {"default_icon": "images/favicon.png", "default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Make V1 Great Again", "description": "V1 sucks ass, so lets try make it less painful to use.", "version": "1.0", "content_scripts": [{"js": ["maga.js"], "matches": ["http://versionone.netthandelen.no/*"]}]}

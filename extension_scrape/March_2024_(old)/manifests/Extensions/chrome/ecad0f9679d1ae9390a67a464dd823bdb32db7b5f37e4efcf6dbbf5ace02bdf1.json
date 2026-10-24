@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Chegg unblocker", "description": "Unblocks chegg multi-device limit", "version": "1.0", "manifest_version": 3, "content_scripts": [{"matches": ["https://www.chegg.com/homework-help/*"], "js": ["cm-block-remover.js"]}]}

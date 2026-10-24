@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Swiper", "version": "1.1", "description": "Go back and forward with two finger swipe on the trackpad", "icons": {"48": "icons/swiper-48.png", "96": "icons/swiper-96.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["swiper.js"]}]}

@@ -1,0 +1,1 @@
+{"name": "Reklam Engelleyici", "version": "1.0", "description": "\u0130leri D\u00fczey Reklam Engelleyici", "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{af7a98b9-a65f-43d1-80e5-54f0028fe948}"}}}

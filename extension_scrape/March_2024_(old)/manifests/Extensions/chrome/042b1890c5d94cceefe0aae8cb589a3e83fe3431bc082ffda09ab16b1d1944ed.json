@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Cyber to Cyborg", "version": "0.1", "description": "Replaces the text 'cyber' with 'cyborg'.", "icons": {"64": "icons/icons8-Cyborg-64.png", "96": "icons/icons8-Cyborg-96.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}]}

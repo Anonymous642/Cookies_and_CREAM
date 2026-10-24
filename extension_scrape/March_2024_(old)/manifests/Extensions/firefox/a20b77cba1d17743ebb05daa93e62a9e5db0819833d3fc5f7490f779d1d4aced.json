@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Old Reddit Design", "version": "1.0", "description": "Redirect any reddit.com url to old.reddit.com so the website is displayed in the older design.", "icons": {"48": "icons/reddit.png"}, "content_scripts": [{"matches": ["*://*.reddit.com/*"], "js": ["oldreddit.js"], "run_at": "document_start"}]}

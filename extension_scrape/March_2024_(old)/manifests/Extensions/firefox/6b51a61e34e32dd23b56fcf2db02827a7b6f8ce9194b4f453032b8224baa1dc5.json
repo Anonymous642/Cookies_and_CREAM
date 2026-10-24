@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Beautiful Stopwatch", "version": "1.0", "description": "A simple stopwatch extension with a beautiful UI", "permissions": ["activeTab"], "icons": {"48": "icon.png"}, "action": {"default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{404ce233-58a8-4c51-b65f-98a354ccbc84}"}}}

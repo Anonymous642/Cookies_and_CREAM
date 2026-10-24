@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Strava Kudo All", "version": "1.0", "description": "Strava Kudo All automates the process of giving kudos to your fellow athletes.", "default_locale": "en", "icons": {"48": "icons/icon-48x48.png"}, "content_scripts": [{"matches": ["*://*.strava.com/*"], "js": ["kudoall.js"]}]}

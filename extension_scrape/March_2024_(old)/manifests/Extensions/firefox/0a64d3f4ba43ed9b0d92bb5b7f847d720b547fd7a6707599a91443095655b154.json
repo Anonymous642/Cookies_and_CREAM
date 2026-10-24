@@ -1,0 +1,1 @@
+{"name": "ESPN Cookie Finder", "description": "Find the ESPN cookies you need to authenticate your private fantasy sports leagues.", "version": "1.2", "manifest_version": 2, "icons": {"48": "espn-48.png", "96": "espn-96.png"}, "permissions": ["activeTab", "cookies", "<all_urls>"], "browser_action": {"browser_style": true, "default_title": "ESPN", "default_popup": "popup.html"}}

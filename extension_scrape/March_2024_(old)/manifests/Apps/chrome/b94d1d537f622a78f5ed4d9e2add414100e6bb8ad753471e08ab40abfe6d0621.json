@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a", "manifest_version": 2, "version": "2", "icons": {"128": "icon2.png"}, "app": {"urls": ["http://www.learnathome.ru/?ga"], "launch": {"web_url": "http://www.learnathome.ru/?ga"}}}

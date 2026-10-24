@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "KV JSON Conversion", "version": "0.0.1", "browser_action": {"default_popup": "popup.html"}, "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"}

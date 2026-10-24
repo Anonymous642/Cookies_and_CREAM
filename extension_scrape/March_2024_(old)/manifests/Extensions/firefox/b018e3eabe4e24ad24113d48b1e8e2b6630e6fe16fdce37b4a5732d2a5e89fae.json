@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Block Cookies", "version": "1.6", "description": "FireFox extension that block cookies popup", "icons": {"512": "images/icon.png"}, "browser_specific_settings": {"gecko": {"id": "szymon.nikitin@gmail.com", "strict_min_version": "48.0"}}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "css": ["styles.css"]}]}

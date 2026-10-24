@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YouTube comments killer", "short_name": "ComKill", "version": "1.2", "description": "Removes the whole comment section under all YouTube videos.", "permissions": ["activeTab"], "icons": {"32": "icon/32.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["content.js"]}]}

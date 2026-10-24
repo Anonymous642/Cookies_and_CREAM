@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Tic-Tac-Toe", "version": "0.0.2", "description": "Challenge yourself to Tic-Tac-Toe versus the computer.", "icons": {"16": "img/16.png", "48": "img/48.png", "128": "img/128.png"}, "chrome_url_overrides": {"newtab": "index.html"}}

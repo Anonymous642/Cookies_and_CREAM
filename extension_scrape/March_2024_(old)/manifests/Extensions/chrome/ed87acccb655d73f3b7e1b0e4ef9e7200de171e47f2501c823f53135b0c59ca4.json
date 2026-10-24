@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "NSDL  AF Extension", "description": "This is NSDL AutoFill", "version": "2", "icons": {"128": "icon.png"}, "permissions": ["activeTab", "tabs"], "browser_action": {"default_icon": "icon.png"}, "background": {"scripts": ["background.js"]}}

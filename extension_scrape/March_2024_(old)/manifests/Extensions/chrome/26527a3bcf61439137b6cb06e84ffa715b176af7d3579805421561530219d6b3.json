@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Camawiz : doplnok pre Camasys", "description": "Roz\u0161\u00edrenie pre Camasys na doplnenie a \u00fapravu funkci\u00ed", "version": "3.2", "manifest_version": 3, "content_scripts": [{"matches": ["https://*.camasys.com/*"], "js": ["jquery-3.6.0.min.js", "moment.min.js", "camasys.js"]}]}

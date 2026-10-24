@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Charm", "version": "0.70", "description": "Powering the DTC revolution.", "permissions": ["activeTab"], "host_permissions": ["https://charm.io/*", "https://api.charm.io/*"], "action": {"default_icon": "white-hummingbird.png", "default_popup": "popup.html"}, "manifest_version": 3}

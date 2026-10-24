@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "CSGO Parlor", "description": "This extension shows when new matches are available", "version": "1.1", "browser_action": {"default_icon": "icon.png"}, "permissions": ["http://www.csgoparlor.com/"], "background": {"scripts": ["getMatches.js"], "persistent": true}}

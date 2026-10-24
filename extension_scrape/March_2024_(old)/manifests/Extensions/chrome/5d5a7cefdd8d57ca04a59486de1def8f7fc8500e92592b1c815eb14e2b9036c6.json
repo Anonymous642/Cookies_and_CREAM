@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "amuzz.in", "description": "Socializing music experience", "version": "1.0", "permissions": ["http://api.amuzz.in/", "storage"], "browser_action": {"default_icon": "glossy_logo.png", "default_popup": "popup.html"}, "background": {"scripts": ["bg.js"]}}

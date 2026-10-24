@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Why did you update extension", "description": "Why did you update!", "icons": {"128": "icon.png"}, "version": "0.0.1", "manifest_version": 3, "devtools_page": "loader.html", "permissions": [], "host_permissions": ["<all_urls>"]}

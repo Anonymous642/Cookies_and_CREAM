@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search image", "description": "Select some text, right-click and choose \"Search image\" in the menu, a new tab will open with the searched text.", "version": "0.1.3", "icons": {"48": "Search-Images-icon48.png"}, "permissions": ["tabs", "contextMenus", "http://*/*", "https://*/*"], "background": {"scripts": ["background.js"]}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Short IDs for Pivotal Tracker", "version": "1.0", "description": "Adds last four of a story IDs in front of the story description.", "icons": {"48": "icons/pitids-48.png"}, "content_scripts": [{"matches": ["*://*.pivotaltracker.com/n/projects/*"], "js": ["pitids.js"]}]}

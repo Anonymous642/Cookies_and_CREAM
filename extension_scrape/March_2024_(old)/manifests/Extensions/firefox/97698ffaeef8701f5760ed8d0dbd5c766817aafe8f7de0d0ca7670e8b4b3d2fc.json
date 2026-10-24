@@ -1,0 +1,1 @@
+{"name": "Yt tools", "version": "1.2", "description": "YouTube enhancements.", "manifest_version": 2, "content_scripts": [{"matches": ["https://youtube.com/*", "https://www.youtube.com/*"], "js": ["script.js"], "all_frames": true}]}

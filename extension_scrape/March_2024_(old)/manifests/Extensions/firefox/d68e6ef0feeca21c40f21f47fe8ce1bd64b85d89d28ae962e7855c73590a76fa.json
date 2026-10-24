@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No Retweets", "description": "Hides tweets from people you don't follow from your timeline.", "version": "1.0", "icons": {"48": "icons/logo_48px.png", "96": "icons/logo_96px.png"}, "permissions": ["*://twitter.com/*"], "background": {"scripts": ["background.js"]}}

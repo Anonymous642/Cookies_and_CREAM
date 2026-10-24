@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NeverGoingToGiveYouUp", "description": "This extension plays a rick roll", "version": "2.0", "content_scripts": [{"matches": ["<all_urls>"]}], "browser_action": {"default_icon": "Icon/Icon.png", "default_popup": "popup.html"}, "permissions": ["tabs"]}

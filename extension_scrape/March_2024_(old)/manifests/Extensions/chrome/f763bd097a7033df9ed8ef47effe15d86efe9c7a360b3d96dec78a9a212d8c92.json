@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "BTC Combined Orderbook bloat remover", "version": "1.1", "description": "BTC Combined Orderbook bloat remover - This extension will hide the bloat on coinlobster.com", "content_scripts": [{"css": ["styles.css"], "matches": ["https://coinlobster.com/combined.html"]}]}

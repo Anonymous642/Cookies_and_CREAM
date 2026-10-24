@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "QuickBooks Favorites", "description": "Creates a list of favorite jobs along the right side of the screen!!", "version": "1.1.1", "manifest_version": 3, "content_scripts": [{"matches": ["https://tsheets.intuit.com/*"], "js": ["./timecard.js"]}], "permissions": ["storage"], "icons": {"16": "iconQB.png"}}

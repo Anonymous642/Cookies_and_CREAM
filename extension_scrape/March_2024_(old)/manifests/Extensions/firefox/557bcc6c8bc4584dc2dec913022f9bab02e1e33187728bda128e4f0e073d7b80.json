@@ -1,0 +1,1 @@
+{"name": "REAL VPN", "version": "4.1.7", "manifest_version": 2, "description": "Real VPN WILL PROVIDE YOU BEST SERVICES ABOUT VPN", "browser_action": {"default_icon": "icon.png", "default_title": "REAL VPN", "default_popup": "extension.html"}, "icons": {"128": "icon.png"}}

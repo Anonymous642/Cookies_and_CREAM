@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GeoHints Quiz Format", "description": "Make geohints.com into a quiz style website.", "version": "1.16", "manifest_version": 3, "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "content_scripts": [{"js": ["script.js"], "css": ["/style.css"], "matches": ["https://geohints.com/*"]}]}

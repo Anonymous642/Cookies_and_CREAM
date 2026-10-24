@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Television", "description": "Ver TV en directo y TDT a la carta", "manifest_version": 2, "version": "0.1", "app": {"urls": ["http://www.miteleonline.com/"], "launch": {"web_url": "http://www.miteleonline.com/"}}, "icons": {"16": "icon-16.png", "128": "icon-128.png"}}

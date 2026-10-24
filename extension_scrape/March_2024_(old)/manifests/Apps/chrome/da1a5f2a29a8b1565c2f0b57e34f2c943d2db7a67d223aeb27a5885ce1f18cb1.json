@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "QSO", "description": "Randomly plays sample CW QSO. Teaches your ears to recongnize typical QSO.", "version": "0.2", "icons": {"128": "icon128.png"}, "app": {"background": {"scripts": ["background.js"]}}, "manifest_version": 2}

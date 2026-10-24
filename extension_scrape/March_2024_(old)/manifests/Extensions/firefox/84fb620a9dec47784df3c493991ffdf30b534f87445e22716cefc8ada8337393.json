@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AG Extension", "version": "1.0", "description": "Decodifica las direcciones ofuscadas de Google.", "icons": {"48": "icons/Etruscan48png.png"}, "content_scripts": [{"matches": ["https://www.google.com/search?*"], "js": ["ag.js"]}]}

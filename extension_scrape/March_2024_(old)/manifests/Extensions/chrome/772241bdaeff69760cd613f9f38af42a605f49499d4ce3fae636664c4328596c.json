@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "gck", "version": "0.0.2", "icons": {"128": "icon.png"}, "description": "Replace your new tab page into productive tab", "chrome_url_overrides": {"newtab": "index.html"}}

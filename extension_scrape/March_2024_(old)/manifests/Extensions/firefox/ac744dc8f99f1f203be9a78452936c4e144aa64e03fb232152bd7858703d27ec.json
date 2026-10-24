@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FumbblKamFinder", "version": "1.0.1", "description": "Three letter coaches will not turn up in the coach search. This tool allows for the famous coaches 'Kam' and 'Zed' to be found through coach/team search on Fumbbl instantly. ", "icons": {"48": "images/kam.png"}, "content_scripts": [{"matches": ["*://*.fumbbl.com/p/*"], "js": ["kamfinder.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Arangify", "version": "1.0", "description": "Appends -arang to everything. EVERYTHING. >.> It's not weird you're weird.", "content_scripts": [{"matches": ["*://*/*"], "js": ["arangify.js"]}]}

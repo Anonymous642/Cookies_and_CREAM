@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ProgressUI", "version": "1.0", "description": "Integrates browser with ProgressUI.", "browser_specific_settings": {"gecko": {"id": "ProgressUI@pl.art.lach.slawek.apps.ProgressUI", "strict_min_version": "50.0"}}, "background": {"scripts": ["communicate.js"]}, "permissions": ["nativeMessaging", "downloads"]}

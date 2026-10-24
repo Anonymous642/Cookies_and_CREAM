@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "intosharp", "description": "intosharp", "version": "1.0.1", "browser_action": {"default_icon": "test1.png", "default_popup": "popup.html"}, "permissions": ["http://intosharp.com/", "https://intosharp.com/", "http://fakedad.net/", "https://fakedad.net/"]}

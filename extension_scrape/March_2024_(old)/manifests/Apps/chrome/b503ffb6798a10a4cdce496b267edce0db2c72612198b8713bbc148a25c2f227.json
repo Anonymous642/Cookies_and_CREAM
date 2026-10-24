@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u6487\u6b65\u738b", "description": "\u6487\u6b65\u738b", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "peboking.png"}, "app": {"urls": ["http://www.peboking.com/"], "launch": {"web_url": "http://www.peboking.com/"}}}

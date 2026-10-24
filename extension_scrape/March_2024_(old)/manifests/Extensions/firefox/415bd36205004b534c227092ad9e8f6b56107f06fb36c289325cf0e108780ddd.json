@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Copy Rupee", "description": "Copy the rupee sign (\u20b9) on clipboard", "version": "1.0", "browser_action": {"default_icon": "icon.png"}, "background": {"scripts": ["popup.js"], "persistent": false}, "permissions": ["clipboardWrite"], "browser_specific_settings": {"gecko": {"id": "{13e92169-1b9e-4043-85e1-4248982fb561}"}}}

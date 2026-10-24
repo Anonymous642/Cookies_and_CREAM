@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tinycards Shuffler", "version": "1.0", "description": "Adds shuffling to Duolingo's tinycards website", "manifest_version": 2, "content_scripts": [{"matches": ["*://tinycards.duolingo.com/decks/*/*"], "js": ["content.js"]}]}

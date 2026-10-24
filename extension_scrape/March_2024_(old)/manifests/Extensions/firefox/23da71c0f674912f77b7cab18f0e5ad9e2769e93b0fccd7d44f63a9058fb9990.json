@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Lapi", "version": "2.1.0", "description": "Notification et annonce de live de Lapi", "icons": {"128": "icone.png"}, "browser_action": {"default_icon": "off.png", "default_title": "Lapi - Notification", "default_popup": "popup/popup.html"}, "background": {"scripts": ["background.js"]}, "permissions": ["notifications"], "author": "Isak"}

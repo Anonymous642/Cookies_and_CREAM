@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Save All Tabs as HTML", "version": "1.0", "permissions": ["scripting", "https://www.naukri.com/*"], "action": {}, "background": {"service_worker": "background.js"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}]}

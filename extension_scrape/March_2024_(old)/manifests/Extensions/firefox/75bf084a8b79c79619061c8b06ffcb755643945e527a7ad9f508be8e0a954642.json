@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Yipyap", "version": "1.2", "description": "Notebook-able bookmarks.", "background": {"scripts": ["yipyap.js"]}, "icons": {"48": "icons/yipyap.svg", "96": "icons/yipyap.svg"}, "permissions": ["bookmarks"]}

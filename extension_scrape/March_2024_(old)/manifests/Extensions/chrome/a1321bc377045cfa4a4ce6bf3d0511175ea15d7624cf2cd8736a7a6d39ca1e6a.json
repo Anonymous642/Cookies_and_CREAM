@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Netflix Skipper", "version": "1.0.0", "manifest_version": 3, "description": "Press skip button on Netflix", "content_scripts": [{"js": ["skip.js"], "matches": ["https://www.netflix.com/watch/*"]}], "icons": {"128": "skip.png"}}

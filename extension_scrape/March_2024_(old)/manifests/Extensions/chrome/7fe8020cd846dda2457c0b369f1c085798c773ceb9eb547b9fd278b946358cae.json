@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "FDcapital.co.uk Job Search", "version": "1.0", "description": "FDcapital.co.uk Job Search", "icons": {"48": "icon.png"}, "browser_action": {"name": "FDcapital.co.uk Jobs"}, "background": {"scripts": ["background.js"]}}

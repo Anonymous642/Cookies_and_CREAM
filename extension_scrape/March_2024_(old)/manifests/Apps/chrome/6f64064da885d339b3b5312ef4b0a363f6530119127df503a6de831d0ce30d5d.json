@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "SETIT.today", "description": "Implement your plan of action. Create your objectives and manage of transparent dashboards.", "version": "2.0.0.151", "icons": {"128": "icon_128.png"}, "app": {"urls": [], "launch": {"web_url": "HTTP://WWW.SETIT.TODAY/"}}}

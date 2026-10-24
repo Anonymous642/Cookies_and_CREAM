@@ -1,0 +1,1 @@
+{"browser_specific_settings": {"gecko": {"strict_min_version": "91.1.0"}}, "manifest_version": 2, "name": "cute proxy toggler", "version": "1.0", "icons": {"48": "icons/bedge-48.png"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icons/bedge-48.png"}, "permissions": ["proxy"]}

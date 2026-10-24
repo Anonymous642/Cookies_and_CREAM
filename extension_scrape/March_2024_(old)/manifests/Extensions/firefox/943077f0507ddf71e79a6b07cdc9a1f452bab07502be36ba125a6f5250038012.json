@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Oxygen", "version": "1.0", "description": "Breathe life into your new tab screen with oxygen.", "chrome_url_overrides": {"newtab": "index.html"}, "browser_action": {"default_icon": "favicon.ico", "default_title": "Oxygen"}, "browser_specific_settings": {"gecko": {"id": "{1523483b-b4f4-4d16-adbd-0d2fffeca863}"}}}

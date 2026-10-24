@@ -1,0 +1,1 @@
+{"description": "Load rarity from pixtapes.com on Magic Eden for Pixtapes NFT.", "manifest_version": 2, "name": "Pixtapes - Magic Eden Rarity", "version": "1.5", "homepage_url": "https://www.pixtapes.com", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://magiceden.io/*"], "js": ["pixtapes.js"]}], "permissions": ["*://pixtapes.com/*"]}

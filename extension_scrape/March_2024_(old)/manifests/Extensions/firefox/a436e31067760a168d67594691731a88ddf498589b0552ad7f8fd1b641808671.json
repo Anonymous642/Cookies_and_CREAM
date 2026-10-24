@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Human Benchmark Bot", "version": "1.1", "description": "Inhumanly good at humanbenchmark.com", "background": {"scripts": ["background.js"]}, "permissions": ["*://humanbenchmark.com/*", "tabs", "webNavigation"], "browser_specific_settings": {"gecko": {"id": "{137ce02a-ff4e-438e-9f37-699b67cdb21d}", "strict_min_version": "54.0"}}}

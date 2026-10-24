@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Scroll Everywhere", "version": "1.0", "description": "Activate the scroll bar on the pages that are being viewed even if it has been disabled", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://*/*", "file:///*"], "js": ["scrolleverywhere.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Make Twitter Helvetica Again", "version": "0.1.0", "description": "Segoe UI? Sounds good, doesn't work. Helvetica is great, the best.", "icons": {"128": "icon128.png"}, "content_scripts": [{"css": ["styles.css"], "matches": ["https://twitter.com/*"]}], "applications": {"gecko": {"id": "twitter_helvetica@danny2462"}}}

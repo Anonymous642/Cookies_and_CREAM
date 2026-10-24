@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Zane Benefits", "description": "Zane Benefits Defined Contribution Health Benefits Software", "version": "0.0.1.1", "icons": {"128": "zb_logo.png"}, "app": {"urls": ["http://www.zanebenefits.com/"], "launch": {"web_url": "http://www.zanebenefits.com/"}}}

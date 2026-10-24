@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CJ Opener", "version": "2.0", "author": "exp131", "applications": {"gecko": {"id": "{0568EFC7-32DC-4f3e-B567-EC26E3B7888B}"}}, "description": "Opens CJ links", "background": {"scripts": ["app.js"]}, "permissions": ["contextMenus", "tabs"]}

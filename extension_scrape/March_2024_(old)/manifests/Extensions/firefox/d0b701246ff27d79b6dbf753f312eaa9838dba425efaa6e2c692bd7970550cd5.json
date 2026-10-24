@@ -1,0 +1,1 @@
+{"name": "Soundful Tabs", "description": "Allows the user to manage and organize their tabs that make sounds in a toolbar button", "manifest_version": 2, "version": "1.1", "permissions": ["tabs"], "browser_action": {"default_icon": "icons/toolbar-icon.png", "default_title": "Soundful Tabs", "default_popup": "popup/all_tabs.html"}}

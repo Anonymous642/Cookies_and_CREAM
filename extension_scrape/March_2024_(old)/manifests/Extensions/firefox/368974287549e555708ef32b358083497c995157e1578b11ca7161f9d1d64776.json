@@ -1,0 +1,1 @@
+{"name": "memegen", "description": "meme generator extension", "version": "2.2.0", "manifest_version": 2, "icons": {"16": "memegen.webp", "48": "memegen.webp", "128": "memegen.webp"}, "browser_action": {"default_popup": "src/popup.html"}, "background": {"scripts": ["src/background.js"]}, "browser_specific_settings": {"gecko": {"id": "{ca12697e-dce8-4a44-8c0b-14b74dad069c}"}}}

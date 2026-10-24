@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tank War", "description": "Destroy all ennemies in your path !", "version": "1.0.0.4", "manifest_version": 2, "app": {"urls": ["http://www.insomniak-dev.com/tk/"], "launch": {"web_url": "http://www.insomniak-dev.com/tk/"}}, "icons": {"128": "tk_128.png"}}

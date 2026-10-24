@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "MY FILTHY PC", "description": "At Home and Over the Internet Computer Help", "version": "1.3", "icons": {"128": "icon.png"}, "app": {"urls": ["HTTP://www.myfilthypc.com/"], "launch": {"web_url": "HTTP://www.myfilthypc.com/"}}}

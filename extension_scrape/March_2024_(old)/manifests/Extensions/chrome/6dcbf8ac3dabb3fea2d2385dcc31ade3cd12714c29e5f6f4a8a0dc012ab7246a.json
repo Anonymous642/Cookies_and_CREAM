@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "The Quietus style package", "version": "1.1", "description": "Improves user experience on The Quietus (thequietus.com) website.", "manifest_version": 3, "content_scripts": [{"matches": ["https://thequietus.com/*"], "css": ["new-styles.min.css"], "run_at": "document_end"}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "version": "0.0.1", "name": "praiadasfontes.com", "description": "Praia das Fontes", "author": "Praia", "browser_action": {"default_title": "Praia das Fontes", "default_popup": "index.html", "default_icon": "icon.png"}}

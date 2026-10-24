@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Omnify", "version": "1.0", "default_locale": "en", "description": "Add custom commands/actions to the navigation/omnibox, for example type: omni wikipedia firefox.", "background": {"scripts": ["background.js"]}, "options_ui": {"page": "options.html", "browser_style": true}, "permissions": ["storage"], "omnibox": {"keyword": "omni"}}

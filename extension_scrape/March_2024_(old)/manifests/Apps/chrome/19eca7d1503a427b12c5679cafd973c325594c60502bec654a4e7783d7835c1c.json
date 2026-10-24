@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Giorgiotave.it", "description": "La Community SEO #1 in Italia suddivisa in magazine su varie tematiche e forum per webmaster.", "version": "0.2", "icons": {"128": "gt-small.png"}, "app": {"launch": {"web_url": "http://www.giorgiotave.it"}}}

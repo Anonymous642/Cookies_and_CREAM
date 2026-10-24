@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "connpass advanced stats", "description": "connpass advanced stats", "version": "24.2.29", "content_scripts": [{"matches": ["https://connpass.com/event/*/stats/"], "js": ["./scripts/index.js"]}]}

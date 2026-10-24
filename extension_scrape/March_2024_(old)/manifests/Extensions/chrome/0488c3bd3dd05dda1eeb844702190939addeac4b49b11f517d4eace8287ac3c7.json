@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Auto 'Replies' Expander for MS Teams Web", "version": "1.0", "manifest_version": 2, "content_scripts": [{"matches": ["https://teams.microsoft.com/*"], "js": ["index.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Link Name Copier", "version": "1.1", "description": "Copy the name of any link with a right-click", "permissions": ["clipboardWrite", "menus"], "background": {"scripts": ["background.js"]}, "icons": {"48": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{7cab7d59-a3d4-4ea7-9f66-122158fb98ec}"}}}

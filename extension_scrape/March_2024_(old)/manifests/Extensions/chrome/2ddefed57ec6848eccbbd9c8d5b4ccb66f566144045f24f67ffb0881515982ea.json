@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "iDraw Kit", "description": "A web design tool based on iDraw.js", "version": "0.0.3", "permissions": [], "icons": {"128": "128.png"}, "action": {"default_icon": "128.png", "default_popup": "popup/index.html"}, "background": {"service_worker": "background/index.js"}}

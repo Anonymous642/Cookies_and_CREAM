@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "JCL Blksize", "version": "1.0.0", "manifest_version": 2, "description": "JCL Blksize Calculator.", "icons": {"128": "images/azul.png"}, "browser_action": {"default_icon": "images/azul.png", "default_title": "JCL Blksize", "default_popup": "pages/popup.html"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SwimSwam Comment Filter", "version": "1.1", "description": "Allows users to hide comments from particular usernames on SwimSwam.", "content_scripts": [{"matches": ["*://*.swimswam.com/*"], "js": ["filter.js"]}], "permissions": ["storage"], "browser_specific_settings": {"gecko": {"id": "{27aa5407-bca7-401d-8274-f094cf4e53d9}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Consult", "version": "1.2", "description": "Consulta de CEP, CPF, CNPJ", "manifest_version": 3, "action": {"default_icon": {"19": "img/icon.ico", "38": "img/icon.ico"}, "default_popup": "index.html"}}

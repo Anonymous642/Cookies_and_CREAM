@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Know Political Bias", "version": "1.6", "manifest_version": 2, "background": {"scripts": ["main.js"]}, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}, "permissions": ["activeTab"], "browser_action": {}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "del-his", "description": "del-his", "version": "1.0", "manifest_version": 2, "browser_action": {"default_icon": {"16": "logo.png"}, "default_popup": "main.html"}, "permissions": ["history"]}

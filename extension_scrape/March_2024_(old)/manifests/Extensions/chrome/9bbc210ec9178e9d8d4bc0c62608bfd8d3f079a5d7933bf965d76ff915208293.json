@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Link Pager", "version": "0.4.1.1", "description": "__MSG_description__", "icons": {"48": "icon48.png", "128": "icon128.png"}, "default_locale": "en", "content_scripts": [{"matches": ["<all_urls>"], "js": ["LinkPager.js"]}]}

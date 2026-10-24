@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "EasyQuote", "version": "1.2", "description": "Allows you quick direct access to financial quotes and charts!", "permissions": ["contextMenus", "storage"], "background": {"service_worker": "background.js"}, "icons": {"128": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Best of Aliexpress", "manifest_version": 2, "short_name": "Aliexpress.com - Best Online Shopping Destination", "description": "Find best of aliexpress.com , best online shopping deals & offers", "version": "1", "icons": {"128": "128.png"}, "app": {"launch": {"web_url": "http://bstaliexpress.weebly.com/"}}}

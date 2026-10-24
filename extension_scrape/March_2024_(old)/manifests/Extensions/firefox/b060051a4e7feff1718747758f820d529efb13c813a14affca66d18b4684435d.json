@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RRiS", "version": "1.1", "description": "Redirects any and all reddit urls to the 'old' equivalent", "icons": {"48": "icons/rris.png"}, "content_scripts": [{"exclude_matches": ["*://old.reddit.com/*", "*://np.reddit.com/*"], "matches": ["*://*.reddit.com/*"], "js": ["rris.js"]}]}

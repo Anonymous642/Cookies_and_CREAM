@@ -1,0 +1,1 @@
+{"name": "Font Settings Simple And Fast", "version": "2.9", "manifest_version": 2, "description": "Customize per-script font settings.", "options_page": "options.html", "icons": {"16": "fonts16.png", "128": "fonts128.png"}, "permissions": ["fontSettings"], "browser_specific_settings": {"gecko": {"id": "{4b699038-a59e-4126-8beb-b8f9654a59e9}"}}}

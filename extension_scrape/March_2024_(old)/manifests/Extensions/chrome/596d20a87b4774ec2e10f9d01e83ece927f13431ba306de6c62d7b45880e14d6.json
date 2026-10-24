@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Calcular Bonificaciones 2.0", "description": "Calcula el 30%", "icons": {"16": "Logo.png", "48": "Logo.png", "128": "Logo.png"}, "version": "1.0.2", "browser_action": {"default_icon": "Logo.png", "default_popup": "index.html"}, "permissions": []}

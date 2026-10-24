@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "DR Noparse", "version": "0.3", "description": "Allows obfuscating user entered text", "icons": {"48": "icons/drnoparse48.png"}, "permissions": ["activeTab", "menus"], "background": {"scripts": ["background.js"]}}

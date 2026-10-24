@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u5e97\u8217\u60c5\u5831\u51fa\u3059\u3084\u3064", "description": "\u5e97\u8217\u60c5\u5831\u3092\u76f4\u63a5\u51fa\u3059", "version": "0.2", "manifest_version": 2, "content_scripts": [{"matches": ["https://akizukidenshi.com/catalog/g/g*"], "js": ["jquery-2.2.0.min.js", "ChEx.js", "content_script.js"]}]}

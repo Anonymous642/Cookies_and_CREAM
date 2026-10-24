@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Amayra's Tab", "author": "Nishant", "version": "1.0.2", "description": "Use Amayra insted of boring tabs", "chrome_url_overrides": {"newtab": "index.html"}, "action": {"default_title": "Amayra's Tab", "default_newtab": "index.html", "default_icon": {"48": "favicon.ico"}}}

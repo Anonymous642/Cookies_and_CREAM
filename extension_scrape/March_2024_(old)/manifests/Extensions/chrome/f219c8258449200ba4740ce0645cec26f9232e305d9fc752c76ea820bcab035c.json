@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gerador de CPF, RG e CNPJ", "version": "3.0", "description": "Gera n\u00fameros v\u00e1lidos de CPF, RG e CNPJ", "action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"48": "icon.png"}}

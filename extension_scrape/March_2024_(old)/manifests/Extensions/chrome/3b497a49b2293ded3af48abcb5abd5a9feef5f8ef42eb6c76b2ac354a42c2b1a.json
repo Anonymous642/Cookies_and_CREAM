@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Horoeka Quick Launcher", "description": "Quick launch for Horoeka cohort", "version": "0.1.0", "icons": {"128": "horoekaLarge.png"}, "browser_action": {"default_icon": "horoeka.png", "default_popup": "popup.html"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "patisayfasicom", "description": "Evcil Hayvan Sahiplendirme Platformu", "version": "1", "manifest_version": 3, "action": {"default_title": "patisayfasicom", "default_icon": "pati.png", "default_popup": "index.html"}}

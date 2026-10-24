@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tabstart", "version": "1.0.0", "permissions": ["topSites"], "browser_action": {"default_title": "tabstart", "default_popup": "index.html"}, "chrome_url_overrides": {"newtab": "index.html"}}

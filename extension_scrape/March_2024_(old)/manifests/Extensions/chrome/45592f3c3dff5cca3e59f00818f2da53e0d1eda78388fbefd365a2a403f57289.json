@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Rooster Youtube Tools", "description": "Display language pair subtitles for Youtube Videos", "version": "1.20", "content_scripts": [{"matches": ["https://www.youtube.com/watch?v=*", "https://youtu.be/*"], "js": ["content.js"]}], "permissions": ["https://lb.dioco.io/*"]}

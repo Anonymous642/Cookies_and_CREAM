@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Prevent Custom Document Role", "version": "0.1", "author": "Alex Vallat", "applications": {"gecko": {"id": "PreventCustomDocumentRole@byalexv.co.uk"}}, "content_scripts": [{"all_frames": true, "matches": ["*://*/*"], "js": ["PreventCustomDocumentRole.js"], "run_at": "document_end"}], "permissions": []}

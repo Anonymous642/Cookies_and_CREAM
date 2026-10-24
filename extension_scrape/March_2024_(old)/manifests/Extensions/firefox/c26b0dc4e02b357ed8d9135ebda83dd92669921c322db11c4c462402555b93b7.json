@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No YouTube Premieres", "version": "1.5", "description": "Hides Premieres from the YouTube subscription page.", "icons": {"48": "icons/48.png", "96": "icons/96.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["no_premieres.js"]}], "browser_specific_settings": {"gecko": {"id": "{0cb73282-9781-4b9c-83e4-26628e1a02ca}"}}}

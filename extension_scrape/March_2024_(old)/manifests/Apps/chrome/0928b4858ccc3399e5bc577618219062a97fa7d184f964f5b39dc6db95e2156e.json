@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Halloween 2048", "short_name": "Halloween 2048", "version": "1.0.1", "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.halloween2048.com/"], "launch": {"web_url": "http://www.halloween2048.com/"}}, "manifest_version": 2}

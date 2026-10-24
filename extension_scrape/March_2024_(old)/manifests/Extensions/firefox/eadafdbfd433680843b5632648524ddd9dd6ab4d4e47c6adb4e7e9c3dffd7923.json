@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "pooarasu's extension", "version": "1.0", "description": "my first extension", "content_scripts": [{"matches": ["*://*.google.com/search?*"]}], "permissions": ["storage", "tabs"], "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{1a4427c5-4314-4f48-950a-c5b058eb275e}"}}}

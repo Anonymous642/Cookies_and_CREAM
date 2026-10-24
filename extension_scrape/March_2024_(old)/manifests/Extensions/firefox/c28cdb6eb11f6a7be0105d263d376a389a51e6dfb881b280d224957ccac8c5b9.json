@@ -1,0 +1,1 @@
+{"description": "AutoClose dinamically opened Tabs by website scripts", "manifest_version": 2, "name": "Putlockers-Close-Tabs", "version": "1.0", "permissions": ["tabs", "activeTab", "<all_urls>"], "background": {"scripts": ["background.js"]}}

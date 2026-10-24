@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Web Image Pooper!", "description": "A extension to poop your image search!", "manifest_version": 2, "version": "0.1", "icons": {"64": "poop.png"}, "content_scripts": [{"matches": ["*://*.google.com/*", "*://*.bing.com/*", "*://*.yahoo.com/*"], "js": ["content.js"]}]}

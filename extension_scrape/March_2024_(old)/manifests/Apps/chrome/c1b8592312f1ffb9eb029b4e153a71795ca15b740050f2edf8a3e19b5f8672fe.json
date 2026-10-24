@@ -1,0 +1,1 @@
+{"name": "Chizrinz Infoway Pvt. Ltd.", "description": "FOUNDED IN 2010 ", "app": {"urls": ["http://www.chizrinz.com/"], "launch": {"web_url": "http://www.chizrinz.com/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.2", "icons": {"128": "icon.png"}}

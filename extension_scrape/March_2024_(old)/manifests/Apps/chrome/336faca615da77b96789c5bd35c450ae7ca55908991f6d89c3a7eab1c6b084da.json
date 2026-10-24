@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "iBard24.pl", "description": "iBard24 - Backup Online", "version": "2.8.7", "manifest_version": 2, "app": {"urls": ["http://www.ibard24.pl/"], "launch": {"web_url": "http://www.ibard24.pl/", "container": "tab"}}, "icons": {"128": "iBard24.png"}, "permissions": ["unlimitedStorage", "notifications"]}

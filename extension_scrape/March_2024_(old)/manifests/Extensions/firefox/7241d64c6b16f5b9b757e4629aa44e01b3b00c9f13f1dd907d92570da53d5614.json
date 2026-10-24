@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "No Shorts", "version": "0.1.0", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["script.js"], "run_at": "document_end", "css": ["styles.css"]}], "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{ed3f3023-c834-4afd-be2c-b26ed759369c}"}}}

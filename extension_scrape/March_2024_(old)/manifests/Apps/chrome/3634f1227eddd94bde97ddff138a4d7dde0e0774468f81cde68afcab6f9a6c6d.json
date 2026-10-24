@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Metronome", "version": "1.0.0.1", "manifest_version": 2, "icons": {"128": "metronome_icon.png"}, "description": "Use this free Metronome to improve your rhythmic state!", "app": {"urls": ["http://123metronome.com/?chromestore=1"], "launch": {"web_url": "http://123metronome.com/?chromestore=1"}}}

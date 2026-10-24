@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Videoplayback shortcuts", "version": "0.0.1", "description": "Play your lecture videos smoothly with various options", "manifest_version": 2, "content_scripts": [{"matches": ["https://*/*"], "run_at": "document_idle", "js": ["background.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Display Link Details", "version": "1.0", "description": "Displays details about links on the current webpage.", "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "displaylinkdetails@gmail.com"}}, "background": {"scripts": ["background.js"], "persistent": false}}

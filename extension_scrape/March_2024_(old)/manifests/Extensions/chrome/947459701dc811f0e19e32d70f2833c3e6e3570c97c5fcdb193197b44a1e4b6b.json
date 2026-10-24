@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Kick.com Chat Spam Filter", "version": "1.11", "action": {"default_icon": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}, "background": {"service_worker": "background.js"}, "content_scripts": [{"matches": ["*://*.kick.com/*"], "js": ["content.js"]}]}

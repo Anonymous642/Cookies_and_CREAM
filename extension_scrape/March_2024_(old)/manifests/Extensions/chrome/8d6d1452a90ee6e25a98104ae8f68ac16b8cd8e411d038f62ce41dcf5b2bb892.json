@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Code Displayer", "version": "1.0.0", "description": "Converts code to display on web pages", "manifest_version": 3, "author": "Shane Clarke", "action": {"default_popup": "index.html", "default_title": "code displayer", "path": "https://e-nash.net/e-nash-images/logo_image.png"}}

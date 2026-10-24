@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Exsqueeze me!", "description": "Randomly says the phrase 'Exsqueeze me!'", "version": "1.2", "author": "MrSprinkle", "manifest_version": 3, "action": {"default_popup": "popup.html"}, "icons": {"128": "exsqueeze_icon.png"}}

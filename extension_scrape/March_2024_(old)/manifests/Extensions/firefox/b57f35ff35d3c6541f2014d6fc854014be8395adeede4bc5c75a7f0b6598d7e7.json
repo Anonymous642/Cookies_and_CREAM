@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Zammad Shortcut Terminator", "description": "Disables shortcuts on Zammad sites", "version": "1.0.0", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Schoolagenda", "description": "Maak je eigen schoolagenda", "version": "2.4", "permissions": ["storage"], "manifest_version": 2, "app": {"background": {"scripts": ["js/background.js"]}}, "icons": {"32": "logo.png", "128": "logo.png"}}

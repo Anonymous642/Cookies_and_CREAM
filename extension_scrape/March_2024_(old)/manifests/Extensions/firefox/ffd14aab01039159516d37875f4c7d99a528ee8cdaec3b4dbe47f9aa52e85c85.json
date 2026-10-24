@@ -1,0 +1,1 @@
+{"name": "NewTab", "version": "1.0", "description": "An Epic New Tab", "manifest_version": 2, "chrome_url_overrides": {"newtab": "NewTab.html"}, "browser_action": {"default_popup": "NewTabPopup.html"}, "icons": {"16": "Images/NewTabLogo.png", "48": "Images/NewTabLogo.png", "128": "Images/NewTabLogo.png"}}

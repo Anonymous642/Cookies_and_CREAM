@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "BENJY.CH URL Shortener", "description": "Use BENJY.CH to shorten URLs with one click.", "version": "1.0", "browser_action": {"default_icon": "icon.png", "default_popup": "benjych.html"}, "permissions": ["http://*/*", "tabs"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Gen Z Dictionary", "description": "Decode the lingo, speak Gen Z fluently", "version": "0.0.2", "manifest_version": 3, "action": {"default_title": "Gen Z Dictionary", "default_popup": "index.html"}, "icons": {"48": "icon48.png", "96": "icon96.png", "128": "icon128.png"}}

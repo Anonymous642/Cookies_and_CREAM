@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Cronometro / Stopwatch 4u", "description": "Cronometro / Stopwatch on Line", "version": "0.9.1.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.a4u.com.br/cronometro/"], "launch": {"web_url": "http://www.a4u.com.br/cronometro/"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bookmarks to Https", "description": "Find Http bookmarks and convert to Https", "version": "1.0.0", "permissions": ["bookmarks"], "browser_action": {"default_icon": "assets/icon.svg", "default_title": "Beastify", "default_popup": "assets/convert.html"}, "icons": {"48": "assets/Icon-48.png", "96": "assets/Icon-96.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sage One", "version": "1.3", "manifest_version": 2, "description": "Soluci\u00f3n de gesti\u00f3n", "app": {"urls": ["http://www.sageone.es/"], "launch": {"web_url": "http://www.sageone.es/"}}, "icons": {"128": "icon.jpg"}, "permissions": []}

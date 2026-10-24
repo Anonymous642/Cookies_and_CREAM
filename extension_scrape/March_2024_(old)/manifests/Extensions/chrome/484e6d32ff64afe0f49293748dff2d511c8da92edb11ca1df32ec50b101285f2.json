@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Gradient BGenerator", "version": "1.4.4", "description": "Create a colorful gradient background for your website, from the new-tab", "icons": {"128": "icons/128.png"}, "background": {"service_worker": "background.js"}, "chrome_url_overrides": {"newtab": "newTab.html"}, "manifest_version": 3}

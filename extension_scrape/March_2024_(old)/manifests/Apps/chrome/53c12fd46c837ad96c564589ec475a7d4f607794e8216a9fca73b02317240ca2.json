@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GoJiyo", "description": "Games, activities & adventure await!", "version": "1", "manifest_version": 2, "app": {"urls": ["*://www.gojiyo.com/"], "launch": {"web_url": "http://www.gojiyo.com/world"}}, "icons": {"128": "icon_128.png"}, "permissions": []}

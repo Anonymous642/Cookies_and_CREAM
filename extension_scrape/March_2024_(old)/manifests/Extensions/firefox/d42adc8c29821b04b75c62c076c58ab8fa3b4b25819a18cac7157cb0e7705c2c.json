@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FollowUp", "version": "1.1", "description": "automatic update the bookmarks to the current page", "permissions": ["bookmarks", "tabs", "notifications"], "background": {"scripts": ["followUp.js"]}}

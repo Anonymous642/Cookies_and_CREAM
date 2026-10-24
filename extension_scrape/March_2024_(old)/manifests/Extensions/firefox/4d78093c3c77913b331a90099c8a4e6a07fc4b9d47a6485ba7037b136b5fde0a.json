@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Salvus", "author": "Imran Jaleel", "version": "1.0", "description": "A basic browser Extension for Mozial firefox with soothing background and quotes", "chrome_url_overrides": {"newtab": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{6f15f294-b98b-4820-a921-8a3440d3473c}"}}}

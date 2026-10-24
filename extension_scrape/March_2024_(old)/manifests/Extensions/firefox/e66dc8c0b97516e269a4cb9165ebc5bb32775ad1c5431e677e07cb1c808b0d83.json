@@ -1,0 +1,1 @@
+{"name": "YT Recommendation Disabler", "version": "1.2", "description": "Remove your YouTube recomendations from Firefox mobile.", "content_scripts": [{"css": ["block.css"], "matches": ["*://youtube.com/*", "*://*.youtube.com/*", "*://youtu.be/*"]}], "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{1f3a2c80-25f5-42c8-aad1-92214e132e87}"}}}

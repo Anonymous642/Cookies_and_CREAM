@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Evangelho Gr\u00e1tis", "description": "B\u00edblias, Sistema de Busca e Livros B\u00edblicos", "version": "1.1.1", "app": {"launch": {"web_url": "http://www.evangelhogratis.net"}}, "icons": {"128": "icon.png"}, "manifest_version": 2}

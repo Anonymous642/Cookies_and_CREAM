@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Wildpepper", "description": "Recipies an Sauces", "version": "0.3", "icons": {"128": "M2Wwebicon.jpg"}, "app": {"launch": {"web_url": "http://www.wildpepper.com/?utm_source=App&utm_medium=App&utm_campaign=ChromeApp"}}}

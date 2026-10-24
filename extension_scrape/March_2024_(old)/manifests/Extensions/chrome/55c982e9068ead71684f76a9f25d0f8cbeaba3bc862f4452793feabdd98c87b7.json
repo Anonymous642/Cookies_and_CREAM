@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Print Lazada for Jubelio", "version": "1.2", "description": "Print Lazada for Jubelio", "browser_action": {"default_popup": "popup.html"}, "permissions": ["activeTab", "*://app.jubelio.com/*"], "manifest_version": 2}

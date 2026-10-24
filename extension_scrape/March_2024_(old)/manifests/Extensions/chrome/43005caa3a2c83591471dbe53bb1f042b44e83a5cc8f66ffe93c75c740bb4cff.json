@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Safetica Web Protection", "version": "1.0", "description": "Protect your company from data loss", "permissions": ["nativeMessaging", "tabs"], "background": {"service_worker": "main.js"}, "icons": {"128": "icon-128.png"}, "manifest_version": 3}

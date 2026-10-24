@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "New Tab Redirect", "description": "Redirect the New Tab page to your favorite", "version": "1.1", "options_page": "options.html", "chrome_url_overrides": {"newtab": "dummy.html"}, "background": {"scripts": ["background.js"]}, "permissions": []}

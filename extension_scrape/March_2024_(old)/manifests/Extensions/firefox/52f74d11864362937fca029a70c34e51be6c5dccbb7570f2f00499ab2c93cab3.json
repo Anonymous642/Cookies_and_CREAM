@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "fbTimestamp", "version": "1.1", "description": "Shows the Facebook timestamp on hover in dd:mm:yyyy, HH:MM:SS", "icons": {"48": "icons/pngwave.png"}, "content_scripts": [{"matches": ["*://*.facebook.com/*"], "js": ["fbTimestamp.js"]}]}

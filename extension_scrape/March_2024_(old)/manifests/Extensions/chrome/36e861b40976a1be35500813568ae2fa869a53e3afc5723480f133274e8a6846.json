@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WebDxD", "description": "WebDxD \uff5c \u8fdb\u519b\u4e92\u8054\u7f51\u884c\u4e1a\u4e0d\u662f\u68a6", "version": "0.1", "manifest_version": 2, "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"16": "icon.png", "48": "icon.png", "128": "icon.png"}}

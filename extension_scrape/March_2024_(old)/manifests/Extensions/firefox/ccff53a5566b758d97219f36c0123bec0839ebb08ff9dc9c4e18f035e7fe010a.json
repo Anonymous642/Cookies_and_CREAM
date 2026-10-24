@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Remove Roblox Ads", "version": "1.0", "description": "A light weight extension that removes Roblox adverts/sponsorships while maintaining a clean design.", "content_scripts": [{"matches": ["https://*.roblox.com/*"], "js": ["index.js"]}]}

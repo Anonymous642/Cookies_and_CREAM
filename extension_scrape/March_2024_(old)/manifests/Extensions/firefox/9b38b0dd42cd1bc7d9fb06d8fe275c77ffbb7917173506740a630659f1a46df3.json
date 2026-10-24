@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AntiMT", "version": "1.1", "description": "Removes MailTrack signature when using MailTrack for free!", "applications": {"gecko": {"id": "anitmt@addon.com"}}, "content_scripts": [{"matches": ["*://mail.google.com/*"], "js": ["antimt.js"]}]}

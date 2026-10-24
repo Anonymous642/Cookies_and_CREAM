@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "PR Pasta", "version": "1.0", "description": "Pastes PR description into commit message", "icons": {"48": "icons/icon.svg", "96": "icons/icon.svg"}, "content_scripts": [{"matches": ["*://*.github.com/*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{fd0a6740-b342-4240-9de0-d05a84b2728f}"}}}

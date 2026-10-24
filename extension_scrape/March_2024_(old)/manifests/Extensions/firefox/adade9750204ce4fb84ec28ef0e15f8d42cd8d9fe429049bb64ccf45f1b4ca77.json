@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Binary to Decimal Converter", "version": "1.0", "description": "Convert binary numbers to decimal", "icons": {"48": "icon.png"}, "browser_action": {"default_icon": "icon.png", "default_title": "Binary to Decimal Converter", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{f0b844e0-d42d-4f22-a67f-9a0b39fe1749}"}}}

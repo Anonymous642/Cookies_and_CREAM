@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Square Root Calculator", "version": "1.0", "description": "Calculates the square root of a number", "icons": {"48": "icon.png"}, "browser_action": {"default_icon": {"48": "icon.png"}, "default_title": "Square Root Calculator", "default_popup": "popup.html"}, "browser_specific_settings": {"gecko": {"id": "{e4b3fad9-a86f-4064-b96d-820920dc0f91}"}}}

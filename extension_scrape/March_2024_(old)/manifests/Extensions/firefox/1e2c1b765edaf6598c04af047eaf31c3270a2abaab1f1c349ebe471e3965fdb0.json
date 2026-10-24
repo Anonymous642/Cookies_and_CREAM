@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Dictionary Meaning", "description": "Get the selected text's meaning within a click.", "version": "1.0", "icons": {"48": "icons/rsz_iconn.png", "96": "icons/rsz_1iconn.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}}

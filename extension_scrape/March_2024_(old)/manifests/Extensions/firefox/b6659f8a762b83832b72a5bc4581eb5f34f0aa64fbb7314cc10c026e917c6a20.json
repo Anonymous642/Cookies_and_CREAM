@@ -1,0 +1,1 @@
+{"name": "Detect Language", "description": "Detects up to 3 languages and their percentages of the provided string", "version": "1.5", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "{c6bfd208-bf8f-48ad-88bf-2d6b51333e23}"}}}

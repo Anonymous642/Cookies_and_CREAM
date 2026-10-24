@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Booth Anal", "description": "\u9ed2\u304f\u67d3\u3081\u308b\u305c", "version": "0.1", "manifest_version": 3, "content_scripts": [{"matches": ["https://booth.pm/*"], "css": ["mystyle.css"]}]}

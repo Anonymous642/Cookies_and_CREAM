@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GarbleCloud", "version": "2", "manifest_version": 2, "container": ["DOMAIN_INSTALLABLE", "GOOGLE_DRIVE"], "api_console_project_id": "386403572355", "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://app.garblecloud.com/"], "launch": {"web_url": "https://app.garblecloud.com/"}}}

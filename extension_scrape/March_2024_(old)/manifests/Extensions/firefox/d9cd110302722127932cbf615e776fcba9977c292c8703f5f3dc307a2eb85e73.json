@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Webtoons dark mode", "version": "1.0", "description": "Changes background color from white to black", "icons": {"48": "icons/webtoondarkmode-48.png"}, "content_scripts": [{"matches": ["*://*.webtoons.com/*viewer*"], "js": ["webtoondarkmode.js"]}]}

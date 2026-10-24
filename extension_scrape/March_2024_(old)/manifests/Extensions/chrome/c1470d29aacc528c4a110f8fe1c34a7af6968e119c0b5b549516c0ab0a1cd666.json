@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "JVT Tab Closing Extention", "version": "1.0", "description": "Do not close jvt Tab", "background": {"scripts": ["background.js"], "persistent": false}, "permissions": ["tabs"], "manifest_version": 2}

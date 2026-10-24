@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Wiktionary Lookup", "version": "0.7.1", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icon.png", "default_popup": "popup/index.html", "default_title": "Lookup a definition!"}, "icons": {"186": "icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TIME Edge", "description": "TIME Edge Chrome Web App", "version": "1.0", "manifest_version": 2, "app": {"background": {"scripts": ["main.js"]}}, "permissions": ["webview"], "icons": {"16": "images/TE-16.png", "128": "images/Edge_128.png"}}

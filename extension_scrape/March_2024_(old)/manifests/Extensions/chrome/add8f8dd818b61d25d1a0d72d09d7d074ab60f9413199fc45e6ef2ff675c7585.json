@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Chess Game Play Chess Against Computer", "description": "Play Chess Against Computer for free! You can play the easy or hard AI depending on your chess skill level", "version": "1.1", "browser_action": {"default_icon": "logonotext.png", "default_popup": "popup.html"}}

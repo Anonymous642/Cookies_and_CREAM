@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "how to Block/allow third-party cookies", "version": "3.1", "description": "Sample extension which demonstrates how to access a preference.", "permissions": ["privacy"], "browser_action": {"default_icon": "howisland.png", "default_popup": "popup.html"}, "manifest_version": 3}

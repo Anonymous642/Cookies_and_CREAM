@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Aoe2DE Launcher", "version": "1.0.1", "description": "Launch Aoe2DE to join a lobby or spectate a game.", "icons": {"48": "icons/aoe2de-48.png"}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/aoe2de-32.png", "default_title": "Aoe2DE Launcher", "default_popup": "popup/aoe2de_launcher.html"}}

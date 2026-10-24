@@ -1,0 +1,1 @@
+{"name": "Camaron converter", "description": "Crypto currencies converter for crypto currencies, fiat and tokens", "version": "0.0.1", "manifest_version": 2, "browser_action": {"default_popup": "index.html", "default_title": "Camaron converter"}, "icons": {"16": "LogoFondoTransp16px-01.png", "48": "LogoFondoTransp48px-01.png", "128": "LogoFondoTransp128px-01.png"}}

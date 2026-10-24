@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Chromotive", "version": "1.7", "description": "Modern new tab with Chromotive.", "manifest_version": 2, "chrome_url_overrides": {"newtab": "index.html"}}

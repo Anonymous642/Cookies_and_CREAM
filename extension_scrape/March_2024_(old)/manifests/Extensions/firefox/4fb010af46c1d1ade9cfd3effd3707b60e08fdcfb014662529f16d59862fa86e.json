@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "COP to SHP", "version": "1.0", "description": "Convert COP to SHP", "browser_specific_settings": {"gecko": {"id": "COP-to-shp@example.com"}}}

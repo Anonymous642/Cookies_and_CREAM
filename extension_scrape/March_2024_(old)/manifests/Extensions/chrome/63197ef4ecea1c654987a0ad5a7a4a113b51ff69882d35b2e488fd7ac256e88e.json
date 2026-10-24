@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Astar ICS-P", "description": "Astar ICS Public Extension", "version": "1.5", "browser_action": {"default_title": "Astar ICS Public Extension", "default_icon": "Launcher.png"}, "background": {"scripts": ["event.js"], "persistent": false}, "permissions": ["nativeMessaging", "tabs"]}

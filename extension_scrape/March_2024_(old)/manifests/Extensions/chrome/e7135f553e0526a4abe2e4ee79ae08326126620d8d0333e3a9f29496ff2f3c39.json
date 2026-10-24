@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Date Reader", "description": "Converts Unix timestamps to human-readable dates", "version": "1.0", "manifest_version": 3, "action": {"default_popup": "toggle.html"}, "permissions": ["activeTab", "scripting"]}

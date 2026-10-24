@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Leggi di Murphy", "description": "Sorridi: domani sar\u00e0 peggio! Una risata amara con le famose leggi di Murphy", "version": "1.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://app.massimol.it/murphy/"], "launch": {"web_url": "http://app.massimol.it/murphy/"}}}

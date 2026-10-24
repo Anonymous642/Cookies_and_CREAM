@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "I LOVE ME", "short_name": "I LOVE ME", "version": "1.0.0", "description": "I Love Me delivers a new self-love message each time you open up a new tab on your browser.", "icons": {"64": "icons/64.png", "128": "icons/128.png"}, "chrome_url_overrides": {"newtab": "new-tab.html"}}

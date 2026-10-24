@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "New New Tab", "version": "1.4.1", "description": "Custom New Tab page", "icons": {"48": "logo.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "chrome_settings_overrides": {"homepage": "index.html"}, "browser_specific_settings": {"gecko": {"id": "{7d92f641-2e9e-4135-ad10-0edfaaf95834}"}}}

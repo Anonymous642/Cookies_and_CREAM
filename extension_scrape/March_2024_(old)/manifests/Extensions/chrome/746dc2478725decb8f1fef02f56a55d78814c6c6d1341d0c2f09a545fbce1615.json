@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "DriveX Chrome Extension", "version": "1.5", "manifest_version": 3, "action": {"default_popup": "index.html"}, "host_permissions": ["https://api.drivex.ee/"], "permissions": ["cookies"]}

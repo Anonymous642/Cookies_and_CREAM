@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Chuck Norris Quotes", "version": "1.0", "description": "This extension gives you random Chuck Norris quotes", "permissions": [], "background": {"scripts": ["popup.js"]}, "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}}

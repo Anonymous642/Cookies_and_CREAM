@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tracker Blocker", "version": "1.2", "description": "It blocks trackers from popular pages from tracking you.", "icons": {"500": "icon.png"}, "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{1263003e-23b8-429b-bf8c-b3f2039b6297}"}}}

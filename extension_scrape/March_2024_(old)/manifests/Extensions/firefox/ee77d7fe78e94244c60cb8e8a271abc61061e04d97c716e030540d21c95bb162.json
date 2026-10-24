@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Aiondestiny achievement timer fixer", "version": "1.1", "description": "Fixs destiny achievement timer", "icons": {"48": "icons/icon.png"}, "applications": {"gecko": {"id": "aiondestiny_timer_fixer@joys", "strict_min_version": "48.0"}}, "content_scripts": [{"matches": ["*://*.aiondestiny.im/achievement/*"], "js": ["fix.js"]}]}

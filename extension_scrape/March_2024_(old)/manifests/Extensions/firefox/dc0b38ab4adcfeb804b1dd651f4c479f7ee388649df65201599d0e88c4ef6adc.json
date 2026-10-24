@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Exercist", "version": "0.0.2", "description": "Some handy utilities for Exercism participants", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["https://exercism.io/tracks/*/exercises/*/solutions*"], "js": ["jquery.js", "content.js"]}]}

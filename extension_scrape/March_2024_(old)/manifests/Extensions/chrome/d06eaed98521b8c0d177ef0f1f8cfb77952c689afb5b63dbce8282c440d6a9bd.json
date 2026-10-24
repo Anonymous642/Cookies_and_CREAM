@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "BackLinkLocation", "version": "1.03", "description": "BackLink Location: Locate backlinks for your website.", "permissions": ["storage"], "action": {"default_popup": "backlinklocation.html", "default_icon": {"128": "Images/icon.png"}, "default_width": 800, "default_height": 600}}

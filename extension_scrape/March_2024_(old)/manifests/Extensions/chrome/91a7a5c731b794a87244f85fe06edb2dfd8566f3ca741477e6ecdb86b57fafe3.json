@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Factify", "version": "1.4", "browser_action": {"default_icon": "assets/img/logo.png", "default_title": "Opens Factify Extension", "default_popup": "app.html"}, "permissions": ["tabs", "storage"], "background": {"scripts": ["background.js"]}, "manifest_version": 2}

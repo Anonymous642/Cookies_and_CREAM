@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "The Quran - \u0627\u0644\u0642\u0631\u0622\u0646", "version": "0.19", "description": "Read or listen to the Holy Quran", "icons": {"16": "/Images/quran16.png", "48": "/Images/quran32.png", "128": "/Images/quran128.png"}, "action": {"default_popup": "popup.html"}}

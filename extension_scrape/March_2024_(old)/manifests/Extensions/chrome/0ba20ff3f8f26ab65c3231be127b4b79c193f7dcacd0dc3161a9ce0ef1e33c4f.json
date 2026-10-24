@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Beyond Me", "description": "Tools for D&D Beyond", "version": "1.0", "manifest_version": 2, "content_scripts": [{"js": ["jquery.js", "content.js"], "matches": ["https://www.dndbeyond.com/*"]}]}

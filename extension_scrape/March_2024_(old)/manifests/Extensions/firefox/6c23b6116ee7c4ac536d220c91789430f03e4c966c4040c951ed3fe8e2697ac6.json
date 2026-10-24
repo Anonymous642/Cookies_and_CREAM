@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Wikipedia mobile page to PC page", "version": "1.0", "description": "Move from Wikipedia mobile page to PC page.", "content_scripts": [{"matches": ["*://*.m.wikipedia.org/*"], "js": ["main.js"]}]}

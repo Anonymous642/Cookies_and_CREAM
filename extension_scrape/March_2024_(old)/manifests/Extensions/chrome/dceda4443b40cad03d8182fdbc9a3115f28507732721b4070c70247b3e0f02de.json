@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "DarkMode4Workana", "version": "1.1", "manifest_version": 2, "description": "DarkMode4Workana by Eurekaplicaciones.com", "icons": {"16": "icon/32x32.png", "48": "icon/48x48.png", "128": "icon/128x128.png"}, "content_scripts": [{"css": ["eurekaplicaciones.css"], "matches": ["*://*.workana.com/*"]}]}

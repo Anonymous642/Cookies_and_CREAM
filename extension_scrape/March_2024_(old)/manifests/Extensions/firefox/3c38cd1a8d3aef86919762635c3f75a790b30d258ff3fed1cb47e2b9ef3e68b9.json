@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Website Title Display", "version": "1.0", "description": "Displays the title of the website being accessed", "browser_specific_settings": {"gecko": {"id": "website-title-display@example.com"}}, "permissions": ["tabs"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "passview", "version": "1.0", "description": "Show the password while hovering on it.", "icons": {"48": "icons/eye.png"}, "background": {"scripts": ["passview.js"]}, "browser_specific_settings": {"gecko": {"id": "{26b30f1e-9b0e-4b0e-9849-b6dad755586d}"}}}

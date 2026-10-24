@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Block stylesheets, fonts and media", "description": "Block stylesheets, fonts and media to save bandwidth", "version": "0.1.0", "manifest_version": 3, "declarative_net_request": {"rule_resources": [{"id": "ruleset_1", "enabled": true, "path": "rules.json"}]}, "permissions": ["declarativeNetRequest"]}

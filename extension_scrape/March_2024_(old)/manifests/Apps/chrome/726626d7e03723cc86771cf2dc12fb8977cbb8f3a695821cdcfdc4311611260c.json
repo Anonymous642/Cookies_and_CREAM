@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "SmartClass+", "description": "SmartClass+", "version": "1.0.1", "app": {"launch": {"web_url": "http://www.smartclassplus.com/chrome/code/v314/SmartClass-Student.html"}}, "icons": {"24": "SC-LAD-24x24.png", "48": "SC-LAD-48x48.png", "128": "SC-LAD-128x128.png"}, "permissions": []}

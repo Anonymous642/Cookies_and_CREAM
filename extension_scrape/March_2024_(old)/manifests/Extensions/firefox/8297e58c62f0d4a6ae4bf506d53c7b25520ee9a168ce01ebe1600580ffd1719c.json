@@ -1,0 +1,1 @@
+{"name": "dedup", "description": "Close duplicate tabs when a tab with the same url is opened", "manifest_version": 2, "applications": {"gecko": {"id": "dedup@uxploration.io", "strict_min_version": "52.0"}}, "version": "0.0.2", "background": {"scripts": ["background/background.js"]}, "permissions": ["tabs"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Search on Kupujemprodajem", "version": "1.0", "description": "Search selected text on Kupujemprodajem.", "icons": {"48": "icon.png"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"id": "search-on-kupujemprodajem@example.com"}}}

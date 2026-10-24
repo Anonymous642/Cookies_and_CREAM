@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ImageFullWidth", "version": "1.0", "description": "uses 100% of the width.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*/*.jpg*", "*://*/*.png*", "*://*/*.jpeg*", "*://*/*.webm*"], "js": ["main.js"]}]}

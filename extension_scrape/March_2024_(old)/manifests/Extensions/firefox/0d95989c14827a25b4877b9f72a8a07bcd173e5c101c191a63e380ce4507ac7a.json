@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "FlatIcon Bypass", "version": "1.0", "description": "Bypass flaticon payable icons", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.flaticon.com/*"], "js": ["script.js"]}]}

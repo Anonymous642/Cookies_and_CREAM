@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432 \u043a\u0430\u0440\u043c\u0430\u043d\u0435", "version": "0.2", "manifest_version": 2, "icons": {"128": "icon.png"}, "app": {"launch": {"container": "tab", "web_url": "http://skladchik.com/"}, "web_content": {"enabled": true}}}

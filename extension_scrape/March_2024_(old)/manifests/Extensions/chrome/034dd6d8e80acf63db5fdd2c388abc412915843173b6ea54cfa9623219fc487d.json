@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Lum", "version": "1.4", "manifest_version": 2, "description": "Take note of everything you want!", "icons": {"16": "icon/lum_16.png", "48": "icon/lum_48.png", "128": "icon/lum_128.png"}, "chrome_url_overrides": {"newtab": "dev/lum.html"}, "permissions": ["storage", "geolocation"]}

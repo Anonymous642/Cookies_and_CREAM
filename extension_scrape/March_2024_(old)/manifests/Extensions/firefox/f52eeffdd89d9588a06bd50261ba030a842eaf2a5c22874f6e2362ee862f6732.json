@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "JustEtf Skat ETF", "version": "2.0.6", "description": "Tilf\u00f8jer skatinfo til justetf.com", "short_name": "JustEtfSkat", "permissions": ["activeTab"], "background": {"scripts": ["main.js"]}, "content_scripts": [{"matches": ["https://www.justetf.com/*"], "js": ["contentscript.js"]}]}

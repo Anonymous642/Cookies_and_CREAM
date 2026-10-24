@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Digg Reader RTL", "description": "Make website Digg Reader support Arabic reading direction.", "version": "1.0", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://digg.com/reader*"], "run_at": "document_end", "css": ["rtl.css"]}]}

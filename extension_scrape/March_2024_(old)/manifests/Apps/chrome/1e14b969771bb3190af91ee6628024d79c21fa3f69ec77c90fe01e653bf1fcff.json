@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Hash Tool", "version": "1.2", "description": "", "icons": {"128": "images/icon_128.png"}, "app": {"background": {"scripts": ["js/background.js"]}}, "permissions": ["storage", "fileSystem"], "offline_enabled": true, "minimum_chrome_version": "31"}

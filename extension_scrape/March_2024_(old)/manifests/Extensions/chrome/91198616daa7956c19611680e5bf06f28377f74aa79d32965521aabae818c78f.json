@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Enterprise Contact Sharing", "version": "1.3", "manifest_version": 2, "description": "Share Gmail contact groups with specific users or groups of users.", "browser_action": {"default_icon": "icons/cloud.png", "default_popup": "index.html"}}

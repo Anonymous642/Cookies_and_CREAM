@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Vide.me video email", "description": "Send video messages to your friends!", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "VidemefaviconChromeApp.png"}, "app": {"urls": ["http://vide.me/"], "launch": {"web_url": "http://vide.me/"}}}

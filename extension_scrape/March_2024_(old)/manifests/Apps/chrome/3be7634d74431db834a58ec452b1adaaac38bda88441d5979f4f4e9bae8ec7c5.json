@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "tic-tac-toe", "description": "__MSG_appDesc__", "default_locale": "ja", "version": "1.1", "app": {"urls": ["http://shojisworks.com/apps/tic-tac-toe/"], "launch": {"web_url": "http://shojisworks.com/apps/tic-tac-toe/"}}, "icons": {"128": "icon128.png"}, "permissions": []}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "PathTouch", "description": "PathTouch: Powered by VitalOffice", "version": "1.3.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://plusbeta.vitalaxis.com/vitaloffice/login.aspx"], "launch": {"web_url": "https://plusbeta.vitalaxis.com/vitaloffice/login.aspx"}}}

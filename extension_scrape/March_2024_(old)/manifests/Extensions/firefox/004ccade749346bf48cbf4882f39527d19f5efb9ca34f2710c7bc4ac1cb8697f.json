@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "WordSolver", "version": "1.7", "description": "Skribbl", "homepage_url": "https://github.com/StarkDom", "icons": {"48": "icons/48px.png", "96": "icons/96px.png"}, "permissions": ["activeTab", "tabs"], "content_scripts": [{"matches": ["*://*.skribbl.io/*"], "js": ["content_scripts/solver.js"]}], "web_accessible_resources": ["words/french.txt"]}

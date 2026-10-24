@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ED Moyenne", "version": "1.0.0", "description": "Calcule la moyenne facilement sur EcoleDirecte", "author": "Nathan DECHER", "content_scripts": [{"matches": ["https://www.ecoledirecte.com/Eleves/*/Notes", "http://www.ecoledirecte.com/Eleves/*/Notes"], "js": ["EDMoyenne.js"], "css": ["EDMoyenne.css"]}]}

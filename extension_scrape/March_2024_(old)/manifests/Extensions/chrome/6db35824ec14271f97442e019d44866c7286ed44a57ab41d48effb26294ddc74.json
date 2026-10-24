@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Deadline Counter", "version": "1.0.1", "author": "Filip Brzezi\u0144ski", "browser_action": {}, "background": {"service_worker": "background.js"}}

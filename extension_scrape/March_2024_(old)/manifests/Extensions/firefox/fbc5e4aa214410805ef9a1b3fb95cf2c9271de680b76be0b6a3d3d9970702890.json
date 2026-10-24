@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Adless 5eTools", "version": "0.0.2", "author": "Gahtao", "description": "Removes ad nodes from 5e.tools.", "icons": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}, "content_scripts": [{"matches": ["https://5e.tools/*"], "js": ["no-ad-5e-tools.js"]}], "browser_specific_settings": {"gecko": {"id": "{55eea323-e72e-4e90-ad54-2f468947e9ac}"}}}

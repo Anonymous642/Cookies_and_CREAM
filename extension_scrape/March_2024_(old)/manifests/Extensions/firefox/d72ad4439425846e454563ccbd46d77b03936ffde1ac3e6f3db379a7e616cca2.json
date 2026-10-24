@@ -1,0 +1,1 @@
+{"browser_action": {"default_icon": "assets/icon.png", "default_popup": "index.html"}, "description": "Tetrys for Firefox with no ads", "icons": {"256": "assets/icon.png"}, "manifest_version": 2, "name": "Tetrys", "version": "1.3.2", "browser_specific_settings": {"gecko": {"id": "{a74a3747-1f76-4a2c-bb9e-deb0117697cf}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Advanced Tabs", "version": "1.0", "description": "Quick tab closure options", "background": {"scripts": ["background.js"]}, "icons": {"48": "icon48.png", "128": "icon128.png"}, "permissions": ["activeTab", "contextMenus"], "manifest_version": 2}

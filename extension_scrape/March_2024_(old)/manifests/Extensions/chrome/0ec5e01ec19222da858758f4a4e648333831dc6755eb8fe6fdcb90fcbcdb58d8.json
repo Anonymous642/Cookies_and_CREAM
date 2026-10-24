@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Better TOC", "description": "Auto generate toc for readme, article, more, support llm Q&A", "version": "1.4", "manifest_version": 3, "permissions": ["scripting"], "content_scripts": [{"css": ["style.css"], "js": ["index.js"], "matches": ["*://*/*"], "run_at": "document_end"}]}

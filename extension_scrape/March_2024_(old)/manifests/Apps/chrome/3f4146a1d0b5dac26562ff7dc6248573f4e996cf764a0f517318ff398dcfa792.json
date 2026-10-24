@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "derp", "description": "A note taking app made for derps.", "version": "0.1", "icons": {"16": "images/icon-16.png", "128": "images/icon-128.png"}, "permissions": ["storage"], "app": {"background": {"scripts": ["javascript/background.js"]}}}

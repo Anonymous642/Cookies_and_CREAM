@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CoinMarketCap-Width", "version": "1.0", "content_scripts": [{"matches": ["https://coinmarketcap.com/*"], "css": ["width.css"]}]}

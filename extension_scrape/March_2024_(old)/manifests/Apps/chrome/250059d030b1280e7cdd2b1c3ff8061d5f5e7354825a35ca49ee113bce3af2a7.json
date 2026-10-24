@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "YAHSHUA Timekeeper", "description": "YAHSHUA Timekeeper", "version": "0.1.22", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "minilogo.png", "128": "Yahshua Timekeeper.png"}, "permissions": ["videoCapture", "unlimitedStorage"]}

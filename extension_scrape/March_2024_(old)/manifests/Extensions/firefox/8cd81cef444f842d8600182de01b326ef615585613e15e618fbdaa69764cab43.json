@@ -1,0 +1,1 @@
+{"name": "Joker Monkey", "version": "0.0.1", "manifest_version": 3, "action": {"default_popup": "popup.html", "default_icon": "logo.png"}, "permissions": ["activeTab"], "icons": {"128": "logo.png"}, "browser_specific_settings": {"gecko": {"id": "nkdeshmukh371@gmail.com"}}}

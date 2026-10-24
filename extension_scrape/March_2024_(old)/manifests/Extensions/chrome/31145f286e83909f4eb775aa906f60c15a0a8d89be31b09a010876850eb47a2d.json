@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Norton Setup Help", "description": "This is a quick-guide to setup Norton which can be activated from Norton.com/setup or you can visit sy4norton.com", "version": "1.0", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "permissions": ["notifications"]}

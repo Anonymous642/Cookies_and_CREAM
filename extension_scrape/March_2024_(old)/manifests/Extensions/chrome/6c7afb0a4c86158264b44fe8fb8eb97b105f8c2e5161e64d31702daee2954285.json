@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u884c\u4e91-plugin", "version": "0.3.2", "manifest_version": 3, "host_permissions": ["*://*.jd.com/*"], "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["history"], "action": {}, "icons": {"48": "static/xingyun.png"}}

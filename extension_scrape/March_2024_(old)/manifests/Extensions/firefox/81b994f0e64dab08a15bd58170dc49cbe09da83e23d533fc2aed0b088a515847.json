@@ -1,0 +1,1 @@
+{"description": "Hide the titlebar, for X11.", "manifest_version": 2, "name": "hide the titlebar", "version": "1.0", "icons": {"96": "icon.svg"}, "applications": {"gecko": {"id": "hide-titlebar@nanpuyue.com"}}, "background": {"scripts": ["background.js"]}, "options_ui": {"browser_style": true, "page": "options.html"}, "permissions": ["nativeMessaging"]}

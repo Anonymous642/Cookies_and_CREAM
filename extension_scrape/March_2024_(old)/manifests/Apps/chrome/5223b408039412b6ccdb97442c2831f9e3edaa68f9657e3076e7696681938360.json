@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Smart Touch", "description": "Smart Touch Advertising.", "version": "0.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "smarttouch-16.png", "128": "smarttouch-128.png"}}

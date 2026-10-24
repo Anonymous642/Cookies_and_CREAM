@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BotC random background", "version": "1.0", "description": "Set a random background on clocktower.online", "icons": {"48": "icons/icon-48.png"}, "content_scripts": [{"matches": ["*://clocktower.online/*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "botc-random-bg@jul.lt"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CrumBait", "description": "Laver clickbait-sider om til en bagerbutik.", "version": "0.1.3", "content_scripts": [{"matches": ["*://ekstrabladet.dk/*"], "js": ["eb-script.js"]}], "browser_specific_settings": {"gecko": {"id": "{ebc1aef3-039c-49d5-b430-fed8f4f9c791}"}}}

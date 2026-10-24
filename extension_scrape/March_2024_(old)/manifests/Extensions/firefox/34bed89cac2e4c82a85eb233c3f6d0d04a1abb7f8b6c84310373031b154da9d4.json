@@ -1,0 +1,1 @@
+{"description": "Opens mail.google.com after clicking on it", "manifest_version": 2, "name": "GMail Opener", "version": "1.0", "icons": {"48": "icons/gmail-48.png", "96": "icons/gmail-96.png"}, "background": {"scripts": ["gmail.js"]}, "browser_action": {"default_icon": "icons/gmail-32.png"}}

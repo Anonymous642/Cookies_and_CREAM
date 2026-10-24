@@ -1,0 +1,1 @@
+{"name": "Genius Search", "description": "Add Genius to your search engine", "version": "0.0.1", "manifest_version": 2, "applications": {}, "icons": {"48": "favicon.svg"}, "web_accessible_resources": ["favicon.svg"], "chrome_settings_overrides": {"search_provider": {"name": "Genius", "keyword": "@genius", "search_url": "https://genius.com/search?q={searchTerms}"}}}

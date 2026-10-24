@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Aldeia FM", "manifest_version": 2, "description": "Streaming de audio da Radio AldeiaFM de Rio Branco - Acre - Brasil", "version": "1.4", "icons": {"16": "chrome-icon16.png", "128": "chrome-icon.png"}, "app": {"background": {"scripts": ["background.js"]}}}

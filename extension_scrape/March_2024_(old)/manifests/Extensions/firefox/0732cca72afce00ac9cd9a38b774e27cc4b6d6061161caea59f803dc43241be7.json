@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Metallum Search", "description": "Adds a new option on the context menu to search on Metal-Archives (band, album or artirst) for a selected term.", "version": "1.0", "permissions": ["menus"], "background": {"scripts": ["main.js"]}, "browser_specific_settings": {"gecko": {"id": "{07ed2910-afae-40fe-98b3-a9c8b981b1ae}"}}}

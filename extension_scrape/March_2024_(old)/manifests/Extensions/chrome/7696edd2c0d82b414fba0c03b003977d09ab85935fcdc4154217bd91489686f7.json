@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Exportador Relat\u00f3rio", "version": "1.0.1", "description": "Exporta Relat\u00f3rio da Shopee", "action": {"default_popup": "index.html"}, "permissions": ["activeTab", "scripting"], "host_permissions": ["https://seller.shopee.com.br/portal/sale/order"]}

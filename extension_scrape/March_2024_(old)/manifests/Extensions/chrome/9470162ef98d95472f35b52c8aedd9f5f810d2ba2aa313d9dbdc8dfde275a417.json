@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "UQ ECP Search Extension", "version": "1.0.0", "description": "Search your course ECP from Chrome", "manifest_version": 3, "author": "Tim Scholl", "action": {"default_popup": "uqecpsearch.html", "default_title": "UQ ECP Search Extension", "default_icon": "/UQfavicon.png"}}

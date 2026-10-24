@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "CUP to SHP", "version": "1.0", "description": "Convert CUP to SHP", "browser_specific_settings": {"gecko": {"id": "CUP-to-shp@example.com"}}}

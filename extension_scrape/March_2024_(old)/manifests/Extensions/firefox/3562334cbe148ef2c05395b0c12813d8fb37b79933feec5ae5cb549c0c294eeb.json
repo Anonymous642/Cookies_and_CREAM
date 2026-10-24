@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Minecraft 2d", "version": "2021.7", "description": "Minecraft in 2d. Play Minecraft in your Browser", "icons": {"48": "favicon.ico"}, "options_ui": {"page": "index.html"}, "permissions": ["storage"], "browser_action": {"browser_style": true, "default_icon": {"48": "favicon.ico"}, "default_title": "Minecraft 2d", "default_popup": "index.html"}}

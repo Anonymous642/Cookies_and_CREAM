@@ -1,0 +1,1 @@
+{"description": "Dark mode for HackerNews", "manifest_version": 2, "name": "Dark mode for HackerNews", "version": "2.2", "homepage_url": "https://github.com/tpkahlon/dark-mode-hackernews", "icons": {"512": "icons/border-512.png"}, "content_scripts": [{"matches": ["https://*/*"], "js": ["index.js"]}], "background": {"scripts": ["index.js"]}}

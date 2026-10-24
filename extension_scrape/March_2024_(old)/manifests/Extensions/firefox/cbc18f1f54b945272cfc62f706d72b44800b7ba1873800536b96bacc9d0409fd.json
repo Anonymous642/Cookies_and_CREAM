@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Abeka Rainbow Theme", "version": "1.0", "description": "Changes Abeka's theme to a rainbow frenzy by pressing the key 'R'.", "icons": {"64": "icon.png"}, "content_scripts": [{"matches": ["*://*.abeka.com/*"], "js": ["school.js"]}]}

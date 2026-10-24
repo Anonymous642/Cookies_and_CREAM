@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "UnitCalc", "description": "A simple unit conversion tool.", "version": "0.1", "app": {"background": {"scripts": ["background.js"]}}, "icons": {"24": "icon24.png", "128": "128.png"}}

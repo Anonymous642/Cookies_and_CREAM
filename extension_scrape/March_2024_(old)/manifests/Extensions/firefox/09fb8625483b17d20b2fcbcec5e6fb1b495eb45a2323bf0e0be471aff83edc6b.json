@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "goo.ne \u7247\u4ed8\u3051", "version": "1.0", "description": "Removes a lot of clutter from goo.ne.jp dictionary entries. goo.ne.jp\u306e\u8f9e\u66f8\u306e\u8a18\u5165\u3092\u7247\u4ed8\u3051\u308b", "icons": {"48": "48.png"}, "content_scripts": [{"matches": ["*://dictionary.goo.ne.jp/word/*"], "js": ["declutterer.js"]}]}

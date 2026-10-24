@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"background": {"scripts": ["background.js"]}}, "name": "Nicolly Pain\u00e9is Eletr\u00f4nicos", "description": "web application", "version": "1.0.0", "icons": {"16": "icon-16.png", "128": "icon-128.png"}, "permissions": ["webview", "fileSystem", "unlimitedStorage", "storage"]}

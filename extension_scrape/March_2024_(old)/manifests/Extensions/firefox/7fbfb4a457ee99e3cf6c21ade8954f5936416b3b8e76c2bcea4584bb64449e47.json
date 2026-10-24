@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BlaBlaHelp", "version": "1.1", "author": "SOMBRUN Wilka", "background": {"scripts": ["index.js"]}, "permissions": ["contextMenus"], "icons": {"48": "icons/icon48.png", "128": "icons/icon128.png"}}

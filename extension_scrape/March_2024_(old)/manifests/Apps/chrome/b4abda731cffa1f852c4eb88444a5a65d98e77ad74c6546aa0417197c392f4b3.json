@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GranMoney", "description": "Sistema de Gest\u00e3o Empresarial", "version": "1.0.0.0", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://granmoney.com/"], "launch": {"web_url": "https://granmoney.com/"}}}

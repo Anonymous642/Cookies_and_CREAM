@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Spit", "description": "The classic card game Spit. Try to get rid of your cards as fast as possible!", "version": "1.1.0.0", "manifest_version": 2, "app": {"urls": ["https://cardgames.io/spit/"], "launch": {"web_url": "https://cardgames.io/spit/"}}, "icons": {"128": "appstore-icon.png"}, "permissions": []}

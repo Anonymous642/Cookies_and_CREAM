@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Maximize WhatsApp Web", "version": "2.0", "description": "Enable full viewport for large aspect ratio screens on WhatsApp Web.", "icons": {"48": "icons/maximize-whatsapp-48.png"}, "browser_specific_settings": {"gecko": {"id": "menezes@pm.me"}}, "content_scripts": [{"matches": ["https://web.whatsapp.com/*"], "js": ["main.js"]}]}

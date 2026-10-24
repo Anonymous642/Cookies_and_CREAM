@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Youtube Filter", "version": "1.1", "description": "Filter for custom video length", "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["ytfilter.js"]}], "permissions": []}

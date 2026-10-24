@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Habbo Imager", "description": "Tool allows you to create a Image of your Habbo Character!", "version": "1.0", "app": {"urls": ["http://habboswat.com/"], "launch": {"web_url": "http://habboswat.com/Imager/"}}, "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "manifest_version": 2}

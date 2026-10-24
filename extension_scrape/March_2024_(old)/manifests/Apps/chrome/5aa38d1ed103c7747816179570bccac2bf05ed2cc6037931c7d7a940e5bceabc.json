@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Burp on the beach", "description": "Sun, coconuts and sea. Relax yourself in this beautiful beach and play with Gonzo in this funny burp contest.", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"launch": {"web_url": "http://codem.altervista.org/games/burp/"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "network-json-filter", "version": "1.1.0", "description": "Network Response (JSON Body) Filter as Google Chrome Extension", "permissions": ["*://*/*"], "devtools_page": "devtools.html", "manifest_version": 2}

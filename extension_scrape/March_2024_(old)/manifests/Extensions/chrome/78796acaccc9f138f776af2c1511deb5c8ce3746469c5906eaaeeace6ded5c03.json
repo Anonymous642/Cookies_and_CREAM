@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Snake", "version": "0.1.2", "description": "Enjoy hours of fun with a classic recreation of Snake!", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "action": {"default_icon": "icon128.png", "default_popup": "index.html"}}

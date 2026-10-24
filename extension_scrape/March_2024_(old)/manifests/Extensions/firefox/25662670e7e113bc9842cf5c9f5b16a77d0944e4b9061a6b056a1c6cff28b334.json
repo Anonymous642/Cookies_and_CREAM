@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Youtube Auto-focus", "description": "This add-on will auto focus the search bar on youtube, this will improve search functionality.", "version": "1.0", "icons": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["assets/js/jquery-3.3.1.min.js", "content.js"]}]}

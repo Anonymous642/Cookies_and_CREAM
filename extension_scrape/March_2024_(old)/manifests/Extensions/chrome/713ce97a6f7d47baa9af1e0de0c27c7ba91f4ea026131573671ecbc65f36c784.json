@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "tanananify", "version": "1.4.0", "description": "Get TAN\u0102NANA radio playing queue and add tracks to spotify library", "permissions": [], "action": {"default_popup": "popup.html"}, "icons": {"48": "icons/icon48.png", "128": "icons/icon128.png"}, "manifest_version": 3}

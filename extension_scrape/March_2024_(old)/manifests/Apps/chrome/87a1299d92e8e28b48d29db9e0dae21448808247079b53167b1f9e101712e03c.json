@@ -1,0 +1,1 @@
+{"app": {"launch": {"web_url": "https://www.systoolsgroup.com/"}}, "update_url": "https://clients2.google.com/service/update2/crx", "container": "GOOGLE_DRIVE", "description": "Simplifying Technology - A Data Recovery and Digital Forensics Company", "name": "SysTools", "icons": {"128": "icon_128.png"}, "manifest_version": 2, "version": "2.0"}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Scioly.org Pride Flag Remover", "version": "1.2", "description": "Removes pride flags on Scioly.org", "content_scripts": [{"matches": ["*://scioly.org/*"], "js": ["flag-remover.js", "favicon-converter.js"]}], "browser_specific_settings": {"gecko": {"id": "{7f6c9e45-da34-44d7-8259-62be2ef56a85}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BlockUp", "version": "1.0", "description": "block bilibili Up video", "content_scripts": [{"matches": ["*://*.bilibili.com/*"], "js": ["blockUp.js"]}], "browser_specific_settings": {"gecko": {"id": "{30e8c61d-3e4c-4a40-b8ad-8144487c6745}"}}}

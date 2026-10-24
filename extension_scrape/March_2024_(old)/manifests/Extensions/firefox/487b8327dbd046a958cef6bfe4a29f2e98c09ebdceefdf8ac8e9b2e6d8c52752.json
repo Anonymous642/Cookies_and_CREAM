@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GitLab Styles", "version": "1.5", "description": "Add some custom stylings to GitLab", "content_scripts": [{"matches": ["*://gitlab.com/*"], "css": ["gitlab.css"]}], "browser_specific_settings": {"gecko": {"id": "{51a7109e-e860-4ff5-b8c9-99814eade646}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "EpisoDate", "description": "TV Guide dedicated to helping you organize your favorite TV shows", "version": "1.0.0.0", "icons": {"128": "icon_128.png"}, "app": {"urls": ["https://www.episodate.com/"], "launch": {"web_url": "https://www.episodate.com/"}}}

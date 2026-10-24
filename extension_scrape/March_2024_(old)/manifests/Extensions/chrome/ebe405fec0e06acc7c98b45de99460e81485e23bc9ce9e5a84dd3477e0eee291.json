@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mail Pilot", "version": "1.0", "description": "Automate your mail answering process using AI. Your emails, your way.", "permissions": ["storage", "activeTab", "scripting"], "action": {"default_popup": "popup.html", "default_icon": {"48": "icon.png"}}, "icons": {"48": "icon.png"}}

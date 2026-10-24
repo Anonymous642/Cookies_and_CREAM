@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Evg\u00f6r Mobilya", "description": "T\u00fcrkiye'nin En B\u00fcy\u00fck Mobilya Sitesi Evg\u00f6r Mobilya", "version": "0.0.0.2", "manifest_version": 2, "icons": {"128": "128x128.png"}, "app": {"urls": ["http://www.evgor.com.tr/"], "launch": {"web_url": "http://www.evgor.com.tr/"}}}

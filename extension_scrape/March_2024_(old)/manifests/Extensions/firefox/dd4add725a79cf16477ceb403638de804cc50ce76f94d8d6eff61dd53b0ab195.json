@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Start Dark Ducky", "version": "1.0", "chrome_settings_overrides": {"search_provider": {"name": "Start Dark Ducky", "search_url": "https://start.duckduckgo.com/?q={searchTerms}&kae=d&t=h_&ia=web", "favicon_url": "https://start.duckduckgo.com/assets/icons/meta/DDG-icon_256x256.png"}}}

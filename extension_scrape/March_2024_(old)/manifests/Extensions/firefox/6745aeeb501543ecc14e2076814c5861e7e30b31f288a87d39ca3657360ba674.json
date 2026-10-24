@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SanShorts", "version": "1.0", "description": "Prevents shorts from appearing in video feed grids on youtube.", "icons": {"48": "icons/sanShorts.svg"}, "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["sanShorts.js"]}], "browser_specific_settings": {"gecko": {"id": "{fa8da144-feed-45ee-9935-fb885c7e2326}"}}}

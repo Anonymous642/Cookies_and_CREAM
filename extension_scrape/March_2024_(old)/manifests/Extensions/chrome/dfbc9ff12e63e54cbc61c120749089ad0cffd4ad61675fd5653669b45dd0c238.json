@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\uacbd\ubcf5\ub300\ud559\uad50 \uac04\ud638\ud559\uacfc \uc885\uac15 \uce74\uc6b4\ud130", "version": "1.0", "description": "Build an Extension!", "permissions": ["storage"], "page_action": {"default_popup": "popup.html"}, "manifest_version": 3}

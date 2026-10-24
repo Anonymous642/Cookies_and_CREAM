@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Wordpress Tema - Temavadisi", "version": "1.3", "manifest_version": 2, "description": "Wordpress Tema Temavadisi.com temalar\u0131n\u0131n bulundu\u011fu pop\u00fcler link indirimli \u00fcr\u00fcnler", "browser_action": {"default_icon": "temaicon.png", "default_popup": "temavadisi.html"}}

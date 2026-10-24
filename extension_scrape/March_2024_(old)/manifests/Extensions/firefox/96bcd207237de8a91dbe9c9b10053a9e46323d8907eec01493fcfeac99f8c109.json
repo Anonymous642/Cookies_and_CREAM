@@ -1,0 +1,1 @@
+{"applications": {"gecko": {"id": "{25c86802-1f54-429b-860d-6ef2fdd52591}"}}, "name": "D219 Faculty/Staff Resources", "version": "1.2", "description": "A popup showing D219 faculty/staff resources", "browser_action": {"default_title": "D219 Faculty/Staff Resources", "default_icon": "D219_header_logo.png", "default_popup": "resource.html"}, "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"description": "Opens a random lightshot page", "manifest_version": 2, "name": "Lightshot Creep", "version": "1.0", "icons": {"48": "icons/light-weight.png"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icons/light-weight.png"}, "commands": {"reload": {"suggested_key": {"default": "Alt+G"}, "description": "Load a new shot!"}}}

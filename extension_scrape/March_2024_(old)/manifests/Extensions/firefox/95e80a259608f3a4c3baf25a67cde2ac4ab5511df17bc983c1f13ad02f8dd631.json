@@ -1,0 +1,1 @@
+{"name": "Anti-Seener For FB", "description": "Prevents the FB from emitting event that the user has seen the message.", "browser_specific_settings": {"gecko": {"id": "antiseener@istarpis.com"}}, "version": "1.2", "manifest_version": 2, "content_scripts": [{"matches": ["https://*.facebook.com/*"], "js": ["antiseener.js"], "run_at": "document_start"}]}

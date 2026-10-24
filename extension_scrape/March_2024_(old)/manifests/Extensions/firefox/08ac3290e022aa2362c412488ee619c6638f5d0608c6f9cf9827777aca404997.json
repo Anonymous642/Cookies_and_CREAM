@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "View Link Source", "version": "0.1", "description": "Adds a context menu option to view the source of a link", "developer": {"name": "Nika Layzell", "url": "https://github.com/mystor"}, "permissions": ["contextMenus"], "background": {"scripts": ["background.js"]}}

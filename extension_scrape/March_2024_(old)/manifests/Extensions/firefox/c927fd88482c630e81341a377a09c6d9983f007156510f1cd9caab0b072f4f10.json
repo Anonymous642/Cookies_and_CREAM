@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reverse Image Search", "description": "Search similar images in the WEB from context menu", "version": "1.0", "permissions": ["contextMenus"], "applications": {"gecko": {"id": "yromkaqfsd@gmail.com"}}, "background": {"scripts": ["search.js"]}, "icons": {"128": "icon128.png"}}

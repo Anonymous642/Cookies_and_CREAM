@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "description": "Creates TaleSpire URL dice links", "manifest_version": 3, "name": "HeroSpire", "version": "0.0.0.3", "content_scripts": [{"matches": ["https://herolab.online/*"], "js": ["myscript.js"]}], "permissions": []}

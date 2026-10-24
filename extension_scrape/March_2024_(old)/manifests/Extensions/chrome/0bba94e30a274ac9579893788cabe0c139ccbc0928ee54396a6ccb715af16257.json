@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "GitHub Issue Title Loader", "version": "0.0.5", "manifest_version": 2, "permissions": ["https://github.com/"], "background": {"scripts": ["background.js"], "persistent": true}, "content_scripts": [{"matches": ["https://github.com/*"], "js": ["content.js"]}]}

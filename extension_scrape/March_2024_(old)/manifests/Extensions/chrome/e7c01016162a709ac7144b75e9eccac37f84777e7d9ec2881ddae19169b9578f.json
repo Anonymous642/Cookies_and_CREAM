@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "MT2 New Tab", "version": "1.0.0", "manifest_version": 2, "description": "With this extension, new tabs display a MT2 logo page instead of the usual new tab page with thumbnails.", "icons": {"128": "icon_128.png"}, "chrome_url_overrides": {"newtab": "empty_ntp.html"}}

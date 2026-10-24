@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Reviews.co.uk", "version": "1.3", "icons": {"16": "16.png", "128": "128.png"}, "app": {"urls": ["http://i.reviews.co.uk/"], "launch": {"web_url": "http://i.reviews.co.uk/"}}, "permissions": ["geolocation"], "manifest_version": 2}

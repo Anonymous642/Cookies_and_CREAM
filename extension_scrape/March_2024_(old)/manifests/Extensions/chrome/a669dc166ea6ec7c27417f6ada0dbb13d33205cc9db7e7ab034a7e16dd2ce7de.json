@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "w2pedia", "description": "Wikipedia'a eri\u015firken 0Wikipedia'a y\u00f6nlendirir", "version": "1.0", "background": {"scripts": ["background.js"]}, "permissions": ["webRequest", "*://*.wikipedia.org/*", "webRequestBlocking"]}

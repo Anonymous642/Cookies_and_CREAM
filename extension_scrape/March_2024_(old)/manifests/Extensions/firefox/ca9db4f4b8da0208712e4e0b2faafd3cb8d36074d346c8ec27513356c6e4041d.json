@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BetterIA", "version": "1.0", "description": "Better colors for Instruct-Assist website", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.ia.wpi.edu/*", "*://web.cs.wpi.edu/~tha/cs3013/*"], "js": ["betteria.js"]}], "browser_specific_settings": {"gecko": {"id": "{bf7cb82a-6cdd-4e6f-aacc-19b44729a624}"}}}

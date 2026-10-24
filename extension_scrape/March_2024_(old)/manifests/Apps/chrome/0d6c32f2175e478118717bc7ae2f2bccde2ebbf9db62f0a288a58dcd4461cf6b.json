@@ -1,0 +1,1 @@
+{"name": "LatestOffCampus", "description": "Latest Off Campus Jobs,Pool Recruitment Drives IT Jobs BPO Jobs Freshers Jobs Govt Jobs .", "app": {"urls": ["http://www.latestoffcampus.com/"], "launch": {"web_url": "http://www.latestoffcampus.com/"}}, "manifest_version": 2, "update_url": "http://clients2.google.com/service/update2/crx", "version": "0.2", "icons": {"128": "loc.png"}}

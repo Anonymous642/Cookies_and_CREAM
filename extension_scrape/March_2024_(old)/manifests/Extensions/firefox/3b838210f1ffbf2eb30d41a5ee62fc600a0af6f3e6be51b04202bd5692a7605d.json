@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Browser Scraper Ext", "version": "1.0", "description": "Scrape the web!", "icons": {"48": "icons/icon.ico"}, "content_scripts": [{"matches": ["*://localhost/*"], "js": ["scraper.js"]}], "browser_specific_settings": {"gecko": {"id": "{e4290a1a-0cbb-4f93-a7b7-8d4ddda347a0}"}}}

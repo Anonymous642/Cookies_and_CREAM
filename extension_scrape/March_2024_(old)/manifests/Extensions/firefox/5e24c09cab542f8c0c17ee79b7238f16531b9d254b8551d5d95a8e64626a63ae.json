@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ram Ranch", "version": "1.0", "description": "Adds cowboy hats to profile pictures on tumblr.com", "permissions": ["https://www.tumblr.com/*"], "content_scripts": [{"matches": ["*://*.tumblr.com/*"], "js": ["ramranch.js"]}], "browser_specific_settings": {"gecko": {"id": "{1baedf80-e886-4fed-aba7-58f66ddd45d5}"}}}

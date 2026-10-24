@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Hasskommentar + VONG Konverter", "description": "Wandelt Hassw\u00f6rter in Unfug um + 1 niciger Vong-Sprache!", "version": "1.5", "content_scripts": [{"matches": ["http://*/*", "https://*/*"], "js": ["konvertasation.js"], "run_at": "document_end"}]}

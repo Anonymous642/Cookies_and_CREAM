@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Politifact Truth Totaler", "version": "0.0.1", "browser_action": {}, "content_scripts": [{"matches": ["https://www.politifact.com/personalities/*/"], "js": ["extension.js"]}], "web_accessible_resources": ["src/index.js", "src/util.js"]}

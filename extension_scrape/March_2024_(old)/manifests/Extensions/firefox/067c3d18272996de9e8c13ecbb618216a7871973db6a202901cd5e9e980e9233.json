@@ -1,0 +1,1 @@
+{"name": "1v1.LOL", "description": "1v1.LOL is an action online game where you can shoot and build up platforms.", "version": "1.0", "manifest_version": 2, "permissions": ["tabs", "bookmarks"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_action": {"default_icon": "icon.png", "default_title": "1v1.LOL"}}

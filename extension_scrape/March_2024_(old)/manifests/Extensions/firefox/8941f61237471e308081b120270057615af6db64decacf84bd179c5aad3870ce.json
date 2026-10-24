@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "go/lyft", "version": "1.0", "description": "Expands go/... links for the internal Lyft URL shortener.", "icons": {"48": "icons/golyft48.png", "96": "icons/golyft96.png"}, "permissions": ["webRequest", "webRequestBlocking", "*://go/*"], "background": {"scripts": ["golyft.js"]}, "browser_specific_settings": {"gecko": {"strict_min_version": "57.0"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Trump to Obama", "version": "1.0", "description": "Replaces the text 'Trump' with 'Obama' to show how Trump supporters are blindly following a cult.", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"], "run_at": "document_end"}]}

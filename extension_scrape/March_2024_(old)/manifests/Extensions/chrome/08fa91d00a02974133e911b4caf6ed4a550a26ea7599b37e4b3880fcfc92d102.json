@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SaferClipboard", "description": "SaferClipboard", "version": "1.0.1", "icons": {"128": "logo.png"}, "author": "Martin Mouterde", "content_scripts": [{"js": ["extension.js"], "matches": ["*://*/*"], "run_at": "document_start"}], "permissions": ["clipboardRead", "clipboardWrite"], "manifest_version": 2}

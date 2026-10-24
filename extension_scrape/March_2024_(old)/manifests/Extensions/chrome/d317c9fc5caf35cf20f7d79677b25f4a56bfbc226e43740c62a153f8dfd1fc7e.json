@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "AskNow.fr - Fini les mains lev\u00e9es.", "description": "Connecte toi \u00e0 ta classe depuis l'extension.", "version": "0.0.0.1", "manifest_version": 3, "action": {"default_popup": "index.html", "default_title": "AskNow"}, "icons": {"16": "logo192.png", "48": "logo192.png", "128": "logo192.png"}}

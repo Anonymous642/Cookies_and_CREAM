@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Forleven", "description": "Estude, gerencie suas atividades, administre sua escola.", "version": "0.1.0.0", "manifest_version": 2, "icons": {"128": "forleven.png"}, "app": {"urls": ["http://forleven.com/"], "launch": {"web_url": "http://forleven.com/"}}}

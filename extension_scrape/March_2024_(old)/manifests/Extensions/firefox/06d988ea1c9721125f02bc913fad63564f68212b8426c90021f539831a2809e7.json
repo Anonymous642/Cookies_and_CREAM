@@ -1,0 +1,1 @@
+{"name": "98book XL", "version": "1.0", "description": "Make 98book readable on mobile", "content_scripts": [{"matches": ["*://98book.com/readbook/*/*/*.html"], "css": ["content.css"], "run_at": "document_end"}], "manifest_version": 2}

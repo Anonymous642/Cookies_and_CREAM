@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ArtemisDarkMode", "version": "1.1.5", "description": "Adds a dark mode for all webpages matching artemis.ase.", "icons": {"235": "icons/icon-235.png"}, "content_scripts": [{"matches": ["*://*.artemis.ase.in.tum.de/*"], "js": ["darkMode.js"], "css": ["darkMode.css"]}]}

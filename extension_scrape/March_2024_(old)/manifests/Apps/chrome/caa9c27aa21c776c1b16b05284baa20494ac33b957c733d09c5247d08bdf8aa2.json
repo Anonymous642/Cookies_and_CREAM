@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TowerCoverage.Com", "description": "Create Instant RF Tower Coverage Maps", "version": "2", "manifest_version": 2, "icons": {"128": "tc_icon.png"}, "app": {"urls": ["http://www.towercoverage.com/"], "launch": {"web_url": "http://www.towercoverage.com/"}}}

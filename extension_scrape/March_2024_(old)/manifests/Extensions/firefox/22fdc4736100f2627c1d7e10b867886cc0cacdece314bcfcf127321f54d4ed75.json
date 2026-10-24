@@ -1,0 +1,1 @@
+{"name": "K-Twitch-Bypass", "description": "Extension to bypass Twitch quality restrictions", "icons": {"128": "images/icon.png"}, "manifest_version": 2, "permissions": [], "version": "2.2", "browser_specific_settings": {"gecko": {"id": "{728b8b51-85ba-4be1-b018-42331e4cfc82}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "SumUp", "author": "Peter Lee (@nadapeter)", "action": {"default_title": "SumUp", "default_icon": "icon.png"}, "manifest_version": 3, "version": "0.1", "description": "Opens the page in SumUp", "permissions": ["activeTab", "scripting"], "background": {"service_worker": "background.js"}}

@@ -1,0 +1,1 @@
+{"name": "Quuu Discover", "version": "1.0", "manifest_version": 2, "description": "Quick access to the discover service", "background": {"scripts": ["content.js"]}, "icons": {"48": "Icons/48.png", "96": "Icons/96.png"}, "browser_action": {"default_icon": {"48": "Icons/48.png", "96": "Icons/96.png"}}, "permissions": ["tabs"]}

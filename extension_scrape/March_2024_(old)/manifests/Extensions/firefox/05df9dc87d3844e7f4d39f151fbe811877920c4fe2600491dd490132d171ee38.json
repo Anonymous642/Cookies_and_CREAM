@@ -1,0 +1,1 @@
+{"description": "Breakout brick game", "manifest_version": 2, "name": "Breakout brick", "version": "1", "icons": {"32": "icon/brick.png"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icon/brick.png", "default_title": "Mini Game", "default_popup": "index.html"}, "permissions": ["storage"]}

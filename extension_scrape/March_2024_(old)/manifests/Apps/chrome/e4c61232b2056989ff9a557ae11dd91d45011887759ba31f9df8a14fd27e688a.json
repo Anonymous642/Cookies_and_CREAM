@@ -1,0 +1,1 @@
+{"app": {"launch": {"web_url": "http://waysofhistory.com"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "__MSG_waysofhistory_description__", "default_locale": "en", "name": "__MSG_waysofhistory_name__", "icons": {"128": "waysofhistory.png"}, "manifest_version": 2, "version": "1.0.1"}

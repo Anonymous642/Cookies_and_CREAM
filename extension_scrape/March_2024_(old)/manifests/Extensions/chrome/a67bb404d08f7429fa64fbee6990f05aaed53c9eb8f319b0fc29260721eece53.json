@@ -1,0 +1,1 @@
+{"chrome_url_overrides": {"newtab": "newtab.html"}, "description": "Makes the new tab page totally blank", "icons": {"33": "33.png", "128": "128.png"}, "incognito": "split", "manifest_version": 2, "name": "Totally Blank New Tab Page", "update_url": "https://clients2.google.com/service/update2/crx", "version": "0.0.1"}

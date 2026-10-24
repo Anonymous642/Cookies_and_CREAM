@@ -1,0 +1,1 @@
+{"description": "View computed font attributes.", "manifest_version": 2, "name": "What Font OLI", "version": "1.2", "homepage_url": "https://addons.mozilla.org/it/firefox/user/kushan4157/", "icons": {"48": "icons/icon-48.png", "64": "icons/icon-64.png", "128": "icons/icon-128.png"}, "background": {"scripts": ["config.js"]}, "permissions": ["activeTab", "menus"]}

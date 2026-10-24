@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Peekier search engine", "description": "Adds a search engine that searches peekier.com", "version": "1.0", "icons": {"192": "iconhq.png"}, "chrome_settings_overrides": {"search_provider": {"name": "Peekier", "search_url": "https://peekier.com/#!{searchTerms}", "favicon_url": "https://peekier.com/assets/favicon.png", "is_default": true}}}

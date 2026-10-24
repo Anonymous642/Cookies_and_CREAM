@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "YoutubeFFW", "description": "Control Youtube video timcodes with shortcuts", "version": "0.1", "manifest_version": 2, "icons": {"128": "icons/ffw-icon-2.png"}, "content_scripts": [{"matches": ["https://*.youtube.com/watch?*"], "run_at": "document_idle", "css": ["css/styles.css"], "js": ["js/main.js"]}]}

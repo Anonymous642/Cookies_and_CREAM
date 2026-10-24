@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Student Onion", "version": "0.1.0", "description": "Replaces the word Union with Onion", "icons": {"16": "images/onion16.png", "48": "images/onion16.png", "128": "images/onion16.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

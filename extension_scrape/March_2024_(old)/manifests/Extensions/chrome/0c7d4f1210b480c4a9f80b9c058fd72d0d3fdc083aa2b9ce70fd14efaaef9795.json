@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Notepad+", "short_name": "NP+", "version": "2.0.0.3", "manifest_version": 3, "action": {"default_icon": "notesLogo.png", "default_title": "Notepad+", "default_popup": "notepad+.html"}, "icons": {"16": "notesLogo.png", "48": "notesDispaly.png", "128": "notesicon.png"}}

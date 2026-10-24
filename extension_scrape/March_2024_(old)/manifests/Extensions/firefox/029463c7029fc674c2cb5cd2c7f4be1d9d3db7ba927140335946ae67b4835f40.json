@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "bcFastPlay", "version": "1.1", "description": "Just hit space-f******g-bar to Pause / Play, how useful is that ?", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.bandcamp.com/*"], "js": ["bcFastPlay.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Vaia's Repost Annihilator", "version": "1.2.0", "description": "Hides and skips reposted tracks on your SoundCloud stream with one click.", "content_scripts": [{"matches": ["https://soundcloud.com/stream*", "https://soundcloud.com/charts*"], "js": ["RepostAnnihilator.user.js"]}]}

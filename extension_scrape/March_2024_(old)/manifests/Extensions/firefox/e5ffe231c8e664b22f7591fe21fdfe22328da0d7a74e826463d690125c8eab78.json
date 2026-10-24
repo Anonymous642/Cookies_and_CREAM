@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TwitterCleanify", "version": "1.5", "description": "Limit twitter posts per one post per author daily - EXPERIMENTAL.", "icons": {"48": "icons/twitterify-48.png", "128": "icons/twitterify-128.png"}, "content_scripts": [{"matches": ["*://*.twitter.com/"], "js": ["twitterify.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Wetter", "short_name": "Wetter", "description": "Wetter und Wettervorhersage", "manifest_version": 2, "version": "1.5", "icons": {"128": "wetter.png"}, "app": {"urls": ["http://nurdaswetter.de/"], "launch": {"web_url": "http://nurdaswetter.de/"}}}

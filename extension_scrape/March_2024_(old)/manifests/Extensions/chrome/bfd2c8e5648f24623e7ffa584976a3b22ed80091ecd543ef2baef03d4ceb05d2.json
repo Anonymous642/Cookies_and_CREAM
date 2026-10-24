@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "TESPLAY", "version": "1.0", "description": "Situs slot online, casino online, bandar bola dan game tembak ikan terlengkap dan terpecaya di Indonesia", "manifest_version": 2, "browser_action": {"default_popup": "index.html", "default_icon": "tesplay.png"}}

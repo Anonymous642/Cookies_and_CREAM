@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Mensa Speisepl\u00e4ne - StwON", "version": "1.0.2", "manifest_version": 2, "icons": {"128": "icon_spoon.png"}, "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["http://www.stw-on.de/*"]}

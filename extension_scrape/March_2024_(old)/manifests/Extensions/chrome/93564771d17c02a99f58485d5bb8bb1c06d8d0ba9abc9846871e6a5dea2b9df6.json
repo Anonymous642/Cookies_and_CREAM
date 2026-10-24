@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "balbib-wb-autoknock", "version": "0.1", "description": "utility for automatic knocking on whereby meeting", "manifest_version": 2, "content_scripts": [{"matches": ["http://whereby.com/*", "https://whereby.com/*"], "js": ["content-script.js"]}]}

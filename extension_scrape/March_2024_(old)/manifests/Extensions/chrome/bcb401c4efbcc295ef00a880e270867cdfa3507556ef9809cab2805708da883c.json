@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "RemoveZeros", "version": "1.0", "description": "Remove real estates of zero case", "manifest_version": 2, "browser_action": {"default_icon": "officetel.png", "default_popup": "popup.html"}, "permissions": ["activeTab"]}

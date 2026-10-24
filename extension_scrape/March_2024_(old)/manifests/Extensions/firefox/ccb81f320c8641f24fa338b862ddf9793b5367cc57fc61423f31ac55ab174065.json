@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ticket Details Hider", "version": "1.0", "description": "Adds the ability to show/hide the Details section of TeamDynamix hosted tickets.", "content_scripts": [{"matches": ["*://*.teamdynamix.com/TDNext/Apps/*/Tickets/TicketDet*"], "js": ["AddOn.js"]}], "icons": {"48": "icon.png", "96": "icon96.png"}}

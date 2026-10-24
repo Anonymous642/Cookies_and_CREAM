@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "WebAPP CYIM", "description": "Blog about WebApp CYIM", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "mysteryicon.png"}, "app": {"urls": ["https://webappcyim.blogspot.com/"], "launch": {"web_url": "http://webappcyim.blogspot.com/"}}}

@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "BidCops - Free AdWords PPC Tool", "description": "BidCops will save you time and money on Google AdWords. Increase your pay per click conversions. Get it free today!", "version": "3.4", "app": {"launch": {"web_url": "http://BidCops.com/"}}, "icons": {"128": "logo_square_128.png"}, "manifest_version": 2}

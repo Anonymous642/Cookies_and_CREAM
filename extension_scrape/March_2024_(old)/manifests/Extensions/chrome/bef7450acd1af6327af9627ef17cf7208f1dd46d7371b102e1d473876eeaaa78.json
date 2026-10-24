@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "mr gray", "icons": {"128": "gray.png"}, "version": "0.1", "content_scripts": [{"css": ["gray.css"], "matches": ["<all_urls>"]}]}

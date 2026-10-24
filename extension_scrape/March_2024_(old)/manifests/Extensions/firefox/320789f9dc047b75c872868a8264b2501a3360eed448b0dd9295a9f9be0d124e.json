@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ptaszor Swapper", "version": "1.1", "description": "Changes all images to the image of wet owl", "icons": {"48": "icons/ptaszor-48.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["ptaszor.js"]}], "browser_specific_settings": {"gecko": {"id": "{17da3e37-a328-4a81-b602-5ec6c52c1db7}"}}}

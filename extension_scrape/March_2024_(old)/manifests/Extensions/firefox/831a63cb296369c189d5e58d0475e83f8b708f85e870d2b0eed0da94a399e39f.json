@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "CSFD.cz - Uloz.to", "version": "1.2", "description": "Add quick links between www.csfd.cz and uloz.to.", "icons": {"16": "icons/logo-16.png", "32": "icons/logo-32.png", "48": "icons/logo-48.png", "64": "icons/logo-64.png"}, "content_scripts": [{"matches": ["*://www.csfd.cz/film/*", "*://uloz.to/file/*"], "js": ["csfd-ulozto.js"]}]}

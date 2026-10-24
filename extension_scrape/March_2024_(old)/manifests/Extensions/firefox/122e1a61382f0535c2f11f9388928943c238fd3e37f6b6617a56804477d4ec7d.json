@@ -1,0 +1,1 @@
+{"manifest_version": 2, "browser_specific_settings": {"gecko": {"id": "TimetableForWeb@Sungho.Hwang", "strict_min_version": "78.0"}}, "name": "TimetableForWeb", "version": "25.1", "description": "Simple timetable for web.", "icons": {"32": "tt32.png"}, "browser_action": {"default_icon": "tt32.png", "default_title": "TimetableForWeb"}, "background": {"scripts": ["background.js"]}}

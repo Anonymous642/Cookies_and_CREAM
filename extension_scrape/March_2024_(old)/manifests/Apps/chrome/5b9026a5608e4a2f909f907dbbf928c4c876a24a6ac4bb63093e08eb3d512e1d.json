@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Word card", "version": "1.2", "manifest_version": 2, "description": "Small, easy and work offline, lets create your own word cards everyday !!!", "app": {"launch": {"local_path": "index.html"}}, "icons": {"16": "Icon.png", "128": "Icon.png"}}

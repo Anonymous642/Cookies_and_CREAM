@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Hubba Hack Plugin", "description": "This extension will give access to product list.", "version": "1.4", "short_name": "Hubba Hack", "browser_action": {"default_icon": "Hubba.png", "default_popup": "popup.html"}, "permissions": ["activeTab"]}

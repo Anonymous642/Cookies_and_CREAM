@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Lord Mahavir Quotes", "version": "0.3", "icons": {"16": "icons/icon16.png", "48": "icons/icon48.png", "128": "icons/icon128.png"}, "chrome_url_overrides": {"newtab": "index.html"}, "background": {"scripts": ["js/main.js"]}, "browser_specific_settings": {"gecko": {"id": "{72eba9c4-8c5c-4d42-b0c9-4b95ad87dd3d}"}}}

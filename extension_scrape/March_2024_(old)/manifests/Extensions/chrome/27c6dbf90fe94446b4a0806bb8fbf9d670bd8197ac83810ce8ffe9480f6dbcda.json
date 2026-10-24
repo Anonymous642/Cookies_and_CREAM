@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "savePDF_selectedNAME", "description": "\u9078\u629e\u3057\u305f\u540d\u524d\u3067PDF\u3092\u4fdd\u5b58\u3059\u308b", "version": "1.0.2", "icons": {"128": "128.png"}, "permissions": ["contextMenus", "activeTab"], "background": {"scripts": ["jpnreports.js"]}}

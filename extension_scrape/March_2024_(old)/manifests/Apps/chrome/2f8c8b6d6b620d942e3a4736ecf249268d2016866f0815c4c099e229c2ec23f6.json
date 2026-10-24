@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Project1", "version": "1.0.3", "offline_enabled": true, "description": "Use filesystem. Chrome only.", "icons": {"16": "nsb/images/16.png", "128": "nsb/images/128.png"}, "author": "Copyright 2014 ABC Company", "app": {"background": {"scripts": ["background.js"]}}}

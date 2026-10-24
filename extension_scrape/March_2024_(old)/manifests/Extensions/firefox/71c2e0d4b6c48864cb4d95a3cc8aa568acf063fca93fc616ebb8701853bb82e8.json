@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitter Tracking Removal", "version": "1.0", "description": "removes tracking params from twitter share link button", "content_scripts": [{"matches": ["*://twitter.com/*"], "js": ["script.js"]}], "permissions": ["clipboardRead", "clipboardWrite"], "browser_specific_settings": {"gecko": {"id": "{2f8077ed-4d91-403d-9df8-41ff21058270}"}}}

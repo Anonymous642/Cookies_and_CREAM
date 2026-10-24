@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Filmorias", "version": "1.3", "description": "Remove adfly link, and redirect to the video!", "content_scripts": [{"matches": ["https://www.sorozat-barat.club/*"], "js": ["filmorias.js"]}]}

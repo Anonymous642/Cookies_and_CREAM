@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Uncover", "version": "1.0", "description": "Uncover the web", "permissions": ["activeTab", "storage"], "browser_action": {"default_popup": "popup.html"}, "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["<all_urls>"]}], "browser_specific_settings": {"gecko": {"id": "info@uncover.quest", "strict_min_version": "55.0"}}}

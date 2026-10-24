@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Chess.com clock warning", "version": "0.1", "content_scripts": [{"matches": ["*://*.chess.com/*"], "css": [], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{e55b9195-670b-4e93-aa8e-950fe8a2f84e}"}}}

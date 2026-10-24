@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Hosting Murah", "description": "Hosting Tangguh melayani jasa hosting murah dan berkualitas", "version": "0.0.1", "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.hostingtangguh.com/"], "launch": {"web_url": "http://www.hostingtangguh.com/"}}}

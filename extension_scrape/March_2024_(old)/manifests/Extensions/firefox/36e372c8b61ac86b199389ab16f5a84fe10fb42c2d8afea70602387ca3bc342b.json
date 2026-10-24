@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Planilha Odebrecht", "version": "1.0.3", "description": "Substitui nomes de pol\u00edticos pelo apelido da Odebrecht", "icons": {"32": "icons/odebrecht-32.png", "64": "icons/odebrecht-64.png", "96": "icons/odebrecht-96.png", "128": "icons/odebrecht-128.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["odebrecht.js"]}]}

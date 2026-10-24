@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Lectio Billeder", "version": "1.0.1", "description": "Viser billeder p\u00e5 beskeder i Lectio", "content_scripts": [{"matches": ["*://*.lectio.dk/lectio/*/beskeder2.aspx?type=showthread*"], "js": ["beskeder2.js"]}]}

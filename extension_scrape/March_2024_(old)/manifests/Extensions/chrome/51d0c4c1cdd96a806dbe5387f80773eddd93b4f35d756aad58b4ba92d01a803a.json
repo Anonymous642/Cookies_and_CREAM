@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Inspirational Tab", "description": "Enhance your browsing experience with inspiring motivation quotes when opening a new tab!", "manifest_version": 3, "version": "1.1", "chrome_url_overrides": {"newtab": "newtab.html"}}

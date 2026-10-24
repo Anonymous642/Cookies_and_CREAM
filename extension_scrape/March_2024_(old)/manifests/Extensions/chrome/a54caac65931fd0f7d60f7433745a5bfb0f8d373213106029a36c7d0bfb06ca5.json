@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "short_name": "CloneBots", "name": "CloneBots", "manifest_version": 2, "browser_action": {"default_popup": "index.html", "default_title": "CloneBots"}, "icons": {"16": "logo.png", "48": "logo.png", "128": "logo.png"}, "version": "1.7"}

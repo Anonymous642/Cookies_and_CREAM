@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Everbizz", "version": "1.1", "manifest_version": 2, "permissions": ["serial"], "minimum_chrome_version": "23", "icons": {"16": "everBizz_16.png", "128": "everBizz_128.png"}, "app": {"background": {"scripts": ["launch.js"]}}, "externally_connectable": {"matches": ["*://*.everbizz.com/*"]}}

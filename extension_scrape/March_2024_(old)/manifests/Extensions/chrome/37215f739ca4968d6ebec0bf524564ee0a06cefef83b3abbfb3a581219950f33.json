@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Knobhead", "version": "0.0.1", "description": "Replace words like nazi and trump with 'Knobhead'.", "content_scripts": [{"matches": ["<all_urls>"], "js": ["knobhead.js"], "run_at": "document_end"}], "icons": {"48": "icons/48.gif", "128": "icons/48.gif", "256": "icons/48.gif"}}

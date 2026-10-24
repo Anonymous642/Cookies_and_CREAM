@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Diabeu", "short_name": "Diabeu", "version": "1.2.2", "description": "Adds a beautiful, simple and effective home page to your browser.", "chrome_url_overrides": {"newtab": "popup.html"}, "browser_action": {"title": "Diabeu"}, "chrome_settings_overrides": {"homepage": "popup.html"}, "permissions": ["bookmarks"]}

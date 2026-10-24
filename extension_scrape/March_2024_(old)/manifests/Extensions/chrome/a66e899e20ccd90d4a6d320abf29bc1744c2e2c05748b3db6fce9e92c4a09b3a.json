@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "short_name": "pagepal", "manifest_version": 3, "name": "pagepal", "version": "1.0.1", "action": {"default_popup": "index.html"}, "permissions": ["activeTab", "tabs", "scripting"], "icons": {"16": "images/icon.png", "32": "images/icon.png", "48": "images/icon.png", "128": "images/icon.png"}}

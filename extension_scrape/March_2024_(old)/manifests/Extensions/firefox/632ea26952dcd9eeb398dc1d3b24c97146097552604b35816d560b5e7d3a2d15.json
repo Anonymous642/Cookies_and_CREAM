@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "It's Media!", "version": "1.0", "description": "Changes twitter's \"Media\" tab's label into \"It's Media!\"", "icons": {"48": "icons/media-48.png", "96": "icons/media-96.png"}, "content_scripts": [{"matches": ["*://*.twitter.com/*"], "js": ["replaceLabel.js"]}]}

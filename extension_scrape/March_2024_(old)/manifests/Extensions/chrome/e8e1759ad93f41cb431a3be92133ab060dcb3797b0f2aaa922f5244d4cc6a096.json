@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "background": {"service_worker": "background.js"}, "action": {"default_icon": "64.png"}, "description": "Memory match  game for chrome", "icons": {"16": "64.png", "48": "64.png", "128": "128.png"}, "manifest_version": 3, "name": "Memory match game", "options_page": "option.html", "version": "2.0.1"}

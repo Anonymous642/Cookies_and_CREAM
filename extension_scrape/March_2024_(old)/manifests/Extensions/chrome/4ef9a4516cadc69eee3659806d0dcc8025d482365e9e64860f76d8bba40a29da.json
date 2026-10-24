@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "OctocatRun", "version": "1.0", "manifest_version": 3, "web_accessible_resources": [{"resources": ["images/*"], "matches": ["https://github.com/*"]}], "content_scripts": [{"js": ["assets/index.ee8b52f1.js"], "matches": ["https://github.com/*"]}], "action": {}}

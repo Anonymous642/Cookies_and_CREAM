@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Dolar Hoy", "manifest_version": 2, "short_name": "Dolar Hoy", "description": "Precio del D\u00f3lar Hoy", "version": "1", "icons": {"128": "icon.png"}, "app": {"launch": {"web_url": "http://dolartoday.hekoru.lol"}}}

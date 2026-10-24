@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Rick Roll Detector", "version": "1.0", "description": "Tiny extension to warn you if a page is trying to Rick Roll you.", "icons": {"48": "assets/icon_48x48.jpg"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["detect.js"]}]}

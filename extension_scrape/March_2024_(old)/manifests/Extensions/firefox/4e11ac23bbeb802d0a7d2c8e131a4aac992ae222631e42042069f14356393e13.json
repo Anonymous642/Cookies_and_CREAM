@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "M\u00e1scara de Dados Sigilosos", "version": "1.0", "description": "M\u00e1scara de Dados Sigilosos", "browser_action": {"default_popup": "popup.html", "default_icon": "ultra-secreto.png"}, "icons": {"128": "ultra-secreto.png"}, "browser_specific_settings": {"gecko": {"id": "{98ccdfc4-1a55-46c8-99fe-e5d556642c36}"}}}

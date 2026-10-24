@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Wikipedia mobile redirect", "version": "1.0", "description": "Allows you to quickly redirect mobile version of Wikipedia to full, computer-friendly website. ", "icons": {"48": "icons/main.png"}, "content_scripts": [{"matches": ["*://*.wikipedia.org/*"], "js": ["wikiRedir.js"]}]}

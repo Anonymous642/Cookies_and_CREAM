@@ -1,0 +1,1 @@
+{"description": "", "manifest_version": 2, "name": "skipInfLogin", "version": "1.0", "icons": {"48": "icons/fast-forward.png"}, "content_scripts": [{"matches": ["https://moodle.informatik.tu-darmstadt.de/login/index.php"], "js": ["skip.js"]}], "browser_specific_settings": {"gecko": {"id": "{a0afc22f-c605-454a-b866-199031769bda}"}}}

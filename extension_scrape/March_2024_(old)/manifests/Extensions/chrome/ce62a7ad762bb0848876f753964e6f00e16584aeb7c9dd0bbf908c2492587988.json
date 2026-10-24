@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Notify Tab Close", "description": "Extension to detect tab close events and notify", "icons": {"128": "photo.png"}, "version": "1.1", "background": {"scripts": ["background.js"], "persistent": false}, "permissions": ["tabs", "storage"], "manifest_version": 2}

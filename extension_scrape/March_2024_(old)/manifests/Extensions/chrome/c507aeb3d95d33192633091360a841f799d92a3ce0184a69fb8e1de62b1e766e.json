@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "bitcoin fear and greed index", "description": "the bitcoin fear & greed index, pulling in from alternative.me's crypto fear and greed index API", "version": "0.0.0.1", "action": {"default_popup": "main.html", "default_icon": "cloud.png"}}

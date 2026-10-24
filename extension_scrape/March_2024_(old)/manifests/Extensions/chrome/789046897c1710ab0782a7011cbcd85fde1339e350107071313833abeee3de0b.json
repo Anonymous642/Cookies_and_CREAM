@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Share Value Price Trend", "short_name": "Share Value", "description": "Share Value Price Trend provides unique insight to improve share trading and investment performance.", "version": "2023", "manifest_version": 3, "start_url": "https://bizpep.com/sharevalue/?a=pwa", "icons": {"128": "128.png"}}

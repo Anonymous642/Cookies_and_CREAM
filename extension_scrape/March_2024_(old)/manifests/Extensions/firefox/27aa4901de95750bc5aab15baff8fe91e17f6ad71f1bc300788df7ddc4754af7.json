@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Clean Youtube links", "version": "1.0", "description": "Replaces the Youtube redirect tracking link with the actual link", "icons": {"48": "icons/image-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["app.js"]}], "browser_specific_settings": {"gecko": {"id": "{d36bb1a2-ae24-4d84-8da3-e9327f1b2a1b}"}}}

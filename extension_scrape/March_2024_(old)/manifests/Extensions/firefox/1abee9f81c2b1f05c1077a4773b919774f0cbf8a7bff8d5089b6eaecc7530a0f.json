@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SMPR", "description": "Subway Monthly Punch Report", "version": "1.7", "browser_action": {"default_icon": "sicon.png", "default_popup": "popup.html"}, "permissions": ["storage", "cookies", "https://*/*"], "browser_specific_settings": {"gecko": {"id": "{7024f612-b87d-4e96-a6e7-782e8c3be635}"}}}

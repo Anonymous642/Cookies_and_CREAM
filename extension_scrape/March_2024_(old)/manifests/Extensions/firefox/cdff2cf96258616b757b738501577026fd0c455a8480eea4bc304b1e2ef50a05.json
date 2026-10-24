@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TwitchTrackerFollowers", "version": "1.1", "description": "Adds a display for the total number of followers to TwitchTracker.com", "content_scripts": [{"matches": ["*://*.twitchtracker.com/*/games"], "js": ["twitchtrackerfollowers.js"]}]}

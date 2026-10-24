@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "EUR  to SHP", "version": "1.0", "description": "Convert EUR to SHP", "browser_specific_settings": {"gecko": {"id": "EUR-to-shp@example.com"}}}

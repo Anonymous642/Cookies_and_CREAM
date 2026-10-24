@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HideVideo", "version": "1.2", "description": "Hides the visuals of a Youtube video.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["hidevideo.js"]}], "browser_specific_settings": {"gecko": {"id": "{af5b07a2-159c-4df5-8be8-9b328f0af27d}"}}}

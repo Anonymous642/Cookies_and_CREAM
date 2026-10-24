@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Warilla High School Intranet", "description": "Warilla High Schools Intranet", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://web2.warilla-h.schools.nsw.edu.au/"], "launch": {"web_url": "http://web2.warilla-h.schools.nsw.edu.au/"}}}

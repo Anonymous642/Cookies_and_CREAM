@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Uno New Tab", "description": "Cool new tab extension \ud83d\ude0e", "version": "1.0.1", "chrome_url_overrides": {"newtab": "index.html"}, "browser_action": {"default_icon": "favicon.png"}, "permissions": ["tabs"]}

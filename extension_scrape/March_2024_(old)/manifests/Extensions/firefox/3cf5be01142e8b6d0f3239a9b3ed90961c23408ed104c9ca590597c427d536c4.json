@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Tab Address Clipboard", "version": "1.0", "description": "Copy the address of the currently selected tab to the clipboard.", "permissions": ["tabs", "clipboardWrite"], "background": {"scripts": ["background.js"], "persistent": false}, "browser_specific_settings": {"gecko": {"id": "{7b770c3f-1b6d-4ccc-aa27-16921017083c}"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "EP ECLOSE LOGIN", "version": "0.9.1", "content_scripts": [{"matches": ["https://s3.amazonaws.com/nineteenthirtytwo/wait.html?*", "https://ccsm.login.us6.oraclecloud.com/*"], "js": ["content.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Space Blaze. Stage 1", "manifest_version": 2, "description": "Space Blaze: Blast your way through to the front lines and face off against the invading Alien force", "version": "1.0", "icons": {"16": "chrome-icon16.png", "128": "chrome-icon.png"}, "app": {"background": {"scripts": ["background.js"]}}}

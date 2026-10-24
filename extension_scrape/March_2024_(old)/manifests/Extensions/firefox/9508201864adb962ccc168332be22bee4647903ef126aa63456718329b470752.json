@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "lesen", "version": "1.0", "description": "Changes pages to dark mode and adds hyphens", "icons": {"48": "icons/ebook-icon.png"}, "content_scripts": [{"matches": ["*://*/*"], "js": ["reading.js"]}]}

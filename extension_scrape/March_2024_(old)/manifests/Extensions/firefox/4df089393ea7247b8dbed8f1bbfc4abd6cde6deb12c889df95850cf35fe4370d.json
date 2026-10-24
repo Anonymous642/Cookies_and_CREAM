@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "SLOGIN", "description": "\u6a21\u62df\u767b\u9646", "version": "1.5", "permissions": ["http://139.129.252.49:8080/visitor/*"], "content_scripts": [{"matches": ["http://*/*"], "js": ["js/my.js"]}]}

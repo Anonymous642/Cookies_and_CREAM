@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "New Tab Randomizer Daily", "description": "Daily random new tab wallpapers!", "version": "0.5", "chrome_url_overrides": {"newtab": "newtab.html"}}

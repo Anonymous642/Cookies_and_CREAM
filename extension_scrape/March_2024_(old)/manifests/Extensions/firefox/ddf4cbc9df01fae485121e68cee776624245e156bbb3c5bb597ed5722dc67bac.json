@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Navigate back to close tab", "version": "1.1", "description": "Lets you close tab by navigating back", "permissions": ["tabs"], "background": {"scripts": ["background.js"]}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"]}], "browser_specific_settings": {"gecko": {"id": "{e9b1151e-7768-4a6a-9604-b22323127ad5}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "TabPull by Brian", "action": {"default_popup": "popup.html"}, "permissions": ["tabs", "tabGroups"], "version": "0.2.1", "icons": {"16": "images/tabpull-16.png", "32": "images/tabpull-32.png", "48": "images/tabpull-48.png", "128": "images/tabpull-128.png"}}

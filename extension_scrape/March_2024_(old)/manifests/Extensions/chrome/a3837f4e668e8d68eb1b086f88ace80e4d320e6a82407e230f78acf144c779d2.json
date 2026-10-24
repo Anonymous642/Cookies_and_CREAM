@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "LTR Screenshot", "version": "1.1.0", "description": "Take screenshot functionality in your chrome", "background": {"persistent": false, "scripts": ["background.js"]}, "browser_action": {"default_icon": "camera.png", "default_title": "LTR Screenshot"}, "permissions": ["activeTab"], "manifest_version": 2}

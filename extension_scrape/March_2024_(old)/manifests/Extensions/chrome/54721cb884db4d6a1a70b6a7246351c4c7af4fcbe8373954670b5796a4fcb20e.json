@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "QuickJS", "description": "This extension let you pre-configure JS scripts to execute them easily & faster", "version": "1.1", "browser_action": {"default_icon": "logo512.png", "default_popup": "popup.html"}, "permissions": ["tabs", "activeTab", "storage"]}

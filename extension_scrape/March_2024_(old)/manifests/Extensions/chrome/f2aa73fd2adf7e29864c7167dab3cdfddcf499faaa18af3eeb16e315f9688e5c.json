@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Buildkite New Build Branch Helper", "version": "0.1.1", "description": "help you with branches and env vars when making a new buildkite branch", "manifest_version": 2, "content_scripts": [{"js": ["src/inject/buildkite-new-build-branch-helper.js"], "matches": ["https://buildkite.com/*"]}]}

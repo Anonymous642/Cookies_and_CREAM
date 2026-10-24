@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ShowOnMap", "description": "Opens GoogleMaps in new Tab with selected content as search text.", "version": "1.0", "icons": {"48": "icons/location-48.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "contextMenus"]}

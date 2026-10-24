@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sandesh Solutions", "description": "Website Development Company", "version": "0.2", "manifest_version": 2, "app": {"urls": ["http://www.sandeshsolution.com/"], "launch": {"web_url": "http://www.sandeshsolution.com/"}}, "icons": {"128": "wc-logo.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "\u6807\u7b7e\u9009\u62e9\u5668", "description": "\u6807\u7b7e\u9009\u62e9\u5668", "version": "0.0.3", "icons": {"128": "icon_128.png"}, "action": {"default_icon": "icon_128.png", "default_popup": "popup.html"}, "permissions": ["tabs", "storage"]}

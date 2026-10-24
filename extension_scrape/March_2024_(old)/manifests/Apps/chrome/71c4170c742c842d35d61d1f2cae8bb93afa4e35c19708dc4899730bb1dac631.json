@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Crash Course Safe Road Driving Game", "description": "Navigate your car through the construction cones", "version": "2.0", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "icon_16.png", "128": "icon_128.png"}}

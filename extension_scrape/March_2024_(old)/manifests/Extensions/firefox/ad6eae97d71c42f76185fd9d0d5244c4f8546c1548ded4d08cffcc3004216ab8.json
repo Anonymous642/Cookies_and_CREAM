@@ -1,0 +1,1 @@
+{"name": "mbed tabs", "description": "Adds tabs to mbed simulator page to manage files easier", "version": "0.0.1", "manifest_version": 2, "content_scripts": [{"matches": ["https://simulator.mbed.com/*"], "js": ["ace.js", "content_script.js"], "css": ["style.css"], "all_frames": true, "run_at": "document_end"}], "permissions": ["storage"]}

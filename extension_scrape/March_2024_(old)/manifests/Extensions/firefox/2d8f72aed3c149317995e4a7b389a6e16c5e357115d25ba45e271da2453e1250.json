@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "USD to INR Converter", "version": "1.0", "description": "Convert USD to Indian Rupees", "browser_specific_settings": {"gecko": {"id": "usd-to-inr@example.com"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Karadut", "description": "G\u00fcncel i\u00e7erikler ve g\u00fcndem ile ilgili bilgi merkezi.", "version": "1.0", "manifest_version": 3, "action": {"default_title": "Karadut", "default_icon": "logo.png", "default_popup": "plugin.html"}, "icons": {"128": "logo.png"}}

@@ -1,0 +1,1 @@
+{"name": "Google Search Shortcuts", "description": "Keyboard shortcuts to make searching on Google faster", "version": "0.2.3", "manifest_version": 2, "content_scripts": [{"matches": ["*://*.google.com/search*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{10bdbdc0-e1da-4471-96a3-8f4dd6ed38a3}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Finology Launcher", "description": "Quick launch Finology", "version": "1.0.0", "icons": {"128": "finologo.png"}, "browser_action": {"default_icon": "finologo.png", "default_popup": "pupup.html"}, "permissions": ["activeTab"]}

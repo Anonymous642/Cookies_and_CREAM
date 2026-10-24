@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ReveaLink", "version": "1.0.2", "applications": {"gecko": {"id": "ReveaLink@tony.com"}}, "description": "Pula protetor de links em Hyuugadownloads.", "icons": {"96": "on.png"}, "permissions": ["http://*/*"], "content_scripts": [{"matches": ["http://hyuugadownloads.com.br/protetor/*", "http://ouo.io/go/*"], "js": ["script.js"]}]}

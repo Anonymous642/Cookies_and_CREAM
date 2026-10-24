@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Voopter", "description": "Comparador de passagens a\u00e9reas.", "version": "1.2", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://voopter.com.br/"], "launch": {"web_url": "http://voopter.com.br/"}}}

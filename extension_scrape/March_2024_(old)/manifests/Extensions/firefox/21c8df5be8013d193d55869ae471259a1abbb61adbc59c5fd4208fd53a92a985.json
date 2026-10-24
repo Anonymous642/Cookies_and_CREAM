@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Coddova Download Manager (CDM)", "version": "1.1", "description": "Coddova download manager", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["CDM.js"]}], "permissions": ["webRequest", "<all_urls>", "webRequestBlocking", "clipboardWrite"], "background": {"scripts": ["background.js"]}}

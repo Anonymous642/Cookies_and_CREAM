@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Tibia Character Search", "description": "A simple Tibia character search extension", "version": "1.1", "icons": {"128": "icon.png"}, "browser_action": {"default_popup": "popup.html", "default_title": "Tibia Character Search"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "g2tweet", "version": "0.1.2", "description": "Let's you tweet your Google search query to Twitter", "icons": {"48": "icons/g2t-48.png"}, "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*/*"], "include_globs": ["*://*.google.*/*"], "js": ["g2tweet.js"]}]}

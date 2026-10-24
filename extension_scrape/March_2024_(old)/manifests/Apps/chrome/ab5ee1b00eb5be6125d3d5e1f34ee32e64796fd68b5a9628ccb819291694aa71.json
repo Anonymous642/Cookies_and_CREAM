@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Fades Out", "description": "Match the same numbers and get them as higher as possible.", "version": "1.1.0.0", "manifest_version": 2, "icons": {"128": "128.png"}, "app": {"urls": ["http://fades.momogames.us/"], "launch": {"web_url": "http://fades.momogames.us/"}}}

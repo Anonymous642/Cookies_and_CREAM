@@ -1,0 +1,1 @@
+{"applications": {"gecko": {"id": "{DEBA3021-9876-4702-89BA-42D095339A0A}", "strict_min_version": "57.0"}}, "author": "Frank Dre\u00dfler", "manifest_version": 2, "name": "Disable Page Visibility API", "version": "1.1", "description": "Disables the Page Visibility API.", "content_scripts": [{"matches": ["*://*/*"], "js": ["conent_script.js"]}]}

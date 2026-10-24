@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "A test extension", "version": "1.0.0", "permissions": ["activeTab"], "action": {"default_title": "This is the title of a test extension"}, "browser_specific_settings": {"gecko": {"id": "a-test-extension@will.drnd.me"}}, "icons": {"512": "yellow.png"}}

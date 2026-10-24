@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Post To Tumblr Dmtr.org", "version": "0.2", "description": "Right click image to directly post to Tumblr.", "icons": {"48": "icons/icon.svg"}, "background": {"scripts": ["background.js"]}, "applications": {"gecko": {"id": "posttotumblr@dmtr.org"}}, "permissions": ["menus"]}

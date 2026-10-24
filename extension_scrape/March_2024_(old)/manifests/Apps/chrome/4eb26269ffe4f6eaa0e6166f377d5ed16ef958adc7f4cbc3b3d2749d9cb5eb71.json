@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Analyzastranek.cz", "description": "Pithy description (132 characters or less, no HTML)", "version": "2.8", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.markmedia.cz/"], "launch": {"web_url": "http://www.markmedia.cz/"}}}

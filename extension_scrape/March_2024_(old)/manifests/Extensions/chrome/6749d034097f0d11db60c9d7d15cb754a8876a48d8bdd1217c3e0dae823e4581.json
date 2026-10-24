@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "blank-new-tab", "description": "totally clean new tab, without any icon or title, so you can use it as seperater to organize tabs", "version": "0.1.0", "manifest_version": 2, "chrome_url_overrides": {"newtab": "blank.html"}}

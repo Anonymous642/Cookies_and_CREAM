@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Gooly", "description": "Talk, chat and scrap the web with GPT3 and more!", "version": "1", "icons": {"128": "goolyicon.png"}, "permissions": ["tabs"], "background": {"service_worker": "gooly.js"}}

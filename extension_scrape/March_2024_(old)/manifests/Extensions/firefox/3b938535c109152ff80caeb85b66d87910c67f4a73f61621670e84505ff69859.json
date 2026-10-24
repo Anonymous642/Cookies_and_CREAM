@@ -1,0 +1,1 @@
+{"name": "1337 5P3AK", "version": "1.0", "description": "L4 b4se", "manifest_version": 2, "icons": {"128": "icone/leetspeak.png"}, "content_scripts": [{"matches": ["*://*/**"], "css": ["modif_balise.css"], "js": ["modif.js"]}]}

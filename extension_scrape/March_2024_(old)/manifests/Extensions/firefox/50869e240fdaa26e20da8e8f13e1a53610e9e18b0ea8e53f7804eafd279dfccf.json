@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "xkcd enhancer", "version": "1.0", "description": "Enhances your xkcd browsing experience.", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://xkcd.com/*"], "js": ["enhance.js"]}]}

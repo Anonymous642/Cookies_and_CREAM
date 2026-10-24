@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "RemoveSpotifyUpgradeButton", "version": "1.1", "description": "Removes the pesky spotify upgrade button", "permissions": ["activeTab"], "content_scripts": [{"matches": ["https://*.spotify.com/*"], "js": ["content.js"]}], "icons": {"48": "icon2.png"}, "browser_specific_settings": {"gecko": {"id": "{48f05fb6-aa7f-4ce0-aaa8-28491fc10654}"}}}

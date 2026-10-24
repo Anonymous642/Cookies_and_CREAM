@@ -1,0 +1,1 @@
+{"name": "CallClerk Dial", "version": "7.0", "manifest_version": 2, "description": "CallClerk Dial from Firefox", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "background": {"scripts": ["callclerk.js"]}, "homepage_url": "https://www.callclerk.com", "minimum_chrome_version": "20.0", "permissions": ["contextMenus"]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "description": "CrowdView - Forum Search Engine.", "version": "4.3.7", "manifest_version": 3, "name": "CrowdView", "permissions": ["storage"], "icons": {"128": "icon-128.png"}, "content_scripts": [{"matches": ["https://*.google.com/search*"], "js": ["contentScript.bundle.js"], "css": ["content.styles.css"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Wiktionary", "version": "1.1", "description": "Search Wiktionary from the right-click menu.", "icons": {"48": "icons/icon.png", "96": "icons/icon@2x.png"}, "permissions": ["activeTab", "contextMenus"], "background": {"scripts": ["wiktionary.js"]}, "browser_specific_settings": {"gecko": {"id": "{9377e45d-3040-4f1e-b069-79dc4d623ec6}"}}}

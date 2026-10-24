@@ -1,0 +1,1 @@
+{"name": "Tutor de tipeo", "manifest_version": 2, "version": "15.6", "description": "Un tutor de tipeo en espa\u00f1ol, para aprender mecanograf\u00eda", "icons": {"16": "icon_16.png", "128": "icon_128.png"}, "app": {"launch": {"local_path": "index.html"}}, "update_url": "http://clients2.google.com/service/update2/crx", "offline_enabled": true}

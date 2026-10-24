@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Group Tabs by Domain", "version": "1.0", "description": "Group all tabs with the same domain into a new window", "manifest_version": 3, "permissions": ["tabs"], "background": {"service_worker": "background.js"}, "action": {"default_icon": "icon.png"}}

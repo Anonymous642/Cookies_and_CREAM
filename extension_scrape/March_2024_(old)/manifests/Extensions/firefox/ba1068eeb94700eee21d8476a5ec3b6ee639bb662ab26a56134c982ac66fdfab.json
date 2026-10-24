@@ -1,0 +1,1 @@
+{"name": "Qibla Direction", "version": "1.0", "manifest_version": 2, "icons": {"16": "./img/16.png", "48": "./img/48.png", "128": "./img/128.png"}, "browser_action": {"default_popup": "./popup.html"}, "permissions": ["geolocation"], "browser_specific_settings": {"gecko": {"id": "{9ffbb01a-83c3-4a15-8d0e-bbbc37e7320f}"}}}

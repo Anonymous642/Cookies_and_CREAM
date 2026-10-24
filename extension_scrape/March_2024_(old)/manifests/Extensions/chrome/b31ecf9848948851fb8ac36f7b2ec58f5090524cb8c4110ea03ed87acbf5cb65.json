@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Take it easy!", "version": "0.1.0", "description": "Notifies you if you're using your browser on the weekend", "icons": {"48": "icons/beach-umbrella-48.png"}, "background": {"scripts": ["cron.js"]}, "permissions": ["notifications"]}

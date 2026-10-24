@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Cross Platform Trading Guide", "description": "Calculate the profit made by cross-platform trading!", "version": "1.0", "minimum_chrome_version": "46", "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}}

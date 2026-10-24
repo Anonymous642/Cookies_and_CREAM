@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Browser Closer", "version": "1.0.2", "description": "It closes your Browser tabs", "manifest_version": 3, "author": "Luka Milbourne", "background": {"service_worker": "background.js"}, "action": {"default_popup": "body.html", "default_title": "Browser Closer", "default_icon": {"16": "StopDP.png"}}}

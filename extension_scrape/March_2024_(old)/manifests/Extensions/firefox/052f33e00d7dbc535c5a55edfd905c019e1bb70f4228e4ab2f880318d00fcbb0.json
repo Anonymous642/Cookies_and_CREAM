@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitch Auto Claim", "version": "1.2", "description": "Automatically claim channel point bonuses on Twitch. ", "icons": {}, "content_scripts": [{"matches": ["https://www.twitch.tv/*"], "js": ["twitch-auto-claim.js"]}]}

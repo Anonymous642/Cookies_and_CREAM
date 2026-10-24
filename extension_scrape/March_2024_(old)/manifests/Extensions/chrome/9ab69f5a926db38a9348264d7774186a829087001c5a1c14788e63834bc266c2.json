@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "pretty ui for aliyun", "version": "2.0", "description": "pretty ui for aliyun", "content_scripts": [{"matches": ["*://edas.console.aliyun.com/*"], "js": ["js/wpp.js"]}]}

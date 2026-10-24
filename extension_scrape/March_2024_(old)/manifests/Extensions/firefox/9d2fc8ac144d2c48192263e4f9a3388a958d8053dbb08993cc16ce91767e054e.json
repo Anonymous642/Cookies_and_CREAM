@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Print Style Viewer", "version": "1.0", "permissions": ["<all_urls>"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "print-style-viewer@example.com"}}}

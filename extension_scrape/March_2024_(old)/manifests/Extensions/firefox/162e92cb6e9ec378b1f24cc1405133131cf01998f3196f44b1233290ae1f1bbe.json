@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GeeksForGeeks Popup Blocker", "version": "1.0.0", "description": "Removes the annoying login modal/popup on geeksforgeeks.org", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.geeksforgeeks.org/*"], "js": ["script.js"]}], "browser_specific_settings": {"gecko": {"id": "{32c28757-c7fe-4d22-84ac-7fa3c2430a7a}"}}}

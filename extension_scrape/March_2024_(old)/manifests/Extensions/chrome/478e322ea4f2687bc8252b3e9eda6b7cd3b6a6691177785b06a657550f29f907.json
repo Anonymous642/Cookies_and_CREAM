@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Tab Move To Side Screen", "description": "Moving tabs with a shortcut.", "version": "1.2", "manifest_version": 3, "background": {"service_worker": "background.js"}, "commands": {"move": {"suggested_key": "Alt+M", "description": "Move Tab"}}}

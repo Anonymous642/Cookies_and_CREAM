@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Trello Card Numbers", "description": "Show Card Numbers on Trello Cards", "version": "0.1", "content_scripts": [{"css": ["CardNumber.css"], "matches": ["https://trello.com/b/*"]}]}

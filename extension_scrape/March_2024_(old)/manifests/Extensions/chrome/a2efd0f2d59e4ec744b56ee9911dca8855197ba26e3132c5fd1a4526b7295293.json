@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "YouTube Infinite Play", "version": "1.0", "description": "Automatically scrolls YouTube every 20 minutes.", "permissions": [], "action": {"default_icon": "icon.png"}, "content_scripts": [{"matches": ["*://www.youtube.com/*"], "js": ["content.js"]}]}

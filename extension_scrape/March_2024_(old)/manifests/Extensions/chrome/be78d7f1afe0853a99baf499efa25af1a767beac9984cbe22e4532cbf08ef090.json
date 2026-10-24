@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ggyNote", "version": "0.0.6", "incognito": "split", "page_action": {"default_icon": "icon/logo_128.png", "default_title": "ggyNote", "default_popup": "menu/main.html"}, "background": {"scripts": ["background.js"]}, "permissions": ["storage"]}

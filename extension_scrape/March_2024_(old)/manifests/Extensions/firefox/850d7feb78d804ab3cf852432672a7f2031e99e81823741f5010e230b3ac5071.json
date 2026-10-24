@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Unpromote Twitter", "version": "1.2", "description": "Removes promoted tweets from the Twitter timeline.", "icons": {"48": "icons/icon48.png"}, "permissions": ["*://twitter.com/*"], "background": {"scripts": ["unsponsorTwitterBackground.js"]}}

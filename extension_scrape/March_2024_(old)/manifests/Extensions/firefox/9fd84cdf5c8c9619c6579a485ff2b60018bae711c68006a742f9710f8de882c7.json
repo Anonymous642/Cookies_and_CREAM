@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Google CSE Link Controller", "version": "1.0", "description": "Make Google Custom Search Engine stop opening links in new tabs.", "content_scripts": [{"matches": ["*://cse.google.com/*"], "js": ["unfucker.js"]}], "browser_specific_settings": {"gecko": {"id": "{45ded485-8191-477c-9c31-bbc9040200f2}"}}}

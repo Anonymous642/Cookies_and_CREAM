@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Fulgurator", "description": "Link-Manager Chrome App", "version": "0.0.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "permissions": [{"fileSystem": ["write", "retainEntries", "directory"]}, "storage", "fileSystem", "unlimitedStorage"], "icons": {"128": "icon_128.png"}}

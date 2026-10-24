@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Random query", "version": "1.1", "description": "Adds a random query string to the url", "background": {"scripts": ["scripts/background.js"], "persistent": false}, "permissions": ["tabs"], "browser_action": {"default_icon": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}}}

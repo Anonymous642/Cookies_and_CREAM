@@ -1,0 +1,1 @@
+{"name": "Aqua Time", "version": "1.0.0", "short_name": "Aqua", "description": "\u5927\u5929\u4f7f\u3042\u304f\u3042", "manifest_version": 2, "chrome_url_overrides": {"newtab": "index.html"}, "icons": {"16": "logo/16.png", "32": "logo/32.png", "48": "logo/48.png", "128": "logo/128.png"}}

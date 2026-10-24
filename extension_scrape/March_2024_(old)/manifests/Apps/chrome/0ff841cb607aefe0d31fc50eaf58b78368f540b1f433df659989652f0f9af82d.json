@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "author": "Daniel Herr", "app": {"background": {"scripts": ["background.js"]}}, "description": "Handles .url files on Chrome OS.", "file_handlers": {"url": {"extensions": ["url"]}}, "icons": {"128": "icon.png"}, "name": "URL File Opener", "permissions": ["browser"], "version": "1"}

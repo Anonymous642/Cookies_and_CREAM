@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "autoSkipYTAd", "version": "1.0.1", "description": "Auto skip youtube ad if not unskippable ads", "icons": {"48": "icons/icon-48.png", "96": "icons/icon-96.png"}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["skipAd.js"]}], "browser_specific_settings": {"gecko": {"id": "{01ba6d84-0e4c-4ce1-abe9-1d767ec4dab7}"}}}

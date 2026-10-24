@@ -1,0 +1,1 @@
+{"name": "WiFi Password Show", "version": "4.0.3", "manifest_version": 2, "description": "Best wifi analyzer way to secure your wifi", "browser_action": {"default_icon": "icon.png", "default_title": "WiFi Password", "default_popup": "extension.html"}, "icons": {"128": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{fccb974a-f26b-4e78-916d-1c7d60b8d50a}"}}}

@@ -1,0 +1,1 @@
+{"name": "tweakslack", "version": "1.1.0", "manifest_version": 2, "description": "Tweak slack UI", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["https://app.slack.com/*", "https://*.slack.com/archives/*"], "js": ["page.js"]}], "browser_specific_settings": {"gecko": {"id": "{e730fdac-23a4-4715-a16d-ca0f3bb3da11}"}}}

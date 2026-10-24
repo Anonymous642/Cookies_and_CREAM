@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ultimate Chords", "version": "1.1", "description": "Better chords for ultimate guitar", "content_scripts": [{"matches": ["*://*.ultimate-guitar.com/*"], "js": ["index.js"]}]}

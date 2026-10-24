@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "PrintTab", "description": "Opens up a new tab at print.refined", "version": "1.0", "action": {"default_popup": "print.html", "default_icon": "logo.png"}, "chrome_url_overrides": {"newtab": "print_redirect.html"}}

@@ -1,0 +1,1 @@
+{"content_scripts": [{"matches": ["https://www.youtube.com/*"], "js": ["jquery.js", "JSParser.js", "annotationless.js"]}], "description": "Youtube without annotations!", "icons": {"128": "icon.png"}, "manifest_version": 2, "name": "YoutubeAnnotationLess", "update_url": "https://clients2.google.com/service/update2/crx", "version": "1.3"}

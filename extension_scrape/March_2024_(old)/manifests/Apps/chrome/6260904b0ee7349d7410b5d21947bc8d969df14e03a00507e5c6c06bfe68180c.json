@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Assassin Run", "description": "Collect coins. Avoid guards. Kill targets.", "version": "1.1.2", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "sLogo16.png", "128": "sLogo128.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Mrush Tools", "version": "1.1", "description": "Adds a counter for mrush.", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["http://mrush.pl/*"], "js": ["main.js"]}]}

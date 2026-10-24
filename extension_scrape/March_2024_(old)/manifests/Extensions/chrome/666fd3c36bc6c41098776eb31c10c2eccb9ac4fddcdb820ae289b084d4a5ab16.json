@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "sendme", "version": "1.1", "description": "generates QR code based on your URL", "permissions": ["activeTab"], "browser_action": {"default_title": "sendme", "default_icon": "qrcode.png", "default_popup": "index.html"}, "manifest_version": 2}

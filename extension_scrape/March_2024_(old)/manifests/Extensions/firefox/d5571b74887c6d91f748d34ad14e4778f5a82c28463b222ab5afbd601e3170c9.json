@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "OverflowBanner", "version": "1.0", "description": "Removes the stackoverflow js-consent-banner automatically", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.stackoverflow.com/*"], "js": ["banner.js"]}]}

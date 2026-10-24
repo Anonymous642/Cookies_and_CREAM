@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "version": "1.0", "name": "Go Diagram player for 'Life in 19x19'", "description": "Add a previous and next button to go diagrams on lifein19x19.com", "content_scripts": [{"matches": ["http://www.lifein19x19.com/forum/*"], "js": ["script.js"]}]}

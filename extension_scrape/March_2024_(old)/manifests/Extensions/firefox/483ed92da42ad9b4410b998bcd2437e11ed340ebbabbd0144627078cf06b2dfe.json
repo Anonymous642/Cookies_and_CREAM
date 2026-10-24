@@ -1,0 +1,1 @@
+{"name": "TickTasksApp", "description": "Organize your life with an app", "version": "1.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"launch": {"web_url": "http://159.65.39.115/integrate/"}}}

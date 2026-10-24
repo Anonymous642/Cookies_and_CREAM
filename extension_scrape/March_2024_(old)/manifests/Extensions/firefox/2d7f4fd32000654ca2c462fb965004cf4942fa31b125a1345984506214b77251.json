@@ -1,0 +1,1 @@
+{"description": "Corrects every page wich uses the German Word Thermik in a wrong way", "manifest_version": 2, "name": "BallerThermik", "version": "1.4", "homepage_url": "https://www.glowingghost.de", "content_scripts": [{"matches": ["*://*.dhv.de/*"], "js": ["ballerthermik.js"]}]}

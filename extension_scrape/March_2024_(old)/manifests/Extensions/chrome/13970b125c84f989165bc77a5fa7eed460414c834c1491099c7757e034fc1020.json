@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "ABsinger Extension Twitch", "version": "1.0", "description": "L'extention ABsinger Twitch Vous informe si il y a un live en direct", "browser_action": {"default_popup": "index.html"}, "icons": {"64": "img/Igreen.png"}, "background": {"scripts": ["jquery.js", "background.js"]}}

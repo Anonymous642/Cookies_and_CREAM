@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "To-Do List", "description": "Todo-list to crush your daily goals", "version": "1.0.0", "icons": {"128": "logo-128.png"}, "browser_action": {"default_icon": "logo-19.png", "default_popup": "popup.html"}, "permissions": ["activeTab"]}

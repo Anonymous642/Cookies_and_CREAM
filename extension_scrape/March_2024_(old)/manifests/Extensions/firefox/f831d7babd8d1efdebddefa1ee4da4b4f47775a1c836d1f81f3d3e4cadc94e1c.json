@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Restrict Access", "version": "1.0", "description": "A Firefox extension to restrict access to non-bookmarked URLs.", "background": {"scripts": ["background.js"]}, "permissions": ["webRequest", "webRequestBlocking", "bookmarks", "<all_urls>"], "browser_specific_settings": {"gecko": {"id": "{0c87fb03-c71e-44d2-b3e1-3c84fec26bc2}"}}}

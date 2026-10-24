@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "URL to QRCode", "version": "1.0", "description": "Convert URL in the Current tab to QR code to easy open in your mobile", "browser_action": {"default_icon": "img/logo.png", "default_title": "URL to QR", "default_popup": "index.html"}, "permissions": ["tabs"]}

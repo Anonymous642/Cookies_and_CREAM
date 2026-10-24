@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Translator! ", "description": "This addon simplifies the task of going to Google Translator Website and typing out the stuff. Instead, download this ultra-light extension which makes your world easier to translate to multiple languages.", "version": "2.0", "permissions": ["contextMenus"], "background": {"scripts": ["script.js"]}}

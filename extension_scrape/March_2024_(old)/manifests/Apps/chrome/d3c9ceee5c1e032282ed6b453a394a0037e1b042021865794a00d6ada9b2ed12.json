@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "TugaTech", "description": "Acesso rapido ao TugaTech", "manifest_version": 2, "version": "1.0", "icons": {"128": "tugatechicone.png"}, "app": {"urls": ["http://tugatech.com.pt"], "launch": {"web_url": "http://tugatech.com.pt"}}}

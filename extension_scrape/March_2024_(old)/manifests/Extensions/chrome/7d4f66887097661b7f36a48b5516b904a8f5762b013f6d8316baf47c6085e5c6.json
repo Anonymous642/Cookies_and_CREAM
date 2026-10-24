@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "FindYourTabs", "description": "Enter `tab` to search tab in your opened tab", "version": "0.2", "background": {"scripts": ["background.js"]}, "omnibox": {"keyword": "tab"}, "manifest_version": 2, "permissions": ["tabs"]}

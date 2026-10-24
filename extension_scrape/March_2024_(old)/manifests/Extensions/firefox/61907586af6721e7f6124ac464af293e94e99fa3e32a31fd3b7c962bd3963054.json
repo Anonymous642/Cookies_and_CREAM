@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "I Hate Podcasts", "version": "1.2", "description": "Removes Spotify Podcast Section on the home page, kinda scuffed", "icons": {"48": "icons/48.png"}, "content_scripts": [{"matches": ["*://*.spotify.com/*"], "js": ["presto.js"]}], "browser_specific_settings": {"gecko": {"id": "john@johnson.com"}}}

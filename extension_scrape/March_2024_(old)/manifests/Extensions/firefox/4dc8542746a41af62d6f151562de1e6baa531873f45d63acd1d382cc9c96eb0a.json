@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Netacad for you", "version": "1.1", "description": "Change soso", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.netacad.com/*"], "js": ["borderify.js"]}]}

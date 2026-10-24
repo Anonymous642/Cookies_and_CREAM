@@ -1,0 +1,1 @@
+{"name": "MA Full Screen2", "description": "A fullscreen add-on", "manifest_version": 2, "version": "1.0.1", "icons": {"32": "icon/icon32.png", "64": "icon/icon64.png"}, "author": "MicroAd Inc.", "background": {"scripts": ["background.js"]}}

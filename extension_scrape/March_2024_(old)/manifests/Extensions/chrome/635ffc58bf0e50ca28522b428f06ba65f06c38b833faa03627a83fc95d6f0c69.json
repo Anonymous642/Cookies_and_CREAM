@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "LinkedIn Feed Blocker", "version": "1.0.2", "description": "Removes the annoying LinkedIn Feed", "author": "contact@jasonlamb.org", "content_scripts": [{"matches": ["https://*.linkedin.com/feed/"], "css": ["style.css"]}]}

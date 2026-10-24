@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Gescobinho", "version": "1.5", "description": "Gescobinho, seu fiel amiguinho.", "author": "Calmf", "permissions": ["activeTab"], "icons": {"48": "icons/bug-48.png"}, "web_accessible_resources": ["img/bug.gif", "img/name.png", "CalmfPet.css"], "browser_action": {}, "content_scripts": [{"matches": ["*://*/*"], "js": ["CalmfPet.js"]}]}

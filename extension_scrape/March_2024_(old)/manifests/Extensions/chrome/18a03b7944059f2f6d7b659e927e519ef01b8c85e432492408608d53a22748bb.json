@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "RPC Network Inspector", "short_name": "RPC Inspector", "description": "RPC network inspector", "version": "1.0.2", "permissions": ["devTools"], "devtools_page": "devtools.html"}

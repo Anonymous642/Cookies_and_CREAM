@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Penguins Galore!", "version": "0.1", "manifest_version": 2, "web_accessible_resources": ["penguins/*.jpg"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["penguins.js"]}]}

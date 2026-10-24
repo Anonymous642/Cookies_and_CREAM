@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "New Tab Customizer", "author": "//Rman", "version": "1.4.0", "icons": {"48": "ico.png"}, "description": "new tab is not boring any more", "chrome_url_overrides": {"newtab": "index.html"}, "permissions": ["search", "storage"], "browser_specific_settings": {"gecko": {"id": "{31c651e8-cea4-4616-8f3c-7055b038755a}"}}}

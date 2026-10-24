@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.0.3", "name": "__MSG_extensionName__", "description": "__MSG_extensionDescription__", "default_locale": "en", "icons": {"48": "icons/calendar-48.png", "96": "icons/calendar-96.png"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icons/calendar-32.png"}}

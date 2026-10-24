@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Reddit url changer", "version": "1.0.1", "description": "Change any Reddit url to the old version!", "manifest_version": 2, "background": {"scripts": ["script.js"], "persistent": false}, "icons": {"16": "icon-1.png", "48": "icon-2.png", "128": "icon-3.png"}, "permissions": ["tabs"]}

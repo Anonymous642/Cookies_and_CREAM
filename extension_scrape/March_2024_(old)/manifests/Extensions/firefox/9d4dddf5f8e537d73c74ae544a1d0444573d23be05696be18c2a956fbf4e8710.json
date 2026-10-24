@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GSEFE", "version": "1.0", "description": "Extracts search results from Google Scholar", "icons": {"48": "icons/GSEFE-48.png", "96": "icons/GSEFE-96.png"}, "content_scripts": [{"matches": ["*://*.scholar.google.com/*"], "js": ["GSEFE.js"]}], "applications": {"gecko": {"id": "a10554@iscte-iul.pt"}}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Macron - Pr\u00e9sident des riches", "description": "Remplace Macron par des symboles mon\u00e9taires", "version": "1.3", "icons": {"413": "icons/icon.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["./substitute.js"]}]}

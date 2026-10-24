@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "PortSIP VOIP SDK Plugin", "description": "PortSIP VoIP SDK Plugin.", "version": "8.2.3", "plugins": [{"path": "plugins/nportsip.dll", "public": true}, {"path": "plugins/npxmpp.dll", "public": true}, {"path": "plugins/npwebvideowindow.dll", "public": true}]}

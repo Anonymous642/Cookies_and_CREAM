@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "youtube_popup_mode", "version": "2.0", "description": "Auto reload youtube video page to popup mode, and play video automatically.", "icons": {}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["youtube_popup_mode.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Kahoot Name", "version": "1.0", "description": "Make a longer name in Kahoot!", "content_scripts": [{"matches": ["https://kahoot.it/*"], "js": ["main.js"]}], "icons": {"48": "icon.png", "96": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{51d7e474-cd2f-41cf-bf57-d0c07ab7f675}"}}}

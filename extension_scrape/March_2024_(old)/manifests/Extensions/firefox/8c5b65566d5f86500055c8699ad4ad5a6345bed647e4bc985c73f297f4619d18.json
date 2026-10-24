@@ -1,0 +1,1 @@
+{"description": "This firefox extension enables screen capturing support in Firefox for https://etutorium.com pages", "manifest_version": 2, "name": "etutorium-screen-capturing", "version": "1.4", "homepage_url": "https://etutorium.com", "icons": {"48": "icons/displays-48.png"}, "content_scripts": [{"matches": ["https://*.etutorium.com/*"], "js": ["screen-capture.js"]}]}

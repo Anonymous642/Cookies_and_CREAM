@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GUTS", "version": "1.2", "description": "Web extension that helps you avoid distraction on the Internet.", "icons": {}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["guts.js"]}], "options_ui": {"page": "settings.html"}, "permissions": ["storage"], "applications": {"gecko": {"id": "guts@example.com", "strict_min_version": "42.0"}}}

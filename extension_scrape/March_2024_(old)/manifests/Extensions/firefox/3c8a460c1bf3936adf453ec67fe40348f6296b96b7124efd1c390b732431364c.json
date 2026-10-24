@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Comment Locator", "version": "1.1", "author": "Rob Hoelz", "homepage_url": "https://github.com/hoelzro/fx-comment-locator", "description": "Adds a marker next to the scrollbar indicating how far down on the page the comments are", "content_scripts": [{"matches": ["<all_urls>"], "js": ["comment-locator.js"]}]}

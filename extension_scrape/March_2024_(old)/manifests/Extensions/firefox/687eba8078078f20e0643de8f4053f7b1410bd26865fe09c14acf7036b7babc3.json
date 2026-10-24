@@ -1,0 +1,1 @@
+{"description": "Opens a popup with mixcloud", "manifest_version": 2, "name": "MxCldPpp", "version": "1.0", "icons": {"32": "icons/page-32.png"}, "background": {"scripts": ["mxcld.js"]}, "browser_action": {"default_icon": "icons/page-32.png"}}

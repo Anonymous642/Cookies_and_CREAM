@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AumCharmHelper", "version": "1.0", "description": "Add-on qui enregistre les visites et les charmes que vous faites sur Adopte Un Mec. N'est utile qu'aux hommes cherchant une femme", "icons": {"48": "icons/border-48.png"}, "permissions": ["storage"], "content_scripts": [{"matches": ["*://www.adopteunmec.com/profile/*"], "js": ["ach.js"]}]}

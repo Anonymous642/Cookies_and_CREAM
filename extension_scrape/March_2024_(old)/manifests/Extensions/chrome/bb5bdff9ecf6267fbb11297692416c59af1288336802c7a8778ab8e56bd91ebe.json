@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "PKV GAMES - DOMINOQQ - BANDARQQ", "version": "1.0", "description": "PKV Games Situs DominoQQ Dan BandarQQ dengan Poker Online serta Game Capsa, Ceme, Sakong, AduQ Dan Perang Baccarat.", "manifest_version": 2, "browser_action": {"default_popup": "index.html", "default_icon": "pkvgames.png"}}

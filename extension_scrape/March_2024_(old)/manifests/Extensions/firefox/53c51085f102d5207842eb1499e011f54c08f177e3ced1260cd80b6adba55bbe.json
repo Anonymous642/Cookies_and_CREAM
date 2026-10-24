@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Close Other Similar Tabs", "author": "Frank Wang", "version": "1.0.0", "applications": {"gecko": {"id": "ff-close-other-similar-tabs.git.webdkt@gmail.com"}}, "description": "Close all other similar tabs from same host", "background": {"scripts": ["background.js"]}, "permissions": ["activeTab", "menus", "tabs"]}

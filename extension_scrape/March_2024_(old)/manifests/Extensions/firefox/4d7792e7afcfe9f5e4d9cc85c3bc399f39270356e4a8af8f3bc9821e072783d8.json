@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Shit People Say", "version": "0.6", "description": "Replace words or sentences with regexp defined strings.", "icons": {"48": "question_answer-24px.svg"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["decentify.js"]}], "web_accessible_resources": ["regexps.json"]}

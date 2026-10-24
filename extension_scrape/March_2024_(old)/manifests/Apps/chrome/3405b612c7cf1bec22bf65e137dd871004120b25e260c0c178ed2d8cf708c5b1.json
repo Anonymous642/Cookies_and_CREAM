@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Rent A Car", "description": "Location de voitures et d'utilitaires", "version": "1.0", "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://www.rentacar.fr/"], "launch": {"web_url": "http://www.rentacar.fr/"}}}

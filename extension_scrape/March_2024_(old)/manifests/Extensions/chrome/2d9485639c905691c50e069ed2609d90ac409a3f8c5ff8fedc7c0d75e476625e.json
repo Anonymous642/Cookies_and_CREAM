@@ -1,0 +1,1 @@
+{"chrome_url_overrides": {"newtab": "index.html"}, "description": "Make quick notes in a new Chrome tab.", "icons": {"16": "icons8-Edit-16.png", "48": "icons8-Edit-48.png", "128": "icons8-Edit-128.png"}, "manifest_version": 3, "name": "TabNotes", "permissions": ["storage"], "update_url": "https://clients2.google.com/service/update2/crx", "version": "2.2"}

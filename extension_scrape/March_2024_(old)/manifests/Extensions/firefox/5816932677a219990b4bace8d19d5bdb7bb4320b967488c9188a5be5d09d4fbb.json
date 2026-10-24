@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "YoShows", "version": "3.0.1", "description": "", "content_scripts": [{"matches": ["*://*.myshows.me/view/*"], "js": ["init.js"]}], "permissions": ["*://*.myshows.me/*", "*://*.bhcesh.me/*", "webRequest"], "browser_specific_settings": {"gecko": {"id": "{9fdc305d-9c75-4d89-ada8-4713c89673e9}"}}}

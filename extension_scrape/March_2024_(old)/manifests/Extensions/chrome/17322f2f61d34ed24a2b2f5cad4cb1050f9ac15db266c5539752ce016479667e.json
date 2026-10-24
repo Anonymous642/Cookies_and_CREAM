@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Takealot-Graphs", "version": "0.01", "description": "Takealot graphs", "content_scripts": [{"matches": ["https://www.takealot.com/wishlist/*/detail/*", "https://www.takealot.com/cart"], "js": ["jquery-3.6.0.min.js", "contentScript.js"]}], "manifest_version": 3}

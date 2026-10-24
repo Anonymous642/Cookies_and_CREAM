@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "PbMart Notification", "description": "Working of chrome.gcm and Google Cloud Messaging.", "version": "0.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["gcm"], "icons": {"16": "logo-16.png", "128": "logo-128.png"}, "offline_enabled": false}

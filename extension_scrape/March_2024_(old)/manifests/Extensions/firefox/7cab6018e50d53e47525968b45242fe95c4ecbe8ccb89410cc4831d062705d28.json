@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Drudge-Fakenews", "version": "1.1.1", "description": "Enhances links on Drudge Report and neuters links to fake-news sites.", "icons": {"48": "icons/drudge-48.png", "96": "icons/drudge-96.png"}, "content_scripts": [{"matches": ["*://*.drudgereport.com/*"], "js": ["fakenews.js"], "css": ["style.css"]}], "web_accessible_resources": ["images/*.png"]}

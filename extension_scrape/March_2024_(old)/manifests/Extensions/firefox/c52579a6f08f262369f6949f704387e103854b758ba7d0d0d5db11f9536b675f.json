@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "GTQ to HKD", "version": "1.0", "description": "Convert GTQ to HKD", "browser_specific_settings": {"gecko": {"id": "gtq-to-hkd@example.com"}}}

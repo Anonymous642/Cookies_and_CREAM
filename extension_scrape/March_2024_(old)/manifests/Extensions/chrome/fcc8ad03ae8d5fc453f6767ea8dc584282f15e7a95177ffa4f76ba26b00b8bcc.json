@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Decider", "description": "An extension that helps with making decisions.", "version": "1.0", "action": {"default_title": "Decider", "default_popup": "menu.html"}, "icons": {"16": "decider16.png", "48": "decider48.png", "128": "decider128.png"}}

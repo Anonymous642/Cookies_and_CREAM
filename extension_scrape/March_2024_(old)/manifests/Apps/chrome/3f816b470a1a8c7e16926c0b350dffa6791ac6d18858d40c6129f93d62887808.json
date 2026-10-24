@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "HtmlSandbox", "description": "Easy to use environment for developing and testing html", "version": "0.1.0", "manifest_version": 2, "permissions": ["storage", "webview"], "app": {"background": {"scripts": ["background.js"]}}, "icons": {"128": "favicon.png"}}

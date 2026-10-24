@@ -1,0 +1,1 @@
+{"description": "SelectToDatalist boadica", "manifest_version": 2, "name": "select", "version": "1.1", "homepage_url": "https://github.com/DougKrioK/selectToDatalist-boadica", "icons": {"48": "icons/coruja.jpg"}, "content_scripts": [{"matches": ["*://*.boadica.com.br/*"], "js": ["select.js"]}]}

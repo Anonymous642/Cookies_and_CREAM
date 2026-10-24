@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "cookies_auto_click", "version": "1.2", "description": "Find and auto click on bonus cookies.", "icons": {"48": "icons/cookies-jar.png"}, "content_scripts": [{"matches": ["https://orteil.dashnet.org/cookieclicker/"], "js": ["cookies_auto_click.js"]}], "browser_specific_settings": {"gecko": {"id": "{8e589008-1d68-4fa3-946f-d99983365fa2}"}}}

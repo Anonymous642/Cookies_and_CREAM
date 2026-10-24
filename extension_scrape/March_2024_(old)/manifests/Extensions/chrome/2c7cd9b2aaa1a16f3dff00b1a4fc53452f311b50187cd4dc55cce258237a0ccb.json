@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "DMM English Rate", "version": "1.0.0", "manifest_version": 2, "description": "DMM English Rate Chrome Extension", "content_scripts": [{"matches": ["https://eikaiwa.dmm.com/certificate/"], "js": ["content.js"]}]}

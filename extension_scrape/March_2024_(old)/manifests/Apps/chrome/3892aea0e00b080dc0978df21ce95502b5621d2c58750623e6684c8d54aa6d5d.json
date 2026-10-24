@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "qbgrow quick business growth", "description": "start grow your business fast!, sit back, relax and watch your business grow", "version": "0.0.0.1", "icons": {"128": "icon_128.png"}, "app": {"launch": {"web_url": "http://www.qbgrow.com"}}}

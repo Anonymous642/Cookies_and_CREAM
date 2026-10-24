@@ -1,0 +1,1 @@
+{"description": "No Google Link Rewrite add-on.", "manifest_version": 2, "name": "No Google Link Rewrite (WebExtension)", "version": "1.2", "applications": {"gecko": {"id": "{5387082e-023b-46cf-a9ce-37c6c01cbcea}"}}, "permissions": ["tabs", "*://*/*"], "background": {"scripts": ["background.js"]}}

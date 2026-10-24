@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Study At Home", "version": "1.1", "description": "Download pdfs on your favourite study forum", "permissions": ["activeTab", "contextMenus", "scripting"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "sah@jan-dav.id", "strict_min_version": "48.0"}}}

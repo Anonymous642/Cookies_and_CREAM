@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "weclapp - ERP Handel", "description": "Complete cloud suite for your business", "version": "1.26.56", "manifest_version": 2, "app": {"urls": ["https://www.weclapp.com/de/cloud-erp-handel/"], "launch": {"web_url": "https://www.weclapp.com/de/login/"}}, "icons": {"128": "erp_128.png"}, "permissions": []}

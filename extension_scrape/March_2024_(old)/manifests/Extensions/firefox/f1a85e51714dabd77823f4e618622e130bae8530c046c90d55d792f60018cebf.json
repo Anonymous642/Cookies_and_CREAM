@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Giftu", "version": "1.0", "description": "Dodawaj wymarzone rzeczy do Giftu jednym klikni\u0119ciem", "permissions": ["activeTab"], "icons": {"36": "icons/page-36.png", "48": "icons/page-48.png"}, "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icons/page-16.png", "default_title": "Giftu"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BBEmotes", "version": "1.0", "description": "Adds Twitch emotes ( BetterTTV ) to Blackboard Collab", "icons": {"48": "icons/icon.png"}, "content_scripts": [{"matches": ["*://*.bbcollab.com/*"], "js": ["jquery.js", "twitch.js"]}], "web_accessible_resources": ["emotes/*"]}

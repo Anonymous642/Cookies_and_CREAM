@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TwitterAltText", "version": "0.3", "developer": {"name": "Davyd McColl", "url": "https://github.com/fluffynuts"}, "description": "Surfaces alt-text for images on Twitter", "icons": {"48": "icon-48.png", "96": "icon-96.png"}, "content_scripts": [{"matches": ["https://twitter.com/*", "https://mobile.twitter.com/*"], "js": ["main.js"]}]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ChangeRoleColor", "version": "2.0.0", "description": "Changes role color", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.discord.com/*"], "js": ["changecolor.js"]}], "browser_specific_settings": {"gecko": {"id": "{601fbac4-c0a8-4bd9-a665-d2fd19564ead}"}}}

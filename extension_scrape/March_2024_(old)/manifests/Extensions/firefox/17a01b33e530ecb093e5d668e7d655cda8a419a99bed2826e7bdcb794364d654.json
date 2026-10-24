@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "URLCompress", "version": "0.0.3", "description": "Little utility for URL shortening with is.gd.", "author": "Michal Tvrznik", "permissions": ["http://*/*", "https://*/*", "tabs"], "browser_action": {"default_popup": "popup.html", "default_icon": "icon.png"}, "icons": {"128": "icon.png"}, "applications": {"gecko": {"id": "URLCompress@xpi"}}}

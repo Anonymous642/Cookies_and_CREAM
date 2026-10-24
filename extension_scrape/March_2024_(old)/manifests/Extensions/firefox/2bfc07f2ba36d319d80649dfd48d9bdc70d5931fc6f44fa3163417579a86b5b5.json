@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Free Bookmarker", "description": "Categorizing of bookmarks.", "version": "1.25", "author": "Simon Kodu & Anton Seco", "browser_action": {"default_icon": "logo128.png", "default_popup": "popup.html", "default_title": "Free Bookmarker"}, "permissions": ["activeTab", "storage"], "browser_specific_settings": {"gecko": {"id": "simon.kodu@gmail.com"}}}

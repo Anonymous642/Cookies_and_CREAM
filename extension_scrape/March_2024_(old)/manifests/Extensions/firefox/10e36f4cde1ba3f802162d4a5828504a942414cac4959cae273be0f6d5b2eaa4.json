@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NASA Images", "version": "1.2", "description": "Watch some of the most recent NASA images.", "icons": {"48": "icons/nasa-48.png"}, "permissions": ["storage"], "background": {"scripts": ["bg/fetcher.js"]}, "browser_action": {"default_icon": "icons/nasa-32.png", "default_title": "NASA Images", "default_popup": "popup/popup.html"}}

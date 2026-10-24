@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_appName__", "description": "__MSG_appDesc__", "default_locale": "de", "version": "1.1", "icons": {"128": "128_icon.png"}, "app": {"urls": ["https://www.habbo.de/"], "launch": {"web_url": "https://www.habbo.de/?partner=chrme", "container": "tab"}}, "manifest_version": 2}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "version": "1.1", "name": "Goodreads Hidden Reviews", "icons": {"16": "16.png", "48": "48.png", "128": "128.png"}, "description": "Hide Reviews on Goodreads", "content_scripts": [{"matches": ["https://*.goodreads.com/*"], "css": ["style.css"]}], "action": {"default_popup": "index.html"}}

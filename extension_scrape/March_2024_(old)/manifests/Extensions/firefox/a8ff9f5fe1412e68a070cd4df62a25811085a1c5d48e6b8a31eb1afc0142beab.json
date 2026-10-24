@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TabMaster Pro", "version": "1.0", "description": "Boost Your Productivity with Tab Management", "icons": {"48": "logo.png"}, "browser_action": {"default_popup": "popup.html"}, "permissions": ["tabs"], "browser_specific_settings": {"gecko": {"id": "{006f8e4e-0ad7-4ef0-b155-70c3fee82576}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u65e0\u540d\u56fe\u4e66", "description": "\u56fe\u4e66\u641c\u7d22\u5e76\u4e0b\u8f7d", "version": "1.7", "manifest_version": 3, "homepage_url": "https://www.book123.info", "action": {"default_popup": "popup.html"}, "icons": {"128": "/imgs/logo.png"}}

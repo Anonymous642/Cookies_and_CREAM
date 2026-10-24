@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "__MSG_extensionName__", "description": "__MSG_extensionDescription__", "version": "1.0", "default_locale": "es", "permissions": ["activeTab", "contextMenus", "menus", "storage"], "icons": {"96": "icons/icono_96.png"}, "background": {"scripts": ["taringo.bg.js"]}, "content_scripts": [{"matches": ["*://*.taringa.net/*"], "js": ["taringo.js"]}]}

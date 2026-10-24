@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "TopKupony", "version": "0.9.1", "manifest_version": 2, "description": "Kupuj taniej z TopKuponami. Wtyczka z kodami rabatowymi do sklep\u00f3w internetowych.", "browser_action": {"default_icon": "icon.png", "default_popup": "chrome.html"}, "permissions": ["http://www.topkupony.pl/", "tabs"]}

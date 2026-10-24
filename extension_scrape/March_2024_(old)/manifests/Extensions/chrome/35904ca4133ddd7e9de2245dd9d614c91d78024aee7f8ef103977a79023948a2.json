@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Remove fbclid", "version": "0.1", "browser_action": {"default_icon": "removefbclid.png"}, "background": {"scripts": ["removefbclid.js"], "persistent": true}, "permissions": ["webRequest", "webRequestBlocking", "*://*/*fbclid=*"]}

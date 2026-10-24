@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "app": {"launch": {"local_path": "/index.html"}}, "description": "\u70b9\u51fb\u76f4\u8fbe1\u53f7\u5e97", "icons": {"16": "favicon.png", "128": "logo.png"}, "manifest_version": 2, "name": "1\u53f7\u5e97", "permissions": ["unlimitedStorage", "notifications"], "version": "2.0"}

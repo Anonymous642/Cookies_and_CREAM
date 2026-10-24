@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "Fallen London Sell All", "version": "1.0.1", "description": "Adds added funtionality to the Bazaar page for easier selling.", "browser_specific_settings": {"gecko": {"id": "algoprazolam@gmail.com"}}, "content_scripts": [{"matches": ["https://www.fallenlondon.com/*"], "js": ["sellall.js"]}], "permissions": ["activeTab", "declarativeContent"]}

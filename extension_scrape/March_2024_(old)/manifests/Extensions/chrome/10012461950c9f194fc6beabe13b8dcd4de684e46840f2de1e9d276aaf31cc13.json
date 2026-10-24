@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "version": "1.0", "name": "SCP Linker", "description": "\u30da\u30fc\u30b8\u5185\u306eSCP\u30ca\u30f3\u30d0\u30ea\u30f3\u30b0\u3092\u30ea\u30f3\u30af\u306b\u7f6e\u63db\u3057\u307e\u3059", "content_scripts": [{"matches": ["<all_urls>"], "js": ["scp_linker.js"]}]}

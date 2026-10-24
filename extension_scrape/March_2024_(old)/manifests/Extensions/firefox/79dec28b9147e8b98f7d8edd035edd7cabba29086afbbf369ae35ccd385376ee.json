@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TvTime Open in App Remover", "version": "1.0", "content_scripts": [{"matches": ["https://www.tvtime.com/*"], "js": ["openinapp-remover.js"]}]}

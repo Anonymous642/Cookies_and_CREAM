@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "BetterTicket", "version": "1.4", "description": "I ticket di Andromeda. Ma meglio", "content_scripts": [{"matches": ["*://csapp.info-systems.it/it/ticket/user/edit/*"], "js": ["borderify.js"]}, {"matches": ["*://csapp.info-systems.it/it/ticket/user/dashboard/"], "js": ["colorname.js"]}]}

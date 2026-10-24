@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Translate Filter", "version": "1.0", "description": "Removes source text and source name from Microsoft Translate output.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.translator.microsoft.com/*"], "js": ["optimise.js"]}], "browser_specific_settings": {"gecko": {"id": "{316a4962-9fc8-42e0-800a-fa31503529d7}"}}}

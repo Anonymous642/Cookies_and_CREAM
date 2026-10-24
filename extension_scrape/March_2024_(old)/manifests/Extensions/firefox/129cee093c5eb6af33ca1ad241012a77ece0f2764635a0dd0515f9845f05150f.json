@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Visually-Revealed", "version": "1.0", "description": "Visually reveals all elements with class 'sr-only' or 'visually-hidden' for quick testing/debugging.", "permissions": ["activeTab", "tabs"], "browser_action": {"default_icon": "icons/eye-off.svg"}, "background": {"scripts": ["visually-revealed.js"]}}

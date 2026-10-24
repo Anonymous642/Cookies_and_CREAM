@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "GitHub Code Collapse", "version": "0.1.0", "description": "Collapse code area on github.com to more directly access README files.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.github.com/*"], "js": ["index.js"]}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Elegantflyer - Free PSD Flyer Templates", "description": "The Largest Collection of Free PSD Flyer Templates on the Internet.", "version": "1.0.3", "icons": {"192": "logo_192.png"}, "action": {"default_icon": "logo.png", "default_popup": "popup.html"}}

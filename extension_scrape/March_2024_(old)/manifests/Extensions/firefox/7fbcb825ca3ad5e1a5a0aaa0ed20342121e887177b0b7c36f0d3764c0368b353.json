@@ -1,0 +1,1 @@
+{"name": "Pytube", "description": "Download Youtube Videos", "permissions": ["contextMenus", "activeTab", "downloads", "webRequest", "downloads.open"], "browser_specific_settings": {"gecko": {"id": "pytube@gmail.com"}}, "background": {"scripts": ["firefox.js"]}, "manifest_version": 3, "version": "0.0.2", "action": {"default_title": "Pytube"}}

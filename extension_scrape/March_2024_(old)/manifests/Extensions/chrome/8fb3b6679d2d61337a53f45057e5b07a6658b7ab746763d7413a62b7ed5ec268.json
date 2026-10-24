@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Sane Old Twitter", "short_name": "Sane Old Twitter", "version": "1.0.0", "description": "A Chrome extension that makes Twitter sane again.", "manifest_version": 3, "icons": {"48": "128.png"}, "content_scripts": [{"matches": ["https://twitter.com/*"], "js": ["script.js"], "css": ["styles.css"]}]}

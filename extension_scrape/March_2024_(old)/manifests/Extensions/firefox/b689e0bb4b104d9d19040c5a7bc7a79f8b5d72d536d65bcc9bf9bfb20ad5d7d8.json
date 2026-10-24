@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "HarlemShake", "version": "1.2", "description": "Makes website to do a Harlem Shake.", "icons": {"48": "icons/hs48.png"}, "background": {"scripts": ["background.js"]}, "permissions": ["activeTab"], "browser_action": {"default_icon": "icons/hs.png", "default_title": "HarlemShake"}}

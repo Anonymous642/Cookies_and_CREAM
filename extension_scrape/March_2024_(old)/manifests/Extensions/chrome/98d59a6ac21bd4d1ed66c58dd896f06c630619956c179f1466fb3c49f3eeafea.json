@@ -1,0 +1,1 @@
+{"browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}, "description": "Perfect calculates the age with the help of Year, Month, & Date of Birth.", "icons": {"64": "icon64.png", "128": "icon128.png"}, "manifest_version": 2, "name": "Pefect Age Calculator", "update_url": "https://clients2.google.com/service/update2/crx", "version": "2.4"}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Browser notes", "description": "Write notes in your browser.", "version": "1.0.1", "manifest_version": 3, "action": {"default_popup": "index.html", "default_icon": "browser-notes-128x128.png"}}

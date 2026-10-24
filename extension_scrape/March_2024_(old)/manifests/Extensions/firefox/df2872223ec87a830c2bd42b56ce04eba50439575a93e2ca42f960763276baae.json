@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Stack 'just enough'flow", "version": "1.0", "description": "Get rid of the sidebar in stack overflow and see code in the width it deserves.", "icons": {"48": "icon.png"}, "content_scripts": [{"matches": ["*://*.stackoverflow.com/*"], "js": ["widen.js"]}]}

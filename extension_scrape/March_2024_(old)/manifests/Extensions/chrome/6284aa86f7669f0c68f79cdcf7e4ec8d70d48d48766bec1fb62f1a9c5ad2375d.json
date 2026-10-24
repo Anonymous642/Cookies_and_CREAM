@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Robinhood Green/Red Theme Changer", "version": "1.0", "action": {"default_title": "be less poor", "default_popup": "popup.html"}, "icons": {"128": "moneyprinter.png"}, "content_scripts": [{"matches": ["https://*.robinhood.com/*"], "js": ["changer.js"]}]}

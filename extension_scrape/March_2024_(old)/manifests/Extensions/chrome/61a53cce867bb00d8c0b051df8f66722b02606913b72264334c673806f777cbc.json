@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "JS PlayScript", "version": "0.2", "description": "Dynamically load the PlayScript", "permissions": ["tabs", "<all_urls>"], "icons": {"16": "images/icon.png"}, "background": {"scripts": ["libs/jquery.min.js", "libs/chrome-promise.js", "background/background.js"]}}

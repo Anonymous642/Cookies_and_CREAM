@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Mermaid Solitiare", "version": "1.0.2.1", "manifest_version": 2, "icons": {"128": "icon.png"}, "app": {"urls": ["http://www.mermaidsolitaire.com/ChromeMermaidSolitaire.php"], "launch": {"web_url": "http://www.mermaidsolitaire.com/ChromeMermaidSolitaire.php"}}}

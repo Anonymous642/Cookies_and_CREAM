@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Min", "version": "2.0", "description": "Fiefox", "permissions": ["activeTab"], "content_scripts": [{"matches": ["<all_urls>"], "js": ["content_script.js"]}], "browser_specific_settings": {"gecko": {"id": "{b2e7f843-e1f8-421a-b304-02d33f6e88cf}"}}}

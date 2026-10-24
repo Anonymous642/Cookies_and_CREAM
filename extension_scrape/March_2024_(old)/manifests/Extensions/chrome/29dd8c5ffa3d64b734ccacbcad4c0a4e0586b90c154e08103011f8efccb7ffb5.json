@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "U.R.Links", "version": "2.2", "browser_action": {"default_icon": "URLinx_PNG.png"}, "icons": {"128": "128logo.png"}, "permissions": ["activeTab", "contextMenus", "storage"], "chrome_url_overrides": {"newtab": "urlinx.html"}}

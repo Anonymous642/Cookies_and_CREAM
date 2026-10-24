@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NoFB", "version": "1.0", "description": "Redirects you from facebook to mathisfun.com", "icons": {"48": "icons/nofb.png"}, "applications": {"gecko": {"id": "app2tejas@appsforfun"}}, "content_scripts": [{"matches": ["*://*.facebook.com/*", "*://*.twitter.com/*"], "js": ["nofb.js"]}]}

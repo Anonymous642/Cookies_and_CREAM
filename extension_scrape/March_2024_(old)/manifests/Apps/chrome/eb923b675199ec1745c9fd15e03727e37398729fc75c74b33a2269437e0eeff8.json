@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "InvoiceOcean", "version": "1.2", "icons": {"24": "invoiceocean24.png", "128": "invoiceocean128.png"}, "app": {"urls": ["http://invoiceocean.com/"], "launch": {"web_url": "http://invoiceocean.com/"}}}

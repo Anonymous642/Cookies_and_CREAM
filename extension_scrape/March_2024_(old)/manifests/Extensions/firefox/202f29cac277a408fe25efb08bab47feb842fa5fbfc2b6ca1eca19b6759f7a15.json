@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Old Tab Cleanup", "version": "1.1.0", "description": "Lists tabs older than a certain threshold and allows you to close them all with a click", "icons": {"48": "icons/border-48.png"}, "options_ui": {"page": "options.html"}, "permissions": ["tabs", "storage"], "browser_action": {"default_title": "Old Tab Cleanup", "default_popup": "tabs.html"}}

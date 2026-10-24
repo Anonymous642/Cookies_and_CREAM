@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Story Points", "version": "1.0.6", "description": "Story point estimates listed", "manifest_version": 3, "author": "Khomotso Zwane", "action": {"default_popup": "estimation-points.html", "default_title": "Latest Story Point estimation for sprints"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "background": {"scripts": ["bg.js"], "persistent": true}, "name": "Basic automatic tabs unloader", "permissions": ["tabs", "storage"], "version": "1.1", "applications": {"gecko": {"id": "Discarder@jagiello.it", "strict_min_version": "59.0"}}, "options_ui": {"page": "options.html"}}

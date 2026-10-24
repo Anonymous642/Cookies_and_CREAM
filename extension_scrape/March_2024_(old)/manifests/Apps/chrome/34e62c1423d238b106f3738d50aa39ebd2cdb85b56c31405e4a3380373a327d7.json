@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Fakturownia", "version": "1.2", "icons": {"24": "fakturownia24.png", "128": "fakturownia128.png"}, "app": {"urls": ["http://fakturownia.pl/"], "launch": {"web_url": "http://fakturownia.pl/"}}}

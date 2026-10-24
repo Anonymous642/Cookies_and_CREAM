@@ -1,0 +1,1 @@
+{"dictionaries": {"ru": "dictionaries/ru_RU.dic"}, "version": "0.4.3.1webext", "browser_specific_settings": {"gecko": {"id": "ru-aot@dictionaries.addons.mozilla.org"}}, "name": "Russian spellcheck dictionary (yo). Based on AOT.", "manifest_version": 2}

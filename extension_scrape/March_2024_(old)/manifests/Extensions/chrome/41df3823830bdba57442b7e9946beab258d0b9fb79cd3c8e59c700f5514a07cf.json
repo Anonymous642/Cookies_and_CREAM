@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Insulter & Stories", "version": "3.0", "manifest_version": 3, "permissions": [], "background": {"service_worker": "background.js"}, "icons": {"16": "img/notebook16.png", "64": "img/notebook64.png", "128": "img/notebook128.png"}, "action": {"default_popup": "popup.html"}}

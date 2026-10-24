@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "A Linker", "version": "1.1", "description": "Add '-a' to first part of host name in url link and open in a new tab", "permissions": ["contextMenus"], "background": {"scripts": ["background.js"], "persistent": true}, "icons": {"48": "icon.png"}, "manifest_version": 2}

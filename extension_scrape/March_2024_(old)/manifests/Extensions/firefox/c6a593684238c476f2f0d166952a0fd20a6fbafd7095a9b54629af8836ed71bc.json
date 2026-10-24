@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Fr-Fr Persian Style", "version": "0.2.0", "description": "Friend Feed RTL & Persian style", "content_scripts": [{"css": ["styles.css"], "matches": ["https://freefeed.net/*"]}], "permissions": ["https://freefeed.net/"], "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}}

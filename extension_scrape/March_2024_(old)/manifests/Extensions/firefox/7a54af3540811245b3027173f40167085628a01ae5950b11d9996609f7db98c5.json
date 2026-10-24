@@ -1,0 +1,1 @@
+{"applications": {"gecko": {"id": "cs@dictionaries.addons.mozilla.org"}}, "manifest_version": 2, "name": "\u010cesk\u00fd slovn\u00edk pro kontrolu pravopisu", "description": "Slovn\u00edk pro kontrolu pravopisu pro aplikace Mozilla", "version": "2.0", "author": "Mozilla.cz", "dictionaries": {"cs": "dictionaries/cs_CZ/cs_CZ.dic"}}

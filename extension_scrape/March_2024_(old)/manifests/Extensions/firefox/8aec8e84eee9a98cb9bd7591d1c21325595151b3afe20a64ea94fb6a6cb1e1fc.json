@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Bing2Google", "version": "1.7", "description": "Redirects searches from Bing to Google.", "content_scripts": [{"matches": ["*://*.bing.com/*search*"], "js": ["redirect.js"], "run_at": "document_start"}]}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "version": "0.0.1", "name": "my extension", "content_scripts": [{"matches": ["https://wesign4u.com/signing/*"], "js": ["script.js"]}]}

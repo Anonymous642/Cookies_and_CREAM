@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "SubnetMask", "version": "1.0", "description": "", "icons": {"16": "images/size16.png", "48": "images/size48.png", "128": "images/size128.png"}, "browser_action": {"default_popup": "subnetmask.html", "default_icon": "images/size48.png"}}

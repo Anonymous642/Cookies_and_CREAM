@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "KONO HAIR", "description": "Agende hor\u00e1rio com um profissional da Beleza ou Sa\u00fade. Ele pode ir ao seu hotel, evento, ...", "version": "0.0.0.1", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}}, "icons": {"16": "konohair-16.png", "128": "konohair-128.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Permission Clean Link Clipper", "version": "1.1.1", "description": "Permission Clean Link Clipper.", "manifest_version": 2, "permissions": ["activeTab"], "browser_action": {"default_popup": "popup.html", "default_icon": {"24": "images/file_copy_black_24dp.png"}}}

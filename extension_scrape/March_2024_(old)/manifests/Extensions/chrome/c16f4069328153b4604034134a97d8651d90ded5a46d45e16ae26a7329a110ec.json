@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Walkthru", "description": "A quick access extension to view and share your video walkthru", "version": "1.1", "action": {"default_title": "Walkthru", "default_popup": "js/index.html", "default_icon": "Walkthrutrans.png"}, "icons": {"128": "Walkthrutrans.png"}}

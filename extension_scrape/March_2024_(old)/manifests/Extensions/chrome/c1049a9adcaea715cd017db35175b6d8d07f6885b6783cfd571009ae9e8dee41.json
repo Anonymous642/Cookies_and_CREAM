@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "BusicMusic - Dice Roller", "version": "2.1", "description": "A simple extension that lets you roll up to 10 of any type of D&D dice at a time.", "manifest_version": 2, "browser_action": {"default_icon": "icon.png", "default_popup": "popup.html"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "version": "1.0.0.0", "name": "multiTab", "permissions": ["tabs", "contextMenus", "storage"], "background": {"scripts": ["background.js"], "persistent": true}}

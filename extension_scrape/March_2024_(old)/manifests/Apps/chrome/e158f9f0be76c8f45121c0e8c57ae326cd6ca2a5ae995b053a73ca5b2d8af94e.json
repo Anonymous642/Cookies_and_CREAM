@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "Ukulele Tuner", "version": "1.0.0.2", "manifest_version": 2, "icons": {"128": "ukulele_tuner_icon.png"}, "description": "Tune your Ukulele by Ear!", "app": {"urls": ["http://123ukuleletuner.com/?chromestore=1"], "launch": {"web_url": "http://123ukuleletuner.com/?chromestore=1"}}}

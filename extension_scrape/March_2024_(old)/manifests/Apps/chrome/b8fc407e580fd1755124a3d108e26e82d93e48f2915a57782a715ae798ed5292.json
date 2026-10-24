@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Kenn Export Limited", "description": "Kenn Export limited is a leading ", "version": "1.1", "icons": {"16": "kennexport16.png", "128": "kennexport128.png"}, "app": {"launch": {"web_url": "http://www.kennexport.com/"}}, "permissions": ["unlimitedStorage", "notifications"]}

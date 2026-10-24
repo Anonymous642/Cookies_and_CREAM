@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Mood Tracker", "description": "Simple mood tracker for daily use", "version": "0.5", "icons": {"128": "resources/icon.png"}, "permissions": ["notifications", "storage"], "action": {"default_popup": "main.html", "default_icon": "resources/icon.png"}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "description": "Random Toy Vehicles Backgrounds", "version": "4.3.5", "manifest_version": 3, "name": "ToyVehiclesNewTab", "background": {"service_worker": "background.bundle.js"}, "icons": {"34": "/icon-34.png", "128": "/icon-128.png"}, "chrome_url_overrides": {"newtab": "newtab.html"}}

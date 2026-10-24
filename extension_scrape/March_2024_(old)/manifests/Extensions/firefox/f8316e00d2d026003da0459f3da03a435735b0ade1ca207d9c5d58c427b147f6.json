@@ -1,0 +1,1 @@
+{"description": "Env\u00edo de Correos para Agendar Citas en el IFREO", "manifest_version": 2, "name": "ifreo", "version": "1.0", "homepage_url": "http://impulzo.com.mx/", "browser_action": {"default_title": "ifreo", "default_popup": "index.html"}, "content_scripts": [{"matches": ["<all_urls>"]}]}

@@ -1,0 +1,1 @@
+{"app": {"launch": {"web_url": "http://hiddenobjects.kooxpi.com/index.html"}, "urls": ["http://hiddenobjects.kooxpi.com/index.html"]}, "description": "Best free hidden object games!", "icons": {"128": "icon_HO_128.png"}, "manifest_version": 2, "name": "Hidden Object Games", "update_url": "http://clients2.google.com/service/update2/crx", "version": "1.0.1"}

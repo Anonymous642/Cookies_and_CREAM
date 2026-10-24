@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "AI to BS", "version": "1.1", "description": "Substitute certain overhyped programming terms with more accurate replacements", "content_scripts": [{"matches": ["*://*/*"], "js": ["content_script.js"]}], "browser_specific_settings": {"gecko": {"id": "{d9e53ed0-ff39-4fda-91ab-cd3d081d298c}"}}}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Ask Kagi FastGPT", "description": "Easily Ask Kagi FastGPT via google!", "version": "0.0.1", "manifest_version": 3, "content_scripts": [{"matches": ["*://*.google.com/*"], "js": ["content.js"], "run_at": "document_end"}], "permissions": []}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Better Enka Network.", "version": "0.0.1", "manifest_version": 3, "description": "Enhance Enka Network.", "content_scripts": [{"matches": ["https://enka.network/u/*"], "run_at": "document_idle", "js": ["content.js"]}], "permissions": []}

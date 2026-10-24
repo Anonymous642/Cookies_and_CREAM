@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "METRO Jornal", "description": "Acompanhe as principais noticias do Brasil e o Mundo - METRO", "version": "1.4", "manifest_version": 2, "icons": {"128": "metro-128.png"}, "app": {"urls": ["http://www.metrojornal.com.br/"], "launch": {"web_url": "http://www.metrojornal.com.br/"}}}

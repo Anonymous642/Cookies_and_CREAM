@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Crypto Track", "description": "Allows you to pick a crypto currency and a time interval, and the crypto currency price will refresh every time interval.", "version": "1.0.1", "action": {"default_popup": "index.html", "default_icon": "logo.jpg"}}

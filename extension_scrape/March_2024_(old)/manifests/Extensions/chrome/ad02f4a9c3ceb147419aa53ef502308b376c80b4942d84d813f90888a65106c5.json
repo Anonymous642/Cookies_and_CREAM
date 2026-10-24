@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "permissions": ["tabs", "http://*/*", "https://*/*"], "name": "Bundlll", "description": "This extension clips web pages so that you can add them to your organisation's bundlll boards", "version": "1.1", "background": {"page": "background.html"}, "browser_action": {"default_icon": "icon.png"}}

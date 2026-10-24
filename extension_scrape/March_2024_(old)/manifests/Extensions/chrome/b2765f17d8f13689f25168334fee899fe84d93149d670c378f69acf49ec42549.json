@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Drip Escalations Helper", "version": "0.0.2", "manifest_version": 3, "description": "A set of tools to help with escalations", "icons": {}, "default_locale": "en", "action": {"default_icon": "icons/drip-logomark-digital-black.png", "default_title": "Drip Escalations Helper", "default_popup": "index.html"}}

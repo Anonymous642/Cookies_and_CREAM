@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Reddit Portal", "version": "1.0", "description": "A simple shortcut to Reddit communities by typing \"r/\" in the browser URL", "icons": {"48": "icons/48.png"}, "permissions": ["activeTab"], "background": {"scripts": ["main.js"]}, "omnibox": {"keyword": "r/"}}

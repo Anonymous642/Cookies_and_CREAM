@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "__MSG_appName__", "description": "__MSG_appDesc__", "default_locale": "ja", "version": "0.1", "icons": {"16": "bin_16sq.png", "48": "bin_48sq.png", "128": "bin_128sq.png"}, "manifest_version": 2, "content_scripts": [{"matches": ["https://*.v-yoyaku.jp/*"], "css": ["highlight.css"]}]}

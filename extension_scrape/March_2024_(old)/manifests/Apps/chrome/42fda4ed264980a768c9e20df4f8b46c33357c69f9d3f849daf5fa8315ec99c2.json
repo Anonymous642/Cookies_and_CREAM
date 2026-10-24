@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "MojiLen", "version": "0.1", "description": "\u6587\u5b57\u6570\u3092\u30ab\u30a6\u30f3\u30c8\u3057\u307e\u3059\u3002", "icons": {"128": "icon/128.png"}, "app": {"background": {"scripts": ["js/event_page.js"]}}}

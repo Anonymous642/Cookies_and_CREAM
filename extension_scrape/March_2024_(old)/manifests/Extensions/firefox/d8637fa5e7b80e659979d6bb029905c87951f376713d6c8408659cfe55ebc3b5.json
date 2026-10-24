@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "TwitterTweetFilter_WebExt", "version": "1.4", "description": "Hide tweets including specified words. (WebExtension)", "content_scripts": [{"matches": ["https://twitter.com/*", "https://twitter.com/search?*"], "js": ["jquery-3.1.1.min.js", "contents.js"]}], "options_ui": {"page": "options.html"}, "permissions": ["storage", "tabs"]}

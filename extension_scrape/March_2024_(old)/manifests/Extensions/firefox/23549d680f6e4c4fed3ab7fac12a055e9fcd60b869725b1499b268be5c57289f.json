@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "All_I_See", "version": "1.0.0", "content_scripts": [{"matches": ["<all_urls>"], "js": ["Content.js"]}], "browser_specific_settings": {"gecko": {"id": "{f4ab7889-45f0-4e53-8835-3a4a68d9ab5d}"}}}

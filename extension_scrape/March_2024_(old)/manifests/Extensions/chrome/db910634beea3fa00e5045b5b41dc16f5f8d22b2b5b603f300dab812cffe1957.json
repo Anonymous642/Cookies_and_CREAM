@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Flag Guessing Game", "version": "1.2.1", "description": "Guess the country flag!", "icons": {"16": "icon.png", "32": "icon.png", "48": "icon.png", "128": "icon.png"}, "action": {"default_popup": "popup.html"}, "permissions": []}

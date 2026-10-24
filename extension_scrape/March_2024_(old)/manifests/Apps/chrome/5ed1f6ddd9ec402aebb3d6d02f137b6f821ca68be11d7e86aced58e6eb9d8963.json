@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "LiveRhino", "version": "1.5.0", "icons": {"128": "www/images/chrome-app-logo.png"}, "app": {"background": {"scripts": ["background.js"]}}, "permissions": ["storage", "<all_urls>", {"fileSystem": ["write", "directory"]}, "unlimitedStorage", "alwaysOnTopWindows", "webview"]}

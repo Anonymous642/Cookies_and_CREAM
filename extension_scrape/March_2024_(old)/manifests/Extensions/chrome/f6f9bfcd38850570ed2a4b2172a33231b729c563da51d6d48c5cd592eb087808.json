@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "aireply: Your Personalized Email Assistant", "description": "AI Email Generator.", "version": "1.0", "icons": {"48": "images/icon-48.png"}, "content_scripts": [{"matches": ["https://mail.google.com/*"], "js": ["index.js"]}]}

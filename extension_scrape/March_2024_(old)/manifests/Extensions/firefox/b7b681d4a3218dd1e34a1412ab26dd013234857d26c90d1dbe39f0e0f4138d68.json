@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Big Refresh Button", "description": "Easy to see button to refresh the current page.", "version": "1.0.0", "author": "mluc", "permissions": ["alarms"], "icons": {"300": "icons/refresh.svg"}, "browser_action": {"default_title": "Refresh Page", "default_icon": {"300": "icons/refresh.svg"}}, "background": {"scripts": ["background.js"]}}

@@ -1,0 +1,1 @@
+{"name": "Top Movies Links | Digital Content Online", "version": "1.3", "description": "Time-lapse videos as a background, Dare, and time at the right bottom corner, the search bar in a middle.", "permissions": ["topSites", "*://topmovieslinks.com/*"], "chrome_url_overrides": {"newtab": "newTab.html"}, "manifest_version": 2}

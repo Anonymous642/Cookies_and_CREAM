@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "ChromeReplace", "version": "1.0", "description": "Auto replace chinese to english in dictionary", "icons": {}, "permissions": ["storage"], "content_scripts": [{"js": ["content.js"], "matches": ["https://*/*", "http://*/*"]}], "action": {"default_popup": "popup.html"}}

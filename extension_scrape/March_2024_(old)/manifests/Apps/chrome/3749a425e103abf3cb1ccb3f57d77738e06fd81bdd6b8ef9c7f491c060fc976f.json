@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "iBingo", "description": "Sorteador de Bolas de Bingo Americano (75 bolas)", "version": "1.1.1", "icons": {"16": "appImg/016.png", "32": "appImg/032.png", "128": "appImg/128.png"}, "app": {"background": {"scripts": ["js/chrome.js"]}}, "permissions": [], "offline_enabled": true}

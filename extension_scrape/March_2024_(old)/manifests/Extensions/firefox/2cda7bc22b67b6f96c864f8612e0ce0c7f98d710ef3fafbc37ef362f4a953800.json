@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Video Keycombos Everywhere", "version": "1.0", "description": "Adds a context menu item to add key shortcuts to any video element", "background": {"scripts": ["main.js"]}, "permissions": ["menus", "activeTab"]}

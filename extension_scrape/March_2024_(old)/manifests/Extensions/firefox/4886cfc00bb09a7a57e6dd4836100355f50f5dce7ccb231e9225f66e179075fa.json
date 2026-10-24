@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "feiyu", "version": "1.1", "description": "The plug-in will be used at http://kwemobile.bceapp.com to assist in the quick filling of forms.", "icons": {"48": "icons/nh-icon.jpg"}, "content_scripts": [{"matches": ["*://*.bceapp.com/*"], "js": ["sessionalert.js"]}]}

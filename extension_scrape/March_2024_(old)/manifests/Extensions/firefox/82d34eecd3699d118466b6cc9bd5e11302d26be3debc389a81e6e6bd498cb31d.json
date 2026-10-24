@@ -1,0 +1,1 @@
+{"applications": {"gecko": {"id": "tab@womany.net", "strict_min_version": "54.0"}}, "manifest_version": 2, "name": "womany_tab", "version": "1.0.2", "description": "show random quote and hot articles when opening a new tab.", "icons": {"48": "womany_logo_300x300.png"}, "chrome_url_overrides": {"newtab": "quote.html"}, "permissions": ["https://api.womany.net/", "storage"]}

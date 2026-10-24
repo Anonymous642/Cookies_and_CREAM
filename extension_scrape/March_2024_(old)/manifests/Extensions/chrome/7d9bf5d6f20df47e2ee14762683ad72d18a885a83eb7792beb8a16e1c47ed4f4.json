@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "OpenTab URL Copy/Paste", "version": "1.0", "icons": {"16": "copyallurls-16_x_16.png", "48": "copyallurls-48_x_48.png", "128": "copyallurls-128_x_128.png"}, "action": {"default_popup": "popup.html"}, "permissions": ["tabs"], "background": {"service_worker": "background.js"}}

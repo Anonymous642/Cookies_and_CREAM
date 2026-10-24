@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Pasta for Sauce", "version": "1.0.0", "description": "SauceNAO fix that allows pasting images from clipboard into URL bar", "icons": {"96": "graphics/logo.png"}, "content_scripts": [{"matches": ["*://*.saucenao.com/*"], "js": ["combatfox.js"]}], "browser_specific_settings": {"gecko": {"id": "{6900bca2-51d1-41d7-89c5-2db263c70d2e}"}}}

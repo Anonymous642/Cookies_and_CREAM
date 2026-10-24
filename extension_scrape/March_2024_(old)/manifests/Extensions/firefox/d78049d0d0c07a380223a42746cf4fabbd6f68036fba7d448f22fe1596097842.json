@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Sans.", "version": "1.0", "description": "Makes you feel like a true boner", "permissions": ["activeTab"], "content_scripts": [{"matches": ["*://*/*"], "js": ["script.js"]}], "web_accessible_resources": ["voice_sans.mp3"], "browser_specific_settings": {"gecko": {"id": "{0255c5c0-35dd-43d7-b038-d40a5a1ed926}"}}}

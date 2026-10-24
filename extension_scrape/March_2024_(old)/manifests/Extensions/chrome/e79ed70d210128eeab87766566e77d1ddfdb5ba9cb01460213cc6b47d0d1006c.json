@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "Florida Man", "description": "Replaces 'Jeb Bush' and 'Marco Rubio' with 'Florida Man' and vice versa.", "version": "1.5.1", "content_scripts": [{"matches": ["<all_urls>"], "js": ["content_script.js"], "run_at": "document_start", "all_frames": true}]}

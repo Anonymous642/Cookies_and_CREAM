@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Denormalize", "version": "1.0", "description": "Replaces the phrase \u2018alt-right\u2019 with \u2018neo-Nazi,\u2019 because words matter.", "author": "elseloop", "content_scripts": [{"matches": ["*://*/*"], "js": ["content.js"], "run_at": "document_end"}]}

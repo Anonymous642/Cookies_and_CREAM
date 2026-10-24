@@ -1,0 +1,1 @@
+{"author": "getvb", "background": {"scripts": ["background.js"]}, "browser_action": {"default_icon": "icon.png", "default_title": "Pubg generator"}, "description": "Pubg generator", "icons": {"128": "icon.png"}, "manifest_version": 2, "name": "Pubg generator", "version": "1.1.1"}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 3, "name": "MapDeduce", "description": "Supercharge your productivity, streamline your workflow, and save time on document analysis, with MapDeduce", "version": "1.0", "action": {"default_icon": "favicon-16x16.png", "default_popup": "a.html"}, "permissions": ["tabs"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "youtubeFix", "version": "1.1", "description": "Fixes the youtube full screen scroll bar bug", "content_scripts": [{"matches": ["*://www.youtube.com/watch?v=*"], "js": ["script.js"]}]}

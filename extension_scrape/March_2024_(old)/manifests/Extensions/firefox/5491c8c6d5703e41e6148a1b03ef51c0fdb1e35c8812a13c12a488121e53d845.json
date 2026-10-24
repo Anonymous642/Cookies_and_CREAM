@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "LinkedIn Guest Browser", "version": "1.0", "description": "Removes pop-ups and allows you to scroll when viewing LinkedIn profiles without being logged in", "icons": {"48": "icons/LIGB-48.png"}, "content_scripts": [{"matches": ["*://*.linkedin.com/*"], "js": ["linkedin-remover.js"]}]}

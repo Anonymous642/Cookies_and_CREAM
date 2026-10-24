@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Motherfucking beautify", "version": "1.0.1", "permissions": ["activeTab", "contextMenus"], "background": {"scripts": ["background.js"]}}

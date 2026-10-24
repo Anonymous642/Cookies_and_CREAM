@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "VkIdUnlocker", "author": "kalaider", "version": "1.2", "description": "VkIdUnlocker shows real ID of the person", "icons": {"512": "logo.png"}, "background": {"scripts": ["background.js"]}, "content_scripts": [{"matches": ["*://vk.com/*"], "js": ["index.js"]}], "permissions": ["activeTab", "webRequest", "*://*.vk.com/*", "webNavigation"]}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Crunchyroll Reddit Button", "version": "1.0", "description": "Adds a button to crunchyroll video pages that lets you easily search for the episode on reddit.", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://*.crunchyroll.com/*"], "js": ["add.js"]}]}

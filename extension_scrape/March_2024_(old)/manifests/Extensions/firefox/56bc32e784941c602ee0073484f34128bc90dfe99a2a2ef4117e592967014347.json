@@ -1,0 +1,1 @@
+{"name": "NIFB Toolkit", "description": "Various NIFB related tools.", "version": "1.4.4", "manifest_version": 2, "browser_action": {"default_popup": "index.html", "default_icon": "icon.png"}, "browser_specific_settings": {"gecko": {"id": "{be25ee4f-6ac5-41ab-835c-80d043eef337}"}}}

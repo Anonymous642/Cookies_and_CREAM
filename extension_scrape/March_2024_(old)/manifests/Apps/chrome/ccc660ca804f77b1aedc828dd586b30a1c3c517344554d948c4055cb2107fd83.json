@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "manifest_version": 2, "name": "Cutters Lounge", "description": "Link to Cutters Lounge", "version": "1.0", "icons": {"128": "128.png"}, "app": {"urls": ["*://app.cutterslounge.de/"], "launch": {"web_url": "http://app.cutterslounge.de/"}}, "permissions": ["unlimitedStorage", "notifications"]}

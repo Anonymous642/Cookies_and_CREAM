@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Voice Controlled Yt", "version": "1.0.0", "description": "Voice control", "manifest_version": 3, "author": "Shubham Jain", "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["index.js"]}]}

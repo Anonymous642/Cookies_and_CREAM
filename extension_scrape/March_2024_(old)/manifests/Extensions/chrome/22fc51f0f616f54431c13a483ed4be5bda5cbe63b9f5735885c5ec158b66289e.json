@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": " Collab Language Detector", "version": "4.1.1", "description": "In this extension you can detect any language. you just put the text and click on detect language button", "action": {"default_icon": "asset/abc.png", "default_popup": "asset/popup.html"}, "manifest_version": 3}

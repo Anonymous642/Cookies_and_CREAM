@@ -1,0 +1,1 @@
+{"description": "Hide all w3schools results from query.", "manifest_version": 2, "name": "FckW3", "version": "1.4", "homepage_url": "https://github.com/heygema/fckw3", "icons": {"48": "icons/fckw3-48.png"}, "content_scripts": [{"matches": ["*://*.google.com/*", "*://*.duckduckgo.com/*"], "js": ["fckw3.js"]}]}

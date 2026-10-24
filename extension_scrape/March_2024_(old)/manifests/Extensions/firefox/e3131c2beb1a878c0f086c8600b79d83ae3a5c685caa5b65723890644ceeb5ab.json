@@ -1,0 +1,1 @@
+{"description": "A Dynamic Theme that changes the browser background color to the dominant color from the current website palette.", "manifest_version": 2, "name": "Chameleon Theme", "permissions": ["theme", "<all_urls>", "tabs"], "background": {"scripts": ["background.js", "vibrant.js"]}, "version": "2.1", "applications": {"gecko": {"strict_min_version": "55.0"}}}

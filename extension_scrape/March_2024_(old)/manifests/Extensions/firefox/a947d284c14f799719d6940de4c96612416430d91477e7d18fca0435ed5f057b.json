@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "NoHTTP", "version": "1.0.0", "description": "Redirect all HTTP sites to HTTPS for more security and privacy.", "content_scripts": [{"js": ["redir.js"], "matches": ["http://*/*"]}], "permissions": ["http://*/*"], "web_accessible_resources": ["redir.js"]}

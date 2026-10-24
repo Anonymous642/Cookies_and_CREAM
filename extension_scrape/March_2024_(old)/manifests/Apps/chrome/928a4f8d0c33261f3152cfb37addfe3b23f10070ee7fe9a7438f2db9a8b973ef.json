@@ -1,0 +1,1 @@
+{"app": {"launch": {"web_url": "http://alefteris.github.io/timerx3/"}}, "update_url": "https://clients2.google.com/service/update2/crx", "description": "TimerX3 is a simple cooking timer", "name": "TimerX3", "permissions": ["notifications"], "offline_enabled": true, "icons": {"128": "icon-chrome-128.png"}, "manifest_version": 2, "version": "0.0.1"}

@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Did You Learn", "version": "0.1", "manifest_version": 3, "background": {"service_worker": "background.js"}, "host_permissions": ["https://us-central1-did-you-learn.cloudfunctions.net/*"], "permissions": ["scripting", "activeTab"], "action": {"default_popup": "popup.html"}}

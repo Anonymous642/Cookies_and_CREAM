@@ -1,0 +1,1 @@
+{"manifest_version": 2, "version": "1.0", "name": "JAC - JIRA Acceptance Criteria Width Changer", "description": "Displays acceptance criteria of your JIRA issue with proper width.", "content_scripts": [{"matches": ["https://mhsprod.jira.com/*"], "run_at": "document_end", "js": ["jac.js"]}], "browser_action": {"default_icon": "jac.png"}}

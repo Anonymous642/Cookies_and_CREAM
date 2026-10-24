@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Daily History Event", "version": "2.0.0", "description": "Giving you a random history event of the day!", "manifest_version": 3, "author": "Yotam Shekrel", "action": {"default_popup": "index.html", "default_title": "Daily History Event", "default_icon": "icon.png"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Ad Skipper and Closer for Youtube", "version": "0.1", "description": "Skips and Closes On-screen Ad so you don't have to!", "icons": {}, "content_scripts": [{"matches": ["*://*.youtube.com/*"], "js": ["modify.js"], "run_at": "document_end", "all_frames": true}]}

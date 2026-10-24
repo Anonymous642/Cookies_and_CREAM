@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "\u6211\u7684\u9664\u5e7f\u544a\u63d2\u4ef6", "version": "1.4", "description": "\u53bb\u9664www.ipoi.cc\u7684\u5e7f\u544a", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://www.ipoi.cc/*"], "js": ["crisen.js"]}], "applications": {"gecko": {"id": "1213982008@qq.com"}}}

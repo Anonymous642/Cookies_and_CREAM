@@ -1,0 +1,1 @@
+{"update_url": "http://clients2.google.com/service/update2/crx", "name": "AdresGezgini", "description": "AdresGezgini, Google Adwords Reklam Sertifikal\u0131 \u0130\u015f Orta\u011f\u0131", "version": "1.0.2", "manifest_version": 2, "app": {"urls": ["http://adresgezgini.com/"], "launch": {"web_url": "http://adresgezgini.com/"}}, "icons": {"128": "icon_128.png"}}

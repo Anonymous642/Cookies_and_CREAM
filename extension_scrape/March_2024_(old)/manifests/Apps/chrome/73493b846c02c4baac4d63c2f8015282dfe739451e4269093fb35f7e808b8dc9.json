@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Twijn Mindmap", "description": "Een 'cloud' mindmap applicatie die gebruikt wordt binnen onderwijscentrum de Twijn", "version": "0.0.0.1", "manifest_version": 2, "icons": {"128": "icon_128.png"}, "app": {"urls": ["http://intranet.detwijn.nl/"], "launch": {"web_url": "http://intranet.detwijn.nl/mindmap"}}}

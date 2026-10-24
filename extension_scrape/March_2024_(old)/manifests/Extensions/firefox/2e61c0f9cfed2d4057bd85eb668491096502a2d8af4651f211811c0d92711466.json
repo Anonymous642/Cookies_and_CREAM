@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Twitch-NIGHT", "version": "0.0.4", "description": "New night mode for Twitch.tv and mini fix ui", "content_scripts": [{"all_frames": true, "css": ["style.css"], "matches": ["*://twitch.tv/*", "*://www.twitch.tv/*"], "run_at": "document_start"}], "icons": {"48": "logo.png"}}

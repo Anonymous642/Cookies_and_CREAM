@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Wrap It In Maroon and White", "description": "Your home for all things Maroon and White", "version": "0.2", "manifest_version": 2, "app": {"background": {"scripts": ["background.js"]}, "local_path": "index.html"}, "icons": {"24": "calculator-16.png", "128": "calculator-128.png"}}

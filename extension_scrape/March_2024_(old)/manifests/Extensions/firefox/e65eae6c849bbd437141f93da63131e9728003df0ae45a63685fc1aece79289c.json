@@ -1,0 +1,1 @@
+{"name": "YouTube Tv", "description": "Enables youtube.com/tv", "manifest_version": 2, "version": "0.1", "browser_specific_settings": {"gecko": {"id": "youtubetv@h43z"}}, "background": {"scripts": ["background-script.js"]}, "permissions": ["webRequestBlocking", "webRequest", "*://*.youtube.com/tv*"]}

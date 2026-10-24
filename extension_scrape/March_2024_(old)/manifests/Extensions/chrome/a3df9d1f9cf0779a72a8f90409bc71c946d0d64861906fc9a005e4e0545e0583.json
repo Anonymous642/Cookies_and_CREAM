@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Netflix Recommendation Explorer", "description": "Add a \"More Info\" button to Netflix \"More Like This\" and Collections recommendations", "version": "0.1", "manifest_version": 3, "content_scripts": [{"matches": ["https://*.netflix.com/*"], "js": ["content.js"]}]}

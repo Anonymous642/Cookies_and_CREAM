@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "__MSG_extensionName__", "short_name": "ttp://", "version": "3.0", "default_locale": "en", "description": "__MSG_extensionDescription__", "icons": {"64": "icon_small.png", "512": "icon.png"}, "permissions": ["activeTab", "contextMenus", "notifications"], "background": {"scripts": ["main.js"]}}

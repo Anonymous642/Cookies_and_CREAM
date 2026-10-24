@@ -1,0 +1,1 @@
+{"name": "No Cookies", "description": "Removes 'Cookie' and 'Set-Cookie' headers.", "version": "1.7", "manifest_version": 2, "permissions": ["webRequest", "webRequestBlocking", "https://*/*", "http://*/*"], "background": {"scripts": ["background.js"]}, "browser_specific_settings": {"gecko": {"id": "{866ed953-3acc-481d-a44b-5d59621675c1}"}}}

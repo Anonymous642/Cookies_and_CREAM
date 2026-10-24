@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "LyricsIT", "description": "Extension to search and find any song lyrics", "version": "1.0.7", "icons": {"16": "icon16.png", "48": "icon48.png", "128": "icon128.png"}, "action": {"default_popup": "../index.html"}, "permissions": ["activeTab", "storage"], "browser_specific_settings": {"gecko": {"id": "{e4e5d47a-49a7-11ee-be56-0242ac120002}"}}}

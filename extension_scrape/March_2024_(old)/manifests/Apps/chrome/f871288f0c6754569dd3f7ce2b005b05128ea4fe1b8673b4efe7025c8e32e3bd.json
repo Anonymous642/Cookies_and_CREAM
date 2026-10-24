@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "\u767e\u5b9d\u888b", "description": "\u8ba9\u4eb2\u6dd8\u5b9d\u66f4\u7701\u94b1", "version": "1.0.5", "manifest_version": 2, "app": {"launch": {"web_url": "http://www.bbaod.com?from=chrome"}}, "icons": {"128": "logo.png"}}

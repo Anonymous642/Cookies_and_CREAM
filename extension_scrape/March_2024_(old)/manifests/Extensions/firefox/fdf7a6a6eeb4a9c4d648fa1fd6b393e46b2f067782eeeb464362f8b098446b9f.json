@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "9gagScroller", "version": "1.0", "description": "Adds a red border to all webpages matching mozilla.org.", "icons": {"48": "9gag.png"}, "content_scripts": [{"matches": ["*://*.9gag.com/*"], "js": ["scroller.js"], "css": ["styles.css"]}]}

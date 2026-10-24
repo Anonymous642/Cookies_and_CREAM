@@ -1,0 +1,1 @@
+{"update_url": "https://clients2.google.com/service/update2/crx", "name": "Weather for today", "version": "1.0.0", "description": "weather for today", "icons": {"16": "icon.png", "32": "icon.png", "48": "icon.png", "128": "icon.png"}, "manifest_version": 3, "author": "Ivan Zabrodin", "action": {"default_popup": "index.html", "default_title": "Weather for today"}}

@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "Private Reddit and Pixiv", "version": "1.1", "description": "Deletes all history traces of reddit and pixiv pages", "background": {"scripts": ["deleter.js"]}, "permissions": ["tabs", "history"]}

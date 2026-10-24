@@ -1,0 +1,1 @@
+{"description": "Create a popup window on YouTube.", "manifest_version": 2, "name": "YouTubePopup", "version": "1.0", "homepage_url": "https://github.com/junmakii/YouTubePopup", "icons": {"48": "icons/border-48.png"}, "content_scripts": [{"matches": ["*://www.youtube.com/watch*"], "js": ["YouTubePopup.js"]}], "applications": {"gecko": {}}}

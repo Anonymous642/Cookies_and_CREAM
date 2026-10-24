@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "ViewPass", "version": "1.0.1", "description": "Show password field text", "icons": {"32": "icons/32.png", "48": "icons/48.png", "64": "icons/64.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["script/showpassword.js"]}], "browser_specific_settings": {"gecko": {"id": "{03f127ed-49a6-4cac-b5f7-bf657311d54a}"}}}

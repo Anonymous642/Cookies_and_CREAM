@@ -1,0 +1,1 @@
+{"manifest_version": 2, "name": "rolltwenty-page-fixer", "version": "1.0", "content_scripts": [{"matches": ["https://app.roll20.net/campaigns/chatarchive/*"], "js": ["pagefixer.js"]}], "browser_specific_settings": {"gecko": {"id": "{9fe2c190-4ba7-4646-84f4-6186b2f77bfd}"}}}
