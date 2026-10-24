@@ -170,9 +170,9 @@ Once again in a separate browser, simply go to the target site, add the received
 
 In this directory, we also include a video (CREAM_demo.mp4) demonstrating the cookie experiment in full against all three sites mentioned in the paper for better clarity/ease of use. 
 
-All songs used in the video were written, recorded, and produced by (msx)[https://msx.horse]. The songs used in order are as follows:
+All songs used in the video were written, recorded, and produced by [msx](https://msx.horse). The songs used in order are as follows:
 
 - Dreamer - Mayhem - Eggs And Other Songs
-- Winter Wyvern (For Katie) - Kitsune^2^ - 8AM
+- Winter Wyvern (For Katie) - Kitsune<sup>2</sup> - 8AM
 - Rescue (REMASTER) - Mayhem - Torpedo Torpedo
 
