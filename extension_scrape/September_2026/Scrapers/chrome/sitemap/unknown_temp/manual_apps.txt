@@ -1,0 +1,7 @@
+DSA Companion, 0, https://chromewebstore.google.com/detail/dsa-companion/ggikobigknjapmebobpegnbkncgofgie
+DevContact, 0, https://chromewebstore.google.com/detail/devcontact/oiiifdghkcnlcioooghdgfjclbknohoa
+Büşra Pırlanta, 5, https://chromewebstore.google.com/detail/b%C3%BC%C5%9Fra-p%C4%B1rlanta/imagedbadhheejfjboelepedbaphamop
+Axeda Data Injector, 12, https://chromewebstore.google.com/detail/axeda-data-injector/fgnnobhmaaeeoclokbaliamcbggponkk
+MKS - Mobiler Kartenleser MSR 120, 0, https://chromewebstore.google.com/detail/mks-mobiler-kartenleser-m/iancjdiombkinomeigcacfmlaplgalmk
+StorageMarket, 14, https://chromewebstore.google.com/detail/storagemarket/cjehaggckieddfmnmociigeaiahdkhid
+
