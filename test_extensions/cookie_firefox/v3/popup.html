@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+    </head>
+    <body>
+        <div id="permissions">
+            <button id="permissionButton" style="width: 185px">Accept Host Permissions</button>
+        </div>
+        <div id="get">
+            <button id="getButton" style="width: 185px; display: none">Get</button>
+        </div>
+        <div id="getAll">
+            <button id="getAllButton" style="width: 185px; display: none">Get All</button>
+        </div>
+        <div id="set">
+            <button id="setButton" style="width: 185px; display: none">Set</button>
+        </div>
+        <div id="remove">
+            <button id="removeButton" style="width: 185px; display: none">Remove</button>
+        </div>
+        <div>
+            <label id=errorMessage style="width: 185px; text-align: center"></label>
+        </div>
+        <div id="formFields">
+            <label id="cookieNameLabel" name="cookieNameLabel" for="cookieName" style="display: none">Name:</label>
+            <input type="text" name="cookieName" id="cookieName" style="display: none">
+            <label id="cookieURLLabel" name="cookieURLLabel" for="cookieURL" style="display: none">URL:</label>
+            <input type="text" name="cookieURL" id="cookieURL" style="display: none">
+            </br>
+            
+            <label id="cookieKeyLabel" name="cookieKeyLabel" for="cookieKey" style="display: none">Partition Key:</label>
+            <input type="text" name="cookieKey" id="cookieKey" style="display: none">
+            <label id="cookieStoreLabel" name="cookieStoreLabel" for="cookieStore" style="display: none">Store ID:</label>
+            <input type="text" name="cookieStore" id="cookieStore" style="display: none">
+            </br>
+            
+            <label id="cookieDomainLabel" name="cookieDomainLabel" for="cookieDomain" style="display: none">Domain:</label>
+            <input type="text" name="cookieDomain" id="cookieDomain"style="display: none">
+            <label id="cookiePathLabel" name="cookiePathLabel" for="cookiePath" style="display: none">Path:</label>
+            <input type="text" name="cookiePath" id="cookiePath" style="display: none">
+            </br>
+                
+            <label id="cookieExpLabel" name="cookieExpLabel" for="cookieExp" style="display: none">Expires:</label>
+            <input type="text" name="cookieExp" id="cookieExp" style="display: none">
+            <label id="cookieValueLabel" name="cookieValueLabel" for="cookieValue" style="display: none">Value:</label>
+            <input type="text" name="cookieValue" id="cookieValue" style="display: none">
+            </br>
+                
+            <label id="cookieSiteLabel" name="cookieSiteLabel" for="cookieSite" style="display: none">Same Site:</label>
+            <select id="cookieSite" name="cookieSite" style="display: none">
+                <option value="no_restriction">No Restriction</option>
+                <option value="lax">Lax</option>
+                <option value="strict">Strict</option>
+            </select>     
+            </br>
+             
+            <label id="cookieSecureLabel" name="cookieSecureLabel" for="cookieSecure" style="display: none">Secure:</label>
+            <input type="checkbox" id="cookieSecure" name="cookieSecure" style="display: none">
+            <label id="cookieHTTPLabel" name="cookieHTTPLabel" for="cookieHTTP" style="display: none">HTTP Only:</label>
+            <input type="checkbox" id="cookieHTTP" name="cookieHTTP" style="display: none">
+            <label id="cookieSessionLabel" name="cookieSessionLabel" for="cookieSession" style="display: none">Session:</label>
+            <input type="checkbox" id="cookieSession" name="cookieSession" style="display: none">
+            </br>
+                
+            <input type="submit" id="cookieSubmit" name="cookieSubmit" style="display: none; width: 185px"">
+        </div>
+        <div id="results" name="results" style="display: none; overflow: scroll"></div>
+        <script src="popup.js"></script>
+    </body>
+</html>

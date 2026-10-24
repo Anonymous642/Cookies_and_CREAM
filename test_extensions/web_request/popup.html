@@ -1,0 +1,35 @@
+<!DOCTYPE HTLM>
+<html>
+    <head>
+        <script src="popup.js"></script>
+    </head>
+    <body>
+        <div id="targetDiv">
+            <label for="targetSite" id="targetLabel" name="targetLabel">Target:</label>
+            <input type=text" id="targetSite" name="targetSite" placeholder="Target URL">
+        </div>
+        </br>
+        <div id="rulesDiv">
+            <div id="beforeSendDiv">
+                <label id="beforeSendLabel" name="beforeSendLabel">onBeforeHeaders:</label>
+                </br>
+                <label for="beforeSendGet" id="beforeSendGetLabel" name="beforeSendGetLabel">Get:</label>
+                <input type="checkbox" id="beforeSendGet" name="beforeSendGet"> 
+                </br>
+            </div>
+            </br>
+            <div id="headersRecievedDiv">
+                <label id="headersReceivedLabel" name="headersReceivedLabel">onHeadersReceivied:</label>
+                </br>
+                <label for="headersReceivedGet" id="headersReceivedLabel" name="headersReceivedGetLabel">Get:</label>
+                <input type="checkbox" id="headersReceivedGet" name="headersReceivedGet"> 
+                </br>
+            </div>
+        </div>
+        </br>
+        <input type="submit" id="saveConf" name="saveConf" value="Add Rule">
+        <div id="outputDiv">
+            <label id="status" name="status"></label>
+        </div>
+    </body>
+</html>

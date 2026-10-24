@@ -1,0 +1,144 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Welcome to the test server</title>
+        <!--We use jquery to make the registration and login requests ajax requests-->
+        <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function(){
+                //  The logic for the registration form 
+                $("#registrationForm").on("submit", function(event){
+                    event.preventDefault();
+                    var missing_vals = "";
+                    
+                    //  Ensure that all fields are filled out
+                    if ($("#firstName").val() === ""){
+                        missing_vals = missing_vals + "First Name ";
+                    }
+                    if ($("#lastName").val() === ""){
+                        missing_vals = missing_vals + "Last Name ";
+                    }
+                    if($("#usernameReg").val() === ""){
+                        missing_vals = missing_vals + "Username ";
+                    }
+                    if($("#passwordReg").val() === ""){
+                        missing_vals = missing_vals + "Password ";
+                    }
+                    
+                    //  Make sure the user actually knows their password
+                    if($("#passwordConf").val() === ""){
+                        missing_vals = missing_vals + "Password Confirmation ";
+                    }
+                    
+                    //  Error reporting
+                    if(!(missing_vals === "")){
+                        $("#status").html("Missing Required Fields: " + missing_vals);
+                        $("#status").css({"color": "red"});
+                    }else if($("#passwordReg").val() != $("#passwordConf").val()){
+                        $("#status").html("Passwords Dont Match");
+                        $("#status").css({"color": "red"});
+                    }else{
+                        //  Issue the ajax registration request
+                        var registrationData = $("#registrationForm").serialize();
+                        $("#registrationForm")[0].reset();
+                        $.post("registration", registrationData).done(function(data){
+                            const message = data.split("-");
+                            
+                            //  Display the returned message
+                            if(message[0].trim() === "Success") {
+                                $("#status").css({"color": "green"});
+                            }else if(message[0].trim() === "Secret") {
+                                $("#status").css({"color": "#E10098"});
+                            }else{
+                                $("#status").css({"color": "red"});
+                            }
+                            $("#status").html(message[1].trim());
+                        });
+                    }    
+                });
+                
+                //  The login form logic
+                $("#loginForm").on("submit", function(event) {
+                    event.preventDefault();
+                    var missing_vals = "";
+                    
+                    //  Ensure the user entered both a username and password 
+                    if ($("#username").val() === ""){
+                        missing_vals = missing_vals + "Username ";
+                    }
+                    if ($("#password").val() === ""){
+                        missing_vals = missing_vals + "Password ";
+                    }
+                    
+                    //  Error reporting
+                    if(!(missing_vals === "")){
+                        $("#loginStatus").html("Missing Required Fields: " + missing_vals);
+                        $("#loginStatus").css({"color": "red"});
+                    }else{
+                        //  Issue the ajax login request
+                        var loginData = $("#loginForm").serialize();
+                        $.post("login", loginData, function(data){
+                            if(data.search("Success") != -1) {
+                                //  Upon succeful authentication redirect to the user's homepage
+                                window.location.href = "/home";
+                            }else{
+                                $("#loginStatus").html("Invalid credentials");
+                                $("#loginStatus").css({"color": "red"});
+                            }
+                        });
+                    }
+                });
+            });
+        </script>
+    </head>
+    
+    <body>
+        <div id="loginStatus"></div>
+        <div id="login">
+            <table>
+                <tr>
+                    <td>Username</td>
+                    <td>Password</td>
+                </tr>
+                <form id=loginForm>
+                    <tr>
+                        <td><input type="text" id="username" name="username" /></td>
+                        <td><input type="password" id="password" name="password" />
+                        </td><td><input type="submit" name="submit" value="login" /></td>
+                    </tr>
+                </form>
+            </table>
+        </div>
+        <div id="infoBox">
+             <br> Welcome to this website... Why did you come here? </br>
+             <div id="status"></div>
+        </div> 
+        <div id="registration">
+            <form id="registrationForm">
+                <table>
+                    <tr>
+                        <td>First Name:</td>
+                        <td><input type="text" name="firstName" id="firstName" /></td>
+                    </tr>
+                    <tr>
+                        <td>Last Name:</td>
+                        <td><input type="text" name="lastName" id="lastName" /></td>
+                    </tr>
+                    <tr>
+                        <td>Username:</td>
+                        <td><input type="text" name="usernameReg" id="usernameReg" /></td>
+                    </tr>
+                    <tr>
+                        <td>Password:</td>
+                        <td><input type="password" name="passwordReg" id="passwordReg" /></td>
+                    </tr>    
+                    <tr>
+                        <td>Confirm Password:</td>
+                        <td><input type="password" name="passwordConf" id="passwordConf" /></td>
+                    </tr>
+                </table>
+                <input type="submit" name="submit" value="Sign Up" />
+            </form>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE HTLM>
+<html>
+    <head>
+        <script src="popup.js"></script>
+    </head>
+    <body>
+        <div id="targetDiv">
+            <label for="targetSite" id="targetLabel" name="targetLabel">Target:</label>
+            <input type=text" id="targetSite" name="targetSite" placeholder="Target URL">
+        </div>
+        </br>
+        <div id="rulesDiv">
+            <label for="request" id="requestLabel" name="requestLabel">Request:</label>
+            <input type="checkbox" id="request" name="request"> 
+            </br>
+            <label for="response" id="responseLabel" name="responseLabel">Response:</label>
+            <input type="checkbox" id="response" name="response"> 
+        </div>
+        </br>
+        <input type="submit" id="saveConf" name="saveConf" value="Add Rule">
+        <div id="outputDiv">
+            <label id="status" name="status"></label>
+        </div>
+    </body>
+</html>

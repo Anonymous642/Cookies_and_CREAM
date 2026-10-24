@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Web Request version 2",
+  "version": "1.1.1",
+  "description": "Where do hooks sit",
+  
+  "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+  "background":{
+    "scripts" : ["background.js"]
+  },
+  "browser_action": {
+    "default_title": "where for art thou chromeo",
+    "default_popup": "popup.html"
+  }
+}

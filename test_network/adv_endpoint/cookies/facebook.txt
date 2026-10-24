@@ -1,0 +1,7 @@
+name: c_user, value: 61576402007835, domain: .facebook.com, path: /, experation: 1780510444.907392, session: false, httpOnly: false, secure: true, sameSite: no_restriction
+name: xs, value: 13%3ARa_afJ8qWgXP5A%3A2%3A1748974442%3A-1%3A-1, domain: .facebook.com, path: /, experation: 1780510444.907708, session: false, httpOnly: true, secure: true, sameSite: no_restriction
+name: presence, value: C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1748974448166%2C%22v%22%3A1%7D, domain: .facebook.com, path: /, experation: undefined, session: true, httpOnly: false, secure: true, sameSite: unspecified
+name: datr, value: MTs_aAfOYD7UvXZeGpY4waSx, domain: .facebook.com, path: /, experation: 1783534387.627501, session: false, httpOnly: true, secure: true, sameSite: no_restriction
+name: oo, value: v1%7C3%3A1748974444, domain: .facebook.com, path: /, experation: 1783534445.262952, session: false, httpOnly: true, secure: true, sameSite: no_restriction
+name: wd, value: 1848x966, domain: .facebook.com, path: /, experation: 1749579517, session: false, httpOnly: false, secure: true, sameSite: lax
+name: sb, value: MTs_aHu7LqaP41-Cm8z60XeU, domain: .facebook.com, path: /, experation: 1783534444.90762, session: false, httpOnly: true, secure: true, sameSite: no_restriction

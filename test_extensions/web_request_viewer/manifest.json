@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Easy Viewer",
+    "version": "1.0.0.3",
+    
+    "permissions": ["webRequest", "http://*/*", "https://*/*"],
+    "background": {
+        "scripts": ["background.js"]
+    }
+}
